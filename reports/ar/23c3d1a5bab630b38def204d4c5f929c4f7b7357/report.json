@@ -1,0 +1,23 @@
+{
+    "filename": "14-03-20-reporte-diario-covid-19_0.pdf",
+    "uri": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/14-03-20-reporte-diario-covid-19_0.pdf",
+    "output": "file.pdf",
+    "downloaded": "2020-03-25T18:24:01+00:00",
+    "headers": {
+        "date": "Wed, 25 Mar 2020 18:24:01 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "54054",
+        "set-cookie": "__cfduid=dad8011eafaaf182d5c57a3bde89df9d61585160641; expires=Fri, 24-Apr-20 18:24:01 GMT; path=\/; domain=.argentina.gob.ar; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Tue, 17 Mar 2020 17:33:11 GMT",
+        "etag": "\"5e7109d7-d326\"",
+        "cf-cache-status": "HIT",
+        "age": "3168",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "579aaa976960f7fa-EZE"
+    },
+    "lang": "es",
+    "size": 54054,
+    "modified": 1584466391
+}

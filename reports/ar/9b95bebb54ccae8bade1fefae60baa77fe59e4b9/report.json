@@ -1,0 +1,23 @@
+{
+    "filename": "15032020-nuevo-coronavirus-covid-19_0.pdf",
+    "uri": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/15032020-nuevo-coronavirus-covid-19_0.pdf",
+    "output": "file.pdf",
+    "downloaded": "2020-03-25T18:24:00+00:00",
+    "headers": {
+        "date": "Wed, 25 Mar 2020 18:24:00 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "182713",
+        "set-cookie": "__cfduid=da856ca2646dfed46fce3c33b0a47166d1585160640; expires=Fri, 24-Apr-20 18:24:00 GMT; path=\/; domain=.argentina.gob.ar; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Tue, 17 Mar 2020 17:33:31 GMT",
+        "etag": "\"5e7109eb-2c9b9\"",
+        "cf-cache-status": "HIT",
+        "age": "1839",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "579aaa94fcaa6837-EZE"
+    },
+    "lang": "es",
+    "size": 182713,
+    "modified": 1584466411
+}

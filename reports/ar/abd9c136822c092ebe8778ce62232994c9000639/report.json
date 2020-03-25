@@ -1,0 +1,23 @@
+{
+    "filename": "9-03-2020-nuevo-coronavirus-covid-19-reporte_diario_0.pdf",
+    "uri": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/9-03-2020-nuevo-coronavirus-covid-19-reporte_diario_0.pdf",
+    "output": "file.pdf",
+    "downloaded": "2020-03-25T18:24:02+00:00",
+    "headers": {
+        "date": "Wed, 25 Mar 2020 18:24:02 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "309493",
+        "set-cookie": "__cfduid=db32660bb5df5327544a4d22bb88317d91585160642; expires=Fri, 24-Apr-20 18:24:02 GMT; path=\/; domain=.argentina.gob.ar; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Tue, 17 Mar 2020 17:31:44 GMT",
+        "etag": "\"5e710980-4b8f5\"",
+        "cf-cache-status": "HIT",
+        "age": "2658",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "579aaaa10e64d7f5-EZE"
+    },
+    "lang": "es",
+    "size": 309493,
+    "modified": 1584466304
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "covid19_informe-diario-matutino-25-03.pdf",
+    "uri": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/covid19_informe-diario-matutino-25-03.pdf",
+    "output": "file.pdf",
+    "downloaded": "2020-03-25T18:23:56+00:00",
+    "headers": {
+        "date": "Wed, 25 Mar 2020 18:23:56 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "249583",
+        "set-cookie": "__cfduid=d9ff6070666872053793dfc9d04fa4d6e1585160636; expires=Fri, 24-Apr-20 18:23:56 GMT; path=\/; domain=.argentina.gob.ar; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Wed, 25 Mar 2020 11:45:15 GMT",
+        "etag": "\"5e7b444b-3ceef\"",
+        "cf-cache-status": "HIT",
+        "age": "1896",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "579aaa7ca9ecd2c4-EZE"
+    },
+    "lang": "es",
+    "size": 249583,
+    "modified": 1585136715
+}
