@@ -40,11 +40,11 @@ Updated: 2020-03-25 15:09 GMT
 
 [View the reports](reports/th/README.md)
 
-## Argentina
+## Uruguay
 
 Sources: 1  
-Files: 12  
-Updated: 2020-03-24 00:12 GMT
+Files: 17  
+Updated: 2020-03-25 20:50 GMT
 
 [View the reports](reports/uy/README.md)
 

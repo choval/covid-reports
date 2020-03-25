@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias"
+ORG=Uruguay
+DOWNLOAD_REGEXP="/href=[\"'](?P<link>\/ministerio-salud-publica\/comunicacion\/noticias\/[^\"']*(coronavirus|covid)[^\"']*)[\"']/U"
+LANG=es

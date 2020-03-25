@@ -1,5 +1,13 @@
-# Argentina
+# Uruguay
 
+
+## 2020-03-25
+
+* [msp-informa-acciones-realizadas-ante-emergencia-covid-19-comision-salud-del](bf6b5d3b9d5ff9cfbc1ae62342a31a27f8ae80bb/file.pdf) @20:50 GMT
+* [actualmente-se-registran-135-casos-coronavirus-covid-19-uruguay](bfacb4747f619dc949443041fa24db31b7fb5b16/file.pdf) @20:50 GMT
+* [informe-situacion-relacion-coronavirus-covid-19-uruguay-22-marzo-2020](e6697403b5b8c09fbfc4e7c2f88695c069871ffb/file.pdf) @20:50 GMT
+* [actualmente-se-registran-162-casos-coronavirus-covid-19-uruguay](8bac425662635dc6b9c20a0c628c186ef1c07129/file.pdf) @20:50 GMT
+* [actualmente-se-registran-189-casos-coronavirus-covid-19-uruguay](372b1b206f6ebff1e22f3719bc3c55eec1b18695/file.pdf) @20:50 GMT
 
 ## 2020-03-24
 
