@@ -3,6 +3,7 @@
 
 ## 2020-03-25
 
+* [tiempos-coronavirus-desafio-para-personas-trastorno-del-espectro-autista-tea](53e48c07505645f937cd64f1c0ab973b9b1c4cb6/file.pdf) @21:40 GMT
 * [msp-informa-acciones-realizadas-ante-emergencia-covid-19-comision-salud-del](bf6b5d3b9d5ff9cfbc1ae62342a31a27f8ae80bb/file.pdf) @20:50 GMT
 * [actualmente-se-registran-135-casos-coronavirus-covid-19-uruguay](bfacb4747f619dc949443041fa24db31b7fb5b16/file.pdf) @20:50 GMT
 * [informe-situacion-relacion-coronavirus-covid-19-uruguay-22-marzo-2020](e6697403b5b8c09fbfc4e7c2f88695c069871ffb/file.pdf) @20:50 GMT

@@ -43,8 +43,8 @@ Updated: 2020-03-25 15:09 GMT
 ## Uruguay
 
 Sources: 1  
-Files: 17  
-Updated: 2020-03-25 20:50 GMT
+Files: 18  
+Updated: 2020-03-25 21:40 GMT
 
 [View the reports](reports/uy/README.md)
 
