@@ -16,6 +16,14 @@ Updated: 2020-03-24 13:41 GMT
 
 [View the reports](reports/au/README.md)
 
+## Bolivia
+
+Sources: 1  
+Files: 6  
+Updated: 2020-03-25 22:55 GMT
+
+[View the reports](reports/bo/README.md)
+
 ## Chile
 
 Sources: 1  
@@ -31,6 +39,14 @@ Files: 8
 Updated: 2020-03-23 10:17 GMT
 
 [View the reports](reports/in/README.md)
+
+## Paraguay
+
+Sources: 1  
+Files: 51  
+Updated: 2020-03-25 21:13 GMT
+
+[View the reports](reports/py/README.md)
 
 ## Thailand
 

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.boliviasegura.gob.bo/categoria/comunicados-oficiales/"
+ORG=Bolivia
+DOWNLOAD_REGEXP="/href=[\"'](?P<link>[^\"']*comunicado-[^\"']*(coronavirus|covid)[^\"']*)[\"']/U"
+LANG=es
