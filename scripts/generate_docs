@@ -1,0 +1,116 @@
+#!/usr/bin/env php
+<?php
+chdir(__DIR__ .'/..');
+
+$summary = [];
+
+$sources = glob('reports/*/*.url');
+foreach ($sources as $source) {
+    echo "Parsing $source\n";
+    $config = parse_ini_file($source);
+    $country_code = basename(dirname($source));
+    $source_name = basename($source);
+    $country = $config['ORG'] ?? $country_code;
+
+    $files = [];
+    $reports = glob(dirname($source).'/*', GLOB_ONLYDIR);
+    $updated = 0;
+    foreach ($reports as $path) {
+        $data = [];
+        $path_file = $path.'/file.pdf';
+        $path_report = $path.'/report.json';
+        if (is_file($path_report)) {
+            $data = json_decode(file_get_contents($path_report), true);
+        } else {
+            $path_file = current( glob($path.'/*') );
+        }
+        $modified = filemtime($path_file);
+        $basename = basename($path_file);
+        $filesize = filesize($path_file);
+        if (empty($data['modified'])) {
+            $data['modified'] = $modified;
+        }
+        if (empty($data['downloaded'])) {
+            $data['downloaded'] = $modified;
+        }
+        if (empty($data['filename'])) {
+            $data['filename'] = $basename;
+        }
+        if (empty($data['output'])) {
+            $data['output'] = $basename;
+        }
+        if (empty($data['size'])) {
+            $data['size'] = $filesize;
+        }
+        if (!is_file($path_report)) {
+            file_put_contents($path_report, json_encode($data, JSON_PRETTY_PRINT));
+        }
+        $path_raw = $path .'/raw.txt';
+        if (!is_file($path_raw)) {
+            exec('pdftotext "'.$path_file.'" - > "'.$path_raw.'"');
+        }
+        $data['path'] = $path_file;
+        if($data['modified'] > $updated) {
+            $updated = $data['modified'];
+        }
+        $files[] = $data;
+    }
+    if (!empty($files)) {
+        $summary[$country_code][] = [
+            'country' => $country,
+            'config' => $config,
+            'files' => $files,
+            'updated' => $updated,
+        ];
+    }
+}
+ksort($summary);
+
+$summary_file = 'countries.md';
+file_put_contents($summary_file, "# Reports\n\n");
+foreach ($summary as $country_code=>$sources) {
+    $updated = 0;
+    $files_count = 0;
+    $country = $sources[0]['country'];
+    foreach ($sources as $source) {
+        if ($source['updated'] > $updated) {
+            $updated = $source['updated'];
+        }
+        $files_count += count($source['files']);
+    }
+    $sources_count = count($sources);
+    $report_file = 'reports/'.$country_code.'/reports.md';
+
+    file_put_contents($summary_file, "## {$country}\n\nSources: {$sources_count}  \nFiles: {$files_count}  \nUpdated: ".gmdate('Y-m-d H:i', $updated). " GMT\n\n[View the reports]({$report_file})\n\n", FILE_APPEND);
+
+
+    file_put_contents($report_file, "# {$country}\n\n");
+    $files = [];
+    foreach ($sources as $source) {
+        foreach($source['files'] as $file) {
+            $files[] = $file;
+        }
+    }
+    usort($files, function($a,$b) {
+        if($a['modified'] == $b['modified']) {
+            return 0;
+        }
+        return ($a['modified'] > $b['modified'] ) ? -1 : 1;
+    });
+
+    $lastdate = 'Unknown';
+    foreach ($files as $file) {
+        $date = gmdate('Y-m-d', $file['modified']);
+        if ($date != $lastdate) {
+            file_put_contents($report_file, "\n## {$date}\n\n", FILE_APPEND);
+            $lastdate = $date;
+        }
+        $filename = str_replace('_', '\_', $file['filename']);
+        $path = str_replace('reports/'.$country_code.'/', '', $file['path']);
+        $timestamp = gmdate('H:i', $file['modified']);
+        file_put_contents($report_file, "* [{$filename}]({$path}) @{$timestamp} GMT\n", FILE_APPEND);
+    }
+
+}
+
+
