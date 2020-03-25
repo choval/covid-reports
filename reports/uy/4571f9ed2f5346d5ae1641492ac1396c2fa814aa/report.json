@@ -1,0 +1,23 @@
+{
+    "filename": "MSP_CORONAVIRUS_PROTOCOLO_SALIDA.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_CORONAVIRUS_PROTOCOLO_SALIDA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168693,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:13 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Fri, 20 Mar 2020 17:57:58 GMT",
+        "etag": "\"123223-5a14d068cd580\"",
+        "accept-ranges": "bytes",
+        "content-length": "1192483",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:13 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 1192483,
+    "modified": 1584727078
+}

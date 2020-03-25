@@ -1,0 +1,23 @@
+{
+    "filename": "ELEPEMconTapa_ok.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/ELEPEMconTapa_ok.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168701,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:21 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Wed, 18 Mar 2020 18:01:04 GMT",
+        "etag": "\"d0e9e-5a124d5ff1693\"",
+        "accept-ranges": "bytes",
+        "content-length": "855710",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:21 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 855710,
+    "modified": 1584554464
+}

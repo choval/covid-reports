@@ -1,0 +1,23 @@
+{
+    "filename": "COMUNICADO%20A%20CONTACTOS%201403.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/COMUNICADO%20A%20CONTACTOS%201403.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168703,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:23 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Sat, 14 Mar 2020 21:40:00 GMT",
+        "etag": "\"2a69f-5a0d76d9b68c6\"",
+        "accept-ranges": "bytes",
+        "content-length": "173727",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:23 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 173727,
+    "modified": 1584222000
+}

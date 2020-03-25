@@ -1,0 +1,23 @@
+{
+    "filename": "04_MSP_COVID_19_FLUJOGRAMA.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/04_MSP_COVID_19_FLUJOGRAMA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168710,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:30 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Wed, 11 Mar 2020 14:45:01 GMT",
+        "etag": "\"db7a7-5a09547f8784b\"",
+        "accept-ranges": "bytes",
+        "content-length": "898983",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:30 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 898983,
+    "modified": 1583937901
+}

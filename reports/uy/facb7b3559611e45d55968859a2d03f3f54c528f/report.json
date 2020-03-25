@@ -1,0 +1,23 @@
+{
+    "filename": "03_MSP_COVID_19_VIGILANCIA_DIAGNOSTICO_FINAL.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/03_MSP_COVID_19_VIGILANCIA_DIAGNOSTICO_FINAL.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168708,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:27 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Wed, 11 Mar 2020 14:44:56 GMT",
+        "etag": "\"985d5-5a09547a81e25\"",
+        "accept-ranges": "bytes",
+        "content-length": "624085",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:27 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 624085,
+    "modified": 1583937896
+}

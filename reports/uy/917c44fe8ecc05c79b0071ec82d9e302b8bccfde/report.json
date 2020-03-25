@@ -1,0 +1,23 @@
+{
+    "filename": "02_MSP_COVID_19_PREVENCION_Y_CONTROL.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/02_MSP_COVID_19_PREVENCION_Y_CONTROL.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168706,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:26 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Wed, 11 Mar 2020 14:44:50 GMT",
+        "etag": "\"12870d-5a09547498772\"",
+        "accept-ranges": "bytes",
+        "content-length": "1214221",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:26 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 1214221,
+    "modified": 1583937890
+}

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/coronavirus-toda-informacion-aqui"
+ORG=Argentina
+DOWNLOAD_REGEXP="/href=[\"'](?P<link>[^\"']+\.pdf[^\"']*)[\"']/U"
+LANG=es

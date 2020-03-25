@@ -1,0 +1,23 @@
+{
+    "filename": "MSP_CORONAVIRUS_PROTOCOLO_ENTRADA.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_CORONAVIRUS_PROTOCOLO_ENTRADA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168698,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:18 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Fri, 20 Mar 2020 17:54:37 GMT",
+        "etag": "\"121d50-5a14cfa91d140\"",
+        "accept-ranges": "bytes",
+        "content-length": "1187152",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:18 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 1187152,
+    "modified": 1584726877
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "MSP_CORONAVIRUS_PROTOCOLO_PERSONAS_RIESGO.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_CORONAVIRUS_PROTOCOLO_PERSONAS_RIESGO.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585168696,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:38:16 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Fri, 20 Mar 2020 17:56:54 GMT",
+        "etag": "\"12263b-5a14d02bc4580\"",
+        "accept-ranges": "bytes",
+        "content-length": "1189435",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 08 Apr 2020 20:38:16 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 1189435,
+    "modified": 1584727014
+}

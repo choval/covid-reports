@@ -40,6 +40,14 @@ Updated: 2020-03-25 15:09 GMT
 
 [View the reports](reports/th/README.md)
 
+## Argentina
+
+Sources: 1  
+Files: 12  
+Updated: 2020-03-24 00:12 GMT
+
+[View the reports](reports/uy/README.md)
+
 ## World Health Organization
 
 Sources: 1  

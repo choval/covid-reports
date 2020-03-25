@@ -1,0 +1,337 @@
+COVID-19
+Vigilancia y diagnóstico laboratorial
+Actualizado al 09 de marzo de 2020.
+
+Contenido
+1. Introducción....................................................................................................................................
+2. Estrategias de vigilancia..................................................................................................................
+2.1 Intensificación de vigilancia centinela......................................................................................
+2.2 Monitoreo de consultas en unidades móviles.........................................................................
+2.3 Vigilancia universal...................................................................................................................
+3. Notificación.....................................................................................................................................
+4. Vigilancia laboratorial.....................................................................................................................
+4.1 Recolección de muestras:.........................................................................................................
+4.2 Procedimiento..........................................................................................................................
+4.3 Ingreso de muestras en E-Lab..................................................................................................
+4.4 Procesamiento, tiempo de respuesta e informe......................................................................
+6. Seguimiento de contactos..............................................................................................................
+Referencias bibliográficas...................................................................................................................
+
+1. Introducción
+En la situación actual, desde el Ministerio de Salud Pública (MSP) se están llevando a cabo
+diferentes estrategias de vigilancia con la finalidad de identificar precozmente casos
+sospechosos de COVID-19 y adoptar oportunamente las medidas de prevención y control.
+Nuestro país realiza en forma regular y sistemática una serie de estrategias de vigilancia para la
+detección oportuna de nuevos agentes causantes de infección respiratoria.
+2. Estrategias de vigilancia
+2.1 Intensificación de vigilancia centinela
+En Uruguay se lleva a cabo una vigilancia centinela de Infección respiratoria aguda grave (IRAG)
+y enfermedad tipo influenza (ETI).
+En el contexto actual, se intensificó esta vigilancia centinela incorporando el estudio de
+coronavirus en las muestras.
+La vigilancia de las infecciones respiratorias se inició en 2010 con el seguimiento de los
+episodios de IRAG, a través de una vigilancia de carácter universal que abarcaba a todos los
+prestadores del país. Desde el año 2015 se simplificó la vigilancia de IRAG, dando lugar a la
+implementación de un sistema de vigilancia centinela con la participación de seis centros de
+salud distribuidos en todo el territorio nacional. Estos centros centinelas de prestadores
+públicos y privados, recogen la información de los pacientes, notifican los casos a través del
+sistema informático de vigilancia de infecciones hospitalarias del MSP y envían muestras
+respiratorias al Departamento de Laboratorios de Salud Pública (DLSP), en donde se realiza el
+diagnóstico virológico. Actualmente, se trata de tres centros ubicados en Montevideo (dos
+públicos y uno privado) y tres en el interior del país (uno público y dos privados). Esta vigilancia
+se realiza durante todo el año.
+En junio de 2017 se implementó el programa de vigilancia de ETI, que se lleva a cabo en los
+mismos centros centinela en donde se realiza la vigilancia de IRAG. La ETI es definida por la
+presencia de fiebre de
+
+38°C o más, acompañada de tos u odinofagia. Puede o no asociarse a
+
+mialgias, cefalea, astenia u otros síntomas habitualmente relacionados con la infección por
+influenza (WHO, 2014). Cada centro colaborador debe enviar al DLSP un máximo de 10
+
+muestras respiratorias (aspirados o hisopado según corresponda) por semana. Esta muestra
+debe ser obtenida de un usuario que cumpla con la definición de ETI y que tenga hasta 5 días de
+iniciado el cuadro clínico.
+2.2 Monitoreo de consultas en unidades móviles
+Esta modalidad de vigilancia tiene como objetivo monitorizar la carga (el número de consultas)
+de infección respiratoria y febril que se realizan en unidades móviles con el fin de detectar un
+posible comportamiento inusual de un evento de importancia para la salud pública. Incluye
+móviles de Montevideo y del interior del país. Debe considerarse que estas consultas no
+cuentan con un registro codificado, ni estandarizado, por lo que representan un dato
+aproximado de la situación de los eventos.
+
+2.3 Vigilancia universal
+
+Un caso sospechoso de COVID-19, se considera un “evento de Salud Pública de importancia
+nacional”, por lo cual es de notificación obligatoria según el Decreto de “Enfermedades y
+eventos sanitarios de notificación obligatoria” (41/012).
+La definición de caso sospechoso actual es la siguiente1:
+
+Criterios clínicos
+
+Criterios epidemiológicos
+
+Fiebre y síntomas o signos de
+enfermedad respiratoria aguda alta y/o
+baja (tos, rinitis, odinofagia, disnea,
+aumento de la frecuencia respiratoria)
+
+Y
+
+Cualquier persona que haya tenido
+contacto cercano* con un caso confirmado
+de COVID-19 en los 14 días previos al inicio
+de los síntomas
+
+Fiebre y síntomas o signos de
+enfermedad respiratoria baja (tos,
+disnea, aumento de frecuencia
+respiratoria) que requiera internación
+
+Y
+
+Historia de viaje a un área afectada** en
+los 14 días previos al inicio de los síntomas
+
+Fiebre con cuadro agudo respiratorio
+bajo (neumonía, síndrome de distrés
+respiratorio agudo) que requiere
+internación en cuidados intensivos, sin
+agente etiológico identificado en los
+estudios de laboratorio realizados
+
+Y
+
+Sin identificación de posible exposición
+
+* Por contacto cercano se entiende por toda persona que permaneció a menos de dos metros
+de un caso confirmado de COVID-19 (se incluye al personal de salud).
+**Área afectada es el país o región donde existe transmisión sostenida de COVID-19. Se
+actualizará según la evolución de la situación epidemiológica.
+
+Fuente: modificado de Centers for Disease Control and Prevention.
+https://emergency.cdc.gov/han/2020/HAN00428.asp
+1
+
+Esta definición de caso es una guía para la orientación del personal del equipo de salud. Cada
+situación será evaluada en conjunto con técnicos del Departamento de Vigilancia en Salud del
+MSP.
+3. Notificación
+Como fue mencionado, un caso sospechoso de COVID-19 constituye un evento de salud pública
+de importancia nacional, siendo por lo tanto un evento de Grupo A (Decreto 41/012) de
+notificación inmediata al sistema de vigilancia ante la sospecha del caso por el medio de
+comunicación más rápido disponible.
+
+La notificación ante todo caso sospechoso debe realizarse en forma inmediata, dentro de las
+primeras 24 hs de la sospecha del caso, al Departamento de Vigilancia en Salud del Ministerio de
+Salud, por alguna de las siguientes vías:
+
+Teléfono: 1934 4010
+Correo electrónico: vigilanciaepi@msp.gub.uy
+Web: www.msp.gub.uy*
+
+*se requiere registro con usuario. Si aún no cuenta con usuario puede solicitarlo al correo electrónico
+vigilanciaepi@msp.gub.uy aclarando su nombre, cédula de identidad, cargo e instituciones en las que trabaja)
+
+Toda confirmación de un caso sospechoso, implicará según el Reglamento Sanitario
+Internacional (RSI) la notificación inmediata a nivel internacional a través de los canales del
+Centro Nacional de Enlace (CNE).
+El CNE es una unidad de “inteligencia” epidemiológica y sanitaria conformada en la Dirección
+General de Salud del MSP, que cumple las funciones de monitoreo, evaluación y notificación a la
+Organización Panamericana de la Salud (OPS), de las emergencias de salud pública de
+importancia internacional que se registren en el país.
+
+4. Vigilancia laboratorial
+El diagnóstico de todo caso sospechoso debe realizarse en el DLSP. La toma y envío de muestras
+al DLSP para confirmación de COVID-19, debe ser acordada previamente con el Departamento
+de Vigilancia en Salud del MSP, al momento de la notificación.
+Una vez acordado con el Sistema de Vigilancia, el estudio del caso, se ingresará la solicitud de
+estudio desde el Sistema E-lab.
+Se recomienda que ante cualquier caso sospechoso los laboratorios realicen, en primer lugar, la
+búsqueda de influenza y otros virus respiratorios (2).
+Las muestras deben ser recolectadas por personal capacitado teniendo en cuenta todas las
+instrucciones de bioseguridad y el equipo de protección personal apropiado para los virus
+respiratorios (1,2).
+La manipulación de estas muestras requiere niveles elevados de seguridad, por lo que todas las
+muestras recolectadas deben ser consideradas como potencialmente infecciosas. Deben
+cumplirse las directrices de bioseguridad y la reglamentación nacional e internacional para el
+transporte de mercancías peligrosas y procesamiento en laboratorio (2).
+4.1 Recolección de muestras:
+
+Materiales necesarios:
+Sobretúnica impermeable
+Tapabocas N95
+Guantes (no se requiere que sean estériles)
+Gafas protectoras
+Tubo con medio de transporte viral líquido (UTMTM)
+Hisopos de dacrón o poliester con varilla de polipropileno Bajalenguas si fuera necesario
+
+4.2 Procedimiento
+
+El personal que va a realizar la recolección debe colocarse EPP: sobretúnica impermeable,
+guantes, lentes protectores y tapabocas N95 ya que se pueden generar aerosoles durante la
+realización de la maniobra.
+Tipos de muestra
+En el caso de adultos y niños mayores de 5 años: realizar hisopado nasofaríngeo más hisopado
+orofaríngeo (de pared posterior de faringe). Ambos hisopos se deben colocar en un único tubo
+con medio de transporte (Figura 2). En caso de niños hasta 5 años: la muestra recomendada es
+el aspirado nasofaríngeo (ANF).
+Podrán eventualmente enviarse otras muestras de acuerdo a la situación clínica del paciente
+(lavado bronquiolo-alveolar o aspirado traqueal).
+Figura 2.
+
+Fuente: Organización Panamericana de la Salud / Organización Mundial de la Salud.
+
+La muestra de ANF o ambos hisopos juntos (nasal y faríngeo) se colocan en el mismo tubo con
+medio de transporte. Algunos hisopos traen un troquelado que permite que se corten para
+poder cerrar la tapa de rosca. En otros casos se deberá cortar con una tijera. El tubo se debe
+rotular con nombre, apellido, fecha de recolección y cédula de identidad del paciente. Se puede
+utilizar la etiqueta que emite el E-Lab al momento del ingreso de la muestra.
+El tubo con los hisopos se debe mantener en forma vertical para que durante la conservación y
+transporte, se mantenga en contacto el medio de transporte líquido con la punta de los hisopos.
+El tubo se debe conservar en la heladera (4-8ºC). Debe llegar al DLSP con la mayor celeridad
+posible.
+Para el envio, se debe utilizar triple envase. Ver figuras 3 y 4.
+Durante todo el transporte y hasta la llegada de la muestra a Recepción de DLSP, se debe
+mantener una temperatura de 4-8ºC. Si no se respeta la cadena de frio, no se puede procesar la
+muestra ya que los resultados pueden verse alterados. No congelar la muestra durante
+almacenamiento y transporte.
+Figura 3. Materiales necesarios para el empaque de muestras.
+
+Fuente: Organización Panamericana de la Salud / Organización Mundial de la Salud. Directrices provisionales de bioseguridad de laboratorio para el
+manejo y transporte de las muestras asociadas al nuevo coronavirus 2019. 29 de enero de 2020. [Internet]. OPS; 2020. Disponible en:
+https://www.paho.org/es/documentos/directrices-provisionales-bioseguridad-laboratorio-para-manejo-transporte-muestras.
+
+Figura 4. Procedimiento de empaque de muestras.
+
+Fuente: Organización Panamericana de la Salud / Organización Mundial de la Salud. Directrices provisionales de bioseguridad de
+laboratorio para el manejo y transporte de las muestras asociadas al nuevo coronavirus 2019. 29 de enero de 2020. [Internet]. OPS;
+2020. Disponible en: https://www.paho.org/es/documentos/directrices-provisionales-bioseguridad-laboratorio-para-manejotransporte-muestras.
+
+4.3 Ingreso de muestras en E-Lab.
+
+La muestra se ingresa en E-Lab con el codigo 712: SARS CoV 2
+Si se realizó la búsqueda de otros virus respiratorios por parte del prestador, se debe informar el
+resultado en el mismo cuadro destinado a los datos clínicos que aparece luego de ingresar la
+cédula del paciente. Asimismo, se puede adjuntar una impresión del resultado.
+4.4 Procesamiento, tiempo de respuesta e informe.
+
+Para el diagnóstico etiológico se utilizan técnicas de detección molecular específicas para SARS
+CoV-2.
+Cuando las muestras recibidas superen la capacidad operativa diaria del DLSP, se dará prioridad
+a las muestras procedentes de pacientes que permanecen internados.
+Los resultados estarán disponibles en un máximo de 72 horas hábiles.
+Si la gravedad del paciente o el número de muestras lo ameritara, se habilitará la Recepción de
+muestras los días sábado y eventualmente domingo. Cuando esto se ponga en funcionamiento,
+será comunicado de forma inmediata a las direcciones técnicas de los prestadores y a los
+usuarios del sistema e-lab.
+5. Vigilancia en Fronteras
+Uruguay cuenta con puntos de entrada designados para el RSI, en los que ha establecido
+capacidades básicas de alerta y respuesta, tanto en situaciones de rutina como emergencia.
+Ello implica el desarrollo de actividades por parte de personal técnico en dichos puntos
+(Aeropuerto Internacional de Carrasco, Aeropuerto de Laguna del Sauce, Puerto de Montevideo
+y Puerto de Nueva Palmira). En el marco de las acciones de control se establecen funciones de
+control de condiciones sanitarias a bordo de medios de transporte que operan en dichos puntos,
+incluida la emisión de certificados de sanidad marítima, control de declaraciones de salud de la
+aeronave y recomendación de medidas de control cuando se requiere.
+
+El personal de vigilancia en fronteras dispuesto en estos puntos de entrada, controla la
+documentación presentada por estos medios de transporte, tanto de carga como de transporte
+de pasajeros y cuenta con el marco normativo necesario para la toma de medidas de salud
+pertinentes de ser necesario.
+Los capitanes de buques y aeronaves deben reportar cualquier evento de salud ocurrido en el
+medio de transporte y comunicarlo por vías pre establecidas a la autoridad sanitaria. En el caso
+de reportar eventos de salud a bordo, el personal técnico de vigilancia en fronteras cuenta con
+procedimientos para la evaluación de dicho evento y para la recomendación de medidas de
+control si corresponden. No es posible el desembarco de un tripulante ni pasajero afectado, sin
+la comunicación y autorización previa de la autoridad sanitaria.
+Los procedimientos técnicos que aplican están amparados en lo establecido en el RSI, y basados
+en recomendaciones técnicas elaboradas por la OMS.
+
+En caso de detectarse la ocurrencia de casos sospechosos a bordo de un medio de
+transporte, aplicarán los procedimientos establecidos, incluidas las medidas de
+protección personal y condiciones de traslado y asistencia, de requerirse.
+El Departamento de Vigilancia en Fronteras comunicará a la guardia epidemiológica la
+ocurrencia de casos sospechosos a bordo de medios de transporte, y activará las acciones
+previstas, de corresponder.
+Las acciones a desarrollar en los puntos de entrada, de requerirse se coordinarán por parte del
+Departamento de Vigilancia en Fronteras, con las autoridades competentes, tales como el
+operador, Dirección Nacional de Aviación Civil, Administración Nacional de Puertos, Ministerio
+de Ganadería, Agricultura y Pesca, Dirección Nacional de Migraciones, u otras, según
+corresponda.
+
+6. Seguimiento de contactos
+Cualquier persona identificada como contacto de caso confirmado deberá ser informada por
+parte del Equipo de Salud del riesgo potencial de aparición de sintomatología.
+
+Ante todo caso confirmado, y hasta que la situación epidemiológica nacional así lo requiera y la
+autoridad sanitaria lo considere oportuno, el sistema de vigilancia iniciará una vigilancia activa
+basada en estrategias previamente establecidas dirigida a la identificación y seguimiento de
+contactos.
+Para ello, es necesario asegurar la contribución del Equipo de Salud en informar la importancia
+de que estas personas deben estar localizables a lo largo del periodo de seguimiento.
+Se considerará contacto a las siguientes personas:
+
+ convivientes de un caso confirmado
+ personas que tuvieron contacto físico directo con un caso (ejemplo: se dieron la mano)
+ contacto directo con secreciones infecciosas (ej: tos en la cara, tocar pañuelo con
+secreciones) de un caso confirmado
+
+ contacto cara a cara a o en un lugar cerrado, menos de 2 metros por al menos 15
+minutos con un caso confirmado
+
+ trabajador de salud que asistió a un caso confirmado
+ tripulación de viaje que asistió en el sector en el que viajó el caso
+ viajeros que fueron contactos de un caso confirmado en algún medio de transporte (se
+evaluará cada caso según características del traslado)
+
+Una vez identificados los contactos, y durante el período que la situación epidemiológica lo
+requiera, se realizará el seguimiento durante 14 días luego de ocurrido el último contacto con el
+caso confirmado. La modalidad de seguimiento se evaluará según el riesgo, las capacidades del
+sistema de vigilancia y la situación epidemiológica.
+Se indicará a todos los contactos el automonitoreo de síntomas (fiebre, tos, dificultad
+respiratoria), frente a los cuales se recomienda la consulta inmediata a un médico y
+comunicarse con el Departamento de Vigilancia en Salud así como limitar al máximo posible el
+contacto con otras personas luego de comenzar los síntomas.
+Asimismo, se les recomendará evitar viajes, concurrencia a lugares cerrados con alto flujo de
+personas así como restringir su actividad social y laboral (4).
+
+El estudio laboratorial de los contactos solo se realizará en caso de identificarse el inicio de
+sintomatología compatible con sospecha de COVID-19.
+Referencias bibliográficas
+
+1.
+
+Organización Panamericana de la Salud / Organización Mundial de la Salud. Actualización
+epidemiológica. Nuevo coronavirus 2019n-CoV. 20 de enero de 2020. [Internet]. 2020
+[cited
+2020
+Jan
+22].
+Available
+from:
+https://www.paho.org/hq/index.php?option=com_docman&view=download&category_
+slug=coronavirus-alertas-epidemiologicas&alias=51355-20-de-enero-de-2020-nuevocoronavirus-ncov-actualizacion-epidemiologica-1&Itemid=270&lang=en
+
+2.
+
+Organización Panamericana de la Salud / Organización Mundial de la Salud. Alerta
+Epidemiológica Nuevo coronavirus ( nCoV ). 16 de enero de 2020. 2020.
+
+3.
+
+Organización Panamericana de la Salud / Organización Mundial de la Salud. Directrices
+provisionales de bioseguridad de laboratorio para el manejo y transporte de las muestras
+asociadas al nuevo coronavirus 2019. 29 de enero de 2020. [Internet]. OPS; 2020.
+Available
+from:
+https://www.paho.org/es/documentos/directrices-provisionalesbioseguridad-laboratorio-para-manejo-transporte-muestras
+
+4.
+
+European Centre for Disease Control and Prevention. Technical Report. Public health
+management of persons, including healthcare workers, having had contact with COVID19 cases in the European Union. 25 February 2020. [Internet]. ECDC; 2020. Available
+from:
+https://www.ecdc.europa.eu/en/publications-data/public-health-managementpersons-including-health-care-workers-having-had-contact
+
+
