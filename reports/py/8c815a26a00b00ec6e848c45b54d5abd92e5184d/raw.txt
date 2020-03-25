@@ -1,0 +1,1815 @@
+Con formato: Fuente: (Predeterminada) Calibri
+
+CORONAVIRUS COVID-19
+Manejo Clínico en Pediatría
+
+Ministerio de Salud Pública y Bienestar Social
+Marzo 2020
+ESTE DOCUMENTO ESTÁ SIENDO REVISADO Y ACTUALIZADO DE FORMA CONTINUA
+EN FUNCIÓN DE LAS EVIDENCIAS QUE VAYAN SURGIENDO Y EN CONSONANCIA CON EL MSPBS
+CONSENSUADO EL 16 DE MARZO DE 2020
+V 4.0
+
+P á g i n a 1 | 38
+
+Autoridades
+Dr. Julio Mazzoleni
+Ministro de Salud Pública y Bienestar Social
+Dr. Julio Rolón
+Viceministro de Salud Pública y Bienestar Social
+Dr. Juan Carlos Portillo
+Director General de Desarrollo de Servicios y Redes de Salud
+Dr. Guillermo Sequera
+Director General de Vigilancia de la Salud
+Dra. Patricia Veiluva
+Directora General de Programas de Salud
+Dra. Doris Royg
+Directora de Coordinación Regiones Sanitarias
+Dr. Hernán Rodríguez
+Director de Vigilancia de Enfermedades Transmisibles
+
+P á g i n a 2 | 38
+
+EQUIPO DE ELABORACIÓN Y REDACCIÓN
+
+Prof.Dr Antonio Arbo
+Prof. Dra. Celia Martínez de Cuellar
+Dra. Dolores Lovera
+Dr. Óscar Merlo
+Dr. Silvio Apodaca
+Dra. Claudia Zárate
+Dr. Nicolás González Perrota
+COLABORADORES
+Dra. Mónica Rodríguez
+Comité de Infectología
+Comité de Terapia Intensiva
+Dra. Tania Samudio
+Dra. Patricia Ovelar
+Dra. Soraya Araya
+Dra. Zully Suárez
+Dra. Miriam Ortigoza
+Dra. Mary Irrazábal
+
+Instituto de Medicina Tropical. MSP y BS
+Instituto de Medicina Tropical. MSP y BS – Facultad de Ciencias Médicas. UNA
+Instituto de Medicina Tropical. MSP y BS
+Instituto de Medicina Tropical. MSP y BS
+Instituto de Medicina Tropical. MSP y BS
+Instituto de Medicina Tropical. MSP y BS
+Instituto de Medicina Tropical. MSP y BS
+Presidenta de la Sociedad Paraguaya de Pediatría
+
+PRONASIDA. MSP y BS
+PRONASIDA. MSP y BS
+Programa Ampliado de Inmunizaciones. MSP y BS
+Dirección de Salud Integral de Niñez y Adolescencia. MSP y BS
+Dirección de Salud Integral de Niñez y Adolescencia. MSP y BS
+Dirección de Salud Integral de Niñez y Adolescencia. MSP y BS
+
+P á g i n a 3 | 38
+
+ÍNDICE
+1.- Introducción
+2.- Virus y vías de transmisión
+3.- Definiciones operativas
+4.- Manejo clínico
+4.1.- Situaciones especiales
+4.1.1.- Recién nacido
+4.1.1.1. Definiciones
+4.1.1.2.- Estudios laboratoriales
+4.1.1.3.- Manejo del recién nacido
+4.1.1.4. Manejo del recién nacido de madre con sospecha o confirmación de COVID-19
+4.2.- Tratamiento
+4.2.1.- Corticoides sistémicos
+4.2.2.- Tratamiento del choque
+4.2.3.- Tratamiento antibiótico
+4.2.4.- Tratamiento antiviral
+4.2.5.- Hidroxicloroquina
+4.3.- Criterios de Alta
+5.- Esquema de Manejo del niño con sospecha o confirmación de COVID-19
+6.- Bibliografía
+Anexos
+
+Página
+5
+6
+6-7
+8 – 19
+16
+16
+16
+16
+16
+16 - 17
+17 – 18
+17
+17
+18
+18
+18
+19
+20
+21
+22 - 31
+
+P á g i n a 4 | 38
+
+1.
+
+INTRODUCCIÓN
+
+Los Coronavirus son una amplia familia de virus que pueden causar diversas afecciones, desde el
+resfriado común hasta enfermedades más graves, como ocurre con el Coronavirus causante del
+Síndrome Respiratorio de Oriente Medio (MERS-CoV) y el Coronavirus que causa el Síndrome
+Respiratorio Agudo Severo (SRAS).
+El 31 de diciembre de 2019, autoridades de Salud de Wuhan (provincia de Hubei, China) informaron
+sobre un conglomerado de 27 casos de neumonía de etiología desconocida con inicio de síntomas el
+8 de diciembre, incluyendo siete casos graves, vinculados por la exposición común a un mercado
+mayorista de marisco, pescado y animales vivos en la ciudad de Wuhan. El mercado fue cerrado el
+día 1 de enero de 2020.
+El 7 de enero de 2020, las autoridades chinas identificaron un nuevo virus de la familia Coronaviridae,
+como agente causante del brote. Fue denominado “nuevo coronavirus”, 2019-nCoV. La secuencia
+genética fue compartida por las autoridades chinas el 12 de enero. Posteriormente la Organización
+Mundial de la Salud ha denominado al cuadro con las siglas COVID-19 y al virus como coronavirus 2
+asociado a síndrome de dificultad respiratoria (SARS-CoV-2). El SARS-CoV-2 es una nueva cepa de
+coronavirus que no se había encontrado antes en el ser humano. Desde el inicio del brote, además
+del incremento explosivo de casos en China, progresivamente se han observado progresión de la
+enfermedad fuera de ese país, adquiriendo para el momento del presente reporte las características
+de una diseminación pandémica.
+A la fecha (24de marzo) se han confirmado 414.277 casos de COVID-19, con 18.557
+muertos. En nuestro país el primer caso confirmado fue reportado el 7 de marzo y con un
+total actual de 37 casos confirmados y 3 muertes secundarias a la COVID-19.
+
+P á g i n a 5 | 38
+
+2.
+
+Virus y formas de transmisión
+
+2.1. Virus SARS - CoV-2
+El grupo de estudio de Coronavirus del Comité Internacional de Taxonomía de Virus propusieron
+designar al virus causante de la actual pandemia como Virus del Síndrome Respiratorio Agudo Severo
+por Coronavirus 2 (SARS - CoV-2). El SARS - CoV-2 es un betacoronavirus del mismo subgénero que
+el virus del Síndrome Respiratorio Agudo Severo (SARS).
+2.2. Formas de transmisión
+La transmisión es de persona a persona por gotas (>5 µg), cuando una persona infectada tose,
+estornuda o habla. Estas gotas pueden infectar al entrar en contacto con las mucosas. Además, la
+transmisión puede ocurrir por contacto, es decir, cuando una persona toca superficies contaminadas
+y lleva posteriormente sus manos a la boca, nariz u ojos. Es importante resaltar que la trasmisión
+podría ocurrir ya durante el periodo de incubación o desde personas infectadas pero asintomáticas.
+2.3.- Periodo de Incubación
+El periodo de incubación de la COVID-19 es de 14 días luego de la exposición. La mayoría de los
+casos ocurren dentro de los 4 a 5 días luego de la exposición.
+
+3.
+
+Definiciones operativas
+
+2.1.- Definición de casos
+
+
+Caso a Investigar: Se investigará a toda persona proveniente de zonas de riesgo
+(Transmisión localizada)
+
+
+
+Caso Sospechoso: Toda persona con enfermedad respiratoria aguda (Fiebre y al menos un
+signo o síntoma de enfermedad respiratoria: Tos o dificultad respiratoria), Y con historia de
+viaje o residencia en los países o territorios que reportan trasmisión localizada de COVID-19,
+en los 14 días previos al inicio de síntomas.
+O
+
+
+
+Cualquier persona con enfermedad respiratoria aguda y que esté o haya estado en contacto
+estrecho con un caso sintomático confirmado o probable en los 14 días previos a la aparición
+de síntomas.
+P á g i n a 6 | 38
+
+Durante esta fase, además se investigará:
+Toda persona que presente una Infección Respiratoria aguda Grave y se encuentre hospitalizada
+en UCI en uno de los Centros Centinelas
+Se define contacto estrecho como:
+Cualquier persona que haya participado en cualquiera de las siguientes actividades:
+
+Brindar atención directa sin el equipo de protección personal (EPP) adecuado
+para pacientes con COVID-19.
+
+
+Permanecer en el mismo entorno cercano de un paciente COVID-19 (incluido el
+lugar de trabajo, el aula, el hogar, las reuniones).
+
+
+
+Viajar juntos en estrecha proximidad (1 m) con un paciente con COVID-19 en
+cualquier tipo de transporte dentro de un período de 14 días después del inicio
+de los síntomas en el caso bajo consideración
+
+B. Criterios clínicos
+
+
+Caso Probable: caso sospechoso cuyos resultados de laboratorio para SARS-CoV-2 son no
+concluyentes o solo son positivos para una prueba genérica de coronavirus.
+
+
+
+Caso Confirmado: Toda persona con confirmación por PCR de screening positiva y PCR de
+confirmación en un gen alternativo al de screening también positiva para SARS-CoV-2.
+
+
+
+Caso Descartado: caso en investigación cuyas pruebas de laboratorio resultan negativas
+para detección del SARS-CoV-2.
+
+C. Criterio de laboratorio
+1. PCR de screening positiva y PCR de confirmación en un gen alternativo al de screening
+también positiva.
+
+P á g i n a 7 | 38
+
+4.
+
+MANEJO CLÍNICO
+
+En base a la información disponible, la incidencia de la COVID-19 en niños es menor a la de los
+adultos, representando el 2 % de los casos confirmados, siendo la sintomatología más leve y la
+letalidad menor.
+El cuadro clínico varía desde cuadros leves, de vías respiratorias altas a cuadros severos: disnea, tos
+o dolor de garganta y/o fiebre hasta un cuadro de neumonía grave con sepsis. A la fecha no se han
+descrito alteraciones analíticas y radiográficas específicas en población infantil afectada por la COVID19. En relación a otras enfermedades virales causantes de infecciones respiratorias agudas, las
+alteraciones que se han descrito más frecuentemente se describen en la Tabla 1
+
+Tabla 1. Síndromes clínicos asociados a la infección por el nCoV-2019.
+
+Enfermedad leve
+
+Infección leve de
+vías aéreas
+inferiores1
+
+Infección severa
+de vías aéreas
+inferiores
+(Neumonía
+Severa)2
+
+ Pacientes con infección viral del tracto respiratorio superior no complicada,
+con síntomas inespecíficos; fiebre, tos, dolor de garganta, congestión nasal,
+decaimiento, cefalea y dolores musculares.
+ No existen signos de deshidratación, sepsis o dificultad respiratoria.
+ Tos, dificultad respiratoria con taquipnea, pero sin signos de gravedad clínica
+o neumonía severa.
+ Criterios de taquipnea (en respiraciones / min):
+- < 2 meses ≥60 RPM
+- 2–11 meses, ≥50 RPM
+- 1–5 años, ≥40 RPM
+- Adolescentes > 30 RPM
+ Saturación ambiental >92%.
+ Pueden o no tener fiebre
+Tos o dificultad respiratoria y al menos uno de los siguientes:
+ Cianosis central o SaO2 <92% (<90% en prematuros)
+ Dificultad respiratoria severa: quejido, aleteo nasal, tiraje supraesternal,
+retracción torácica severa o disociación toraco-abdominal.
+ Incapacidad o dificultad para alimentación.
+ Disminución del estado de conciencia, letargo o pérdida de conocimiento o
+convulsiones.
+ Taquipnea severa (en respiraciones/min):
+- ≥70 rpm en menores de 1 año;
+- ≥50 rpm en mayores de 1 año.
+ Gasometría arterial:
+- PaO2 < 60 mmHg,
+- PaCO2 > 50 mmHg.
+ El diagnóstico es clínico; las imágenes de radiografía de tórax pueden excluir
+complicaciones (atelectasias, infiltrados, derrame).
+P á g i n a 8 | 38
+
+Otras
+manifestaciones
+asociadas a
+cuadros graves
+
+Síndrome de
+distrés
+respiratorio
+agudo (SDRA) 3
+
+Sepsis4
+
+Choque séptico5
+
+1.
+2.
+3.
+
+4.
+5.
+
+ Trastornos de la coagulación (tiempo prolongado de protrombina y elevación
+de dímero-D), daño miocárdico (aumento de enzimas miocárdicas, cambios
+de ST-T en el electrocardiograma, cardiomegalia e insuficiencia cardíaca),
+insuficiencia renal, disfunción gastrointestinal, elevación de enzimas
+hepáticas y rabdomiólisis.
+ Inicio: cuadro clínico nuevo o empeoramiento del cuadro en los 10 días
+previos.
+ Rx tórax, TC o ECO: Nuevo(s) infiltrado(s) uni/bilaterales compatibles con
+afectación aguda del parénquima pulmonar.
+ Origen del edema pulmonar: insuficiencia respiratoria en ausencia de otra
+etiología como fallo cardiaco (descartado por ecocardiografía) o sobrecarga
+de volumen.
+ Oxigenación (OI = Índice de oxigenación y OSI = Índice de oxigenación
+usando SpO2):
+- VNI bilevel o CPAP ≥5 cmH2O a través de una máscara facial completa:
+PaO2 / FiO2 ≤ 300 mmHg o SpO2 / FiO2 ≤264
+- SDRA leve (ventilación invasiva): 4 ≤ OI < 8
+5 ≤ OSI < 7.5
+- SDRA moderado (ventilación invasiva): 8 ≤ OI <16 7.5 ≤ OSI < 12.3
+- SDRA grave (ventilación invasiva): OI ≥ 16
+OSI ≥ 12.3
+ Infección sospechada o comprobada y ≥ 2 criterios de SIRS, de los cuales
+uno debe ser temperatura anormal o recuento leucocitario anormal (los otros
+2 criterios son taquipnea y taquicardia o bradicardia en < 1 año).
+ Es grave si presenta disfunción cardiovascular, SDRA o >= 2 disfunciones del
+resto de órganos.
+ Sospecha de infección (puede tener hipotermia o hipertermia) y presentar
+signos de hipoperfusión periférica como hipotensión (PAS < percentil 5 o > 2
+DE por debajo de lo normal para la edad) o 2-3 de los siguientes:
+- estado mental alterado;
+- taquicardia o bradicardia (FC <90 lpm o> 160 lpm en lactantes
+- FC <70 lpm o > 150 lpm en niños);
+- lleno capilar lento (> 2 segundos)
+- piel caliente vasodilatada con pulsos saltones;
+- taquipnea;
+- piel moteada o erupción petequial o purpúrica;
+- lactato aumentado,
+- oliguria.
+ Si requiere drogas vasoactivas para mantener una tensión arterial y perfusión
+adecuadas tras una correcta expansión de volumen.
+
+Equivalente a neumonía leve de la OMS.
+Equivalente a neumonía grave de la OMS. SIRS: Síndrome de respuesta inflamatoria sistémica.
+VNI: ventilación no invasiva, PAS: presión arterial sistólica, DE: desviación estándar. FC: frecuencia cardiaca.
+Khemani RG, Smith LS, Zimmerman JJ; et al. Pediatric Acute Respiratory Distress Syndrome: Definition, Incidence,
+Epidemiology: Proceedings from Pediatric Acute Lung Injury Consensus Conference. Pediatr Crit Care Med 201;16(Suppl
+5);523-40.
+Goldstein B, Giroir B, Randolph A, International Consensus Conference on Pediatric Sepsis. International pediatric sepsis
+consensus conference: definitions for sepsis and organ dysfunction in pediatrics. Pediatr Crit Care Med 2005; 6:2-8.
+Davis AL, Carcillo JA, Aneja RK, et al. American College of Critical Care Medicine Clinical Practice Parameters for
+Hemodynamic Support of Pediatric and Neonatal Septic Shock. Crit Care Med 2017; 45:1061-93.
+
+P á g i n a 9 | 38
+
+Las manifestaciones observadas en el niño son muy variadas (Tabla 2).
+Tabla 2. Alteraciones clínicas, laboratoriales y radiológicas posibles
+en la enfermedad respiratoria viral aguda en la edad pediátrica
+Leves
+Graves
+Una semana después malestar,
+irritabilidad, rechazo de
+alimentación, hipoactividad. En
+Fiebre (no siempre presente), tos,
+algunos casos progresión rápida
+Cuadro clínico
+congestión nasal, rinorrea,
+(1-3 días) fallo respiratorio no
+expectoración, diarrea, cefalea
+reversible con oxígeno, shock
+séptico, acidosis metabólica,
+coagulopatía y sangrados.
+Leucocitos normales o leucopenia y
+Hemograma
+Linfopenia progresiva
+linfopenia leve
+Normal o elevada (sospechar
+Proteína C reactiva Normal
+sobreinfección bacteriana)
+PCT > 0.5 ng/mL (sospechar
+Procalcitonina
+Normal
+sobreinfección bacteriana)
+Elevación de transaminasas,
+enzimas musculares, mioglobina,
+Bioquímica
+Normal
+dímero D, coagulopatía, urea o
+creatinina.
+Opacidades bilaterales en vidrio
+Normal o infiltrados periféricos
+esmerilado y consolidaciones
+Radiografía de tórax
+intersticiales
+pulmonares múltiples. Derrame
+pleural infrecuente.
+Acorde a otros cuadros es
+Acorde a otros cuadros es
+esperable Patrón B difuso,
+esperable: normal, patrón B7, línea
+Líneas B coalescentes, patrón
+Ecografía
+pleural regular o consolidación
+consolidación alveolar ,
+subpleural en cuadrantes
+irregularidad línea pleural,
+posteriores
+con/sin derrame pleura
+Las imágenes en vidrio esmerilado
+Pueden aparecer múltiples
+TAC de tórax
+y los infiltrados son más evidentes
+consolidaciones lobares
+en el TC que en la radiografía
+Observación: Incubación 2-14 días (mediana 3-7 días). Recuperación en 1-2 semanas.
+.
+
+P á g i n a 10 | 38
+
+El personal de atención médica debe atender a los pacientes en una sala de aislamiento de infecciones
+transmitidas por el aire. Las precauciones estándar, las precauciones de contacto y las precauciones
+aerotransportadas con protección para los ojos deben usarse cuando se atiende al paciente (ANEXO
+1).
+Los pacientes con una presentación clínica leve pueden no requerir inicialmente hospitalización. Sin
+embargo, los signos y síntomas clínicos pueden empeorar con la progresión a la enfermedad del tracto
+respiratorio inferior en la segunda semana de la enfermedad. Todos los pacientes deben ser
+monitoreados de cerca.
+La decisión de monitorear a un paciente en el entorno de pacientes hospitalizados o ambulatorios
+debe tomarse caso por caso. Esta decisión dependerá no solo de la presentación clínica, sino también
+de la capacidad del paciente para participar en el monitoreo, el aislamiento en el hogar y el riesgo de
+transmisión en el entorno del hogar del paciente, para ello se han definido cuatro escenarios para el
+manejo del paciente con sospecha de COVID-19. Para definir los escenarios se debe contestar cuatro
+preguntas clave.
+Las preguntas claves en la evaluación de un caso probable de COVID-19
+A) ¿Tiene cuadro compatible con COVID-19?
+B) ¿Tiene algún factor de riesgo para complicaciones?
+C) ¿Tiene signos de alarma?
+D) ¿Está en insuficiencia respiratoria o tiene trastorno del sensorio o inestabilidad hemodinámica?
+
+Escenario 1 - Grupo A
+A
+B
+C
+D
+
+¿Tiene cuadro compatible con COVID-19?
+¿Tiene algún factor de riesgo?
+¿Tiene signos de alarma?
+¿Tiene insuficiencia respiratoria o trastorno del sensorio o inestabilidad hemodinámica?
+
+SÍ
+NO
+NO
+NO
+
+P á g i n a 11 | 38
+
+Grupo A – Manejo y tratamiento de pacientes con Sospecha de COVID-19
+
+
+
+
+
+
+
+
+
+
+Manejo ambulatorio en el hogar
+Aislamiento estricto durante 14 días
+Educación a los responsables acerca de los síntomas de alarma
+Fiebre: Paracetamol 15 mg/kg cada 6 Hs
+Asegurar hidratación adecuada
+Los lactantes deben continuar con leche materna, la madre debe usar mascarilla quirúrgica
+No usar salicilatos en menores de 18 años
+Control médico si la fiebre persiste por 72 Hs o más
+Explicar a los padres o responsables lo siguiente: Si el paciente presenta dificultad para
+respirar, dolor de pecho, esputo con sangre, dificultad para alimentarse, confusión o
+somnolencia “debe regresar urgentemente al centro asistencial
+
+Escenario 2 - Grupo B : Pacientes con Factores de Riesgo
+A
+B
+C
+D
+
+¿Tiene cuadro compatible con COVID-19?
+¿Tiene algún factor de riesgo?
+¿Tiene signos de alarma?
+¿Tiene insuficiencia respiratoria o trastorno del sensorio o inestabilidad hemodinámica?
+
+SÍ
+SÍ
+NO
+NO
+
+Grupo B – El paciente debe ser hospitalizado en el hospital de referencia
+en aislamiento estricto o puede ser enviado a su domicilio con control
+médico domiciliario diario
+Factores de riesgo para complicaciones en COVID-19
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edad ≤ 1 año
+Enfermedad crónica o debilitante
+Cardiopatías
+Enfermedad respiratoria crónica
+Diabetes mellitus
+Cáncer
+Desnutrición
+Condiciones con depresión inmunológica
+Insuficiencia renal crónica
+Enfermedad neuromuscular
+Obesidad
+Circunstancias sociales tales como vivir muy distante de la unidad de salud sin medio de
+transporte confiable
+
+P á g i n a 12 | 38
+
+Grupo B - Manejo y tratamiento de pacientes con sospecha de COVID -19
+
+
+
+
+
+
+
+
+
+
+
+
+
+Presencia de uno o más factores de riesgo de complicaciones
+Condiciones de hospitalización: aislamiento en sala individual. Si esto no es posible,
+ingresarlo a una sala designada para cuadros respiratorios con separación de dos metros
+entre las camas. El paciente y el cuidador deberán usar mascarillas quirúrgicas, se
+recomienda un solo cuidador por paciente
+Laboratorio: Hemograma, plaquetas, PCR, glicemia, urea, creatinina, GOT, GPT, valorar
+Hemocultivo
+Rx de Tórax en caso de tos persistente
+Líquidos vía oral (supervisado)
+Si no tolera la vía oral o bebe poco líquido, hidratar por vía intravenosa a dosis de
+mantenimiento, excepto si está deshidratado
+Fiebre: Paracetamol 15 mg/kg cada 6 Hs
+Tratamiento con Oseltamivir durante 5 días, a las siguientes dosis:
+- Menor de 1 año a 3 mg/kg/dosis dos veces al día
+- 1 año o mayor la dosis varía según el peso 15 kg o menos: 30 mg dos veces al día
+- Mayor de 15 a 23 kg administrar 45 mg dos veces al día
+- Mayor de 23 a 40 kg: administrar 60 mg dos veces al día
+- Mayor de 40 kg 75 mg: dos veces al día
+Re-evaluación diaria de la evolución clínica
+Si durante la re-evaluación se detectan signos de alarma pasa a Grupo C
+
+Escenario 3 – Grupo C: Con signos de Alarma
+A
+B
+C
+D
+
+¿Tiene cuadro compatible con COVID-19?
+¿Tiene algún factor de riesgo?
+¿Tiene signos de alarma?
+¿Tiene insuficiencia respiratoria o trastorno del sensorio o inestabilidad hemodinámica?
+
+SÍ
+SÍ/NO
+SÍ
+NO
+
+Grupo C – El paciente debe ser hospitalizado en el hospital regional o de
+referencia en aislamiento estricto
+
+Signos de Alarma:
+
+
+
+
+
+
+
+Dificultad para respirar
+Hipoxemia: saturación de O2 < 94% respirando aire ambiental
+Deshidratación o rechazo alimentario (en lactantes)
+Dificultad para alimentarse
+Confusión o somnolencia
+Dolor de pecho
+P á g i n a 13 | 38
+
+Grupo C - Tratamiento de pacientes con sospecha de COVID-19
+
+
+
+
+
+
+
+Nivel de atención: Aislamiento respiratorio y de contacto.
+Condiciones de hospitalización: Aislar individualmente al paciente. Cuando esto no sea
+posible, reunir a varios pacientes con el mismo diagnóstico, en la misma sala, un solo cuidador
+a cargo del paciente con las medidas de protección
+Laboratorio
+- Hemograma, plaquetas, glicemia, urea, creatinina, GOT, GPT, Electrolitos, Proteína
+C reactiva, enzimas cardiacas en los casos con dolor de pecho, crasis sanguínea
+- Gasometría arterial o saturación de O2
+- Toma de muestra para determinación de virus respiratorios, PCR para COVID-19
+- Hemocultivo
+- Rx de tórax
+- Valorar ecocardiografía (en pacientes con cardiopatía previa)
+Tratamiento
+- Hidratación de mantenimiento (ANEXO 2)
+- O2 si la saturación de O2 es menor a 94 +
+• En bigotera si se requiere 2 litros/min de oxígeno o menos
+• En mascarilla si se requiere >2 litros/min de oxígeno
+- Iniciar Oseltamivir si tiene menos de 48 Hs de fiebre, por 5 días o hasta la
+confirmación de COVID-19
+- En caso de sibilancias: salbutamol en aerocámara
+- En caso de Fiebre: Paracetamol 15 mg/kg (hasta 500 mg) cada 6 Hs
+- Si hay sospecha de neumonía bacteriana, iniciar antibiótico (Ver Anexo)
+- Se podría considerar el inicio de Lopinavir/ritonavir por vía oral, si se cumplen las
+condiciones del APARTADO TRATAMIENTO ESPECIAL.
+- Monitoreo de la función respiratoria
+
+Escenario 4 - Grupo D: Con Insuficiencia Respiratoria
+A
+B
+C
+D
+
+¿Tiene cuadro compatible con COVID-19?
+¿Tiene algún factor de riesgo?
+¿Tiene signos de alarma?
+¿Tiene insuficiencia respiratoria o trastorno del sensorio o inestabilidad hemodinámica?
+
+SÍ
+SÍ/NO
+SÍ
+SÍ
+
+Grupo D – El paciente debe ser hospitalizado en hospital de referencia
+que disponga Unidad de Cuidados Intensivos en aislamiento estricto
+
+P á g i n a 14 | 38
+
+Tratamiento de pacientes con sospecha de COVID-19 - Grupo D
+Grupo D: Se incluyen pacientes con:
+•
+•
+•
+•
+•
+•
+•
+
+Evidencia clínica de dificultad respiratoria grave:
+- Quejido espiratorio, retracción generalizada, cianosis central, aleteo nasal, cabeceo
+Incapacidad para alimentarse
+Incapacidad de mantener una Sa O2 > 92%, con aporte de oxígeno de >60%
+PaO2/FiO2 < 250
+Necesidad clínica de ARM
+Inestabilidad hemodinámica
+Trastorno del sensorio
+
+Nivel de atención: En una Unidad de Cuidados Intensivos
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Laboratorio:
+– Hemograma, PCR, Urea, Creatinina, Glicemia, GOT, GPT, Electrolitos, Crasis sanguínea
+– Gasometría arterial
+– Investigación de rabdomiólisis: CK-Aldolasa-LDH
+– Enzimas cardíacas
+– Dímero D
+– Rx de Tórax
+– Ecocardiografía
+Tratamiento: Iniciar el tratamiento en el primer lugar de atención, estabilizar la vía aérea antes
+del traslado, si tiene inestabilidad hemodinámica iniciar las medidas pertinentes, comunicar a
+SEME
+Hospitalizar en UTI en aislamiento respiratorio y de contacto
+Monitoreo minuto a minuto
+Hidratación de mantenimiento (ANEXO 2)
+– Ventilación mecánica invasiva precoz: La ventilación no invasiva no se recomienda por
+un mayor riesgo de contaminación por aerosoles
+Iniciar Oseltamivir (dosis, ver ANEXO 1) por vía oral por al menos 5 días o hasta la confirmación
+de COVID-19
+Si hay infiltrado pulmonar sugerente de complicación bacteriana, iniciar antibiótico (Ver Anexo)
+Se podría iniciar tratamiento con Lopinavir/ritonavir +/- hidroxicloroquina si se cumple con las
+condiciones del APARTADO TRATAMIENTO ESPECIAL
+Corregir acidosis, hipoglicemia, hipocalcemia
+En caso de choque, expansión con suero fisiológico 20 ml/kg en bolo; repetir tres veces o más
+Si no hay mejoría, inicie inotrópicos
+– Adrenalina 0.05-2 ug/kg/minuto o noradrenalina.
+Si persisten los signos de choque valorar:
+– Insuficiencia cardiaca por miocardiopatía
+– Sepsis bacteriana
+
+P á g i n a 15 | 38
+
+INDICACIONES PARA INGRESO A UCIP – MANEJO CLÍNICO EN UCI
+
+Insuficiencia respiratoria clínica (quejido respiratorio, moderada a importante dificultad para respirar,
+aleteo nasal, cabeceo) o gasométrica (paFiO2≤ 175 con O2 por máscara de O2 con reservorio) que
+requiera IOT, además de imagen radiológica con infiltrado intersticial uni o bilateral.
+Inestabilidad hemodinámica que requiera o no IOT
+Trastorno del sensorio que requiera IOT
+Preparación del ventilador
+Usar ramas sin humidificación activa y en caso de usar ramas con humidificación activa, las trampas
+deben estar funcionantes, para mantener siempre el circuito cerrado. Hay que evitar las desconexiones
+en lo máximo.
+Colocar filtros antibacterianos en la rama exhalatoria de todos los respiradores, independiente a la
+marca
+Usar filtro antibacteriano y humidificador pasivo en todos los niños de ser posible, excepto en los
+lactantes menores y RN en los cuales se deberá utilizar la humidificación activa con los cuidados
+necesarios para disminuir los riesgos de contaminación.
+Utilizar frasco reservorio desechable de aspiración al vacío.
+Preparación del paciente
+No nebulizar para no aerosolizar
+Compensar la hemodinamia, en caso de choque
+Expansión con SF0,9% a 20 ml por kilo hasta 3 veces o más, controlando mejoría de los signos de
+perfusión periférica o aparición de signos de sobrecarga derecha, índice de shock, y/o guiando con
+mediciones ecográficas ( índice vena cava/aorta)
+Si no hay mejoría, iniciar drogas inotrópicas (fallo de bomba) de preferencia
+Adrenalina a dosis inotrópicas 0.1 a 0.3 gammas
+Dopamina ≤ 10 gammas
+Milrinona 0.35 gammas y titular
+Si persiste la hipotensión a pesar de la compensación de la bomba cardiaca con las medidas
+instauradas considerar uso de vasopresor noradrenalina o vasopresina.
+Seguir mediciones ecoguiadas y de signos clínicos
+P á g i n a 16 | 38
+
+Uso de bicarbonato para corregir acidosis metabólica en caso de que el pH ≤7.20
+Controlar y corregir disturbios del medio interno, como hipocalcemia, hipoglicemia, hipopotasemia.
+No retrasar el inicio de diuréticos o medidas de reemplazo renal en caso de instaurarse la injuria renal
+temprana (aproximadamente 24 Hs)
+Técnica de intubación sin VPP
+Preoxigenar con O2 de alto flujo a través de la máscara con reservorio o ventilación de alto flujo. No
+utilizar VNI
+Administrar atropina en caso de ser lactante menor, luego sedación, analgesia y relajación (sin falta).
+Una vez que el paciente se relaje, se procede a través de laringoscopia directa o videolaringoscopia
+a visualizar la laringe e introducir el tubo. Aspiración abierta solo si es imprescindible.
+Técnica de intubación con VPP
+Realizar el procedimiento como mínimo entre 4 personas (solo para esta situación), 2 se encargan del
+bolseo, 1 hace el sellado de la máscara con ambas manos y la otra se encarga de manejar la bolsa.
+La última persona, que debe ser la más entrenada para minimizar el tiempo de exposición y números
+de intentos, se encarga de la intubación, 1 enfermera para administrar medicación y pasar los
+instrumentales.
+Colocar filtro antibacteriano entre la máscara y la bolsa y la salida de la bolsa al reservorio
+Administrar atropina en caso de ser lactante menor, luego sedación y analgesia, además de relajación,
+mientras se realiza ese procedimiento se debe oxigenar con el flujo de O2 más alto a través de
+máscara de O2 con reservorio, el bolseo debe ser en volúmenes adecuados sin hiperventilar y
+evitando fugas.
+Monitorizar constantes vitales en todo momento, mantener SO2 lo más alta posible para luego, cuando
+el paciente se encuentre en apnea proceder a la intubación orotraqueal y comprobación de la posición
+del tubo.
+
+P á g i n a 17 | 38
+
+Manejo de la ventilación mecánica
+Utilizar la modalidad en la cual el profesional se encuentre más acostumbrado, ya sea V/C o P/C, sin
+que eso signifique dejar de medir los datos de la mecánica pulmonar (volumen exhalado, presión
+meseta siempre en V/C y, en P/C en caso de que el flujo de aire no llegue a 0, autopeep, calcular
+presión drive)
+Utilizar parámetros de protección pulmonar SIEMPRE
+Vol tidal aprox 6 ml/ k por el peso ideal
+PEEP inicial 15 cmH20, luego manejar según complianza
+FR adecuado para la edad, controlando siempre en curva de flujo / volumen que el flujo llegue a 0
+Presión meseta menor a 30
+Presión drive menor a 15
+Calcular complianza
+Utilizar estrategias de hipercapnia permisiva siempre que el pH sea alrededor de 7,20, independiente
+al valor de la pCO2
+Utilizar como maniobra de reclutamiento alveolar LA POSICIÓN PRONO, SIEMPRE. Cuando no
+se pueda lograr paFio2 mayor a 150, tras 1 hora de manejo con peep de 15 o antes cuando se
+sobrepasa presión drive de 15 con parámetros protectivos.
+Se podría utilizar maniobra de reclutamiento escalonada como prueba de reclutabilidad del pulmón,
+ante la falta de tomografía por impedanciometria, si no resulta exitosa la maniobra no volver a repetir
+
+P á g i n a 18 | 38
+
+4.1.- Situaciones especiales
+4.1.1.- Recién nacidos
+4.1.1.1.- Definiciones
+Caso sospechoso de COVID-19: son recién nacidos sospechosos de COVID-19, aquellos nacidos
+de madres con historia de infección por el SARS-CoV-2 entre 14 días antes y 28 días después del
+parto, o aquellos expuestos a personas infectadas con el SARS-CoV-2, (incluyendo miembros de la
+familia, cuidadores, miembros del staff médico o visitas), presenten o no síntomas.
+Caso confirmado de COVID-19: la infección con el SARS-CoV-2 se confirma con la presencia de uno
+de los siguientes criterios:
+Aislamiento del SARS-CoV-2 en muestras de secreciones respiratorias o sangre por Reacción
+de Polimerasa en Cadena en tiempo real (RT-PCR)
+ Determinación del SARS-CoV-2 por secuenciamento viral en muestras de secreciones
+respiratorias.
+
+
+4.1.1.2.- Estudios laboratoriales
+Los estudios laboratoriales que deben realizarse en los recién nacidos incluyen Hemograma, Proteína
+C Reactiva y detección del SARS-CoV-2 por RT-PCR.
+4.1.1.3.- Manejo del recién nacido:
+
+
+
+Todo caso sospechoso o confirmado en un recién nacido debe ser hospitalizado.
+Debe realizarse monitoreo de: frecuencia cardiaca, frecuencia respiratoria, saturación de
+Oxígeno, temperatura, presión arterial, glicemia y aparición de síntomas gastrointestinales.
+
+P á g i n a 19 | 38
+
+4.1.1.4.- Recién nacidos de madres con sospecha o confirmación de COVID-19
+Los recién nacidos de madres infectadas con COVID-19 son en su mayoría bebés prematuros y, en
+base a la similitud entre 2019-nCoV y SARS, en el manejo intraparto se debe evaluar conjuntamente
+las condiciones maternas y fetales y elegir el mejor momento, modo y lugar para el parto:
+
+
+
+
+
+
+
+
+
+
+Todo el equipo, incluyendo obstetras, pediatras, anestesiólogos y personal de enfermería
+deben usar equipo de protección (máscaras, batas enterizas, delantal impermeable, máscaras
+N95, guantes).
+Para reducir el riesgo de transmisión vertical de SARS-CoV-2, se recomienda el clampado
+inmediato del cordón umbilical.
+Evitar el contacto con la madre luego del parto (apego).
+Llevar al recién nacido inmediatamente a una sala para realizar la atención inmediata. La
+reanimación de los recién nacidos debe realizarse conforme a las normas de reanimación
+neonatal (NRP).
+La limpieza del quirófano, sala de parto y la sala donde se atendió al recién nacido debe
+limpiarse conforme a las normas de higiene hospitalaria para COVID-19.
+El niño permanecerá aislado de la madre durante 14 días.
+La lactancia materna debe suspenderse en recién nacidos o lactantes hijos de madres con
+sospecha o confirmación de COVID-19 por lo menos durante 14 días o hasta que se
+documente desaparición del virus.
+
+4.2.- Apartado: Tratamiento específico en investigación para COVID.19
+ No existe actualmente evidencia procedente de ensayos clínicos controlados para recomendar un
+tratamiento específico para el coronavirus SARS-CoV-2 en pacientes con sospecha o confirmación
+de COVID-19. No obstante, esta información podría cambiar rápidamente debido a los resultados
+de varios ensayos clínicos en marcha.
+ Los tratamientos con medicamentos en investigación deberían ser administrados solo en el
+contexto de ensayos clínicos aprobados por el Comité de Ética o en el marco del uso de
+medicamentos en situaciones especiales, con estricta monitorización clínica y con la firma del
+consentimiento informado por parte del padre, la madre o el tutor.
+
+P á g i n a 20 | 38
+
+4.2.1- Tratamiento antiviral
+Existen argumentos para la utilización del Lopinavir/ritonavir:
+-
+
+-
+
+Tiene actividad in vitro frente a Coronavirus.
+Su perfil de seguridad e interacciones son ampliamente conocidas en el tratamiento del VIH.
+Junto con Interferón α-2b inhalado es el tratamiento recomendado en China para pacientes
+con neumonía por COVID-19.
+Se ha administrado en monoterapia a los 99 pacientes descritos por Nanshan et al (2020)
+durante 3 a 14 días y existen ensayos clínicos en curso para COVID-19 en China incluyendo
+infecciones leves con Lopinavir/ritonavir en monoterapia (ChiCTR2000029387,
+ChiCTR2000029539) y en combinación con Interferón alfa2b (ChiCTR2000029308).
+Hay experiencia clínica en el tratamiento del SARS.
+Este tratamiento combinado con ribavirina redujo el riesgo de distrés y la muerte comparado
+con rivavirina sola.
+
+El tratamiento Lopinavir/ritonavir (LPV/r) se podrá considerar en niños del Escenario 3 (Grupo C) y en
+niños del Escenario 4 (Grupo D). Tiene con cierta frecuencia efectos adversos gastrointestinales
+durante el tratamiento: diarrea, vómitos, cefalea. Puede producir aumento de los triglicéridos y
+colesterol sérico. Se debe evitar el uso de LPV/r en bebés prematuros (nacidos 1 mes o más antes
+de la fecha prevista de parto) hasta 14 días después de su fecha de parto o en bebés de término hasta
+14 días de edad.
+En el país tenemos 3 presentaciones pediátricas. La presentación jarabe debe mantenerse refrigerada
+Ver dosificación en el ANEXO 5.
+4.2.2.- Hidroxicloroquina:
+El tratamiento con hidroxicloroquina (3 – 5 mg/Kp/día en 1 o 2 dosis por 10 días) se podría valorar en
+niños del grupo C y D.
+Las reacciones adversas más frecuentes (1-10% pacientes) son los trastornos gastrointestinales
+(náuseas, vómitos), disminución del apetito, cefalea, alteración de la visión (visión borrosa), que
+desaparecen al interrumpir el tratamiento.
+
+4.2.3.- Corticoides sistémicos
+ Los corticoides sistémicos no están recomendados de forma general. Estudios previos en
+pacientes con SARS, MERS e incluso gripe han demostrado que no tienen efectos beneficiosos en
+incluso se ha retrasado el aclaramiento del virus.
+ Se puede valorar en casos de SDRA, shock séptico, encefalitis, síndrome hemofagocítico y cuando
+exista un broncoespasmo franco con sibilancias.
+P á g i n a 21 | 38
+
+4.3.- Tratamiento del choque
+ Si persiste una presión arterial media igual o inferior a 65 mm Hg a pesar de la administración de
+líquidos, deben administrarse vasopresores.
+ En persistencia de shock después de 24 horas debe valorarse la administración de hidrocortisona
+para el tratamiento de una posible insuficiencia suprarrenal asociada.
+ Actualmente se recomienda tanto en la fase inicial como en el seguimiento de la resucitación, la
+valoración ecocardiográfica.
+ En caso de persistencia de shock y si se comprueba disfunción miocárdica asociada se aconseja
+administrar dobutamina.
+44.- Tratamiento antibiótico
+ Los antibióticos no están recomendados de entrada, aunque en función de la clínica, el laboratorio
+o los resultados microbiológicos podrían estar indicados, especialmente en casos graves en
+investigación, donde no se pueda descartar otra etiología, sepsis asociada o sospecha de
+sobreinfección bacteriana. En función de la evolución de los parámetros clínicos, laboratoriales y
+microbiológicos se debe desescalar el tratamiento antibiótico iniciado.
+ En neumonía bacteriana utilizar tratamiento antibiótico empírico según ANEXO 4. La primera dosis
+se administrará lo antes posible.
+
+4.5 Criterios de alta
+ Los casos en investigación en los que se descarte COVID-19 se guiarán por los criterios clínicos
+habituales, como: ausencia de fiebre por 24 – 48 Hs, ausencia de distrés respiratorio, mejoría
+del estado clínico (bienestar general, apetito, hemodinamia estable, buena diuresis) y ausencia
+de requerimiento de fluidos intravenosos
+ En los casos confirmados de COVID-19, además del criterio clínico para el alta médica, será
+necesario demostrar la negativización de las muestras del tracto respiratorio para finalizar el
+aislamiento. Para ello, será necesario obtener dos resultados de PCR negativo en dos muestras
+respiratorias obtenidas con una separación mínima de 24 Hs entre ellas tras la finalización de
+los síntomas. Una vez obtenidos los resultados, se procederá al alta de acuerdo con las
+autoridades correspondientes de Salud Pública, recomendando mantener el periodo de
+aislamiento
+ En términos generales no se requerirá negativización del virus en otras muestras, como orina o
+heces, para el alta del paciente. Esto debe tenerse en cuenta a la hora de establecer las
+medidas higiénicas recomendadas al alta.
+
+P á g i n a 22 | 38
+
+6. Esquema de manejo COVID-19
+Caso sospechoso de COVID-19: Persona que presente síntomas respiratorios (fiebre más uno de los siguientes síntomas: tos y/o dolor de garganta o dificultad respiratoria), y que cuente con alguno de los
+siguientes antecedentes: a) Contacto con caso confirmado o bajo investigación de COVID–19 o b) Viaje o estancia a países con transmisión local comunitaria de COVID-19.
+Caso confirmado de COVID-19: Persona que cumpla con la definición de caso sospechoso y que cuente con diagnóstico confirmado por laboratorio emitido por el MSPBS.
+
+Grupo A
+¿Tiene cuadro compatible con COVID-19?
+¿Tiene algún factor de riesgo?
+¿Tiene signos de alarma?
+¿Tiene insuficiencia respiratoria o trastorno
+del sensorio o inestabilidad hemodinámica?
+
+SÍ
+NO
+NO
+NO
+
+Manejo y tratamiento
+ Manejo ambulatorio (excepto < 1 año)
+ Aislamiento estricto
+ Educación a los responsables acerca de los
+síntomas de alarma
+ Fiebre: Paracetamol 15 mg/kg cada 6 Hs
+ Asegurar hidratación adecuada
+ Los lactantes deben continuar con leche
+materna (la madre debe usar mascarilla y
+lavarse las manos antes y después de dar
+el pecho o tacar el lactante)
+ Control médico si la fiebre persiste 72 Hs
+ Explicar a los padres o responsables lo
+siguiente: Si el paciente presenta dificultad
+para respirar, dolor de pecho, esputo con
+sangre, dificultad para alimentarse,
+confusión o somnolencia debe regresar
+urgentemente al centro asistencial, aunque
+no hayan pasado las 24 horas para su
+control”
+
+Grupo B
+¿Tiene cuadro compatible con COVID-19?
+¿Tiene algún factor de riesgo?
+¿Tiene signos de alarma?
+¿Tiene insuficiencia respiratoria o trastorno
+del sensorio o inestabilidad hemodinámica?
+
+SÍ
+SÍ
+NO
+NO
+
+Factores de riesgo:
+Edad ≤ 1 año
+Cardiopatías
+Enfermedad respiratoria crónica
+Condiciones con depresión inmunológica
+(cáncer, diabetes mellitus)
+ Desnutrición
+ Insuficiencia renal crónica
+ Enfermedad neuromuscular
+ Circunstancias sociales
+Manejo y tratamiento:
+ Hospitalización en sala individual o cohorte
+ Laboratorio:
+Hemograma,
+plaquetas,
+glicemia, urea, creatinina, GOT, GPT
+ Rx de Tórax en caso de tos persistente
+ Líquidos vía oral (supervisado)
+ Si no tolera la vía oral o bebe poco líquido,
+hidratar por vía intravenosa a dosis de
+mantenimiento, excepto si está deshidratado
+ Fiebre: Paracetamol 15 mg/kg cada 6 Hs
+ Re-evaluación diaria de la evolución clínica
+ Si durante la re-evaluación se detectan
+signos de alarma pasa a Grupo C
+
+
+
+
+
+Oseltamivir: (en los grupos B, C y D).
+Antibiótico: (Grupo C: cefotaxima + clindamicina), (Grupo D: Cefotaxima + Vancomicina)
+Grupo C y D: se podría valorar el uso de Lopinavir/ritonavir con o sin Hidroxicloroquina,
+únicamente si se realiza bajo protocolo de investigación autorizado por Comité de ética y tras
+el consentimiento informado de los padres.
+
+Grupo C
+¿Tiene cuadro compatible con COVID-19? SÍ
+¿Tiene algún factor de riesgo?
+SÍ/NO
+¿Tiene signos de alarma?
+SÍ
+¿Tiene insuficiencia respiratoria o trastorno NO
+del sensorio o inestabilidad hemodinámica?
+
+Grupo D
+¿Tiene cuadro compatible con COVID-19?
+SÍ
+¿Tiene algún factor de riesgo?
+SÍ/NO
+¿Tiene signos de alarma?
+SÍ
+¿Tiene insuficiencia respiratoria o trastorno SÍ
+del sensorio o inestabilidad hemodinámica?
+
+Pacientes que presentan:
+• Quejido espiratorio, retracción generalizada,
+cianosis central, aleteo nasal, cabeceo
+• Incapacidad para alimentarse
+• Incapacidad de mantener una Sa O2 > 92%,
+con aporte de O2 de >60%
+• PaO2/FiO2 < 250
+• Necesidad clínica de ARM
+• Inestabilidad hemodinámica
+• Trastorno del sensorio
+
+Criterios de gravedad:
+Quejido o tiraje
+ Hipoxemia: saturación de O2 < 94%
+ Taquipnea:
+< 2 meses ≥60 rpm
+2–11 meses, ≥50 rpm
+1–5 años, ≥40 rpm
+>5 años > 30 RPM
+ Deshidratación o rechazo alimentario
+ Dificultad para alimentarse
+ Confusión o somnolencia
+
+
+Manejo y tratamiento:
+ Hospitalización en sala individual o cohorte
+ Laboratorio: Hemograma, glicemia, urea,
+creatinina, GOT, GPT, electrolitos,
+gasometría, enzimas cardiacas, crasis
+sanguínea, determinación de influenza A y B,
+PCR para COVID–19, Hemocultivo.
+ Rx de Tórax, TAC, Ecocardiografia
+ Hidratación parenteral
+ Fiebre: Paracetamol 15 mg/kg cada 6 Hs
+ Sibilancias: salbutamol en aerocámara
+- Sospecha de neumonía bacteriana,
+iniciar antibiótico
+- Monitoreo de la función respiratoria
+
+
+
+Manejo y tratamiento:
+ Hospitalización: Unidad de Cuidados Intensivos
+ Laboratorio: HMG, glicemia, urea, creatinina,
+GOT, GPT, electrolitos, gasometría, enzimas
+cardiacas, crasis sanguínea, procalcitonina,
+dímero D, determinación de influenza A y B, PCR
+para COVID – 19, Hemocultivo.
+ Rx de Tórax, TAC si es posible, Ecocardiografia
+ Hidratación parenteral
+ Fiebre: Paracetamol 15 mg/kg cada 6 Hs
+ Sibilancias: salbutamol en aerocámara
+ Sospecha de neumonía bacteriana, iniciar ATB.
+ Corregir medio interno
+Choque: expansión. valorar adrenalina o
+noradrenalina
+P á g i n a 23 | 38
+ Si persisten los signos de choque valorar:
+Insuficiencia cardiaca por miocardiopatía y/o
+sepsis bacteriana.
+
+6.- Bibliografía
+1.- Documento técnico. Manejo clínico de pacientes con enfermedad por el nuevo coronavirus (COVID-19).
+Ministerio de Salud de España. Marzo 2020.
+2.-Uptodate 2020. file:///C:/Users/zheli/Downloads/Coronavirus%20disease%202019%20(COVID-19)%20%20UpToDate%20(1).pdf.
+3.- Chinese expert consensus on the perinatal and neonatal management for the prevention and control of the 2019
+novel coronavirus infection (First edition).
+4. Documento técnico Prevención y control de la infección en el manejo de pacientes con COVID-19. Febrero 2020.
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCovChina/documentos/Documento_Control_Infeccion.pdf
+5. Wei Xia MD, Jianbo Shao MD, Yu Guo MD, Xuehua Peng MD, Zhen Li MD, Daoyu Hu MD. Clinicaland CT features
+in pediatric patients with COVID‐19 infection: Different points from adults. Pediatric Pulmonology. 2020;1–6.
+6.- CONSENSO PROVISORIO DE TRATAMIENTO FARMACOLOGICO DE LA INFECCION POR SARS-CoV-2.
+SOCIEDAD ARGENTINA DE INFECTOLOGIA.
+7. Normas nacionales de tratamiento antirretroviral en niños 2017. Pronasida- Ministerio de Salud Publica y Bienestar
+Social. 2017-2018
+
+8 Zhi‐Min Chen1 · Jun‐Fen Fu1 · Qiang Shu1 · Ying‐Hu Chen1 · Chun‐Zhen Hua1 ·
+Fu‐Bang Li1 · Ru Lin1 · Lan‐Fang Tang1 · Tian‐Lin Wang1 · Wei Wang1 · Ying‐Shuo Wang1 ·
+Wei‐Ze Xu1 · Zi‐Hao Yang1 · Sheng Ye1 · Tian‐Ming Yuan1 · Chen‐Mei Zhang1 ·
+Yuan‐Yuan Zhang1. Diagnosis and treatment recommendations for pediatric respiratory
+infection caused by the 2019 novel coronavirus. Children’s Hospital, Zhejiang University School
+of Medicine, National Clinical Research Center for Child Health, National Children’s Regional
+Medical Center, Hangzhou 310052, China.
+9.Recomendaciones
+para
+el
+manejo del
+con la infección
+por
+SARS-CoV-2. Versión 4.1
+Española de
+Neonatología. Marzo 2020.
+
+recién nacido en
+relación
+Fecha 16/03/2020. Sociedad
+
+10.ALLATTAMENTO e INFEZIONE da SARS-CoV-2 (Coronavirus Disease 2019 - COVID-19)
+.Indicazioni ad interim della Società Italiana di Neonato. Febrero 2020
+11.Información sobre la enfermedad por coronavirus 2019: Embarazo y Lactancia. Centro de
+Control de Enfermedades. Fecha: 14 de marzo de 2020.
+12.Coronavirus (COVID-19).Infection in Pregnacy.Royal of Obstetrician&Gy.Información para
+profesionales de la salud.9 de marzo 2020.Página:22.
+13.Manejo Clínico de La infección respiratoria Aguda grave presuntamente causada por el
+nuevo coronavirus (2019-nCoV). Orientaciones provisionales.28 de enero 2020.Organización
+Mundial de la Salud.
+
+P á g i n a 24 | 38
+
+P á g i n a 25 | 38
+
+ANEXO 1
+Medidas de precaución en la atención de pacientes con sospecha de COVID-19
+ambulatorios y hospitalizados
+
+1.- Medidas dirigidas a la prevención y control de la infección
+Los Coronavirus son virus con envuelta lipídica que se transmiten principalmente por vía respiratoria
+en gotas de más de 5 micras y por el contacto directo con las secreciones respiratorias. Algunos
+procedimientos que generan aerosoles pueden incrementar el riesgo de transmisión del coronavirus.
+Las siguientes recomendaciones de prevención y control de la infección se basan en el escenario
+actual en el que se desarrolla la infección por SARS-CoV-2 y en la última información disponible.
+1.1. Medidas generales de información y actuación dirigidas a pacientes para prevenir las
+infecciones
+ Colocar carteles informativos a la entrada de los centros sanitarios y en las salas de espera sobre
+higiene de manos, higiene respiratoria y etiqueta de la tos.
+ Colocar alcohol gel, toalla de manos y basureros con tapa de apertura con pedal, al ingreso de
+los establecimientos de salud, para la higiene de manos e higiene respiratoria.
+ Disponer en las zonas de espera alcohol gel, toallas descartables y basureros de residuos con
+tapa de apertura con pedal para su eliminación, para que los pacientes puedan hacer higiene de
+manos.
+
+1.2.- Medidas generales dirigidas a la protección de la salud de los trabajadores
+Se tendrán en cuenta las siguientes consideraciones para los trabajadores sanitarios y no sanitarios
+que entren en contacto con el paciente o su entorno:
+
+
+
+
+
+Reducir al mínimo posible el número de personal de salud y personal de servicios generales
+en contacto directo con pacientes con sospecha o enfermedad por SARS-CoV-2.
+Evitar la exposición del personal de salud y de servicios generales que tienen las siguientes
+condiciones: >60 años, patologías de base (asma y otras enfermedades pulmonares crónicas,
+diabetes mellitus, condiciones de inmunosupresión, enfermedad cardiovascular, medicación
+inmunosupresora, embarazo o lactancia)
+Los contactos ocurridos dentro de una institución sanitaria y, en particular, el personal de salud
+y administrativo, dedicados a la atención de estos pacientes o expuestos a entornos
+P á g i n a 26 | 38
+
+
+
+probablemente contaminados por el virus, deben recibir información, formación y
+entrenamiento adecuado y suficiente, basados en todos los datos disponibles, incluyendo el
+conocimiento del modo de transmisión, los riesgos potenciales para la salud, las instrucciones
+sobre las precauciones que deberá tomar en relación a los mismos, las disposiciones en
+materia de higiene, particularmente la observación de las medidas de protección respiratoria
+e higiene de manos en todo momento, la utilización y empleo de ropa y equipos de protección
+individual, y las medidas que deberán adoptar en el caso de incidentes y para la prevención
+de estos, así como el control y reconocimiento de los síntomas asociados a la infección para
+la puesta en marcha de medidas dirigidas a evitar la transmisión de la infección.
+Los trabajadores no dedicados a la atención de pacientes con COVID-19 y no expuestos a
+entornos probablemente contaminados por el virus (seguridad, limpieza, administración,
+celadores, hostelería) deberán, asimismo, recibir información y formación sobre la prevención
+de la infección.
+
+1.3. Minimizar la posibilidad de exposición a virus respiratorios en las zonas de urgencias
+
+
+
+
+
+
+
+
+
+Ante cualquier paciente que acude a un centro sanitario con sintomatología de infección
+respiratoria se le ofrecerá una mascarilla quirúrgica.
+Si el paciente, además de clínica de infección respiratoria, cumple un criterio epidemiológico
+de sospecha de infección por Coronavirus COVID-19, se considerará caso en investigación y
+será conducido a la habitación o box de aislamiento. La persona que le acompañe deberá
+colocarse también una mascarilla quirúrgica.
+Si se sospecha que el paciente va a requerir procedimientos con riesgo de generar aerosoles
+(intubación endotraqueal, lavado broncoalveolar, inducción del esputo, ventilación manual) se
+le atenderá en una habitación o box de uso individual con baño, con ventilación natural o
+climatización independiente. La puerta de la habitación deberá permanecer siempre cerrada.
+Se publicará información visual (carteles, panfletos, etc.) en lugares estratégicos para
+proporcionar a los pacientes las instrucciones sobre higiene de manos, higiene respiratoria y
+tos.
+Se dispondrá en estas zonas de dispensadores con preparados de base alcohólica, toallas
+desechables y contenedores de residuos, con tapa de apertura con pedal, para la higiene de
+manos e higiene respiratoria.
+
+P á g i n a 27 | 38
+
+1.4.- Hospitalización del paciente
+
+
+
+
+
+
+
+
+
+
+
+El ingreso hospitalario de casos en investigación deberá ser notificado de forma urgente al
+MSP y BS y a la Región Sanitaria correspondiente.
+De forma general, los casos probables y confirmados deberían ser ingresados en un hospital
+en aislamiento de contacto y por gotas.
+Se atenderá al paciente en una habitación de uso individual con baño, con ventilación natural
+o aire acondicionado independiente. Si no es posible, reunir a varios pacientes con el mismo
+diagnóstico en la misma sala. La puerta de la habitación deberá permanecer siempre cerrada.
+Para el traslado a la habitación de ingreso se le colocará al paciente una mascarilla quirúrgica.
+El profesional que traslade al paciente también llevará colocada una mascarilla quirúrgica.
+Durante el traslado se cubrirá la cama del paciente con una sábana limpia que se colocará en
+una bolsa cerrada herméticamente y señalizada.
+Se restringirán las visitas de familiares durante el tiempo que el paciente tenga indicación de
+aislamiento y deberán cumplir las precauciones de aislamiento requeridas.
+Se evitará que el paciente realice salidas innecesarias de la habitación. De ser posible, se
+realizarán todas las exploraciones en la propia habitación.
+En caso de requerir ser trasladado a cualquier otra dependencia:
+- Se le colocará al paciente una mascarilla quirúrgica. El profesional que le acompañe
+deberá colocarse también una mascarilla quirúrgica.
+- Se cubrirá la cama del paciente con una sábana limpia que posterior a su uso deberá
+colocarse en una bolsa impermeable herméticamente cerrada y deberá ser remitida a
+la lavandería para su lavado conforme a la normativa vigente.
+
+1.5. Traslado del paciente en ambulancia
+
+
+
+
+En caso de que se precise el traslado del paciente al hospital, éste se hará en una ambulancia
+con la cabina del conductor físicamente separada del área de transporte del paciente.
+El personal que intervenga en el traslado deberá ser capacitado y deberá utilizar equipo de
+protección individual (EPI).
+La limpieza y desinfección de la ambulancia se hará de acuerdo con los procedimientos
+habituales de la empresa. A los trabajadores encargados de la limpieza se les facilitarán los
+EPI necesarios.
+
+1.6. Aislamiento domiciliario
+
+
+
+Aquellos casos que no requieran internación deberán ser remitidos a sus hogares para
+aislamiento domiciliario estricto, previa comunicación y notificación al MSP y BS.
+Se debe asegurar previamente que tanto el paciente como sus familiares son capaces de
+aplicar de forma correcta y consistente las medidas básicas de higiene, prevención, y control
+de la infección.
+
+P á g i n a 28 | 38
+
+1.7.- Higiene de manos
+
+
+
+
+
+
+
+La higiene de manos es la medida principal de prevención y control de la infección. Deberá
+realizarse, según la técnica correcta (Figura 1) y siempre en cada uno de los siguientes
+momentos (Figura 2):
+1. Antes del contacto con el paciente.
+2. Antes de realizar una técnica aséptica.
+3. Después del contacto con fluidos biológicos.
+4. Después del contacto con el paciente.
+5. Después del contacto con el entorno del paciente.
+Además, se realizará higiene de manos antes de colocarse el equipo de protección individual
+y después de su retirada.
+Si las manos están visiblemente limpias la higiene de manos se hará con productos de base
+alcohólica; si estuvieran sucias o manchadas con fluidos se hará con agua y jabón antiséptico.
+El haber utilizado guantes no exime de realizar la correcta higiene de manos tras su retirada.
+Las uñas deben llevarse cortas y cuidadas, evitando el uso de anillos, pulseras, relojes de
+muñeca u otros adornos.
+
+1.8. Equipo de protección individual (EPI)
+ El personal que tome las muestras clínicas, atienda o traslade a casos en investigación,
+probables o confirmados o las personas que entren en la habitación de aislamiento, deberán
+llevar un equipo de protección individual para prevenir la transmisión de la infección.
+ En los casos de pacientes menores o pacientes que requieran acompañamiento, el
+acompañante deberá adoptar las medidas necesarias para su protección mediante la
+utilización de equipos de protección individual adecuados.
+ El equipo de protección individual se colocará antes de entrar en la habitación. Una vez
+utilizado se eliminará dentro de la habitación con excepción de la protección respiratoria que
+se retirará fuera de la misma. Se realizará una correcta higiene de manos después de retirar
+el equipo de protección. Los EPI desechables se deben colocar en los contenedores
+adecuados y deben ser tratados como residuos infecciosos.
+
+P á g i n a 29 | 38
+
+Bata
+
+Protección
+respiratoria
+
+Equipo de Protección Individual
+ Colóquese una bata resistente a líquidos antes de entrar a la habitación.
+ En caso de que se prevea que se van a generar grandes cantidades de secreciones o
+fluidos se podrá utilizar una bata impermeable.
+ Retírese la bata dentro de la habitación y elimínela en un contenedor de residuos de clase
+III con tapa de apertura con pedal.
+Mascarilla quirúrgica
+Debe usar mascarilla quirúrgica (mascarilla común)
+
+El personal de salud que atiende al paciente.
+
+El personal, que ayuda al traslado del paciente a otra área del hospital (radiología,
+traslado a otra sala etc.)
+
+El personal de limpieza de las salas, donde exista pacientes con sospecha o
+confirmación del virus.
+
+El conductor, durante el traslado de pacientes en ambulancias.
+
+Todo paciente con síntomas y signos respiratorios
+
+Todo paciente que es trasladado a otra área del hospital o durante el traslado en
+ambulancias.
+
+El familiar que acompaña al paciente
+Quiénes deben usar mascarilla N95
+1. Únicamente el personal de salud que realiza procedimientos que generen riesgo
+de salpicadura de fluidos a la cara o aerosolización, como toma de muestra
+respiratoria, aspiración de secreciones, intubación, recambio de tubo endotraqueal,
+fibrobroncoscopia, nebulizaciones.
+
+Protección
+ocular
+
+Guantes
+
+2. Resucitación cardiopulmonar de pacientes sospechosos o confirmados de COVID-19.
+ Antes de entrar en la habitación colóquese una protección ocular anti-salpicaduras.
+ En caso de que se vayan a generar aerosoles podrá utilizar una protección ocular ajustada
+de montura integral o un protector facial completo.
+ Quítese la protección ocular antes de abandonar la habitación.
+ El protector ocular podrá ser reprocesado (si su ficha técnica lo permite) y para ello se
+transportará a la zona de limpieza en un contenedor cerrado
+ Después de realizar la higiene de manos colóquese unos guantes limpios; no necesitan
+ser estériles si la técnica no lo requiere.
+ Cámbiese de guantes si se rompen o están visiblemente sucios.
+ Deseche los guantes antes de abandonar la habitación en un contenedor de residuos con
+tapa.
+ Realice inmediatamente una adecuada higiene de manos.
+
+P á g i n a 30 | 38
+
+1.9. Recogida de muestras clínicas
+ Para la toma de muestras biológicas el personal sanitario deberá llevar colocado el equipo de
+protección individual especificado.
+ Se preparará la muestra para su envío al laboratorio en la misma habitación o box donde se
+encuentre el paciente.
+ Las muestras serán transportadas en contenedores cerrados,
+ Se limpiará la parte externa del tubo que contiene la muestra con un desinfectante de
+superficies o una toallita impregnada en desinfectante.
+ La muestra se manipulará con las precauciones estándares del manejo de muestras clínicas.
+ Notificar precozmente al laboratorio que van a recibir dicha muestra.
+ Para su transporte fuera del hospital, las muestras se considerarán potencialmente
+contaminadas (categoría B) y deberán ser transportadas en un triple embalaje.
+1.10. Limpieza y desinfección de material sanitario
+ Los Coronavirus son virus envueltos por una capa lipídica lo que les hace ser especialmente
+sensibles a los desinfectantes de uso habitual en el medio sanitario.
+ Se recomienda que todo el material no crítico (estetoscopio, tensiómetro, termómetro, etc.)
+sea de uso exclusivo para el paciente y se deje en la habitación.
+ El material que vaya a ser utilizado posteriormente con otro paciente deberá ser correctamente
+limpiado y desinfectado o esterilizado, dependiendo del tipo de material de que se trate, de
+acuerdo a los protocolos habituales del centro.
+ El material que va a ser reprocesado se transportará a la zona de limpieza en un contenedor
+cerrado.
+ Los productos de limpieza y desinfección habitualmente utilizados en los centros sanitarios
+tienen capacidad suficiente para inactivar el virus. No se requieren productos especiales.
+ Para el reprocesamiento del material, el personal utilizará el equipo de protección individual
+de uso habitual para los procesos de limpieza y desinfección de material.
+1.11. Limpieza y desinfección de las superficies y espacios
+ Es importante asegurar una correcta limpieza de las superficies y de los espacios.
+ El procedimiento de limpieza y desinfección de las superficies y de los espacios en contacto
+con el paciente se realizará en cada turno con solución de hipoclorito, con una concentración
+al 0,1%, etanol al 62-71% o peróxido de hidrógeno al 0,5%, en un minuto.
+ Es importante que no quede humedad en la superficie cercana al paciente. Se pueden
+emplear toallitas con desinfectante.
+ El personal de limpieza recibirá formación e información previa a la realización de la primera
+entrada al box o habitación y utilizará el equipo de protección individual especificado en el
+punto 1.8.
+ La limpieza general se hará siempre en húmedo, desde las zonas más limpias a las más
+sucias.
+ El material utilizado que sea desechable, se introducirá en un contenedor de residuos con
+tapa y etiquetado con las advertencias precisas.
+1.12. Gestión de residuos
+ Los residuos generados en la atención del paciente se consideran residuos de Clase III y por
+lo tanto deberán ser eliminados en bolsas blancas.
+P á g i n a 31 | 38
+
+1.13. Vajilla y ropa de cama
+ No se requiere un tratamiento especial para la ropa utilizada por el paciente y tampoco es
+necesario una vajilla, ni utillaje de cocina desechable.
+ La retirada de la ropa de la habitación del paciente se realizará según las recomendaciones,
+embolsada y cerrada dentro de la propia habitación.
+1.14. Fin de las precauciones de aislamiento
+ Las precauciones de aislamiento se mantendrán hasta el alta del paciente.
+1.15. Identificación de los contactos de los casos en investigación
+ Es importante identificar a todo el personal que atiende a los casos en investigación, probables
+o confirmados de infección por el COVID-19. Para ello, se realizará un registro de todo el
+personal que haya entrado en contacto. El riesgo deberá ser evaluado de manera
+individualizada.
+ Cualquier consulta específica relacionada con las medidas de prevención y control de la
+transmisión de la infección en el hospital pueden ser dirigidas a los correspondientes de
+Prevención y control de Infecciones Asociadas a Atención de la Salud.
+
+P á g i n a 32 | 38
+
+ANEXO 2
+Tratamiento. Cálculo de líquidos de mantenimiento
+Peso en Kg.
+<10
+10 – 20
+>20
+
+Volumen de mantenimiento
+100 ml/kg/día
+1000 + 50 ml/kg/día x (kg arriba de 10)
+1500 + 20 ml/kg/día x (kg arriba de 20)
+
+Tratamiento. Composición de electrolitos del líquido de mantenimiento
+
+
+Por cada 1000 cc de dextrosa al 5% agregar:
+- Cloruro de Sodio 3 M 25 cc (75 meq/L de Sodio)
+- Cloruro de Potasio 3M 10 cc (60 meq/L de Potasio)
+
+P á g i n a 33 | 38
+
+ANEXO 3
+Tratamiento antiviral de casos de influenza: dosis de Oseltamivir
+Niños
+< 1 mes*
+
+Oseltamivir
+
+Vía oral
+
+3 mg/Kg dosis cada 12 hs
+
+5 días
+
+˃1 mes hasta 8,5 meses
+
+Oseltamivir
+
+Vía oral
+
+3 mg/kg dosis cada 12 hs
+
+5 días
+
+9 meses a 11 meses
+
+Oseltamvir
+
+Vía oral
+
+3,5 mg/kg dosis cada 12 hs
+
+5 días
+
+≤15 kg
+
+Oseltamivir
+
+Vía oral
+
+30 mg cada 12 hs
+
+5 días
+
+<15 – 23 kg
+
+Oseltamivir
+
+Vía oral
+
+45 mg cada 12 hs
+
+5 días
+
+>24 a 40 kg
+
+Oseltamivir
+
+Vía oral
+
+60 mg cada 12 hs
+
+5 días
+
+>40 kg
+
+Oseltamivir
+
+Vía oral
+
+75 mg cada 12 hs
+
+5 días
+
+Mayores de 12 meses:
+
+*Dosificación de oseltamivir para lactantes prematuros: 1 mg/kg dosis cada 12 horas por 5 días.
+
+P á g i n a 34 | 38
+
+ANEXO 4
+Antibioticoterapia inicial en caso de sospecha de neumonía bacteriana sobreagregada
+Edad
+
+Primera elección
+
+Otras opciones
+
+3 semanas a ≤ 3 meses
+
+Ceftriaxona 75 mg/kg/iv/d en una dosis
+(c/24 h) o Cefotaxima 150 mg/kg/iv/d
+fraccionados en tres dosis (c/8 h) por 7 a
+10 d, según evolución.
+Ampicilina 200 mg/kg/iv/dia fraccionados
+en cuatro dosis (c/6 h) por 7 a 10 d, según
+evolución. Con mejoría clínica y buena
+tolerancia, pasar a VO
+
+Otras opciones: ampicilina 200
+mg/kg/iv/d fraccionados en cuatro
+dosis (c/6 h) por 7 a 10 d.
+
+3 meses a 5 años de
+edad, (neumonía no
+complicada).
+Paciente hospitalizado
+(no en UCI) con
+neumonía multilobar,
+derrame o neumatocele.
+
+Cefotaxima 150 mg/kg/iv/d fraccionados
+en tres dosis (c/8 h) más Clindamicina 40
+mg/kg/iv/día en 3 dosis) por 10 a 14 días,
+según evolución. Con empiema, drenar y
+extender el tratamiento por 14 a 21 días.
+
+Hospitalizado, séptico,
+muy grave (o internado
+en UCI)
+
+Cefotaxima 150 mg/kg/iv/d fraccionados
+en tres dosis (c/8 h) Vancomicina 60
+mg/kg/iv/d fraccionados en cuatro dosis
+c/6 u 8 horas. Con empiema, drenar y
+extender el tratamiento por 14 a 21 días.
+
+Cefotaxima
+150
+mg/kg/iv/d
+fraccionados en tres dosis (c/8 h) por
+7 a 10 días, según evolución. Con
+mejoría clínica y buena tolerancia,
+pasar a VO
+Ceftriaxona 75 mg/kg/iv/d en una
+dosis (c/24 h) mas Vancomicina 60
+mg/kg/iv/d fraccionados en cuatro
+dosis c/6 u 8 horas. Con empiema,
+drenar y extender el tratamiento por
+14 a 21 días
+Ceftriaxona 75 mg/kg/iv/d en una
+dosis (c/24 h) mas vancomicina 60
+mg/kg/iv/d fraccionados en cuatro
+dosis c/6 u 8 horas. Con buena
+tolerancia, pasar a VO. En caso de
+empiema, drenar y extender el
+tratamiento por 14 a 21 d.
+
+P á g i n a 35 | 38
+
+ANEXO 5
+Dosis recomendada de Lopinavir/ritonavir en pacientes pediátricos
+desde los 6 meses hasta los 18 años
+Pautas de dosificación pediátrica basada en el peso corporal* de mayores de 6 meses a 18 años
+
+Peso
+7 a 10
+>10 a <15
+15 a 20
+>20 a 25
+>25 a 30
+>30 a 35
+>35 a 40
+
+Dosis de solución oral
+dos veces al día
+(en mg/kg)
+
+Volumen de la solución oral
+administrada con la comida
+dos veces al día
+(80mg Lopinavir/20mg ritonavir por mL)**
+
+12/3 mg/kg
+
+10/2,5 mg/kg
+
+1,25 mL
+1,75 mL
+2,25 mL
+2,75 mL
+3,50 mL
+4,00 mL
+4,75 mL
+
+* Recomendaciones de dosificación basadas en el peso están sustentadas por datos limitados.
+** El volumen (mL) de solución oral representa la dosis medida por el rango de peso.
+
+Posología recomendada de Lopinavir/ritonavir para pacientes pediátricos
+desde los 14 días hasta los 6 meses
+Guías de pauta posológica pediátrica de 2 semanas a 6 meses
+Basándose en el peso
+(mg/kg)
+16/4 mg/kg
+(corresponde a 0,2 mL/kg)
+
+Basándose en la ASC
+(mg/m2)
+300/75 mg/m2
+(corresponde a 3,75 mL/m2)
+
+Frecuencia
+Administrar 2 veces al día
+con alimentos
+
+P á g i n a 36 | 38
+
+Dosis pediátrica: Lopinavir/ritonavir
+No administrar a una edad postnatal de menos de 14 días.
+Hasta 12 meses: 16/4mg/kg LPV/r c/ 12 Hs
+Mayores de 12 meses: <15 kg: 12 mg/kg LPV/r c/12 Hs
+>15 a 40 Kg: 10 mg/kg LPV/r c/ 12 Hs
+> 40 Kg: 400/100 mg LPV/RTV c/ 12 Hs
+
+Dosificación simplificada de formulaciones sólidas y líquidas para dosis dos veces al día
+en lactantes y niños
+Presentación
+Presentaciones según rango de peso
+1. Jarabe Lopinavir/ritonavir (LPV/r) 80/20 mg/ml
+Volumen (ml) por rango de peso por la mañana y por la noche
+3- 5,9 Kg
+6- 9,9 kg
+10- 13,9 14- 19,9 kg
+20kg
+kg
+AM
+PM
+AM
+PM AM PM AM
+PM
+AM
+1 ml 1 ml 1,5 ml 1,5 2 ml 2ml 2,5
+2,5ml 3 ml
+ml
+ml
+
+24,9 25kg
+PM AM
+3
+3,5
+ml
+ml
+
+29,9 30 – 34,9 kg
+
+35 - 40 kg
+
+PM
+3,5
+ml
+
+AM
+PM
+4,5ml 4,5 ml
+
+AM
+4 ml
+
+PM
+4 ml
+
+También se dispone de las siguientes presentaciones
+2. Pellets Lopinavir/ritonavir ( LPV/r) 40/10 mg microgránulos
+
+Número de capsulas por
+3- 5,9 Kg
+6- 9,9 kg
+AM PM AM PM
+2
+2
+3
+3
+
+rango de peso por la mañana y por la noche
+10- 13,9 kg 14- 19,9 kg
+20- 24,9 kg
+AM PM AM PM
+AM PM
+4
+4
+5
+5
+6
+6
+
+P á g i n a 37 | 38
+
+3. Tabletas ranuradas ( LPV/r) 100/25 mg. Se recomienda para niños a partir de los
+10 kg
+Número de tabletas por rango de peso por la mañana y por la noche
+3- 5,9 Kg
+6- 9,9 kg
+10- 13,9 kg 14- 19,9 kg
+20- 24,9 kg 25- 29,9 kg 30 – 34,9 35 - 40 kg
+kg
+AM PM AM PM AM PM AM PM
+AM PM AM PM AM PM AM
+PM
+2
+1
+2
+2
+2
+2
+3
+3
+3
+3
+3,5
+3,5
+
+4. Comprimidos ( LPV/r) 200/50 mg
+Se recomienda en > 40 kg: 2 comprimidos cada 12 horas
+Observación: En adultos, se está ensayando el uso de Remdesivir y podría ser una opción terapéutica
+en pacientes pediátricos graves.
+Las dosis propuestas para la población pediátrica son:
+- ≥ 40 kg de peso: igual que adultos: dosis de carga, el primer día de 200 mg/IV seguido de una dosis
+de mantenimiento de 100 mg/IV al día desde el día 2 al día 10.
+- < 40 Kg de peso: dosis de carga el primer día de 5 mg/kg IV seguido de una dosis de mantenimiento
+de 2,5 mg/kg IV al día desde el día 2 al día 9.
+Inmunoglobulinas intravenosas: se han empleado en casos graves pero su indicación y eficacia
+debe ser evaluados. Las dosis recomendadas son: 1 g/kg/día, 2 días, o 400 mg/kg/día, 5 días.
+
+P á g i n a 38 | 38
+
+

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.mspbs.gov.py/reportes-covid19.html"
+ORG=Paraguay
+DOWNLOAD_REGEXP="/href=[\"'](?P<link>[^\"']+\.pdf[^\"']*)[\"']/U"
+LANG=es

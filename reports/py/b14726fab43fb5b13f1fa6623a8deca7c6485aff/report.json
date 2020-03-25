@@ -1,0 +1,19 @@
+{
+    "filename": "dfcac1-EPIMARZO2020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/dfcac1-EPIMARZO2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585173642,
+    "headers": {
+        "server": "nginx",
+        "date": "Wed, 25 Mar 2020 13:37:03 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "673431",
+        "connection": "keep-alive",
+        "last-modified": "Wed, 25 Mar 2020 14:45:22 GMT",
+        "etag": "\"a4697-5a1aeeafa6c7a\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 673431,
+    "modified": 1585147522
+}

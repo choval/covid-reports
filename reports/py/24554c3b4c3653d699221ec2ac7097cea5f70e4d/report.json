@@ -1,0 +1,19 @@
+{
+    "filename": "ae1209-GestindonacionesEPPMSPBSCOVID19.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/ae1209-GestindonacionesEPPMSPBSCOVID19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585173645,
+    "headers": {
+        "server": "nginx",
+        "date": "Wed, 25 Mar 2020 13:37:06 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "419274",
+        "connection": "keep-alive",
+        "last-modified": "Wed, 25 Mar 2020 15:56:32 GMT",
+        "etag": "\"665ca-5a1afe97e17d4\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 419274,
+    "modified": 1585151792
+}

@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL="https://www.mspbs.gov.py/covid-19.php"
+ORG=Paraguay
+FOLLOW_REGEXP="/href=[\"'](?P<link>[^\"']*(covid|coronavirus)[^\"']*)[\"']/U"
+DOWNLOAD_REGEXP="/href=[\"'](?P<link>[^\"']+\.pdf[^\"']*)[\"']/U"
+LANG=es

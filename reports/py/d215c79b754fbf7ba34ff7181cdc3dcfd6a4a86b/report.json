@@ -1,0 +1,19 @@
+{
+    "filename": "9ac6d0-ProtocoloFarmacias.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/9ac6d0-ProtocoloFarmacias.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585173631,
+    "headers": {
+        "server": "nginx",
+        "date": "Wed, 25 Mar 2020 13:36:52 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "432253",
+        "connection": "keep-alive",
+        "last-modified": "Tue, 24 Mar 2020 18:32:25 GMT",
+        "etag": "\"6987d-5a19df928234c\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 432253,
+    "modified": 1585074745
+}

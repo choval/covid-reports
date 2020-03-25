@@ -1,0 +1,18 @@
+{
+    "filename": "BOLETIN_Nuevo%20coronavirus.pdf",
+    "uri": "http:\/\/vigisalud.gov.py\/files\/slider\/BOLETIN_Nuevo%20coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585173640,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 22:00:40 GMT",
+        "server": "Apache",
+        "last-modified": "Thu, 23 Jan 2020 20:42:34 GMT",
+        "etag": "\"32385-59cd4ae4c5285\"",
+        "accept-ranges": "bytes",
+        "content-length": "205701",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 205701,
+    "modified": 1579812154
+}
