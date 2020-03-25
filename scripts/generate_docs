@@ -2,6 +2,11 @@
 <?php
 chdir(__DIR__ .'/..');
 
+/**
+ * TODO: Add a directory listing hash to avoid running on
+ * all directories on each run.
+ */
+
 $summary = [];
 
 $sources = glob('reports/*/*.url');
@@ -9,6 +14,11 @@ foreach ($sources as $source) {
     echo "Parsing $source\n";
     $config = parse_ini_file($source);
     $country_code = basename(dirname($source));
+
+    if(isset($summary[$country_code])) {
+        continue;
+    }
+
     $source_name = basename($source);
     $country = $config['ORG'] ?? $country_code;
 
@@ -22,7 +32,10 @@ foreach ($sources as $source) {
         if (is_file($path_report)) {
             $data = json_decode(file_get_contents($path_report), true);
         } else {
-            $path_file = current( glob($path.'/*') );
+            $path_file = current( glob($path.'/*.pdf') );
+        }
+        if (!is_file($path_file)) {
+            continue;
         }
         $modified = filemtime($path_file);
         $basename = basename($path_file);
