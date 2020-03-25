@@ -1,0 +1,27 @@
+{
+    "filename": "20200201-sitrep-12-ncov.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/coronaviruse\/situation-reports\/20200201-sitrep-12-ncov.pdf?sfvrsn=273c5d35_2",
+    "output": "file.pdf",
+    "downloaded": 1585161824,
+    "headers": {
+        "content-type": "application\/pdf",
+        "content-length": "774862",
+        "date": "Wed, 12 Feb 2020 13:37:33 GMT",
+        "cache-control": "public, no-cache=\"Set-Cookie\", max-age=7776000, s-maxage=7776000",
+        "expires": "Tue, 12 May 2020 13:37:33 GMT",
+        "last-modified": "Sat, 01 Feb 2020 16:56:30 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=20200201-sitrep-12-ncov.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "access-control-allow-origin": "*",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 5dd2304368effbad5413134075a82ff1.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C3",
+        "x-amz-cf-id": "z3ouMoLiZLFc-45ckCBXq_zMW_rknZY1kA23JkK9OiDCp209cZmh5g==",
+        "age": "3647171"
+    },
+    "lang": "en",
+    "size": 774862,
+    "modified": 1580576190
+}

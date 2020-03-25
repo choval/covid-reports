@@ -1,0 +1,27 @@
+{
+    "filename": "20200217-sitrep-28-covid-19.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/coronaviruse\/situation-reports\/20200217-sitrep-28-covid-19.pdf?sfvrsn=a19cf2ad_2",
+    "output": "file.pdf",
+    "downloaded": 1585161748,
+    "headers": {
+        "content-type": "application\/pdf",
+        "content-length": "1274353",
+        "date": "Mon, 17 Feb 2020 18:58:04 GMT",
+        "cache-control": "public, no-cache=\"Set-Cookie\", max-age=7776000, s-maxage=7776000",
+        "expires": "Sun, 17 May 2020 18:58:04 GMT",
+        "last-modified": "Mon, 17 Feb 2020 18:44:09 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=20200217-sitrep-28-covid-19.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "access-control-allow-origin": "*",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 608f9d003f77a43bcd9df621763561a6.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C3",
+        "x-amz-cf-id": "HxczpiHxzLlJTZ9rYOPaU0A0y-aTL9gAadXmnMZeqZwlfxMk2ihKaw==",
+        "age": "3195864"
+    },
+    "lang": "en",
+    "size": 1274353,
+    "modified": 1581965049
+}

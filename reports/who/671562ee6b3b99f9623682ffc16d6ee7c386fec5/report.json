@@ -1,0 +1,27 @@
+{
+    "filename": "20200323-sitrep-63-covid-19.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/coronaviruse\/situation-reports\/20200323-sitrep-63-covid-19.pdf?sfvrsn=b617302d_4",
+    "output": "file.pdf",
+    "downloaded": 1585162031,
+    "headers": {
+        "content-type": "application\/pdf",
+        "content-length": "1151377",
+        "date": "Wed, 25 Mar 2020 18:31:30 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Tue, 23 Jun 2020 18:31:30 GMT",
+        "last-modified": "Wed, 25 Mar 2020 18:24:39 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=20200323-sitrep-63-covid-19.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "access-control-allow-origin": "*",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 019240c167e60128b9dbe3d5c782bc6d.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "0uBRsHRJhsi7fcBQhjsXj2F0IsccnOK2xuykUmNxwfaQkFBL5G4tjw==",
+        "age": "941"
+    },
+    "lang": "en",
+    "size": 1151377,
+    "modified": 1585160679
+}

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+ORG=World Health Organization
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf[^\"]*)\"/U"
+LANG=en
