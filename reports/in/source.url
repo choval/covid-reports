@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.who.int/india/emergencies/india-situation-report"
+ORG=India
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf[^\"]*)\"/U"
+LANG=en
