@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/"
+ORG=Chile
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+2020[^\"]+\.pdf[^\"]*)\"/U"
+LANG=es

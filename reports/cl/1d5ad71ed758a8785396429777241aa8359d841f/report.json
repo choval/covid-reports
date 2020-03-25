@@ -1,0 +1,24 @@
+{
+    "filename": "2020-03-13-Casos-Confirmados-Covid-19.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/2020-03-13-Casos-Confirmados-Covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585167332,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:15:20 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Fri, 13 Mar 2020 21:54:58 GMT",
+        "etag": "\"2a416-5a0c3854485b5\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=sZl",
+        "xpuomalc": "BtM; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "11-14637487-14637538 NNNY CT(0 0 0) RT(1585167330645 333) q(0 0 0 -1) r(2 2) U6"
+    },
+    "lang": "es",
+    "size": 173078,
+    "modified": 1584136498
+}

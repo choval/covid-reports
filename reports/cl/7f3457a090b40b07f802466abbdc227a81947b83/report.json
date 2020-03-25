@@ -1,0 +1,24 @@
+{
+    "filename": "2020.03.06_PROTOCOLO-SEGUIMIENTO-CONTACTOS-CASOS-CONFIRMADOS_COVID-19.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/2020.03.06_PROTOCOLO-SEGUIMIENTO-CONTACTOS-CASOS-CONFIRMADOS_COVID-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585167405,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:16:34 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Mon, 09 Mar 2020 16:11:40 GMT",
+        "etag": "\"6b896-5a06e422b2eed\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=lZN",
+        "xlsonalt": "qtP; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "12-20225992-20226068 NNNN CT(107 359 0) RT(1585167403881 332) q(0 0 4 -1) r(5 5) U6"
+    },
+    "lang": "es",
+    "size": 440470,
+    "modified": 1583770300
+}

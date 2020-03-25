@@ -92,7 +92,7 @@ foreach ($summary as $country_code=>$sources) {
         $files_count += count($source['files']);
     }
     $sources_count = count($sources);
-    $report_file = 'reports/'.$country_code.'/reports.md';
+    $report_file = 'reports/'.$country_code.'/README.md';
 
     file_put_contents($summary_file, "## {$country}\n\nSources: {$sources_count}  \nFiles: {$files_count}  \nUpdated: ".gmdate('Y-m-d H:i', $updated). " GMT\n\n[View the reports]({$report_file})\n\n", FILE_APPEND);
 

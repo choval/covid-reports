@@ -1,0 +1,24 @@
+{
+    "filename": "2020-03-14-Casos-confirmados.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/2020-03-14-Casos-confirmados.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585167328,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:15:17 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Sat, 14 Mar 2020 14:45:06 GMT",
+        "etag": "\"2f372-5a0d1a1ccfa0f\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=LZu",
+        "xwfojald": "Xte; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "14-33352581-33352652 NNNY CT(0 0 0) RT(1585167326851 366) q(0 0 0 -1) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 193394,
+    "modified": 1584197106
+}

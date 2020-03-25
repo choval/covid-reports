@@ -1,0 +1,24 @@
+{
+    "filename": "2020.02.12_CORONAVIRUS_RED-ASISTENCIAL-APS.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/02\/2020.02.12_CORONAVIRUS_RED-ASISTENCIAL-APS.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585167527,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:18:36 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Wed, 12 Feb 2020 17:00:33 GMT",
+        "etag": "\"3c090-59e63e91b0e33\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=YZU",
+        "xkwotalp": "ctU; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "5-17666487-17666533 NNNY CT(0 0 0) RT(1585167526486 343) q(0 0 0 -1) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 245904,
+    "modified": 1581526833
+}

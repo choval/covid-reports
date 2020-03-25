@@ -1,0 +1,24 @@
+{
+    "filename": "2020.03.10_PROTOCOLO-DETECCION-VIAJEROS_PASOS-FRONTERIZOS.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/2020.03.10_PROTOCOLO-DETECCION-VIAJEROS_PASOS-FRONTERIZOS.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585167384,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:16:13 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Tue, 10 Mar 2020 21:57:23 GMT",
+        "etag": "\"8cbe1-5a087345e324d\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=xZp",
+        "xxmosals": "Yts; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "1-4973274-4973282 NNNN CT(103 338 0) RT(1585167382534 327) q(0 0 5 -1) r(6 6) U6"
+    },
+    "lang": "es",
+    "size": 576481,
+    "modified": 1583877443
+}

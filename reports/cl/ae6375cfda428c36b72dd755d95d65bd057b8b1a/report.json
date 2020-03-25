@@ -1,0 +1,24 @@
+{
+    "filename": "PASAPORTE-SANITARIO.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/PASAPORTE-SANITARIO.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585167492,
+    "headers": {
+        "date": "Wed, 25 Mar 2020 20:17:58 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Fri, 20 Mar 2020 16:32:13 GMT",
+        "etag": "\"18acf-5a14bd3e25d40\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=hZr",
+        "xeiojalb": "btv; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "2-8201489-8201512 NNNY CT(0 0 0) RT(1585167491217 312) q(0 0 0 -1) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 101071,
+    "modified": 1584721933
+}
