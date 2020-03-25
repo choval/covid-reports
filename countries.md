@@ -24,6 +24,14 @@ Updated: 2020-03-23 10:17 GMT
 
 [View the reports](reports/in/reports.md)
 
+## Thailand
+
+Sources: 1  
+Files: 42  
+Updated: 2020-03-25 15:09 GMT
+
+[View the reports](reports/th/reports.md)
+
 ## World Health Organization
 
 Sources: 1  

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports"
+ORG=Thailand
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf[^\"]*)\"/U"
+LANG=en,th
