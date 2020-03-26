@@ -32,6 +32,10 @@ foreach ($sources as $source) {
     $updated = 0;
     foreach ($reports as $path) {
         $data = [];
+        $discard_file = $path.'/discarded.txt';
+        if (is_file($discard_file)) {
+            continue;
+        }
         $path_file = $path.'/file.pdf';
         $path_report = $path.'/report.json';
         if (is_file($path_report)) {
@@ -40,6 +44,7 @@ foreach ($sources as $source) {
             $path_file = current( glob($path.'/*.pdf') );
         }
         if (!is_file($path_file)) {
+            file_put_contents($path.'/check', 'MISSING FILES');
             continue;
         }
         $modified = filemtime($path_file);
