@@ -1,14 +1,15 @@
 {
     "filename": "india-situation-report-2.pdf",
-    "uri": "https:\/\/www.who.int\/docs\/default-source\/wrindia\/india-situation-report-2.pdf?sfvrsn=962f294b_0",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/wrindia\/india-situation-report-2.pdf",
     "output": "file.pdf",
-    "downloaded": 1585163695,
+    "downloaded": 1585188972,
     "headers": {
+        "http-status": 200,
         "content-type": "application\/pdf",
         "content-length": "617664",
-        "date": "Wed, 25 Mar 2020 19:14:55 GMT",
+        "date": "Thu, 26 Mar 2020 02:16:12 GMT",
         "cache-control": "public, max-age=7776000, s-maxage=7776000",
-        "expires": "Tue, 23 Jun 2020 19:14:55 GMT",
+        "expires": "Wed, 24 Jun 2020 02:16:12 GMT",
         "last-modified": "Thu, 06 Feb 2020 10:25:28 GMT",
         "accept-ranges": "bytes",
         "server": "Microsoft-IIS\/10.0",
@@ -16,9 +17,9 @@
         "x-aspnet-version": "4.0.30319",
         "access-control-allow-origin": "*",
         "x-cache": "Miss from cloudfront",
-        "via": "1.1 bfda628fa09b80e042e2c85c85acf1c7.cloudfront.net (CloudFront)",
-        "x-amz-cf-pop": "MIA3-C1",
-        "x-amz-cf-id": "2VexueqD53Z6eRuupt34goIZ9l5UfMwcef3zCYwvVFh4mAmdjeG7Cw=="
+        "via": "1.1 1e498d046330e15095a1a2a958463bf5.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "FRA2-C2",
+        "x-amz-cf-id": "HuI097YwsF8rISVUIpr4f9H9NXFt98cI1BuxdPc2lYFafydG_lY-0Q=="
     },
     "lang": "en",
     "size": 617664,
