@@ -1,5 +1,5 @@
 [InternetShortcut]
 URL="https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm"
 ORG=Australia
-DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf[^\"]*)\"/U"
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)[^\"]*\"/U"
 LANG=en
