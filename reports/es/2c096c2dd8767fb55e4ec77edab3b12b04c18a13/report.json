@@ -1,0 +1,21 @@
+{
+    "filename": "Actualizacion_31_COVID-19.pdf",
+    "uri": "https:\/\/www.mscbs.gob.es\/profesionales\/saludPublica\/ccayes\/alertasActual\/nCov-China\/documentos\/Actualizacion_31_COVID-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585184732,
+    "headers": {
+        "http-status": 200,
+        "server": "Servidor-Web",
+        "date": "Thu, 26 Mar 2020 01:05:32 GMT",
+        "content-length": "660537",
+        "content-type": "application\/pdf",
+        "cache-control": "public,max-age=300",
+        "last-modified": "Wed, 26 Feb 2020 12:22:23 GMT",
+        "etag": "\"a1439-5e5662ff\"",
+        "accept-ranges": "bytes",
+        "connection": "close"
+    },
+    "lang": "es",
+    "size": 660537,
+    "modified": 1582719743
+}

@@ -1,0 +1,20 @@
+{
+    "filename": "Informacion_inicial_alerta.pdf",
+    "uri": "https:\/\/www.mscbs.gob.es\/profesionales\/saludPublica\/ccayes\/alertasActual\/nCov-China\/documentos\/Informacion_inicial_alerta.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585183881,
+    "headers": {
+        "server": "Servidor-Web",
+        "date": "Thu, 26 Mar 2020 00:51:21 GMT",
+        "content-length": "426672",
+        "content-type": "application\/pdf",
+        "cache-control": "public,max-age=300",
+        "last-modified": "Wed, 26 Feb 2020 11:26:16 GMT",
+        "etag": "\"682b0-5e5655d8\"",
+        "accept-ranges": "bytes",
+        "connection": "close"
+    },
+    "lang": "es",
+    "size": 426672,
+    "modified": 1582716376
+}
