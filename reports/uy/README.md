@@ -1,6 +1,10 @@
 # Uruguay
 
 
+## 2020-03-26
+
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-0](0455d3663341800b4c3559bbee930a43b03a47ac/file.pdf) @00:38 GMT
+
 ## 2020-03-25
 
 * [tiempos-coronavirus-desafio-para-personas-trastorno-del-espectro-autista-tea](53e48c07505645f937cd64f1c0ab973b9b1c4cb6/file.pdf) @21:40 GMT

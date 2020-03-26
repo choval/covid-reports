@@ -3,6 +3,7 @@
 
 ## 2020-03-25
 
+* [20200325-sitrep-65-covid-19.pdf](51a6ce0bf61354ab88770ca3cf34adebb2101d5c/file.pdf) @20:11 GMT
 * [20200324-sitrep-64-covid-19.pdf](12df7fdd20dcaaff154171dd84742e2b8dc1de49/file.pdf) @18:32 GMT
 * [20200323-sitrep-63-covid-19.pdf](671562ee6b3b99f9623682ffc16d6ee7c386fec5/file.pdf) @18:24 GMT
 
@@ -189,6 +190,6 @@
 ## 2020-01-27
 
 * [20200127-sitrep-7-2019--ncov.pdf](66f900c4a7a1bd93ee4cb437d4fb930eced75b47/file.pdf) @19:57 GMT
-* [20200126-sitrep-6-2019--ncov.pdf](388681f17c9be4727eea68b0a2eece8467468e61/file.pdf) @13:35 GMT
 * [20200122-sitrep-2-2019-ncov.pdf](c254e04a9520226ed08afb1df0c5aed53ba2a81b/file.pdf) @13:35 GMT
+* [20200126-sitrep-6-2019--ncov.pdf](388681f17c9be4727eea68b0a2eece8467468e61/file.pdf) @13:35 GMT
 * [20200121-sitrep-1-2019-ncov.pdf](3b6ee5d459011be83bd3fe60fdfd7e83404dca5f/file.pdf) @13:35 GMT

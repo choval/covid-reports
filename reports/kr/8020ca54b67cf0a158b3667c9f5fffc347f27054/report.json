@@ -1,0 +1,25 @@
+{
+    "filename": "[3.23.\u00ba\u00b8\u00b5\u00b5\u00c2\u00fc\u00b0\u00ed\u00c0?\u00e1]_\u00c4??\u00aa\u00b9\u00d9\u00c0?\u00af\u00bd\u00ba\u00b0\u00a8\u00bf\u00b0\u00c1\u00f5-19_\u00b1\u00b9\u00b3\u00bb_\u00b9?\u00fd_\u00c7\u00f6?(0\u00bd\u00c3_\u00b1\u00e2\u00c1\u00d8).pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=hcqP7dbS2p7KsUQxvAt||^||VQZ66I0iBiYdlUESWArRYVU=&comfile_fs=20200323100411242673617&comfile_fn=%5B3.23.%EB%B3%B4%EB%8F%84%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C%5D+%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19+%EA%B5%AD%EB%82%B4+%EB%B0%9C%EC%83%9D+%ED%98%84%ED%99%A9%280%EC%8B%9C+%EA%B8%B0%EC%A4%80%29.pdf&comfile_c=www1&comfile_fd=1585182705926",
+    "output": "file.pdf",
+    "downloaded": 1585182864,
+    "headers": {
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=hcqP7dbS2p7KsUQxvAt||^||VQZ66I0iBiYdlUESWArRYVU=&comfile_fs=20200323100411242673617&comfile_fn=%5B3.23.%EB%B3%B4%EB%8F%84%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C%5D+%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19+%EA%B5%AD%EB%82%B4+%EB%B0%9C%EC%83%9D+%ED%98%84%ED%99%A9%280%EC%8B%9C+%EA%B8%B0%EC%A4%80%29.pdf&comfile_c=www1&comfile_fd=1585182705926",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "636833",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 00:32:47 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=[3.23.\u00ba\u00b8\u00b5\u00b5\u00c2\u00fc\u00b0\u00ed\u00c0?\u00e1]_\u00c4??\u00aa\u00b9\u00d9\u00c0?\u00af\u00bd\u00ba\u00b0\u00a8\u00bf\u00b0\u00c1\u00f5-19_\u00b1\u00b9\u00b3\u00bb_\u00b9?\u00fd_\u00c7\u00f6?(0\u00bd\u00c3_\u00b1\u00e2\u00c1\u00d8).pdf;",
+        "set-cookie": "JSESSIONID=C2S210yLaIOlDdjGkRG2QmiYU3D1McTqmssEMmWrFrbWKl6J4tAPK31Lnz49sNHp.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-9"
+    },
+    "lang": "en",
+    "size": 636833,
+    "modified": 1585182873
+}

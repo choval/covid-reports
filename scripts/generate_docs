@@ -1,6 +1,7 @@
 #!/usr/bin/env php
 <?php
 chdir(__DIR__ .'/..');
+date_default_timezone_set('UTC');
 
 /**
  * TODO: Add a directory listing hash to avoid running on
@@ -61,6 +62,15 @@ foreach ($sources as $source) {
         $path_raw = $path .'/raw.txt';
         if (!is_file($path_raw)) {
             exec('pdftotext "'.$path_file.'" - > "'.$path_raw.'"');
+        }
+        $path_date = $path .'/date.txt';
+        if (is_file($path_date)) {
+            $date = trim(file_get_contents($path_date));
+            if (is_numeric($date)) {
+                $data['modified'] = $date;
+            } else {
+                $data['modified'] = strtotime($date);
+            }
         }
         $data['path'] = $path_file;
         if($data['modified'] > $updated) {

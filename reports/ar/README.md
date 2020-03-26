@@ -1,6 +1,10 @@
 # Argentina
 
 
+## 2020-03-26
+
+* [25-03-20-reporte-diario-vespertino-covid-19.pdf](7044ee7649cf634588a7a10c3296e627e8e7dce5/file.pdf) @00:11 GMT
+
 ## 2020-03-25
 
 * [covid19\_informe-diario-matutino-25-03.pdf](ac20c2eb75f41847509ab44bb4765fa7fc167b96/file.pdf) @11:45 GMT

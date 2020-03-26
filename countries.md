@@ -3,8 +3,8 @@
 ## Argentina
 
 Sources: 1  
-Files: 21  
-Updated: 2020-03-25 11:45 GMT
+Files: 22  
+Updated: 2020-03-26 00:11 GMT
 
 [View the reports](reports/ar/README.md)
 
@@ -27,8 +27,8 @@ Updated: 2020-03-25 22:55 GMT
 ## Chile
 
 Sources: 1  
-Files: 47  
-Updated: 2020-03-25 12:28 GMT
+Files: 48  
+Updated: 2020-03-26 00:32 GMT
 
 [View the reports](reports/cl/README.md)
 
@@ -43,8 +43,8 @@ Updated: 2020-03-23 10:17 GMT
 ## Korea
 
 Sources: 1  
-Files: 20  
-Updated: 2020-03-25 23:55 GMT
+Files: 40  
+Updated: 2020-03-26 00:37 GMT
 
 [View the reports](reports/kr/README.md)
 
@@ -67,16 +67,16 @@ Updated: 2020-03-25 15:09 GMT
 ## Uruguay
 
 Sources: 1  
-Files: 18  
-Updated: 2020-03-25 21:40 GMT
+Files: 19  
+Updated: 2020-03-26 00:38 GMT
 
 [View the reports](reports/uy/README.md)
 
 ## World Health Organization
 
 Sources: 1  
-Files: 66  
-Updated: 2020-03-25 18:32 GMT
+Files: 67  
+Updated: 2020-03-25 20:11 GMT
 
 [View the reports](reports/who/README.md)
 
