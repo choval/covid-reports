@@ -1,0 +1,59 @@
+#!/usr/bin/env php
+<?php
+/**
+ * Goes through Korea reports and updates the
+ * correct modified date on the files.
+ * As well as discard old/non-covid related files.
+ */
+chdir(__DIR__ .'/..');
+date_default_timezone_set('UTC');
+
+$reports = glob('reports/kr/*', GLOB_ONLYDIR);
+foreach ($reports as $path) {
+    $discarded = $path.'/discarded.txt';
+    if (is_file($discarded)) {
+        continue;
+    }
+
+    $report = json_decode(file_get_contents($path.'/report.json'),true);
+    $modified = $report['modified'];
+    if (date('Y', $modified) < 2020) {
+        unlink($path.'/'.$report['output']);
+        touch($discarded);
+        continue;
+    }
+
+    $datefixed = $path.'/datefixed.txt';
+    $localefixed = $path.'/localefixed.txt';
+
+    if (!is_file($datefixed)) {
+        $report = json_decode(file_get_contents($path.'/report.json'),true);
+        $parts = parse_url($report['uri']);
+        if (isset($parts['query'])) {
+            parse_str($parts['query'], $get);
+            if (isset($get['comfile_fs'])) {
+                $raw = $get['comfile_fs'];
+                $proper_date = substr($raw,0,4).'-'.substr($raw,4,2).'-'.substr($raw,6,2).' '.substr($raw,8,2).':'.substr($raw,10,2).':'.substr($raw,12,2);
+                $proper_time = strtotime($proper_date);
+                $report['modified'] = $proper_time;
+                file_put_contents($path.'/report.json', json_encode($report, JSON_PRETTY_PRINT));
+                touch( $path.'/'.$report['output'], $proper_time);
+                touch( $datefixed );
+            }
+        }
+    }
+
+    if (!is_file($localefixed)) {
+        $report = json_decode(file_get_contents($path.'/report.json'),true);
+        $parts = parse_url($report['uri']);
+        if (isset($parts['query'])) {
+            parse_str($parts['query'], $get);
+            if (isset($get['comfile_fn'])) {
+                $name = $get['comfile_fn'];
+                $report['filename'] = $name;
+                file_put_contents($path.'/report.json', json_encode($report, JSON_PRETTY_PRINT));
+                touch($localefixed);
+            }
+        }
+    }
+}
