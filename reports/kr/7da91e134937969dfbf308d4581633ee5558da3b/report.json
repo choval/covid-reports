@@ -1,0 +1,26 @@
+{
+    "filename": "KCDC_Releases_2017_National_Youth_Immunization_Coverage_Status_[July.24.(Tue).2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=y5nPXp5UWXyahYp0iPkoUWkXvykUtwstw5j||^||aSneI\/g=&comfile_fs=20191118195826545624155&comfile_fn=KCDC_Releases_2017_National_Youth_Immunization_Coverage_Status_%5BJuly.24.%28Tue%29.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191309171",
+    "output": "file.pdf",
+    "downloaded": 1585192992,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=y5nPXp5UWXyahYp0iPkoUWkXvykUtwstw5j||^||aSneI\/g=&comfile_fs=20191118195826545624155&comfile_fn=KCDC_Releases_2017_National_Youth_Immunization_Coverage_Status_%5BJuly.24.%28Tue%29.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191309171",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "64525",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:21:35 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=KCDC_Releases_2017_National_Youth_Immunization_Coverage_Status_[July.24.(Tue).2018].pdf;",
+        "set-cookie": "JSESSIONID=KaV5PK526Ka2tqFOVOjvhbTC6yoaJoW1hLL23HDKrtu9N8I54NwfNjCs7Yghjn4X.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-6"
+    },
+    "lang": "en",
+    "size": 64525,
+    "modified": 1585192997
+}

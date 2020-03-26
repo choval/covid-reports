@@ -1,0 +1,26 @@
+{
+    "filename": "Precautions_to_Avoid_Risk_of_Cold-Related_Illnesses_and_Injuries_in_Extremely_Cold_Weather(Dec.132017).pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=4Gno\/LNDM6SvN5aiqiyZD7Pw8kf7oU77Wt6DdXowR2o=&comfile_fs=20100401010101928479645&comfile_fn=Precautions+to+Avoid+Risk+of+Cold-Related+Illnesses+and+Injuries+in+Extremely+Cold+Weather%28Dec.13%2C2017%29.pdf&comfile_c=www1&comfile_fd=1585191398959",
+    "output": "file.pdf",
+    "downloaded": 1585193266,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=4Gno\/LNDM6SvN5aiqiyZD7Pw8kf7oU77Wt6DdXowR2o=&comfile_fs=20100401010101928479645&comfile_fn=Precautions+to+Avoid+Risk+of+Cold-Related+Illnesses+and+Injuries+in+Extremely+Cold+Weather%28Dec.13%2C2017%29.pdf&comfile_c=www1&comfile_fd=1585191398959",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "40851",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:26:08 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=Precautions_to_Avoid_Risk_of_Cold-Related_Illnesses_and_Injuries_in_Extremely_Cold_Weather(Dec.132017).pdf;",
+        "set-cookie": "JSESSIONID=sC2L1Zj9HZFwrHt5JNdxqbPfom4Sb9gqhIuIXTRZVPhqBSr54IwF18UcH17m0zMz.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-3"
+    },
+    "lang": "en",
+    "size": 40851,
+    "modified": 1585193270
+}

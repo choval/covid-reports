@@ -1,0 +1,26 @@
+{
+    "filename": "Investigation_is_undergoing_in_a_Gangnam-gu_medical_facility_due_to_cases_with_abnormal_symptoms[May.9.(Wed)_2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=kT\/CqpTHC7vgWh1lvj7yLsOkFnb\/proRmYenVe7hq2Q=&comfile_fs=20191118195959817624181&comfile_fn=Investigation_is_undergoing_in_a_Gangnam-gu_medical_facility_due_to_cases_with_abnormal_symptoms%5BMay.9.%28Wed%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191325270",
+    "output": "file.pdf",
+    "downloaded": 1585193042,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=kT\/CqpTHC7vgWh1lvj7yLsOkFnb\/proRmYenVe7hq2Q=&comfile_fs=20191118195959817624181&comfile_fn=Investigation_is_undergoing_in_a_Gangnam-gu_medical_facility_due_to_cases_with_abnormal_symptoms%5BMay.9.%28Wed%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191325270",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "26800",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:21:45 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=Investigation_is_undergoing_in_a_Gangnam-gu_medical_facility_due_to_cases_with_abnormal_symptoms[May.9.(Wed)_2018].pdf;",
+        "set-cookie": "JSESSIONID=ureuwwgokW2swpHdVo5GqMUvbS0c0bKFhQwRS7ncIIPwzQT94V7iuANHF4JmIOXG.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-5"
+    },
+    "lang": "en",
+    "size": 26800,
+    "modified": 1585193046
+}

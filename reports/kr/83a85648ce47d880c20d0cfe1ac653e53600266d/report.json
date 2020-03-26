@@ -1,0 +1,26 @@
+{
+    "filename": "KCDC_Issues_Influenza_Epidemic_Alert_[Nov.16].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=bPmDMn||^||pkSepUqMAFG1WJ6FAq\/CoNVln5nVIMAwGkUo=&comfile_fs=20191118195103753624116&comfile_fn=KCDC_Issues_Influenza_Epidemic_Alert_%5BNov.16%5D.pdf&comfile_c=www1&comfile_fd=1585191258533",
+    "output": "file.pdf",
+    "downloaded": 1585192803,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=bPmDMn||^||pkSepUqMAFG1WJ6FAq\/CoNVln5nVIMAwGkUo=&comfile_fs=20191118195103753624116&comfile_fn=KCDC_Issues_Influenza_Epidemic_Alert_%5BNov.16%5D.pdf&comfile_c=www1&comfile_fd=1585191258533",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "96281",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:18:26 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=KCDC_Issues_Influenza_Epidemic_Alert_[Nov.16].pdf;",
+        "set-cookie": "JSESSIONID=832PhYJQMgOUYxZFVq76FKE91wwux1kchUEGBvhD1agiKmyo41SuUroL0WZnPxN4.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-2"
+    },
+    "lang": "en",
+    "size": 96281,
+    "modified": 1585192807
+}

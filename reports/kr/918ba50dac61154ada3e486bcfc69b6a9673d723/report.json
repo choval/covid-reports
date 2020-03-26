@@ -1,0 +1,26 @@
+{
+    "filename": "JOINT_STATEMENT_OF_ASEAN_Plus_Three.pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=IjwwrpmwrsvR2oHCeFVRbOXLcEl5DLVEo3iRUW7q9oU=&comfile_fs=20100401010101988479587&comfile_fn=JOINT_STATEMENT_OF_ASEAN_Plus_Three.pdf&comfile_c=www1&comfile_fd=1585191453178",
+    "output": "file.pdf",
+    "downloaded": 1585193308,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=IjwwrpmwrsvR2oHCeFVRbOXLcEl5DLVEo3iRUW7q9oU=&comfile_fs=20100401010101988479587&comfile_fn=JOINT_STATEMENT_OF_ASEAN_Plus_Three.pdf&comfile_c=www1&comfile_fd=1585191453178",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "52725",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:26:10 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=JOINT_STATEMENT_OF_ASEAN_Plus_Three.pdf;",
+        "set-cookie": "JSESSIONID=2LaezhJs92htKnsrJidKMKSqPXv51b7oh9Liy9ORK67Q10iK4OGdFYDNMVQv26Co.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-4"
+    },
+    "lang": "en",
+    "size": 52725,
+    "modified": 1585193312
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "The_updates(Feb_7)_of_2019-nCoV_in_Korea.pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=6O5tC2LnqBFlOD8u4tQhgdToP8QJowv\/v1cyxLQBE6o=&comfile_fs=20200207113533866654475&comfile_fn=The+updates%28Feb+7%29+of+2019-nCoV+in+Korea.pdf&comfile_c=www1&comfile_fd=1585191171852",
+    "output": "file.pdf",
+    "downloaded": 1585192546,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=6O5tC2LnqBFlOD8u4tQhgdToP8QJowv\/v1cyxLQBE6o=&comfile_fs=20200207113533866654475&comfile_fn=The+updates%28Feb+7%29+of+2019-nCoV+in+Korea.pdf&comfile_c=www1&comfile_fd=1585191171852",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "46992",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:13:28 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=The_updates(Feb_7)_of_2019-nCoV_in_Korea.pdf;",
+        "set-cookie": "JSESSIONID=QSQf6uAzmJjcuR2Yyywp1EjUOb0H4QTuhXq5T1AFjuIaSlUP4iHixfQ6mvCYKvdH.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-11"
+    },
+    "lang": "en",
+    "size": 46992,
+    "modified": 1585192549
+}

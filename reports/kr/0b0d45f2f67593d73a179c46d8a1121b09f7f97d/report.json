@@ -1,0 +1,26 @@
+{
+    "filename": "MERS_information.pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=5KxNE22||^||||^||kLdt6SnJPSZKAzBqXXcPW\/y5VcudMZiel4=&comfile_fs=20191118195620177624148&comfile_fn=MERS_information.pdf&comfile_c=www1&comfile_fd=1585191290858",
+    "output": "file.pdf",
+    "downloaded": 1585192936,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=5KxNE22||^||||^||kLdt6SnJPSZKAzBqXXcPW\/y5VcudMZiel4=&comfile_fs=20191118195620177624148&comfile_fn=MERS_information.pdf&comfile_c=www1&comfile_fd=1585191290858",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "458117",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:20:38 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=MERS_information.pdf;",
+        "set-cookie": "JSESSIONID=PiVVAl6GycwpN1Z0Vc2Erapb60Ajhn41hwMlaqrrnJynlYRx4du2XGB0I2IbTsNC.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-6"
+    },
+    "lang": "en",
+    "size": 458117,
+    "modified": 1585192943
+}

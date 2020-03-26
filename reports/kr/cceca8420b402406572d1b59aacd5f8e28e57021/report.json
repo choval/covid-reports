@@ -1,0 +1,26 @@
+{
+    "filename": "KCDC_Granted_Korea_Policy_Award_for_Public_Health_Risk_Communication_Policy_[Apr.20.(Fri)_2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=i9FcVFw5||^||5i7aABEpFLk5rkLbFXGAAtxbB6JhIGM5vk=&comfile_fs=20191118200015238624182&comfile_fn=KCDC_Granted_Korea_Policy_Award_for_Public_Health_Risk_Communication_Policy_%5BApr.20.%28Fri%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191327917",
+    "output": "file.pdf",
+    "downloaded": 1585193050,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=i9FcVFw5||^||5i7aABEpFLk5rkLbFXGAAtxbB6JhIGM5vk=&comfile_fs=20191118200015238624182&comfile_fn=KCDC_Granted_Korea_Policy_Award_for_Public_Health_Risk_Communication_Policy_%5BApr.20.%28Fri%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191327917",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "28625",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:21:53 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=KCDC_Granted_Korea_Policy_Award_for_Public_Health_Risk_Communication_Policy_[Apr.20.(Fri)_2018].pdf;",
+        "set-cookie": "JSESSIONID=sHHRol1FrttZia2oV2FPgf3bo9Pw3TBwhAcSx7vX66osVkdJ4fca7y9eHxbMRlNL.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-4"
+    },
+    "lang": "en",
+    "size": 28625,
+    "modified": 1585193055
+}

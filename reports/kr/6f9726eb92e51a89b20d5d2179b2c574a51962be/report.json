@@ -1,0 +1,26 @@
+{
+    "filename": "Interim_Results_of_Epidemiological_Investigation_on_MERS-CoV_Patient_Movement_and_Contacts_Tracing_[10.Sep.2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=Xd88hFs2ITI6zMfyuNlMLO\/ERIDKq\/UU7MUiTBiF3TQ=&comfile_fs=20191118195653140624149&comfile_fn=Interim_Results_of_Epidemiological_Investigation_on_MERS-CoV_Patient_Movement_and_Contacts_Tracing_%5B10.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191293615",
+    "output": "file.pdf",
+    "downloaded": 1585192947,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=Xd88hFs2ITI6zMfyuNlMLO\/ERIDKq\/UU7MUiTBiF3TQ=&comfile_fs=20191118195653140624149&comfile_fn=Interim_Results_of_Epidemiological_Investigation_on_MERS-CoV_Patient_Movement_and_Contacts_Tracing_%5B10.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191293615",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "66012",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:20:49 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=Interim_Results_of_Epidemiological_Investigation_on_MERS-CoV_Patient_Movement_and_Contacts_Tracing_[10.Sep.2018].pdf;",
+        "set-cookie": "JSESSIONID=XZkXZhmD0b6RL16wV7ZFZhtXjOw0tawrhQaMvC94gQo2OWoY48iE7PcIM0ea529c.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-2"
+    },
+    "lang": "en",
+    "size": 66012,
+    "modified": 1585192951
+}

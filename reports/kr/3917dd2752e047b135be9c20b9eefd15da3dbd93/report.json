@@ -1,0 +1,26 @@
+{
+    "filename": "KCDC_Issues_Japanese_Encephalitis_Alert_Notice_[Apr._3_(Tues.)_2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=IpjciR12u3h8||^||epRUj8tG8\/LVrJUjMGSfNUPJX4TyjE=&comfile_fs=20191118200048099624184&comfile_fn=KCDC_Issues_Japanese_Encephalitis_Alert_Notice_%5BApr._3_%28Tues.%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191333211",
+    "output": "file.pdf",
+    "downloaded": 1585193067,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=IpjciR12u3h8||^||epRUj8tG8\/LVrJUjMGSfNUPJX4TyjE=&comfile_fs=20191118200048099624184&comfile_fn=KCDC_Issues_Japanese_Encephalitis_Alert_Notice_%5BApr._3_%28Tues.%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191333211",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "62171",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:22:09 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=KCDC_Issues_Japanese_Encephalitis_Alert_Notice_[Apr._3_(Tues.)_2018].pdf;",
+        "set-cookie": "JSESSIONID=pXS1jrQhCSAaShptV3NJmVENDvrKOSw3hykY0VB1PGbvp13Q4JokWzOfWCbl1bl4.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-2"
+    },
+    "lang": "en",
+    "size": 62171,
+    "modified": 1585193072
+}

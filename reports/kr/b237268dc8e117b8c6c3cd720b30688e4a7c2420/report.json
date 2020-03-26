@@ -1,0 +1,26 @@
+{
+    "filename": "Latest_KCDC\u00a1\u00a4POCOG_Statement_on_Norovirus(18.2.18.(Sun)).pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=z||^||Xe5euN\/9l||^||Zy0qqzrVD1yHhG||^||BpSklFR0sx69\/PjU=&comfile_fs=20191118200543140624171&comfile_fn=Latest_KCDC%C2%B7POCOG_Statement_on_Norovirus%2818.2.18.%28Sun%29%29.pdf&comfile_c=www1&comfile_fd=1585191355096",
+    "output": "file.pdf",
+    "downloaded": 1585193135,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=z||^||Xe5euN\/9l||^||Zy0qqzrVD1yHhG||^||BpSklFR0sx69\/PjU=&comfile_fs=20191118200543140624171&comfile_fn=Latest_KCDC%C2%B7POCOG_Statement_on_Norovirus%2818.2.18.%28Sun%29%29.pdf&comfile_c=www1&comfile_fd=1585191355096",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "38244",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:23:17 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=Latest_KCDC\u00a1\u00a4POCOG_Statement_on_Norovirus(18.2.18.(Sun)).pdf;",
+        "set-cookie": "JSESSIONID=xXZHpW1vXr1E0P84JaBawdUMRTDTmKahhSfaaq6z8ieNUmaS4z4PNvM9JXOX5xla.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-2"
+    },
+    "lang": "en",
+    "size": 38244,
+    "modified": 1585193138
+}

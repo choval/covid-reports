@@ -1,0 +1,26 @@
+{
+    "filename": "Epidemiological_Investigation_Underway_on_Infant_Deaths_at_Ewha_Womans_University_Mokdong_Hospital_NICU(Dec._18_2017).pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=vIzo4YV3AwQLgbiieeam6W2JPpnVN81XNfuw7d7mGeo=&comfile_fs=20100401010101924479648&comfile_fn=Epidemiological+Investigation+Underway+on+Infant+Deaths+at+Ewha+Womans+University+Mokdong+Hospital+NICU%28Dec.+18%2C+2017%29.pdf&comfile_c=www1&comfile_fd=1585191396162",
+    "output": "file.pdf",
+    "downloaded": 1585193257,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=vIzo4YV3AwQLgbiieeam6W2JPpnVN81XNfuw7d7mGeo=&comfile_fs=20100401010101924479648&comfile_fn=Epidemiological+Investigation+Underway+on+Infant+Deaths+at+Ewha+Womans+University+Mokdong+Hospital+NICU%28Dec.+18%2C+2017%29.pdf&comfile_c=www1&comfile_fd=1585191396162",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "39739",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:25:59 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=Epidemiological_Investigation_Underway_on_Infant_Deaths_at_Ewha_Womans_University_Mokdong_Hospital_NICU(Dec._18_2017).pdf;",
+        "set-cookie": "JSESSIONID=3bunsuEmN08alD4XJqXoJa2H4mcshWf5hKqZy7025Z2bqjHr4yaH17iTP1u1RY5e.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-4"
+    },
+    "lang": "en",
+    "size": 39739,
+    "modified": 1585193260
+}

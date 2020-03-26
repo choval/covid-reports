@@ -1,0 +1,26 @@
+{
+    "filename": "Five_Korean_nationals_on_Kuwait-UAE_flight_with_the_confirmed_case_entered_Korea_Currently_being_monitored_as_contacts_[12.Sep.2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=6i\/vuaz||^||a7pOcYLeR0ga3NhrDokDQilrzBaF3ijYri8=&comfile_fs=20191118195619864624137&comfile_fn=Five_Korean_nationals_on_Kuwait-UAE_flight_with_the_confirmed_case_entered_Korea%2C_Currently_being_monitored_as_contacts_%5B12.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191290858",
+    "output": "file.pdf",
+    "downloaded": 1585192927,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=6i\/vuaz||^||a7pOcYLeR0ga3NhrDokDQilrzBaF3ijYri8=&comfile_fs=20191118195619864624137&comfile_fn=Five_Korean_nationals_on_Kuwait-UAE_flight_with_the_confirmed_case_entered_Korea%2C_Currently_being_monitored_as_contacts_%5B12.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191290858",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "73557",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:19:49 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=Five_Korean_nationals_on_Kuwait-UAE_flight_with_the_confirmed_case_entered_Korea_Currently_being_monitored_as_contacts_[12.Sep.2018].pdf;",
+        "set-cookie": "JSESSIONID=6B3GPPnwdMsM6SnAVNI3GaZ5Z3AC31nphrCwC21kj69gwe6S4wQbUDqFwaHcg3ID.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-13"
+    },
+    "lang": "en",
+    "size": 73557,
+    "modified": 1585192932
+}

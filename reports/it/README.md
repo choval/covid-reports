@@ -53,12 +53,20 @@
 * [C\_17\_notizie\_4322\_1\_file.pdf](5ae4bacb33061493cce25ebaa12ea29921c1fb25/file.pdf) @02:09 GMT
 * [C\_17\_notizie\_4322\_0\_file.pdf](6ea997c6093a2dcbd812ee3343af8cb46ee2f97c/file.pdf) @02:09 GMT
 
+## 2020-03-25
+
+* [Infografica\_25marzo%20ENG.pdf](29bce7589e882c2c11ee56f93e7bb63b2008a8bd/file.pdf) @17:52 GMT
+* [Infografica\_25marzo%20ITA.pdf](253e9785c3fa92f2922fab9e0c8a134817b1e897/file.pdf) @17:52 GMT
+
 ## 2020-03-24
 
+* [Bolletino-sorveglianza-integrata-COVID-19\_23-marzo-2020\_appendix.pdf](9e85ffd1c550cf30f280553717fea2dce96e68f8/file.pdf) @18:12 GMT
+* [Bollettino-sorveglianza-integrata-COVID-19\_23-marzo%202020.pdf](dd00dfce7dc16cfb459521903179873cdeb48fb4/file.pdf) @18:11 GMT
 * [sars-cov-2-stili-vita-attivita-fisica-12-17-anni.pdf](cbb602e8c66520ab62ffb86751da7c2e557a15ad/file.pdf) @15:56 GMT
 
 ## 2020-03-20
 
+* [Report-COVID-2019\_20\_marzo\_eng.pdf](dbd76e84834095d834190ef31d992900f39cc8e3/file.pdf) @20:02 GMT
 * [Bollettino-sorveglianza-integrata-COVID-19\_09-marzo-2020.pdf](6a7e1b3a4a91ed5c66c3405b32be40f2c1e84149/file.pdf) @18:19 GMT
 * [Bollettino-sorveglianza-integrata-COVID-19\_12-marzo-2020.pdf](b5827fca56280f23470b56a09905de0da3de090d/file.pdf) @18:19 GMT
 * [Report-COVID-2019\_20\_marzo.pdf](ac0181221584b688afe1941608adec99a822a2aa/file.pdf) @18:06 GMT
@@ -72,6 +80,10 @@
 ## 2020-03-18
 
 * [Alimentazione-e-coronavirus-FINALE-per-FISM.pdf](007f4786b077d2e8a177dfe360969d9905798f5e/file.pdf) @17:32 GMT
+
+## 2020-03-13
+
+* [nota-metodologica-sorveglianza-COVID-19.pdf](ce0d70738acf72e4115185b7794d88501c8e2ef3/file.pdf) @18:41 GMT
 
 ## 2020-03-12
 

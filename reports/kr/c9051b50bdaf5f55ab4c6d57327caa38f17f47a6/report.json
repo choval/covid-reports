@@ -1,0 +1,26 @@
+{
+    "filename": "KCDC_Urges_Preventive_Measures_in_Response_to_2018\u00a1\u00afs_First_Imported_Case_of_Cholera_[July.4.(Wed)_2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=ex7FXhNT9n9RB9||^||AK1XmRUq0QhsUMD1Cp9Of9Zmt1xA=&comfile_fs=20191118200104524624163&comfile_fn=KCDC_Urges_Preventive_Measures_in_Response_to_2018%E2%80%99s_First_Imported_Case_of_Cholera_%5BJuly.4.%28Wed%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191317350",
+    "output": "file.pdf",
+    "downloaded": 1585193018,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=ex7FXhNT9n9RB9||^||AK1XmRUq0QhsUMD1Cp9Of9Zmt1xA=&comfile_fs=20191118200104524624163&comfile_fn=KCDC_Urges_Preventive_Measures_in_Response_to_2018%E2%80%99s_First_Imported_Case_of_Cholera_%5BJuly.4.%28Wed%29%2C_2018%5D.pdf&comfile_c=www1&comfile_fd=1585191317350",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "51807",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:22:00 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=KCDC_Urges_Preventive_Measures_in_Response_to_2018\u00a1\u00afs_First_Imported_Case_of_Cholera_[July.4.(Wed)_2018].pdf;",
+        "set-cookie": "JSESSIONID=gC2AHIEZP2b8X41OVuQEDYc8XjEyVmvzhSTts5OfXcS8AZ5o4QlTeJqxDMnCFRQO.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-2"
+    },
+    "lang": "en",
+    "size": 51807,
+    "modified": 1585193022
+}

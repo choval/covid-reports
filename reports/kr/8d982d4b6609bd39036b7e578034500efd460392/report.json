@@ -1,0 +1,26 @@
+{
+    "filename": "[KCDC]_MERS_Daily_Report_(Sept._20).pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=7mnM2Uq014nuF7ZfSQwaoqYhYOr69VKx6x3J1ZYtJtM=&comfile_fs=20191118195219065624118&comfile_fn=%5BKCDC%5D_MERS_Daily_Report_%28Sept._20%29.pdf&comfile_c=www1&comfile_fd=1585191266647",
+    "output": "file.pdf",
+    "downloaded": 1585192832,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=7mnM2Uq014nuF7ZfSQwaoqYhYOr69VKx6x3J1ZYtJtM=&comfile_fs=20191118195219065624118&comfile_fn=%5BKCDC%5D_MERS_Daily_Report_%28Sept._20%29.pdf&comfile_c=www1&comfile_fd=1585191266647",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "588351",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:18:54 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=[KCDC]_MERS_Daily_Report_(Sept._20).pdf;",
+        "set-cookie": "JSESSIONID=4W3DCpGDHlHwNaw3VoLfan8OrN3naXC4hFraYZus9dH5VLjF4Zfubj1Iul10exr3.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-10"
+    },
+    "lang": "en",
+    "size": 588351,
+    "modified": 1585192840
+}

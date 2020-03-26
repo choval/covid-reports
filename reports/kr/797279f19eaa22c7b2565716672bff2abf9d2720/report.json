@@ -1,0 +1,26 @@
+{
+    "filename": "Press_Release_(March17)_Afternoon.pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=bIHsDIsEP9vOCjl8TvTJtBD\/R4K6JeaZvIhMgJt\/St4=&comfile_fs=20200317200729349671309&comfile_fn=Press+Release+%28March17%29_Afternoon.pdf&comfile_c=www1&comfile_fd=1585190845056",
+    "output": "file.pdf",
+    "downloaded": 1585191744,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=bIHsDIsEP9vOCjl8TvTJtBD\/R4K6JeaZvIhMgJt\/St4=&comfile_fs=20200317200729349671309&comfile_fn=Press+Release+%28March17%29_Afternoon.pdf&comfile_c=www1&comfile_fd=1585190845056",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "241252",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:00:46 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=Press_Release_(March17)_Afternoon.pdf;",
+        "set-cookie": "JSESSIONID=4aPsifNZnWoOijZ1MJ49d0bMntmpYpz1hVgOq6fZN0TzO2Lg4T4Ao1MqiycmL5Pj.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-10"
+    },
+    "lang": "en",
+    "size": 241252,
+    "modified": 1585191750
+}

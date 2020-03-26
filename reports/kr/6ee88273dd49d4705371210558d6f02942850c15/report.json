@@ -1,0 +1,26 @@
+{
+    "filename": "National_Infectious_Disease_Alert_Level_Raised_from_BLUE_to_YELLOW_Upon_Confirmation_of_MERS_Patient_in_ROK_[9.Sep.2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=GLLOm\/gkUbTK8MIXWR\/2oDSDU7ma14Bf8OcQy74IFTg=&comfile_fs=20191118195711233624150&comfile_fn=National_Infectious_Disease_Alert_Level_Raised_from_BLUE_to_YELLOW_Upon_Confirmation_of_MERS_Patient_in_ROK_%5B9.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191298185",
+    "output": "file.pdf",
+    "downloaded": 1585192956,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=GLLOm\/gkUbTK8MIXWR\/2oDSDU7ma14Bf8OcQy74IFTg=&comfile_fs=20191118195711233624150&comfile_fn=National_Infectious_Disease_Alert_Level_Raised_from_BLUE_to_YELLOW_Upon_Confirmation_of_MERS_Patient_in_ROK_%5B9.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191298185",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "60815",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:20:58 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=National_Infectious_Disease_Alert_Level_Raised_from_BLUE_to_YELLOW_Upon_Confirmation_of_MERS_Patient_in_ROK_[9.Sep.2018].pdf;",
+        "set-cookie": "JSESSIONID=MmgD7PhpkhfWvTFaVxt81oZyvp1g5B1Fh3P60yDxI7MuogZJ4K2hvCrb62ZiSj3o.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEUy; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-2"
+    },
+    "lang": "en",
+    "size": 60815,
+    "modified": 1585192961
+}

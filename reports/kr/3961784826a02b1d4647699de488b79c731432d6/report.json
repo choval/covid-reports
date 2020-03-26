@@ -1,0 +1,26 @@
+{
+    "filename": "[3.24.?.??\u00b0\u00a3]_2019\u00b3\u00e2_\u00b0\u00e1\u00c7\u00d9_\u00bd?\u00d4?\u00c0\u00da_2\u00b8\u00b8_3821\u00b8\u00ed_\u00c3?\u00d9_10\u00b3\u00e2_\u00b0\u00a3_\u00c0\u00fc\u00b3\u00e2_\u00b4\u00eb\u00ba\u00f1_\u00c3?\u00eb\u00c6\u00f8_9.9%_\u00b0\u00a8\u00bc\u00d2.pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=ALRZVjOjI\/bZPBvFmpEdJWPyFpvBrZJrGLxgJvmjas4=&comfile_fs=20200323093308243673560&comfile_fn=%5B3.24.%ED%99%94.%EC%A1%B0%EA%B0%84%5D+2019%EB%85%84+%EA%B2%B0%ED%95%B5+%EC%8B%A0%EA%B7%9C%ED%99%98%EC%9E%90+2%EB%A7%8C+3821%EB%AA%85%2C+%EC%B5%9C%EA%B7%BC+10%EB%85%84+%EA%B0%84+%EC%A0%84%EB%85%84+%EB%8C%80%EB%B9%84+%EC%B5%9C%EB%8C%80%ED%8F%AD+9.9%25+%EA%B0%90%EC%86%8C.pdf&comfile_c=www1&comfile_fd=1585190580668",
+    "output": "file.pdf",
+    "downloaded": 1585190723,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=ALRZVjOjI\/bZPBvFmpEdJWPyFpvBrZJrGLxgJvmjas4=&comfile_fs=20200323093308243673560&comfile_fn=%5B3.24.%ED%99%94.%EC%A1%B0%EA%B0%84%5D+2019%EB%85%84+%EA%B2%B0%ED%95%B5+%EC%8B%A0%EA%B7%9C%ED%99%98%EC%9E%90+2%EB%A7%8C+3821%EB%AA%85%2C+%EC%B5%9C%EA%B7%BC+10%EB%85%84+%EA%B0%84+%EC%A0%84%EB%85%84+%EB%8C%80%EB%B9%84+%EC%B5%9C%EB%8C%80%ED%8F%AD+9.9%25+%EA%B0%90%EC%86%8C.pdf&comfile_c=www1&comfile_fd=1585190580668",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "2229878",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 02:43:05 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=[3.24.?.??\u00b0\u00a3]_2019\u00b3\u00e2_\u00b0\u00e1\u00c7\u00d9_\u00bd?\u00d4?\u00c0\u00da_2\u00b8\u00b8_3821\u00b8\u00ed_\u00c3?\u00d9_10\u00b3\u00e2_\u00b0\u00a3_\u00c0\u00fc\u00b3\u00e2_\u00b4\u00eb\u00ba\u00f1_\u00c3?\u00eb\u00c6\u00f8_9.9%_\u00b0\u00a8\u00bc\u00d2.pdf;",
+        "set-cookie": "JSESSIONID=kUkHu1Fhw1NZboyZON7is1y7VBdY1s2vhlLMTKWOkDO7816g4EeUM0sRsLePD0CP.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-6"
+    },
+    "lang": "en",
+    "size": 2229878,
+    "modified": 1585190739
+}

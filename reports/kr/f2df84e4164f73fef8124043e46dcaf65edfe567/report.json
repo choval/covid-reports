@@ -1,0 +1,26 @@
+{
+    "filename": "MERS_Patient_Confirmed_in_ROK_[8.Sep.2018].pdf",
+    "uri": "http:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=1i5ml4jJIDglCyq4U8A4EwR35bXb\/\/m4Ode3uouirNg=&comfile_fs=20191118195730134624151&comfile_fn=MERS_Patient_Confirmed_in_ROK_%5B8.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191300860",
+    "output": "file.pdf",
+    "downloaded": 1585192965,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/octet-stream;charset=UTF-8",
+        "location": "https:\/\/is.cdc.go.kr\/upload_comm\/refile.do?cmd=fileDownloadC&comfile_se=1i5ml4jJIDglCyq4U8A4EwR35bXb\/\/m4Ode3uouirNg=&comfile_fs=20191118195730134624151&comfile_fn=MERS_Patient_Confirmed_in_ROK_%5B8.Sep.2018%5D.pdf&comfile_c=www1&comfile_fd=1585191300860",
+        "connection": "Keep-alive",
+        "cache-control": "max-age=86400",
+        "content-length": "49993",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;",
+        "date": "Thu, 26 Mar 2020 03:20:27 GMT",
+        "expires": "-1;",
+        "content-disposition": "attachment;filename=MERS_Patient_Confirmed_in_ROK_[8.Sep.2018].pdf;",
+        "set-cookie": "JSESSIONID=mfmoVEYMs6wiwUZDVfSj4ICPSUt0pbyHhW2ZIkhldg630dRN4SV96VkGrlqmKRm4.S0NEQ1dBUy9maWxlc3ZyX1VQTE9BREZJTEU=; Path=\/; HttpOnly",
+        "pragma": "no-cache",
+        "via": "1.1 ID-0000627502435336 uproxy-7"
+    },
+    "lang": "en",
+    "size": 49993,
+    "modified": 1585192970
+}
