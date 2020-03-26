@@ -8,9 +8,9 @@
 | [Chile](cl/README.md) | 2020-03-26 16:09 GMT | [57](cl/README.md) | 1 |
 | [India](in/README.md) | 2020-03-23 10:17 GMT | [8](in/README.md) | 1 |
 | [Italy](it/README.md) | 2020-03-26 20:20 GMT | [76](it/README.md) | 1 |
-| [Korea](kr/README.md) | 2020-03-26 19:56 GMT | [202](kr/README.md) | 1 |
+| [Korea](kr/README.md) | 2020-03-26 19:56 GMT | [148](kr/README.md) | 1 |
 | [Paraguay](py/README.md) | 2020-03-26 20:17 GMT | [52](py/README.md) | 1 |
 | [Spain](es/README.md) | 2020-03-26 11:08 GMT | [25](es/README.md) | 1 |
 | [Thailand](th/README.md) | 2020-03-26 13:12 GMT | [43](th/README.md) | 1 |
 | [Uruguay](uy/README.md) | 2020-03-26 00:38 GMT | [19](uy/README.md) | 1 |
-| [World Health Organization](who/README.md) | 2020-03-25 20:11 GMT | [65](who/README.md) | 1 |
+| [World Health Organization](who/README.md) | 2020-03-26 20:36 GMT | [66](who/README.md) | 1 |
