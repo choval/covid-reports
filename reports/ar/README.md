@@ -3,6 +3,7 @@
 
 ## 2020-03-26
 
+* [covid19\_informe-diario-matutino-26-03.pdf](4fdca3687084c98cacc11555958e267220624b63/file.pdf) @13:27 GMT
 * [25-03-20-reporte-diario-vespertino-covid-19.pdf](7044ee7649cf634588a7a10c3296e627e8e7dce5/file.pdf) @00:11 GMT
 
 ## 2020-03-25

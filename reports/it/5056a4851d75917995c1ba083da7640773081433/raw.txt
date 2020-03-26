@@ -1,0 +1,147 @@
+Characteristics of COVID-19 patients dying in Italy
+Report based on available data on March 24th
+, 2020
+1. Sample
+The present report describes characteristics of 5542 COVID-19 patients dying in Italy.* Geographic
+distribution across the 19 regions and 2 autonomous provinces of Trento and Bozen is presented in the
+table below. Data are update to March 24th
+, 2020.
+Tabel 1. Geographic distribution of deceased patients COVID-2019 positive
+REGIONS N %
+Lombardia 3795 68.5
+Emilia-Romagna 884 16.0
+Veneto 223 4.0
+Liguria 148 2.7
+Piemonte 104 1.9
+Marche 57 1.0
+Friuli-Venezia Giulia 50 0.9
+Lazio 50 0.9
+Puglia 44 0.8
+Trento 39 0.7
+Bolzano 37 0.7
+Toscana 37 0.7
+Campania 29 0.5
+Sardegna 11 0.2
+Abruzzo 10 0.2
+Molise 8 0.1
+Sicilia 6 0.1
+Calabria 4 0.1
+Umbria 4 0.1
+Valle d'Aosta 2 0.0
+Total 5542 100.0
+* COVID-19 related deaths presented in this report are those occurring in patients who test positive for
+SARSCoV-2 RT by PCR, independently from pre-existing diseases.
+Demographics
+Mean age of patients dying for COVID-2019 infection was 78 (median 78, range 30-103, IQR 73 -85).
+Women were 1,615 (29.1%). Figure 1 shows that median age of patients dying for COVID-2019 infection
+was more than 15 years higher as compared with the national sample diagnosed with COVID-2019 infection
+(median age 63 years). Figure 2 shows the absolute number of deaths by age group. Women dying for
+COVID-2019 infection had an older age than men (median age women 82 - median age men 78).
+Figure 1. Median age of patients with COVID-2019 infection and COVID-19 positive deceased patients
+Figure 2. Absolute number of deaths by age group
+0 20 40 60 80 100 120
+Median age (years)
+COVID19-Diagnosed
+COVID19-Deaths
+4 11 41 111
+432
+736
+281
+10 35
+149
+493
+1523 1492
+224
+14 46
+190
+604
+1955
+2228
+505
+0
+500
+1000
+1500
+2000
+2500
+30-39 40-49 50-59 60-69 70-79 80-89 90+
+Women
+Men
+All
+Age group
+2. Pre-existing conditions
+Table 1 presents most common comorbidities diagnosed before COVID-2019 infection. Data on diseases
+were based on chart review and was available on 514 patients dying in-hospital for whom it was possible to
+analyse clinic charts (15.0% of the sample). Mean number of diseases was 2.7 (median 3, SD 1.6). Overall,
+1.4% of the sample presented with a no comorbidities, 21.4% with a single comorbidity, 26.1% with 2, and
+51.2% with 3 or more.
+Table 1. Most common comorbidities observed in COVID-19 positive deceased patients
+Diseases N %
+Ischemic heart disease 126 24.5
+Atrial Fibrillation 121 23.5
+Stroke 64 12.5
+Hypertension 384 74.7
+Diabetes 157 30.5
+Dementia 90 17.5
+COPD 98 19.1
+Active cancer in the past 5 years 92 17.9
+Chronic liver disease 25 4.9
+Chronic renal failure 119 23.2
+Number of comorbidities
+0 comorbidities 7 1.4
+1 comorbidity 110 21.4
+2 comorbidities 134 26.1
+3 comorbidities and over 263 51.2
+3. Symptoms
+Figure 3 shows symptoms most commonly observed at hospital admission. Fever and dyspnoea were the
+most commonly observed symptoms, while cough, diarrhoea and haemoptysis were less commonly
+observed. Overall, 6.5% of patients did not present any symptoms at hospital admission.
+Figure 3. Most common symptoms observed in COVID-19 positive deceased patients
+4. Acute conditions
+Acute Respiratory Distress syndrome was observed in the majority of patients (97.5% of cases),
+followed by acute renal failure (28.9%). Acute cardiac injury was observed in 11.2% of cases and
+superinfection in 10.2%.
+5. Treatments
+Antibiotics were used by 86% of patients during hospital stay, while less used were antivirals (53%) and
+corticosteroids (33%). Concomitant use of these 3 treatments was observed in 8.1% of cases.
+1
+7
+39
+71
+74
+0 20 40 60 80 100
+Fever
+Dyspnoea
+Cough
+Diarrhea
+Hemoptysis
+(%)
+6. Time-line
+Figure 4 shows, for COVID-19 positive deceased patients, the median times, in days, from the onset of
+symptoms to death (9 days), from the onset of symptoms to hospitalization (4 days) and from
+hospitalization to death (5 days). The time from hospitalization to death was 1 day longer in those who
+were transferred to intensive care than those who were not transferred (5 days vs. 4 days).
+Figure 5. Median hospitalization times (in days) in COVID-19 positive deceased patients
+This report was produced by COVID-19 Surveillance Group
+Members of the COVID-19 Surveillance Group
+Luigi Palmieri, Xanthi Andrianou, Antonino Bella, Stefania Bellino, Luigi Bertinato, Stefano Boros,
+Gianfranco Brambilla, Giovanni Calcagnini, Marco Canevelli, Maria Rita Castrucci, Federica Censi,
+Alessandra Ciervo, Elisa Colaizzo, Fortunato D'Ancona, Martina Del Manso, Chiara Donfrancesco,
+Massimo Fabiani, Antonietta Filia, Martin Langer, Ilaria Lega, Cinzia Lo Noce, Valerio Manno, Alberto
+Mateo Urdiales, Eugenio Mattei, Giada Minelli, Manuela Nebuloni, Lorenza Nisticò, Marino Nonis,
+Graziano Onder, Nicola Petrosillo, Patrizio Pezzotti, Ornella Punzo, Valeria Raparelli, Giovanni Rezza,
+Flavia Riccardo, Maria Cristina Rota, Andrea Siddu, Paola Stefanelli, Dorina Tiple, Brigid Unim, Luana
+Vaianella, Nicola Vanacore, Monica Vichi, Silvio Brusaferro.
+5
+4
+5
+4
+9
+0 5 10 15
+Onset of symptoms --> Death
+Onset of symptoms --> hospitalization
+Hospitalization --> Death
+Hospitalization --> Death (NO ICU)
+Hospitalization --> Death (YES ICU)
+Median number of
+

@@ -3,7 +3,17 @@
 
 ## 2020-03-26
 
-* [file.pdf](28d94598f354eadccc8caed441a932b5b2a3503f/file.pdf) @00:32 GMT
+* [1745861\_web.pdf](73f80f32e543e067461779f37b2e0e911a7ac854/file.pdf) @16:09 GMT
+* [Informe\_1\_COVID\_19\_Chile.pdf](c21c91b83a4cbbfee4a47cc3ec666929c8d81a3f/file.pdf) @16:06 GMT
+* [Informe\_2\_COVID\_19\_Chile.pdf](eef6cf0f7df7b8576ec995648f0a4a88ba1d41d4/file.pdf) @16:04 GMT
+* [Informe\_4\_COVID\_19\_Chile.pdf](80f1e960057cadfb21699d842ec96be7e4d6ea83/file.pdf) @16:03 GMT
+* [Informe\_6\_COVID\_19\_Chile.pdf](df1208c69c3adbcfdc4472e673de088c21a9c2d7/file.pdf) @16:01 GMT
+* [Informe\_7\_COVID\_19\_Chile.pdf](1b05977dacbffa46b446144d5c38f2e383def8e1/file.pdf) @16:00 GMT
+* [Informe\_8\_COVID\_19\_Chile.pdf](6835dbd6a2f75c6a58fb6818d73dcc106be42b6d/file.pdf) @15:58 GMT
+* [Informe\_5\_COVID\_19\_Chile.pdf](f12fc714029a46ff3445bfd471b0281280fcb924/file.pdf) @15:44 GMT
+* [Informe\_3\_COVID\_19\_Chile.pdf](72cfeeb2289fb50192347c7c8c1aba66d9d01b8c/file.pdf) @15:43 GMT
+* [Informe\_9\_COVID\_19\_Chile.pdf](8b7aca7a075b670ad165f100a56d9eb9d20ad96e/file.pdf) @15:43 GMT
+* [Informe\_11\_COVID\_19\_Chile.pdf](f0c8ee2fd29528402f6a0e3ea5cc1647ef0c2299/file.pdf) @15:19 GMT
 
 ## 2020-03-25
 
@@ -17,7 +27,6 @@
 
 ## 2020-03-20
 
-* [LETRERO\_ADUANA-SANITARIA.pdf](6a9bf1767775e0708441b6477d5a0795e95ebe4b/file.pdf) @16:32 GMT
 * [2020.03.20\_ADUANAS-SANITARIAS\_ubicacion.pdf](6aef58cbfa5611eb61acfeaa6bef2b552c364af8/file.pdf) @16:32 GMT
 * [PASAPORTE-SANITARIO.pdf](ae6375cfda428c36b72dd755d95d65bd057b8b1a/file.pdf) @16:32 GMT
 * [1743121.pdf](002ebaca246dd28cce9a131a61b29af3fa04a3c2/file.pdf) @12:46 GMT

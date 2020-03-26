@@ -1,6 +1,11 @@
 # Paraguay
 
 
+## 2020-03-26
+
+* [a6315f-Instructivoparapersonalenobrasenrutas.pdf](398d601cde1d2ff26e698b07c05ff1eac87e0d56/file.pdf) @20:17 GMT
+* [abc6d0-Tablero25.03.2020.pdf](d1f0c28e04854a3612c8e0076a2f892667cb32f3/file.pdf) @16:43 GMT
+
 ## 2020-03-25
 
 * [5a1351-Aquintomareltest.pdf](d63c9d7e4727e6685598b8f019fb7e79b3fb59f4/file.pdf) @21:13 GMT
@@ -97,10 +102,6 @@
 ## 2020-01-23
 
 * [BOLETIN\_Nuevo%20coronavirus.pdf](3262fed9f106f1e5c8a940ac8bd64a590f62f07c/file.pdf) @20:42 GMT
-
-## 2019-09-06
-
-* [7d7123-LISTADEINTERNOSNIVELCENTRALMSPYBS092019.pdf](1a8289a91b667651030013cd29167115fc1eb04c/file.pdf) @18:20 GMT
 
 ## 2018-01-22
 

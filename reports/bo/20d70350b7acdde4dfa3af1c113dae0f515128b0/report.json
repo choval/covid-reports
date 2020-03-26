@@ -1,0 +1,20 @@
+{
+    "filename": "4006-cruz-bolivia-tiene-39-casos-de-coronavirus-y-paciente-cero-en-oruro-espera-el-alta-medica",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4006-cruz-bolivia-tiene-39-casos-de-coronavirus-y-paciente-cero-en-oruro-espera-el-alta-medica",
+    "output": "file.pdf",
+    "downloaded": 1585253814,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 26 Mar 2020 20:21:14 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=ifaqk26327kqoqnga0jr1pb2be; path=\/; secure; HttpOnly",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Thu, 26 Mar 2020 20:21:14 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 581729,
+    "modified": 1585253823
+}

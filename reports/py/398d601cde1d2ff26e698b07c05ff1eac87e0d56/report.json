@@ -1,0 +1,20 @@
+{
+    "filename": "a6315f-Instructivoparapersonalenobrasenrutas.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/a6315f-Instructivoparapersonalenobrasenrutas.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585254782,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 26 Mar 2020 12:09:22 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "714703",
+        "connection": "keep-alive",
+        "last-modified": "Thu, 26 Mar 2020 20:17:55 GMT",
+        "etag": "\"ae7cf-5a1c7ae22e1be\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 714703,
+    "modified": 1585253875
+}

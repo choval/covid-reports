@@ -1,6 +1,10 @@
 # Bolivia
 
 
+## 2020-03-26
+
+* [4006-cruz-bolivia-tiene-39-casos-de-coronavirus-y-paciente-cero-en-oruro-espera-el-alta-medica](20d70350b7acdde4dfa3af1c113dae0f515128b0/file.pdf) @20:17 GMT
+
 ## 2020-03-25
 
 * [comunicado-n31-un-nuevo-caso-de-coronavirus-confirmado-en-santa-cruz-28-positivos-en-total](5b97f1171a111f977b8d65cb6dd05d77a79a6884/file.pdf) @22:55 GMT
