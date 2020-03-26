@@ -5,7 +5,7 @@
  * correct modified date on the files.
  * As well as discard old/non-covid related files.
  */
-chdir(__DIR__ .'/..');
+chdir(__DIR__ .'/../../');
 date_default_timezone_set('UTC');
 
 $reports = glob('reports/kr/*', GLOB_ONLYDIR);
