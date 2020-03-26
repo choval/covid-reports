@@ -19,14 +19,11 @@ foreach($keywords as $k=>$v) {
     $keywords[$k] = trim($v);
 }
 
-$dry = true; // = empty($argv[1]) ? false : true;
-
 $reports = glob('reports/*/*', GLOB_ONLYDIR);
 foreach ($reports as $path) {
     $discarded = $path.'/discarded.txt';
-    $check = $path.'/check.txt';
     $checked = $path.'/checked.txt';
-    if (is_file($discarded) || is_file($checked) || is_file($check)) {
+    if (is_file($discarded) || is_file($checked)) {
         continue;
     }
 
@@ -34,9 +31,6 @@ foreach ($reports as $path) {
     $path_report = $path.'/report.json';
     if (!is_file($path_report)) {
         echo "MISSING report.json $path\n";
-        if (!$dry) {
-            file_put_contents($check, 'DUE TO MISSING report.json');
-        }
         continue;
     }
     $report = json_decode(file_get_contents($path_report), true);
@@ -68,16 +62,10 @@ foreach ($reports as $path) {
 
     if (strlen($raw) < 64) {
         echo "TOO SHORT TO TEST $path\n";
-        if (!$dry) {
-            file_put_contents($check, 'TOO SHORT TO TEST');
-        }
         continue;
     }
 
-    echo "DISCARDING $path MISSING KEYWORDS\n";
-    if (!$dry) {
-        file_put_contents($check, 'MISSING KEYWORDS');
-    }
+    echo "MISSING KEYWORDS $path\n";
     continue;
 }
 
