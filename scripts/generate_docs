@@ -15,13 +15,13 @@ foreach ($sources as $source) {
     echo "Parsing $source\n";
     $config = parse_ini_file($source);
     $country_code = basename(dirname($source));
+    $country = $config['ORG'] ?? $country_code;
 
-    if(isset($summary[$country_code])) {
+    if(isset($summary[$country])) {
         continue;
     }
 
     $source_name = basename($source);
-    $country = $config['ORG'] ?? $country_code;
 
     $files = [];
     $reports = glob(dirname($source).'/*', GLOB_ONLYDIR);
@@ -79,8 +79,9 @@ foreach ($sources as $source) {
         $files[] = $data;
     }
     if (!empty($files)) {
-        $summary[$country_code][] = [
+        $summary[$country][] = [
             'country' => $country,
+            'country_code' => $country_code,
             'config' => $config,
             'files' => $files,
             'updated' => $updated,
@@ -89,12 +90,12 @@ foreach ($sources as $source) {
 }
 ksort($summary);
 
-$summary_file = 'countries.md';
+$summary_file = 'reports/README.md';
 file_put_contents($summary_file, "# Reports\n\n");
-foreach ($summary as $country_code=>$sources) {
+foreach ($summary as $country=>$sources) {
     $updated = 0;
     $files_count = 0;
-    $country = $sources[0]['country'];
+    $country_code = $sources[0]['country_code'];
     foreach ($sources as $source) {
         if ($source['updated'] > $updated) {
             $updated = $source['updated'];

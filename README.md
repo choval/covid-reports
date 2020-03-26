@@ -8,7 +8,7 @@ For more information regarding the Coronavirus:
 
 ## Reports
 
-[Access the reports](countries.md)
+[Access the reports](reports/README.md)
 
 Stay safe.
 
