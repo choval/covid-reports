@@ -104,8 +104,9 @@ foreach ($summary as $country=>$sources) {
     }
     $sources_count = count($sources);
     $report_file = 'reports/'.$country_code.'/README.md';
+    $report_file_link = str_replace('reports/', '', $report_file);
 
-    file_put_contents($summary_file, "## {$country}\n\nSources: {$sources_count}  \nFiles: {$files_count}  \nUpdated: ".gmdate('Y-m-d H:i', $updated). " GMT\n\n[View the reports]({$report_file})\n\n", FILE_APPEND);
+    file_put_contents($summary_file, "## {$country}\n\nSources: {$sources_count}  \nFiles: {$files_count}  \nUpdated: ".gmdate('Y-m-d H:i', $updated). " GMT\n\n[View the reports]({$report_file_link})\n\n", FILE_APPEND);
 
 
     file_put_contents($report_file, "# {$country}\n\n");
