@@ -19,18 +19,24 @@ foreach($keywords as $k=>$v) {
     $keywords[$k] = trim($v);
 }
 
+$dry = true; // = empty($argv[1]) ? false : true;
+
 $reports = glob('reports/*/*', GLOB_ONLYDIR);
 foreach ($reports as $path) {
     $discarded = $path.'/discarded.txt';
-    if (is_file($discarded)) {
+    $check = $path.'/check.txt';
+    $checked = $path.'/checked.txt';
+    if (is_file($discarded) || is_file($checked) || is_file($check)) {
         continue;
     }
+
     $path_file = $path.'/file.pdf';
     $path_report = $path.'/report.json';
     if (!is_file($path_report)) {
-        echo "DISCARDING $path\n";
-        file_put_contents($discarded, 'DUE TO MISSING report.json');
-        @unlink($path_file);
+        echo "MISSING report.json $path\n";
+        if (!$dry) {
+            file_put_contents($check, 'DUE TO MISSING report.json');
+        }
         continue;
     }
     $report = json_decode(file_get_contents($path_report), true);
@@ -39,21 +45,39 @@ foreach ($reports as $path) {
     }
     $path_raw = $path .'/raw.txt';
     if (!is_file($path_raw)) {
-        exec('pdftotext "'.$path_file.'" - > "'.$path_raw.'"');
+        exec('pdftotext -raw "'.$path_file.'" - > "'.$path_raw.'"');
     }
-    $raw = file_get_contents($path_raw);
+    $uri = $report['uri'] ?? '';
+    $filename = $report['filename'] ?? '';
     $has_keyword = false;
+
     foreach ($keywords as $word) {
-        if (stripos($raw,$word) !== false) {
-            $has_keyword = true;
-            break;
+        if (stripos($uri,$word) !== false
+            || stripos($filename,$word) !== false) {
+            continue 2;
         }
     }
-    if (!$has_keyword) {
-        echo "DISCARDING $path\n";
-        file_put_contents($discarded, 'MISSING KEYWORDS');
-        @unlink($path_file);
+
+    $raw = file_get_contents($path_raw);
+    $raw = preg_replace('/[\s]+/', '', $raw);
+    foreach ($keywords as $word) {
+        if (stripos($raw,$word) !== false) {
+            continue 2;
+        }
+    }
+
+    if (strlen($raw) < 64) {
+        echo "TOO SHORT TO TEST $path\n";
+        if (!$dry) {
+            file_put_contents($check, 'TOO SHORT TO TEST');
+        }
         continue;
     }
+
+    echo "DISCARDING $path MISSING KEYWORDS\n";
+    if (!$dry) {
+        file_put_contents($check, 'MISSING KEYWORDS');
+    }
+    continue;
 }
 
