@@ -1,5 +1,9 @@
 #!/usr/bin/env php
 <?php
+/**
+ * Generates the README.md files of the reports and
+ * for each country.
+ */
 chdir(__DIR__ .'/..');
 date_default_timezone_set('UTC');
 
@@ -59,10 +63,6 @@ foreach ($sources as $source) {
         if (!is_file($path_report)) {
             file_put_contents($path_report, json_encode($data, JSON_PRETTY_PRINT));
         }
-        $path_raw = $path .'/raw.txt';
-        if (!is_file($path_raw)) {
-            exec('pdftotext "'.$path_file.'" - > "'.$path_raw.'"');
-        }
         $path_date = $path .'/date.txt';
         if (is_file($path_date)) {
             $date = trim(file_get_contents($path_date));
@@ -92,6 +92,8 @@ ksort($summary);
 
 $summary_file = 'reports/README.md';
 file_put_contents($summary_file, "# Reports\n\n");
+file_put_contents($summary_file, "| Country | Updated | Files | Sources |\n", FILE_APPEND);
+file_put_contents($summary_file, "| --- | --- | --- | --- |\n", FILE_APPEND);
 foreach ($summary as $country=>$sources) {
     $updated = 0;
     $files_count = 0;
@@ -106,8 +108,8 @@ foreach ($summary as $country=>$sources) {
     $report_file = 'reports/'.$country_code.'/README.md';
     $report_file_link = str_replace('reports/', '', $report_file);
 
-    file_put_contents($summary_file, "## {$country}\n\nSources: {$sources_count}  \nFiles: {$files_count}  \nUpdated: ".gmdate('Y-m-d H:i', $updated). " GMT\n\n[View the reports]({$report_file_link})\n\n", FILE_APPEND);
-
+    $updated_date = gmdate('Y-m-d H:i', $updated).' GMT';
+    file_put_contents($summary_file, "| [{$country}]({$report_file_link}) | {$updated_date} | [{$files_count}]({$report_file_link}) | {$sources_count} |\n", FILE_APPEND);
 
     file_put_contents($report_file, "# {$country}\n\n");
     $files = [];
@@ -135,7 +137,6 @@ foreach ($summary as $country=>$sources) {
         $timestamp = gmdate('H:i', $file['modified']);
         file_put_contents($report_file, "* [{$filename}]({$path}) @{$timestamp} GMT\n", FILE_APPEND);
     }
-
 }
 
 
