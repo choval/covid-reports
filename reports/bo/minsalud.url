@@ -1,5 +1,5 @@
 [InternetShortcut]
 URL="https://www.minsalud.gob.bo/"
 ORG=Bolivia
-DOWNLOAD_REGEXP="/href=[\"'](?P<link>\/[0-9]+[^\"']*(coronavirus|covid)[^\"']*)[\"']/U"
+DOWNLOAD_REGEXP="/href=[\"'](?P<link>\/[0-9]+[^\"']*(coronavirus|covid|ncov)[^\"']*)[\"']/Ui"
 LANG=es

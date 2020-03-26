@@ -1,5 +1,5 @@
 [InternetShortcut]
 URL="https://www.argentina.gob.ar/coronavirus/informe-diario"
 ORG=Argentina
-DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*(covid|coronavirus)[^\"]*\.pdf)[^\"]*\"/Ui"
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*(ncov|covid|coronavirus)[^\"]*\.pdf)[^\"]*\"/Ui"
 LANG=es
