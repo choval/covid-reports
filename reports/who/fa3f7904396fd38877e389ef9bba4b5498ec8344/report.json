@@ -1,0 +1,28 @@
+{
+    "filename": "20200128-sitrep-8-ncov-cleared.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/coronaviruse\/situation-reports\/20200128-sitrep-8-ncov-cleared.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585185521,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "717421",
+        "date": "Thu, 19 Mar 2020 09:02:16 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Wed, 17 Jun 2020 09:02:16 GMT",
+        "last-modified": "Tue, 28 Jan 2020 19:13:31 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=20200128-sitrep-8-ncov-cleared.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "access-control-allow-origin": "*",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 21a3da42c823b5a4a2d9c4c63248bbd6.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "FRA2-C2",
+        "x-amz-cf-id": "FtcpmtbSAeH5JpV5UihhvfV8faEOwCo8MbfrIKqxlbeWogy3uriOOQ==",
+        "age": "576985"
+    },
+    "lang": "en",
+    "size": 717421,
+    "modified": 1580238811
+}

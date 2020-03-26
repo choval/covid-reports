@@ -83,7 +83,7 @@ Updated: 2020-03-26 00:38 GMT
 ## World Health Organization
 
 Sources: 1  
-Files: 67  
+Files: 65  
 Updated: 2020-03-25 20:11 GMT
 
 [View the reports](reports/who/README.md)
