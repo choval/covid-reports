@@ -1,0 +1,20 @@
+{
+    "filename": "Bollettino-sorveglianza-integrata-COVID-19_23-marzo%202020.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Bollettino-sorveglianza-integrata-COVID-19_23-marzo%202020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585190191,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1280147",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 24 Mar 2020 18:11:57 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"bc4b9eb472d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 26 Mar 2020 02:36:31 GMT"
+    },
+    "lang": "it,en",
+    "size": 1280147,
+    "modified": 1585073517
+}

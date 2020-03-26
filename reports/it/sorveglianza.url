@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati"
+ORG=Italy
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"/U"
+LANG=it,en

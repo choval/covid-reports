@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.epicentro.iss.it/coronavirus/"
+ORG=Italy
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"/U"
+LANG=it,en
