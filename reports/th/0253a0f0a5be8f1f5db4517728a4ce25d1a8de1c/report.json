@@ -1,0 +1,26 @@
+{
+    "filename": "20200215-tha-sitrep-05-ncov-final.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/searo\/thailand\/20200215-tha-sitrep-05-ncov-final.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585189167,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "291214",
+        "date": "Thu, 26 Mar 2020 02:19:26 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Wed, 24 Jun 2020 02:19:26 GMT",
+        "last-modified": "Sat, 15 Feb 2020 09:53:20 GMT",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=20200215-tha-sitrep-05-ncov-final.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "access-control-allow-origin": "*",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 ca1d5a4b52d08cd5e7ea6f85005bf085.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "3isJzGFKU15BO1eFsIWVjuuEQf6MwFdy1VPar8GtSYkVhnFxKRcVjA=="
+    },
+    "lang": "en,th",
+    "size": 291214,
+    "modified": 1581760400
+}
