@@ -1,0 +1,59 @@
+#!/usr/bin/env php
+<?php
+/**
+ * Goes through files, extracts the text in them
+ * and checks if they have any of the keywords.
+ * If none of the keywords is found, the file
+ * is marked as discarded.
+ */
+chdir(__DIR__ .'/..');
+date_default_timezone_set('UTC');
+
+/**
+ * TODO: Add a directory listing hash to avoid running on
+ * all directories on each run.
+ */
+
+$keywords = file(__DIR__.'/../keywords.txt');
+foreach($keywords as $k=>$v) {
+    $keywords[$k] = trim($v);
+}
+
+$reports = glob('reports/*/*', GLOB_ONLYDIR);
+foreach ($reports as $path) {
+    $discarded = $path.'/discarded.txt';
+    if (is_file($discarded)) {
+        continue;
+    }
+    $path_file = $path.'/file.pdf';
+    $path_report = $path.'/report.json';
+    if (!is_file($path_report)) {
+        echo "DISCARDING $path\n";
+        file_put_contents($discarded, 'DUE TO MISSING report.json');
+        @unlink($path_file);
+        continue;
+    }
+    $report = json_decode(file_get_contents($path_report), true);
+    if (isset($report['output'])) {
+        $path_file = $path.'/'.$report['output'];
+    }
+    $path_raw = $path .'/raw.txt';
+    if (!is_file($path_raw)) {
+        exec('pdftotext "'.$path_file.'" - > "'.$path_raw.'"');
+    }
+    $raw = file_get_contents($path_raw);
+    $has_keyword = false;
+    foreach ($keywords as $word) {
+        if (stripos($raw,$word) !== false) {
+            $has_keyword = true;
+            break;
+        }
+    }
+    if (!$has_keyword) {
+        echo "DISCARDING $path\n";
+        file_put_contents($discarded, 'MISSING KEYWORDS');
+        @unlink($path_file);
+        continue;
+    }
+}
+
