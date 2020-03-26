@@ -1,0 +1,25 @@
+{
+    "filename": "esterni.pdf",
+    "uri": "https:\/\/www.spiweb.it\/wp-content\/uploads\/2020\/03\/esterni.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188617,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 26 Mar 2020 02:10:16 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "89487",
+        "last-modified": "Thu, 19 Mar 2020 15:00:10 GMT",
+        "etag": "\"5e7388fa-15d8f\"",
+        "expires": "Sat, 25 Apr 2020 02:10:16 GMT",
+        "cache-control": "max-age=2592000",
+        "accept-ranges": "bytes",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload;",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "upgrade-insecure-requests;"
+    },
+    "lang": "it",
+    "size": 89487,
+    "modified": 1584630010
+}

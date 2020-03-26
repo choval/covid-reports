@@ -1,0 +1,19 @@
+{
+    "filename": "Report-COVID-2019_13_mazro.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Report-COVID-2019_13_mazro.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188733,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "15948",
+        "content-type": "text\/html; charset=Windows-1252",
+        "server": "Microsoft-IIS\/8.0",
+        "x-aspnet-version": "4.0.30319",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 26 Mar 2020 02:12:13 GMT"
+    },
+    "lang": "it",
+    "size": 34710,
+    "modified": 1585188740
+}

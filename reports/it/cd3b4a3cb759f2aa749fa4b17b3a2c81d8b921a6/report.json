@@ -1,0 +1,21 @@
+{
+    "filename": "C_17_pagineAree_5351_9_file.pdf",
+    "uri": "http:\/\/www.salute.gov.it\/imgs\/C_17_pagineAree_5351_9_file.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188776,
+    "headers": {
+        "http-status": 200,
+        "server": "XXXXXXXXXXXXX",
+        "content-type": "application\/pdf",
+        "content-length": "635014",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "expires": "Thu, 26 Mar 2020 02:17:56 GMT",
+        "date": "Thu, 26 Mar 2020 02:12:56 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "cookiesession1=2D88126CS6DPNQQJJTIUAWKULACB2285;Path=\/;HttpOnly"
+    },
+    "lang": "it",
+    "size": 635014,
+    "modified": 1585188778
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "\"Poster Raccomandazioni isolamento rev 12 marzo (1).pdf\"",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Poster+Raccomandazioni+isolamento+rev+12+marzo+%281%29.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188680,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "286101",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 12 Mar 2020 15:35:46 GMT",
+        "set-cookie": "JSESSIONID=F9E5999E050D89E89B48D62FB298956C; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Poster Raccomandazioni isolamento rev 12 marzo (1).pdf\"",
+        "date": "Thu, 26 Mar 2020 02:11:19 GMT"
+    },
+    "lang": "it",
+    "size": 286101,
+    "modified": 1584027346
+}

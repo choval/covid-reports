@@ -1,0 +1,20 @@
+{
+    "filename": "Coronavirus-Dialisi.pdf",
+    "uri": "https:\/\/sinitaly.org\/wp-content\/uploads\/2020\/02\/Coronavirus-Dialisi.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188783,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 26 Mar 2020 02:13:02 GMT",
+        "server": "Apache",
+        "last-modified": "Fri, 28 Feb 2020 10:39:16 GMT",
+        "etag": "\"26600b-7562d-59fa07306e2fb\"",
+        "accept-ranges": "bytes",
+        "content-length": "480813",
+        "x-robots-tag": "noindex",
+        "content-type": "application\/pdf"
+    },
+    "lang": "it",
+    "size": 480813,
+    "modified": 1582886356
+}

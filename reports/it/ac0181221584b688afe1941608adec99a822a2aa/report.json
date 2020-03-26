@@ -1,0 +1,20 @@
+{
+    "filename": "Report-COVID-2019_20_marzo.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Report-COVID-2019_20_marzo.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188643,
+    "headers": {
+        "http-status": 200,
+        "content-length": "777662",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 20 Mar 2020 18:06:17 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"47c87640e2fed51:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 26 Mar 2020 02:10:43 GMT"
+    },
+    "lang": "it",
+    "size": 777662,
+    "modified": 1584727577
+}

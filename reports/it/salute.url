@@ -1,0 +1,8 @@
+[InternetShortcut]
+URL="http://www.salute.gov.it/portale/nuovocoronavirus/archivioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&area=nuovocoronavirus&notizie.page=0"
+ORG=Italy
+; This scans in old pages
+; FOLLOW_REGEXP="/href=\"(?P<link>(\/portale\/nuovocoronavirus\/dettaglioNotizieNuovoCoronavirus\.jsp[^\"]+id=[0-9]+[^\"]*|archivioNotizieNuovoCoronavirus.jsp[^\"]+page[^\"]+))\"/"
+FOLLOW_REGEXP="/href=\"(?P<link>\/portale\/nuovocoronavirus\/dettaglioNotizieNuovoCoronavirus\.jsp[^\"]+id=[0-9]+[^\"]*)\"/"
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"/U"
+LANG=it

@@ -1,0 +1,20 @@
+{
+    "filename": "rapporto-covid-19-1-2020.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/pdf\/rapporto-covid-19-1-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188812,
+    "headers": {
+        "http-status": 200,
+        "content-length": "856483",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 10 Mar 2020 12:45:23 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"f02256c4d9f6d51:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 26 Mar 2020 02:13:32 GMT"
+    },
+    "lang": "it",
+    "size": 856483,
+    "modified": 1583844323
+}

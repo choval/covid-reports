@@ -1,0 +1,23 @@
+{
+    "filename": "\"Poster FUMO.pdf\"",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Poster+FUMO.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188675,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "387945",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 11 Mar 2020 16:47:50 GMT",
+        "set-cookie": "JSESSIONID=90D192A0A45EBC510A871A3E7C03FB6D; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Poster FUMO.pdf\"",
+        "date": "Thu, 26 Mar 2020 02:11:15 GMT"
+    },
+    "lang": "it",
+    "size": 387945,
+    "modified": 1583945270
+}

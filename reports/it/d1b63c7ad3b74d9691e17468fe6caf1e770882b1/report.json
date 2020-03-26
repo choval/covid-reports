@@ -1,0 +1,21 @@
+{
+    "filename": "direttiva_ministro_interno_08032020_1.pdf",
+    "uri": "https:\/\/www.interno.gov.it\/sites\/default\/files\/allegati\/direttiva_ministro_interno_08032020_1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188844,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "last-modified": "Mon, 09 Mar 2020 11:11:42 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"56466f833f6d51:0\"",
+        "server": "Microsoft-IIS\/7.5",
+        "x-powered-by": "ASP.NET",
+        "content-length": "4664918",
+        "date": "Thu, 26 Mar 2020 02:14:04 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "it",
+    "size": 4664918,
+    "modified": 1583752302
+}

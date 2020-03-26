@@ -1,0 +1,17 @@
+{
+    "filename": "Vademecum%20Coronavirus%20Senior%20Italia%20FederAnziani.pdf",
+    "uri": "http:\/\/www.senioritalia.it\/docs\/706bd88a-c095-459b-971e-a813ecdbac7d\/Vademecum%20Coronavirus%20Senior%20Italia%20FederAnziani.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188608,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 26 Mar 2020 02:10:06 GMT",
+        "server": "Apache\/2.4.7 (Ubuntu)",
+        "set-cookie": "JSESSIONID=78006AB444714D799B15B021F139D80B; Path=\/; HttpOnly",
+        "content-length": "4460195",
+        "content-type": "application\/pdf;charset=UTF-8"
+    },
+    "lang": "it",
+    "size": 4460195,
+    "modified": 1585188614
+}

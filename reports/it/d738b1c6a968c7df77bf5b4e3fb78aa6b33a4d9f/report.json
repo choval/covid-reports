@@ -1,0 +1,26 @@
+{
+    "filename": "Circolare_n_1_2020.pdf",
+    "uri": "http:\/\/www.funzionepubblica.gov.it\/sites\/funzionepubblica.gov.it\/files\/Circolare_n_1_2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188872,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 13 Mar 2020 15:41:43 GMT",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Wed, 04 Mar 2020 12:19:46 GMT",
+        "etag": "\"6641d-5a0066f9cacac\"",
+        "content-length": "418845",
+        "cache-control": "max-age=1209600",
+        "expires": "Fri, 27 Mar 2020 15:41:43 GMT",
+        "content-type": "application\/pdf",
+        "age": "1074769",
+        "server": "FICT",
+        "x-powered-by": "FICT1.1",
+        "x-generator": "FICT1.2",
+        "accept-ranges": "bytes",
+        "connection": "keep-alive"
+    },
+    "lang": "it",
+    "size": 418845,
+    "modified": 1583324386
+}

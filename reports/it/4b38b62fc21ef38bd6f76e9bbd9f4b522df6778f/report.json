@@ -1,0 +1,19 @@
+{
+    "filename": "covid-19-infografica_ita.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/covid-19-infografica_ita.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188754,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "15948",
+        "content-type": "text\/html; charset=Windows-1252",
+        "server": "Microsoft-IIS\/8.0",
+        "x-aspnet-version": "4.0.30319",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 26 Mar 2020 02:12:33 GMT"
+    },
+    "lang": "it",
+    "size": 34710,
+    "modified": 1585188760
+}

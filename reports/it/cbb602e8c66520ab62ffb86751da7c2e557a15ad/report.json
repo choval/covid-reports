@@ -1,0 +1,20 @@
+{
+    "filename": "sars-cov-2-stili-vita-attivita-fisica-12-17-anni.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/pdf\/sars-cov-2-stili-vita-attivita-fisica-12-17-anni.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188591,
+    "headers": {
+        "http-status": 200,
+        "content-length": "893144",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 24 Mar 2020 15:56:48 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"e92f4fd3f41d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 26 Mar 2020 02:09:51 GMT"
+    },
+    "lang": "it",
+    "size": 893144,
+    "modified": 1585065408
+}

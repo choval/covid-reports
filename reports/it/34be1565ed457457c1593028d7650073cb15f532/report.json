@@ -1,0 +1,22 @@
+{
+    "filename": "taxtbu3.pdf",
+    "uri": "https:\/\/www.sidp.it\/media\/taxtbu3.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585188709,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 26 Mar 2020 02:11:49 GMT",
+        "content-type": "text\/html",
+        "set-cookie": "__cfduid=df20c91643d9adf45ca067cbaa11858c11585188709; expires=Sat, 25-Apr-20 02:11:49 GMT; path=\/; domain=.sidp.it; HttpOnly; SameSite=Lax",
+        "cache-control": "private",
+        "vary": "Accept-Encoding",
+        "x-powered-by": "ASP.NET",
+        "cf-cache-status": "BYPASS",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "579d57d78abce944-MIA"
+    },
+    "lang": "it",
+    "size": 26658,
+    "modified": 1585188719
+}
