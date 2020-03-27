@@ -1,0 +1,26 @@
+{
+    "filename": "SARS-CoV-2-risk-assessment-14-feb-2020.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/SARS-CoV-2-risk-assessment-14-feb-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279290,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "382990",
+        "date": "Fri, 27 Mar 2020 03:21:30 GMT",
+        "server": "nginx\/1.17.5",
+        "last-modified": "Fri, 28 Feb 2020 09:27:01 GMT",
+        "etag": "\"5d80e-59f9f70965c80\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "661230959",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 0fbab52df0695e2a561cd26eb7f9484d.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "c1hEgBSmpCvL6Ypehl_e8cWK-9nuu5QriyAsbv1fjtfOLyBsKQ-0ww==",
+        "age": "0"
+    },
+    "lang": "en",
+    "size": 382990,
+    "modified": 1582882021
+}

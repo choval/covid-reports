@@ -1,0 +1,26 @@
+{
+    "filename": "Leaflet-Covid-19_chronic-diseases.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Leaflet-Covid-19_chronic-diseases.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279183,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "157085",
+        "date": "Fri, 27 Mar 2020 03:19:43 GMT",
+        "server": "nginx\/1.17.6",
+        "last-modified": "Thu, 12 Mar 2020 17:03:41 GMT",
+        "etag": "\"2659d-5a0ab55b13590\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "663261532 661229398",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 f0f1092b2ad1f0e573a4fcbefe4fb621.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "gE5EDBbYQbvnYgiZkZbXljR_PP7WvKRB46Vtyvq97FAe4C_BgFfueg==",
+        "age": "409"
+    },
+    "lang": "en",
+    "size": 157085,
+    "modified": 1584032621
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "novel-coronavirus-personal-protective-equipment-needs-healthcare-settings.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/novel-coronavirus-personal-protective-equipment-needs-healthcare-settings.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279293,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "284259",
+        "date": "Fri, 27 Mar 2020 03:21:33 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"45663-59e01610454d8\"",
+        "last-modified": "Fri, 07 Feb 2020 19:27:23 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "663489794 660571574",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 c6b0d1d85b2590c57ac754bf9e61944f.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "b50K-fhrkQ79_NhuGt9fIQErw_0GhlgOMyRAZrTmTsG-hieAuAM-vQ==",
+        "age": "367"
+    },
+    "lang": "en",
+    "size": 284259,
+    "modified": 1581103643
+}

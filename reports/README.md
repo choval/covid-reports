@@ -6,6 +6,7 @@
 | [Australia](au/README.md) | 2020-03-19 00:00 GMT | [7](au/README.md) | 1 |
 | [Bolivia](bo/README.md) | 2020-03-26 20:17 GMT | [7](bo/README.md) | 1 |
 | [Chile](cl/README.md) | 2020-03-26 16:09 GMT | [57](cl/README.md) | 1 |
+| [European Union](eu/README.md) | 2020-03-26 12:05 GMT | [28](eu/README.md) | 1 |
 | [France](fr/README.md) | 2020-03-26 21:08 GMT | [3](fr/README.md) | 1 |
 | [India](in/README.md) | 2020-03-23 10:17 GMT | [8](in/README.md) | 1 |
 | [Italy](it/README.md) | 2020-03-26 20:20 GMT | [76](it/README.md) | 1 |

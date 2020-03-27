@@ -1,0 +1,26 @@
+{
+    "filename": "RRA-sixth-update-Outbreak-of-novel-coronavirus-disease-2019-COVID-19.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/RRA-sixth-update-Outbreak-of-novel-coronavirus-disease-2019-COVID-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279203,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "867522",
+        "date": "Fri, 27 Mar 2020 03:20:03 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"d3cc2-5a0a934220438\"",
+        "last-modified": "Thu, 12 Mar 2020 14:31:08 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "663489470 662606978",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 39174a6a452e175e6e614ff396a4ca4f.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "7SPCriOK4NFB3_DfxSa9UcJ5p_9JUDNRp_J8qCO03eLPVynDtYHZiw==",
+        "age": "279"
+    },
+    "lang": "en",
+    "size": 867522,
+    "modified": 1584023468
+}

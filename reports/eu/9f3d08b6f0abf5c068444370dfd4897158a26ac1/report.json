@@ -1,0 +1,26 @@
+{
+    "filename": "Leaflet-Covid-19_immunocompromising-condition.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Leaflet-Covid-19_immunocompromising-condition.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279243,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "157681",
+        "date": "Fri, 27 Mar 2020 03:20:42 GMT",
+        "server": "nginx\/1.17.5",
+        "last-modified": "Thu, 12 Mar 2020 18:26:32 GMT",
+        "etag": "\"267f1-5a0ac7e0a0430\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "656413794 656314585",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 7b32163caf7e91fe96df7bbeaa58c0f9.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "j0AJO_k-bYBgIgApBEdfK803GKWJ-SfctwEkr3WJ4mJ22Md06NasDw==",
+        "age": "312"
+    },
+    "lang": "en",
+    "size": 157681,
+    "modified": 1584037592
+}

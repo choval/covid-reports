@@ -1,0 +1,26 @@
+{
+    "filename": "Threat-assessment-Pneumonia-cases-possibly-associated-to-a-novel-coronavirus-in-Wuhan-China.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Threat-assessment-Pneumonia-cases-possibly-associated-to-a-novel-coronavirus-in-Wuhan-China.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279325,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "278112",
+        "date": "Fri, 27 Mar 2020 03:22:05 GMT",
+        "server": "nginx\/1.17.5",
+        "last-modified": "Thu, 09 Jan 2020 19:14:23 GMT",
+        "etag": "\"43e60-59bb9d12846b0\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "661163496",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 325d03085430e8fa793924353b3b665b.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C2",
+        "x-amz-cf-id": "fKdJ1TBeRM0mr2xEFqNVcs_hl1lEUurTRPuUvHn1hSw6A-WNbWjAGQ==",
+        "age": "0"
+    },
+    "lang": "en",
+    "size": 278112,
+    "modified": 1578597263
+}

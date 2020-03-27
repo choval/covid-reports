@@ -1,0 +1,26 @@
+{
+    "filename": "covid-19-checklist-hospitals-preparing-reception-care-coronavirus-patients.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/covid-19-checklist-hospitals-preparing-reception-care-coronavirus-patients.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279259,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "331053",
+        "date": "Fri, 27 Mar 2020 03:20:59 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"50d2d-59f78e62631e0\"",
+        "last-modified": "Wed, 26 Feb 2020 11:28:09 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "663522410 662375398",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 fba666ceffdeb316c8edf476d8994bd5.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "BR989MtaCFvSqTkitZ1KXtjBa-TZBDcPTyJXFygQxScfu3-uhg5iTg==",
+        "age": "376"
+    },
+    "lang": "en",
+    "size": 331053,
+    "modified": 1582716489
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-infection-prevention-and-control-healthcare-settings-march-2020.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-infection-prevention-and-control-healthcare-settings-march-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279175,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "421919",
+        "date": "Fri, 27 Mar 2020 03:19:35 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"6701f-5a0ad67be1490\"",
+        "last-modified": "Thu, 12 Mar 2020 19:31:53 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "663261485 662310457",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 c208eb85ab071bce3678151b6fd6ca37.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "pMYtqxbJUXlt1EWlwtlB2A0Ami2LbCw9aMpgJOSE_4o_piHn0Ccp8A==",
+        "age": "128"
+    },
+    "lang": "en",
+    "size": 421919,
+    "modified": 1584041513
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "nove-coronavirus-infection-prevention-control-patients-healthcare-settings.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/nove-coronavirus-infection-prevention-control-patients-healthcare-settings.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279180,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "276101",
+        "date": "Fri, 27 Mar 2020 03:19:39 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"43685-59d97bf393448\"",
+        "last-modified": "Sun, 02 Feb 2020 13:25:57 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "661230503 661588273",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 6c1f5fbbdcc06a5ed4d317a0e3609f72.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "4-PGMtiwifa5dgCrPomnscO5aG6FrdExCCVqCZjz4CB8fU2mBBxaEg==",
+        "age": "344"
+    },
+    "lang": "en",
+    "size": 276101,
+    "modified": 1580649957
+}

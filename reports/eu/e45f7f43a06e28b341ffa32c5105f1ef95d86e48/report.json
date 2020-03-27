@@ -1,0 +1,26 @@
+{
+    "filename": "RRA-outbreak-novel-coronavirus-disease-2019-increase-transmission-globally-COVID-19.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/RRA-outbreak-novel-coronavirus-disease-2019-increase-transmission-globally-COVID-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279207,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "607264",
+        "date": "Fri, 27 Mar 2020 03:20:07 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"94420-59fddcae6a800\"",
+        "last-modified": "Mon, 02 Mar 2020 11:50:24 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "662999874 664506979",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 19ae496eb414e9373ed8ce49d0fdbba3.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "8UIiPCT7lSZMegt4hHSrGMrDnFMQz2XjDc5ya0d8eXoWY88nctLG4w==",
+        "age": "26"
+    },
+    "lang": "en",
+    "size": 607264,
+    "modified": 1583149824
+}

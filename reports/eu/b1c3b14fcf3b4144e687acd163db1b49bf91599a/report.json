@@ -1,0 +1,26 @@
+{
+    "filename": "novel-coronavirus-guidelines-non-pharmaceutical-measures_0.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/novel-coronavirus-guidelines-non-pharmaceutical-measures_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279217,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "358219",
+        "date": "Fri, 27 Mar 2020 03:20:17 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"5774b-59e482cd717a8\"",
+        "last-modified": "Tue, 11 Feb 2020 07:55:10 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "655563206 663195376",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 5c302f38578fa41a607d734b38629fc3.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "e7BxdkdNxwgphUUDaNNmAymCUzJnfhAEWRwCQIYBd8egcOhPOFj2Mw==",
+        "age": "315"
+    },
+    "lang": "en",
+    "size": 358219,
+    "modified": 1581407710
+}

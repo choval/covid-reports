@@ -1,0 +1,26 @@
+{
+    "filename": "coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279286,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "293032",
+        "date": "Fri, 27 Mar 2020 03:21:26 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"478a8-59eeace01c680\"",
+        "last-modified": "Wed, 19 Feb 2020 09:56:39 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "661230932 662607769",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 263d97c176fc51d1d08116820c013de4.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "XJKSgH-YqRxJ3FdMD-OaRLYELXOink43x4pBcoTbW6gFyULMYZPfSg==",
+        "age": "158"
+    },
+    "lang": "en",
+    "size": 293032,
+    "modified": 1582106199
+}

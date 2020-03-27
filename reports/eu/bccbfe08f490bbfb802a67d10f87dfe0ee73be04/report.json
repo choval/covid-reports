@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-guidance-wearing-and-removing-personal-protective-equipment-healthcare-settings-updated.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-guidance-wearing-and-removing-personal-protective-equipment-healthcare-settings-updated.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279255,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1738090",
+        "date": "Fri, 27 Mar 2020 03:20:55 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"1a856a-59fa881cee7c0\"",
+        "last-modified": "Fri, 28 Feb 2020 20:16:04 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "663162192 661393114",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 9b097dfab92228268a37145aac5629c1.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "Z9cwdFWRSF46P4MfGWNNYJZlFyZZj0US0Ejdfl7I1TjSveeb5i2h_w==",
+        "age": "252"
+    },
+    "lang": "en",
+    "size": 1738090,
+    "modified": 1582920964
+}

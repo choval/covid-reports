@@ -1,0 +1,26 @@
+{
+    "filename": "Leaflet-Covid-19_Isolation-and-quarantine.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Leaflet-Covid-19_Isolation-and-quarantine.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279189,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "212007",
+        "date": "Fri, 27 Mar 2020 03:19:49 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"33c27-5a0aca70c6df0\"",
+        "last-modified": "Thu, 12 Mar 2020 18:38:00 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "664241664 664210626",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 4c3936cc7f5f36d3966cb34ebcbf91a7.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "SfMC3pEtHtCrdTp8C5vHSGbwiD2RUeFBK5R48BCOg2juDtHV5Fzxfg==",
+        "age": "518"
+    },
+    "lang": "en",
+    "size": 212007,
+    "modified": 1584038280
+}

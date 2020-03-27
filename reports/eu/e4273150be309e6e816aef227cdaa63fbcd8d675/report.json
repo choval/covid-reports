@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-infographic.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-infographic.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279192,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1291246",
+        "date": "Fri, 27 Mar 2020 03:19:52 GMT",
+        "server": "nginx\/1.17.5",
+        "last-modified": "Fri, 14 Feb 2020 09:53:20 GMT",
+        "etag": "\"13b3ee-59e862cf03010\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "664507027",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 e287b408a62cf5fb04f692d52b414265.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "Ju6xFZ5UBYJNNsuXU8s_MGXOfLcNR5Wm3E-2C9y4h7HfqYxMZlD7mQ==",
+        "age": "0"
+    },
+    "lang": "en",
+    "size": 1291246,
+    "modified": 1581674000
+}

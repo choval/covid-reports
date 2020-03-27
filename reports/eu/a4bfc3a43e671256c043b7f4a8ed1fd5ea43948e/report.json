@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-guidance-health-systems-contingency-planning.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-guidance-health-systems-contingency-planning.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279489,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "315250",
+        "date": "Fri, 27 Mar 2020 03:24:49 GMT",
+        "server": "nginx\/1.17.5",
+        "last-modified": "Tue, 17 Mar 2020 13:38:30 GMT",
+        "etag": "\"4cf72-5a10d0d22b738\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "655564434 656412893",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 0712e4ad4264127dfcb76a114b130495.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C3",
+        "x-amz-cf-id": "SouswxfRKsvRs1wcd6NywJi_zHtARXeGgNYyMBItzd1S-NAGzjOM-Q==",
+        "age": "570"
+    },
+    "lang": "en",
+    "size": 315250,
+    "modified": 1584452310
+}

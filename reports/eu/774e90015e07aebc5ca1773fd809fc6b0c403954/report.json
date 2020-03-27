@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-safe-handling-of-bodies-or-persons-dying-from-COVID19.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-safe-handling-of-bodies-or-persons-dying-from-COVID19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279486,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "337403",
+        "date": "Fri, 27 Mar 2020 03:24:45 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"525fb-5a182215aa7b8\"",
+        "last-modified": "Mon, 23 Mar 2020 09:19:20 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "657725838 662607735",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 d4b41c13595dcfd327649d8cdea72ce8.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C3",
+        "x-amz-cf-id": "ujlDGrNSJt5BLAeYz-XDpvuoM_9EVp2v7uEGwW4unGPoOcyJ4hd18A==",
+        "age": "367"
+    },
+    "lang": "en",
+    "size": 337403,
+    "modified": 1584955160
+}

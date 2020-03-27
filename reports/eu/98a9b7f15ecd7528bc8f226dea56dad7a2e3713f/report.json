@@ -1,0 +1,26 @@
+{
+    "filename": "covid19-leaflet-public-travellers-EC-en.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/covid19-leaflet-public-travellers-EC-en.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279246,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "526331",
+        "date": "Fri, 27 Mar 2020 03:20:45 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"807fb-5a07d007d2940\"",
+        "last-modified": "Tue, 10 Mar 2020 09:47:03 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "663128731 638929272",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 55b6418a8a2f714a67d8e4d292154ef3.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "fuJDsBigJp7b-ENA62Q0GhcCYhWLrxKljyY3z5nYKU7a5IyTBh9SLQ==",
+        "age": "262"
+    },
+    "lang": "en",
+    "size": 526331,
+    "modified": 1583833623
+}

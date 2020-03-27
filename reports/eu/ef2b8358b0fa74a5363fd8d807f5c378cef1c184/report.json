@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-resources-for-contact-tracing-2-March-2020_0.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-resources-for-contact-tracing-2-March-2020_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279239,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "283090",
+        "date": "Fri, 27 Mar 2020 03:20:39 GMT",
+        "server": "nginx\/1.17.6",
+        "last-modified": "Wed, 11 Mar 2020 08:50:12 GMT",
+        "etag": "\"451d2-5a090530dd318\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "656315337 638929393",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 841dfa6074cf4b3b0718988f088a4ac2.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "eDTKcCmgEgkfHiKBfEY0lMAYkuWSjmfezxQdhTsxwTSfP284_VIhKA==",
+        "age": "228"
+    },
+    "lang": "en",
+    "size": 283090,
+    "modified": 1583916612
+}

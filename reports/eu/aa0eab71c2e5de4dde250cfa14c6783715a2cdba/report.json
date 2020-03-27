@@ -1,0 +1,26 @@
+{
+    "filename": "covid-19-social-distancing-measuresg-guide-second-update.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/covid-19-social-distancing-measuresg-guide-second-update.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279210,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "526637",
+        "date": "Fri, 27 Mar 2020 03:20:10 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"8092d-5a1c0cd9b4c88\"",
+        "last-modified": "Thu, 26 Mar 2020 12:05:38 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "655563168 663489028",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 15f09804612e4aac31f0c8eddf17791a.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "3tQVPOOi31YVjspBGMOgmtfnT6TSrxu9qhd13trJzfndsM5RUuquGA==",
+        "age": "149"
+    },
+    "lang": "en",
+    "size": 526637,
+    "modified": 1585224338
+}

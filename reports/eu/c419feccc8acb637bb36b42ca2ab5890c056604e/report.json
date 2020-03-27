@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-Discharge-criteria.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-Discharge-criteria.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279214,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "333661",
+        "date": "Fri, 27 Mar 2020 03:20:13 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"5175d-5a07fb7873700\"",
+        "last-modified": "Tue, 10 Mar 2020 13:01:23 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "655563196 646190362",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 c208eb85ab071bce3678151b6fd6ca37.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "tXS3CP-hhnv0ll-ynfzGTf39jsbwk5GEJGnc-IJ8VqOPT3aVRaXYXA==",
+        "age": "186"
+    },
+    "lang": "en",
+    "size": 333661,
+    "modified": 1583845283
+}

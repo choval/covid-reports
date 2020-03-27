@@ -1,0 +1,26 @@
+{
+    "filename": "covid-19-public-health-management-contact-novel-coronavirus-cases-EU.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/covid-19-public-health-management-contact-novel-coronavirus-cases-EU.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279263,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "306488",
+        "date": "Fri, 27 Mar 2020 03:21:02 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"4ad38-59f6b54972570\"",
+        "last-modified": "Tue, 25 Feb 2020 19:16:53 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "664507282 663260577",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 417c242b19212928b079740e6dd8f54c.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD89-C1",
+        "x-amz-cf-id": "omzGI5LvcSqLyI3xJWFlCFgNHXlgbpyAzJVIS8N0lPwGZyYKrxGGpw==",
+        "age": "362"
+    },
+    "lang": "en",
+    "size": 306488,
+    "modified": 1582658213
+}

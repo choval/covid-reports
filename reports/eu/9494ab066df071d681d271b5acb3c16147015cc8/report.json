@@ -1,0 +1,26 @@
+{
+    "filename": "Leaflet-Covid-19_pregnant-women.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Leaflet-Covid-19_pregnant-women.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585279186,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "154101",
+        "date": "Fri, 27 Mar 2020 03:19:46 GMT",
+        "server": "nginx\/1.17.5",
+        "last-modified": "Thu, 12 Mar 2020 18:42:32 GMT",
+        "etag": "\"259f5-5a0acb73de050\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "662999811 662607466",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 8f98a0b4c1a6979299c34e2923b8a5e0.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "IAD79-C1",
+        "x-amz-cf-id": "gouinvGQf4_F5kbK-kHm-Ahcs771-PnRF8qKjJlrCOMHfG-S_ZQhiQ==",
+        "age": "127"
+    },
+    "lang": "en",
+    "size": 154101,
+    "modified": 1584038552
+}
