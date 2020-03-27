@@ -12,15 +12,11 @@ foreach ($reports as $path) {
     $report = json_decode(file_get_contents($path.'/report.json'),true);
     $path_hash = basename($path);
 
-    $parts = parse_url($report['uri']);
-    if (isset($parts['query'])) {
-        parse_str($parts['query'], $get);
-        if (isset($get['comfile_fn'])) {
-            $hash = sha1($get['comfile_fn']);
-            if ($hash != $path_hash) {
-                $new_path = dirname($path).'/'.$hash;
-                exec("mv \"$path\" \"$new_path\"");
-            }
+    if (preg_match('/comfile_fn=(?P<hash>[^\&\"]+)\&/Ui', $report['uri'], $match)) {
+        $hash = sha1($match['hash']);
+        if ($hash != $path_hash) {
+            $new_path = dirname($path).'/'.$hash;
+            exec("mv \"$path\" \"$new_path\"");
         }
     }
 }
