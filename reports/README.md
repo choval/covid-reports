@@ -12,5 +12,5 @@
 | [Paraguay](py/README.md) | 2020-03-26 20:17 GMT | [52](py/README.md) | 1 |
 | [Spain](es/README.md) | 2020-03-26 11:08 GMT | [25](es/README.md) | 1 |
 | [Thailand](th/README.md) | 2020-03-26 13:12 GMT | [43](th/README.md) | 1 |
-| [Uruguay](uy/README.md) | 2020-03-26 00:38 GMT | [19](uy/README.md) | 1 |
+| [Uruguay](uy/README.md) | 2020-03-27 00:58 GMT | [20](uy/README.md) | 1 |
 | [World Health Organization](who/README.md) | 2020-03-26 20:36 GMT | [66](who/README.md) | 1 |

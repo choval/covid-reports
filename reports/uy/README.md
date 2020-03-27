@@ -1,6 +1,10 @@
 # Uruguay
 
 
+## 2020-03-27
+
+* [informacion-actualizada-sobre-coronavirus-sobre-casos-covid-19](de517174defd1138306b36eb40287dee9cbc0243/file.pdf) @00:58 GMT
+
 ## 2020-03-26
 
 * [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-0](0455d3663341800b4c3559bbee930a43b03a47ac/file.pdf) @00:38 GMT

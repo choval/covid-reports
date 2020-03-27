@@ -1,0 +1,31 @@
+{
+    "filename": "informacion-actualizada-sobre-coronavirus-sobre-casos-covid-19",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informacion-actualizada-sobre-coronavirus-sobre-casos-covid-19",
+    "output": "file.pdf",
+    "downloaded": 1585270734,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 27 Mar 2020 00:58:45 GMT",
+        "server": "Apache",
+        "x-frame-options": "ALLOW-FROM",
+        "x-powered-by": "PHP\/7.3.11",
+        "cache-control": "max-age=0, no-store",
+        "x-drupal-dynamic-cache": "MISS",
+        "link": "<https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informacion-actualizada-sobre-coronavirus-sobre-casos-covid-19>; rel=\"canonical\", <https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informacion-actualizada-sobre-coronavirus-sobre-casos-covid-19>; rel=\"revision\"",
+        "x-ua-compatible": "IE=edge",
+        "content-language": "es",
+        "x-content-type-options": "nosniff",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "vary": "Cookie",
+        "x-generator": "Drupal 8 (https:\/\/www.drupal.org)",
+        "content-security-policy": "frame-ancestors",
+        "x-drupal-cache": "HIT",
+        "last-modified": "Fri, 27 Mar 2020 00:58:45 GMT",
+        "etag": "\"1585270725\"",
+        "content-type": "text\/html; charset=UTF-8",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 112455,
+    "modified": 1585270737
+}
