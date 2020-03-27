@@ -1,6 +1,10 @@
 # Bolivia
 
 
+## 2020-03-27
+
+* [4008-casos-positivos-de-coronavirus-suben-a-61-en-bolivia-y-tres-contagiados-estan-en-terapia-intensiva](b7a17cd6b76d41bcd86bb56e720a2704ecf75be4/file.pdf) @03:27 GMT
+
 ## 2020-03-26
 
 * [4006-cruz-bolivia-tiene-39-casos-de-coronavirus-y-paciente-cero-en-oruro-espera-el-alta-medica](20d70350b7acdde4dfa3af1c113dae0f515128b0/file.pdf) @20:17 GMT

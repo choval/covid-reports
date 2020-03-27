@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/"
+ORG=Norway
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*(ncov|covid|coronavirus|dagsrapport|ukerapport)[^\"]*\.pdf)[^\"]*\"/Ui"
+LANG=no

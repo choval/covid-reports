@@ -1,0 +1,26 @@
+{
+    "filename": "2020-03-19-ukerapport-covid-19.pdf",
+    "uri": "https:\/\/www.fhi.no\/contentassets\/ca5914bd0aa14e15a17f8a7d48fa306a\/vedlegg\/ukerapporter\/2020-03-19-ukerapport-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585283014,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 27 Mar 2020 04:23:34 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "277430",
+        "set-cookie": "__cfduid=d59618cb857bbd4ff2fd3f9f68285212c1585283013; expires=Sun, 26-Apr-20 04:23:33 GMT; path=\/; domain=.www.fhi.no; HttpOnly; SameSite=Lax",
+        "cache-control": "public, max-age=43200",
+        "expires": "Fri, 27 Mar 2020 16:23:34 GMT",
+        "last-modified": "Sat, 21 Mar 2020 13:25:03 GMT",
+        "etag": "\"1D5FF8420E5E180\"",
+        "request-context": "appId=cid-v1:afda6def-0de1-4764-90ec-fb72e90cbcc7",
+        "access-control-expose-headers": "Request-Context",
+        "cf-cache-status": "MISS",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "57a656350d22d7ed-EZE"
+    },
+    "size": 277430,
+    "modified": 1584797103
+}
