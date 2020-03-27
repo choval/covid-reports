@@ -1,0 +1,26 @@
+{
+    "filename": "\"Malay_Practise Good Personal Hygiene.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/good-hygiene-practices\/malay_practise-good-personal-hygiene.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274969,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1549068",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 13 Feb 2020 05:57:54 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"Malay_Practise Good Personal Hygiene.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14377",
+        "date": "Fri, 27 Mar 2020 02:09:29 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=9c8f2e5674ebf131cbf0a2f766391cf223708b748558bfef58eb7a615566ef0d;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1549068,
+    "modified": 1581573474
+}

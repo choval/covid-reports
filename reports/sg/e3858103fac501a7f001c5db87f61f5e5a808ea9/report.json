@@ -1,0 +1,25 @@
+{
+    "filename": "\"English_Procedure for handling Suspect Cases.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/what-happens-to-suspect-cases\/english_procedure-for-handling-suspect-cases.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274981,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1472892",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 13 Feb 2020 04:16:25 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"English_Procedure for handling Suspect Cases.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=4623",
+        "date": "Fri, 27 Mar 2020 02:09:40 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1472892,
+    "modified": 1581567385
+}

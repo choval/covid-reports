@@ -1,0 +1,26 @@
+{
+    "filename": "\"ML_Infographic SG Clean at Eating Places_P.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/when-at-eating-places\/ml_infographic-sg-clean-at-eating-places_p.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274840,
+    "headers": {
+        "http-status": 200,
+        "content-length": "4117514",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 19 Mar 2020 10:45:44 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"ML_Infographic SG Clean at Eating Places_P.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14400",
+        "date": "Fri, 27 Mar 2020 02:07:20 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=0ac9bce649c45e7967e35a9af818b7ca2e33342c80af9690acae9cd95bdb1278;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 4117514,
+    "modified": 1584614744
+}

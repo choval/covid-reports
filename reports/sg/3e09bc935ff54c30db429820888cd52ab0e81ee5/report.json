@@ -1,0 +1,25 @@
+{
+    "filename": "\"TM_Infographic_SG Clean_When taking Public Transport.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/sg-clean-public-transport\/pdf\/tm_infographic_sg-clean_when-taking-public-transport.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274703,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1728444",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 26 Mar 2020 17:12:09 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"TM_Infographic_SG Clean_When taking Public Transport.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=6914",
+        "date": "Fri, 27 Mar 2020 02:05:03 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1728444,
+    "modified": 1585242729
+}

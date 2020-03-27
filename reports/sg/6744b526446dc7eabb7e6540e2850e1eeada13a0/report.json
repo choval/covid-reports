@@ -1,0 +1,26 @@
+{
+    "filename": "\"TM_Infographic-Safe Distancing at Events and Public Spaces.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/safe-distancing-at-events-and-public-spaces\/pdf\/tm_infographic-safe-distancing-at-events-and-public-spaces.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274772,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1807730",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 24 Mar 2020 03:22:15 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"TM_Infographic-Safe Distancing at Events and Public Spaces.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14360",
+        "date": "Fri, 27 Mar 2020 02:06:12 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=9c8f2e5674ebf131cbf0a2f766391cf223708b748558bfef58eb7a615566ef0d;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1807730,
+    "modified": 1585020135
+}

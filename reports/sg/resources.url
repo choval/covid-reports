@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.gov.sg/article/covid-19-resources"
+ORG=Singapore
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=en,zh,ms,ta

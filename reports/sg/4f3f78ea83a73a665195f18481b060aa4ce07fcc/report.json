@@ -1,0 +1,25 @@
+{
+    "filename": "\"English_Lets Do Our Part_SGClean.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/sgclean\/english_lets-do-our-part_sgclean.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274861,
+    "headers": {
+        "http-status": 200,
+        "content-length": "655307",
+        "content-type": "application\/pdf",
+        "last-modified": "Sun, 08 Mar 2020 14:56:45 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"English_Lets Do Our Part_SGClean.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=4842",
+        "date": "Fri, 27 Mar 2020 02:07:41 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 655307,
+    "modified": 1583679405
+}

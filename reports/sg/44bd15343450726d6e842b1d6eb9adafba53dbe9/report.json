@@ -1,0 +1,25 @@
+{
+    "filename": "\"ML_Infographic_SG Clean_When at Public Toilets.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/sg-clean-public-toilets\/pdf\/ml_infographic_sg-clean_when-at-public-toilets.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274817,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1341351",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 24 Mar 2020 03:29:36 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"ML_Infographic_SG Clean_When at Public Toilets.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=10116",
+        "date": "Fri, 27 Mar 2020 02:06:56 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1341351,
+    "modified": 1585020576
+}

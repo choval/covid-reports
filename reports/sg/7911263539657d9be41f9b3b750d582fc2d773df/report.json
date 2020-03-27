@@ -1,0 +1,26 @@
+{
+    "filename": "\"TM_Infographic_Safe Distancing for Seniors.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/safe-distancing-for-seniors\/pdf\/tm_infographic_safe-distancing-for-seniors.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274801,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1932983",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 24 Mar 2020 03:26:03 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"TM_Infographic_Safe Distancing for Seniors.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14400",
+        "date": "Fri, 27 Mar 2020 02:06:40 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=0ac9bce649c45e7967e35a9af818b7ca2e33342c80af9690acae9cd95bdb1278;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1932983,
+    "modified": 1585020363
+}

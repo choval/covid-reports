@@ -1,0 +1,26 @@
+{
+    "filename": "\"ML_Advisory on See a Doctor and Public hygiene_PDF.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/7-habits\/ml_advisory-on-see-a-doctor-and-public-hygiene_pdf.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274891,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1290840",
+        "content-type": "application\/pdf",
+        "last-modified": "Sat, 29 Feb 2020 15:12:25 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"ML_Advisory on See a Doctor and Public hygiene_PDF.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14400",
+        "date": "Fri, 27 Mar 2020 02:08:10 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=0ac9bce649c45e7967e35a9af818b7ca2e33342c80af9690acae9cd95bdb1278;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1290840,
+    "modified": 1582989145
+}

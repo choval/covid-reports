@@ -1,0 +1,31 @@
+{
+    "filename": "posters-final-120220_1230.pdf",
+    "uri": "https:\/\/www.moh.gov.sg\/docs\/librariesprovider5\/2019-ncov\/posters-final-120220_1230.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274910,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "686884",
+        "date": "Fri, 27 Mar 2020 02:08:30 GMT",
+        "accept-ranges": "bytes",
+        "content-disposition": "inline; filename=posters-final-120220_1230.pdf",
+        "content-security-policy": "default-src 'unsafe-inline' 'unsafe-eval' 'self' https:\/\/cse.google.com http:\/\/cse.google.com https:\/\/clients1.google.com http:\/\/clients1.google.com https:\/\/va.ecitizen.gov.sg http:\/\/assets.adobedtm.com http:\/\/dpm.demdex.net http:\/\/wogadobeanalytics.sc.omtrdc.net http:\/\/va.ecitizen.gov.sg https:\/\/www.google.com https:\/\/s3-us-west-2.amazonaws.com http:\/\/fonts.googleapis.com http:\/\/ajax.googleapis.com https:\/\/fonts.gstatic.com http:\/\/cm.everesttech.net http:\/\/fast.wogaa.demdex.net https:\/\/tools.onemap.sg https:\/\/www.gstatic.com https:\/\/forms.cwp.gov.sg https:\/\/www.google-analytics.com https:\/\/wogadobeanalytics.sc.omtrdc.net https:\/\/assets.juicer.io https:\/\/connect.facebook.net https:\/\/www.facebook.com https:\/\/www.juicer.io https:\/\/graph.facebook.com https:\/\/static.juicer.io https:\/\/i.imgur.com https:\/\/scontent.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/twitter.com https:\/\/wogaa.demdex.net https:\/\/www.googleapis.com https:\/\/stats.g.doubleclick.net https:\/\/www.googletagmanager.com https:\/\/www.onemap.sg http:\/\/www.moh.gov.sg http:\/\/www.youtube.com https:\/\/www.youtube.com https:\/\/static.pigeonhole.at https:\/\/pigeonhole.at *.hotjar.com:* *.hotjar.io wss:\/\/*.hotjar.com form.gov.sg https:\/\/www.googleadservices.com\/pagead\/conversion_async.js https:\/\/googleads.g.doubleclick.net https:\/\/www.google.com.sg assets.dcube.cloud assets.wogaa.sg assets.adobedtm.com https:\/\/snowplow-web.wogaa.sg https:\/\/youtu.be; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: *;",
+        "last-modified": "Fri, 14 Feb 2020 14:58:05 GMT",
+        "set-cookie": "ASP.NET_SessionId=yvcudy5onkxnvt31ubvidfbh; path=\/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "cache-control": "max-age=86400, public",
+        "x-xss-protection": "1; mode=block",
+        "x-access-control-allow-origin": "*",
+        "vary": "Accept-Encoding",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 05a90e634e0872685ad69ee9a4e0eba5.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "IAD89-C2",
+        "x-amz-cf-id": "AQcBjpMIpl6Hn_ixqrB3QHeSHFoqNhvegTETTa53KOv98f95rNM9Lg=="
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 686884,
+    "modified": 1581692285
+}

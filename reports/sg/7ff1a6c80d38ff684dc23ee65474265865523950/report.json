@@ -1,0 +1,26 @@
+{
+    "filename": "\"Tamil_Advisory on COVID-19 in China.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/travel-advisory\/tamil_advisory-on-covid-19-in-china.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585275034,
+    "headers": {
+        "http-status": 200,
+        "content-length": "2597336",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 13 Feb 2020 05:56:31 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"Tamil_Advisory on COVID-19 in China.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14342",
+        "date": "Fri, 27 Mar 2020 02:10:34 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=0ac9bce649c45e7967e35a9af818b7ca2e33342c80af9690acae9cd95bdb1278;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 2597336,
+    "modified": 1581573391
+}

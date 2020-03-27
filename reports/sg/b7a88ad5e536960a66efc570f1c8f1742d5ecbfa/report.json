@@ -1,0 +1,26 @@
+{
+    "filename": "\"ML_Infographic-Safe Distancing At Workplaces.pdf\"",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/safe-distancing-at-workplaces\/pdf\/ml_infographic-safe-distancing-at-workplaces.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585274719,
+    "headers": {
+        "http-status": 200,
+        "content-length": "941344",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 26 Mar 2020 17:01:17 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"ML_Infographic-Safe Distancing At Workplaces.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14400",
+        "date": "Fri, 27 Mar 2020 02:05:19 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=9c8f2e5674ebf131cbf0a2f766391cf223708b748558bfef58eb7a615566ef0d;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 941344,
+    "modified": 1585242077
+}

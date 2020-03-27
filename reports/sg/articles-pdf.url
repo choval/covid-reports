@@ -1,0 +1,7 @@
+[InternetShortcut]
+URL="https://www.gov.sg/article/covid-19-cases-in-singapore"
+ORG=Singapore
+FOLLOW_HOSTS[]="www.moh.gov.sg"
+FOLLOW_REGEXP="/href=\"(?P<link>https:\/\/www\.moh\.gov\.sg\/news-highlights\/details\/[^\"]*(covid|ncov|coronavirus|cases)[^\"]*)\"/Ui"
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=en
