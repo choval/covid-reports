@@ -1,0 +1,167 @@
+Suggested citation: European Centre for Disease Prevention and Control. Infection prevention and control for the care of patients
+with 2019-nCoV in healthcare settings. ECDC: Stockholm; 2020.
+© European Centre for Disease Prevention and Control, Stockholm, 2020
+ECDC TECHNICAL REPORT
+Infection prevention and control for the care of
+patients with 2019-nCoV in healthcare settings
+February 2020
+Scope of this document
+This document aims to provide guidance to EU/EEA healthcare facilities and healthcare providers on infection
+prevention and control measures during the management of suspected and confirmed cases of 2019-nCoV
+infection.
+Target audience
+Hospital administrators and healthcare practitioners in EU/EEA Member States.
+Background
+On 31 December 2019, a cluster of pneumonia cases of unknown aetiology was reported in Wuhan, Hubei
+Province, China. The causative agent was identified as a novel coronavirus (2019-nCoV), which has since then
+infected thousands of people. The clinical presentation of 2019-nCoV infection ranges from asymptomatic to very
+severe pneumonia with acute respiratory distress syndrome, septic shock and multi-organ failure, which may result
+in death. Healthcare services in the EU/EEA are expected to encounter suspected and confirmed cases.
+Coronaviruses are believed to be transmitted in most instances from person-to-person through inhalation or
+deposition on mucosal surfaces of large respiratory droplets. Other routes have also been implicated in the
+transmission of coronaviruses, such as contact with contaminated fomites and inhalation of aerosols, produced
+during aerosol generating procedures. The highest risk of healthcare-associated transmission is in the absence of
+standard precautions, when basic infection prevention and control measures for respiratory infections are not in
+place, and when handling patients where 2009-nCoV infection is yet to be confirmed. Although there is so far no
+evidence of airborne transmission, we recommend a cautious approach due to lack of studies excluding this mode
+of transmission [1].
+Healthcare settings
+The following sections provide a high-level outline of technical measures and resources for reducing the risk of
+transmission of 2019-nCoV in healthcare settings and laboratories in the EU/EEA. It draws on interim advice
+produced by WHO [2] and national agencies [3-6], or expert opinion. Relevant published sources of further
+detailed information and guidance on these measures, and the type or level of resources identified, are listed at
+the end of this document.
+ECDC TECHNICAL REPORT Infection prevention and control for the care of patients with 2019-nCoV in healthcare settings
+2
+1. Initial contact and risk assessment (primary and
+emergency care)
+Emergency services and primary care staff, including physicians, nursing and administrative staff with patient
+contact, should:
+1.1 Be aware of: a) the current 2019-nCoV epidemiologic situation in their country and globally, b) known risk factors
+for infections, c) clinical symptoms and signs of 2019-nCoV cases, d) recommended infection prevention and
+control measures, e) procedures for reporting and transfer of persons under investigation and of probable and
+confirmed cases.
+1.2 Be aware of the availability of case definitions for testing and reporting risk assessment and diagnostic purposes.
+1.3 Perform a point of care risk assessment, including a review of travel, clinical and epidemiological history and the
+clinical presentation of the patient, to assess the likelihood of 2019-nCoV infection. The assessment should be
+based on the latest case definitions available. It aims at performing a rapid evaluation of the risk of transmission
+(based on signs, symptoms and procedures likely to result in exposure to respiratory droplets and aerosols).
+1.4 Assess the on-site availability of appropriate personal protective equipment (PPE) for all personnel at the point of
+care to apply standard, contact and droplet precautions.
+1.5 Be aware that the PPE components for clinical assessment of suspected 2019-nCoV cases in these settings are
+the same as the ones specified for care of confirmed patients described under (3.2.2).
+1.6 Be aware that suspected cases of 2019-nCoV should be isolated or at least separated from other patients and
+instructed to wear a surgical mask. Unnecessary contacts should be avoided.
+1.7 Contact a designated 24/7 response service to report the case, arrange diagnostic testing and, if the initial
+assessment indicates it is appropriate (e.g. symptoms and signs that increase risks of transmission), safe transfer
+to a designated acute care unit for diagnostic evaluation.
+2. Patient transfer
+2.1 For ambulance transfers of suspected or confirmed 2019-nCoV cases, ensure the use of personal protective
+equipment for healthcare staff, the decontamination of the ambulance after the transfer of the patient and safe
+waste management as per appropriate procedure as specified under 3.3.
+2.2 Ensure the availability of a preparedness plan for ambulance transfers of suspected or confirmed 2019-nCoV
+cases, addressing the temporal and geographic coverage of adequately trained staff and equipment.
+3. Hospital
+3.1. Administrative measures
+3.1.1 Ensure the designation of units prepared for the diagnostic evaluation and units prepared for the
+treatment of 2019-nCoV patients.
+3.1.2 Plan for surge capacity, addressing estimated needs for patient beds, PPE, staff, diagnostics,
+including laboratory capacity and therapeutics.
+3.1.3 Ensure access to timely virological investigations in accordance with the algorithm for laboratory
+diagnosis of 2019-nCoV [3].
+3.1.4 Be aware that the minimum requirements for designated units for the management of confirmed
+2019-nCoV patients would be: the availability of isolation rooms with dedicated bathroom, staff
+adequately trained in the safe diagnostic evaluation and management of 2019-nCoV patients,
+availability of appropriate PPEs, adequate laboratory support, and appropriate cleaning and waste
+management procedures (3.3). Negative pressure isolation rooms are strongly recommended for
+the performance of aerosol generating procedures (see below point 3.2.3).
+3.2. Patient management
+3.2.1 Confirmed cases requiring admission should be placed in an isolation room with a dedicated
+bathroom. The placement in airborne precaution single rooms with negative pressure and ante-
+room, if available, is encouraged until more information about transmission routes is available.
+3.2.2 Healthcare workers in contact with a confirmed case, or a suspected case of 2019-nCoV, should
+wear PPE for contact, droplet and airborne transmission of pathogens: FFP2 or FFP3 respirator
+tested for fitting, eye protection (i.e. goggles or face shield), long-sleeved water-resistant gown
+and gloves;
+3.2.3 Aerosol generating procedures (AGS) include tracheal intubation, bronchial suctioning,
+bronchoscopy, and sputum induction have been linked to increased risk of transmission of
+coronaviruses and require particular protection measures [3]. AGS should be performed in a
+negative pressure isolation room. The number of persons in the room should be limited to a
+minimum during such procedures and all persons present should wear: a well-fitted FFP3
+respirator; eye protection; long-sleeved impermeable protective gowns; and gloves.
+ECDC TECHNICAL REPORT Infection prevention and control for the care of patients with 2019-nCoV in healthcare settings
+3
+3.2.4 Healthcare workers should strictly follow the procedures for putting on (‘donning’) of PPE and for
+safe removal in correct sequence (‘doffing’) of PPE [7]. These procedures should be performed
+with proper supervision by a trained observer. Active assistance during donning and doffing is an
+option for minimising the risk of accidental contamination.
+3.2.5 Hand hygiene should be performed immediately after removal of PPE.
+3.2.6 It is essential to ensure that the staff assigned to treat 2019-nCoV patients is trained in the proper
+use of PPE. Quality assurance should be promoted through appropriate systems, such as the
+requirement, before assigning staff to 2019-NCOV patient care, for a certificate of demonstrated
+competency in the correct use of PPE.
+3.2.7 Personnel providing care to 2019-nCoV cases need to be actively followed-up for development of
+symptoms and provided occupational health support. A record of all staff providing care for
+confirmed 2019-nCoV cases must be maintained. Staff providing care to confirmed 2019-nCoV
+cases, and staff who have been exposed to cases before the implementation of infection control
+measures, should be vigilant for fever and any respiratory symptoms in the 14 days following the
+last exposure to a confirmed case, and should seek testing, and thereafter self-isolate if they
+become unwell.
+3.2.8 The use of dedicated or, if possible, disposable medical equipment (e.g. blood pressure cuffs,
+stethoscopes and thermometers) is strongly recommended.
+3.2.9 Visits to the patient should be limited to the absolute minimum. Visitors should be instructed to
+wear appropriate PPE. A register of visitors should be maintained and monitoring for symptoms of
+2019-nCoV for 14 days after the last visit to a patient with confirmed 2019-nCoV is recommended.
+3.2.10 The duration of infectivity for 2019-nCoV patients remains unknown but critically ill patients may
+shed 2019-nCoV for long periods. Confirmed 2019-nCoV cases should remain in isolation until
+recovery from clinical symptoms of 2019-nCoV and viral detection tests should assist in the
+decision on when to discontinue additional precautions for hospitalised patients.
+3.3. Environmental cleaning and waste management
+3.3.1 Staff engaged in environmental cleaning and waste management should wear appropriate PPE, as
+indicated in the ECDC Tutorial on critical aspects of the safe use of PPE [7].
+3.2.11 Regular cleaning followed by disinfection of patients’ rooms, furniture and frequently touched
+surfaces with hospital disinfectants active against viruses is recommended.
+3.2.12 Waste should be treated as infectious clinical waste Category B (UN3291) [8] and handled
+according to healthcare facility policies and local regulation
+3.4. Laboratory testing
+3.4.1 All specimens collected for laboratory investigation should be regarded as potentially infectious, and
+healthcare workers who collect or transport clinical specimens should adhere rigorously to Standard
+Precautions to minimise the possibility of exposure to pathogens. The WHO Aide-memoire on
+Standard Precautions in Health Care is available from:
+http://www.who.int/csr/resources/publications/EPR_AM2_E7.pdf.
+3.4.2 Laboratories should adhere to the guidance in these two documents: The European Committee for
+Standardisation: CWA15793 Laboratory Biorisk Management, 2011, available from:
+https://www.uab.cat/doc/CWA15793_2011 and, Laboratory testing for 2019 novel coronavirus
+(2019-nCoV) in suspected human cases of January 2020, available from:
+https://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus
+ECDC TECHNICAL REPORT Infection prevention and control for the care of patients with 2019-nCoV in healthcare settings
+4
+References
+1. World Health Organization. Infection prevention and control of epidemic-and pandemic prone acute respiratory
+infections in health care. WHO guidelines 2014 [17 January 2020]. Available from:
+https://www.who.int/csr/bioriskreduction/infection_control/publication/en/.
+2. World Health Organization. Infection prevention and control during health care when novel coronavirus (nCoV)
+infection is suspected. Interim Guidance Geneva2020. WHO/2019-nCoV/IPC/v2020.1:[Available from:
+https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-
+coronavirus-(ncov)-infection-is-suspected.
+3. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol generating procedures and risk of transmission of
+acute respiratory infections to healthcare workers: a systematic review. PLoS One. 2012;7(4):e35797-e.
+4. Haut Conseil de la santé publique. Avis relatif à la définition et au classement des cas possibles et confirmés
+d’infection à MERS-CoV ainsi qu’aux précautions à mettre en oeuvre lors de la prise en charge de ces patients
+2015 [updated 24 April 2015]. Available from:
+https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspr20150424_infectionMersCovdefcasmodpec.pdf.
+5. Centers for Disease Control and Prevention. Interim Infection Prevention and Control Recommendations for
+Patients with Known or Patients Under Investigation for 2019 Novel Coronavirus (2019-nCoV) in a Healthcare
+Setting: CDC; 2020 [updated 28 January 2020]. Available from: https://www.cdc.gov/coronavirus/2019-
+nCoV/hcp/infection-control.html.
+6. Public Health England. Wuhan novel coronavirus (WN-CoV) infection prevention and control guidance 2020
+[updated 15 January 2020]. Available from: https://www.gov.uk/government/publications/wuhan-novel-
+coronavirus-infection-prevention-and-control/wuhan-novel-coronavirus-wn-cov-infection-prevention-and-control-
+guidance.
+7. European Centre for Disease Prevention and Control (ECDC). Safe use of personal protective equipment in the
+treatment of infectious diseases of high consequence Stockholm: ECDC; 2014. Available from:
+https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/safe-use-of-ppe.pdf.
+8. World Health Organisation (WHO). Guidance on regulations for the Transport of Infectious Substances 2013–
+2014 2012. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/78075/WHO_HSE_GCR_2012.12_eng.pdf?sequence=1.
+

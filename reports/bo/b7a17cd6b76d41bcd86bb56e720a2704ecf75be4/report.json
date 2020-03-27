@@ -1,0 +1,20 @@
+{
+    "filename": "4008-casos-positivos-de-coronavirus-suben-a-61-en-bolivia-y-tres-contagiados-estan-en-terapia-intensiva",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4008-casos-positivos-de-coronavirus-suben-a-61-en-bolivia-y-tres-contagiados-estan-en-terapia-intensiva",
+    "output": "file.pdf",
+    "downloaded": 1585279650,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 27 Mar 2020 03:31:50 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=55jboc3i0hs6ak3853jol6qbr1; path=\/; secure; HttpOnly",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Fri, 27 Mar 2020 03:31:50 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 656782,
+    "modified": 1585279659
+}

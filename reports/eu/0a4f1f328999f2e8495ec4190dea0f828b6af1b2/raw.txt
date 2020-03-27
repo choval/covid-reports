@@ -1,0 +1,555 @@
+Suggested citation: European Centre for Disease Prevention and Control. Outbreak of acute respiratory syndrome associated with
+a novel coronavirus, China: first local transmission in the EU/EEA – third update. 31 January 2020. ECDC: Stockholm; 2020.
+© European Centre for Disease Prevention and Control, Stockholm, 2020
+RAPID RISK ASSESSMENT
+Outbreak of acute respiratory syndrome
+associated with a novel coronavirus, China: first
+local transmission in the EU/EEA − third update
+31 January 2020
+Summary
+On 31 December 2019, a cluster of pneumonia cases of unknown aetiology was reported in Wuhan, Hubei
+Province, China. On 9 January 2020, China CDC reported a novel coronavirus (2019-nCoV) as the causative
+agent of this outbreak, which is phylogenetically in the SARS-CoV clade.
+As of 30 January 2020 09:00, more than 7 000 laboratory-confirmed 2019-nCoV cases have been reported
+worldwide, mainly in China, but also with more than 70 imported cases from other countries around the world.
+Details on the epidemiological update for 2019-nCoV can be found on ECDC’s website.
+So far, one hundred and seventy deaths associated with this virus have been reported. On 20 January, Chinese
+health authorities confirmed human-to-human transmission outside of Hubei province. Sixteen healthcare
+workers are reported to have been infected.
+On 24 January 2020, the first three cases of 2019-nCoV imported into the EU/EEA were identified in France
+and one additional case was reported on 29 January 2020. On 28 January, a cluster of four locally-acquired
+cases, with indirect links to Wuhan, was reported from Germany. On 29 January, Finland reported an imported
+case from Wuhan.
+China CDC assesses the transmissibility of this virus to be sufficient for sustained community transmission
+without unprecedented control measures. Further cases and deaths in China are expected in the coming days
+and weeks. Further cases or clusters are also expected among travellers from China, mainly Hubei province.
+Therefore, health authorities in the EU/EEA Member States should remain vigilant and strengthen their
+capacity to respond to such an event.
+There are considerable uncertainties in assessing the risk of this event, due to lack of detailed epidemiological
+analyses.
+On the basis of the information currently available, ECDC considers that:
+• the potential impact of 2019-nCoV outbreaks is high;
+• the likelihood of infection for EU/EEA citizens residing in or visiting Hubei province is estimated to be
+high;
+• the likelihood of infection for EU/EEA citizens in other Chinese provinces is moderate and will increase;
+• there is a moderate-to-high likelihood of additional imported cases in the EU/EEA;
+• the likelihood of observing further limited human-to-human transmission within the EU/EEA is estimated
+as very low to low if cases are detected early and appropriate infection prevention and control (IPC)
+practices are implemented, particularly in healthcare settings in EU/EEA countries;
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+2
+• assuming that cases in the EU/EEA are detected in a timely manner and that rigorous IPC measures
+are applied, the likelihood of sustained human-to-human transmission within the EU/EEA is currently
+very low to low;
+• the late detection of an imported case in an EU/EEA country without the application of appropriate
+infection prevention and control measures would result in the high likelihood of human-to-human
+transmission, therefore in such a scenario the risk of secondary transmission in the community setting is
+estimated to be high.
+What is new in this update
+• Increasing number of cases and deaths, in particular in China.
+• First cluster of autochthonous transmission in EU/EEA.
+• China CDC estimates for transmissibility.
+• Entry screening guidance.
+• Contact tracing guidance.
+• Findings from studies on initial cases.
+• Recommendation for reviewing pandemic preparedness plans in EU/EEA.
+Information on the novel coronavirus 2019-nCoV in China is being regularly updated on ECDC’s website, the
+European Commission website and WHO’s website.
+This risk assessment is based on published information available as of 30 January 2020, 09:00.
+Event background
+For an event background please visit ECDC’s website here and for the most recent information on the current
+situation regarding novel coronavirus 2019-nCoV please visit the following page.
+For detailed information regarding the cases detected in the EU/EEA as of 30 January, please visit the following
+page on ECDC’s website.
+Disease background
+For information on coronavirus infections (including SARS and MERS) please visit the following page on ECDC’s
+website.
+Novel coronavirus (2019-nCoV) infections
+In December 2019, a novel coronavirus (2019-nCoV) was first isolated from three patients with pneumonia,
+connected to the cluster of acute respiratory illness cases from Wuhan, China. Genetic analysis revealed that it is
+closely related to SARS-CoV and genetically clusters within the genus Betacoronavirus, forming a distinct clade in
+lineage B of the subgenus Sarbecovirus together with two bat-derived SARS-like strains [1,2]. The origin of the
+virus is not clear yet. Similar to SARS-CoV, a recent study confirmed that Angiotensin Converting Enzyme 2 (ACE
+2), a membrane exopeptidase, is the receptor used by 2019-nCoV for entry into the human cells [3].
+The virus was initially isolated in bronchoalveolar lavage fluid samples [2]. RNA of the virus has also been detected
+in blood samples [4]. So far, it is still unknown whether the virus is excreted in faeces or urine. In a report of a
+family cluster including six cases, RT-PCR was negative in urine and stool samples [5].
+Information on the epidemiological and clinical characteristics of the infection caused by 2019-nCoV is
+accumulating. The Chinese Center for Disease Control and Prevention estimates the incubation period to be
+between three and seven days, with a range of up to 14 days [6]. Their current estimate is that R0 is between 2
+and 3 [6]. However, these estimates are still uncertain and are expected to be updated as more information
+becomes available.
+In a first study of the clinical features of the infection (published 24 January 2020), most of the 41 hospitalised
+patients presented with fever, cough, and myalgia or fatigue [4]. Diarrhoea was uncommon. More than half of the
+patients developed dyspnoea after a median of eight days from the onset of symptoms and 13 (32%) were
+admitted to an intensive care unit (ICU). Invasive mechanical ventilation was required in four (10%) patients and
+extracorporeal membrane oxygenation (ECMO) in two (5%). Computed tomography imaging of the chest identified
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+3
+in almost all cases bilateral abnormalities, such as ground-glass opacities and sub segmental areas of consolidation
+in the milder cases, and lobular and sub segmental consolidation in cases admitted to ICU [4].
+So far, according to the WHO situation report of 27 January 2020, among the laboratory-confirmed cases, 17% are
+classified as severe [7]. In the same report, China accounts for 80 fatalities.
+Reported case fatality rates range from 4% in the Statement of the WHO Emergency Committee [8], to 14% when
+only recovered cases and deaths are included in the denominator, and 15% in the publication of a small case
+series of hospitalised patients [4,9]. A more recent study of 99 cases hospitalised between 1 January and 20
+January, reported that as of 25 January 31% had been discharged, 11% had died, and 58% were still admitted
+with final outcomes unknown at this time [10].
+Risk assessment questions
+What do we know about this outbreak associated with the novel coronavirus (2019-nCoV) in terms of mode of
+transmission, transmissibility, severity of disease and case fatality rates?
+Are there risk groups that have a higher susceptibility to (or probability of) severe disease following infection?
+What is the likelihood of infection for EU/EEA citizens residing in or visiting Hubei province or other provinces in
+China where cases are being reported?
+What are the most likely routes of introduction into EU/EEA Members States?
+What are the probabilities of introduction, exposure, infection and further transmission in the EU/EEA?
+What treatment and control measures are available, and how effective are they?
+ECDC risk assessment for the EU/EEA
+General assessment
+Many unknowns remain regarding the virulence/pathogenicity of the novel coronavirus, the mode of transmission,
+the reservoir and the source of infection. So far, the detailed epidemiological data available are still limited and
+therefore there are significant uncertainties in this risk assessment.
+This assessment is based on an evaluation of the limited evidence available and expert knowledge, following the
+ECDC rapid risk assessment methodology [11].
+There is clear evidence that visiting seafood markets in Wuhan is not the only risk factor for novel coronavirus
+infection. Human-to-human transmission is currently evident in and outside China (e.g. Vietnam, Taiwan[12],
+Germany) and cases among healthcare workers have been reported [13,14]. Sustained human-to-human
+transmission is likely to be occurring in the majority of provinces in China, although this cannot be accurately
+quantified with the epidemiological data available.
+The reproductive number (R0) has been estimated to be 2.2 (95% CI 1.4 to 3.9) [15]. This implies transmissibility
+similar to SARS (pre-intervention R0= 2-3) and higher than MERS (R0=0.7). The mean incubation period is
+estimated to be 5.2 days (95% CI, 4.1 to 7.0), with the 95th percentile of the distribution at 12.5 days, which
+supports using 14 days as a operational definition for contact tracing and monitoring.
+Modelling work supports the estimates of the reproductive number [16-18] and the incubation period made by the
+Chinese authorities. Analysis has also been made of the number of moderately severe cases in Wuhan and the
+importation risk to cities within and outside of China [19,20]. Data availability is limited and, to date, the analysis
+has focused on mobility patterns, not taking into account human-to-human transmission. Phylogenetic analysis
+implies that the most recent common ancestor was late November or early December 2019, indicating that
+historical sustained transmission in the human population is unlikely [21-23].
+Estimates of severity and case fatality rate should be interpreted with caution at this stage. In a published case
+series of the first 99 hospitalised cases, 17 (17%) patients developed acute respiratory distress syndrome and, 11
+(11%) patients died of multiple organ failure, while the majority of the cases remain hospitalised and final
+outcomes are as yet unknown [10].
+In a published report on a family cluster, one 10-year-old asymptomatic case was described with clear radiological
+signs of pneumonia and positive RT-PCR in nasopharyngeal and throat swab samples. However, the report did not
+describe any possible onward transmission from this case [5]. The recent cluster of four locally-acquired cases in
+Germany might be linked to a case that was asymptomatic during their stay in Germany. However, investigations
+are still ongoing for this event. According to China CDC, no evidence of asymptomatic transmission has been seen
+in field investigations. However, the possibility of asymptomatic cases being infectious would decrease the
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+4
+effectiveness of any screening measures based on symptoms, even though transmission dynamics are most likely
+to be driven by ambulant cases with severe symptoms.
+To limit the epidemic, Chinese authorities have implemented a number of extraordinary social distancing measures,
+such as the cancellation of Lunar New Year celebrations and the closure of cinemas and theme parks. In addition,
+public transportation systems have been shut down, Wuhan Tianhe airport was closed on 23 January, and strict
+exit screening has been enforced from a number of large cities in Hubei province. As of 24 January 2020, all public
+transport was suspended in at least 10 cities close to Wuhan, affecting more than 20.5 million people. Chinese tour
+operators have cancelled all group tours and temporarily postponed the selling of airline tickets and hotel
+packages. On 26 January, the authorities ordered a temporary ban on the trade in wild animals throughout China.
+The scale of these measures is unprecedented and the economic costs of such measures to the Chinese economy
+are considerable. Although the effectiveness and collateral effects of these measures are difficult to predict, they
+are expected to limit the immediate likelihood of further spread of the virus via travellers returning from Hubei
+province and China in general. The impact of such measures on the transmission dynamics inside these cities is
+also difficult to predict. Maintaining appropriate healthcare services, including safe care of 2019-nCoV patients will
+be challenging under such circumstances.
+Risk for travellers, importation and further spread in the
+EU/EEA
+More than 300 000 arrivals on direct flights, not accounting for indirect connections, from cities in China were
+expected in EU/EEA Member States during the month of January, similar to other months of the year. A significant
+proportion of these arrivals would normally occur between 19 January and 5 February 2020. The impact on
+international travel volumes of the current travel restrictions in China are difficult to assess at present.
+While the vast majority of cases are being reported from Hubei province, the risk of acquiring infection is not only
+limited to Hubei but to any area where cases are being detected. However, the epicentre of the outbreak remains
+in Wuhan, Hubei province. The likelihood of infection for EU/EEA citizens residing in or visiting Hubei province, is
+estimated to be high. The likelihood of infection for EU/EEA citizens in other Chinese provinces is moderate and will
+increase as the number of reported cases increases, or if sustained human-to-human transmission occurs in these
+provinces.
+The number of cases reported outside of China is rising. All of the secondary cases have a direct or indirect
+epidemiological link to Wuhan. To date, the likelihood of EU/EEA citizens in countries other than China being
+infected is considered very low to low, depending on the ability of the country to detect and manage cases.
+On 28 January 2020, Germany reported the detection of four locally-acquired cases. All four are the result of
+secondary transmission and have an indirect epidemiological link to Wuhan [24]. On 29 January, France reported
+the detection of a fourth confirmed case with an epidemiological link to Wuhan. On 29 January, Finland reported
+its first imported case from Wuhan.
+There is a moderate-to-high likelihood of additional cases being imported into the EU/EEA. This likelihood is partly
+due to the fact that although Wuhan Tianhe airport was closed on 23 January 2020, the incubation period of up to
+fourteen days means that infected individuals might yet develop symptoms in the coming days. In addition, Wuhan
+city authorities estimate that five million residents travelled out of the city prior to travel restrictions and imported
+cases may continue to arrive via airports in other cities where community transmission of the virus might be
+ongoing.
+Sustained human-to-human transmission has been described in Hubei province and is increasingly likely outside of
+Hubei. Assuming that cases are detected in the EU/EEA in a timely manner and that rigorous IPC measures are
+applied, the likelihood of sustained human-to-human transmission within the EU/EEA is currently very low to low.
+Should cases be detected at a late stage and ICP measures not implemented, the likelihood of sustained human-
+to-human transmission within the EU/EEA would become moderate.
+The late detection of an imported case (e.g. an asymptomatic or mild case) in an EU/EEA country without the
+application of appropriate infection prevention and control measures would result in the high likelihood of human-
+to-human transmission; therefore, in such a scenario the risk of secondary transmission in the community setting is
+estimated to be high. If, however, asymptomatic cases and cases with mild symptoms do not play an extensive
+role in the transmission of the virus, and if imported cases are detected at an early stage and IPC measures
+implemented, the likelihood of observing further limited human-to-human transmission within the EU/EEA would be
+very low to low.
+Further information is needed to assess the role of potential asymptomatic cases and cases with mild symptoms in
+the dynamics of the outbreak in order to address current uncertainties concerning the level of risk of sustained
+human-to-human transmission, and the effectiveness of control measures focussing on symptomatic case
+detection. If asymptomatic or mild cases are able to transmit the virus, this would indicate that detection of
+individuals who pose an infectious risk could not be based only on clinical history and examination. Moreover, in
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+5
+the absence of widespread screening with laboratory tests there would be an increased likelihood of further limited
+human-to-human transmission within the EU/EEA, particularly among family members and in healthcare settings.
+Systematic implementation of infection prevention and control measures were important in controlling both SARS-
+CoV and MERS-CoV. The impact of sustained transmission within the EU/EEA would be high. The risk of having
+sustained human-to-human transmission in the EU/EEA is therefore considered to be moderate, if cases are
+detected in a timely manner and rigorous IPC measures are applied. The risk of sustained human-to-human
+transmission in the EU/EEA is high if cases are not detected in a timely manner and IPC measures are not applied
+rigorously.
+Risk of transmission on aircrafts
+No cases of 2019-nCoV have been reported to have been infected on-board an aircraft.
+The assessment of possible transmission of 2019-nCoV on an aircraft needs to be undertaken on a case-by-case
+basis. This individual risk assessment should take into account the index case classification, the symptoms and
+disease severity during the flight, and the timing of possible contact tracing in relation to the flight.
+Risk of healthcare-associated transmission
+Sixteen healthcare workers are reported to have been infected in Wuhan in connection with this outbreak, many
+from the same healthcare facility [25]. Without further information, we assume that these healthcare workers did
+not have other exposure and that these are cases of healthcare-associated infections. Based on the evidence from
+the SARS and MERS outbreaks, the likelihood of healthcare-associated transmission following management of a
+confirmed case is considered low, provided that appropriate IPC measures are implemented for staff, patients and
+visitors [26]. Risk of infection for healthcare staff involved in aerosol-generating procedures without appropriate
+personal protection equipment (PPE) is considered high [27].
+Options for response
+The options for response might change when more epidemiological and clinical data become available. During the
+current phase, it is important for EU/EEA countries to focus on containment measures that prevent and/or limit
+secondary transmission in the community and healthcare settings. Should the epidemiological situation evolve to
+signal significant and sustained community transmission in locations outside of Hubei province, containment
+measures will become increasingly ineffective in limiting introduction of community transmission in EU/EEA
+countries, although such measures might delay local introductions by some days or weeks.
+To this end, during this phase of containment, countries should ensure early detection, laboratory confirmation,
+appropriate management and isolation of suspected, probable and confirmed cases under appropriate IPC
+conditions, along with rigorous contact tracing and follow-up of contacts. When local transmission chains are
+established, public health resources will be better used to focus on mitigation measures.
+Testing guidance and reporting of 2019-nCoV in the EU/EEA
+ECDC has updated the guidance document on laboratory testing of suspected cases of novel coronavirus (2019-
+nCoV) using RT-PCR for the EU/EEA Member States, addressing issues such as how to identify suspected cases
+and when to initiate testing [28-30].
+Member States should review the national laboratory diagnostic capacity for coronaviruses and the procedures for
+transporting samples [31]. On 21 January, ECDC launched a survey through EVD-LabNet to assess the EU/EEA
+Member States laboratory capacity to diagnose 2019-nCoV cases. Responses are currently being collected and
+preliminary results are expected to be shared next week.
+For the National Influenza Centers, WHO has established a mechanism to support rapid shipment of diagnostic
+samples to be tested for 2019-nCoV from a country to the 2019-nCoV “WHO referral” laboratories through the
+Global Influenza Surveillance and Response System (GISRS) Shipping Fund Project (SFP) (personal
+communication).
+On 22 January 2020, WHO published an interim guidance for global surveillance of novel coronavirus infection
+(2019-nCoV) [32]. The guidance includes a case definition for suspected, probable and confirmed cases, and an
+interim case reporting form [32]. The case definition for suspected cases is based on the current information
+available on the outbreak and may be subject to revision, depending on new data becoming available.
+For surveillance at the European level, the European Commission, ECDC and WHO’s Regional Office for Europe ask
+countries to report probable and confirmed cases of 2019-nCoV infections using the global case definition within 24
+hours of identification. Countries in the EU/EEA should notify probable and confirmed cases of 2019-nCoV without
+delay through the Early Warning and Response System (EWRS), including IHR notification. The more detailed case
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+6
+reporting forms are collected for all the countries in the WHO European Region through The European Surveillance
+System (TESSy) [33]. ECDC and WHO’s Regional Office for Europe are coordinating the rapid reporting of data, as
+requested in the WHO case reporting form, in collaboration with their surveillance networks in Member States.
+Travel-related measures
+Travel volumes between China and EU/EEA countries are in the range of 300−400 000 passengers per month
+arriving on direct flights, not accounting for indirect flight arrivals. Given this level of movement, it remains possible
+that imported cases of 2019-nCoV will be detected for as long as significant community transmission is occurring in
+China.
+Travellers visiting China should be advised to avoid contact with sick persons, in particular those with respiratory
+symptoms and fever. Travellers should also avoid wet markets or places where live or dead animals are handled.
+They should also practice good hand hygiene, and avoid contact with animals, their excretions or droppings.
+In addition, due to the current high activity of the seasonal influenza epidemic in China, travellers should receive
+seasonal influenza vaccination in accordance with recommendations from national health authorities at least two
+weeks prior to travel to prevent severe influenza disease, in accordance with the respective national
+recommendations.
+Travellers who develop acute respiratory symptoms within 14 days of returning from China should be advised to
+seek immediate medical attention and indicate their travel history to the healthcare specialist. Local and national
+authorities in China have current travel restrictions in place for Wuhan, other cities in Hubei and other provinces.
+US CDC has also increased the travel health advisory level to 3 and advises travellers to avoid non-essential travel
+to China [34]. Several EU/EEA countries have issued or are considering travel advice for travellers to China.
+EU/EEA countries should review their procedures for informing incoming and outgoing passengers from/to China of
+the situation concerning 2019-nCoV at their Points of Entry (PoE), also providing advice for persons who develop
+2019-nCoV-compatible symptoms after their return, in accordance with national planning [31,35]. ECDC has
+published a template leaflet for travel advice relating to 2019-nCoV. Member States may consider guiding these
+cases to a particular call centre or healthcare facility, depending on their planning.
+Entry/exit screening of travellers
+WHO and the Emergency Committee under IHR emphasised to China the need to re-enforce exit screening from
+the affected areas.
+Entry screening for 2019-nCoV involves the use of thermal scanning and/or symptom screening. In general,
+evidence in peer-reviewed literature does not support entry screening as an efficient measure for detecting
+incoming travellers with infectious diseases, especially in this case where the symptoms of the disease are very
+common and the timeline coincides with the increased activity of seasonal influenza in Europe and China [36-40].
+However, some imported 2019-nCoV cases in Asian countries have been detected through entry screening
+procedures at destination airports.
+Modelling work by ECDC has assessed the effectiveness of entry screening in detecting travellers infected with
+nCoV to be low. Approximately 75% of cases from affected Chinese cities would arrive at their destination in the
+incubation period and remain undetected, even if the efficacy of the screening test to detect symptomatic
+individuals were 80% for both exit and entry screening.
+Contact tracing
+EU/EEA countries should review their procedures for contact tracing and contact follow-up, and may wish to refer
+to guidance that ECDC has published on these activities [41].
+Extensive contact tracing is recommended in assessing the contacts of the first probable and confirmed cases
+detected in EU/EEA countries in order to strengthen the evidence base on the characteristics and transmission
+pattern of the disease.
+A close contact of a probable or confirmed 2019-nCoV case is defined as a person living in the same household as a
+2019-nCoV case, a person who has had face-to-face contact or stayed in a closed environment with a 2019-nCoV
+case, a healthcare worker or other person providing direct care for a 2019-nCoV case, or laboratory workers handling
+2019-nCoV specimens.
+Furthermore, aircraft passengers sitting two seats in all directions around a 2019-nCoV case, travel companions or
+persons providing care, and crew members serving the section of the aircraft where the index case was seated [42]
+would be considered a close contact. If severity of symptoms or movement of the case indicates more extensive
+exposure, passengers seated in the entire section or all passengers on the aircraft can be considered close contacts.
+For the initial cases in this outbreak, ECDC recommends extensive contact tracing in order to gather a stronger
+evidence base for transmission, or lack of transmission, on-board aircraft.
+Close contacts of probable and confirmed 2019-nCoV cases should be actively monitored for the development of
+symptoms until 14 days after the last exposure. They should avoid social contact and travel.
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+7
+All contacts, including casual contacts, should be provided with instructions on how to seek medical advice if they
+develop symptoms such as fever, cough or difficulty breathing.
+Ideally, close contacts should have a baseline serum sample collected and stored, which can be used for
+comparison of paired sera if required later.
+Infection prevention and control during healthcare
+Further secondary transmission may occur in EU/EEA countries among close contacts, for instance close family
+members. In order to prevent secondary transmission in the community and healthcare settings, EU/EEA countries
+should ensure that timely and rigorous infection prevention and control measures (IPC) are applied when dealing
+with suspect cases, from the first suspicion of 2019-nCoV.
+Healthcare providers should be informed of the ongoing outbreak. According to current knowledge, the clinical signs
+and symptoms of severe disease include fever, coughing or difficulty breathing, with the radiological findings of
+pneumonia [4]. Upper respiratory tract symptoms and diarrhoea may also be present. Patients can present with mild,
+moderate, or severe illness including severe pneumonia, acute respiratory distress syndrome (ARDS), sepsis and
+septic shock. Travellers returning from China who develop symptoms of acute respiratory infection within 14 days of
+travel should be identified for testing and reported promptly to the respective public health authorities [30].
+There is limited information available at present to provide detailed guidance on appropriate infection prevention
+and control practices. However, the evidence of human-to-human transmission and the report of infections among
+healthcare staff in Wuhan reinforces the recommendation for rigorous compliance with IPC measures. WHO’s
+interim guidance recommends placement of suspected and confirmed cases in single rooms, implementation of
+contact and droplet precautions, and airborne precautions when performing aerosol generating procedures or
+interventions [43-45]. Although there is no evidence of airborne transmission so far, ECDC recommends a cautious
+approach for all patient contacts, with placement of patients in airborne isolation rooms with negative pressure and
+use of FFP2 or FFP3 respirators with appropriate fit testing. ECDC has published a leaflet entitled ‘Advice to
+healthcare workers: management of patients with 2019-nCoV infection’.
+There is currently no specific treatment or vaccine against respiratory illness caused by coronavirus or 2019-nCoV
+in particular. WHO has published interim guidance on clinical management of severe acute respiratory infection
+when novel coronavirus (nCoV) infection is suspected.
+In addition, Member States are urged to review their procedures for in-country transportation, isolation and
+management of high-consequence infectious disease cases, including staffing and laboratory support [31].
+Novel coronavirus and substances of human origin (SoHO) safety
+The potential for transmission of the 2019-nCoV through substances of human origin (SoHO) is unknown. Possible
+viraemia during the disease incubation period, during a possible asymptomatic course of infection, or after
+symptom resolution are also unknown and remain a concern in relation to the safety of SoHO. Therefore, until
+more information is available on the epidemiology and pathogenesis of this infection, SoHo safety authorities in the
+EU/EEA countries may follow the recommendation used for SARS-CoV and MERS-CoV. This implies a precautionary
+deferral from donation of blood, cells and tissues donors for 21 days after possible exposure to a confirmed case or
+after returning from China.
+Additionally, recovering confirmed cases of 2019-nCoV should be deferred as donors for at least 28 days after
+symptom resolution and completion of therapy, due to the current uncertainty regarding possible persistence of
+viremia and/or viral shedding in body fluids. Potential organ donors at risk of being infected should be laboratory-
+tested for the presence of the virus. Lipid-enveloped RNA viruses such as the novel coronavirus (2019-nCoV)
+should be readily removed and/or inactivated during the manufacturing of plasma derivatives [46,47].
+First few hundred cases
+Public health authorities should encourage and support detailed epidemiological studies of the first case series
+encountered in Europe. In addition to the notifications using the WHO case reporting form on TESSy, the PREPARE
+network encourages data collection on European cases to further assess the clinical characteristics and
+effectiveness of treatment options using a standardised protocol [48]. A similar protocol and further guidance is
+provided by WHO through the ISARIC collaboration [49]. WHO has also published a household transmission
+investigation protocol for 2019-nCoV infection [50].
+Preparedness for sustained community transmission in EU/EEA
+Based on the evolution of the epidemic in China and the detection of cases and one cluster with autochthonous
+transmission in EU/EEA, public health authorities are encouraged as a precautionary measure to review their
+preparedness for community transmission of novel respiratory and high consequence pathogens. All EU/EEA Member
+States have pandemic preparedness plans, which will be well-suited for use in such a scenario. Consideration should
+be given to convening a multi-sectoral pandemic planning committee, as described in national plans.
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+8
+Limitations
+This assessment is undertaken based on facts known to ECDC at the time of publication. There is a substantial
+level of uncertainty regarding the epidemiological characteristics of the 2019-nCoV. There is limited epidemiological
+and clinical information on the cases of 2019-nCoV identified so far (e.g. infection sources, risk factors for
+infection, risk factors for severe illness, extent of person-to-person transmissibility, transmission modes, effective
+preventive measures, and clinical presentation and evolution). Therefore, the level of uncertainty of this risk
+assessment is high.
+Given these limitations, ECDC will revise the current risk assessment as soon as more information becomes
+available.
+Source and date of request
+ECDC internal decision, 28 January 2020.
+Consulted experts
+ECDC experts (in alphabetic order): Agoritsa Baka, Eeva Broberg, Sergio Brusin, Bruno Ciancio, Dragoslav
+Domanovic, Céline Gossner, Josep Jansa, Helen Johnson, Katrin Leitmeyer, Hanna Merk, Thomas Mollet, Teymur
+Noori, Pasi Penttinen, Diamantis Plachouras, Emmanuel Robesyn.
+Disclaimer
+ECDC issues this risk assessment document based on an internal decision and in accordance with Article 10 of
+Decision No 1082/13/EC and Article 7(1) of Regulation (EC) No 851/2004 establishing a European centre for
+disease prevention and control (ECDC). In the framework of ECDC’s mandate, the specific purpose of an ECDC risk
+assessment is to present different options on a certain matter. The responsibility on the choice of which option to
+pursue and which actions to take, including the adoption of mandatory rules or guidelines, lies exclusively with the
+EU/EEA Member States. In its activities, ECDC strives to ensure its independence, high scientific quality,
+transparency and efficiency.
+This report was written with the coordination and assistance of an Internal Response Team at the European Centre
+for Disease Prevention and Control. All data published in this risk assessment are correct to the best of our
+knowledge at the time of publication. Maps and figures published do not represent a statement on the part of
+ECDC or its partners on the legal or border status of the countries and territories shown.
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+9
+References
+1. World Health Organization. WHO Statement Regarding Cluster of Pneumonia Cases in Wuhan, China
+Geneva 2020 [updated 9 January 2020 and 14 January 2020]. Available from:
+https://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-
+cases-in-wuhan-china
+2. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia
+in China, 2019. 24 January 2020. New England Journal of Medicine.
+3. Letko M, Munster V. Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses,
+including 2019-nCoV. bioRxiv. 22 January 2020. 915660.
+4. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with 2019 novel
+coronavirus in Wuhan, China. The Lancet. 24 January 2020.
+5. Chan JF-W, Yuan S, Kok K-H, To KK-W, Chu H, Yang J, et al. A familial cluster of pneumonia associated
+with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The
+Lancet. 24 January 2020.
+6. Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel
+Coronavirus 28 January 2020 [cited 29 January 2020]. Available from:
+http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf
+7. World Health Organization (WHO). Novel Coronavirus (2019-nCoV) Situation Report - 7 2020 [28 January
+2020]. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200127-
+sitrep-7-2019--ncov.pdf?sfvrsn=98ef79f5_2
+8. World Health Organization (WHO). Statement on the meeting of the International Health Regulations
+(2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV) 2020 [updated 23
+January 2020]. Available from: https://www.who.int/news-room/detail/23-01-2020-statement-on-the-
+meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-
+novel-coronavirus-(2019-ncov)
+9. Wu P, Hao X, Lau EHY, Wong JY, Leung KSM, Wu JT, et al. Real-time tentative assessment of the
+epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020.
+Eurosurveillance. 2020;25(3):2000044.
+10. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical characteristics of 99 cases
+of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet. 29 January 2020.
+11. European Centre for Disease Prevention and Control (ECDC). Operational tool on rapid risk assessment
+methodology: ECDC; 2019. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/operational-tool-rapid-risk-assessment-
+methodolgy-ecdc-2019.pdf
+12. Taiwan Centers for Disease Control. Central Epidemic Command Center (CECC) announces 1 indigenous
+case of 2019 novel coronavirus (2019-nCoV) infection in Taiwan. Health agencies proceeds with
+prevention measures 2020 [29 January 2020]. Available from:
+https://www.cdc.gov.tw/En/Bulletin/Detail/aUHeydo4xe02EGThyPhckQ?typeid=158
+13. Health Commission of Guangdong Province. Our province actively responds to pneumonia epidemic of
+new coronavirus infection 2020 [20 January 2020]. Available from:
+http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2876926.html.
+14. People.cn. #New coronavirus pneumonia latency 2020 [updated 21 January 2020]. Available from:
+https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85
+%E6%AF%92%E8%82%BA%E7%82%8E%E6%BD%9C%E4%BC%8F%E6%9C%9F%23&from=default
+15. Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early Transmission Dynamics in Wuhan, China, of
+Novel Coronavirus–Infected Pneumonia. The New England Journal of Medicine. 29 January 2020.
+16. Read JM, Bridgen JR, Cummings DA, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early estimation of
+epidemiological parameters and epidemic predictions. medRxiv. 23 January 2020.20018549.
+17. Imai N, Cori A, Dorigatti I, Baguelin M, Donnelly CA, Riley S, et al. Report 3: Transmissibility of 2019-nCoV
+2020 [updated 24 January 2020]. Available from: https://www.imperial.ac.uk/mrc-global-infectious-
+disease-analysis/news--wuhan-coronavirus/
+18. Leung G, Wu J. Real-time nowcast and forecast on the extent of the Wuhan CoV outbreak, domestic and
+international spread. 2020. Media Conference 27 January 2020. Li Ka Shing Faculty of Medicine, University
+of Hong Kong.
+19. Imai N, Dorigatti I, Cori A, Riley S, Ferguson N. Estimating the potential total number of novel Coronavirus
+(2019-nCoV) cases in Wuhan City, China 2020 [17 January 2020]. Available from:
+https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+20. Leung K, Wu J, Leung G. Nowcasting and forecasting the Wuhan 2019-nCoV outbreak 2020 [21 January
+2020]. Available from: https://files.sph.hku.hk/download/wuhan_exportation_preprint.pdf
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+10
+21. Rambaut A. Preliminary phylogenetic analysis of 11 nCoV2019 genomes, 2020-01-19 2020 [21 January
+2020]. Available from: http://virological.org/t/preliminary-phylogenetic-analysis-of-11-ncov2019-genomes-
+2020-01-19/329
+22. Rambaut A. Phylogenetic analysis of nCoV-2019 genomes - 27-Jan-2020 2020 [cited 29 January 2020].
+Available from: http://virological.org/t/phylodynamic-analysis-of-ncov-2019-genomes-27-jan-2020/353
+23. Andersen K. Clock and TMRCA based on 27 genomes Novel 2019 coronavirus 2020 [cited 29 January
+2020]. Available from: http://virological.org/t/clock-and-tmrca-based-on-27-genomes/347
+24. Bayerisches Landesamt fur Gesundheit und Lebensmittelsicherheit. Neuartiges Coronavirus 2019-nCoV in
+Wuhan 2020 [cited 29 January 2020]. Available from:
+https://www.lgl.bayern.de/gesundheit/infektionsschutz/infektionskrankheiten_a_z/coronavirus/2019_ncov.
+htm#erster
+25. Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. The
+Lancet. 24 January 2020.
+26. World Health Organization (WHO). Infection prevention and control during healthcare when novel
+coronavirus (nCoV) infection is suspected. Interim Guidance. Geneva 2020. WHO/2019-
+nCoV/IPC/v2020.1. Available from: https://www.who.int/publications-detail/infection-prevention-and-
+control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected
+27. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol generating procedures and risk of
+transmission of acute respiratory infections to healthcare workers: a systematic review. PLoS One.
+2012;7(4):e35797-e.
+28. World Health Organization (WHO). Laboratory testing for 2019 novel coronavirus (2019-nCoV) in
+suspected human cases 2020 [17 January 2020]. Available from: https://www.who.int/publications-
+detail/laboratory-testing-for-2019-novel-coronavirus-in-suspected-human-cases-20200117
+29. Corman V, Bleicker T, Brünink S, Drosten C, Landt O, Koopmans M, et al. Diagnostic detection of Wuhan
+coronavirus 2019 by real-time RTPCR 2020 [17 January 2020]. Available from:
+https://www.who.int/docs/default-source/coronaviruse/wuhan-virus-assay-
+v1991527e5122341d99287a1b17c111902.pdf?sfvrsn=d381fc88_2
+30. European Centre for Disease Prevention and Control (ECDC). Case definition and European surveillance
+for human infection with novel coronavirus (2019-nCoV) [30 January 2020]. Available from:
+https://www.ecdc.europa.eu/en/case-definition-and-european-surveillance-human-infection-novel-
+coronavirus-2019-ncov
+31. European Centre for Disease Prevention and Control (ECDC). Health emergency preparedness for
+imported cases of high-consequence infectious diseases 2019 [17 January 2020]. Available from:
+https://www.ecdc.europa.eu/en/publications-data/health-emergency-preparedness-imported-cases-high-
+consequence-infectious-diseases
+32. World Health Organization (WHO). Global Surveillance for human infection with novel coronavirus (2019-
+nCoV) 2020 [21 January 2020]. Available from: https://www.who.int/docs/default-
+source/coronaviruse/20200121-global-surveillance-for-2019-ncov.pdf?sfvrsn=9d82f528_4&download=true
+33. European Centre for Disease Prevention and Control (ECDC). 2019 novel coronavirus (nCoV) disease data
+Reporting Protocol. Version 1, 27 January 2020.
+34. US Centers for Disease Control and Prevention (CDC). 2019 Novel Coronavirus, Wuhan, China
+Information for Travelers 2020 [cited 2020 29 January 2020]. Available from:
+https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html
+35. World Health Organization (WHO). Risk communication and community engagement readiness and initial
+response for novel coronaviruses (nCoV) 2020 [17 January 2020]. Available from:
+https://www.who.int/publications-detail/risk-communication-and-community-engagement-readiness-and-
+initial-response-for-novel-coronaviruses-(-ncov)
+36. Huizer Y, Swaan C, Leitmeyer K, Timen A. Usefulness and applicability of infectious disease control
+measures in air travel: a review. Travel Medicine and Infectious Disease. 2015;13(1):19-30.
+37. European Centre for Disease Prevention and Control (ECDC). Entry and exit screening measures 2014 [30
+January 2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/Ebola-outbreak-
+technicalreport-exit-entry-screening-13Oct2014.pdf
+38. John RKS, King A, De Jong D, Bodie-Collins M, Squires SG, Tam TW. Border screening for SARS. Emerging
+Infectious Diseases. 2005;11(1):6.
+39. Gunaratnam PJ, Tobin S, Seale H, Marich A, McAnulty J. Airport arrivals screening during pandemic
+(H1N1) 2009 influenza in New South Wales, Australia. Medical Journal of Australia. 2014;200(5):290-2.
+40. Shu P-Y, Chien L-J, Chang S-F, Su C-L, Kuo Y-C, Liao T-L, et al. Fever screening at airports and imported
+dengue. Emerging Infectious Diseases. 2005;11(3):460.
+RAPID RISK ASSESSMENT Outbreak of acuterespiratorysyndromeassociated with a novelcoronavirus, China - third update. 31 January2020
+11
+41. European Centre for Disease Prevention and Control (ECDC). Public health management of persons having
+had contact with novel coronavirus cases in the European Union 2020 [cited 30 January 2020]. Available
+from: https://www.ecdc.europa.eu/en/publications-data/public-health-management-persons-having-had-
+contact-novel-coronavirus-cases
+42. European Centre for Disease Prevention and Control (ECDC). Risk assessment guidelines for infectious
+diseases transmitted on aircraft (RAGIDA) Middle East Respiratory Syndrome Coronavirus (MERS-CoV)
+2020 [updated January 2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/infectious-diseases-transmitted-on-aircrafts-
+ragida-risk-assessment-guidelines.pdf
+43. World Health Organization (WHO). Clinical management of severe acute respiratory infection when novel
+coronavirus (nCoV) infection is suspected 2020 [30 January 2020]. Available from:
+https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-
+novel-coronavirus-(ncov)-infection-is-suspected
+44. World Health Organization (WHO). Infection prevention and control during healthcare when novel
+coronavirus (nCoV) infection is suspected 2020 [17 January 2020]. Available from:
+https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-
+coronavirus-(ncov)-infection-is-suspected
+45. World Health Organization (WHO). Infection prevention and control of epidemic-and pandemic prone
+acute respiratory infections in healthcare. WHO guidelines 2014 [17 January 2020]. Available from:
+https://www.who.int/csr/bioriskreduction/infection_control/publication/en/
+46. Lamarre A, Talbot PJ. Effect of pH and temperature on the infectivity of human coronavirus 229E.
+Canadian Journal of Microbiology. 1989;35(10):972-4.
+47. Bucknall RA, King LM, Kapikian AZ, Chanock RM. Studies with human coronaviruses II. Some properties of
+strains 229E and OC43. Proceedings of the Society for Experimental Biology and Medicine.
+1972;139(3):722-7.
+48. Platform for European Preparedness Against (Re-)emerging Epidemics. Press release - European response
+to outbreak with novel Coronavirus in China 2020 [cited 29 January 2020]. Available from:
+https://www.prepare-europe.eu/News/News-items/ID/1209
+49. International Severe Acute Respiratory and Emerging Infection Consortium (ISARIC). Novel coronavirus (nCoV)
+acute respiratory infection clinical characterisation data tool 2020 [cited 29 January 2020]. Available from:
+https://isaric.tghn.org/site_media/media/medialibrary/2020/01/ISARIC_nCoV_CRF_V1.2_28Jan2020.pdf
+50. World Health Organization (WHO). Household transmission investigation protocol for 2019-novel
+coronavirus (2019-nCoV) infection 2020 [cited 29 January 2020]. Available from:
+https://www.who.int/publications-detail/household-transmission-investigation-protocol-for-2019-novel-
+coronavirus-(2019-ncov)-infection
+

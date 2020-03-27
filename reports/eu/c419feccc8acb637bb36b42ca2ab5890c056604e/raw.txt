@@ -1,0 +1,243 @@
+TECHNICAL REPORT
+Novel coronavirus (SARS-CoV-2)
+Discharge criteria for confirmed COVID-19 cases –
+When is it safe to discharge COVID-19 cases from the hospital or
+end home isolation?
+This document has been produced upon request of an EU/EEA Member State. It suggests criteria to be
+considered when deciding whether a confirmed COVID-19 case can be safely (i.e. without being infectious)
+discharged from hospital or released from home isolation.
+To address this request, the following working questions were developed:
+ What is the duration of SARS-CoV-2 virus shedding in bodily fluids of symptomatic patients after remission
+of symptoms?
+ What is the duration of SARS-CoV-2 virus shedding in bodily fluids of asymptomatic patients?
+ Which tests are available to document the lack of infectivity in a previously diagnosed infection?
+ What is the longest documented transmission from an asymptomatic person?
+Below ECDC provides a desk review of existing guidance documents and protocols from national and
+international organisations and a convenient search of peer-reviewed publications.
+What is the duration of SARS-CoV-2 virus shedding in
+bodily fluids of symptomatic patients after remission of
+symptoms?
+SARS-CoV-2 virus can initially be detected 1–2 days prior to symptom onset in upper respiratory tract samples;
+the virus can persist for 7–12 days in moderate cases and up to 2 weeks in severe cases (WHO mission to China
+Report) [1]. In faeces, viral RNA has been detected in up to 30% of patients from day 5 after onset and up to 4
+to 5 weeks in moderate cases. The significance of faecal viral shedding for transmission still has to be clarified
+[1].
+Prolonged viral shedding from nasopharyngeal aspirates – up to at least 24 days after symptom onset – was
+reported among COVID-19 patients in Singapore [2]. Researchers from Germany also reported prolonged viral
+shedding with high sputum viral load after recovery in a convalescent patient [3]. They acknowledge, however,
+that viability of SARS-CoV-2 detected by qRT-PCR in this patient has not been proven by viral culture.
+Prolonged virus shedding has been observed among convalescent children after mild infections, in respiratory
+tract samples (22 days) and faeces (between two weeks and more than one month) [4].
+A shift from positive oral swab samples during early infection to positive rectal swab samples during late infection
+was observed on Chinese patients; the authors raised concerns about the fact that COVID-19 patients were
+discharged from hospital on the basis of negative oral swabs [5].
+Discharge criteria for confirmed COVID-19 cases ECDC TECHNICAL REPORT
+2
+Researchers from China report that in upper respiratory specimens, the pattern of viral nucleic acid shedding in
+SARS-CoV-2-infected patients resembles that of patients with influenza; it also appears to be different from the
+pattern seen in patients infected with SARS-CoV-1 [6].
+ECDC comment: Although the oral-faecal route does not appear to be a driver of transmission, its significance
+remains to be determined. Discharged patients should be advised to strictly follow personal hygiene precautions
+in order to protect household contacts. This applies to all convalescing patients, but particularly to convalescent
+children.
+What is the duration of SARS-CoV-2 virus shedding in
+bodily fluids of asymptomatic patients?
+The virus has been detected in asymptomatic persons. Pan et al. report on a family cluster where a mother and a
+child were both asymptomatic but had positive RT-PCR results [7] . Hoehl et al. (2020) also report that two out
+of 114 Germans who were evacuated from Hubei province on 1 Feb 2020 tested positive in two throat swab
+specimens by RT-PCR and presented no symptoms [8]. The two persons were isolated in a hospital in Frankfurt
+where a faint rash and minimal pharyngitis was observed in one of them. Both patients were still well and
+afebrile 7 days after admission. Potential infectivity was confirmed by virus culture.
+Zou et al. 2020 report that the viral load of asymptomatic patients was similar to symptomatic patients,
+indicating a transmission potential of asymptomatic or pre-symptomatic patients [6]. The study reports that
+patients with few or no symptoms had modest levels of detectable viral RNA in the oropharynx for at least 5
+days [6].
+Potential transmission from asymptomatic persons has been reported. Bai et al. 2020 report a familial cluster of
+five COVID-19 patients hospitalised with fever and respiratory symptoms that had contact before onset of
+symptoms with an asymptomatic family member, a young 20-year-old woman, after her return from Wuhan. She
+remained asymptomatic for the entire duration of laboratory and clinical monitoring (19 days) [9].
+ECDC comment: Provided that there are sufficient resources, there is a clear benefit in testing asymptomatic
+patients before they are released from isolation. However, in the context of limited resources for healthcare and
+laboratories during the COVID-19 epidemic, the testing of symptomatic persons should have priority over the
+testing of asymptomatic patients before release from isolation.
+Which tests are available to document the lack of
+infectivity in a previously diagnosed infection?
+On its website, ECDC provides the following advice. The specific tests currently recommended by WHO for the
+diagnosis and confirmation of SARS-CoV-2 are described on a dedicated WHO webpage. A single positive test
+should be confirmed by a second RT-PCR assay targeting a different SARS-CoV-2 gene. A single negative SARS-
+CoV-2 test (especially if from an upper respiratory tract specimen) or a positive test result for another respiratory
+pathogen result does not exclude SARS-CoV-2 infection.
+A high RT-PCR cycle threshold value (e.g. > 35) obtained as a result in E-gene RT-PCR could be due to E-gene
+positive control contamination of reagents. In countries where the epidemic is not yet widespread, all positive
+results should therefore be confirmed by a second gene target. In countries with a widespread epidemic, one
+gene target is considered enough (see WHO’s updated laboratory guidance). However, confirmation of positive
+test results that have high CT values should still be considered in all regions and countries.
+What is the longest documented transmission from an
+asymptomatic person?
+There is insufficient evidence to provide a qualified answer to this question.
+Significance of persistence of viral RNA vs. infectious virus?
+Viral RNA can persist over long periods of time in bodily fluids. This does not necessarily mean that the person is
+still infectious. Isolation of viruses in virus culture is needed to show the infectivity of the virus. Hoehl et al. 2020
+reported infectious virus from two asymptomatic cases [8].
+An overview of recommendations for the de-isolation of COVID-19 patients from national bodies in countries that
+have experienced local transmissions of SARS-CoV-2 is presented in the Table below.
+ Despite of some differences in practice, a consensus exists to combine a) the evidence for viral RNA
+clearance from the upper respiratory tract with b) the clinical resolution of symptoms.
+Discharge criteria for confirmed COVID-19 cases ECDC TECHNICAL REPORT
+3
+ At least two upper respiratory tract samples negative for SARS-CoV-2, collected at ≥ 24-hour intervals are
+recommended to document SARS-CoV-2 clearance.
+ For symptomatic patients after the resolution of symptoms, samples should be collected at least seven
+days after the onset or after > 3 days without fever.
+ For asymptomatic SARS-CoV-2-infected persons, the tests to document virus clearance should be taken at
+a minimum of 14 days after the initial positive test.
+ Italy indicates that serology tests to document IgG antibody specific to SARS-CoV-2 will be of value.
+Table: Comparison of current guidelines on de-isolation of COVID-19 cases
+Symptomatic cases, hospitalised Asymptomatic infections,
+persons isolated at home
+Ministero della salute,
+Consiglio Superiore di
+Sanità, Italy (28 February
+2020)
+A COVID-19 patient can be considered cured after the
+resolution of symptoms and 2 negative tests for SARS-
+CoV-2 at 24-hour intervals.
+For patients who clinically recover earlier than 7 days
+after onset, an interval of 7 days between the first and
+the final test is advised.
+Note: Virus clearance is defined as viral RNA
+disappearance from bodily fluids of symptomatic and
+asymptomatic persons, accompanied by appearance of
+specific IgG.
+Negative SARS-CoV-2 RNA test at
+14 days after the first test (end of
+the quarantine period).
+China CDC
+Diagnosis and treatment
+protocol for COVID-19 patients
+(trial version 7, revised)
+Patients meeting the following criteria can be
+discharged:
+ Afebrile for >3 days,
+ Improved respiratory symptoms,
+ pulmonary imaging shows obvious absorption of
+inflammation, and
+ nucleic acid tests negative for respiratory tract
+pathogen twice consecutively (sampling interval
+≥ 24 hours).
+After discharge, patients are recommended to continue
+14 days of isolation management and health
+monitoring, wear a mask, live in a single room with
+good ventilation, reduce close contact with family
+members, eat separately, keep hands clean and avoid
+outdoor activities.
+It is recommended that discharged patients should
+have follow-up visits after 2 and 4 weeks.
+National Centre for
+Infectious Diseases (NCID)
+Singapore
+De-isolation of COVID-19
+suspect cases: link
+Discharge patient with advisory and clinic follow-up if
+indicated and with daily wellness calls until day 14 after
+last possible exposure, under the following conditions:
+ Afebrile ≥ 24 hours,
+ 2 respiratory samples tested negative for SARS-
+CoV-2 by PCR in ≥ 24 hours,
+ Day of illness from onset ≥ 6 days
+ OR
+ Alternative aetiology found (e.g. influenza,
+bacteraemia)
+ OR
+ Not a close contact of a COVID-19 case
+ Does not require in-patient care for other reasons.
+CDC USA
+Interim guidance for
+discontinuation of transmission-
+based precautions and
+disposition of hospitalized
+patients with COVID-19: link
+Negative rRT-PCR results from at least 2 consecutive
+sets of nasopharyngeal and throat swabs collected ≥
+24 hours apart from a patient with COVID-19 (a total of
+four negative specimens)
+AND resolution of fever, without use of antipyretic
+medication, improvement in illness signs and
+symptoms.
+Note: decision to be taken on a case-by-case basis in
+consultation with clinicians and public health officials
+Discharge criteria for confirmed COVID-19 cases ECDC TECHNICAL REPORT
+4
+Symptomatic cases, hospitalised Asymptomatic infections,
+persons isolated at home
+CDC USA
+Interim guidance for
+discontinuation of in-home
+isolation for patients with
+COVID-19: link
+At least 2 consecutive sets of
+nasopharyngeal and throat swabs
+collected ≥ 24 hours apart from a
+patient with COVID-19 (a total of
+four negative specimens)
+AND resolution of fever, without use
+of antipyretic medication,
+improvement in illness signs and
+symptoms.
+Note: decision to be taken on a
+case-by-case basis in consultation
+with clinicians and public health
+officials
+Conclusions
+When deciding on criteria for hospital discharge of COVID-19 patients, health authorities should take into
+account several factors such as the existing capacity of the healthcare system, laboratory diagnostic resources,
+and the current epidemiological situation.
+In the early stages of SARS-CoV-2 spread (limited number of cases and no apparent sustained transmission:
+scenarios 1 and 2 in ECDC’s Rapid Risk Assessment – fifth update) and with no pressure on healthcare facilities
+and optimal laboratory testing capacity, COVID-19 patients may be discharged from hospital and moved to home
+care (or other types of non-hospital care and isolation) based on:
+ clinical criteria (e.g. no fever for > 3 days, improved respiratory symptoms, pulmonary imaging showing
+obvious absorption of inflammation, no hospital care needed for other pathology, clinician assessment)
+ laboratory evidence of SARS-CoV-2 clearance in respiratory samples; 2 to 4 negative RT-PCR tests for
+respiratory tract samples (nasopharynx and throat swabs with sampling interval ≥ 24 hours). Testing at a
+minimum of 7 days after the first positive RT-PCR test is recommended for patients that clinically improve
+earlier.
+ Serology: appearance of specific IgG when an appropriate serological test is available.
+In the context of sustained widespread transmission (scenario 3 and 4 in ECDC’s Rapid Risk Assessment – fifth
+update) with increasing pressure on healthcare systems or when healthcare facilities are already overwhelmed
+and laboratory capacity is restrained, alternative algorithms for hospital discharge of COVID-19 patients are
+warranted.
+The discharge from hospital of mild cases – if clinically appropriate – may be considered, provided that they are
+placed into home care or another type of community care. After discharge, 14 days of further isolation with
+regular health monitoring (e.g. follow-up visits, phone calls) can be considered, provided the patient’s home is
+equipped for patient isolation and the patients takes all necessary precautions (e.g. single room with good
+ventilation, face-mask wear, reduced close contact with family members, separate meals, good hand sanitation,
+no outdoor activities) in order to protect family members and the community from infection and further spread of
+SARS-CoV-2.
+Due to increasing evidence of virus shedding through faeces by convalescent patients, particularly children,
+recommendations for careful personal hygiene precautions after de-isolation are warranted.
+Discharge criteria for confirmed COVID-19 cases ECDC TECHNICAL REPORT
+5
+References
+1. World Health Organization. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-
+19). Geneva: WHO; 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/who-
+china-joint-mission-on-covid-19-final-report.pdf.
+2. Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, et al. Epidemiologic features and clinical
+course of patients infected with SARS-CoV-2 in Singapore. JAMA. 2020.
+3. Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G, Wallrauch C, et al. Transmission of 2019-nCoV
+Infection from an asymptomatic contact in Germany. New England Journal of Medicine.
+2020;382(10):970-1.
+4. Cai J, Xu J, Lin D, Yang z, Xu L, Qu Z, et al. A case series of children with 2019 novel coronavirus
+infection: clinical and epidemiological features. Clinical Infectious Diseases. 2020.
+5. Zhang W, Du R-H, Li B, Zheng X-S, Yang X-L, Hu B, et al. Molecular and serological investigation of 2019-
+nCoV infected patients: implication of multiple shedding routes. Emerging Microbes & Infections. 2020
+2020/01/01;9(1):386-9.
+6. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. SARS-CoV-2 Viral load in upper respiratory
+specimens of infected patients. New England Journal of Medicine. 2020.
+7. Pan X, Chen D, Xia Y, Wu X, Li T, Ou X, et al. Asymptomatic cases in a family cluster with SARS-CoV-2
+infection. The Lancet Infectious Diseases. 2020 2020/02/19/.
+8. Hoehl S, Rabenau H, Berger A, Kortenbusch M, Cinatl J, Bojkova D, et al. Evidence of SARS-CoV-2
+infection in returning travelers from Wuhan, China. New England Journal of Medicine. 2020.
+9. Bai Y, Yao L, Wei T, Tian F, Jin D-Y, Chen L, et al. Presumed Asymptomatic carrier transmission of
+COVID-19. JAMA. 2020.
+
