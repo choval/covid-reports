@@ -3,7 +3,7 @@
 | Country | Updated | Files | Sources |
 | --- | --- | --- | --- |
 | [Argentina](ar/README.md) | 2020-03-26 13:27 GMT | [23](ar/README.md) | 1 |
-| [Australia](au/README.md) | 2020-03-24 13:41 GMT | [7](au/README.md) | 1 |
+| [Australia](au/README.md) | 2020-03-19 00:00 GMT | [7](au/README.md) | 1 |
 | [Bolivia](bo/README.md) | 2020-03-26 20:17 GMT | [7](bo/README.md) | 1 |
 | [Chile](cl/README.md) | 2020-03-26 16:09 GMT | [57](cl/README.md) | 1 |
 | [India](in/README.md) | 2020-03-23 10:17 GMT | [8](in/README.md) | 1 |
