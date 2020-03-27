@@ -41,14 +41,47 @@
 ## 2020-03-17
 
 * [17-03-20\_reporte\_diario\_covid-19.pdf](3aa86098ff6ed532a0cfd52a99f622e5680d4c4f/file.pdf) @22:37 GMT
-* [16-03-20-reporte-diario-covid-19\_0.pdf](2d5d7d86eaac063cd48b157fbe643294b8bd42e0/file.pdf) @17:33 GMT
-* [15032020-nuevo-coronavirus-covid-19\_0.pdf](9b95bebb54ccae8bade1fefae60baa77fe59e4b9/file.pdf) @17:33 GMT
-* [14-03-20-reporte-diario-covid-19\_0.pdf](23c3d1a5bab630b38def204d4c5f929c4f7b7357/file.pdf) @17:33 GMT
-* [13-03-20-reporte-diario-covid-19\_0.pdf](7d08f28e05acbfbc428fdd38a907b0b6011831b8/file.pdf) @17:32 GMT
-* [12-03-20-nuevo-coronavirus-covid-19\_reporte-diario\_0.pdf](739e813b6c7e3d4f603652ad306f7b0bcb2b941c/file.pdf) @17:32 GMT
-* [11-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_0.pdf](9864f2d10af2f1b6bdda4e3dac732186aa95347c/file.pdf) @17:32 GMT
-* [10-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_1.pdf](0b0f60f1df19fbf09607e9a8603ae8d02c22ebdf/file.pdf) @17:32 GMT
-* [9-03-2020-nuevo-coronavirus-covid-19-reporte\_diario\_0.pdf](abd9c136822c092ebe8778ce62232994c9000639/file.pdf) @17:31 GMT
-* [8-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_0.pdf](832e77c7c8ede8d4156624b9e1a3f6165cd28dcc/file.pdf) @17:31 GMT
-* [6-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_1.pdf](3b825b72dc03d6b2bd8a3d92f662c7c6c25b1dd7/file.pdf) @17:30 GMT
-* [5-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_1.pdf](808054ed4c1d4c789e4537a54e4d7466b546a32a/file.pdf) @17:30 GMT
+
+## 2020-03-16
+
+* [16-03-20-reporte-diario-covid-19\_0.pdf](2d5d7d86eaac063cd48b157fbe643294b8bd42e0/file.pdf) @00:00 GMT
+
+## 2020-03-15
+
+* [15032020-nuevo-coronavirus-covid-19\_0.pdf](9b95bebb54ccae8bade1fefae60baa77fe59e4b9/file.pdf) @00:00 GMT
+
+## 2020-03-14
+
+* [14-03-20-reporte-diario-covid-19\_0.pdf](23c3d1a5bab630b38def204d4c5f929c4f7b7357/file.pdf) @00:00 GMT
+
+## 2020-03-13
+
+* [13-03-20-reporte-diario-covid-19\_0.pdf](7d08f28e05acbfbc428fdd38a907b0b6011831b8/file.pdf) @00:00 GMT
+
+## 2020-03-12
+
+* [12-03-20-nuevo-coronavirus-covid-19\_reporte-diario\_0.pdf](739e813b6c7e3d4f603652ad306f7b0bcb2b941c/file.pdf) @00:00 GMT
+
+## 2020-03-11
+
+* [11-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_0.pdf](9864f2d10af2f1b6bdda4e3dac732186aa95347c/file.pdf) @00:00 GMT
+
+## 2020-03-10
+
+* [10-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_1.pdf](0b0f60f1df19fbf09607e9a8603ae8d02c22ebdf/file.pdf) @00:00 GMT
+
+## 2020-03-09
+
+* [9-03-2020-nuevo-coronavirus-covid-19-reporte\_diario\_0.pdf](abd9c136822c092ebe8778ce62232994c9000639/file.pdf) @00:00 GMT
+
+## 2020-03-08
+
+* [8-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_0.pdf](832e77c7c8ede8d4156624b9e1a3f6165cd28dcc/file.pdf) @00:00 GMT
+
+## 2020-03-06
+
+* [6-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_1.pdf](3b825b72dc03d6b2bd8a3d92f662c7c6c25b1dd7/file.pdf) @00:00 GMT
+
+## 1970-01-01
+
+* [5-03-2020-nuevo-coronavirus-covid-19-reporte-diario\_1.pdf](808054ed4c1d4c789e4537a54e4d7466b546a32a/file.pdf) @00:00 GMT
