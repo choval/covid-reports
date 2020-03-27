@@ -102,7 +102,3 @@
 ## 2020-01-23
 
 * [BOLETIN\_Nuevo coronavirus.pdf](3262fed9f106f1e5c8a940ac8bd64a590f62f07c/file.pdf) @20:42 GMT
-
-## 2018-01-22
-
-* [cc2574-rendicion20132017HM.pdf](dcd840d8ed8a61a502913beba9d418e5e548212a/file.pdf) @18:03 GMT
