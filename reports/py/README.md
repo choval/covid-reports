@@ -3,6 +3,10 @@
 
 ## 2020-03-27
 
+* [30994c-DECRETON3475.pdf](3b72805565350f8f75fccbc9f556ceb4ac172bec/file.pdf) @19:54 GMT
+* [81f69f-Instructivoparatransportefluvial.pdf](d2d4fbfe1415d107e8df17e7637e667ead5e29f5/file.pdf) @19:52 GMT
+* [0bbb8c-Instructivoparaestablecimientos.pdf](d78a97e489dac6bbe7876f7aeece09b8cf719118/file.pdf) @19:52 GMT
+* [fbef3d-Instructivoparaalbergues.pdf](3749f98570f261e00d0ad9227e3fc60103755f0d/file.pdf) @19:51 GMT
 * [680e8c-Covid19EquiposdeGasesMedicos.pdf](6aaff94dc49fea48149c9c10e5fff05eb28ec27a/file.pdf) @17:50 GMT
 * [9cc1ae-Tablero26.03.2020.pdf](a28425d1068b49516312cff640edf53069809166/file.pdf) @16:29 GMT
 

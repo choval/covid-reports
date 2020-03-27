@@ -1,0 +1,20 @@
+{
+    "filename": "fbef3d-Instructivoparaalbergues.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/fbef3d-Instructivoparaalbergues.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585342862,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Fri, 27 Mar 2020 12:37:20 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "714891",
+        "connection": "keep-alive",
+        "last-modified": "Fri, 27 Mar 2020 19:51:50 GMT",
+        "etag": "\"ae88b-5a1db6ea92feb\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 714891,
+    "modified": 1585338710
+}

@@ -1,6 +1,10 @@
 # France
 
 
+## 2020-03-27
+
+* [point\_de\_situation\_vendredi\_27\_mars\_.pdf](27244458994bf094300f8aedc73fef8e71300b20/file.pdf) @20:03 GMT
+
 ## 2020-03-26
 
 * [point\_de\_situation\_jeudi\_26\_mars.pdf](0d5fe52f6f5670f29ad6568bf0f79c67bc044016/file.pdf) @21:08 GMT
