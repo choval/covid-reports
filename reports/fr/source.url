@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19"
+ORG=France
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]*(situation)[^\"]*\.pdf)[^\"]*\"/Ui"
+LANG=fr
