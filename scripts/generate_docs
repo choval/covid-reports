@@ -141,6 +141,7 @@ foreach ($summary as $country=>$sources) {
         if (substr($filename, 0,1) == '"' && substr($filename, -1) == '"') {
             $filename = substr($filename, 1, -1);
         }
+        $filename = urldecode($filename);
         $path = str_replace('reports/'.$country_code.'/', '', $file['path']);
         $timestamp = gmdate('H:i', $file['modified']);
         file_put_contents($report_file, "* [{$filename}]({$path}) @{$timestamp} GMT\n", FILE_APPEND);

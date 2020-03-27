@@ -101,7 +101,7 @@
 
 ## 2020-01-23
 
-* [BOLETIN\_Nuevo%20coronavirus.pdf](3262fed9f106f1e5c8a940ac8bd64a590f62f07c/file.pdf) @20:42 GMT
+* [BOLETIN\_Nuevo coronavirus.pdf](3262fed9f106f1e5c8a940ac8bd64a590f62f07c/file.pdf) @20:42 GMT
 
 ## 2018-01-22
 

@@ -20,11 +20,11 @@
 
 ## 2020-03-24
 
-* [Recomendaciones%20espec%C3%ADficas%20adicionales%20de%20la%20DIGESA%20del%20MSP%20para%20la%20realizaci%C3%B3n%20de%20velatorios%20de%20casos%20de%20COVID-19.pdf](17decf5e1b3d3d2ea15b32da5190e59689111b05/file.pdf) @00:12 GMT
+* [Recomendaciones específicas adicionales de la DIGESA del MSP para la realización de velatorios de casos de COVID-19.pdf](17decf5e1b3d3d2ea15b32da5190e59689111b05/file.pdf) @00:12 GMT
 
 ## 2020-03-23
 
-* [Recomendaciones%20del%20MSP%20para%20el%20manejo%20de%20cad%C3%A1veres%20de%20casos%20de%20COVID-19.pdf](83aaa8dbc006c96ba195c69b03bf2cfe0789bc4d/file.pdf) @20:48 GMT
+* [Recomendaciones del MSP para el manejo de cadáveres de casos de COVID-19.pdf](83aaa8dbc006c96ba195c69b03bf2cfe0789bc4d/file.pdf) @20:48 GMT
 
 ## 2020-03-20
 
@@ -38,8 +38,8 @@
 
 ## 2020-03-14
 
-* [COMUNICADO%20A%20VIAJEROS%201403.pdf](b78271ec10ae9d67ecb0a994a481c4edb97f6a12/file.pdf) @21:40 GMT
-* [COMUNICADO%20A%20CONTACTOS%201403.pdf](442e3a09509fab77394cc314a1ca4e96a84b1267/file.pdf) @21:40 GMT
+* [COMUNICADO A VIAJEROS 1403.pdf](b78271ec10ae9d67ecb0a994a481c4edb97f6a12/file.pdf) @21:40 GMT
+* [COMUNICADO A CONTACTOS 1403.pdf](442e3a09509fab77394cc314a1ca4e96a84b1267/file.pdf) @21:40 GMT
 
 ## 2020-03-11
 

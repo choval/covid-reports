@@ -10,6 +10,7 @@
 | [Italy](it/README.md) | 2020-03-26 20:20 GMT | [76](it/README.md) | 1 |
 | [Korea](kr/README.md) | 2020-03-26 19:56 GMT | [148](kr/README.md) | 1 |
 | [Paraguay](py/README.md) | 2020-03-26 20:17 GMT | [52](py/README.md) | 1 |
+| [Singapore](sg/README.md) | 2020-03-26 17:12 GMT | [61](sg/README.md) | 1 |
 | [Spain](es/README.md) | 2020-03-26 11:08 GMT | [25](es/README.md) | 1 |
 | [Thailand](th/README.md) | 2020-03-26 13:12 GMT | [43](th/README.md) | 1 |
 | [Uruguay](uy/README.md) | 2020-03-27 00:58 GMT | [20](uy/README.md) | 1 |

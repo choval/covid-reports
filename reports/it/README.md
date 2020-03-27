@@ -5,8 +5,8 @@
 
 * [C\_17\_pagineAree\_5351\_37\_file.pdf](fe8cf2099b02851283392976c6b6b03ad8d2a980/file.pdf) @20:20 GMT
 * [C\_17\_pagineAree\_5351\_36\_file.pdf](c70f26a0a7e9281c9811c862de7c3d87d51421df/file.pdf) @20:20 GMT
-* [Infografica\_26marzo%20ENG.pdf](66c50e4fe636cf7778c16f1d3673874410ea6e4a/file.pdf) @18:00 GMT
-* [Infografica\_26marzo%20ITA.pdf](2d794092fd675de57079194cda3974cbfcd673b5/file.pdf) @18:00 GMT
+* [Infografica\_26marzo ENG.pdf](66c50e4fe636cf7778c16f1d3673874410ea6e4a/file.pdf) @18:00 GMT
+* [Infografica\_26marzo ITA.pdf](2d794092fd675de57079194cda3974cbfcd673b5/file.pdf) @18:00 GMT
 * [Report-COVID-2019\_24\_marzo.pdf](19ae99044aa3f2ed93cd58ee870448b976fe57d8/file.pdf) @08:08 GMT
 * [Report-COVID-2019\_24\_marzo\_eng.pdf](5056a4851d75917995c1ba083da7640773081433/file.pdf) @08:08 GMT
 * [C\_17\_notizie\_4149\_0\_file.pdf](9cbf272d91fffe5b390dd79bf23b748a713e7aa7/file.pdf) @02:14 GMT
@@ -52,7 +52,7 @@
 * [C\_17\_pagineAree\_5351\_28\_file.pdf](9ed8affafb76d0abe2596b536f11d6f8842093f1/file.pdf) @02:10 GMT
 * [C\_17\_pagineAree\_5351\_31\_file.pdf](1be8ededa4b59c3b7bfd81b5722c02825974f1af/file.pdf) @02:10 GMT
 * [C\_17\_pagineAree\_5351\_30\_file.pdf](a4c0680a355fbf80aef7b9b6b816f4c19e51ddbb/file.pdf) @02:10 GMT
-* [Vademecum%20Coronavirus%20Senior%20Italia%20FederAnziani.pdf](58500790112a4f149acdf03c9ef8382653f10f32/file.pdf) @02:10 GMT
+* [Vademecum Coronavirus Senior Italia FederAnziani.pdf](58500790112a4f149acdf03c9ef8382653f10f32/file.pdf) @02:10 GMT
 * [C\_17\_pagineAree\_5351\_33\_file.pdf](ca9971c0cce9c999e9ddf9967b250ef93d9d18d7/file.pdf) @02:10 GMT
 * [C\_17\_pagineAree\_5351\_32\_file.pdf](6f992c3de402f1defda8852bf5a4172e98454eda/file.pdf) @02:10 GMT
 * [C\_17\_notizie\_4322\_1\_file.pdf](5ae4bacb33061493cce25ebaa12ea29921c1fb25/file.pdf) @02:09 GMT
@@ -60,13 +60,13 @@
 
 ## 2020-03-25
 
-* [Infografica\_25marzo%20ENG.pdf](29bce7589e882c2c11ee56f93e7bb63b2008a8bd/file.pdf) @17:52 GMT
-* [Infografica\_25marzo%20ITA.pdf](253e9785c3fa92f2922fab9e0c8a134817b1e897/file.pdf) @17:52 GMT
+* [Infografica\_25marzo ENG.pdf](29bce7589e882c2c11ee56f93e7bb63b2008a8bd/file.pdf) @17:52 GMT
+* [Infografica\_25marzo ITA.pdf](253e9785c3fa92f2922fab9e0c8a134817b1e897/file.pdf) @17:52 GMT
 
 ## 2020-03-24
 
 * [Bolletino-sorveglianza-integrata-COVID-19\_23-marzo-2020\_appendix.pdf](9e85ffd1c550cf30f280553717fea2dce96e68f8/file.pdf) @18:12 GMT
-* [Bollettino-sorveglianza-integrata-COVID-19\_23-marzo%202020.pdf](dd00dfce7dc16cfb459521903179873cdeb48fb4/file.pdf) @18:11 GMT
+* [Bollettino-sorveglianza-integrata-COVID-19\_23-marzo 2020.pdf](dd00dfce7dc16cfb459521903179873cdeb48fb4/file.pdf) @18:11 GMT
 * [sars-cov-2-stili-vita-attivita-fisica-12-17-anni.pdf](cbb602e8c66520ab62ffb86751da7c2e557a15ad/file.pdf) @15:56 GMT
 
 ## 2020-03-20
@@ -75,7 +75,7 @@
 * [Bollettino-sorveglianza-integrata-COVID-19\_09-marzo-2020.pdf](6a7e1b3a4a91ed5c66c3405b32be40f2c1e84149/file.pdf) @18:19 GMT
 * [Bollettino-sorveglianza-integrata-COVID-19\_12-marzo-2020.pdf](b5827fca56280f23470b56a09905de0da3de090d/file.pdf) @18:19 GMT
 * [Report-COVID-2019\_20\_marzo.pdf](ac0181221584b688afe1941608adec99a822a2aa/file.pdf) @18:06 GMT
-* ["Poster Supermercati.pdf"](94a21d1138c0780465e7a354264950b271459ebe/file.pdf) @13:16 GMT
+* [Poster Supermercati.pdf](94a21d1138c0780465e7a354264950b271459ebe/file.pdf) @13:16 GMT
 * [sars-cov-2-stili-vita-attivita-fisica-0-4-anni.pdf](163ecf9f79820ee6abcc58db93ae8b0b89964682/file.pdf) @08:50 GMT
 
 ## 2020-03-19
@@ -92,11 +92,11 @@
 
 ## 2020-03-12
 
-* ["Poster Raccomandazioni isolamento rev 12 marzo (1).pdf"](84911eab9ad5c592cd8bafb5a438ab4e2b070016/file.pdf) @15:35 GMT
+* [Poster Raccomandazioni isolamento rev 12 marzo (1).pdf](84911eab9ad5c592cd8bafb5a438ab4e2b070016/file.pdf) @15:35 GMT
 
 ## 2020-03-11
 
-* ["Poster FUMO.pdf"](f7e765ce826d74611c1f59b4d7a54388c4a71473/file.pdf) @16:47 GMT
+* [Poster FUMO.pdf](f7e765ce826d74611c1f59b4d7a54388c4a71473/file.pdf) @16:47 GMT
 
 ## 2020-03-10
 
@@ -104,7 +104,7 @@
 
 ## 2020-03-09
 
-* [Prot.%20n.%200653.CNS\_.2020\_Aggiornamento%20misure%20di%20prevenzione%20nuovo%20Coronavirus%20%28SARS-CoV-2%29.pdf](516753954fbbe34c7c308b5f21497b4afc12e05c/file.pdf) @18:57 GMT
+* [Prot. n. 0653.CNS\_.2020\_Aggiornamento misure di prevenzione nuovo Coronavirus (SARS-CoV-2).pdf](516753954fbbe34c7c308b5f21497b4afc12e05c/file.pdf) @18:57 GMT
 * [direttiva\_ministro\_interno\_08032020\_1.pdf](d1b63c7ad3b74d9691e17468fe6caf1e770882b1/file.pdf) @11:11 GMT
 
 ## 2020-03-04
