@@ -1,0 +1,20 @@
+{
+    "filename": "Bolletino-sorveglianza-integrata-COVID-19_26-marzo-2020_appendix.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Bolletino-sorveglianza-integrata-COVID-19_26-marzo-2020_appendix.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585336292,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1007461",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 27 Mar 2020 13:57:44 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"5ec397b03f4d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Fri, 27 Mar 2020 19:11:31 GMT"
+    },
+    "lang": "it,en",
+    "size": 1007461,
+    "modified": 1585317464
+}

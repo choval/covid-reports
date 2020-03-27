@@ -1,6 +1,11 @@
 # Paraguay
 
 
+## 2020-03-27
+
+* [680e8c-Covid19EquiposdeGasesMedicos.pdf](6aaff94dc49fea48149c9c10e5fff05eb28ec27a/file.pdf) @17:50 GMT
+* [9cc1ae-Tablero26.03.2020.pdf](a28425d1068b49516312cff640edf53069809166/file.pdf) @16:29 GMT
+
 ## 2020-03-26
 
 * [a6315f-Instructivoparapersonalenobrasenrutas.pdf](398d601cde1d2ff26e698b07c05ff1eac87e0d56/file.pdf) @20:17 GMT

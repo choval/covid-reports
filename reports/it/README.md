@@ -1,6 +1,17 @@
 # Italy
 
 
+## 2020-03-27
+
+* [C\_17\_notizie\_4337\_1\_file.pdf](a383e1baa6d87a41de67339a37e34a0b5aecfc61/file.pdf) @19:12 GMT
+* [C\_17\_notizie\_4337\_0\_file.pdf](7cbc02f187d282cebd4c83cceca0106df70166f2/file.pdf) @19:12 GMT
+* [Infografica\_27marzo ENG.pdf](4bf320177e65d203eb2d3f1b6c8af17a80b05399/file.pdf) @18:35 GMT
+* [Infografica\_27marzo ITA.pdf](12a60d31af9ef00f6f1b7b355efdc266034a803f/file.pdf) @18:35 GMT
+* [Report-COVID-2019\_26\_marzo\_eng.pdf](2f847ad4564fea2fc9493e1a1cc4ceffd4c77d73/file.pdf) @15:50 GMT
+* [Report-COVID-2019\_26\_marzo.pdf](d1f0e94a4df68acbb742205d190e0769347662e0/file.pdf) @15:50 GMT
+* [Bollettino-sorveglianza-integrata-COVID-19\_26-marzo 2020.pdf](928e89d1d356c981409dbd911b8f37ac5f082458/file.pdf) @13:57 GMT
+* [Bolletino-sorveglianza-integrata-COVID-19\_26-marzo-2020\_appendix.pdf](dc30c5b0f5c7dfa059c270f1028e2cd7d42a7a5e/file.pdf) @13:57 GMT
+
 ## 2020-03-26
 
 * [C\_17\_pagineAree\_5351\_37\_file.pdf](fe8cf2099b02851283392976c6b6b03ad8d2a980/file.pdf) @20:20 GMT

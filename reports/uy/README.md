@@ -3,6 +3,7 @@
 
 ## 2020-03-27
 
+* [gracias-tecnicas-ultima-generacion-se-incrementara-acceso-diagnostico-covid](431cf74ae857bcbb6dd403695178085a25e457ad/file.pdf) @19:16 GMT
 * [informacion-actualizada-sobre-coronavirus-sobre-casos-covid-19](de517174defd1138306b36eb40287dee9cbc0243/file.pdf) @00:58 GMT
 
 ## 2020-03-26

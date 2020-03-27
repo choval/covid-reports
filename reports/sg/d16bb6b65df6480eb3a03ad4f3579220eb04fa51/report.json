@@ -1,0 +1,25 @@
+{
+    "filename": "ilename=\"ML_Infographic_SG Clean_When at Community Spaces.pdf",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/sg-clean-community-spaces\/pdf\/ml_infographic_sg-clean_when-at-community-spaces.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585336537,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1292332",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 27 Mar 2020 14:12:47 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"ML_Infographic_SG Clean_When at Community Spaces.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=618",
+        "date": "Fri, 27 Mar 2020 19:15:37 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1292332,
+    "modified": 1585318367
+}
