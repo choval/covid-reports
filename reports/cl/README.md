@@ -1,6 +1,11 @@
 # Chile
 
 
+## 2020-03-27
+
+* [Informe\_12\_COVID\_19\_Chile.pdf](4141716a53781ff72a729ccc7b1418cd63cbbe72/file.pdf) @12:11 GMT
+* [Informe\_10\_COVID\_19\_Chile-1.pdf](5940f24700bd4070317f38ad31c5fad0a9d7f711/file.pdf) @12:11 GMT
+
 ## 2020-03-26
 
 * [1745861\_web.pdf](73f80f32e543e067461779f37b2e0e911a7ac854/file.pdf) @16:09 GMT

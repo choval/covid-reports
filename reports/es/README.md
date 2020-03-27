@@ -1,6 +1,10 @@
 # Spain
 
 
+## 2020-03-27
+
+* [Actualizacion\_57\_COVID-19.pdf](413c260043bb4efb43ba8710a8989eca71b31bd2/file.pdf) @10:50 GMT
+
 ## 2020-03-26
 
 * [Actualizacion\_56\_COVID-19.pdf](7e6f8b8c6eb1e97faf3643e19c64e0068328f044/file.pdf) @11:08 GMT
