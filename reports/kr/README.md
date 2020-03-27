@@ -3,8 +3,8 @@
 
 ## 2020-03-27
 
-* [Press\_Release\_(March27)\_morning.pdf](cc7b24d0d625fa9a490de0a86ec5af5eedba4b28/file.pdf) @13:09 GMT
-* [Press\_Release\_(March27)\_Afternoon.pdf](f367220df30ea906c7fb61bba57fda2a926fa210/file.pdf) @13:09 GMT
+* [Press Release (March27)\_Afternoon.pdf](f367220df30ea906c7fb61bba57fda2a926fa210/file.pdf) @20:17 GMT
+* [Press Release (March27)\_morning.pdf](cc7b24d0d625fa9a490de0a86ec5af5eedba4b28/file.pdf) @14:22 GMT
 
 ## 2020-03-26
 
