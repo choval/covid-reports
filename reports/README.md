@@ -10,6 +10,7 @@
 | [France](fr/README.md) | 2020-03-27 20:03 GMT | [4](fr/README.md) | 1 |
 | [India](in/README.md) | 2020-03-23 10:17 GMT | [8](in/README.md) | 1 |
 | [Italy](it/README.md) | 2020-03-27 19:12 GMT | [84](it/README.md) | 1 |
+| [Japan](jp/README.md) | 2020-03-25 02:27 GMT | [23](jp/README.md) | 1 |
 | [Korea](kr/README.md) | 2020-03-27 13:09 GMT | [150](kr/README.md) | 1 |
 | [Norway](no/README.md) | 2020-03-27 11:57 GMT | [22](no/README.md) | 1 |
 | [Paraguay](py/README.md) | 2020-03-27 19:54 GMT | [57](py/README.md) | 1 |

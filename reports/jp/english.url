@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_00032.html"
+ORG=Japan
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=en
