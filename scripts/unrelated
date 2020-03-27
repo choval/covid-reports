@@ -16,7 +16,12 @@ date_default_timezone_set('UTC');
 
 $keywords = file(__DIR__.'/../keywords.txt');
 foreach($keywords as $k=>$v) {
-    $keywords[$k] = trim($v);
+    $v = trim($v);
+    if ($v) {
+        $keywords[$k] = $v;
+    } else {
+        unset($keywords[$k]);
+    }
 }
 
 $reports = glob('reports/*/*', GLOB_ONLYDIR);
@@ -48,6 +53,7 @@ foreach ($reports as $path) {
     foreach ($keywords as $word) {
         if (stripos($uri,$word) !== false
             || stripos($filename,$word) !== false) {
+            file_put_contents($checked, $word);
             continue 2;
         }
     }
@@ -56,6 +62,7 @@ foreach ($reports as $path) {
     $raw = preg_replace('/[\s]+/', '', $raw);
     foreach ($keywords as $word) {
         if (stripos($raw,$word) !== false) {
+            file_put_contents($checked, $word);
             continue 2;
         }
     }
