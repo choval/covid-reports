@@ -1,0 +1,25 @@
+{
+    "filename": "covid-19-lagebericht.pdf",
+    "uri": "https:\/\/www.bag.admin.ch\/dam\/bag\/de\/dokumente\/mt\/k-und-i\/aktuelle-ausbrueche-pandemien\/2019-nCoV\/covid-19-lagebericht.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585276867,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "482249",
+        "date": "Fri, 27 Mar 2020 02:41:07 GMT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "content-disposition": "attachment;",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "x-cnection": "close",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 5b065c27afb6cf16a3aa6aae83715631.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C1",
+        "x-amz-cf-id": "CGZ-QwlTYxmcQSGqeuMe8O3-Hut0EMsuDgC0nv9-pKpofT0GJQP2iQ=="
+    },
+    "lang": "de",
+    "size": 482249,
+    "modified": 1585276870
+}

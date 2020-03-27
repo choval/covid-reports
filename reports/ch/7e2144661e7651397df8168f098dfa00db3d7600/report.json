@@ -1,0 +1,23 @@
+{
+    "filename": "covid-19-faktenblatt-reatoromanisch.pdf",
+    "uri": "https:\/\/www.bag.admin.ch\/dam\/bag\/de\/dokumente\/cc\/Kampagnen\/covid-19\/covid-19-faktenblatt-reatoromanisch.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585276887,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "date": "Fri, 27 Mar 2020 02:41:27 GMT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "content-disposition": "attachment;",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 90e3d69e95f230270b4a6c8aeaf5eab2.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C1",
+        "x-amz-cf-id": "JBF7b4DldxAlaY_u_LJvPlw2tgd6S4ybh-xwhY7Fccjm2vLiB9AA1g=="
+    },
+    "lang": "de",
+    "size": 329996,
+    "modified": 1585276891
+}

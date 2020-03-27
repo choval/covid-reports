@@ -1,0 +1,23 @@
+{
+    "filename": "covid-19-empfehlungen-bevoelkerung-raetoromanisch.pdf",
+    "uri": "https:\/\/www.bag.admin.ch\/dam\/bag\/de\/dokumente\/mt\/k-und-i\/aktuelle-ausbrueche-pandemien\/2019-nCoV\/covid-19-empfehlungen-bevoelkerung-raetoromanisch.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585276883,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "date": "Fri, 27 Mar 2020 02:41:22 GMT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "content-disposition": "attachment;",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 ae1829b60febaec799bcb0313d9bcacd.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C1",
+        "x-amz-cf-id": "LPxSA2BEnQ4dJn6MIFECMqGL_L-hm1y2Ifh68zxPb8dnow6rYpH-UQ=="
+    },
+    "lang": "de",
+    "size": 144041,
+    "modified": 1585276885
+}

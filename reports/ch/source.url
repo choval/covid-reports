@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html"
+ORG=Switzerland
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*(ncov|covid|coronavirus)[^\"]*\.pdf)[^\"]*\"/Ui"
+LANG=de

@@ -1,0 +1,23 @@
+{
+    "filename": "covid-19-empfehlungen-bevoelkerung.pdf",
+    "uri": "https:\/\/www.bag.admin.ch\/dam\/bag\/de\/dokumente\/mt\/k-und-i\/aktuelle-ausbrueche-pandemien\/2019-nCoV\/covid-19-empfehlungen-bevoelkerung.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585276872,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "date": "Fri, 27 Mar 2020 02:41:12 GMT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "content-disposition": "attachment;",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 6dda9c60465801404125720fa2c0e501.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C1",
+        "x-amz-cf-id": "NHhLMqVvy3TLJiS-vcVMjjc-THBuBl090jvlPMfeomTp0XA8_0Q47A=="
+    },
+    "lang": "de",
+    "size": 142805,
+    "modified": 1585276875
+}
