@@ -3,10 +3,10 @@
 
 ## 2020-03-27
 
-* [ilename="TM\_Infographic\_SG Clean\_When at Community Spaces.pdf](4d465cffafbae176be7a8ac92589f17f7435028d/file.pdf) @14:12 GMT
-* [ilename="ML\_Infographic\_SG Clean\_When at Community Spaces.pdf](d16bb6b65df6480eb3a03ad4f3579220eb04fa51/file.pdf) @14:12 GMT
-* [ilename="EN\_Infographic\_SG Clean\_When at Community Spaces.pdf](158c58f13b26a6834598b903eb49f4ae5c060d23/file.pdf) @14:12 GMT
-* [ilename="CN\_Infographic\_SG Clean\_When at Community Spaces.pdf](579b0ecf9b0ac68eff129b21c14ab8b523c1e85d/file.pdf) @14:12 GMT
+* [TM\_Infographic\_SG Clean\_When at Community Spaces.pdf](4d465cffafbae176be7a8ac92589f17f7435028d/file.pdf) @14:12 GMT
+* [ML\_Infographic\_SG Clean\_When at Community Spaces.pdf](d16bb6b65df6480eb3a03ad4f3579220eb04fa51/file.pdf) @14:12 GMT
+* [EN\_Infographic\_SG Clean\_When at Community Spaces.pdf](158c58f13b26a6834598b903eb49f4ae5c060d23/file.pdf) @14:12 GMT
+* [CN\_Infographic\_SG Clean\_When at Community Spaces.pdf](579b0ecf9b0ac68eff129b21c14ab8b523c1e85d/file.pdf) @14:12 GMT
 * [annex---summary-of-confirmed-cases-(27-march-2020).pdf](3e6cee5d723777e246ae5279a41ef92a88030c41/file.pdf) @13:26 GMT
 
 ## 2020-03-26
