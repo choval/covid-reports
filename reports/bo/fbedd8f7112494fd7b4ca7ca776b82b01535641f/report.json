@@ -1,0 +1,20 @@
+{
+    "filename": "comunicado-n36-se-reportan-13-nuevos-casos-de-coronavirus-en-bolivia",
+    "uri": "https:\/\/www.boliviasegura.gob.bo\/comunicado-n36-se-reportan-13-nuevos-casos-de-coronavirus-en-bolivia\/",
+    "output": "file.pdf",
+    "downloaded": 1585399489,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sat, 28 Mar 2020 12:44:49 GMT",
+        "content-type": "text\/html; charset=UTF-8",
+        "connection": "keep-alive",
+        "vary": "Accept-Encoding",
+        "p3p": "CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"",
+        "x-pingback": "https:\/\/www.boliviasegura.gob.bo\/xmlrpc.php",
+        "link": "<https:\/\/www.boliviasegura.gob.bo\/?p=1676>; rel=shortlink"
+    },
+    "lang": "es",
+    "size": 204716,
+    "modified": 1585399555
+}
