@@ -1,0 +1,22 @@
+{
+    "filename": "situation-no20-230163.pdf",
+    "uri": "https:\/\/ddc.moph.go.th\/viralpneumonia\/file\/situation\/situation-no20-230163.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585345106,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 27 Mar 2020 21:14:37 GMT",
+        "server": "Apache\/2.4.6 (CentOS) OpenSSL\/1.0.2k-fips PHP\/7.2.17",
+        "last-modified": "Sat, 08 Feb 2020 09:23:37 GMT",
+        "etag": "\"73bf8-59e0d0fa5a873\"",
+        "accept-ranges": "bytes",
+        "content-length": "474104",
+        "cache-control": "max-age=604800, public",
+        "content-type": "application\/pdf",
+        "via": "1.1 google",
+        "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000"
+    },
+    "lang": "ja",
+    "size": 474104,
+    "modified": 1581153817
+}

@@ -1,6 +1,10 @@
 # Uruguay
 
 
+## 2020-03-28
+
+* [informe-situacion-relacion-coronavirus-covid-19-uruguay-0](70878909ee9bd5e9ee4263d9cdf22be0c50615bf/file.pdf) @03:23 GMT
+
 ## 2020-03-27
 
 * [gracias-tecnicas-ultima-generacion-se-incrementara-acceso-diagnostico-covid](431cf74ae857bcbb6dd403695178085a25e457ad/file.pdf) @19:16 GMT

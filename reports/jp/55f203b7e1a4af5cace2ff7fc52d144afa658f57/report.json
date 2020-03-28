@@ -1,0 +1,19 @@
+{
+    "filename": "Detection_of_nCoV_report200121.pdf",
+    "uri": "https:\/\/www.niid.go.jp\/niid\/images\/pathol\/pdf\/Detection_of_nCoV_report200121.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585345070,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 27 Mar 2020 21:37:50 GMT",
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 21 Jan 2020 08:58:28 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "173466",
+        "content-type": "application\/pdf"
+    },
+    "lang": "ja",
+    "size": 173466,
+    "modified": 1579597108
+}

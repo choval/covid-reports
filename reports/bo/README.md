@@ -1,6 +1,10 @@
 # Bolivia
 
 
+## 2020-03-28
+
+* [4009-bolivia-suma-74-pacientes-con-coronavirus-y-la-mayoria-son-casos-leves](acb61bb9e3e7e0584f1499ea4d160fce822c8d4c/file.pdf) @03:19 GMT
+
 ## 2020-03-27
 
 * [4008-casos-positivos-de-coronavirus-suben-a-61-en-bolivia-y-tres-contagiados-estan-en-terapia-intensiva](b7a17cd6b76d41bcd86bb56e720a2704ecf75be4/file.pdf) @03:27 GMT

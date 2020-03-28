@@ -1,0 +1,20 @@
+{
+    "filename": "topics_200214a.pdf",
+    "uri": "https:\/\/www.jfc.go.jp\/n\/release\/pdf\/topics_200214a.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585345972,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 14 Feb 2020 07:33:54 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "234898",
+        "content-type": "application\/pdf",
+        "date": "Fri, 27 Mar 2020 21:52:51 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "ja",
+    "size": 234898,
+    "modified": 1581665634
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "2019-nCoV_200122.pdf",
+    "uri": "https:\/\/www.niid.go.jp\/niid\/images\/pathol\/pdf\/2019-nCoV_200122.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585345081,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 27 Mar 2020 21:38:01 GMT",
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Wed, 22 Jan 2020 01:03:01 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "136303",
+        "content-type": "application\/pdf"
+    },
+    "lang": "ja",
+    "size": 136303,
+    "modified": 1579654981
+}

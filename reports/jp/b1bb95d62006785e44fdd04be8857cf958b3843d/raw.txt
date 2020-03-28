@@ -1,0 +1,228 @@
+事 務 連 絡
+令和２年２月 27 日
+都 道 府 県
+各 保健所設置市 衛生主管部（局） 御中
+特 別 区
+厚生労働省新型コロナウイルス感染症対策推進本部
+「COVID-19 に対する抗ウイルス薬による治療の考え方 第１版」の公表について
+COVID-19 の抗ウイルス薬による治療に関する知見は現時点では限られておりますが、過
+去には重症急性呼吸器症候群（SARS）
+、中東呼吸器症候群（MERS）患者に対して既存の抗
+ウイルス薬が使用されており、これらの事実に基づき、日本感染症学会が COVID-19 の抗
+ウイルス薬に関する暫定的な指針「COVID-19 に対する抗ウイルス薬による治療の考え方
+第１版」をとりまとめておりますので、ご参考までにお知らせします。
+また、現在 COVID-19 に関する知見が引き続き集積しつつあり、本指針は COVID-19 の治
+療に関して新たに重要な知見が出てきた段階で改訂を予定しているとお聞きしています。
+本指針は当該事務連絡に別添するとともに、日本社団法人日本感染症学会のホームペー
+ジにも掲載しております（http://www.kansensho.or.jp/uploads/files/topics/2019ncov
+/covid19_antiviral_drug_200227.pdf）
+。
+貴職におかれましては、新型コロナウイルス感染症に対する治療の際に参考としていた
+だきますよう管内医療機関に周知をお願いいたします。
+また、同様の事務連絡を公益社団法人日本医師会宛てに発出しておりますことを申し添
+えます。
+【問い合わせ】
+厚生労働省新型コロナウイルス感染症
+対策推進本部（技術総括班）
+担当：竹下、上戸
+電話番号：03-5253-1111（内線：8045）
+1
+COVID-19 に対する抗ウイルス薬による治療の考え方 第 1 版
+（2020 年 2 月 26 日）
+1. 目的
+現時点では、COVID-19 の抗ウイルス薬による治療に関する知見は限られている。過去
+には重症急性呼吸器症候群（SARS）、中東呼吸器症候群（MERS）患者に対して既存の
+抗ウイルス薬が使用されている。これらの事実に基づいて COVID-19 の抗ウイルス薬に関
+する本邦における暫定的な指針を示すのが本指針の目的である。日進月歩で COVID-19 に
+関する知見が集積しつつあり、本指針は COVID-19 の治療に関して新たに重要な知見が出
+てきた段階で改訂を予定している。尚、COVID-19 の原因ウイルスは SARS-CoV-2 であ
+ることから、本指針中でも厳密には用語として SARS-CoV-2 を用いるべき箇所があるが、
+明瞭化のため COVID-19 に統一した。
+2. 使用にあたっての手続き
+現在日本では COVID-19 に適応を有する薬剤は存在しない。よって行う事のできる治療
+は、国内で既に薬事承認されている薬剤を適応外使用することである。使用にあたっては
+各施設の薬剤適応外使用に関する指針に則り、必要な手続きを行う事とする。
+3. 抗ウイルス薬の対象と開始のタイミング
+現時点では、患者の臨床経過の中における抗ウイルス薬を開始すべき時期は患者が低酸
+素血症を発症し、酸素投与が必要であることを必要条件とする。そのうえで以下のように
+考える 1)。
+1. 概ね 50 歳未満の患者では肺炎を発症しても自然経過の中で治癒する例が多いため、
+必ずしも抗ウイルス薬を投与せずとも経過を観察してよい。
+2. 概ね 50 歳以上の患者では重篤な呼吸不全を起こす可能性が高く、死亡率も高いた
+め、低酸素血症を呈し酸素投与が必要となった段階で抗ウイルス薬の投与を検討す
+る。
+3. 糖尿病・心血管疾患・慢性肺疾患、喫煙による慢性閉塞性肺疾患、免疫抑制状態等の
+ある患者においても上記 2 に準じる。
+4. 年齢にかかわらず、酸素投与と対症療法だけでは呼吸不全が悪化傾向にある例では抗
+ウイルス薬の投与を検討する。
+4. 抗ウイルス薬の選択
+本指針では現時点で日本での入手可能性や有害事象等の観点より以下の薬剤を治療薬と
+して提示する。今後臨床的有効性や有害事象等の知見の集積に伴い、COVID-19 の治療の
+ための抗ウイルス薬の選択肢や用法用量に関し新たな情報が得られる可能性が高い。
+2
+＜ ロピナビル・リトナビル＞
+機序：ロピナビルは HIV-1 に対するプロテアーゼ阻害剤として有効性が認められている。
+シトクローム P450 の阻害によりロピナビルの血中濃度を保つためリトナビルとの合剤
+（ロ
+ピナビル・リトナビル）として使用される。コロナウイルスに関する明確な作用機序は明ら
+かにされていないが、以下に示すように in vitro や動物モデルで MERS への有効性が示さ
+れており、COVID-19 に対してもバーチャルスクリーニングで有効である可能性が示され
+ている 2)。
+in vitro・動物モデル：ロピナビルは in vitro で MERS-CoV の抑制効果が認められた 3)。動
+物モデルにて予後改善効果があった 4)。
+海外での臨床報告：MERS-CoV に対する臨床試験は現在サウジアラビアにおいて施行中で
+ある（MIRACLE trial）5)。また現在、中国の臨床試験登録サイトによれば COVID-19 に対
+するロピナビル・リトナビルの有効性に関するランダム化比較臨床試験が複数進行中であ
+る（結果未公表）。これらの試験ではロピナビル・リトナビルが 400 ㎎/100 ㎎ 1 日 2 回か
+ら 500mg/100mg 1 日 3 回で使用されている。韓国においても 2 例の COVID-19 に対する
+ロピナビル・リトナビル 400 ㎎/100 ㎎の 1 日 2 回投与が報告されている 6, 7)。
+国内での使用実績：2020 年 2 月 21 日までに国立国際医療研究センターでロピナビル・リ
+トナビルを使用した症例の臨床経過を下記に記載する。
+症例 Day1 Day7 Day15
+(1) 4 5 6
+(2) 4 5 8
+(3) 4 2 未
+(4) 4 3 未
+(5) 4 2 未
+(6) 5 未 未
+(7) 6 未 未
+Day1: ロピナビル/リトナビル投与開始日、未:既定の日数に未到達
+1: 死亡
+2: 入院中、肺炎あり、人工呼吸器、ECMO 管理
+3: 入院中、肺炎あり、リザーバーマスク、ネーザルハイフローなどによる酸素投与あり
+4: 入院中、肺炎あり、カニューラ、マスクによる酸素投与あり
+5: 入院中、肺炎あり、酸素投与なし
+6: 入院中、肺炎なし、酸素投与なし
+7: 退院後、症状により日常生活に支障あり
+8: 退院後、症状による日常生活の支障なし
+3
+投与方法（用法・用量）：
+1. ロピナビル・リトナビル（カレトラ®配合錠）：400mg/100mg 経口 12 時間おき、10
+日間程度
+2. ロピナビル・リトナビル（カレトラ®配合内用液）：400mg/100mg （1 回 5 mL）経口
+12 時間おき、10 日程度
+＊上記は抗 HIV 薬としての承認用量であるが、過去の流行時の報告では MERS ウイルス
+は EC50 8.0±1.5μM（in vitro）、SARS ウイルスは EC50 17.1±1.0μM（in vitro）であ
+るため、HIV-1 と比較し、200 倍以上の EC50 である 3, 8)。このため、MERS・SARS ウ
+イルスの近縁種と捉えられる COVID-2019 についても、
+HIV-1 と比較して高濃度の EC50
+を示す可能性があり、用量については有害事象のモニターと合わせ今後の検討が必要で
+ある。
+投与時の注意点：
+1. ロピナビル・リトナビルの有効性に関し、
+適切な重症度や投与開始のタイミングに
+関しては不明である。
+2. 使用開始前には HIV 感染の有無を確認し、陽性の場合には対応について専門家に
+相談する。
+3. リトナビルによる薬剤相互作用があるため、併用薬に注意する 。
+4. 錠剤の内服困難者に内用液を使用する場合、アルコール過敏がないか確認する。
+＜ ファビピラビル＞
+機序：ファビピラビルは効能・効果を「新型又は再興型インフルエンザウイルス感染症 (但
+し，他の抗インフルエンザウイルス薬が無効又は効果不十分なものに限る)」に限定して，
+2014 年 3 月に厚生労働省の承認を受けている。
+その作用機序は，
+生体内で変換された三リ
+ン酸化体 (T-705RTP) が，ウイルスの RNA ポリメラーゼを選択的に阻害するものである
+ことから，インフルエンザウイルス以外の RNA ウイルスへも効果を示す可能性がある。
+in vitro・動物モデル：in vitro で COVID-19 の EC50 は 61.88 µM であり、抑制効果が認め
+られた。 EC50 はエボラウイルスに類似している。
+海外での臨床報告：現在、中国の臨床試験登録サイトによれば COVID-19 に対するファビ
+ピラビルの有効性に関する臨床試験（ChiCTR2000029600、ChiCTR2000029548）が進行
+中である（結果未公表）。
+国内での使用実績：2020 年 2 月 21 日までに本剤の COVID-19 への使用実績は無い。
+4
+投与方法（用法・用量）：
+1．3,600 mg (1,800 mg BID) (Day 1) + 1,600 mg (800 mg BID) (Day 2 以降)、最長
+14 日間投与。
+投与時の注意点：
+1. ファビピラビルの有効性に関し、適切な重症度や投与開始のタイミングに関して
+は不明である。
+2. 以下の薬剤については，
+薬物相互作用の可能性があることから，
+ファビピラビルと
+の併用には注意して使用する：1) ピラジナミド、
+2) レパグリニド、
+3) テオフィリ
+ン、4) ファムシクロビル、5) スリンダク
+3. 患者の状態によっては経口投与が極めて困難な場合も想定される。その場合は
+55°C に加温した水を加えて試験薬懸濁液を調製する (簡易懸濁法)。
+被験者に経鼻
+胃管を挿入し，
+経鼻胃管が胃の中に入っていることを胸部 X 線検査で確認した後，
+ピストンを用いて懸濁液をゆっくりと注入する。その後，5 mL の水で経鼻胃管を
+洗浄する。
+4. 動物実験において、本剤は初期胚の致死及び催奇形性が確認されていることから、
+妊婦又は妊娠している可能性のある婦人には投与しないこと。
+5. 妊娠する可能性のある婦人に投与する場合は、
+投与開始前に妊娠検査を行い、
+陰性
+であることを確認した上で、投与を開始すること。また、その危険性について十分
+に説明した上で、投与期間中及び投与終了後 7 日間はパートナーと共に極めて有
+効な避妊法の実施を徹底するよう指導すること。
+なお、
+本剤の投与期間中に妊娠が
+疑われる場合には、
+直ちに投与を中止し、
+医師等に連絡するよう患者を指導するこ
+と。
+6. 本剤は精液中へ移行することから、
+男性患者に投与する際は、
+その危険性について
+十分に説明した上で、投与期間中及び投与終了後 7 日間まで、性交渉を行う場合
+は極めて有効な避妊法の実施を徹底
+（男性は必ずコンドームを着用）
+するよう指導
+すること。また、この期間中は妊婦との性交渉を行わせないこと。
+7. 治療開始に先立ち、
+患者又はその家族等に有効性及び危険性
+（胎児への曝露の危険
+性を含む）
+を十分に文書にて説明し、
+文書で同意を得てから投与を開始すること。
+8. 本剤の投与にあたっては、本剤の必要性を慎重に検討すること。
+5. COVID-19 に対する他の抗ウイルス薬 9, 10)
+COVID-19 に対する治療に使用できる可能性のある抗ウイルス薬にはレムデシビ
+ル、インターフェロン、クロロキンなどがあるが、それらの効果や併用効果に関して
+は今後の知見が待たれる。
+5
+版管理
+第１版 2020/2/26
+参考文献
+1. Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. [The
+epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-
+19) in China]. Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi.
+2020;41(2):145-51.
+2. Contini A. Virtual Screening of an FDA Approved Drugs Database on Two COVID-19
+Coronavirus Proteins 2020. Available from:
+https://chemrxiv.org/articles/Virtual_Screening_of_an_FDA_Approved_Drugs_Database_
+on_Two_COVID-19_Coronavirus_Proteins/11847381/1.
+3. de Wilde AH, Jochmans D, Posthuma CC, Zevenhoven-Dobbe JC, van Nieuwkoop S,
+Bestebroer TM, et al. Screening of an FDA-approved compound library identifies four
+small-molecule inhibitors of Middle East respiratory syndrome coronavirus replication in
+cell culture. Antimicrob Agents Chemother. 2014;58(8):4875-84.
+4. Chan JF, Yao Y, Yeung ML, Deng W, Bao L, Jia L, et al. Treatment With
+Lopinavir/Ritonavir or Interferon-beta1b Improves Outcome of MERS-CoV Infection in a
+Nonhuman Primate Model of Common Marmoset. J Infect Dis. 2015;212(12):1904-13.
+5. Arabi YM, Alothman A, Balkhy HH, Al-Dawood A, AlJohani S, Al Harbi S, et al.
+Treatment of Middle East Respiratory Syndrome with a combination of lopinavir-ritonavir
+and interferon-beta1b (MIRACLE trial): study protocol for a randomized controlled trial.
+Trials. 2018;19(1):81.
+6. Kim JY, Choe PG, Oh Y, Oh KJ, Kim J, Park SJ, et al. The First Case of 2019 Novel
+Coronavirus Pneumonia Imported into Korea from Wuhan, China: Implication for
+Infection Prevention and Control Measures. Journal of Korean medical science.
+2020;35(5):e61-e.
+7. Lim J, Jeon S, Shin HY, Kim MJ, Seong YM, Lee WJ, et al. Case of the Index Patient Who
+Caused Tertiary Transmission of COVID-19 Infection in Korea: the Application of
+Lopinavir/Ritonavir for the Treatment of COVID-19 Infected Pneumonia Monitored by
+Quantitative RT-PCR. Journal of Korean medical science. 2020;35(6):e79.
+8. Oldfield V, Plosker GL. Lopinavir/ritonavir: a review of its use in the management of HIV
+infection. Drugs. 2006;66(9):1275-99.
+9. Chong YP, Song JY, Seo YB, Choi JP, Shin HS, Rapid Response T. Antiviral Treatment
+Guidelines for Middle East Respiratory Syndrome. Infect Chemother. 2015;47(3):212-22.
+6
+10. England PH. Treatment of MERS-CoV: Information for Clinicians Clinical decision-
+making support for treatment of MERS-CoV patients 2015. Available from:
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/459835/me
+rscov_for_clinicians_sept2015.pdf.
+一般社団法人日本感染症学会
+

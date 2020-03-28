@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL="https://www.mhlw.go.jp/stf/news.rdf?SLANG=ja&TLANG=en&XMODE=0&XPARAM=q,&XCHARSET=UTF-8&XPORG=,&XJSID=0"
+ORG=Japan
+FOLLOW_REGEXP="/=\"(?P<link>https:\/\/www\.mhlw\.go\.jp\/stf\/[^\"]+\.html)\">[\s]*<title>[^\/]*(コロナウイルス|covid)/Uis"
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=ja

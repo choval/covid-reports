@@ -1,0 +1,42 @@
+Detection of 2019-novel coronavirus sequence from clinical specimen
+Harutaka Katano and Tadaki Suzuki
+Department of Pathology, National Institute of Infectious Diseases, 1-23-1 Toyama,
+Shinjuku, Tokyo 164-8640, Japan
+Method & Results
+RNA was extracted from 4 nasopharyngeal swab, 3 serum, and 1 whole blood samples
+(Table 1) using QIAamp MinElute Virus Spin Kit (Qiagen, Hilden, Germany). One
+hundred-µL of RNA solution was eluted from the same volume of each sample. A RNA
+fragment of 2019-novel coronavirus (2019-nCoV) was amplified with One-step
+RT-PCR kit (Qiagen) according to manufacture’s instruction. Three-µL of RNA solution
+was used per reaction of 50µL. One-step RT-PCR was performed with specific primers
+for spike region of 2019-nCoV; forward primer: WuhanCoV-spk1-f
+5’-TTGGCAAAATTCAAGACTCACTTT-3’ and reverse/RT primer:
+WuhanCoV-spk2-r 5’-TGTGGTTCATAAAAATTCCTTTGTG-3’ amplifying
+24370-24916nt in GenBank MN908947 (547bp). RT-PCR was performed in ABI9700
+(Applied Biosystems, Foster City, CA) under the following condition: 50°C 30min,
+95°C 15min; 40 cycles of 94°C for 30 sec, 55°C for 30 sec, and 72°C for 1 min. PCR
+products were visualized by 2% agarose gel electrophoresis staining ethidium bromide.
+The results are shown in Figure 1. Single band of 547bp was detected in the sample
+No.2. The amplicon was purified with QIAquick PCR Purification Kit (Qiagen)
+following manufacture’s instruction. Direct sequencing analysis was performed with
+Big-dye terminator v3.1 cycle sequencing kit and ABI 3130 sequencer (Applied
+Biosystems and Fasmac, Tokyo, Japan). The 498bp of analyzed sequence excluded PCR
+primers showed 100% match with the sequence of 2019-nCoV (WH-human1,
+24394-24891nt in GenBank MN908947, Figure 2).
+Table 1 List of samples. *Two swab samples were obtained on day 5.
+No. Sample Days after hospitalization
+1 Nasopharyngeal swab 1
+2 Nasopharyngeal swab 2
+3 Nasopharyngeal swab* 5
+4 Nasopharyngeal swab* 5
+5 Whole blood 5
+6 Serum 1
+7 Serum 4
+8 Serum 5
+Figure 1 Electrophoresis of PCR products.
+Five-µL of PCR product was loaded in each lane. The predicted size of PCR amplicon
+(547bp) is indicated.
+Figure 2 Sequence alignment of the PCR product with 2019-nCoV. The 498bp of
+analyzed sequence excluded PCR primers (the lower sequence) is aligned with
+24394-24891nt in GenBank MN908947 (WH-Human-1-GenBank, the upper sequence).
+

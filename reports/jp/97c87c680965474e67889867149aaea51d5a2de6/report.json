@@ -1,0 +1,23 @@
+{
+    "filename": "Call-text_CfP2_019-nCoV_30.01.2020-1.pdf",
+    "uri": "https:\/\/cepi.net\/wp-content\/uploads\/2020\/01\/Call-text_CfP2_019-nCoV_30.01.2020-1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585346036,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 27 Mar 2020 21:53:56 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "123053",
+        "set-cookie": "__cfduid=d72d67e47a4d9b42a1cf80d32b99a64f61585346035; expires=Sun, 26-Apr-20 21:53:55 GMT; path=\/; domain=.cepi.net; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Thu, 30 Jan 2020 15:41:12 GMT",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "REVALIDATED",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "57ac58d27e3ae944-MIA"
+    },
+    "lang": "ja",
+    "size": 123053,
+    "modified": 1580398872
+}

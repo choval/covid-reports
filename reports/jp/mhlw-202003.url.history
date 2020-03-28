@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL="https://www.mhlw.go.jp/stf/houdou/houdou_list_202003.html"
+ORG=Japan
+FOLLOW_REGEXP="/=\"(?P<link>\/stf\/[^\"]+\.html)\">[^\/]*<span>[^\/]*(コロナウイルス|covid)/Uis"
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=ja
