@@ -1,0 +1,20 @@
+{
+    "filename": "covid_19_australia_epidemiology_report_8__reporting_period_from_19_00_aedt_14_march_to_23_59_aedt_22_march_2020.pdf",
+    "uri": "https:\/\/www1.health.gov.au\/internet\/main\/publishing.nsf\/Content\/1D03BCB527F40C8BCA258503000302EB\/$File\/covid_19_australia_epidemiology_report_8__reporting_period_from_19_00_aedt_14_march_to_23_59_aedt_22_march_2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585402746,
+    "headers": {
+        "http-status": 200,
+        "server": "Lotus-Domino",
+        "date": "Sat, 28 Mar 2020 13:38:30 GMT",
+        "last-modified": "Sat, 28 Mar 2020 13:15:16 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "5242727",
+        "accept-ranges": "bytes",
+        "etag": "W\/\"MTAtMDAwMi0wLUNBMjU4NTM5MDA0OENFRjktMUQwM0JDQjUyN0Y0MEM4QkNBMjU4NTAzMDAwMzAyRUI=\"",
+        "content-language": "en"
+    },
+    "lang": "en",
+    "size": 5242727,
+    "modified": 1585401293
+}

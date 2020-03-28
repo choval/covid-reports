@@ -1,6 +1,10 @@
 # Australia
 
 
+## 2020-03-28
+
+* [covid\_19\_australia\_epidemiology\_report\_8\_\_reporting\_period\_from\_19\_00\_aedt\_14\_march\_to\_23\_59\_aedt\_22\_march\_2020.pdf](edd5de08d18398e6facc2618f9a0a87571278eae/file.pdf) @13:14 GMT
+
 ## 2020-03-19
 
 * [covid\_19\_australia\_epidemiology\_report\_7\_reporting\_week\_ending\_19\_00\_aedt\_14\_march\_2020.pdf](956b342636f50cafe1714af4087dd80af8922fa3/file.pdf) @00:00 GMT
