@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678"
+ORG=Peru
+DOWNLOAD_REGEXP="/[\"'](?P<link>[^\"']+\.pdf)[^\"']*[\"']/Ui"
+LANG=es

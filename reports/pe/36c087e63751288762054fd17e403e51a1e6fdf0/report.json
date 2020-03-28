@@ -1,0 +1,20 @@
+{
+    "filename": "RM086-2020-MINSA.PDF",
+    "uri": "https:\/\/www.dge.gob.pe\/portal\/docs\/tools\/coronavirus\/RM086-2020-MINSA.PDF",
+    "output": "file.pdf",
+    "downloaded": 1585400820,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 28 Mar 2020 13:03:51 GMT",
+        "server": "Apache\/2.4.6 (CentOS) OpenSSL\/1.0.2k-fips PHP\/5.4.16 mod_wsgi\/3.4 Python\/2.7.5",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 10 Mar 2020 14:46:53 GMT",
+        "etag": "\"11ad55-5a08130ce8924\"",
+        "accept-ranges": "bytes",
+        "content-length": "1158485",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1158485,
+    "modified": 1583851613
+}

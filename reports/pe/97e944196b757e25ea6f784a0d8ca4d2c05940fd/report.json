@@ -1,0 +1,26 @@
+{
+    "filename": "resolucion-ministerial-039-2020-MINSA.PDF",
+    "uri": "https:\/\/cdn.www.gob.pe\/uploads\/document\/file\/505245\/resolucion-ministerial-039-2020-MINSA.PDF",
+    "output": "file.pdf",
+    "downloaded": 1585400824,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "9737215",
+        "date": "Sat, 28 Mar 2020 13:07:05 GMT",
+        "last-modified": "Sat, 01 Feb 2020 14:10:57 GMT",
+        "etag": "\"e7d59f979e7c7a3b3f4647bda789fb85\"",
+        "cache-control": "public, max-age=31556952",
+        "expires": "Sat, 30 Jan 2021 14:45:54 GMT",
+        "x-amz-version-id": "Nt08pUhEQErflh8_QB_1iNLVR2SMLf9b",
+        "accept-ranges": "bytes",
+        "server": "AmazonS3",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 199fd61d7551d8868317c5b53cc7d24d.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "IAD89-C3",
+        "x-amz-cf-id": "TlDpmQamSC_qJBlt--cXt_2PDbnVFAmJx-zy_8NE-K8it061nyDYfQ=="
+    },
+    "lang": "es",
+    "size": 9737215,
+    "modified": 1580566257
+}

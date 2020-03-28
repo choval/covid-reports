@@ -1,0 +1,26 @@
+{
+    "filename": "resolucion-ministerial-040-2020-MINSA.PDF",
+    "uri": "https:\/\/cdn.www.gob.pe\/uploads\/document\/file\/505246\/resolucion-ministerial-040-2020-MINSA.PDF",
+    "output": "file.pdf",
+    "downloaded": 1585400831,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "6034450",
+        "date": "Sat, 28 Mar 2020 13:07:12 GMT",
+        "last-modified": "Sat, 01 Feb 2020 14:15:14 GMT",
+        "etag": "\"9c53fdf62245e0260ce9fc9165b79baf\"",
+        "cache-control": "public, max-age=31556952",
+        "expires": "Sat, 30 Jan 2021 14:45:31 GMT",
+        "x-amz-version-id": "kT.Y8XTS1lxD5o7fKmhP0Nv7Up65XsfI",
+        "accept-ranges": "bytes",
+        "server": "AmazonS3",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 c34bd35d24f6df50307d1ac92d0f6110.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "IAD89-C3",
+        "x-amz-cf-id": "5HBsQi-cZ7oKZAKeJbyy14l8WBPWKe26TnX1xhhIM7sjZPNlDUCGQA=="
+    },
+    "lang": "es",
+    "size": 6034450,
+    "modified": 1580566514
+}

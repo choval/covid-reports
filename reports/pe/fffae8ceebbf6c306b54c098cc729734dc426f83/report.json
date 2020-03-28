@@ -1,0 +1,20 @@
+{
+    "filename": "dtransmisioncovid19.pdf",
+    "uri": "https:\/\/www.dge.gob.pe\/portal\/docs\/tools\/coronavirus\/dtransmisioncovid19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585400722,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 28 Mar 2020 13:02:13 GMT",
+        "server": "Apache\/2.4.6 (CentOS) OpenSSL\/1.0.2k-fips PHP\/5.4.16 mod_wsgi\/3.4 Python\/2.7.5",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 27 Mar 2020 23:49:48 GMT",
+        "etag": "\"471da-5a1dec1b5f74f\"",
+        "accept-ranges": "bytes",
+        "content-length": "291290",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 291290,
+    "modified": 1585352988
+}
