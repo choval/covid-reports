@@ -1,0 +1,31 @@
+{
+    "filename": "protocolo-monarch.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/INEC\/IGUB\/protocolo-monarch.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401471,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "2471462",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:17:51 GMT",
+        "last-modified": "Sun, 15 Mar 2020 00:46:13 GMT",
+        "etag": "\"{9001A019-CD48-4AF8-A511-C8AEEE7B8D4C},2\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:9001A019-CD48-4AF8-A511-C8AEEE7B8D4C@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "7737439f-b89a-2039-33d2-99ec2c4e5141",
+        "request-id": "7737439f-b89a-2039-33d2-99ec2c4e5141",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:17:51 GMT"
+    },
+    "lang": "es",
+    "size": 2471462,
+    "modified": 1584233173
+}

@@ -1,6 +1,11 @@
 # Korea
 
 
+## 2020-03-28
+
+* [Press\_Release\_(March28)\_morning.pdf](410d827442afb57e1ff1d6a0ff4667c4e84d0b2b/file.pdf) @12:49 GMT
+* [Press\_Release\_(March28)\_Afternoon.pdf](8276e45a282083e40070040596e030983ac19a33/file.pdf) @12:49 GMT
+
 ## 2020-03-27
 
 * [Press Release (March27)\_Afternoon.pdf](f367220df30ea906c7fb61bba57fda2a926fa210/file.pdf) @20:17 GMT

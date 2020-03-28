@@ -1,0 +1,20 @@
+{
+    "filename": "articles-393687_documento_pdf.pdf",
+    "uri": "https:\/\/www.mineducacion.gov.co\/1759\/articles-393687_documento_pdf.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401560,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 28 Mar 2020 13:19:19 GMT",
+        "server": "Apache",
+        "last-modified": "Mon, 09 Mar 2020 16:10:51 GMT",
+        "etag": "\"c4746-5a06e3f3778c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "804678",
+        "content-type": "application\/pdf",
+        "set-cookie": "cookiesession1=18701A0959T3Z5N2XMFBZYTTYTCO8571;Path=\/;HttpOnly"
+    },
+    "lang": "es",
+    "size": 804678,
+    "modified": 1583770251
+}

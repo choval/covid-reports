@@ -1,0 +1,31 @@
+{
+    "filename": "acciones-coronavirus.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/acciones-coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401490,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "462432",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:10 GMT",
+        "last-modified": "Mon, 03 Feb 2020 14:05:07 GMT",
+        "etag": "\"{38A3D98B-D46C-4F89-932A-EDEA8584F626},34\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:38A3D98B-D46C-4F89-932A-EDEA8584F626@00000000034",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "7c37439f-384c-2039-33d2-92a03a2c5903",
+        "request-id": "7c37439f-384c-2039-33d2-92a03a2c5903",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:10 GMT"
+    },
+    "lang": "es",
+    "size": 462432,
+    "modified": 1580738707
+}

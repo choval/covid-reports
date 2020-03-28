@@ -1,0 +1,31 @@
+{
+    "filename": "resolucion-407-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/DIJ\/resolucion-407-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401581,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "975472",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:41 GMT",
+        "last-modified": "Sun, 15 Mar 2020 00:55:51 GMT",
+        "etag": "\"{61881EA4-9BA4-41A5-8A97-D52ABD39F0F3},2\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:61881EA4-9BA4-41A5-8A97-D52ABD39F0F3@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9237439f-e867-2039-33d2-9fa6efb43e4a",
+        "request-id": "9237439f-e867-2039-33d2-9fa6efb43e4a",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:41 GMT"
+    },
+    "lang": "es",
+    "size": 975472,
+    "modified": 1584233751
+}

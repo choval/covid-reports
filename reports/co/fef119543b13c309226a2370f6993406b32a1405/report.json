@@ -1,0 +1,31 @@
+{
+    "filename": "Terminos%20y%20Condiciones%20de%20uso%20del%20portal%20web_Octubre%202012x.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/Documents\/Ministerio\/Terminos%20y%20Condiciones%20de%20uso%20del%20portal%20web_Octubre%202012x.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401776,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "75282",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:22:56 GMT",
+        "last-modified": "Thu, 14 Nov 2013 16:26:48 GMT",
+        "etag": "\"{8A7D2233-717C-462C-A593-1B350EFDD4BE},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:8A7D2233-717C-462C-A593-1B350EFDD4BE@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "c237439f-781e-2039-33d2-9f570705b6ce",
+        "request-id": "c237439f-781e-2039-33d2-9f570705b6ce",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:22:55 GMT"
+    },
+    "lang": "es",
+    "size": 75282,
+    "modified": 1384446408
+}

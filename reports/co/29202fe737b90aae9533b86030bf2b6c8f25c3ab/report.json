@@ -1,0 +1,31 @@
+{
+    "filename": "prevencion-covid19-lugar-trabajo.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/prevencion-covid19-lugar-trabajo.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401702,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "840829",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:21:42 GMT",
+        "last-modified": "Tue, 10 Mar 2020 16:22:11 GMT",
+        "etag": "\"{FCB167DA-DBB6-46D0-AA08-1DAD1016F646},11\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:FCB167DA-DBB6-46D0-AA08-1DAD1016F646@00000000011",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "af37439f-a8f8-2039-33d2-9304f580ab18",
+        "request-id": "af37439f-a8f8-2039-33d2-9304f580ab18",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:21:41 GMT"
+    },
+    "lang": "es",
+    "size": 840829,
+    "modified": 1583857331
+}

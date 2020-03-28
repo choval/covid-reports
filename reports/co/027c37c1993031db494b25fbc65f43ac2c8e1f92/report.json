@@ -1,0 +1,31 @@
+{
+    "filename": "manejo-cotidiano-animales-compania-c.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/manejo-cotidiano-animales-compania-c.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401610,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "894777",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:09 GMT",
+        "last-modified": "Sun, 22 Mar 2020 20:39:16 GMT",
+        "etag": "\"{987012E5-9A57-4C45-8701-E65E1E85A5F7},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:987012E5-9A57-4C45-8701-E65E1E85A5F7@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9937439f-e870-2039-33d2-9a95aff2e323",
+        "request-id": "9937439f-e870-2039-33d2-9a95aff2e323",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:09 GMT"
+    },
+    "lang": "es",
+    "size": 894777,
+    "modified": 1584909556
+}

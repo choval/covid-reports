@@ -1,0 +1,31 @@
+{
+    "filename": "asif13-personas-con-discapacidad.covid-19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/PS\/asif13-personas-con-discapacidad.covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401423,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "655048",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:17:03 GMT",
+        "last-modified": "Tue, 24 Mar 2020 00:12:46 GMT",
+        "etag": "\"{FDF9BB8D-0F59-4103-A489-4D12276517A9},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:FDF9BB8D-0F59-4103-A489-4D12276517A9@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6b37439f-f8f3-2039-33d2-9be2a301b422",
+        "request-id": "6b37439f-f8f3-2039-33d2-9be2a301b422",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:17:03 GMT"
+    },
+    "lang": "es",
+    "size": 655048,
+    "modified": 1585008766
+}

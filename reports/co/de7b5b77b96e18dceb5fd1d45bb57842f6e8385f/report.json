@@ -1,0 +1,31 @@
+{
+    "filename": "orientaciones-manejo-residuos-covid-19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/ED\/VSP\/orientaciones-manejo-residuos-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401482,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "294038",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:02 GMT",
+        "last-modified": "Fri, 13 Mar 2020 17:25:15 GMT",
+        "etag": "\"{30DF3D39-C3A2-4DFC-B1D4-9AFE3026E567},14\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:30DF3D39-C3A2-4DFC-B1D4-9AFE3026E567@00000000014",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "7a37439f-7838-2039-33d2-996b461ba422",
+        "request-id": "7a37439f-7838-2039-33d2-996b461ba422",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:01 GMT"
+    },
+    "lang": "es",
+    "size": 294038,
+    "modified": 1584120315
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "Comunicado_Tecnico_Diario_COVID-19_2020.03.05.pdf",
+    "uri": "https:\/\/www.gob.mx\/cms\/uploads\/attachment\/file\/539240\/Comunicado_Tecnico_Diario_COVID-19_2020.03.05.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585402438,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "content-type": "application\/pdf",
+        "content-length": "680830",
+        "last-modified": "Fri, 06 Mar 2020 01:22:58 GMT",
+        "etag": "\"5e61a5f2-a637e\"",
+        "accept-ranges": "bytes",
+        "cache-control": "public, max-age=20896",
+        "expires": "Sat, 28 Mar 2020 19:22:14 GMT",
+        "date": "Sat, 28 Mar 2020 13:33:58 GMT"
+    },
+    "lang": "es",
+    "size": 680830,
+    "modified": 1583457778
+}

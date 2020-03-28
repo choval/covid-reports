@@ -1,0 +1,31 @@
+{
+    "filename": "decreto-457-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/INEC\/IGUB\/decreto-457-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401520,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "9222696",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:40 GMT",
+        "last-modified": "Tue, 24 Mar 2020 16:23:18 GMT",
+        "etag": "\"{0258ECA8-77F4-4F87-8CC6-42BAFD61B1CA},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:0258ECA8-77F4-4F87-8CC6-42BAFD61B1CA@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8337439f-e884-2039-33d2-9408d3c8048d",
+        "request-id": "8337439f-e884-2039-33d2-9408d3c8048d",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:39 GMT"
+    },
+    "lang": "es",
+    "size": 9222696,
+    "modified": 1585066998
+}

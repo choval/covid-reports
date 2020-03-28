@@ -1,0 +1,31 @@
+{
+    "filename": "circular-015-de-2020-covid-19-etnicos-salud-interior.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/DIJ\/circular-015-de-2020-covid-19-etnicos-salud-interior.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401547,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1357424",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:07 GMT",
+        "last-modified": "Thu, 19 Mar 2020 00:26:29 GMT",
+        "etag": "\"{45C834C2-3362-4517-AB3D-6BBA50B6291F},5\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:45C834C2-3362-4517-AB3D-6BBA50B6291F@00000000005",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8a37439f-f815-2039-33d2-9d72406b0e29",
+        "request-id": "8a37439f-f815-2039-33d2-9d72406b0e29",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:06 GMT"
+    },
+    "lang": "es",
+    "size": 1357424,
+    "modified": 1584577589
+}

@@ -1,0 +1,31 @@
+{
+    "filename": "asif13-poblacion-etnica-covid-19-t.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/RID\/asif13-poblacion-etnica-covid-19-t.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401381,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "590554",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:16:21 GMT",
+        "last-modified": "Thu, 26 Mar 2020 16:43:50 GMT",
+        "etag": "\"{DED75431-AB6B-4BB2-A8B8-38C937A2B734},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:DED75431-AB6B-4BB2-A8B8-38C937A2B734@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6137439f-388d-2039-33d2-9a15695dd5c1",
+        "request-id": "6137439f-388d-2039-33d2-9a15695dd5c1",
+        "sprequestduration": "8",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:16:21 GMT"
+    },
+    "lang": "es",
+    "size": 590554,
+    "modified": 1585241030
+}

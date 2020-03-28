@@ -1,0 +1,31 @@
+{
+    "filename": "circular-0018-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/DIJ\/circular-0018-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401534,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "854690",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:54 GMT",
+        "last-modified": "Tue, 10 Mar 2020 19:00:37 GMT",
+        "etag": "\"{8D12E6D6-964F-4276-96FB-421D04D9B64C},13\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:8D12E6D6-964F-4276-96FB-421D04D9B64C@00000000013",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8637439f-98f6-2039-33d2-9e25d364d25f",
+        "request-id": "8637439f-98f6-2039-33d2-9e25d364d25f",
+        "sprequestduration": "23",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:54 GMT"
+    },
+    "lang": "es",
+    "size": 854690,
+    "modified": 1583866837
+}

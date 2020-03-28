@@ -1,0 +1,31 @@
+{
+    "filename": "encuesta-verificacion-alistamiento-ips-covid19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/encuesta-verificacion-alistamiento-ips-covid19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401696,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "355598",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:21:36 GMT",
+        "last-modified": "Fri, 13 Mar 2020 14:36:02 GMT",
+        "etag": "\"{044B9D8F-FEE6-4D6E-BF28-C94B160040C5},4\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:044B9D8F-FEE6-4D6E-BF28-C94B160040C5@00000000004",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "ae37439f-e87d-2039-33d2-90cac771ac45",
+        "request-id": "ae37439f-e87d-2039-33d2-90cac771ac45",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:21:36 GMT"
+    },
+    "lang": "es",
+    "size": 355598,
+    "modified": 1584110162
+}

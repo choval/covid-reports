@@ -1,0 +1,31 @@
+{
+    "filename": "resolucion-385-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/DIJ\/resolucion-385-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401573,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "165938",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:33 GMT",
+        "last-modified": "Fri, 13 Mar 2020 20:41:07 GMT",
+        "etag": "\"{6F190A03-8040-480A-A623-EDDFB1405C42},11\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:6F190A03-8040-480A-A623-EDDFB1405C42@00000000011",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9037439f-487a-2039-33d2-9a0310c7f56d",
+        "request-id": "9037439f-487a-2039-33d2-9a0310c7f56d",
+        "sprequestduration": "7",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:32 GMT"
+    },
+    "lang": "es",
+    "size": 165938,
+    "modified": 1584132067
+}

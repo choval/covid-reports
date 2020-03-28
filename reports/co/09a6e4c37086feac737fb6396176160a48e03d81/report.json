@@ -1,0 +1,31 @@
+{
+    "filename": "resolucion-453-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/DIJ\/resolucion-453-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401586,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "132325",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:46 GMT",
+        "last-modified": "Thu, 19 Mar 2020 20:07:09 GMT",
+        "etag": "\"{28423C38-0576-461C-9712-74DB844EB732},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:28423C38-0576-461C-9712-74DB844EB732@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9337439f-b8bc-2039-33d2-96931b9cd6b4",
+        "request-id": "9337439f-b8bc-2039-33d2-96931b9cd6b4",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:46 GMT"
+    },
+    "lang": "es",
+    "size": 132325,
+    "modified": 1584648429
+}

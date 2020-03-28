@@ -1,0 +1,31 @@
+{
+    "filename": "abece-coronavirus.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/ET\/abece-coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401672,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "9228470",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:21:12 GMT",
+        "last-modified": "Tue, 17 Mar 2020 23:26:46 GMT",
+        "etag": "\"{34914F5A-2256-4E3C-9183-58BE94D9121A},26\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:34914F5A-2256-4E3C-9183-58BE94D9121A@00000000026",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "a837439f-88b8-2039-33d2-9ddf9cc72ce9",
+        "request-id": "a837439f-88b8-2039-33d2-9ddf9cc72ce9",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:21:11 GMT"
+    },
+    "lang": "es",
+    "size": 9228470,
+    "modified": 1584487606
+}

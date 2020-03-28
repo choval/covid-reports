@@ -1,0 +1,31 @@
+{
+    "filename": "personas-con-discapacidad-covid-19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/personas-con-discapacidad-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401651,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "2471158",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:50 GMT",
+        "last-modified": "Mon, 23 Mar 2020 21:58:12 GMT",
+        "etag": "\"{2BCBE91D-55DF-449E-8109-2ACCF51072DB},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:2BCBE91D-55DF-449E-8109-2ACCF51072DB@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "a337439f-2870-2039-33d2-914304363177",
+        "request-id": "a337439f-2870-2039-33d2-914304363177",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:50 GMT"
+    },
+    "lang": "es",
+    "size": 2471158,
+    "modified": 1585000692
+}

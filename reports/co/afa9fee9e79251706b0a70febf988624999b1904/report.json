@@ -1,0 +1,31 @@
+{
+    "filename": "gmtg14-guia-lineamientos-alcohol-desinfeccion.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/MET\/gmtg14-guia-lineamientos-alcohol-desinfeccion.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401437,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1353554",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:17:16 GMT",
+        "last-modified": "Sun, 22 Mar 2020 00:26:04 GMT",
+        "etag": "\"{A4E6F0CA-AF7E-4838-B211-AB088C057484},2\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:A4E6F0CA-AF7E-4838-B211-AB088C057484@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6f37439f-3832-2039-33d2-935fa5f85792",
+        "request-id": "6f37439f-3832-2039-33d2-935fa5f85792",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:17:16 GMT"
+    },
+    "lang": "es",
+    "size": 1353554,
+    "modified": 1584836764
+}

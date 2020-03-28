@@ -1,0 +1,31 @@
+{
+    "filename": "lineamiento-gestion-muestras-covid-19-t.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/RID\/lineamiento-gestion-muestras-covid-19-t.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401372,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "335706",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:16:12 GMT",
+        "last-modified": "Fri, 27 Mar 2020 23:30:00 GMT",
+        "etag": "\"{7D870338-BF7A-4E27-BD86-5AD5F2297EC0},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:7D870338-BF7A-4E27-BD86-5AD5F2297EC0@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "5f37439f-3878-2039-33d2-97c29f21f365",
+        "request-id": "5f37439f-3878-2039-33d2-97c29f21f365",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:16:12 GMT"
+    },
+    "lang": "es",
+    "size": 335706,
+    "modified": 1585351800
+}

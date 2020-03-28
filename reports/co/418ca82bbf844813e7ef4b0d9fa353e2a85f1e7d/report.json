@@ -1,0 +1,31 @@
+{
+    "filename": "procedimiento-desembarco-mrc.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/INEC\/IGUB\/procedimiento-desembarco-mrc.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401495,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "725981",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:15 GMT",
+        "last-modified": "Thu, 27 Feb 2020 23:25:29 GMT",
+        "etag": "\"{9155266E-31EB-4D62-B113-7D1A35FC1091},14\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:9155266E-31EB-4D62-B113-7D1A35FC1091@00000000014",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "7d37439f-f85d-2039-33d2-9da3b1cc3557",
+        "request-id": "7d37439f-f85d-2039-33d2-9da3b1cc3557",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:14 GMT"
+    },
+    "lang": "es",
+    "size": 725981,
+    "modified": 1582845929
+}

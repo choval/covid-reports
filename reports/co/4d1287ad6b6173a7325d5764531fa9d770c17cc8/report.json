@@ -1,0 +1,31 @@
+{
+    "filename": "informe-resultados-eps-2014.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/CA\/informe-resultados-eps-2014.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401759,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "14138648",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:22:39 GMT",
+        "last-modified": "Thu, 04 Jun 2015 19:48:04 GMT",
+        "etag": "\"{2B9C4C39-466A-4CB1-9A57-DBA6FE8FB48E},11\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:2B9C4C39-466A-4CB1-9A57-DBA6FE8FB48E@00000000011",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "bd37439f-78ee-2039-33d2-9e08e0471783",
+        "request-id": "bd37439f-78ee-2039-33d2-9e08e0471783",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:22:38 GMT"
+    },
+    "lang": "es",
+    "size": 14138648,
+    "modified": 1433447284
+}

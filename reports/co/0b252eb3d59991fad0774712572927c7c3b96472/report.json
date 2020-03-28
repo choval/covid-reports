@@ -1,0 +1,31 @@
+{
+    "filename": "GIPM01.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/Ministerio\/Institucional\/Procesos%20y%20procedimientos\/GIPM01.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401506,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "550693",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:26 GMT",
+        "last-modified": "Fri, 28 Feb 2020 22:08:15 GMT",
+        "etag": "\"{CCE710D2-5CF9-43AD-BC70-187B2EBAA437},7\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:CCE710D2-5CF9-43AD-BC70-187B2EBAA437@00000000007",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8037439f-2832-2039-33d2-99765fdd76d6",
+        "request-id": "8037439f-2832-2039-33d2-99765fdd76d6",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:26 GMT"
+    },
+    "lang": "es",
+    "size": 550693,
+    "modified": 1582927695
+}

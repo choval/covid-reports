@@ -1,0 +1,31 @@
+{
+    "filename": "medidas-prevencion-salir-entrar-vivienda-c.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/medidas-prevencion-salir-entrar-vivienda-c.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401627,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "944352",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:27 GMT",
+        "last-modified": "Sun, 22 Mar 2020 20:40:54 GMT",
+        "etag": "\"{63677D37-A846-4D36-8723-5CE158443DBF},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:63677D37-A846-4D36-8723-5CE158443DBF@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9d37439f-28b3-2039-33d2-93ce3ed4bdc6",
+        "request-id": "9d37439f-28b3-2039-33d2-93ce3ed4bdc6",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:26 GMT"
+    },
+    "lang": "es",
+    "size": 944352,
+    "modified": 1584909654
+}

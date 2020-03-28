@@ -1,0 +1,31 @@
+{
+    "filename": "Infografi%CC%81a%20Adultos%20mayores.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/Infografi%CC%81a%20Adultos%20mayores.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401640,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "548444",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:40 GMT",
+        "last-modified": "Fri, 27 Mar 2020 18:05:48 GMT",
+        "etag": "\"{E976F3FC-BAC8-425A-8E04-FE511E25F9FF},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:E976F3FC-BAC8-425A-8E04-FE511E25F9FF@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "a037439f-28e0-2039-33d2-91bc72358f10",
+        "request-id": "a037439f-28e0-2039-33d2-91bc72358f10",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:40 GMT"
+    },
+    "lang": "es",
+    "size": 548444,
+    "modified": 1585332348
+}

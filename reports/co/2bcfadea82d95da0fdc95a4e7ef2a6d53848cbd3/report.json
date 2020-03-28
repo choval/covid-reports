@@ -1,0 +1,31 @@
+{
+    "filename": "manual-imagen-gobierno-colombia.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/COM\/manual-imagen-gobierno-colombia.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401360,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1120388",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:16:00 GMT",
+        "last-modified": "Thu, 20 Sep 2018 17:26:36 GMT",
+        "etag": "\"{4208EB62-A88D-4C0E-9D36-D0FFC980BA3B},7\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:4208EB62-A88D-4C0E-9D36-D0FFC980BA3B@00000000007",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "5c37439f-e869-2039-33d2-94eba1b4a84d",
+        "request-id": "5c37439f-e869-2039-33d2-94eba1b4a84d",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:15:59 GMT"
+    },
+    "lang": "es",
+    "size": 1120388,
+    "modified": 1537464396
+}

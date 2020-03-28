@@ -1,0 +1,31 @@
+{
+    "filename": "GIPS09.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/Ministerio\/Institucional\/Procesos%20y%20procedimientos\/GIPS09.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401406,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "238992",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:16:46 GMT",
+        "last-modified": "Mon, 23 Mar 2020 02:27:53 GMT",
+        "etag": "\"{2ADBD35D-E411-4F70-8948-CBF5E02D11C3},4\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:2ADBD35D-E411-4F70-8948-CBF5E02D11C3@00000000004",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6737439f-18c6-2039-33d2-9bf1818c04a2",
+        "request-id": "6737439f-18c6-2039-33d2-9bf1818c04a2",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:16:45 GMT"
+    },
+    "lang": "es",
+    "size": 238992,
+    "modified": 1584930473
+}

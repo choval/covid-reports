@@ -1,0 +1,31 @@
+{
+    "filename": "GPSF20.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/Ministerio\/Institucional\/Procesos%20y%20procedimientos\/GPSF20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401420,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "95701",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:17:00 GMT",
+        "last-modified": "Wed, 25 Mar 2020 14:26:20 GMT",
+        "etag": "\"{62FF5603-8890-4DC6-AAC7-58A6BDDB2C0F},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:62FF5603-8890-4DC6-AAC7-58A6BDDB2C0F@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6b37439f-480d-2039-33d2-9ada371c93e1",
+        "request-id": "6b37439f-480d-2039-33d2-9ada371c93e1",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:16:59 GMT"
+    },
+    "lang": "es",
+    "size": 95701,
+    "modified": 1585146380
+}

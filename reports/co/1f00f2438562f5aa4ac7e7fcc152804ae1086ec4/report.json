@@ -1,0 +1,31 @@
+{
+    "filename": "TEDS03.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/Ministerio\/Institucional\/Procesos%20y%20procedimientos\/TEDS03.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401511,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "213075",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:31 GMT",
+        "last-modified": "Tue, 24 Mar 2020 20:15:51 GMT",
+        "etag": "\"{69BDD586-15A2-4DD6-B977-AF259542CD05},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:69BDD586-15A2-4DD6-B977-AF259542CD05@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8137439f-e86d-2039-33d2-900922789f20",
+        "request-id": "8137439f-e86d-2039-33d2-900922789f20",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:30 GMT"
+    },
+    "lang": "es",
+    "size": 213075,
+    "modified": 1585080951
+}

@@ -1,0 +1,31 @@
+{
+    "filename": "Info_indigenas_covid-19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/Info_indigenas_covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401663,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "5405902",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:21:03 GMT",
+        "last-modified": "Fri, 27 Mar 2020 18:39:11 GMT",
+        "etag": "\"{C1D522F4-AC2D-4AE4-BA80-6DB02A4761AE},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:C1D522F4-AC2D-4AE4-BA80-6DB02A4761AE@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "a637439f-b87d-2039-33d2-9f4f4031e366",
+        "request-id": "a637439f-b87d-2039-33d2-9f4f4031e366",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:21:03 GMT"
+    },
+    "lang": "es",
+    "size": 5405902,
+    "modified": 1585334351
+}

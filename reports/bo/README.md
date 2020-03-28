@@ -3,6 +3,7 @@
 
 ## 2020-03-28
 
+* [comunicado-n36-se-reportan-13-nuevos-casos-de-coronavirus-en-bolivia](fbedd8f7112494fd7b4ca7ca776b82b01535641f/file.pdf) @12:45 GMT
 * [4009-bolivia-suma-74-pacientes-con-coronavirus-y-la-mayoria-son-casos-leves](acb61bb9e3e7e0584f1499ea4d160fce822c8d4c/file.pdf) @03:19 GMT
 
 ## 2020-03-27

@@ -1,0 +1,31 @@
+{
+    "filename": "cr-04-2020-directrices-medidas-control-casos-probables-confirmados-COVID-19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/INEC\/IGUB\/cr-04-2020-directrices-medidas-control-casos-probables-confirmados-COVID-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401598,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "653809",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:58 GMT",
+        "last-modified": "Sun, 22 Mar 2020 17:51:19 GMT",
+        "etag": "\"{080ACC12-EF1B-4B98-A022-E14694364765},2\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:080ACC12-EF1B-4B98-A022-E14694364765@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9637439f-d8b0-2039-33d2-9b62cc57a28f",
+        "request-id": "9637439f-d8b0-2039-33d2-9b62cc57a28f",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:58 GMT"
+    },
+    "lang": "es",
+    "size": 653809,
+    "modified": 1584899479
+}

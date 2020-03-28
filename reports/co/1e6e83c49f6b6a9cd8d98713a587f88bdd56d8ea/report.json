@@ -1,0 +1,31 @@
+{
+    "filename": "GMTG15.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/Ministerio\/Institucional\/Procesos%20y%20procedimientos\/GMTG15.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401366,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "2020186",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:16:05 GMT",
+        "last-modified": "Tue, 24 Mar 2020 00:29:15 GMT",
+        "etag": "\"{83CBF9E4-A827-4AD4-8FED-F1FFB89E28EC},4\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:83CBF9E4-A827-4AD4-8FED-F1FFB89E28EC@00000000004",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "5d37439f-28d6-2039-33d2-9ce6c9f13257",
+        "request-id": "5d37439f-28d6-2039-33d2-9ce6c9f13257",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:16:04 GMT"
+    },
+    "lang": "es",
+    "size": 2020186,
+    "modified": 1585009755
+}

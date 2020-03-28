@@ -1,0 +1,31 @@
+{
+    "filename": "coronavirus%20preguntas_060320.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/coronavirus%20preguntas_060320.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401685,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "7359653",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:21:25 GMT",
+        "last-modified": "Sat, 07 Mar 2020 21:43:10 GMT",
+        "etag": "\"{DA593822-A035-4F33-8521-8C86DCB4BE1C},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:DA593822-A035-4F33-8521-8C86DCB4BE1C@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "ab37439f-98d2-2039-33d2-93b2ead8b569",
+        "request-id": "ab37439f-98d2-2039-33d2-93b2ead8b569",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:21:24 GMT"
+    },
+    "lang": "es",
+    "size": 7359653,
+    "modified": 1583617390
+}

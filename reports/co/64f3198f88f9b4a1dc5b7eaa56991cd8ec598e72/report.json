@@ -1,0 +1,31 @@
+{
+    "filename": "limpieza-desinfeccion-vivienda-c.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/limpieza-desinfeccion-vivienda-c.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401604,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1498011",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:03 GMT",
+        "last-modified": "Sun, 22 Mar 2020 20:38:49 GMT",
+        "etag": "\"{B89B9213-55BC-49D4-8F26-A24ADF7386CA},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:B89B9213-55BC-49D4-8F26-A24ADF7386CA@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9737439f-58f6-2039-33d2-9fa5a7d4d422",
+        "request-id": "9737439f-58f6-2039-33d2-9fa5a7d4d422",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:03 GMT"
+    },
+    "lang": "es",
+    "size": 1498011,
+    "modified": 1584909529
+}

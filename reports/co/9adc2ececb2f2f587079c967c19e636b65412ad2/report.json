@@ -1,0 +1,31 @@
+{
+    "filename": "circular-017-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/INEC\/IGUB\/circular-017-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401539,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "3421226",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:59 GMT",
+        "last-modified": "Thu, 12 Mar 2020 15:48:24 GMT",
+        "etag": "\"{CC6B4D4C-A0AE-46F2-AF65-7A816BB1DA15},12\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:CC6B4D4C-A0AE-46F2-AF65-7A816BB1DA15@00000000012",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8837439f-b83f-2039-33d2-9f4a87cb7def",
+        "request-id": "8837439f-b83f-2039-33d2-9f4a87cb7def",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:59 GMT"
+    },
+    "lang": "es",
+    "size": 3421226,
+    "modified": 1584028104
+}

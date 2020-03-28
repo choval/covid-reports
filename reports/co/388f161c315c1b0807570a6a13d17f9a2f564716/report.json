@@ -1,0 +1,31 @@
+{
+    "filename": "coronavirus-telefonos.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/ED\/VSP\/coronavirus-telefonos.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401708,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "12286618",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:21:47 GMT",
+        "last-modified": "Wed, 25 Mar 2020 22:54:44 GMT",
+        "etag": "\"{59F9BAED-882D-4B32-81B4-28809975C655},26\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:59F9BAED-882D-4B32-81B4-28809975C655@00000000026",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "b137439f-c85c-2039-33d2-920cbf1d334d",
+        "request-id": "b137439f-c85c-2039-33d2-920cbf1d334d",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:21:47 GMT"
+    },
+    "lang": "es",
+    "size": 12286618,
+    "modified": 1585176884
+}

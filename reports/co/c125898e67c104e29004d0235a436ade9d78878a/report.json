@@ -1,0 +1,31 @@
+{
+    "filename": "guia-interinstitucional-repatriacion-covid19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/INEC\/IGUB\/guia-interinstitucional-repatriacion-covid19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401502,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "207493",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:22 GMT",
+        "last-modified": "Thu, 27 Feb 2020 23:31:33 GMT",
+        "etag": "\"{DC4C643A-767A-477D-BA6C-9759159E0810},12\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:DC4C643A-767A-477D-BA6C-9759159E0810@00000000012",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "7f37439f-3832-2039-33d2-9c75bc7762dc",
+        "request-id": "7f37439f-3832-2039-33d2-9c75bc7762dc",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:22 GMT"
+    },
+    "lang": "es",
+    "size": 207493,
+    "modified": 1582846293
+}

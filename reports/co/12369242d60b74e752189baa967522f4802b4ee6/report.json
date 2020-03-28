@@ -1,0 +1,31 @@
+{
+    "filename": "resolucion-470-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/DIJ\/resolucion-470-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401594,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "406487",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:54 GMT",
+        "last-modified": "Sat, 21 Mar 2020 00:43:49 GMT",
+        "etag": "\"{5410571D-7102-43B9-9DBA-635C4861C60D},2\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:5410571D-7102-43B9-9DBA-635C4861C60D@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9537439f-388a-2039-33d2-9b7bf542893d",
+        "request-id": "9537439f-388a-2039-33d2-9b7bf542893d",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:53 GMT"
+    },
+    "lang": "es",
+    "size": 406487,
+    "modified": 1584751429
+}

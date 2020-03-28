@@ -1,0 +1,31 @@
+{
+    "filename": "Infografi%CC%81a%20Habitante%20de%20Calle.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/Infografi%CC%81a%20Habitante%20de%20Calle.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401657,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1439769",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:57 GMT",
+        "last-modified": "Fri, 27 Mar 2020 16:02:49 GMT",
+        "etag": "\"{F1E7C3BB-64EF-46A2-BECB-D82A2686B1E5},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:F1E7C3BB-64EF-46A2-BECB-D82A2686B1E5@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "a537439f-b818-2039-33d2-977aa45082ac",
+        "request-id": "a537439f-b818-2039-33d2-977aa45082ac",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:56 GMT"
+    },
+    "lang": "es",
+    "size": 1439769,
+    "modified": 1585324969
+}

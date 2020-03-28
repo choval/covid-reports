@@ -1,0 +1,31 @@
+{
+    "filename": "resolucion-464-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/DIJ\/resolucion-464-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401590,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "92676",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:50 GMT",
+        "last-modified": "Fri, 20 Mar 2020 16:51:39 GMT",
+        "etag": "\"{F18D9CA8-DB0E-4BF0-9959-3405F787BFBC},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:F18D9CA8-DB0E-4BF0-9959-3405F787BFBC@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9437439f-58a4-2039-33d2-93979e9af5fe",
+        "request-id": "9437439f-58a4-2039-33d2-93979e9af5fe",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:50 GMT"
+    },
+    "lang": "es",
+    "size": 92676,
+    "modified": 1584723099
+}

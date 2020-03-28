@@ -1,0 +1,31 @@
+{
+    "filename": "circular-externa-11-de-2020.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/circular-externa-11-de-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401553,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "2635346",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:19:12 GMT",
+        "last-modified": "Thu, 12 Mar 2020 13:46:19 GMT",
+        "etag": "\"{9B817ECF-5A52-4C81-8A38-107E22BCD766},9\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:9B817ECF-5A52-4C81-8A38-107E22BCD766@00000000009",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8b37439f-9883-2039-33d2-959a986990cc",
+        "request-id": "8b37439f-9883-2039-33d2-959a986990cc",
+        "sprequestduration": "8",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:19:12 GMT"
+    },
+    "lang": "es",
+    "size": 2635346,
+    "modified": 1584020779
+}

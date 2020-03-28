@@ -1,0 +1,31 @@
+{
+    "filename": "medidas-usuarios-vehiculo-particular-moto-bicicletas-c.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/medidas-usuarios-vehiculo-particular-moto-bicicletas-c.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401621,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1747801",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:21 GMT",
+        "last-modified": "Sun, 22 Mar 2020 20:40:30 GMT",
+        "etag": "\"{3998E90E-FA54-465C-BFA5-2C2E2464C7A8},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:3998E90E-FA54-465C-BFA5-2C2E2464C7A8@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9c37439f-182a-2039-33d2-93ffdee06589",
+        "request-id": "9c37439f-182a-2039-33d2-93ffdee06589",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:20 GMT"
+    },
+    "lang": "es",
+    "size": 1747801,
+    "modified": 1584909630
+}

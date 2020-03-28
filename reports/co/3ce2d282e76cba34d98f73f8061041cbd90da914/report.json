@@ -1,0 +1,31 @@
+{
+    "filename": "asif04-guia-tamizaje-poblacional-puntos-entrada-coronavirus.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/asif04-guia-tamizaje-poblacional-puntos-entrada-coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401486,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "347942",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:18:06 GMT",
+        "last-modified": "Fri, 28 Feb 2020 22:39:25 GMT",
+        "etag": "\"{1B4B6189-7E34-4B49-BA13-43AD921DE4C4},36\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:1B4B6189-7E34-4B49-BA13-43AD921DE4C4@00000000036",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "7b37439f-883a-2039-33d2-93a1fafd002b",
+        "request-id": "7b37439f-883a-2039-33d2-93a1fafd002b",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:18:05 GMT"
+    },
+    "lang": "es",
+    "size": 347942,
+    "modified": 1582929565
+}

@@ -1,0 +1,31 @@
+{
+    "filename": "asif13-adulto-mayor.covid-19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/DE\/PS\/asif13-adulto-mayor.covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401428,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "554744",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:17:08 GMT",
+        "last-modified": "Tue, 24 Mar 2020 00:10:01 GMT",
+        "etag": "\"{E5B904E2-910D-4A96-8138-7F3EF61D3504},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:E5B904E2-910D-4A96-8138-7F3EF61D3504@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6d37439f-4821-2039-33d2-9d1824e8aabd",
+        "request-id": "6d37439f-4821-2039-33d2-9d1824e8aabd",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:17:07 GMT"
+    },
+    "lang": "es",
+    "size": 554744,
+    "modified": 1585008601
+}

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://d2jsqrio60m94k.cloudfront.net/"
+ORG=Colombia
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=es

@@ -1,0 +1,31 @@
+{
+    "filename": "recomendaciones-contener-ira-c.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/recomendaciones-contener-ira-c.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401615,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "975323",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:15 GMT",
+        "last-modified": "Sun, 22 Mar 2020 20:40:02 GMT",
+        "etag": "\"{8962FECA-A140-43E7-B63C-75D295DDC818},4\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:8962FECA-A140-43E7-B63C-75D295DDC818@00000000004",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9a37439f-58c4-2039-33d2-9a212f9f2c38",
+        "request-id": "9a37439f-58c4-2039-33d2-9a212f9f2c38",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:14 GMT"
+    },
+    "lang": "es",
+    "size": 975323,
+    "modified": 1584909602
+}

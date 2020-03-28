@@ -1,0 +1,31 @@
+{
+    "filename": "tabla-epp-consenso.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/tabla-epp-consenso.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401433,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "62853",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:17:13 GMT",
+        "last-modified": "Sun, 22 Mar 2020 01:22:13 GMT",
+        "etag": "\"{B1A4645C-233C-44B5-9A1F-0A7BF033CAC3},2\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:B1A4645C-233C-44B5-9A1F-0A7BF033CAC3@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6e37439f-585b-2039-33d2-92f44f814085",
+        "request-id": "6e37439f-585b-2039-33d2-92f44f814085",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:17:13 GMT"
+    },
+    "lang": "es",
+    "size": 62853,
+    "modified": 1584840133
+}

@@ -1,0 +1,31 @@
+{
+    "filename": "recomendaciones-agua-c.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/PP\/recomendaciones-agua-c.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401633,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "2098548",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:20:33 GMT",
+        "last-modified": "Sun, 22 Mar 2020 20:42:43 GMT",
+        "etag": "\"{5C423381-E81A-438A-B649-1880A5B3F369},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:5C423381-E81A-438A-B649-1880A5B3F369@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9f37439f-4844-2039-33d2-9da6eba3390f",
+        "request-id": "9f37439f-4844-2039-33d2-9da6eba3390f",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:20:33 GMT"
+    },
+    "lang": "es",
+    "size": 2098548,
+    "modified": 1584909763
+}

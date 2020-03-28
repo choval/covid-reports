@@ -1,0 +1,31 @@
+{
+    "filename": "folleto-covid-19-ingles.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/sites\/rid\/Lists\/BibliotecaDigital\/RIDE\/VS\/folleto-covid-19-ingles.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585401749,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "5544135",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 13:22:29 GMT",
+        "last-modified": "Thu, 12 Mar 2020 00:10:17 GMT",
+        "etag": "\"{632651B3-02AE-4CB4-AC2D-0F451EE9D302},16\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:632651B3-02AE-4CB4-AC2D-0F451EE9D302@00000000016",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "bb37439f-f887-2039-33d2-927f10ac4f2f",
+        "request-id": "bb37439f-f887-2039-33d2-927f10ac4f2f",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 13:22:29 GMT"
+    },
+    "lang": "es",
+    "size": 5544135,
+    "modified": 1583971817
+}
