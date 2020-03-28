@@ -3,7 +3,9 @@
 
 ## 2020-03-28
 
+* [2020.03.28---dagsrapport-covid-19-v2.pdf](f5a812e112bf18a8271dc5a3343c71a7dab62045/file.pdf) @14:31 GMT
 * [2020.03.28---dagsrapport-covid19.pdf](138e2d1e359e56a42b7e7f83a3f1aecbd7bb937e/file.pdf) @11:59 GMT
+* [2020.03.28---dagsrapport-covid19.pdf](e3554ab060f42098c06eed4cb78e1bcd553a5440/file.pdf) @11:59 GMT
 
 ## 2020-03-27
 

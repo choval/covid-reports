@@ -1,0 +1,20 @@
+{
+    "filename": "da9353-Tablero27.03.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/da9353-Tablero27.03.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585429084,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sat, 28 Mar 2020 12:34:20 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "314236",
+        "connection": "keep-alive",
+        "last-modified": "Sat, 28 Mar 2020 15:46:27 GMT",
+        "etag": "\"4cb7c-5a1ec1eff4086\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 314236,
+    "modified": 1585410387
+}

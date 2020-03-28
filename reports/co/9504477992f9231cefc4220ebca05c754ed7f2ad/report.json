@@ -1,0 +1,31 @@
+{
+    "filename": "MEDICAMENTOS%20ESCENCIALES-UCI-COVID-19%20final-25-marzo.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/MEDICAMENTOS%20ESCENCIALES-UCI-COVID-19%20final-25-marzo.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585428658,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "670340",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 13 Mar 2020 20:50:58 GMT",
+        "last-modified": "Sat, 28 Mar 2020 14:40:45 GMT",
+        "etag": "\"{7D17B768-E850-4C58-A6BB-FDB9C2D5B5E4},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:7D17B768-E850-4C58-A6BB-FDB9C2D5B5E4@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6551439f-f830-2039-6a40-8397cbcb13ef",
+        "request-id": "6551439f-f830-2039-6a40-8397cbcb13ef",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sat, 28 Mar 2020 20:50:58 GMT"
+    },
+    "lang": "es",
+    "size": 670340,
+    "modified": 1585406445
+}

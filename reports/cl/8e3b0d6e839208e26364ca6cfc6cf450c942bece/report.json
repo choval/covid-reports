@@ -1,0 +1,25 @@
+{
+    "filename": "CONTACTO-DE-CASOS-FASE-4.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/CONTACTO-DE-CASOS-FASE-4.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585428638,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 28 Mar 2020 20:50:25 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Sat, 28 Mar 2020 18:21:06 GMT",
+        "etag": "\"6e940-5a1ee480969f3\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbFMuvlzkB=dZf",
+        "xxuodali": "StT; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "14-96949443-96949495 NNNY CT(0 0 0) RT(1585428637617 317) q(0 0 0 -1) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 452928,
+    "modified": 1585419666
+}
