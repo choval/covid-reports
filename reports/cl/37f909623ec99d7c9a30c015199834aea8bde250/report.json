@@ -1,0 +1,25 @@
+{
+    "filename": "Informe_14_COVID_19_Chile.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/Informe_14_COVID_19_Chile.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585507969,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 29 Mar 2020 18:52:37 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Sun, 29 Mar 2020 16:12:52 GMT",
+        "etag": "\"83bc8-5a2009b453f94\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=qZN",
+        "xzfosalv": "ota; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "7-48493571-48493595 NNNY CT(0 0 0) RT(1585507968368 319) q(0 0 0 -1) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 539592,
+    "modified": 1585498372
+}

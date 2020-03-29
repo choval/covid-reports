@@ -1,6 +1,10 @@
 # Paraguay
 
 
+## 2020-03-29
+
+* [77e618-Tablero28.03.pdf](e06e1f4d26db220ce9c8fef14204a0ee0120b719/file.pdf) @16:15 GMT
+
 ## 2020-03-28
 
 * [a3bd03-decreto3490.pdf](059500b63d39cc2c7b388a03eac392f2132fa441/file.pdf) @22:39 GMT

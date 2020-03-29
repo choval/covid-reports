@@ -1,0 +1,20 @@
+{
+    "filename": "77e618-Tablero28.03.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/77e618-Tablero28.03.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585508218,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 29 Mar 2020 10:33:12 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "314731",
+        "connection": "keep-alive",
+        "last-modified": "Sun, 29 Mar 2020 16:15:47 GMT",
+        "etag": "\"4cd6b-5a200a5b28b12\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 314731,
+    "modified": 1585498547
+}
