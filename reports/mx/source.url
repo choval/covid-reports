@@ -1,6 +1,6 @@
 [InternetShortcut]
 URL="https://coronavirus.gob.mx/noticias/"
 ORG=Mexico
-FOLLOW_REGEXP="/href=\"(?P<link>[^\"]+conferencia[^\"]+)[#\"]/Ui"
-DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"[^>]*>[^<]*Comunicado/Ui"
+FOLLOW_REGEXP="/href=\"(?P<link>[^\"]*\/2020\/[^\"]*conferencia[^\"]+)[#\"]/Ui"
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\">]+\.pdf)[^\"]*\"[^>]*>[^<]*Comunicado/Ui"
 LANG=es

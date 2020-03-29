@@ -2,7 +2,7 @@
 
 | Country | Updated | Files | Sources |
 | --- | --- | --- | --- |
-| [Argentina](ar/README.md) | 2020-03-28 12:31 GMT | [27](ar/README.md) | 1 |
+| [Argentina](ar/README.md) | 2020-03-29 00:07 GMT | [28](ar/README.md) | 1 |
 | [Australia](au/README.md) | 2020-03-28 13:14 GMT | [8](au/README.md) | 1 |
 | [Bolivia](bo/README.md) | 2020-03-28 20:50 GMT | [11](bo/README.md) | 1 |
 | [Chile](cl/README.md) | 2020-03-28 18:21 GMT | [60](cl/README.md) | 1 |
@@ -13,7 +13,7 @@
 | [Italy](it/README.md) | 2020-03-28 17:36 GMT | [86](it/README.md) | 1 |
 | [Japan](jp/README.md) | 2020-03-28 10:39 GMT | [875](jp/README.md) | 1 |
 | [Korea](kr/README.md) | 2020-03-28 16:51 GMT | [152](kr/README.md) | 1 |
-| [Mexico](mx/README.md) | 2020-03-28 00:56 GMT | [24](mx/README.md) | 1 |
+| [Mexico](mx/README.md) | 2020-03-29 00:59 GMT | [25](mx/README.md) | 1 |
 | [Norway](no/README.md) | 2020-03-28 14:31 GMT | [25](no/README.md) | 1 |
 | [Paraguay](py/README.md) | 2020-03-28 22:39 GMT | [59](py/README.md) | 1 |
 | [Peru](pe/README.md) | 2020-03-27 23:49 GMT | [27](pe/README.md) | 1 |
