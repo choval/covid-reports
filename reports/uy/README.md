@@ -1,6 +1,10 @@
 # Uruguay
 
 
+## 2020-03-29
+
+* [informe-situacion-relacion-coronavirus-covid-19-uruguay-1](f044ea2dbfa0bd90cadc5051a9a007eae8f9139b/file.pdf) @10:43 GMT
+
 ## 2020-03-28
 
 * [informe-situacion-relacion-coronavirus-covid-19-uruguay-0](70878909ee9bd5e9ee4263d9cdf22be0c50615bf/file.pdf) @03:23 GMT
