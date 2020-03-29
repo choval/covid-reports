@@ -1,6 +1,11 @@
 # Bolivia
 
 
+## 2020-03-29
+
+* [4011-bolivia-reporta-incremento-leve-de-casos-de-coronavirus-el-numero-sube-a-81](d68aa1fc324f75b92d5dc2044fee96ec41a21977/file.pdf) @22:44 GMT
+* [4012-una-mujer-de-78-anos-es-la-primera-victima-del-coronavirus-en-el-pais-ministro-de-salud](91c40c9090a5232136e81ff36637321384173d79/file.pdf) @22:44 GMT
+
 ## 2020-03-28
 
 * [4010-ministro-cruz-destaca-organizacion-de-personal-medico-en-achacachi-y-afirma-que-hay-capacidad-para-atender-casos-de-coronavirus](a058aa87e0e2b64de439590a2741022c546d0316/file.pdf) @20:50 GMT

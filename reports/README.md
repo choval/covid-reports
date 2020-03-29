@@ -4,11 +4,11 @@
 | --- | --- | --- | --- |
 | [Argentina](ar/README.md) | 2020-03-29 15:19 GMT | [29](ar/README.md) | 1 |
 | [Australia](au/README.md) | 2020-03-28 13:14 GMT | [8](au/README.md) | 1 |
-| [Bolivia](bo/README.md) | 2020-03-28 20:50 GMT | [11](bo/README.md) | 1 |
+| [Bolivia](bo/README.md) | 2020-03-29 22:44 GMT | [13](bo/README.md) | 1 |
 | [Chile](cl/README.md) | 2020-03-29 16:12 GMT | [62](cl/README.md) | 1 |
 | [Colombia](co/README.md) | 2020-03-28 14:40 GMT | [70](co/README.md) | 1 |
 | [European Union](eu/README.md) | 2020-03-26 12:05 GMT | [28](eu/README.md) | 1 |
-| [France](fr/README.md) | 2020-03-27 20:03 GMT | [4](fr/README.md) | 1 |
+| [France](fr/README.md) | 2020-03-29 19:21 GMT | [5](fr/README.md) | 1 |
 | [India](in/README.md) | 2020-03-28 18:10 GMT | [9](in/README.md) | 1 |
 | [Italy](it/README.md) | 2020-03-28 17:36 GMT | [86](it/README.md) | 1 |
 | [Japan](jp/README.md) | 2020-03-28 10:39 GMT | [875](jp/README.md) | 1 |
