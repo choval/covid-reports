@@ -17,7 +17,7 @@
 | [Norway](no/README.md) | 2020-03-29 11:29 GMT | [27](no/README.md) | 1 |
 | [Paraguay](py/README.md) | 2020-03-29 16:15 GMT | [60](py/README.md) | 1 |
 | [Peru](pe/README.md) | 2020-03-27 23:49 GMT | [27](pe/README.md) | 1 |
-| [Singapore](sg/README.md) | 2020-03-27 14:12 GMT | [70](sg/README.md) | 1 |
+| [Singapore](sg/README.md) | 2020-03-29 19:07 GMT | [74](sg/README.md) | 1 |
 | [Spain](es/README.md) | 2020-03-29 09:54 GMT | [28](es/README.md) | 1 |
 | [Switzerland](ch/README.md) | 2020-03-27 02:41 GMT | [5](ch/README.md) | 1 |
 | [Thailand](th/README.md) | 2020-03-29 14:46 GMT | [47](th/README.md) | 1 |

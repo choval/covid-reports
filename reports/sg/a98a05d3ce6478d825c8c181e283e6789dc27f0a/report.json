@@ -1,0 +1,26 @@
+{
+    "filename": "Chinese_Advisory on Wearing Mask.jpg",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/ncov\/masks\/chinese_advisory-on-wearing-mask.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585508807,
+    "headers": {
+        "http-status": 200,
+        "content-length": "2448578",
+        "content-type": "image\/jpeg",
+        "last-modified": "Wed, 05 Feb 2020 07:48:00 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "inline; filename=\"Chinese_Advisory on Wearing Mask.jpg\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14400",
+        "date": "Sun, 29 Mar 2020 19:06:47 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=0ac9bce649c45e7967e35a9af818b7ca2e33342c80af9690acae9cd95bdb1278;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1348,
+    "modified": 1585508819
+}
