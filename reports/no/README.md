@@ -3,6 +3,7 @@
 
 ## 2020-03-29
 
+* [2020.03.29-dagsrapport-covid-19.pdf](6f7b95eaf1a5a6df3957417c4e9541c643e037b6/file.pdf) @11:29 GMT
 * [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](1df677529193d8e2432d8b115d84064528622b38/file.pdf) @08:27 GMT
 
 ## 2020-03-28
