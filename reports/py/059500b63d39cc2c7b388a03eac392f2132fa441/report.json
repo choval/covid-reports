@@ -1,0 +1,20 @@
+{
+    "filename": "a3bd03-decreto3490.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/a3bd03-decreto3490.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585440639,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sat, 28 Mar 2020 15:46:54 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "2340158",
+        "connection": "keep-alive",
+        "last-modified": "Sat, 28 Mar 2020 22:39:40 GMT",
+        "etag": "\"23b53e-5a1f1e4be31ff\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 2340158,
+    "modified": 1585435180
+}
