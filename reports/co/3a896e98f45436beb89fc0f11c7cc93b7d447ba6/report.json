@@ -1,0 +1,31 @@
+{
+    "filename": "PSSG02GUI%CC%81A%20%20TRANSPORTE%20ASISTENCIAL%20DE%20PACIENTES%20SOSPECHOSOS%20O%20CONFIRMADOS%20DE%20COVID%2019.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/PSSG02GUI%CC%81A%20%20TRANSPORTE%20ASISTENCIAL%20DE%20PACIENTES%20SOSPECHOSOS%20O%20CONFIRMADOS%20DE%20COVID%2019.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585573424,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "514332",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 15 Mar 2020 13:03:44 GMT",
+        "last-modified": "Sun, 29 Mar 2020 18:46:32 GMT",
+        "etag": "\"{19B287DE-11EF-4F66-A039-233C0DF84919},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:19B287DE-11EF-4F66-A039-233C0DF84919@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "74db439f-885a-2039-33d2-9136059efec7",
+        "request-id": "74db439f-885a-2039-33d2-9136059efec7",
+        "sprequestduration": "9",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Mon, 30 Mar 2020 13:03:43 GMT"
+    },
+    "lang": "es",
+    "size": 514332,
+    "modified": 1585507592
+}

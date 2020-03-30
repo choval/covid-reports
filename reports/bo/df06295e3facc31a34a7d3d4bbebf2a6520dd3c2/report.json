@@ -1,0 +1,20 @@
+{
+    "filename": "comunicado-n39-el-ministerio-de-salud-confirma-15-nuevos-casos-de-contagiados-por-coronavirus",
+    "uri": "https:\/\/www.boliviasegura.gob.bo\/comunicado-n39-el-ministerio-de-salud-confirma-15-nuevos-casos-de-contagiados-por-coronavirus\/",
+    "output": "file.pdf",
+    "downloaded": 1585572671,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Mon, 30 Mar 2020 12:51:11 GMT",
+        "content-type": "text\/html; charset=UTF-8",
+        "connection": "keep-alive",
+        "vary": "Accept-Encoding",
+        "p3p": "CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"",
+        "x-pingback": "https:\/\/www.boliviasegura.gob.bo\/xmlrpc.php",
+        "link": "<https:\/\/www.boliviasegura.gob.bo\/?p=1714>; rel=shortlink"
+    },
+    "lang": "es",
+    "size": 207777,
+    "modified": 1585572738
+}

@@ -1,0 +1,20 @@
+{
+    "filename": "Infografica_29marzo%20ENG.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Infografica_29marzo%20ENG.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585573308,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1560587",
+        "content-type": "application\/pdf",
+        "last-modified": "Sun, 29 Mar 2020 16:44:23 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"5cfb434de95d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Mon, 30 Mar 2020 13:01:47 GMT"
+    },
+    "lang": "it,en",
+    "size": 1560587,
+    "modified": 1585500263
+}

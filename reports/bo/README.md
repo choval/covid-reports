@@ -1,6 +1,14 @@
 # Bolivia
 
 
+## 2020-03-30
+
+* [4014-gobierno-medicos-y-trabajadores-en-salud-acuerdan-reforzar-medidas-de-bioseguridad-y-lucha-contra-el-coronavirus](649b358266873e4eb56519ea8e529b849ac22ed1/file.pdf) @12:53 GMT
+* [4015-sube-a-96-el-numero-de-casos-de-coronavirus-en-el-pais-ministro-de-salud-pide-cuidar-a-ninos-y-adultos-mayores](1f1b76e96fd7cf242eecb97fe258c827ffd275cc/file.pdf) @12:53 GMT
+* [4016-definen-bloqueo-epidemiologico-en-patacamaya-para-evitar-la-propagacion-del-covid-19](565cf05e275b740e2155cd37c7c3bcf153b8e5d7/file.pdf) @12:53 GMT
+* [comunicado-n38-salud-informa-el-fallecimiento-de-la-primera-persona-con-coronavirus](410545c520c89e100576cb0fa557109c680f3d3d/file.pdf) @12:53 GMT
+* [comunicado-n39-el-ministerio-de-salud-confirma-15-nuevos-casos-de-contagiados-por-coronavirus](df06295e3facc31a34a7d3d4bbebf2a6520dd3c2/file.pdf) @12:52 GMT
+
 ## 2020-03-29
 
 * [4011-bolivia-reporta-incremento-leve-de-casos-de-coronavirus-el-numero-sube-a-81](d68aa1fc324f75b92d5dc2044fee96ec41a21977/file.pdf) @22:44 GMT

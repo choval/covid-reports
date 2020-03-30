@@ -1,0 +1,20 @@
+{
+    "filename": "comunicado-n38-salud-informa-el-fallecimiento-de-la-primera-persona-con-coronavirus",
+    "uri": "https:\/\/www.boliviasegura.gob.bo\/comunicado-n38-salud-informa-el-fallecimiento-de-la-primera-persona-con-coronavirus\/",
+    "output": "file.pdf",
+    "downloaded": 1585572740,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Mon, 30 Mar 2020 12:52:20 GMT",
+        "content-type": "text\/html; charset=UTF-8",
+        "connection": "keep-alive",
+        "vary": "Accept-Encoding",
+        "p3p": "CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"",
+        "x-pingback": "https:\/\/www.boliviasegura.gob.bo\/xmlrpc.php",
+        "link": "<https:\/\/www.boliviasegura.gob.bo\/?p=1711>; rel=shortlink"
+    },
+    "lang": "es",
+    "size": 203845,
+    "modified": 1585572805
+}

@@ -1,0 +1,31 @@
+{
+    "filename": "Folleto_COVID-19_030320-1.pdf.pdf.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/Folleto_COVID-19_030320-1.pdf.pdf.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585573594,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "5175546",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 15 Mar 2020 13:06:34 GMT",
+        "last-modified": "Sat, 07 Mar 2020 22:03:10 GMT",
+        "etag": "\"{4C3AEC95-D734-44F4-ACA4-34AE26577B40},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:4C3AEC95-D734-44F4-ACA4-34AE26577B40@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9ddb439f-f8bb-2039-33d2-959d87525c96",
+        "request-id": "9ddb439f-f8bb-2039-33d2-959d87525c96",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Mon, 30 Mar 2020 13:06:33 GMT"
+    },
+    "lang": "es",
+    "size": 5175546,
+    "modified": 1583618590
+}

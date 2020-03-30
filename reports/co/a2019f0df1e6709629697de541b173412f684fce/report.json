@@ -1,0 +1,31 @@
+{
+    "filename": "COVID-19_Comunicacion_de_Riesgos.%20Para%20lideres.pdf.pdf.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/COVID-19_Comunicacion_de_Riesgos.%20Para%20lideres.pdf.pdf.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585573603,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1748237",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 15 Mar 2020 13:06:43 GMT",
+        "last-modified": "Sat, 07 Mar 2020 11:21:27 GMT",
+        "etag": "\"{8AD159EB-31D1-4898-809A-9C43B33C48F2},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:8AD159EB-31D1-4898-809A-9C43B33C48F2@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "a0db439f-c80a-2039-33d2-92eef5877bfe",
+        "request-id": "a0db439f-c80a-2039-33d2-92eef5877bfe",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Mon, 30 Mar 2020 13:06:42 GMT"
+    },
+    "lang": "es",
+    "size": 1748237,
+    "modified": 1583580087
+}

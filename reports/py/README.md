@@ -1,6 +1,10 @@
 # Paraguay
 
 
+## 2020-03-30
+
+* [fc5b05-COVID19ManejoenAdultos29032020.pdf](7965a6e6187d89d2f5ced7bb08de0f8d4e4a09f1/file.pdf) @00:52 GMT
+
 ## 2020-03-29
 
 * [77e618-Tablero28.03.pdf](e06e1f4d26db220ce9c8fef14204a0ee0120b719/file.pdf) @16:15 GMT

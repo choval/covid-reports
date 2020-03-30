@@ -1,0 +1,20 @@
+{
+    "filename": "fc5b05-COVID19ManejoenAdultos29032020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/fc5b05-COVID19ManejoenAdultos29032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585573140,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Mon, 30 Mar 2020 04:35:12 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "671663",
+        "connection": "keep-alive",
+        "last-modified": "Mon, 30 Mar 2020 00:52:19 GMT",
+        "etag": "\"a3faf-5a207dcf5f38c\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 671663,
+    "modified": 1585529539
+}

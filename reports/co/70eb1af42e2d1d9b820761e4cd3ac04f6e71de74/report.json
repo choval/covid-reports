@@ -1,0 +1,31 @@
+{
+    "filename": "Circular%2019.pdf.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/Circular%2019.pdf.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585573590,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "161859",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 15 Mar 2020 13:06:29 GMT",
+        "last-modified": "Fri, 27 Mar 2020 14:22:26 GMT",
+        "etag": "\"{9FF91348-CB49-4E9D-81FB-1E3703A614DD},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:9FF91348-CB49-4E9D-81FB-1E3703A614DD@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9cdb439f-c8b9-2039-33d2-957d7b23b6eb",
+        "request-id": "9cdb439f-c8b9-2039-33d2-957d7b23b6eb",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Mon, 30 Mar 2020 13:06:29 GMT"
+    },
+    "lang": "es",
+    "size": 161859,
+    "modified": 1585318946
+}

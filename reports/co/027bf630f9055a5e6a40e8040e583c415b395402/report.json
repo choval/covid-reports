@@ -1,0 +1,31 @@
+{
+    "filename": "COVID-19.%20Guia%20Primer%20Anuncio.%20Prensa.pdf.pdf%20(1).pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/COVID-19.%20Guia%20Primer%20Anuncio.%20Prensa.pdf.pdf%20(1).pdf",
+    "output": "file.pdf",
+    "downloaded": 1585573584,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "328044",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 15 Mar 2020 13:06:24 GMT",
+        "last-modified": "Sat, 07 Mar 2020 11:21:27 GMT",
+        "etag": "\"{2B224F96-4576-42B5-AD0B-AB968DCECBDB},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:2B224F96-4576-42B5-AD0B-AB968DCECBDB@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "9bdb439f-c87d-2039-33d2-98af278cf28d",
+        "request-id": "9bdb439f-c87d-2039-33d2-98af278cf28d",
+        "sprequestduration": "7",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Mon, 30 Mar 2020 13:06:24 GMT"
+    },
+    "lang": "es",
+    "size": 328044,
+    "modified": 1583580087
+}
