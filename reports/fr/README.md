@@ -1,6 +1,10 @@
 # France
 
 
+## 2020-03-31
+
+* [point\_de\_situation\_de\_jerome\_salomon\_-\_mardi\_31\_mars.pdf](681ba114cef7c930f9d1581dc681dc9c8cd858ef/file.pdf) @18:59 GMT
+
 ## 2020-03-30
 
 * [point\_de\_situation\_dimanche\_30\_mars\_.pdf](29e0d130f3eedeb714d47aa04468120ff24fa496/file.pdf) @19:09 GMT

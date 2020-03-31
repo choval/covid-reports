@@ -1,6 +1,11 @@
 # Paraguay
 
 
+## 2020-03-31
+
+* [8e9549-CopiadePEDIDOCOVIDPED.pdf](b110c2c9d020ece941e4ccdde84d4930c9c21c80/file.pdf) @20:16 GMT
+* [fb32a1-COVID19ManejoenPediatra30032020.pdf](d6171caea9d3364dfdd579e4860d067f2ac294c6/file.pdf) @12:16 GMT
+
 ## 2020-03-30
 
 * [06edd0-Tablero29.03.2020.pdf](21161a88ed0879f79f7e1f23024ad64af8226d64/file.pdf) @16:06 GMT

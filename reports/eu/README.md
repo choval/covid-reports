@@ -3,6 +3,8 @@
 
 ## 2020-03-31
 
+* [Home-care-of-COVID-19-patients-2020-03-31.pdf](1bf771e00a7f681d9ac3045c90d25c4356a65038/file.pdf) @17:56 GMT
+* [Public-health-management-persons-contact-novel-coronavirus-cases-2020-03-31.pdf](d43ed012c3570062a0dec4be1a9c8ca74379e26f/file.pdf) @14:29 GMT
 * [Infection-prevention-control-for-the-care-of-patients-with-2019-nCoV-healthcare-settings\_update-31-March-2020.pdf](4bbaa2c1d812a9110bd3057a0395b8826eadf6ac/file.pdf) @08:45 GMT
 
 ## 2020-03-26

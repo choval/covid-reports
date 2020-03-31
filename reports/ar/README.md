@@ -3,6 +3,7 @@
 
 ## 2020-03-31
 
+* [31-03-20\_reporte-matutino\_covid\_19.pdf](89514d5fdff2b8c6014b02353177a68967b6e325/file.pdf) @15:11 GMT
 * [30-03-20-reporte-vespertino-covid-19.pdf](7d74ca22b34e60d7c3be4691194e9ed09547aead/file.pdf) @00:14 GMT
 
 ## 2020-03-30

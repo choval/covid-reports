@@ -1,0 +1,26 @@
+{
+    "filename": "Public-health-management-persons-contact-novel-coronavirus-cases-2020-03-31.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Public-health-management-persons-contact-novel-coronavirus-cases-2020-03-31.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585687970,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "455665",
+        "date": "Tue, 31 Mar 2020 20:52:50 GMT",
+        "server": "nginx\/1.17.6",
+        "last-modified": "Tue, 31 Mar 2020 14:29:52 GMT",
+        "etag": "\"6f3f1-5a227669538e8\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "791427962",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 ffff65fd81cc10cef985121a9e71b743.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "ATL56-C1",
+        "x-amz-cf-id": "XIoWua5y-LCju_Kg4StJDYfFbgAbpJ3SCaCtJGxTBpJzr8mSxPjc7Q==",
+        "age": "0"
+    },
+    "lang": "en",
+    "size": 455665,
+    "modified": 1585664992
+}

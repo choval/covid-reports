@@ -24,6 +24,7 @@ foreach($keywords as $k=>$v) {
     }
 }
 
+$errors = 0;
 $reports = glob('reports/*/*', GLOB_ONLYDIR);
 foreach ($reports as $path) {
     $discarded = $path.'/discarded.txt';
@@ -36,6 +37,7 @@ foreach ($reports as $path) {
     $path_report = $path.'/report.json';
     if (!is_file($path_report)) {
         echo "MISSING report.json $path\n";
+        $errors++;
         continue;
     }
     $report = json_decode(file_get_contents($path_report), true);
@@ -69,10 +71,15 @@ foreach ($reports as $path) {
 
     if (strlen($raw) < 64) {
         echo "TOO SHORT TO TEST $path\n";
+        $errors++;
         continue;
     }
 
     echo "MISSING KEYWORDS $path\n";
+    $errors++;
     continue;
 }
 
+if ($errors) {
+    exit(1);
+}

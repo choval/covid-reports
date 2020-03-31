@@ -1,0 +1,25 @@
+{
+    "filename": "EPP.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/EPP.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585687935,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 31 Mar 2020 20:52:00 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Tue, 31 Mar 2020 20:06:19 GMT",
+        "etag": "\"1515e5-5a22c19d1e4c0\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbwIuvlzkB=DZs",
+        "xffoaald": "rtO; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "9-7153139-7153174 NNNY CT(0 0 0) RT(1585687934541 357) q(0 0 0 -1) r(2 2) U6"
+    },
+    "lang": "es",
+    "size": 1381861,
+    "modified": 1585685179
+}

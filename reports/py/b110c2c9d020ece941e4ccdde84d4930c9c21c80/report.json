@@ -1,0 +1,19 @@
+{
+    "filename": "8e9549-CopiadePEDIDOCOVIDPED.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/8e9549-CopiadePEDIDOCOVIDPED.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585688807,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Tue, 31 Mar 2020 21:06:47 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "188547",
+        "last-modified": "Tue, 31 Mar 2020 20:16:10 GMT",
+        "etag": "\"2e083-5a22c3d148908\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 188547,
+    "modified": 1585685770
+}

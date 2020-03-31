@@ -3,6 +3,16 @@
 
 ## 2020-03-31
 
+* [C\_17\_notizie\_4365\_1\_file.pdf](b6022e4a107a6c3ad892e61233f251d370bde571/file.pdf) @21:02 GMT
+* [C\_17\_notizie\_4365\_0\_file.pdf](700a3a7e969ddd38f744c22ceec10578ded0c2b1/file.pdf) @20:56 GMT
+* [C\_17\_notizie\_4370\_1\_file.pdf](ae829237a0b82fa3bf030eae36350863c738748a/file.pdf) @20:54 GMT
+* [C\_17\_notizie\_4370\_0\_file.pdf](c7c42e07fca943628d2b22e4949edb5304f8a241/file.pdf) @20:54 GMT
+* [Report-COVID-2019\_30\_marzo.pdf](94c1b59873a962fd0d71609047875c74ba52de27/file.pdf) @16:53 GMT
+* [Report-COVID-2019\_30\_marzo\_eng.pdf](cad82d7f18e05fe86a3526d7c7e13ffa82b4a743/file.pdf) @16:50 GMT
+* [Infografica\_31marzo ENG.pdf](d53df91e0a15c3c7403646b04cbf69bcda576abe/file.pdf) @15:42 GMT
+* [Infografica\_31marzo ITA.pdf](3b37db4b1972f8f6b6c64a442afaa708139e40b3/file.pdf) @15:42 GMT
+* [Bollettino-sorveglianza-integrata-COVID-19\_30-marzo-2020.pdf](f467846ff5ad83456fe76e40add3df5d85c2fe95/file.pdf) @15:12 GMT
+* [Bolletino-sorveglianza-integrata-COVID-19\_30-marzo-2020\_appendix.pdf](f142922fec5fb998a44ef7d916c5706126f91598/file.pdf) @15:12 GMT
 * [C\_17\_notizie\_4362\_1\_file.pdf](3f21d3cf6934ff38424ee53c010fce3a1620d4c3/file.pdf) @01:17 GMT
 * [C\_17\_notizie\_4362\_0\_file.pdf](4b7cd3e6049c45d6743b0836aefb9ba47c139abc/file.pdf) @01:17 GMT
 

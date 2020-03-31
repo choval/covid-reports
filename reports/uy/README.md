@@ -3,6 +3,7 @@
 
 ## 2020-03-31
 
+* [recomendaciones-para-pacientes-oncologicos-sobre-covid19](70bef2047f4d27c390e635298ee0f8a45d681a38/file.pdf) @21:07 GMT
 * [informacion-interes-actualizada-sobre-coronavirus-covid-19](7c598b12670181d25809ec0a4d84da8238e7c2e7/file.pdf) @01:21 GMT
 
 ## 2020-03-30

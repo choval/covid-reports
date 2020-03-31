@@ -1,0 +1,19 @@
+{
+    "filename": "fb32a1-COVID19ManejoenPediatra30032020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/fb32a1-COVID19ManejoenPediatra30032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585688809,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Tue, 31 Mar 2020 21:06:49 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1045026",
+        "last-modified": "Tue, 31 Mar 2020 12:16:47 GMT",
+        "etag": "\"ff222-5a2258aa74fa2\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 1045026,
+    "modified": 1585657007
+}

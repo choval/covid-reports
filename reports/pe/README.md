@@ -1,6 +1,10 @@
 # Peru
 
 
+## 2020-03-31
+
+* [coronavirus300320.pdf](97dc519d5ebda45228b6ecd208e45eded58264f4/file.pdf) @20:09 GMT
+
 ## 2020-03-30
 
 * [coronavirus290320.pdf](9c5d5e44ab021cb2f677908ece342304b413eb13/file.pdf) @21:49 GMT

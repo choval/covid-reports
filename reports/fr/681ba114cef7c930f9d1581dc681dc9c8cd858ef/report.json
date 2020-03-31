@@ -1,0 +1,27 @@
+{
+    "filename": "point_de_situation_de_jerome_salomon_-_mardi_31_mars.pdf",
+    "uri": "https:\/\/solidarites-sante.gouv.fr\/IMG\/pdf\/point_de_situation_de_jerome_salomon_-_mardi_31_mars.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585687982,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 31 Mar 2020 20:53:02 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "501183",
+        "set-cookie": "__cfduid=dad13f60587fff2a79fa404da9e84494a1585687981; expires=Thu, 30-Apr-20 20:53:01 GMT; path=\/; domain=.solidarites-sante.gouv.fr; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Tue, 31 Mar 2020 18:59:13 GMT",
+        "etag": "\"7a5bf-5a22b29debcf0\"",
+        "cache-control": "public, max-age=3600",
+        "vary": "Accept-Encoding",
+        "cf-cache-status": "HIT",
+        "expires": "Tue, 31 Mar 2020 21:53:02 GMT",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "57ccf51e1f2cf7d6-EZE",
+        "alt-svc": "h3-27=\":443\"; ma=86400, h3-25=\":443\"; ma=86400, h3-24=\":443\"; ma=86400, h3-23=\":443\"; ma=86400"
+    },
+    "lang": "fr",
+    "size": 501183,
+    "modified": 1585681153
+}

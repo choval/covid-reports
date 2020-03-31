@@ -1,0 +1,26 @@
+{
+    "filename": "Home-care-of-COVID-19-patients-2020-03-31.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Home-care-of-COVID-19-patients-2020-03-31.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585687974,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "328448",
+        "date": "Tue, 31 Mar 2020 20:52:54 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"50300-5a22a49e97cb0\"",
+        "last-modified": "Tue, 31 Mar 2020 17:56:35 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "775281414 789680871",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 c34e5d6ab957cd4e49caca604410ca40.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "ATL56-C1",
+        "x-amz-cf-id": "SNYZXQgrCsn38Hy2YIqtBF4uQLe-4wNk6630YKDNa99BHp4n9ejV8Q==",
+        "age": "73"
+    },
+    "lang": "en",
+    "size": 328448,
+    "modified": 1585677395
+}
