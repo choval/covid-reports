@@ -3,12 +3,13 @@
 
 ## 2020-03-30
 
+* [2020-03-30-dagsrapport-covid-19-v2.pdf](10263a2b501d588066820ee647b627b402b20dbd/file.pdf) @19:58 GMT
 * [2020-03-30-covid-19-dagsrapport.pdf](9065aa15e467ab1180c9773fc5fb6f2b8aaaa797/file.pdf) @10:58 GMT
 
 ## 2020-03-29
 
-* [2020.03.29-dagsrapport-covid-19.pdf](6f7b95eaf1a5a6df3957417c4e9541c643e037b6/file.pdf) @11:29 GMT
 * [2020.03.29-dagsrapport-covid-19.pdf](daa0d4191869b939c3461cdd598852aa511b9a9c/file.pdf) @11:29 GMT
+* [2020.03.29-dagsrapport-covid-19.pdf](6f7b95eaf1a5a6df3957417c4e9541c643e037b6/file.pdf) @11:29 GMT
 * [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](1df677529193d8e2432d8b115d84064528622b38/file.pdf) @08:27 GMT
 * [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](9b4b343eb15516ef6dd42b94f1a00d20a35fd572/file.pdf) @08:27 GMT
 
@@ -16,13 +17,13 @@
 
 * [2020.03.28---dagsrapport-covid-19-v2.pdf](f5a812e112bf18a8271dc5a3343c71a7dab62045/file.pdf) @14:31 GMT
 * [2020.03.28---dagsrapport-covid-19-v2.pdf](2daabd1b572de4367e8f98037117e98c4cdc2909/file.pdf) @14:31 GMT
-* [2020.03.28---dagsrapport-covid19.pdf](e3554ab060f42098c06eed4cb78e1bcd553a5440/file.pdf) @11:59 GMT
 * [2020.03.28---dagsrapport-covid19.pdf](138e2d1e359e56a42b7e7f83a3f1aecbd7bb937e/file.pdf) @11:59 GMT
+* [2020.03.28---dagsrapport-covid19.pdf](e3554ab060f42098c06eed4cb78e1bcd553a5440/file.pdf) @11:59 GMT
 
 ## 2020-03-27
 
-* [2020-03-27\_dagsrapport-covid-19\_ver1\_til-publisering.pdf](a7e8aad98b8291de14c1c554946ca79fce613601/file.pdf) @11:57 GMT
 * [2020-03-27\_dagsrapport-covid-19\_ver1\_til-publisering.pdf](8bb3dbb32bd988be3f31abb6d3d12e5cbfbb9792/file.pdf) @11:57 GMT
+* [2020-03-27\_dagsrapport-covid-19\_ver1\_til-publisering.pdf](a7e8aad98b8291de14c1c554946ca79fce613601/file.pdf) @11:57 GMT
 * [2020.03.26---dagsrapport-covid-19\_v3\_til-publisering.pdf](2d74372f615c645a87cbc06a3c8a2eb661bd3a84/file.pdf) @06:44 GMT
 
 ## 2020-03-26

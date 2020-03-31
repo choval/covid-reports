@@ -1,0 +1,23 @@
+{
+    "filename": "Rapporto ISS COVID 2_ Protezioni_REV.V6.pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Rapporto+ISS+COVID+2_+Protezioni_REV.V6.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585617456,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "660569",
+        "content-type": "application\/pdf",
+        "last-modified": "Mon, 30 Mar 2020 12:06:18 GMT",
+        "set-cookie": "JSESSIONID=C18888361539AC6689034E4D8D2E8B5E; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Rapporto ISS COVID 2_ Protezioni_REV.V6.pdf\"",
+        "date": "Tue, 31 Mar 2020 01:17:35 GMT"
+    },
+    "lang": "it",
+    "size": 660569,
+    "modified": 1585569978
+}

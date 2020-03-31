@@ -1,6 +1,14 @@
 # Chile
 
 
+## 2020-03-31
+
+* [INFORME\_EPI\_COVID19\_20200330.pdf](dee3045a2f483efb0d8b11a7cc7d1206ab885308/file.pdf) @00:12 GMT
+
+## 2020-03-30
+
+* [Diario-Oficial-30-de-marzo.pdf](89573cbb89e1979713e2437c7635f8ce580d2bcf/file.pdf) @17:46 GMT
+
 ## 2020-03-29
 
 * [Informe\_14\_COVID\_19\_Chile.pdf](37f909623ec99d7c9a30c015199834aea8bde250/file.pdf) @16:12 GMT

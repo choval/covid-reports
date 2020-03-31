@@ -1,0 +1,868 @@
+6
+Istituto Superiore di Sanità
+INDICAZIONI AD INTERIM
+PER UN UTILIZZO RAZIONALE DELLE PROTEZIONI
+PER INFEZIONE DA SARS-COV-2 NELLE ATTIVITÀ
+SANITARIE E SOCIOSANITARIE (ASSISTENZA A
+SOGGETTI AFFETTI DA COVID-19) NELL’ATTUALE
+SCENARIO EMERGENZIALE SARS-COV-2
+Gruppo di Lavoro ISS Prevenzione e Controllo delle Infezioni
+Rapporto ISS COVID-19  n. 2/2020 Rev.
+aggiornato al 28 marzo 2020
+1
+INDICAZIONI AD INTERIM
+PER UN UTILIZZO RAZIONALE DELLE PROTEZIONI
+PER INFEZIONE DA SARS-COV-2 NELLE ATTIVITÀ
+SANITARIE E SOCIOSANITARIE (ASSISTENZA A
+SOGGETTI AFFETTI DA COVID-19) NELL’ATTUALE
+SCENARIO EMERGENZIALE SARS-COV-2
+aggiornato al 28 marzo 2020
+Gruppo di Lavoro ISS
+Prevenzione e Controllo delle Infezioni
+Fortunato “Paolo” D’Ancona, Istituto Superiore di Sanità, Roma
+Antonella Agodi, Università degli Studi di Catania, Catania
+Luigi Bertinato, Istituto Superiore di Sanità, Roma
+Paolo Durando, Università degli Studi Genova, Genova
+Maria Luisa Moro, Agenzia sanitaria e sociale regionale Emilia-Romagna, Bologna
+Ottavio Nicastro, Coordinamento Rischio Clinico – Commissione Salute”, Bologna
+Maria Mongardi, Università degli Studi di Verona, Verona
+Angelo Pan, ASST Cremona, Cremona
+Annalisa Pantosti, Istituto Superiore di Sanità, Roma
+Nicola Petrosillo, Istituto Nazionale per le Malattie Infettive
+Gaetano Privitera, Università degli studi di Pisa, Pisa
+con la collaborazione di
+Organizzazione Mondiale della Sanità HQ – Ginevra.
+Citare questo documento come segue:
+Gruppo di lavoro ISS Prevenzione e controllo delle Infezioni. Indicazioni ad interim per un utilizzo razionale delle
+protezioni per infezione da SARS-COV-2 nelle attività sanitarie e sociosanitarie (assistenza a soggetti affetti da
+covid-19) nell’attuale scenario emergenziale SARS-COV-2. Versione del 28 marzo 2020. Roma: Istituto Superiore di
+Sanità; 2020 (Rapporto ISS COVID-19, n.2/ 2020 Rev.)
+Redazione e grafica a cura del Servizio Comunicazione Scientifica
+© Istituto Superiore di Sanità 2020
+viale Regina Elena, 299 –00161 Roma
+2
+Sommario
+Acronimi........................................................................................................................................................3
+Aggiornamento .............................................................................................................................................3
+Introduzione..................................................................................................................................................4
+Misure di prevenzione da infezione da SARS-CoV-2 ...................................................................................5
+Principi generali ............................................................................................................................................7
+Dispositivi di protezione individuale ..............................................................................................................8
+Selezione dei DPI.....................................................................................................................................8
+Riorganizzazione della attività lavorativa..................................................................................................8
+Allegato 1. Evidenze sulle modalità di trasmissione di SARS-CoV-2.........................................................17
+Bibliografia..............................................................................................................................................18
+3
+Acronimi
+CDC Centers for Diseases Control and Prevention
+ECDC European Centre for Disease Prevention and Control
+COVID Corona Virus Disease
+DPI Dispositivi di Protezione Individuale
+ISS Istituto Superiore di Sanità
+OMS Organizzazione Mondiale della Sanità
+Aggiornamento
+Rispetto alla versione precedente del 14 marzo 2020
+- Queste indicazioni ad interim sono basate sulle conoscenze scientifiche disponibili circa le principali
+modalità di trasmissione dell’infezione da coronavirus SARS-CoV-2. A tale proposito, è stato aggiunto
+l’Allegato 1 per fornire ulteriori dettagli sulle evidenze scientifiche disponibili a oggi circa le modalità di
+trasmissione dell’infezione da virus SARS-CoV-2 che influiscono sulla scelta dei dispositivi di
+protezione. L’Allegato 1 riporta anche una breve panoramica sulle raccomandazioni internazionali in
+ambito di Infection Prevention and Control per COVID-19 in relazione alla modalità di trasmissione
+dell’infezione e all’uso conseguente dei DPI e delle mascherine chirurgiche. Alcune istituzioni
+raccomandano in alcuni casi l’utilizzo di Filtranti Facciali (FFP) per l’assistenza diretta ai casi COVID-
+19, sulla base di un principio di precauzione, pur in assenza di evidenze conclusive circa la possibilità
+di trasmissione del virus per via aerea in casi non sottoposti a specifiche procedure in grado di
+generare aerosol, invitando comunque a tenere conto dell’effettiva disponibilità di tali DPI.
+- Per facilitare l’applicazione delle indicazioni fornite sono state meglio specificate le manovre e
+procedure in grado di generare aerosol.
+- Sono state, inoltre, fornite note operative utili a individuare quei contesti assistenziali ove
+l’organizzazione del lavoro, resasi necessaria in condizioni di emergenza, ha portato alla
+concentrazione di molti pazienti COVID-19 in specifiche unità; in tali casi, sia per la possibile presenza
+di pazienti sottoposti a manovre e procedure a rischio di generare aerosol sia per un uso più razionale
+dei DPI potrebbe essere preso in considerazione il ricorso ai FFP, ove disponibili.
+- È stato specificato che i FFP, nell’attuale scenario emergenziale e di carenza di tali dispositivi, devono
+essere resi disponibili, secondo un criterio di priorità, agli operatori a più elevato rischio professionale
+che svolgano manovre e procedure in grado di generare aerosol o che operino in un contesto di elevata
+intensità assistenziale e prolungata esposizione al rischio.
+4
+Introduzione
+Questo documento è stato predisposto con la consapevolezza che tra i soggetti maggiormente a rischio
+d’infezione da SARS-CoV-2 vi sono in primis gli operatori sanitari e con l’intento di garantire pienamente la
+loro salute e sicurezza; pertanto le indicazioni fornite hanno fatto riferimento alle più consolidate evidenze
+scientifiche ad oggi disponibili a tutela della salute dei lavoratori e dei pazienti e agli orientamenti delle più
+autorevoli organizzazioni internazionali, tra cui l’Organizzazione Mondiale della Sanità. Tenendo conto di
+tali orientamenti, questo documento prevede degli adattamenti che riflettono il contesto e le necessità attuali
+della gestione dell’epidemia COVID-19 in Italia.
+Per chiarire meglio la base razionale delle indicazioni fornite, è stato predisposto un allegato (Allegato 1)
+che riporta le evidenze ad oggi disponibili sulle vie di trasmissione, indispensabili per stabilire le priorità. Lo
+scenario emergenziale COVID-19 è caratterizzato in questa fase da una grave carenza di disponibilità e
+possibilità di approvvigionamento di DPI nel mondo.
+Si evidenzia inoltre che i DPI devono essere considerati come una misura efficace per la protezione
+dell’operatore sanitario solo se inseriti all’interno di un più ampio insieme di interventi che comprenda
+controlli amministrativi e procedurali, ambientali, organizzativi e tecnici nel contesto assistenziale sanitario
+come descritto più avanti
+Pertanto, nella situazione attuale a livello nazionale e mondiale, risulta fondamentale perseguire l’obiettivo
+volto alla massima tutela possibile del personale, dotandolo, in base alle evidenze scientifiche, di dispositivi
+di protezione individuale di livello adeguato al rischio professionale a cui viene esposto e che operino in un
+contesto di elevata intensità assistenziale e prolungata esposizione al rischio.
+Le posizioni delle agenzie internazionali sulle raccomandazioni sono differenziate come mostrato in allegato
+1, ma al momento anche i CDC (con un documento del 10 marzo 2020) ed ECDC (17 marzo 2020) che
+avevano adottato un atteggiamento precauzionale, non escludendo in via teorica e in assenza di consolidate
+evidenze una trasmissione per via aerea, si sono allineate sull’uso in sicurezza delle mascherine chirurgiche
+in assenza o scarsa disponibilità di filtranti facciali (FFP) a eccezione delle attività che prevedano manovre
+e procedure a rischio di generare aerosol in cui risulta necessario l’uso dei FFP. Gli schemi forniti, quindi,
+hanno lo scopo di fornire ai responsabili di struttura elementi che, con la collaborazione del responsabile
+del servizio di prevenzione e protezione e del medico competente possano definire una strategia di
+protezione degli operatori sanitari.
+Proprio per questo, le indicazioni contenute nel documento devono trovare una applicazione a livello locale,
+che le declini tenendo conto anche dei contesti organizzativi e delle specifiche caratteristiche individuali di
+rischio dei lavoratori. A tale proposito, considerando sempre la necessità di garantire la disponibilità di FFP
+per tutti gli operatori che eseguono procedure in grado di generare aerosol, si potrà valutare l’utilizzo di FFP,
+in relazione alle specifiche attività e prestazioni erogate, alle modalità di organizzazione del lavoro e ad una
+valutazione del rischio complessivo e individuale; ad esempio, in:
+ contesti organizzativi ove vengono concentrati pazienti con infezione COVID-19, soprattutto quando
+alcuni dei pazienti sono sottoposti a manovre in grado di generare aerosol, e l’utilizzo di FFP può
+consentire all’operatore di utilizzare lo stesso DPI per un periodo di tempo più lungo;
+ occasioni in cui sulla base di una attenta valutazione del rischio (caratteristiche individuali
+dell’operatore, caratteristiche strutturali degli ambienti), si ritenga necessario adottare in via
+precauzionale una protezione superiore.
+5
+Si sottolinea infine che le indicazioni fornite sono ad interim, e potrebbero quindi essere ulteriormente e
+tempestivamente modificate in base ad eventuali nuove evidenze scientifiche e al mutamento delle
+condizioni di contesto.
+Misure di prevenzione da infezione da SARS-CoV-2
+È documentato che i soggetti maggiormente a rischio d’infezione da SARS-CoV-2 sono coloro che sono a
+contatto stretto con paziente affetto da COVID-19, in primis gli operatori sanitari impegnati in assistenza
+diretta ai casi, e il personale di laboratorio addetto alla manipolazione di campioni biologici di un caso di
+COVID-19, senza l’impiego e il corretto utilizzo dei DPI raccomandati o mediante l’utilizzo di DPI non idonei.
+L’elevata circolazione del virus e l’alto numero di casi di COVID-19 ha comportato una riorganizzazione in
+molti ospedali con modifiche organizzative che hanno portato al raggruppamento dei pazienti con questa
+malattia in determinate aree delle strutture con una maggiore esposizione anche a procedure a rischio di
+generare aerosol.
+Risulta, pertanto, di fondamentale importanza che tutti gli operatori sanitari coinvolti in ambito
+assistenziale siano opportunamente formati e aggiornati in merito alle modalità e ai rischi di
+esposizione professionale, alle misure di prevenzione e protezione disponibili, nonché alle
+caratteristiche del quadro clinico di COVID-19.
+Le misure generali di prevenzione e mitigazione del rischio sono fattori di protezione “chiave” sia nei contesti
+sanitari sia di comunità.
+Le più efficaci misure di prevenzione da applicare sia nell’ambito comunitario che sanitario, includono:
+ praticare frequentemente l’igiene delle mani con acqua e sapone o, se questi non sono disponibili,
+con soluzioni/gel a base alcolica. In ambito sanitario è raccomandato l’uso preferenziale di
+soluzioni/gel a base alcolica, in modo da consentire l’igiene delle mani al letto del paziente in tutti i
+momenti raccomandati (prima e dopo il contatto, prima di manovre asettiche, dopo il contatto con
+liquidi biologici, dopo il contatto con le superfici in vicinanza del paziente);
+ evitare di toccare gli occhi, il naso e la bocca con le mani;
+ tossire o starnutire all’interno del gomito con il braccio piegato o di un fazzoletto, preferibilmente
+monouso, che poi deve essere immediatamente eliminato;
+ indossare la mascherina chirurgica nel caso in cui si abbiano sintomi respiratori ed eseguire l’igiene
+delle mani dopo avere rimosso ed eliminato la mascherina;
+ evitare contatti ravvicinati mantenendo la distanza di almeno un metro dalle altre persone, in
+particolare con quelle con sintomirespiratori.
+Precauzioni aggiuntive sono necessarie per gli operatori sanitari al fine dipreservare sé stessi e prevenire la
+trasmissione del virus in ambito sanitario e sociosanitario. Tali precauzioni includono l’utilizzo corretto dei
+DPI e adeguata sensibilizzazione e addestramento alle modalità relative al loro uso, alla vestizione,
+svestizione ed eliminazione, tenendo presente che alla luce delle attuali conoscenze, le principali modalità
+di trasmissione del SARS-CoV-2 sono attraverso droplet e per contatto, a eccezione di specifiche manovre
+e procedure a rischio di generare aerosol (Allegato 1). È quindi sempre particolarmente importante praticare
+l’igiene delle mani per prevenire la trasmissione da contatto, soprattutto in relazione con l’utilizzo corretto
+dei DPI.
+6
+Si evidenzia che i DPI devono essere considerati come una misura efficace per la protezione
+dell’operatore sanitario solo se inseriti all’interno di un più ampio insieme d’interventi che
+comprenda controlli amministrativi e procedurali, ambientali, organizzativi e tecnici nel contesto
+assistenziale sanitario.
+Pertanto, in situazione di ridotta disponibilità di risorse, i DPI disponibili dovrebbero essere utilizzati secondo
+un criterio di priorità per gli operatori a più elevato rischio professionale che svolgano procedure in grado di
+generare aerosol e che operino in un contesto di elevata intensità assistenziale e prolungata esposizione al
+rischio.
+In questo scenario, risulta di particolare importanza l’implementazione nelle strutture sanitarie di tutti i
+controlli di tipo amministrativo-organizzativi, tecnici e ambientali in ambito di infection control, ribadendo la
+rilevanza di fare sempre indossare una mascherina chirurgica al caso sospetto/probabile/confermato
+COVID-19 durante l’assistenza diretta da parte dell’operatore.
+In particolare, nell’attuale scenario epidemiologico COVID-19 e nella prospettiva di una carenza globale di
+disponibilità di DPI, è importante recepire le seguenti raccomandazioni dell’OMS relativamente alla
+necessità di ottimizzare il loro utilizzo, implementando strategie a livello di Paese per garantirne la maggiore
+disponibilità possibile agli operatori maggiormente esposti al rischio di contagio. Queste includono:
+• garantire l’uso appropriato di DPI;
+• assicurare la disponibilità di DPI necessaria alla protezione degli operatori e delle persone assistite in
+base alla appropriata valutazione del rischio;
+• coordinare la gestione della catena di approvvigionamento dei DPI.
+Si raccomanda alle Direzioni regionali, distrettuali e aziendali di effettuare azioni di sostegno al corretto e
+appropriato utilizzo dei DPI, anche attraverso attività proattive quali sessioni di formazione e visite
+/audit per la sicurezza, e avvalendosi delle funzioni competenti (referenti per il rischio infettivo, risk manager,
+Responsabile del Servizio di Prevenzione e Protezione, medico competente, ecc.).
+Assume, inoltre, fondamentale importanza che tutti gli operatori sanitari coinvolti in ambito assistenziale:
+ siano opportunamente formati e aggiornati in merito ai rischi di esposizione professionale, alle misure
+di prevenzione e protezione disponibili, nonché alle caratteristiche del quadro clinico di COVID-19,
+al fine di permettere uno screening degli accessi o dei pazienti ricoverati che permetta una quanto
+più rapida identificazione dei casi sospetti. Pertanto la partecipazione a corsi disponibili online
+dovrebbe essere resa obbligatoria, laddove non siano già state effettuate iniziative di formazione.1
+ Siano edotti sull’importanza di adottare, nell’assistenza a tutti i pazienti, le precauzioni standard, con
+particolare attenzione all’igiene delle mani prima e dopo ciascun contatto con il paziente, prima di
+manovre asettiche e dopo esposizione a liquidi biologici o contatto con le superfici vicine al paziente.
+L’igiene delle mani nell’assistenza a tutti i pazienti rappresenta una protezione importante anche per
+l’operatore stesso, oltre che per il rischio di infezioni correlate all’assistenza.
+Una serie di attività di formazione a distanza sulla prevenzione e controllo della infezione da SARS-CoV-2
+sono disponibili sulla piattaforma EDUISS di formazione dell’Istituto Superiore di Sanità
+(https://www.eduiss.it/). Molto importante è fare indossare tempestivamente a tutti i pazienti che presentino
+1
+Alcuni esempi di corsi o ausili didattici online - Corso WHO IPC in Italiano https://openwho.org/courses/COVID-19-
+PCI-IT; Corso FAD COVID-19 ISS https://www.eduiss.it/course/index.php?categoryid=51; Video
+Vestizione/Svestizione DPI https://www.epicentro.iss.it/coronavirus/sars-cov-2-ipc-video-vestizione-svestizione
+7
+sintomi respiratori acuti una mascherina chirurgica, se tollerata. Inoltre, quando le esigenze assistenziali lo
+consentono, rispettare sempre nell‘interazione col paziente la distanza di almeno un metro.
+Principi generali
+• Le indicazioni riportate in tabella vanno considerate in base a diversi fattori e condizioni, sia di carattere
+logistico-organizzativo e ambientale della struttura sanitaria (ad es. disponibilità di un Programma di
+protezione respiratoria), sia della valutazione del rischio basata sul contesto di lavoro, sulla mansione
+e sul tipo di attività lavorativa in concreto svolta, sia della disponibilità dei DPI, il cui utilizzo razionale
+deve, comunque, nell’attuale scenario emergenziale, continuare a essere prioritariamente
+raccomandato agli operatori sanitari impegnati in aree assistenziali dove vengano effettuate procedure
+a rischio di generazione di aerosol.
+• Alla luce delle conoscenze scientifiche attualmente disponibili e delle principali modalità di
+trasmissione di questa malattia (contatto e droplets), le mascherine chirurgiche (dispositivi medici
+opportunamente certificati e preferibilmente del tipo IIR o equivalente), in grado di proteggere
+l’operatore che le indossa da schizzi e spruzzi, rappresentano una protezione sufficiente nella maggior
+parte dei casi. Tuttavia, a massima tutela della salute degli operatori sanitari esposti a condizioni di
+rischio aumentato, anche nell’attuale situazione di carenza di disponibilità di DPI, si raccomanda di
+garantire sempre un adeguato livello di protezione respiratoria per gli operatori sanitari esposti a più
+elevato rischio professionale, impegnati in aree assistenziali dove vengano effettuate procedure a
+rischio di generare aerosol o che operino in un contesto ospedaliero o comunitario di elevata intensità
+assistenziale e prolungata esposizione al rischio d’infezione COVID-19.
+• Oltre a utilizzare i DPI adeguati, è necessario effettuare sempre l'igiene delle mani e l'igiene
+respiratoria. Il DPI non riutilizzabile dopo l'uso deve essere smaltito in un contenitore per rifiuti
+appropriato e deve essere effettuata l'igiene delle mani prima di indossare e dopo aver rimosso i DPI.
+• Mascherine e guanti non possono essere riutilizzati e devono essere smaltiti correttamente.
+• La maschera chirurgica deve coprire bene il naso, la bocca e il mento. La maschera deve essere
+cambiata se diviene umida, si danneggia o si sporca.
+• In tutti gli scenari, in base alla valutazione del rischio, considerare l’uso di camici idrorepellenti. E’
+possibile usare un grembiule monouso in assenza di camice monouso.
+8
+Dispositivi di protezione individuale
+Selezione dei DPI
+Nell’attuale scenario emergenziale COVID-19 italiano, la selezione del tipo deve tenere conto del rischio di
+trasmissione di SARS-CoV-2; questo dipende da:
+• tipo di trasmissione (da droplets e da contatto);
+• tipo di paziente: i pazienti più contagiosi sono quelli che presentano tosse e/o starnuti; se tali pazienti
+indossano una mascherina chirurgica o si coprono naso e bocca con un fazzoletto la diffusione del
+virus si riduce notevolmente;
+• tipo di contatto assistenziale - Il rischio aumenta quando:
+o il contatto è ravvicinato (< 1 metro) e prolungato (> 15 minuti)2.
+o il contatto è di tipo ripetuto o continuativo, tale da aumentare il tempo complessivo di
+esposizione sia in ospedale che in altri ambiti assistenziali territoriali (come ad esempio
+operatori del territorio coinvolti nella assistenza medica ripetuta e/o continuata di casi
+sospetti e confermati di COVID-19)
+o si eseguono manovre e procedure a rischio di produrre aerosol delle secrezioni del
+paziente (esempi: rianimazione cardiopolmonare, intubazione, estubazione,
+broncoscopia, induzione di espettorato, terapie in grado di generare nebulizzazione, NIV,
+BiPAP, CPAP, tampone nasofaringeo, anche effettuato in comunità).
+In questo contesto emergenziale e di carenza di DPI, I filtranti facciali devono prioritariamente essere
+raccomandati per gli operatori sanitari impegnati in aree assistenziali dove vengano effettuate procedure a
+rischio di generazione di aerosol.
+L’attività assistenziale prolungata e/o continuata con pazienti sospetti/probabili/confermati, in via
+precauzionale è considerata a maggiore rischio, e come tale, è necessario valutare l’uso dei filtranti facciali
+in base alla disponibilità e in base alla valutazione del rischio della struttura, effettuata dal datore di lavoro
+con la collaborazione del responsabile del servizio di prevenzione e protezione e del medico competente.
+Riorganizzazione della attività lavorativa
+Per ridurre il consumo improprio ed eccessivo di DPI e prevenire la loro carenza è opportuno che gli
+operatori evitino di entrare nella stanza in cui sia ricoverato un caso sospetto/accertato di COVID-19 se ciò
+non è necessario a fini assistenziali. È anche opportuno considerare di raggruppare le attività e pianificare
+le attività assistenziali al letto del paziente per minimizzare il numero di ingressi nella stanza (ad esempio,
+controllo dei segni vitali durante la somministrazione di farmaci oppure distribuzione del cibo ad opera di un
+operatore sanitario che deve eseguire altri atti assistenziali) rivedendo l’organizzazione del lavoro al fine di
+evitare, ripetuti accessi agli stessi e conseguente vestizione e svestizione e consumo di DPI ripetuta. Inoltre,
+in caso di disponibilità limitata, è possibile programmare l’uso della stessa mascherina chirurgica o del
+filtrante per assistenza di pazienti COVID-19 che siano raggruppati nella stessa stanza, purché la
+mascherina non sia danneggiata, contaminata o umida. Il raggruppare i pazienti COVID-19 in aree dedicate
+consente di utilizzare in modo più efficiente i DPI e di conseguenza rende sostenibile l’utilizzo di DPI di livello
+più elevato necessario poiché in presenza spesso di pazienti assistiti con procedure a rischio di generare
+2 Il contatto ravvicinato vale in situazioni particolari per gli operatori di reparto anche in attività routinarie come il giro-
+visita dei medici, durante il cambio dei letti e l’assistenza infermieristica
+9
+aerosol3. Alle stesse condizioni, infatti, i filtranti possono essere utilizzati per un tempo prolungato, fino a 6
+ore4.
+In Tabella 1 sono specificati i DPI e i dispositivi raccomandati per la prevenzione del contagio da SARS-
+CoV-2 con una declinazione puntuale dei medesimi in relazione al contesto di lavoro, alla mansione e al
+tipo di attività lavorativa in concreto svolta.
+3
+Ad esempio rianimazione cardiopolmonare, intubazione, estubazione, broncoscopia, induzione di espettorato,
+terapie in grado di generare nebulizzazione, NIV, BiPAP, CPAP, tampone nasofaringeo.
+4
+Fonte WHO, in press
+10
+Tabella 1. DPI e dispositivi medici raccomandati per la prevenzione del contagio da SARS-CoV-2 per
+contesto lavorativo e destinatari dell’indicazione.
+Aree di degenza
+Stanza di
+pazienti
+COVID-195
+Operatori sanitari
+(Si raccomanda riduzione
+al minimo del numero di
+operatori esposti;
+formazione e
+addestramento specifici)
+Assistenza
+diretta a pazienti
+COVID 19
+Mascherina chirurgica o
+FFP2 in specifici contesti
+assistenziali6
+Camice monouso /grembiule
+monouso
+Guanti
+Occhiali di protezione/occhiale a
+mascherina/visiera
+Procedure o setting a
+rischio di generazione
+di aerosol7
+FFP3 o FFP2
+Camice /grembiule monouso
+Guanti
+Occhiali di protezione/occhiale a
+mascherina/visiera
+Esecuzione tampone
+oro e rinofaringeo
+(stessi DPI anche per
+tamponi effettuati in
+comunità )
+FFP2 o mascherina chirurgica se
+non disponibile
+Camice /grembiule monouso
+Occhiali di protezione (occhiale a
+mascherina/visiera)
+Guanti
+Addetti alle pulizie
+(Si raccomanda
+riduzione al minimo
+del numero di addetti
+esposti; formazione e
+addestramento
+specifici)
+Accesso in stanze
+dei pazienti
+COVID-19
+Mascherina chirurgica
+Camice /grembiule monouso
+Guanti spessi
+Occhiali di protezione
+(se presente rischio di schizzi di
+materiale organico o sostanze
+chimiche)
+Stivali o scarpe da lavoro chiuse
+5 in UTI l'operatore che passa da un paziente ad un altro effettuando procedure differenziate dovrebbe indossare
+sempre FFP2/FFP3, per un minor consumo di dispositivi o FFP3 o Powered Air Purifyng Respirator (PAPR) o sistemi
+equivalenti
+6 In contesti assistenziali ove vengono concentrati numerosi pazienti COVID-19, se sottoposti a CPAP/NIV, è
+necessario il ricorso a FFP2. Anche laddove non sia praticata CPAP/NIV è comunque preferibile, ove disponibili, il
+ricorso a filtranti facciali in base a una appropriata valutazione del rischio che tenga conto anche del significativo
+incremento del tempo di esposizione, effettuata a livello della struttura dal datore di lavoro con la collaborazione del
+responsabile del servizio di prevenzione e protezione e del medico competente
+7 Ad esempio rianimazione cardiopolmonare, intubazione, estubazione, broncoscopia, induzione di espettorato, terapie
+in grado di generare nebulizzazione, NIV, BiPAP, CPAP, tampone nasofaringeo.
+Contesto di lavoro
+Destinatari
+dell’indicazione
+(operatori/pazienti)
+Attività
+Tipologia di DPI
+o misure di protezione
+11
+Visitatori
+(necessario limitare
+l’accesso)8
+Accesso in stanze
+dei pazienti COVID-
+19, qualora
+eccezionalmente
+permesso
+Mascherina chirurgica
+Camice monouso
+Guanti
+Altre aree di
+transito e trasporto
+interno dei pazienti
+(ad esempio reparti,
+corridoi)
+Tutti gli operatori inclusi gli
+operatori sanitari
+Nessuna attività che
+comporti contatto
+con pazienti COVID-
+19
+Non sono necessari DPI9
+Indossare mascherina chirurgica
+e guanti monouso solo in caso di
+trasporti prolungati (tempo
+superiore a 15 minuti)
+Aree di degenza
+senza pazienti
+COVID accertati o
+sospetti, incluse
+unità di
+lungodegenza, Day
+Hospital, Day
+Services
+Operatori sanitari
+Contatto diretto con
+pazienti non sospetti
+COVID-19
+DPI previsti per l’ordinario
+svolgimento della propria attività
+Triage
+(in ambito
+ospedaliero per
+accettazione utenti)
+Operatori sanitari
+(Si raccomanda
+riduzione al minimo
+del numero di esposti;
+formazione e
+addestramento
+specifici)
+Screening
+preliminare che non
+comporta il contatto
+diretto
+Vetrata Interfono citofono. In
+alternativa mantenere una
+distanza dal paziente di almeno 1
+metro se possibile o indossare
+Mascherina chirurgica
+Screening con
+contatto diretto
+paziente COVID 19
+positivo o sospetto
+Mascherina chirurgica
+Camice monouso /grembiule
+monouso
+Guanti monouso
+occhiali /visiera protettivi
+8 I visitatori al momento della redazione di questo documento non sono consentiti in base alla circolare del Ministero
+della Salute del 24/2/2020. Se i visitatori devono entrare nella stanza di un paziente con COVID-19, devono ricevere
+istruzioni chiare su come indossare e rimuovere i DPI e sull'igiene delle mani da effettuare prima di indossare e dopo
+aver rimosso i DPI; questo dovrebbe essere supervisionato da un operatore sanitario
+9
+In alcuni ambiti assistenziali sanitari, si valuti la possibilità di uso della mascherina chirurgica come presidio utilizzare
+all’interno dell’ospedale tout court per tutti i sanitari al fine di ridurre la trasmissione da eventuali operatori sanitari infetti
+12
+Pazienti con sintomi
+respiratori
+Qualsiasi
+Mantenere una distanza
+dall’operatore di almeno 1 metro
+(in assenza di vetrata e interfono)
+Mascherina chirurgica se tollerata
+dal paziente
+Isolamento in stanza singola con
+porta chiusa e adeguata
+ventilazione se possibile;
+alternativamente, collocazione in
+area separata sempre a distanza
+di almeno 1 metro da terzi
+Pazienti senza sintomi
+respiratori Qualsiasi
+Non sono necessari DPI
+Mantenere una distanza dagli altri
+pazienti di almeno 1 metro
+Laboratorio
+Locale o di
+riferimento
+regionale e
+nazionale ISS
+Tecnici di laboratorio
+(Si raccomanda riduzione
+al minimo del numero di
+operatori esposti;
+formazione e
+addestramento specifici)
+Manipolazione di
+campioni respiratori
+Laboratorio BSL di classe 3
+(coltura per isolamento del virus)
+con procedure e DPI conseguenti
+Laboratorio BSL di classe 2
+(diagnostica con tecniche di
+biologia molecolare) con
+procedure e DPI conseguenti
+Aree
+amministrative
+Tutti gli operatori inclusi gli
+operatori sanitari
+Attività
+amministrative che
+non comportano
+contatto con pazienti
+COVID-19
+Non sono necessari DPI
+Mantenere una distanza dagli
+utenti di almeno 1 metro
+Nel caso in cui un caso sospetto di COVID-19 dovesse avere accesso in un Ambulatorio territoriale, si rimanda
+alla Sezione “Strutture sanitarie” box Triage; contattare a cura dell’operatore sanitario dell’Ambulatorio il
+numero verde regionale/112, avendo cura di acquisire i nominativi e i recapiti di tutto il personale e dell’utenza
+presente in sala d’attesa, sempre considerando la distanza dal caso sospetto di COVID-19 inferiore a 1 metro,
+prima che tali soggetti abbandonino la struttura.
+13
+(segue)
+Ambulatori ospedalieri e del territorio nel contesto di COVID-19
+Ambulatori
+Operatori sanitari
+Esame obiettivo di
+pazienti con
+sintomi respiratori
+Mascherina chirurgica
+(FFP2 in specifici contesti
+assistenziali )10
+Camice / grembiule
+monouso
+Guanti
+Occhiali di
+protezione/occhiale a
+mascherina/visiera
+Operatori sanitari
+Esame obiettivo di
+pazienti senza sintomi
+respiratori
+I DPI previsti per
+l’ordinario
+svolgimento della
+propria mansione con
+maggiore rischio.
+Pazienti con sintomi
+respiratori Qualsiasi
+Mascherina chirurgica se
+tollerata
+Pazienti senza sintomi
+respiratori Qualsiasi Non sono necessari DPI
+Operatori addetti alle pulizie
+Dopo l’attività di visita
+di pazienti con sintomi
+respiratori. Areare gli
+ambienti dopo l’uscita
+del paziente e prima di
+un nuovo ingresso.
+Mascherina chirurgica
+Camice / grembiule monouso
+Guanti spessi
+Occhiali di protezione (se
+presente rischio di schizzi di
+materiale organico o sostanze
+chimiche) Stivali o scarpe da
+lavoro chiuse
+10
+In contesti assistenziali sul territorio ove vengono assistiti numerosi pazienti COVID-19, può essere preso in
+considerazione il ricorso a FFP2, in base a una appropriata valutazione del rischio che tenga anche conto del
+significativo incremento del tempo di esposizione, effettuata a livello della struttura dal datore di lavoro con la
+collaborazione del responsabile del servizio di prevenzione e protezione e del medico competente.
+Contesto di lavoro
+Destinatari
+dell’indicazione
+(operatori/pazienti)
+Attività
+Tipologia di DPI
+o misure di protezione
+14
+Sale d’attesa
+Pazienti con sintomi
+respiratori
+Qualsiasi
+Mascherina chirurgica se
+tollerata
+Isolare immediatamente il
+paziente in area dedicata o
+comunque separata dagli
+altri; se tale soluzione non è
+adottabile assicurare la
+distanza di almeno 1 metro
+dagli altri pazienti
+Pazienti senza sintomi
+respiratori Qualsiasi
+Non sono necessari DPI.
+Distanza di almeno 1 metro
+Aree
+amministrative
+Tutti gli operatori inclusi gli
+operatori sanitari
+Attività amministrative Non sono necessari DPI
+Accettazione
+utenti
+Operatori sanitari
+Screening preliminare
+senza contatto
+diretto11
+Non sono necessari DPI
+mantenuta la distanza di almeno
+un metro, altrimenti mascherina
+chirurgica
+Pazienti con sintomi
+respiratori
+Qualsiasi
+Mantenere la distanza di
+almeno 1 metro
+Mascherina chirurgica se
+tollerata
+Pazienti senza sintomi
+respiratori Qualsiasi Non sono necessari DPI
+Accompagnatori
+Accesso in stanza del
+paziente senza
+prestare cure o
+assistenza diretta
+Mascherina chirurgica
+Assistenza
+a domicilio
+Operatori sanitari
+Assistenza diretta al
+domicilio di pazienti
+COVID-19
+Mascherina chirurgica 12
+Camice / grembiule monouso
+Guanti
+Occhiali di protezione/ occhiale
+a mascherina/visiera
+Caso sospetto con sintomi
+respiratori – paziente
+COVID-19
+Assistenza diretta al
+domicilio di pazienti
+COVID-19
+Mascherina chirurgica se
+tollerata dal paziente
+11 Questa categoria include l'utilizzo di termometri senza contatto, termocamere e la limitazione del tempo di
+osservazione e di domande, il tutto mantenendo una distanza spaziale di almeno 1 metro.
+12 in contesti assistenziali omologabili a quelli ospedalieri, quali strutture residenziali ad alta intensità assistenziale,
+hospice, ospedali di comunità, e altri contesti domiciliari ove siano concentrati pazienti con COVID-19, va preso in
+considerazione l’utilizzo di FFP2, ove disponibili, anche sulla base di una valutazione del rischio
+15
+(segue)
+Ambulanza o mezzi di trasporto
+Ambulanza o
+mezzi di trasporto
+Operatori sanitari
+Trasporto con permanenza con
+il sospetto caso COVID-19 alla
+struttura sanitaria di riferimento
+Mascherina chirurgica,
+FFP2 se rischio aumentato
+per intensità e durata o
+autombulanza con
+rianimatore,
+Camice / grembiule
+monouso
+Guanti
+Occhiali di protezione/
+occhiale a
+mascherina/visiera
+Addetti alla guida
+Solo guida del mezzo con
+sospetto o confermato caso
+di COVID-19 a bordo e
+separazione del posto di
+guida da quello del paziente
+senza circuiti di ricircolo
+dell’aria tra i due
+compartimenti del mezzo
+Mantenere la distanza di
+almeno 1 metro
+Non sono necessari DPI
+Assistenza per carico e
+scarico del paziente
+sospetto o confermato
+per COVID-19
+Mascherina chirurgica
+Camice / grembiule
+monouso
+Guanti
+Occhiali di protezione/
+occhiale a
+mascherina/visiera
+Nessun contatto diretto con
+paziente sospetto per
+COVID-19 ma senza
+separazione del posto di
+guida da quello del paziente
+Mascherina chirurgica
+Paziente con sospetta
+infezione da COVID-19
+Trasporto alla struttura
+sanitaria di riferimento
+Mascherina chirurgica se
+tollerata
+Contesto di lavoro
+Destinatari
+dell’indicazione
+(operatori/pazienti)
+Attività
+Tipologia di DPI
+o misure di protezione
+16
+Addetti alle pulizie delle
+autombulanze
+Pulizie dopo e durante il
+trasporto dei pazienti con
+sospetta infezione da
+COVID-19 alla struttura
+sanitaria di riferimento
+(Alla fine del trasporto del
+paziente, nel caso in cui sia
+possibile areare il mezzo,
+mascherina chirurgica)
+Mascherina chirurgica
+Camice / grembiule
+monouso
+Guanti spessi
+Occhiali di protezione (se
+presente rischio di schizzi
+di materiale organico o
+sostanze chimiche)
+Stivali o scarpe da lavoro
+chiuse
+17
+Allegato 1.
+Evidenze sulle modalità di trasmissione di SARS-CoV-2
+La trasmissione delle infezioni da coronavirus, incluso il SARS-CoV-2, avviene nella maggior parte dei casi
+attraverso goccioline - droplets (≥ 5µm di diametro) generate dal tratto respiratorio di un soggetto infetto
+soprattutto con la tosse o starnuti ed espulse a distanze brevi (< 1 metro) (1-4). Tali goccioline non
+rimangono sospese nell’aria ma si possono depositare sulle mucose nasali od orali o sulle congiuntive di un
+soggetto suscettibile soprattutto nel corso di contatti stretti tra persona e persona.
+SARS-CoV-2 si può anche trasmettere per contatto diretto o indiretto con oggetti o superfici nelle
+immediate vicinanze di persone infette che siano contaminate da loro secrezioni (saliva, secrezioni nasali,
+espettorato), ad esempio attraverso le mani contaminate che toccano bocca, naso o occhi.
+Studi su altri coronavirus, quali il virus della SARS e della MERS, suggeriscono che il tempo di sopravvivenza
+su superfici, in condizioni sperimentali, oscilli da 48 ore fino ad alcuni giorni (9 giorni) in dipendenza della
+matrice/materiale, della concentrazione, della temperatura e dell’umidità, anche se tale dato si riferisce alla
+possibilitàdirilevazione di RNA del virus e non al suo isolamento in forma infettante (5). Dati sperimentali più
+recenti relativi alla persistenza del virus SARS-CoV-2, confermano la sua capacità di persistenza su plastica
+e acciaio inossidabile fino a 72 ore e su rame e cartone fino a 4 e 24 ore, rispettivamente, mostrando anche
+un decadimento esponenziale del titolo virale nel tempo (6).
+La trasmissione per via aerogena (che avviene attraverso particelle di dimensioni < 5 μm che si possono
+propagare a distanza > 1 metro) non è documentata per i coronavirus incluso SARS- CoV-2, ad eccezione
+di specifiche procedure che possono generare aerosol (ad esempio, intubazione, tracheotomia, ventilazione
+forzata) e che avvengono soltanto in ambiente sanitario. Il ruolo marginale della trasmissione per via
+aerogena è anche riportato nel report relativo alla missione OMS in Cina per valutare la situazione
+dell’epidemia e le attuali evidenze derivanti da studi condotti in quel paese (4). Due studi recenti basati su
+campionamenti dell’aria nelle immediate vicinanze di pazienti affetti da COVID-19 con carica virale
+significativa nelle loro secrezioni respiratorie, non hanno dimostrato alcuna presenza del virus SARS-CoV-
+2 (7-8). Un altro studio effettuato su voli di lunga distanza, ha dimostrato che non c’è evidenza di trasmissione
+del virus a passeggeri seduti in prossimità di soggetti affetti da COVID-19 (9). Uno studio sperimentale
+recentemente pubblicato sul NEJM ha simulato condizioni di diffusione dei virus SARS-CoV-2 o SARS-CoV-
+1 tramite aerosol (6). L’aerosol è stato generato con l'uso di un nebulizzatore three- jet Collison e immesso
+in un tamburo di Goldberg, utilizzando alta carica virale ed elevati volumi (10 ml). Questo sistema non
+riproduce le normali condizioni di tosse prodotta da un paziente affetto da COVID-19. Inoltre, sebbene
+l'esperimento dimostri la persistenza del virus nelle particelle di aerosol fino a 3 ore, non fornisce prove
+sostanzialmente nuove sulla trasmissione aerogena poiché quest’ultima era già nota come un’evenienza
+possibile durante procedure che generano aerosol. Infatti, l'OMS e altri importanti istituzioni tecniche che
+forniscono linee guida IPC per COVID-19 raccomandano precauzioni airborne per questeprocedure.
+Vi sono alcune evidenze che l’infezione da SARS-CoV-2 può manifestarsi con sintomi intestinali e che il
+virus possa essere presente nelle feci. Il rapporto dell'OMS sulla Cina indica che l'RNA virale è stato rilevato
+nelle feci nel 30% dei casi entro pochi giorni dall'esordio dei sintomi e in alcuni casi è stato possibile ottenere
+anche il virus vitale in coltura (4). Altre pubblicazioni hanno riportato che la diarrea si presentava nel 2-10%
+dei casi di malattia confermata COVID-19 (10-12) e due studi hanno rilevato RNA virale nelle feci di pazienti
+COVID-19 (13-14). Tuttavia, ad oggi solo uno studio ha dimostrato la presenza di virus vitale in un singolo
+campione di feci (15).
+I dati attualmente disponibili non supportano quindi la trasmissione per via aerea di SARS-CoV-2, fatta
+eccezione per i possibili rischi attraverso procedure che generano aerosol se eseguite in un ambiente
+inadeguato (non in stanza di isolamento con pressione negativa) e / o in caso di utilizzo di dispositivi di
+protezione individuali (DPI) inadeguati. È probabile per contro che la trasmissione attraverso il contatto con
+18
+superfici contaminate, in particolare nelle immediate vicinanze di un paziente COVID-19, abbia un ruolo,
+mentre quello via aerosol rimane ancora una ipotesi (16) solo sperimentale . Non sono stati dimostrati casi
+di trasmissione fecale-orale del virus SARS-CoV-2.
+Tuttavia, in considerazione delle conoscenze in via di continuo aggiornamento, non è possibile ad oggi
+escludere definitivamente la possibilità di generazione di aerosol nel caso COVID-19 con sintomi respiratori
+(17-18) , come anche riportato da alcuni organismi istituzionali quali CDC ed ECDC (19-20). Per questo
+motivo la procedura del tampone respiratorio è stata inserita tra quelle a rischio di generare aerosol (21).
+(CDC, March 19, 2020).
+Pertanto, per un principio di precauzione, CDC ed ECDC, in situazioni di scenario epidemiologico non
+emergenziale che preveda la sufficiente disponibilità di DPI, raccomandano l’uso di filtranti facciali DPI in tutte
+le pratiche di tipo assistenziale diretto in pazienti COVID-19, con priorità nei confronti di operatori sanitari a
+più elevato rischio poiché impegnati in procedure assistenziali a rischio di generazione aerosol.
+Altri paesi come Australia (22), Canada (23), Hong Kong e Regno Unito (24-26), riportano che la modalità
+predominante di trasmissione è da droplet e contatto e indicano di usare protezioni per malattie trasmesse
+per via aerea solo per le procedure generanti aerosol.(27)
+Recentemente OMS ha ribadito che, le nuove evidenze fornite dal lavoro pubblicato su NEJM (6) non
+modificano le conoscenze sulla trasmissione naturale del virus , e pertanto mantiene le stesse indicazioni nel
+contesto della trasmissione da droplet e da contatto, dell’uso delle mascherine chirurgiche per l’assistenza
+sanitaria ai pazienti con COVID-19 e i respiratori facciali per le procedure e i setting a rischio di generazione
+aerosol (28).
+Bibliografia
+1. Coronavirus disease (COVID-19) technical guidance: Infection prevention and control. WHO.
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/infection-
+prevention-and-control
+2. Infection prevention and control of epidemic- and pandemic-prone acute respiratory infections in health
+care. World Health Organization. (2014). Organization. https://apps.who.int/iris/handle/10665/112656
+3. Chan JFW, Yuan S, Kok KH, To KK, Chu H, Yang J, et al. A familial cluster of pneumonia associated
+with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.
+Lancet. 2020;395(10223):514-23.
+4. World Health Organization. Report of the WHO-China Joint Mission on Coronavirus Disease 2019
+(COVID-19) 16-24 February 2020 [Internet]. Geneva: World Health Organization; 2020 [cited 2020 Mar
+6]. Available from: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-
+covid-19-final-report.pdf
+5. G. Kampf, D. Todt, S. Pfaender, E. Steinmann. Persistence of coronaviruses on inanimate surfaces
+and their inactivation with biocidal agents. Journal of Hospital Infection 104 (2020) 246e251
+6. van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Brandi N, et al. Aerosol and
+Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. The New England Journal of
+Medicine. Published on: 17 March 2020. DOI: 10.1056/NEJMc2004973
+7. Cheng V, Wong S-C, Chen J, Yip C, Chuang V, Tsang O, et al. Escalating infection control response
+to the rapidly evolving epidemiology of the Coronavirus disease 2019 (COVID-19) due to SARS-CoV-2
+in Hong Kong. Infect Control Hosp Epidemiol. 2020 Mar 5 [Epub ahead of print].
+19
+8. Ong SW, Tan YK, Chia PY, Lee TH, Ng OT, Wong MS, et al. Air, surface environmental, and personal
+protective equipment contamination by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-
+2) from a symptomatic patient. JAMA. 2020
+9. Schwartz KL, Murti M, Finkelstein M, Leis J, Fitzgerald-Husek A, Bourns L, et al. Lack of COVID-19
+Transmission on an International Flight. CMAJ. Published on: 24 February 2020
+https://www.cmaj.ca/content/lack-covid-19-transmission-international-flight
+10. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with 2019
+novel coronavirus in Wuhan, China. Lancet. 2020;395:497–506. doi:10.1016/S0140- 6736(20)30183-5.
+11. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical characteristics of 99
+cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet.
+2020;395:507–13. doi:10.1016/S0140-6736(20)30211-7.
+12. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical characteristics of 138 hospitalized patients
+with 2019 novel coronavirus-infected pneumonia in Wuhan, China. JAMA. 2020. Feb 7.
+doi:10.1001/jama.2020.1585.
+13. Xiao E, Tang M, Zheng Y, Li C, He J, Hong H, et al. Evidence for gastrointestinal infection of SARS-
+CoV. medRxiv. doi:10.1101/2020.02.17.20023721.
+14. Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H et al. for the Washington State
+2019-nCoV Case Investigation Team. First case of 2019 novel coronavirus in the United States. N
+Engl J Med. 2020. Jan 31. doi:10.1056/NEJMoa2001191.
+15. Zhang Y, Chen C, Zhu S et al. [Isolation of 2019-nCoV from a stool specimen of a laboratory-
+confirmed case of the coronavirus disease 2019 (COVID-19)]. China CDC Weekly. 2020;2(8):123–4.
+(In Chinese)
+16. Tellier R, Li Y, Cowling BJ, Tang JW. Recognition of aerosol transmission of infectious agents: a
+commentary. BMC Infect Dis. 2019;19(1):101. Published 2019 Jan 31. doi:10.1186/s12879-019-3707-y
+17 Xiao Y, Torok ME. Taking the right measures to control COVID-19 [published online ahead of print,
+2020 Mar 5]. Lancet Infect Dis. 2020;S1473-3099(20)30152-3. doi:10.1016/S1473-3099(20)30152-3
+18 Booth TF, Kournikakis B, Bastien N, et al. Detection of airborne severe acute respiratory syndrome
+(SARS) coronavirus and environmental contamination in SARS outbreak units. J Infect Dis.
+2005;191(9):1472–1477. doi:10.1086/429634
+19. Interim Infection Prevention and Control Recommendations for Patients with Suspected or Confirmed
+Coronavirus Disease 2019 (COVID-19) in Healthcare Settings. https://www.cdc.gov/coronavirus/2019-
+ncov/infection-control/control-recommendations.html
+20. ECDC TECHNICAL REPORT - Infection prevention and control for COVID-19 in healthcare settings.
+https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-infection-prevention-and-control-
+healthcare-settings-march-2020.pdf
+21 William G. Lindsley a , William P. King b , Robert E. Thewlis a , Jeffrey S. Reynolds a , Kedar Panday
+c , Gang Cao a & Jonathan V. Szalajda. Dispersion and Exposure to a Cough-Generated Aerosol in a
+Simulated Medical Examination Room. Journal of Occupational and Environmental Hygiene. Journal of
+Occupational and Environmental Hygiene, 9: 681–690 ISSN: 1545-9624 print / 1545-9632 online 2012
+22 Interim guidelines for the clinical management of COVID-19 in adults Australasian Society for
+Infectious Diseases Limited (ASID) https://www.asid.net.au/documents/item/1873
+20
+23 Coronavirus disease (COVID-19): For health professionals. https://www.canada.ca/en/public-
+health/services/diseases/2019-novel-coronavirus-infection/health-professionals.html
+24 Guidance on infection prevention and control for COVID-19
+https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control
+25 COVID-19: Guidance for infection prevention and control in healthcare settings. Version 1.0.
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874
+316/Infection_prevention_and_control_guidance_for_pandemic_coronavirus.pdf
+26 When to use a surgical face mask or FFP3 respirator
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874
+310/PHE_11606_When_to_use_face_mask_or_FFP3_02.pdf
+27 Surviving Sepsis Campaign (SSC). Guidelines on the Management of Critically Ill Adults with
+Coronavirus Disease 2019 (COVID-19).
+https://www.sccm.org/SurvivingSepsisCampaign/Guidelines/COVID-19
+28 WHO. Coronavirus disease 2019 (COVID-19) Situation Report – 66. SUBJECT IN FOCUS: COVID-19
+virus persistence: Implications for transmission and precaution recommendations 26 March 2020
+

@@ -1,5 +1,5 @@
 [InternetShortcut]
 URL="https://www.minsal.cl/nuevo-coronavirus-2019-ncov/informe-tecnico/"
 ORG=Chile
-DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*(2020|casos|coronavirus|covid|ncov)[^\"]*\.pdf)[^\"]*\"/Ui"
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*(2020|casos|coronavirus|covid|ncov)[^\"]*\.pdf)[^\"]*\"/i"
 LANG=es

@@ -1,10 +1,18 @@
 # Italy
 
 
+## 2020-03-31
+
+* [C\_17\_notizie\_4362\_1\_file.pdf](3f21d3cf6934ff38424ee53c010fce3a1620d4c3/file.pdf) @01:17 GMT
+* [C\_17\_notizie\_4362\_0\_file.pdf](4b7cd3e6049c45d6743b0836aefb9ba47c139abc/file.pdf) @01:17 GMT
+
 ## 2020-03-30
 
+* [Infografica\_30marzo ITA.pdf](3a8e17d3f203fe9360facf82fb427c75964b8c58/file.pdf) @15:40 GMT
+* [Infografica\_30marzo ENG.pdf](f70d9008fc71989f3d42c2fa8112e48233f6add5/file.pdf) @15:40 GMT
 * [C\_17\_pagineAree\_5351\_41\_file.pdf](ea0b59ff36fc0836be3de0917af360f74cd1ac4e/file.pdf) @13:03 GMT
 * [C\_17\_pagineAree\_5351\_40\_file.pdf](1702e926e9f30bf223f8ab15ca094ad7b4ace886/file.pdf) @13:03 GMT
+* [Rapporto ISS COVID 2\_ Protezioni\_REV.V6.pdf](74c83246a6a851a1d8474fcd9b1c18e0be695cfa/file.pdf) @12:06 GMT
 
 ## 2020-03-29
 

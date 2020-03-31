@@ -1,0 +1,31 @@
+{
+    "filename": "COVID-19%20TELESALUD%20MINSALUD%20copia.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/COVID-19%20TELESALUD%20MINSALUD%20copia.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585617370,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "537376",
+        "content-type": "application\/pdf",
+        "expires": "Mon, 16 Mar 2020 01:16:10 GMT",
+        "last-modified": "Mon, 30 Mar 2020 22:09:19 GMT",
+        "etag": "\"{88815305-5E95-4B9E-A058-CA72C4D63D73},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:88815305-5E95-4B9E-A058-CA72C4D63D73@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "5d05449f-b840-2039-6a40-8edfe90bf63d",
+        "request-id": "5d05449f-b840-2039-6a40-8edfe90bf63d",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Tue, 31 Mar 2020 01:16:09 GMT"
+    },
+    "lang": "es",
+    "size": 537376,
+    "modified": 1585606159
+}

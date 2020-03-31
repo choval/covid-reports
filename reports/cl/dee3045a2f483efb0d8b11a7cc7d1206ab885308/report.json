@@ -1,0 +1,25 @@
+{
+    "filename": "INFORME_EPI_COVID19_20200330.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/INFORME_EPI_COVID19_20200330.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585617235,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 31 Mar 2020 01:13:42 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Tue, 31 Mar 2020 00:12:42 GMT",
+        "etag": "\"3484fd-5a21b6d200c16\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=sZK",
+        "xrnoralq": "Ztd; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "5-77558599-77558624 NNNN CT(220 687 0) RT(1585617233031 311) q(0 0 9 -1) r(12 12) U6"
+    },
+    "lang": "es",
+    "size": 3441917,
+    "modified": 1585613562
+}

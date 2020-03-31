@@ -1,0 +1,25 @@
+{
+    "filename": "Diario-Oficial-30-de-marzo.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/03\/Diario-Oficial-30-de-marzo.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585617343,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 31 Mar 2020 01:15:28 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Mon, 30 Mar 2020 17:46:24 GMT",
+        "etag": "\"2ef3f-5a2160798fc00\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "___utmvbIMuvlzkB=yZE",
+        "xxfogalm": "ktj; path=\/; Max-Age=900",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "10-34032730-34032745 NNNY CT(0 0 0) RT(1585617342370 336) q(0 0 0 -1) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 192319,
+    "modified": 1585590384
+}

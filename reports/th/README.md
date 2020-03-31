@@ -3,6 +3,7 @@
 
 ## 2020-03-30
 
+* [2020-03-30-tha-sitrep-37-covid19-final.pdf](b5f90f562789d0f92c1b3c129b7978b1796dd864/file.pdf) @13:55 GMT
 * [2020-03-26-tha-sitrep-33-covid19-th-final.pdf](d55af2bf4fadbfd9acacb4feceaf74d0b586b468/file.pdf) @07:20 GMT
 * [2020-03-25-tha-sitrep-32-covid19-th-final.pdf](d306e86e3107b78dc52f43bd6d6ddac683234aaf/file.pdf) @07:17 GMT
 * [2020-03-21-tha-sitrep-28-covid19-th-final.pdf](6fa30823b2cac9a2f354d7624e7ca70b7d7994e0/file.pdf) @07:12 GMT

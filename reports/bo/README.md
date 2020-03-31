@@ -1,6 +1,10 @@
 # Bolivia
 
 
+## 2020-03-31
+
+* [comunicado-salud-solicita-investigacion-de-paciente-fallecido-por-coronavirus-en-la-paz](77ebbf6f60820c4ee743b1f6916ece09363d5878/file.pdf) @01:13 GMT
+
 ## 2020-03-30
 
 * [4014-gobierno-medicos-y-trabajadores-en-salud-acuerdan-reforzar-medidas-de-bioseguridad-y-lucha-contra-el-coronavirus](649b358266873e4eb56519ea8e529b849ac22ed1/file.pdf) @12:53 GMT
