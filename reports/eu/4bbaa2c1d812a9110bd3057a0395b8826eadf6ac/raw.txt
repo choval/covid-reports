@@ -1,0 +1,553 @@
+Suggested citation: European Centre for Disease Prevention and Control. Infection prevention and control for COVID-19 in
+healthcare settings – Third update. 31 March 2020. ECDC: Stockholm; 2020.
+© European Centre for Disease Prevention and Control, Stockholm, 2020
+//
+ECDC TECHNICAL REPORT
+Infection prevention and control and
+preparedness for COVID-19 in healthcare
+settings
+Third update – 31 March 2020
+Scope of this document
+This document aims to provide guidance to EU/EEA healthcare facilities and healthcare providers on infection
+prevention and control (IPC) measures for the management of suspected and confirmed cases of COVID-19
+infection in healthcare settings, including long-term care facilities. It also offers guidance on the management of
+specimens at laboratories in the EU/EEA.
+This is an update of the ECDC guidance dated 12 March 2020 ‘Infection prevention and control for COVID-19 in
+healthcare settings’ [1]. This update focuses on measures to be applied in settings with increasing community
+transmission, a growing demand for care of COVID-19 patients and ensuing staff issues in the event of shortages
+of personal protective equipment (PPE) for healthcare facilities in EU/EEA countries and the United Kingdom.
+Target audience
+Hospital administrators, long-term care facility administrators and healthcare practitioners in EU/EEA countries and
+the United Kingdom.
+Background
+As of 26 March 2020, more than 500 000 cases of COVID-19 had been reported worldwide by more than 150
+countries. The number of reported COVID-19 cases is rapidly rising in all EU/EEA countries and the UK, accounting
+for an increasing proportion of the cases worldwide.
+More up-to-date disease background information is available online from ECDC [2], WHO [3]) and in ECDC’s Rapid
+Risk Assessment [4].
+Up to 10% of the reported cases in China [5] and up to 9% of all cases in Italy have been among healthcare
+workers [6]. It is probable that nosocomial outbreaks are important amplifiers of the local outbreaks which
+disproportionately affect the elderly and vulnerable populations. IPC practices are of critical importance in
+protecting the functioning of healthcare services and mitigating the impact on vulnerable populations.
+Measures to prevent transmission in healthcare facilities are an immediate priority in order to 1) slow the demand
+for specialised healthcare, such as intensive care unit (ICU) beds; 2) safeguard risk groups; 3) protect healthcare
+workers and 4) minimise the export of cases to other healthcare facilities and the wider community.
+In most instances, coronaviruses are believed to be transmitted from person to person via large respiratory
+droplets, either being inhaled or deposited on mucosal surfaces. Other routes implicated in transmission of
+coronaviruses include contact with contaminated fomites and inhalation of aerosols produced during aerosol-
+generating procedures (AGPs). SARS-CoV-2 virus has been detected in respiratory and faecal specimens. Viral RNA
+has also been detected on rare occasions in blood specimens but there is no evidence of transmission through
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+2
+contact with blood [5]. The relative role of droplet, fomite and aerosol transmission for SARS-CoV-2, the protection
+provided by the different components of personal protective equipment (PPE) and the transmissibility of the virus
+at different stages of the disease remain unclear. Caution should therefore be exercised when considering these
+elements [7,8]. With the exception of AGPs, it is unclear whether facial filtering piece (FFP) respirators (class 2 or
+3) provide better protection than surgical masks against other coronaviruses and respiratory viruses such as
+influenza [9,10]. Therefore, in the event of widespread community transmission leading to shortages of PPE, a
+rational approach would necessitate prioritising use of FFP2/3 respirators for care activities involving a higher
+perceived risk of transmission, such as during AGPs or in intensive care.
+There is increasing evidence that persons with mild or no symptoms can contribute to the spread of COVID-19
+[7,11]. Although uncertainties remain about the relative role of transmission by symptomatic versus asymptomatic
+or pauci-symptomatic persons, the implications of this observation for the prevention of COVID-19 among
+healthcare workers and vulnerable patient populations in healthcare are significant.
+Healthcare settings
+The following sections provide an outline of technical measures and resources that can be used to reduce the risk
+of COVID-19 transmission in healthcare settings (including long-term care facilities) and laboratories in the EU/EEA.
+It draws on interim advice produced by WHO and national agencies, and also expert opinion [10,12-14]
+General infection prevention and control measures
+Due to the likelihood of virus transmission by persons with few or no symptoms, healthcare facilities should ensure
+that physical distancing measures are implemented by staff, visitors and patients, particularly in settings with
+widespread community transmission. The use of surgical masks by healthcare workers for personal protection and
+source control can be considered as a measure for reducing transmission within healthcare settings. Optimal
+strategies have not been defined but any strategy needs to take into account the availability of surgical masks, the
+extent of community transmission and other measures in place. Some healthcare facilities require that all
+healthcare providers wear a surgical mask while at work.
+Standard precautions, and in particular meticulous hand hygiene, should be emphasised.
+Triage, initial contact and assessment (primary and
+emergency care)
+Emergency services and primary care staff, including physicians, nursing and administrative staff having contact
+with patients, should:
+• Be made aware of the current COVID-19 epidemiological situation in their country and globally, including:
+− known risk factors for infection;
+− clinical symptoms and signs of COVID-19;
+− recommended IPC measures, including those in this document;
+− procedures for reporting and transferring people under investigation and probable/confirmed cases.
+• Assess the onsite availability of appropriate PPE for all personnel at the point-of-care.
+• Create a separate area in the emergency department for the assessment and management of patients with
+respiratory symptoms in order to spare PPE.
+• Perform a point-of-care risk assessment to assess the likelihood of COVID-19 infection, including the clinical
+presentation of the patient and a review of clinical and epidemiological information. The assessment should
+be based on the latest case definitions [15].
+• Create a separate area in the emergency department/hospital for swabbing suspect cases in accordance with
+the existing protocol. This should allow rational use of PPE and safer sampling.
+• Map and develop policies for prioritising stocks of available equipment for the administration of oxygen, including
+nasal cannulas, non-invasive ventilation devices, and mechanical ventilators, given that COVID-19 patients may
+present with significant hypoxemia and need oxygen support.
+• For patients requiring intubation for mechanical ventilation, plan ahead and avoid emergency intubations as
+much as possible. Consider performing all the necessary procedures such as central venous catheter and arterial
+line insertions during one session, in order to conserve PPE.
+• If possible, provide for triage by telephone or telemedicine/online to reduce the number of people with
+symptoms of COVID-19 who come into contact with healthcare services.
+• Be aware of requirements for testing and the case definitions [15] for reporting cases.
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+3
+Personal protective equipment for assessment and collection of diagnostic
+respiratory samples
+The recommended PPE for the clinical assessment of suspected COVID-19 cases can be adapted as follows:
+• Healthcare workers performing the first assessment without direct contact: the patient should wear a surgical
+mask if available and keep a distance of at least one metre.
+• If possible, a physical barrier such as glass or a plastic teller window can be used to avoid direct contact and
+keep a distance. In this case no PPE is necessary [16].
+• Collecting diagnostic respiratory samples (e.g. nasopharyngeal swab) can provoke coughing and/or sneezing and
+therefore lead to the production of aerosols [17]. Healthcare workers collecting diagnostic respiratory samples in
+enclosed spaces [18] should wear gloves, eye protection, a gown and a surgical mask or, if available, an FFP [19].
+• For drive-through or outdoor testing facilities, the use of a surgical mask should be sufficient.
+In order to optimise the use of PPE, staff should be assigned to carry out procedures in designated areas. For
+example, a dedicated area for collecting diagnostic respiratory samples can be set up. While collecting the sample,
+healthcare personnel can use the same respiratory protection equipment (surgical mask or respirator) for several
+patients for a longer period of time (up to 4-6 hours for respirators) without removing it, provided that it is not
+damaged or soiled, unless the manufacturer explicitly advises against this [16].
+Management of suspected cases
+Suspected cases of COVID-19 should be isolated, or at least separated from other patients as far as possible. They
+should wear a surgical mask, if available, or at least cover their mouth with a tissue when coughing and practise
+appropriate hand hygiene. If possible, dedicated toilet facilities should be made available. Non-essential contacts
+between suspected cases and other persons should be minimised.
+Staff should contact a designated 24/7 response service, such as the local public health authorities, to report the
+case, arrange diagnostic testing and, if appropriate following initial assessment , arrange safe transfer to a
+designated acute care unit for further diagnostic evaluation.
+Patient transport
+It is important to ensure the availability of a preparedness plan for ambulance transfers of suspected or confirmed
+COVID-19 cases, addressing the temporal and geographical coverage of adequately trained staff and equipment.
+For ambulance transfers of suspected or confirmed COVID-19 cases, it is important to ensure that healthcare staff
+wear PPE, decontaminate the ambulance after the transfer of the patient in accordance with the recommendations
+on environmental cleaning (see below), and practise safe waste management in accordance with local procedures.
+If decontamination of the ambulance is not practical due to the high demand of ambulance services, consider using
+dedicated ambulances for COVID-19 suspected patients.
+Appropriate PPE for healthcare workers accompanying/monitoring a patient during transport includes a surgical
+mask or, if available, an FFP in addition to gloves, eye protection (visor or goggles) and gown. If available, a
+surgical mask should be provided for patients with respiratory symptoms.
+Persons sitting in the front of the ambulance, including the driver, should not come into contact with the patient. If
+there is no physical separation between the front and the back of the ambulance, they should consider wearing a
+surgical mask [16].
+Hospitals
+The following measures should be considered to reduce the risk of COVID-19 transmission among patients,
+healthcare workers, and other staff in hospitals.
+Administrative measures
+• Ensure appropriate training on IPC for healthcare workers and other staff.
+• If possible, also provide training to those who may be requested to work at a later stage to provide for surge
+capacity (for example agency staff, student doctors/nurses, and retired health professionals).
+• Consider restricting non-essential visits and ensure that everyone, including patients and visitors, at the
+healthcare facility are aware of the need for hand and respiratory hygiene, including suitable cough etiquette.
+• Set up a hospital ‘COVID-19 preparedness and response committee’ (or adapt an existing emergency
+management committee) with representatives from all the main clinical and support departments as well as
+senior administrators. Participate in a local healthcare coalition; this should include neighbouring hospitals,
+local public health agencies, and emergency healthcare services. Members of multi-hospital health systems
+should integrate system-wide planning and local planning with that of other local hospitals [20].
+• To ensure preparedness for a surge in critically ill patients, identify rooms for these patients. In addition,
+identify non-urgent outpatient visits for re-scheduling or cancellation, and elective in-patient diagnostic and
+surgical procedures that can be moved to an outpatient setting, re-scheduled or cancelled [21,22].
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+4
+• Identify and designate additional separate units that can be used for diagnostic evaluation and treatment of
+COVID-19 patients.
+• Plan for surge capacity, estimate the needs in terms of patient beds, respiratory support, PPE, staff and
+diagnostics. Laboratory capacity and therapeutics should also be included in these estimates.
+• Ensure that virological investigations can be arranged in a timely manner in accordance with the algorithm for
+laboratory diagnosis of COVID-19 (see Laboratory testing for coronavirus disease 2019 (COVID-19) in
+suspected human cases [23]).
+• Define a strategy for testing, management and follow-up of healthcare workers with respiratory symptoms.
+Ensure that testing for COVID-19 is available for healthcare workers and patients.
+• All staff with symptoms compatible with COVID-19 should stop working and self-isolate while symptomatic, and
+they should be prioritised in the national testing policy in order to be able to return to work as soon as possible
+once they are SARS-CoV-2 free1
+.
+• Be aware of the minimum requirements for designated units managing confirmed COVID-19 patients: staff
+adequately trained in the safe diagnostic evaluation and management of COVID-19 patients; availability of
+appropriate PPE and hand hygiene products; adequate laboratory support, appropriate cleaning, and appropriate
+waste management procedures (see section ‘Environmental cleaning and waste management’ below).
+• Where possible, use negative pressure isolation rooms for AGPs (see ‘Patient management’).
+• Ensure that visits to COVID-19 patients are limited to the absolute minimum. Visitors should wear a surgical mask,
+gloves, a visor or goggles and a gown. If PPE availability is limited, it is sufficient for visitors to wear a surgical mask,
+provided that they keep a distance of at least one metre from a patient for the duration of the visit [16].
+• If feasible, maintain a register of visitors for the purposes of contact tracing. Visitors to a confirmed COVID-19
+case should self-monitor for symptoms of COVID-19 for 14 days after the visit, if periodic active monitoring (e.g.
+by telephone every few days) is not possible.
+Patient management
+With a small number of cases, patients should preferably be admitted to an isolation room with a dedicated toilet if
+available. If possible, patients should be placed in single, airborne-precaution rooms with negative pressure and
+anteroom, especially those patients requiring AGPs.
+In the event of widespread community transmission and large numbers of COVID-19 cases requiring
+hospitalisation, hospitals should consider placing confirmed COVID-19 patients in a separate ward or section of the
+hospital with dedicated staff (cohorting). This makes it possible to economise on the use of PPE, since healthcare
+workers can wear the same respiratory protection while providing care to the cohorted patients, and reduce
+healthcare-associated transmission.
+The use of dedicated or, if possible, disposable medical equipment (e.g. blood pressure cuffs, stethoscopes and
+thermometers) is recommended.
+Personal protective equipment
+Healthcare workers in contact with a suspected or confirmed COVID-19 case should wear a surgical mask or, if
+available an FFP2 respirator tested for fitting, eye protection (i.e. visor or goggles), a long-sleeved gown or apron,
+and gloves [19].
+Healthcare workers should strictly follow the procedures for putting on (donning) and safely removing (doffing)
+PPE in the correct sequence [19]. Active assistance during donning and doffing will help to minimise the risk of
+accidental contamination. Hands should be washed immediately after the removal of PPE. It is essential to ensure
+that all staff assigned to treat COVID-19 patients are trained in the proper use of PPE. Quality assurance should be
+promoted before assigning staff to COVID-19 patient care. For example, to ensure a staff member’s competency
+hospitals could require staff members to produce documented evidence of having participated in a training course
+in the correct use of PPE.
+Aerosol generated procedures
+These procedures include: endotracheal intubation, bronchoscopy, open suctioning, administration of nebulised
+treatment, manual ventilation before intubation, physical prone positioning of the patient, disconnecting the patient
+from the ventilator, non-invasive positive pressure ventilation, tracheostomy, and cardiopulmonary resuscitation
+[24]. These procedures have been linked with an increased transmission risk of coronaviruses and require
+respiratory protection measures [25]. If there is a shortage of respirators it is recommended that they are
+prioritised for AGPs. AGPs should ideally be performed in a negative pressure isolation room. The number of people
+in the room should be limited to a minimum during such procedures. All those present should wear a well-fitted
+FFP3 respirator, visor or goggles, long-sleeved impermeable protective gown, and gloves [26].
+1
+For more information on contact tracing, see ‘Resource estimation for contact tracing, quarantine and monitoring activities for
+COVID-19 cases in the EU/EEA’. 2 March 2020. ECDC: Stockholm; 2020. Available at:
+https://www.ecdc.europa.eu/en/publications-data/resource-estimation-contact-tracing-quarantine-and-monitoring-activities-
+covid-19
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+5
+Approaches for economising on the use of PPE in the event of shortages
+In the event of shortages, to reduce consumption and maximise the use of PPE it is acceptable for staff to wear
+the same respirator while caring for multiple patients with COVID-19 for up to 4–6 hours. This is on the condition
+that the respirator is not removed between patients and is not damaged, soiled or contaminated, or unless
+specifically contraindicated by the manufacturer [16].
+Surgical masks are designed for single-use. Respirators are usually also discarded after use, but in the event of a
+shortage, they can be reused a limited number of times unless there is a risk of contamination through the
+deposition of infectious particles on the surface. Contamination of the surface of respirators and surgical masks
+entails a risk of infection when putting the device on again (donning) for reuse. Since SARS-CoV-2 survives in the
+environment, including on the surfaces of various materials such as tissue, there is a risk that the outer surface of
+respirators and surgical masks used during patient care may become contaminated. The risk of the surface of
+surgical masks and respirators becoming contaminated by respiratory droplets is considered to be lower when they
+are covered with a visor. In such cases, reuse of the respirator/surgical mask may be considered as a last-resort
+option to economise on use of PPE. Research groups and healthcare facilities are currently looking into possible
+methods for decontaminating and sterilising masks (and other equipment) for re-use. Steam, hydrogen peroxide
+vapour, ultraviolet germicidal irradiation and gamma irradiation are being studied but so far none of these methods
+have been standardised. Such options are only to be considered as an extraordinary last resort in the event of
+imminent shortages of PPE, depending on availability and feasibility after other approaches for the rational use of
+PPE (such as extended use) have been applied. Any countries and groups studying such methods are encouraged
+to share results as soon as they are available.
+Health monitoring and management of exposed staff’
+• Staff providing care to COVID-19 patients need to be actively followed-up for development of symptoms and
+provided with occupational health support. Hospitals should maintain a record of all staff providing care for
+confirmed COVID-19 cases. These staff should remain vigilant, and if developing a fever or any respiratory
+symptoms within 14 days of their last exposure to a confirmed case, they should seek testing and self-isolate if
+they become unwell.
+• Healthcare workers exposed to COVID-19 cases without the recommended PPE should, if possible, stop work,
+self-monitor for symptoms and self-quarantine for 14 days. Testing of exposed healthcare workers for COVID-19
+is an alternative strategy that may be applied in the event of a critical shortage of staff. An optimal testing
+strategy has not yet been defined for this scenario.
+Discharge
+The duration of infectivity for COVID-19 patients is not yet known for sure. SARS-CoV-2 can be initially detected in
+upper respiratory samples one to two days before the onset of symptoms and persist for seven to 12 days in
+moderate cases, and up to two weeks in severe cases. In faeces, viral RNA has been detected in up to 30% of
+patients from day 5 after onset for up to four to five weeks [27]. COVID-19 cases should therefore not be
+discharged until recovery from clinical symptoms of COVID-19. If there are sufficient resources, it is useful to test
+asymptomatic patients before they are released from isolation. If resources are limited, the testing of symptomatic
+patients should take priority over the testing of asymptomatic patients before release from isolation [28].
+Instructions for healthcare professionals and healthcare facility staff
+This advice is for all staff working in healthcare facilities. Some hospitals will be designated exclusively for the
+management of COVID-19 patients, however the probability of exposure to the virus should be considered high at
+all healthcare facilities. The following precautionary measures are recommended:
+• Staff who have contact with patients should wear scrubs for the duration of their work. Clean scrubs should be
+provided daily.
+• Staff should also wear special shoes at work that can be left at the hospital.
+• At the end of the shift and after appropriate doffing (removal) of PPE, staff should wash their hands
+meticulously. If possible, shower facilities should be available for staff to take a shower before leaving work.
+• Staff should consider regularly cleaning and disinfecting electronic equipment such as mobile and desk phones
+and other communication devices, tablets, desktop screens, keyboards and printers, particularly when these are
+used by many people.
+• Staff managing COVID-19 patients should consider the following measures when returning home in order to
+minimise the risk of transmission to other household members:
+− practise physical distancing;
+− wash hands frequently;
+− clean the frequently touched surfaces in their car (e.g. steering wheel, knobs, screens, etc.)
+• Family members of health professionals currently involved in the management of COVID-19 patients should:
+− practise physical distancing;
+− consider sleeping in a separate room and using a separate bathroom if they belong to a high-risk group;
+− wash hands meticulously.
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+6
+Environmental cleaning and waste management
+The following measures may be considered for staff working in the area of environmental cleaning and waste
+management.
+• Staff engaged in environmental cleaning and waste management should wear a surgical mask, gloves, eye
+protection (visor or goggles) and a gown [16].
+• Regular cleaning followed by disinfection is recommended, using hospital disinfectants active against viruses;
+cleaning in patient rooms is particularly important for frequently touched surfaces. If there is a shortage of hospital
+disinfectants, surfaces may be decontaminated with 0.05% sodium hypochlorite (dilution 1:100 if household bleach
+at an initial concentration of 5% is used) after cleaning with a neutral detergent. Surfaces that do not tolerate
+sodium hypochlorite may be cleaned with a neutral detergent, followed by 70% ethanol [29].
+• Staff engaged in waste management should wear PPE. Waste should be treated as infectious clinical waste
+Category B (UN3291) [30] and handled in accordance with healthcare facility policies and local regulations.
+Laboratory testing
+All specimens collected for laboratory investigation should be regarded as potentially infectious, and healthcare
+workers who collect or transport clinical specimens should adhere rigorously to standard precautions in order to
+minimise the possibility of exposure to pathogens. WHO’s aide-memoire on standard precautions in healthcare is
+available online [23].
+Laboratories should adhere to the guidance provided by The European Committee for Standardisation: CWA15793
+laboratory biorisk management [31] and WHO Laboratory testing for coronavirus disease 2019 (COVID-19) in
+suspected human cases [23].
+Long-term care facilities
+COVID-19 outbreaks in long-term care facilities can have devastating effect since the residents are already
+vulnerable due to their age and possible underlying health problems, meaning that there is a high likelihood of
+unfavourable outcomes [32,33].
+Long-term care facility administrators and healthcare administrators should implement the following measures for
+COVID-19 preparedness and infection prevention and control in long-term care facilities.
+Administrative measures
+• Consult with local health authorities regarding specific locally recommended measures.
+• Designate a team or at least one full-time staff member in each facility to be the lead for COVID-19
+preparedness and response at that facility. This person should:
+− be familiar with national/regional advice on preparedness and requirements for reporting of residents
+with symptoms compatible with COVID-19;
+− be aware of the preferred minimum requirements for the management of residents with symptoms
+compatible with COVID-19: a single room with dedicated bathroom; staff adequately trained in hand
+hygiene and the use of PPE; availability of appropriate PPE and hand hygiene products, and appropriate
+cleaning and waste management procedures;
+− be responsible for ensuring that all staff are trained in IPC, including hand hygiene;
+− ensure that the facility has a sufficient number of hand washing facilities;
+− update business continuity plans, if staff members become ill or have to self-isolate;
+− monitor local and national public health sources to understand COVID-19 activity in their community.
+• Designate a contact point (e.g. a liaison nurse for IPC) responsible for IPC training (including hand hygiene
+and standard precautions) of all those who work in the long-term care facility, including staff.
+• Provide signs at all entrances describing the symptoms compatible with COVID-19 (fever, cough, shortness of
+breath) [34], informing visitors with any of these symptoms not to enter the long-term care facility.
+• Ensure that all people at the long-term care facility and all those who enter the facility practice appropriate
+hand hygiene measures – i.e. they should use soap and water, or alcohol-based hand rub.
+• Assess new and returning residents for symptoms compatible with COVID-19; implement IPC practices for
+symptomatic residents (see ‘Management of residents’ below). Consider monitoring all residents on a daily basis
+for symptoms (e.g. measure body temperature).
+• Ensure that staff who have symptoms compatible with COVID-19 do not come to work and contact a pre-
+designated telephone number or contact point at the long-term care facility to inform of their symptoms.
+• Recommend that long-term care facility residents consider, if applicable, reducing their use of transportation
+methods with potentially large numbers of close contacts and consider minimising attendance at non-
+essential public events.
+• Consider restricting non-essential visits and implementing physical distancing measures, whilst balancing the
+need of the residents for care and social contact.
+• Ensure that staff with symptoms of respiratory infection stop work and self-isolate.
+• If feasible, long-term care facilities should consider identifying dedicated staff to care for residents with
+suspected/confirmed COVID-19 in order to reduce the likelihood of transmission to other residents.
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+7
+• Establish contact with external public health teams and IPC practitioners (such as local authorities and/or
+hospitals) that can provide additional advice on IPC. The long-term care facility should seek their advice to
+calculate its need for PPE and related materials and products.
+• Provide IPC training to all staff. All long-term care facility staff should follow rigorous hand hygiene practices,
+as outlined in WHO guidance for hand hygiene in outpatient and home-based care and long-term care
+facilities [35].
+• Ensure that all people at the long-term care facility are aware of hand and respiratory hygiene, including
+cough etiquette [34].
+• If possible, make alcohol-based hand rub available in every resident’s room, both inside and outside the
+room, and in all public areas [34]. If there is a shortage of alcohol-based hand rub, prioritise availability at
+the point-of-care.
+• Ensure that soap dispensers and paper towels are available for hand washing [34]. If no paper towels are
+available, use clean cloth towels and replace them frequently [36].
+Management of residents with symptoms of COVID-19
+• If a resident in a long-term care facility displays clinical signs or symptoms of COVID-19, contact public health
+authorities/healthcare services for notification, assessment and instructions on testing and possible transfer to
+an acute care hospital.
+• Residents displaying signs or symptoms of COVID-19 that do not require hospitalisation should be isolated in
+single rooms with a separate bathroom. If there are more than a few cases, consider placing the residents in
+a separate ward or section of the facility with dedicated staff.
+• Ensure that all long-term care facility staff are aware of the residents displaying symptoms compatible with
+COVID-19 or having tested positive for the disease.
+• If appropriate, consider posting information detailing IPC precautions on the doors of all residents’ rooms,
+especially in those areas that have suspected or confirmed COVID-19 cases.
+• Healthcare and other workers coming into contact with residents who have respiratory infections should wear
+a surgical mask or an FFP2 respirator if available, eye protection (i.e. visor or goggles), a gown and gloves
+[19].
+• Healthcare workers should strictly follow the procedures for putting on (donning) and safely removing
+(doffing) PPE in the correct sequence [19].
+• Hands should be washed immediately after removing PPE.
+Environmental cleaning and waste management
+• Regular cleaning followed by disinfection is recommended. Cleaning personnel should use hospital
+disinfectants active against viruses for all common care facility areas and residents’ rooms (furniture and
+frequently touched surfaces). If there is a shortage of hospital disinfectants, surfaces may be decontaminated
+with 0.05% sodium hypochlorite (dilution 1:100 if household bleach at an initial concentration of 5% is used)
+after cleaning with a neutral detergent. However, it should be noted that no data are available on the
+effectiveness of this approach against SARS-CoV-2. Surfaces that do not tolerate sodium hypochlorite may be
+cleaned with a neutral detergent, followed by a 70% concentration of ethanol [29].
+• Staff engaged in waste management should wear PPE. Waste should be treated as infectious clinical waste
+Category B (UN3291) [30] and handled in accordance with healthcare facility policies and local regulations.
+Contributing ECDC experts (in alphabetical order)
+Agoritsa Baka, Orlando Cenciarelli, Emilie Finch, Tommi Karki, Pete Kinross, Diamantis Plachouras, Carl Suetens.
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+8
+Rational use of PPE and hand hygiene materials for the care
+and management of COVID-19 patients
+As of March 2020, countries worldwide affected by COVID-19 have been experiencing difficulties in accessing
+personal protective equipment (PPE) and hand hygiene materials [37]. This has been identified as an immediate
+priority at EU level, and a joint procurement process has been launched by the European Commission for
+interested EU Member States to ensure adequate production and supply of PPE for healthcare workers and
+patients. Coordinated supply chains for PPE should ensure distribution of such materials to healthcare systems in
+order to reduce the potential of healthcare-associated transmission to vulnerable groups and healthcare workers
+[16].. Cross-border shipments of supplies and donations to highly affected areas should continue in order to reduce
+the overall risk of infection in EU/EEA countries.
+This document highlights best practices for PPE usage and options for hospitals and long-term care facilities with
+limited access to PPE materials. The main priorities for rational use identified in this document are aligned with
+detailed guidance published by WHO in February 2020 [16].
+In order to maximise the use of available PPE in the event of insufficient stocks, staff should be allocated to
+perform a procedure, or set of procedures, in designated areas. For example, respiratory tract diagnostic sample
+collection should be carried out in a dedicated area by one staff member who could then use the same PPE for
+several hours. Placing of COVID-19 cases in separate designated areas of a hospital, or even in dedicated
+hospitals, should be considered, to minimise PPE stock requirements [26].
+Priorities for use of respirators (FFP2/3)
+• The highest priority is for healthcare workers, most particularly those performing AGP, including tracheal
+intubation, bronchial suctioning, bronchoscopy, and sputum induction.
+• Respirators can be used for 4–6 hours for multiple patients without removing them [16], unless the respirator
+is damaged, soiled or contaminated (for example, a symptomatic suspected case coughing directly onto a
+respirator).
+• In the absence of FFP2/3 respirators, healthcare workers should use masks with the highest available filter
+level.
+Priorities for use of surgical masks
+• If no respirators are available, the highest priority for the use of surgical masks is those caring for COVID-19
+patients.
+• The next highest priority is for symptomatic confirmed cases of COVID-19, followed by suspected cases.
+Priorities for use of alcohol-based hand rub
+• Prioritise rigorous hand-washing practices using water and soap and ensure access to hand-washing facilities.
+• If alcohol-based hand rub is not available, the highest priority is at the point-of-care, prioritising confirmed
+cases. If sufficient stocks of alcohol-based hand rub are available, place the rub in communal areas with high
+footfall outside of designated COVID-19 areas.
+Priorities for use of other PPE and hand hygiene products
+• If insufficient quantities of gowns are available, use aprons.
+• If insufficient quantities of goggles and/or visors are available for the recommended use described, use
+products that can be decontaminated, if available. Otherwise, consider decontamination and reuse, consulting
+the guidelines of the manufacturer.
+• Regular cleaning is recommended followed by disinfection, using hospital disinfectants active against viruses,
+for rooms accessed by patients/residents, furniture and frequently touched surfaces. In the event of
+shortages of hospital disinfectants, surfaces may be decontaminated using 0.05% sodium hypochlorite
+(dilution 1:100 if household bleach at an initial concentration of 5% is used) after cleaning with a neutral
+detergent, although no data are available on the effectiveness of this approach against COVID-19 [22].
+Surfaces that may become damaged by sodium hypochlorite can be cleaned with a neutral detergent followed
+by a 70% concentration of ethanol [29].
+• In long-term care facilities with insufficient quantities of paper towels, use clean cloth towels and replace
+them frequently, washing them with a detergent such as household washing powder [36].
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+9
+References
+1. European Centre for Disease Prevention and Control (ECDC). Infection prevention and control for COVID-19
+in healthcare settings 2020 [updated 12 March 2020; cited 26 March 2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-infection-prevention-and-control-
+healthcare-settings-march-2020.pdf.
+2. European Centre for Disease Prevention and Control (ECDC). COVID-19 [cited 8 March 2020]. Available from:
+https://www.ecdc.europa.eu/en/novel-coronavirus-china.
+3. World Health Organization (WHO). Coronavirus disease (COVID-19) outbreak 2020. Available from:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+4. European Centre for Disease Prevention and Control (ECDC). Coronavirus disease 2019 (COVID-19)
+pandemic: increased transmission in the EU/EEA and the UK – seventh update 2020 [updated 25 March 2020;
+cited 26 March 2020]. Available from: https://www.ecdc.europa.eu/sites/default/files/documents/RRA-
+seventh-update-Outbreak-of-coronavirus-disease-COVID-19.pdf
+5. World Health Organization (WHO). Report of the WHO-China Joint Mission on Coronavirus Disease 2019
+(COVID-19) 2020 [cited 1 March2020]. Available from: https://www.who.int/docs/default-
+source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
+6. Istituto Superiore di Sanita' (ISS). Sorveglianza Integrata COVID-19 in Italia 2020 [updated 26 March 2020;
+cited 26 March 2020]. Available from:
+https://www.epicentro.iss.it/coronavirus/bollettino/Infografica_26marzo%20ITA.pdf
+7. Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G, Wallrauch C, et al. Transmission of 2019-nCoV
+infection from an asymptomatic contact in Germany. New England Journal of Medicine. 2020.
+8. Ong SWX, Tan YK, Chia PY, Lee TH, Ng OT, Wong MSY, et al. Air, surface environmental, and personal
+protective equipment contamination by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from
+a symptomatic patient. JAMA. 2020.
+9. Smith JD, MacDougall CC, Johnstone, Copes RA, Schwartz B, Garber GE. Effectiveness of N95 respirators
+versus surgical masks in protecting healthcare workers from acute respiratory infection: a systematic review
+and meta-analysis. Cmaj. 2016;188(8):567-74.
+10. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol generating procedures and risk of transmission
+of acute respiratory infections to healthcare workers: a systematic review. PLoS One. 2012;7(4):e35797.
+11. Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et al. Substantial undocumented infection facilitates the rapid
+dissemination of novel coronavirus (SARS-CoV2). Science. 2020:eabb3221.
+12. World Health Organization (WHO). Infection prevention and control during healthcare when novel coronavirus
+(nCoV) infection is suspected. Interim Guidance Geneva2020 [cited 8 March2020]. WHO/2019-
+nCoV/IPC/v2020.1. Available from: https://www.who.int/publications-detail/infection-prevention-and-control-
+during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected
+13. US Centers for Disease Control and Prevention (CDC). Interim Infection Prevention and Control
+Recommendations for Patients with Confirmed Coronavirus Disease 2019 (COVID-19) or Persons Under
+Investigation for COVID-19 in Healthcare Settings 2020 [updated 21 February 2020; cited 8 March2020].
+Available from: https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-
+recommendations.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-
+ncov%2Fhcp%2Finfection-control.html
+14. Public Health England (PHE). COVID-19: infection prevention and control guidance 2020 [updated 6 March
+2020; cited 8 March2020]. Available from: https://www.gov.uk/government/publications/wuhan-novel-
+coronavirus-infection-prevention-and-control/wuhan-novel-coronavirus-wn-cov-infection-prevention-and-
+control-guidance
+15. European Centre for Disease Prevention and Control. Case definition and European surveillance for COVID-19,
+as of 2 March 2020 Stockholm: ECDC; 2020. Available from: https://www.ecdc.europa.eu/en/case-definition-
+and-european-surveillance-human-infection-novel-coronavirus-2019-ncov
+16. World Health Organization (WHO). Rational use of personal protective equipment for coronavirus disease
+2019 (COVID-19) 2020 [updated 27 February 2020; cited 8 March2020]. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/331215/WHO-2019-nCov-IPCPPE_use-2020.1-eng.pdf
+17. US Centers for Disease Control and Prevention (CDC). Interim Guidance for Public Health Personnel
+Evaluating Persons Under Investigation (PUIs) and Asymptomatic Close Contacts of Confirmed Cases at Their
+Home or Non-Home Residential Settings 2020. Available from: https://www.cdc.gov/coronavirus/2019-
+ncov/php/guidance-evaluating-pui.html
+18. World Health Organization (WHO). Infection prevention and control of epidemic-and pandemic prone acute
+respiratory infections in health care. WHO guidelines 2014 [17 January 2020]. Available from:
+https://www.who.int/csr/bioriskreduction/infection_control/publication/en/
+19. European Centre for Disease Prevention and Control (ECDC). Guidance for wearing and removing personal
+protective equipment in healthcare settings for the care of patients with suspected or confirmed COVID-19
+2020 [cited 8 March 2020]. Available from: https://www.ecdc.europa.eu/en/publications-data/guidance-
+wearing-and-removing-personal-protective-equipment-healthcare-settings
+ECDC TECHNICAL REPORT Infection prevention and control for COVID-19 in healthcare settings
+10
+20. Toner E, Waldhorn R. What US Hospitals Should Do Now to Prepare for a COVID-19 Pandemic: Clinicians'
+Biosecurity News; 2020 [cited 10 March 2020]. Available from:
+http://www.centerforhealthsecurity.org/cbn/2020/cbnreport-02272020.html
+21. US Centers for Disease Control and Prevention (CDC). Interim Guidance for Healthcare Facilities: Preparing
+for Community Transmission of COVID-19 in the United States [cited 11 March2020]. Available from:
+https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/guidance-hcf.html
+22. European Centre for Disease Prevention and Control (ECDC). Checklist for hospitals preparing for the
+reception and care of coronavirus 2019 (COVID-19) patients 2020 [cited 11 March2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-checklist-hospitals-preparing-reception-
+care-coronavirus-patients.pdf
+23. World Health Organization (WHO). Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected
+human cases 2020 [updated 2 March 2020; cited 8 March 2020]. Available from:
+https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-in-suspected-human-
+cases-20200117
+24. Surviving Sepsis Campaign: Guidelines on the Management of Critically Ill Adults with Coronavirus Disease
+2019 (COVID-19). Intensive Care Med. 2020. [publication pending]
+25. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol generating procedures and risk of transmission
+of acute respiratory infections to healthcare workers: a systematic review. PLoS One. 2012;7(4):e35797-e.
+26. European Centre for Disease Prevention and Control (ECDC). Personal protective equipment (PPE) needs in
+healthcare settings for the care of patients with suspected or confirmed novel coronavirus (2019-nCoV) 2020
+[cited 11 March 2020]. Available from: https://www.ecdc.europa.eu/sites/default/files/documents/novel-
+coronavirus-personal-protective-equipment-needs-healthcare-settings.pdf
+27. World Health Organization (WHO). Report of the WHO-China Joint Mission on Coronavirus Disease 2019
+(COVID-19) 2020 [cited 11 March 2020]. Available from: https://www.who.int/docs/default-
+source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
+28. European Centre for Disease Prevention and Control (ECDC). Novel coronavirus (SARS-CoV-2) - Discharge
+criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end
+home isolation? [cited 11 March 2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf
+29. European Centre for Disease Prevention and Control. Disinfection of environments in healthcare and non
+healthcare settings potentially contaminated with SARS-CoV-2 Stockholm: ECDC; 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/Environmental-persistence-of-SARS_CoV_2-virus-
+Options-for-cleaning2020-03-26_0.pdf
+30. World Health Organization (WHO). Guidance on regulations for the Transport of Infectious Substances 2013–
+2014. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/78075/WHO_HSE_GCR_2012.12_eng.pdf
+31. CEN Workshop agreement. CWA 15793 - Laboratory biorisk management 2011 [cited 8 March 2020].
+Available from: https://www.uab.cat/doc/CWA15793_2011
+32. Symptomatic and Presymptomatic SARS-CoV-2 Infections in Residents of a Long-Term Care Skilled Nursing
+Facility — King County, Washington, March 2020. MMWR Morb Mortal Wkly. 2020.
+33. World Health Organization (WHO). Infection Prevention and Control guidance for Long-Term Care Facilities in
+the context of COVID-19, Interim Guidance: WHO; 2020. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/331508/WHO-2019-nCoV-IPC_long_term_care-2020.1-
+eng.pdf
+34. US Centers for Disease Control and Prevention (CDC). Strategies to Prevent the Spread of COVID-19 in Long-
+Term Care Facilities (LTCF) 2020 [updated 1 Mach 2020; cited 8 March 2020]. Available from:
+https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-
+facilities.html
+35. World Health Organization (WHO). Hand Hygiene in Outpatient and Home-based Care and Long-term Care
+Facilities 2012 [cited 8 March 2020]. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/78060/9789241503372_eng.pdf?sequence=1
+36. World Health Organization (WHO). Home care for patients with suspected novel coronavirus (nCoV) infection
+presenting with mild symptoms and management of contacts 2020 [updated 4 February 2020; cited 8 March
+2020]. Available from: https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-
+coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts
+37. World Health Organization (WHO). Shortage of personal protective equipment endangering health workers
+worldwide 2020 [updated 3 March 2020; cited 11 March 2020]. Available from: https://www.who.int/news-
+room/detail/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide
+

@@ -1,6 +1,10 @@
 # European Union
 
 
+## 2020-03-31
+
+* [Infection-prevention-control-for-the-care-of-patients-with-2019-nCoV-healthcare-settings\_update-31-March-2020.pdf](4bbaa2c1d812a9110bd3057a0395b8826eadf6ac/file.pdf) @08:45 GMT
+
 ## 2020-03-26
 
 * [covid-19-social-distancing-measuresg-guide-second-update.pdf](aa0eab71c2e5de4dde250cfa14c6783715a2cdba/file.pdf) @12:05 GMT

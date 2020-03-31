@@ -1,0 +1,26 @@
+{
+    "filename": "Infection-prevention-control-for-the-care-of-patients-with-2019-nCoV-healthcare-settings_update-31-March-2020.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Infection-prevention-control-for-the-care-of-patients-with-2019-nCoV-healthcare-settings_update-31-March-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585649837,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "478813",
+        "date": "Tue, 31 Mar 2020 10:17:17 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"74e5d-5a222977c5180\"",
+        "last-modified": "Tue, 31 Mar 2020 08:45:37 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "773067914 763250205",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 ce730d33091c8015848f9f46f438eab3.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "LHR3-C2",
+        "x-amz-cf-id": "cSrcv7Gcgxzi-G_5GlH_jAAjpX84_ocdEDrmndBh92FqBb9X0YldFA==",
+        "age": "225"
+    },
+    "lang": "en",
+    "size": 478813,
+    "modified": 1585644337
+}
