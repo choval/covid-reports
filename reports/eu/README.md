@@ -1,6 +1,10 @@
 # European Union
 
 
+## 2020-04-01
+
+* [Overview-rapid-test-situation-for-COVID-19-diagnosis-EU-EEA.pdf](978a07aa8a56260d847d2309b9b5a28296a45cda/file.pdf) @12:57 GMT
+
 ## 2020-03-31
 
 * [Home-care-of-COVID-19-patients-2020-03-31.pdf](1bf771e00a7f681d9ac3045c90d25c4356a65038/file.pdf) @17:56 GMT

@@ -1,6 +1,12 @@
 # Chile
 
 
+## 2020-04-01
+
+* [Informe\_15\_COVID\_19\_Chile.pdf](4bc1ec94dc08289fba003e642500b8b271364f5d/file.pdf) @14:38 GMT
+* [Informe\_17\_COVID\_19\_Chile.pdf](8d6d44e08115bedf300a6582bd83d7823c1bf72a/file.pdf) @14:38 GMT
+* [Informe\_16\_COVID\_19\_Chile.pdf](0cd0516d7d9b01c7c8fa30d4061dfc6f2f990625/file.pdf) @14:37 GMT
+
 ## 2020-03-31
 
 * [EPP.pdf](535950a7826dd3e04b1403ba03a3e2bddd0255ab/file.pdf) @20:06 GMT

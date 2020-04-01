@@ -1,6 +1,10 @@
 # Mexico
 
 
+## 2020-04-01
+
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.31.pdf](f1da954a18897eb0af64697cf079015453176114/file.pdf) @00:55 GMT
+
 ## 2020-03-31
 
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.30.pdf](a23b50f97e97ec0d143c567c73bc90025856db3f/file.pdf) @00:48 GMT

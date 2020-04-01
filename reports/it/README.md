@@ -1,12 +1,18 @@
 # Italy
 
 
+## 2020-04-01
+
+* [Infografica\_1aprile ENG.pdf](5b1a29e2a033a83ac38984fb6ffd2dd40da0ce57/file.pdf) @17:37 GMT
+* [Infografica\_1aprile ITA.pdf](a70c3d7d9c9aadc7468f0299f039a80bdabd40a2/file.pdf) @17:37 GMT
+
 ## 2020-03-31
 
 * [C\_17\_notizie\_4365\_1\_file.pdf](b6022e4a107a6c3ad892e61233f251d370bde571/file.pdf) @21:02 GMT
 * [C\_17\_notizie\_4365\_0\_file.pdf](700a3a7e969ddd38f744c22ceec10578ded0c2b1/file.pdf) @20:56 GMT
 * [C\_17\_notizie\_4370\_1\_file.pdf](ae829237a0b82fa3bf030eae36350863c738748a/file.pdf) @20:54 GMT
 * [C\_17\_notizie\_4370\_0\_file.pdf](c7c42e07fca943628d2b22e4949edb5304f8a241/file.pdf) @20:54 GMT
+* [2020.03.31\_Comunicato\_EMA\_su\_farmaci\_e\_vaccini\_in\_sviluppo\_contro\_COVID-19.pdf](c3d544b653b6409fbc9d089c78197679cee59f9a/file.pdf) @16:56 GMT
 * [Report-COVID-2019\_30\_marzo.pdf](94c1b59873a962fd0d71609047875c74ba52de27/file.pdf) @16:53 GMT
 * [Report-COVID-2019\_30\_marzo\_eng.pdf](cad82d7f18e05fe86a3526d7c7e13ffa82b4a743/file.pdf) @16:50 GMT
 * [Infografica\_31marzo ENG.pdf](d53df91e0a15c3c7403646b04cbf69bcda576abe/file.pdf) @15:42 GMT

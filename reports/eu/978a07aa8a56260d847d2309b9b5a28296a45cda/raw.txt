@@ -1,0 +1,102 @@
+Suggested citation: European Centre for Disease Prevention and Control. An overview of the rapid test situation for COVID-19
+diagnosis in the EU/EEA. 1 April 2020. Stockholm: ECDC; 2020.
+© European Centre for Disease Prevention and Control. Stockholm, 2020.
+TECHNICAL REPORT
+An overview of the rapid test situation
+for COVID-19 diagnosis in the EU/EEA
+1 April 2020
+Introduction
+According to EU recommendations [1], timely and accurate COVID-19 laboratory testing is an essential part of the
+management of COVID-19 for slowing down the pandemic, supporting decisions on infection control strategies and
+patient management at healthcare facilities, and detecting asymptomatic cases that could spread the virus further
+if not isolated.
+Wider testing is crucial for COVID-19 control
+ECDC and the World Health Organization (WHO) currently recommend COVID-19 diagnosis by molecular tests
+which detect the SARS-CoV-2 virus RNA. This is generally the current test strategy in Member States. However,
+these tests require well-equipped laboratory facilities, highly skilled technologists and multiple reagents. Currently,
+infrastructure limitations and supply shortages are limiting testing capacity below the growing demand for COVID-
+19 diagnostics across the EU. Therefore, access to reliable rapid diagnostic tests, in particular rapid antigen tests
+for COVID-19, could alleviate the pressure on laboratories and expand testing capacity to meet the most urgent
+medical and public health needs.
+What COVID-19 rapid tests are available in
+the EU?
+Rapid tests are qualitative or semi-quantitative in vitro diagnostics (IVDs), used singly or in a small series, which
+involve non-automated procedures and have been designed to give a fast result [2]. For COVID-19, rapid tests
+may take around 10-30 minutes until giving a result compared with about four hours for molecular tests done in
+large series, or more if samples must be transported to a distant testing laboratory. These rapid tests are relatively
+simple to perform and interpret and therefore require limited test operator training. They may be intended either
+for use in hospital laboratories or near the point-of-care.
+There are two types of COVID-19 rapid tests currently in use or in development: direct SARS-CoV-2 antigen
+detection and indirect antibody detection tests. Antigen detection tests detect viral components present during the
+infection in samples like nasopharyngeal secretions. Antibody tests detect the antibodies that later appear in serum
+as part of the immune response against the virus.
+TECHNICAL REPORT An overview of the rapid test situation for COVID-19 diagnosis in the EU/EEA
+2
+Rapid antigen tests: The non-governmental organisation FIND (https://www.finddx.org/) lists ten CE-marked
+rapid SARS-CoV-2 antigen detection tests, meaning they conform with the relevant EU legislation, Directive
+98/79/EC on IVDs. However, they are not necessarily available to purchase on the EU market as the manufacturer
+may mark them for third-country markets or there may not be distributors selling these devices in all Member
+States. Reports from competent authorities of 18 European countries indicate three such CE-marked devices as of
+26 March 2020.
+Rapid antibody tests: In addition, there are many (over 60) CE-marked rapid SARS-CoV-2 antibody tests and
+more continue to be placed on the market. Research groups have also developed and are validating in-house
+antibody detection tests for SARS-CoV-2 [3, 4] which may serve as potential platforms for commercial tests in the
+near future. It should be underlined that SARS-CoV-2 antibody detection tests have limited usefulness for early
+COVID-19 diagnosis as it can take 10 days or more after onset of symptoms for patients to become positive for
+detectable antibodies [3,4], and because the antibodies persist long after the infection has cleared.
+Are all CE-marked COVID-19 rapid tests
+ready to use in routine diagnostics?
+According to IVD Directive 98/79/EC, to affix the CE-mark to COVID-19 diagnostic devices to be used by health
+professionals, the manufacturer has to specify device performance characteristics and self-declare conformity with
+the safety and performance requirements listed in the Directive. In contrast, self-tests intended to be used by
+patients themselves must also be assessed by a third party body (a notified body).
+The dedicated Commission working group of Member States competent authorities for IVD serves as a forum for
+continuous exchange of technical and regulatory information on IVDs including COVID-19 rapid tests. While the
+majority of CE-marked rapid tests are compliant with EU law, the group has identified several devices with
+fraudulent documentation, incomplete technical files or unsubstantiated claims. Some of those were sold as alleged
+self-tests. Several Member States have warned against the use of rapid self-tests or even prohibited them.
+For compliant CE-marked rapid diagnostic tests, their performance may vary in the routine testing laboratory in
+comparison with the performance study of the manufacturer done for the purposes of CE-marking. Rapid tests may
+also be less accurate and less sensitive than laboratory-performed diagnostic tests. Therefore, clinical validation of
+the diagnostic performance of rapid tests for COVID-19 in real-life should be carried out by comparison with a gold
+standard test in a sufficiently large number of target population subjects before introducing them into the routine
+as a stand-alone diagnostic test.
+WHO referral laboratories for COVID-19 are currently performing validation studies of commercial assays.
+European Commission and Member States are funding fast-track clinical validation studies of rapid diagnostic tests
+for COVID-19 by hospital laboratories in several EU Member States. Scientific publications of results should soon
+clarify the clinical performance and limitations of rapid diagnostic tests and indicate which tests can be used safely
+and reliably for specific medical or public health purposes. ECDC is working in close cooperation with the European
+Commission, Member State authorities, FIND (https://www.finddx.org/) and WHO on ongoing validation of these
+rapid tests and will inform the EU/EEA countries on results as soon as those are available.
+Once rapid tests are validated for a specific COVID-19 testing purpose they will be beneficial for pandemic control,
+subject to device production and distribution being rapidly scaled up to complement molecular tests and support
+decentralised testing capacity.
+The priorities for rapid testing in EU countries that are now dealing with community transmission should follow EU
+and WHO guidance on testing strategies [1, 5]. These include: testing people who are at risk of developing severe
+disease, patients with acute respiratory illness who require hospitalisation and advanced care for COVID-19,
+symptomatic health workers and the first symptomatic individuals in a closed setting such as prison or nursing care
+facility..
+ECDC recommends following the WHO technical guidance on testing the clinical specimens
+(https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance).
+ECDC’s advice for SARS-CoV-2 testing is available at: https://www.ecdc.europa.eu/en/novel-
+coronavirus/laboratory-support. ECDC will update its guidance when more information on validated rapid tests and
+evidence on their performance becomes available.
+TECHNICAL REPORT An overview of the rapid test situation for COVID-19 diagnosis in the EU/EEA
+3
+Internal contributors
+Eeva Broberg, Maria Keramarou, Csaba Ködmön, Katrin Leitmeyer, Angeliki Melidou and Marc Struelens
+Information on regulatory aspects of rapid diagnostic tests contributed by Olga Tkachenko, European Commission,
+Directorate-General for Health and Food Safety.
+References
+1. European Commission. EU Recommendations for testing strategies. 2020. Available here:
+https://ec.europa.eu/info/sites/info/files/covid19_-_eu_recommendations_on_testing_strategies_v2.pdf
+2. Official Journal of the European Union 2009/108/EC: Commission Decision of 3 February 2009 amending Decision
+2002/364/EC on common technical specifications for in vitro -diagnostic medical devices (notified under document
+number C(2009) 565). Available here: https://eur-lex.europa.eu/eli/dec/2009/108(1)/oj
+3. Okba N, Muller M, Li W, Wang C, Geurts vanKessel C, Corman V et al medRxiv 2020. SARS-CoV-2 specific antibody
+responses in COVID-19 patients. Available here: https://doi.org/10.1101/2020.03.18.20038059
+4. Amanat F, Nguyen T, Chromikova V, Strohmeier S, Stadlbauer D, Javier A et al. A serological assay to detect SARS-CoV-2
+seroconversion in humans. medRxiv 2020. Available here: https://doi.org/10.1101/2020.03.17.20037713
+5. World Health Organization. Laboratory testing strategy recommendations for COVID-19. March 2020. Available here:
+https://apps.who.int/iris/bitstream/handle/10665/331509/WHO-COVID-19-lab_testing-2020.1-eng.pdf
+

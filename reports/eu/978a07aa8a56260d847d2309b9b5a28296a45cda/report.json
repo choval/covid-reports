@@ -1,0 +1,26 @@
+{
+    "filename": "Overview-rapid-test-situation-for-COVID-19-diagnosis-EU-EEA.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/Overview-rapid-test-situation-for-COVID-19-diagnosis-EU-EEA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585762942,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "185406",
+        "date": "Wed, 01 Apr 2020 17:42:21 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"2d43e-5a23a3bdf8ed8\"",
+        "last-modified": "Wed, 01 Apr 2020 12:57:59 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "802385178 807835864",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 d16428714e022976873ccc980fdc1289.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "FRA53-C1",
+        "x-amz-cf-id": "Qfguq1wVZGz7lSNbiWiX-25ByQNqvwy1tiTUupWv7hQaTnniXJ1SLg==",
+        "age": "216"
+    },
+    "lang": "en",
+    "size": 185406,
+    "modified": 1585745879
+}

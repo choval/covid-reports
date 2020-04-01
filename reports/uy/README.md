@@ -1,6 +1,10 @@
 # Uruguay
 
 
+## 2020-04-01
+
+* [informe-situacion-relacion-coronavirus-covid-19-uruguay-del-31320](a660cc7aa072c251c76c461711d4506f94839400/file.pdf) @17:58 GMT
+
 ## 2020-03-31
 
 * [recomendaciones-para-pacientes-oncologicos-sobre-covid19](70bef2047f4d27c390e635298ee0f8a45d681a38/file.pdf) @21:07 GMT

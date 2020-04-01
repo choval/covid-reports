@@ -1,0 +1,27 @@
+{
+    "filename": "2020-03-30-tha-sitrep-37-covid19-th-final.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/searo\/thailand\/2020-03-30-tha-sitrep-37-covid19-th-final.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585763890,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "317837",
+        "date": "Wed, 01 Apr 2020 17:58:10 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Tue, 30 Jun 2020 17:58:10 GMT",
+        "last-modified": "Wed, 01 Apr 2020 07:46:13 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=2020-03-30-tha-sitrep-37-covid19-th-final.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "access-control-allow-origin": "*",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e28c193c96684df9ba36cf3fd8976708.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "AMS54-C1",
+        "x-amz-cf-id": "gF0EYMmhlg7sVhmwEHPghOSBAGeqAh-E8r8HP6X8y3lJunkkChZOqQ=="
+    },
+    "lang": "en,th",
+    "size": 317837,
+    "modified": 1585727173
+}

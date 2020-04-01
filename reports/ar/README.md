@@ -1,6 +1,11 @@
 # Argentina
 
 
+## 2020-04-01
+
+* [01-04-20\_reporte\_matutino\_covid\_19.pdf](e1fec39e75277dc0098ee22887b2b2b59d014810/file.pdf) @12:47 GMT
+* [31-03-20-reporte-vespertino-covid-19.pdf](e904050deb6829dbf56f32f3e0803e67d4631f11/file.pdf) @01:55 GMT
+
 ## 2020-03-31
 
 * [31-03-20\_reporte-matutino\_covid\_19.pdf](89514d5fdff2b8c6014b02353177a68967b6e325/file.pdf) @15:11 GMT

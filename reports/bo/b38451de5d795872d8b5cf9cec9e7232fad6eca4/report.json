@@ -1,0 +1,20 @@
+{
+    "filename": "4017-suben-a-107-los-casos-de-covid-19-en-el-pais-seis-pacientes-perecen-a-consecuencia-del-virus",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4017-suben-a-107-los-casos-de-covid-19-en-el-pais-seis-pacientes-perecen-a-consecuencia-del-virus",
+    "output": "file.pdf",
+    "downloaded": 1585762871,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 01 Apr 2020 17:45:31 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=5omqaedbrltoh31iv8g5it3obd; path=\/; secure; HttpOnly",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Wed, 01 Apr 2020 17:45:31 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 652193,
+    "modified": 1585762880
+}

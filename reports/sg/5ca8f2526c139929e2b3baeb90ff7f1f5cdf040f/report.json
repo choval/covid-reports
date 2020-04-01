@@ -1,0 +1,25 @@
+{
+    "filename": "EN_Infographic-Safe Distancing at Markets.pdf",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/safe-distancing-at-markets\/pdf\/en_infographic-safe-distancing-at-markets.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585763589,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1338273",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 01 Apr 2020 12:32:33 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"EN_Infographic-Safe Distancing at Markets.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=10574",
+        "date": "Wed, 01 Apr 2020 17:53:09 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1338273,
+    "modified": 1585744353
+}

@@ -1,6 +1,11 @@
 # Bolivia
 
 
+## 2020-04-01
+
+* [4017-suben-a-107-los-casos-de-covid-19-en-el-pais-seis-pacientes-perecen-a-consecuencia-del-virus](b38451de5d795872d8b5cf9cec9e7232fad6eca4/file.pdf) @17:41 GMT
+* [4020-gobierno-reporta-115-casos-positivos-de-covid-19-y-autoriza-a-laboratorios-publicos-y-privados-realizar-pruebas-de-diagnostico](8d0afd36da4086b670fc5396b3bdcc4c35479c8a/file.pdf) @17:41 GMT
+
 ## 2020-03-31
 
 * [comunicado-salud-solicita-investigacion-de-paciente-fallecido-por-coronavirus-en-la-paz](77ebbf6f60820c4ee743b1f6916ece09363d5878/file.pdf) @01:13 GMT

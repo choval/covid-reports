@@ -1,6 +1,10 @@
 # Norway
 
 
+## 2020-04-01
+
+* [2020.04.01---dagsrapport-covid-19-v2.pdf](3dc1b01ea3ad36c42b4d042096102783d45578ab/file.pdf) @12:03 GMT
+
 ## 2020-03-31
 
 * [covid19\_ukesrapport\_uke-13\_med-dato\_endelig.pdf](daf41720383e693c2ecb1c2fd76f4fa63f6676d3/file.pdf) @17:43 GMT
