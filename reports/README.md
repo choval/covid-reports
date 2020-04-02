@@ -11,7 +11,7 @@
 | [Ecuador](ec/README.md) | 2020-04-02 00:01 GMT | [77](ec/README.md) | 1 |
 | [European Union](eu/README.md) | 2020-04-01 12:57 GMT | [32](eu/README.md) | 1 |
 | [France](fr/README.md) | 2020-04-01 19:04 GMT | [8](fr/README.md) | 1 |
-| [Guatemala](gt/README.md) | 2020-04-02 01:46 GMT | [31](gt/README.md) | 1 |
+| [Guatemala](gt/README.md) | 2020-04-02 01:18 GMT | [31](gt/README.md) | 1 |
 | [India](in/README.md) | 2020-03-28 18:10 GMT | [9](in/README.md) | 1 |
 | [Italy](it/README.md) | 2020-04-02 14:09 GMT | [112](it/README.md) | 1 |
 | [Japan](jp/README.md) | 2020-04-02 11:40 GMT | [1119](jp/README.md) | 1 |

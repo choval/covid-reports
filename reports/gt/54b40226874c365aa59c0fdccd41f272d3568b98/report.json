@@ -2,13 +2,13 @@
     "filename": "usodemascarilla.pdf",
     "uri": "https:\/\/mspas.gob.gt\/index.php\/component\/jdownloads\/send\/489-establecimientos-de-salud\/3102-como-colocarse-usar-quitarse-y-desechar-una-mascarilla",
     "output": "file.pdf",
-    "downloaded": 1585791167,
+    "downloaded": 1585837504,
     "headers": {
         "http-status": 200,
-        "date": "Thu, 02 Apr 2020 07:36:56 GMT",
+        "date": "Thu, 02 Apr 2020 20:29:21 GMT",
         "server": "Apache",
         "x-powered-by": "PHP\/5.6.30",
-        "set-cookie": "UqZBpD3n3iPIDwJU9DmTlFmPQu8FptcZ=v1LuCGSe+Ciuj; Expires=Sat, 30-Mar-2030 18:11:04 GMT; Path=\/",
+        "set-cookie": "UqZBpD3n3iPIDwJU9DmTlFmPQu8FptcZ=v1LuCGSe+Ciuj; Expires=Sun, 31-Mar-2030 07:03:20 GMT; Path=\/",
         "cache-control": "private, max-age=0, must-revalidate, no-store",
         "content-disposition": "inline; filename=\"usodemascarilla.pdf\"",
         "last-modified": "Sat, 22 Feb 2020 04:08:57 GMT",
@@ -17,6 +17,6 @@
         "content-type": "application\/pdf"
     },
     "lang": "es",
-    "size": 1152045,
-    "modified": 1585791969
+    "size": 4904745,
+    "modified": 1582344537
 }
