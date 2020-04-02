@@ -1,5 +1,5 @@
 [InternetShortcut]
 URL="https://www.saude.gov.br/boletins-epidemiologicos"
-ORG=Brasil
+ORG=Brazil
 DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)\"[^>]*>[^<]*(covid|corona)/Uis"
 LANG=pt
