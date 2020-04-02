@@ -1,0 +1,28 @@
+{
+    "filename": "Cartaz-Geral-64x46cm.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/26\/Cartaz-Geral-64x46cm.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841462,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "231694",
+        "date": "Thu, 02 Apr 2020 15:31:02 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_64A0581FD479EC17DD599FE4C94C485C_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 26 Mar 2020 14:00:34 GMT",
+        "etag": "\"3890e-5a1c268a221c9\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4e7662dfcb550119d8d03c39a78ec2ea.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "StAbhUxTo-_q9kWKfjj5L1Ndfln7LIBKN_I-yuWbueZJke7lmJUWHQ=="
+    },
+    "lang": "pt",
+    "size": 231694,
+    "modified": 1585231234
+}

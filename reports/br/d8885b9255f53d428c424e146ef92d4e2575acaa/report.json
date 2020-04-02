@@ -1,0 +1,30 @@
+{
+    "filename": "2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf",
+    "uri": "https:\/\/coronavirus.saude.gov.br\/images\/pdf\/2020\/marco\/04\/2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841496,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "location": "http:\/\/portalarquivos2.saude.gov.br\/images\/pdf\/2020\/marco\/04\/2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf",
+        "date": "Thu, 02 Apr 2020 15:31:35 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1585841496.948.12863.476801; Path=\/; Secure; HttpOnly",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4147caa9bd44f24d893d2277818f3b16.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "QhFjZnwjcg1wCCye7gJC5RApG1gJiHZqzQLNECcMjTNaByh6Aa5l_g==",
+        "content-length": "492813",
+        "connection": "keep-alive",
+        "last-modified": "Thu, 19 Mar 2020 03:00:10 GMT",
+        "etag": "\"7850d-5a12c5ded0280\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "content-security-policy": "upgrade-insecure-requests"
+    },
+    "lang": "pt",
+    "size": 492813,
+    "modified": 1584586810
+}

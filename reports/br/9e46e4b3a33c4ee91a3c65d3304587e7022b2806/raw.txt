@@ -1,0 +1,1033 @@
+Protocolo
+de Manejo Clínico para o
+Novo Coronavírus
+(2019-nCoV)
+MINISTÉRIO DA SAÚDE
+Brasília – DF
+2020
+2020 Ministério da Saúde.
+Todos os direitos reservados. É permitida a reprodução parcial ou total desta obra desde que
+citada a fonte e que não seja para venda ou qualquer fim comercial. Venda proibida. Distribuição
+gratuita. A responsabilidade pelos direitos autorais de textos e imagens desta obra é da área
+técnica. A coleção institucional do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde
+do Ministério da Saúde: <www.saude.gov.br/bvs>.
+Tiragem: 1ª edição – 2020 – publicação eletrônica
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE
+Secretaria de Atenção Especializada à Saúde (SAES)
+Departamento de Atenção Hospitalar, Domiciliar e de Urgência (DAHU)
+Coordenação-Geral de Urgência (CGURG)
+Força Nacional do Sistema Único de Saúde (FN-SUS)
+Edifício PO700 – Quadra 701 – Lote D – 3º andar – Asa Norte
+CEP: 70.719-040, Brasília/DF
+Site: www.saude.gov.br
+Coordenação:
+Adriana Melo Teixeira (SAES/MS)
+Francisco de Assis Figueiredo (SAES/MS)
+Marcelo Oliveira Barbosa (SAES/MS)
+Organização:
+Angela Ribeiro Vargas
+Ana Cristina Nogueira Nunes Jansem Ferreira
+Pâmela Moreira Costa Diana
+Paula Maria Raia Eliazar
+Tarciana da Silva Suassuna
+Colaboração:
+Secretaria de Atenção Especializada à Saúde (SAES/MS):
+Bruna Pedrosa Vianna Bonelli
+Claúdio Claúdio Eugênio
+Cristiane Madeira Ximenes
+Mariana Henrique Mariano da Silva
+Maurício Euclydes de Lima e Borges
+Tiago Santos de Souza
+Secretaria de Atenção Primária em Saúde (SAPS/MS):
+Erno Harzheim
+Graziela Tavares
+Lucas Wollmann
+Otávio Pereira D’avila
+Paula Martina da Silva Araújo Nunes
+Secretaria de Vigilância em Saúde (SVS/MS):
+Daniela Buosi Rohlfs
+Júlio Henrique Rosa Croda
+Karla Freire Baêta
+Marcus Quito
+Rafael Buralli
+Rodrigo Lins Frutuoso
+Sirlene de Fátima Pereira
+Thaís Baraviera Dutra
+Victor Bertollo Gomes Porto
+Walquiria Aparecida Ferreira de Almeida
+Wanderson Kleber de Oliveira
+Agência Nacional de Vigilância Sanitária (Anvisa):
+Luciana Silva da Cruz de Oliveira
+Magda Machado de Miranda Costa
+Marcelo Felga de Carvalho
+Organização Pan-Americana da Saúde (Opas):
+Maria Almiron
+Revisão Técnica:
+Ailton Cezáreo Alves Júnior (Especialista em Pneumologia Sanitária - FIOCRUZ/MG)
+Júlio Henrique Rosa Croda (Médico Infectologista - SVS/MS)
+Leonardo Gomes Menezes (Médico - SAMU/PE)
+Nancy Cristina Junqueira Bellei (Médica Infectologista - UNIFESP/SP)
+Victor Bertollo Gomes Porto (Médico Infectologista - SVS/MS)
+Capa, projeto gráfico e diagramação:
+Thiago Mares Castellan (Nucom/SAES/MS)
+Sumário
+INTRODUÇÃO 5
+Caso suspeito 6
+DEFINIÇÕES OPERACIONAIS PARA 2019-nCoV 7
+Caso suspeito 7
+Caso provável de infecção humana 8
+Caso confirmado de infecção humana 8
+Caso descartado de infecção humana 8
+Caso excluído de infecção humana 8
+Terminologias complementares 8
+CARACTERÍSTICAS GERAIS SOBRE A INFECÇÃO
+PELO NOVO CORONAVÍRUS (2019-nCoV)
+9
+Descrição 9
+Agente etiológico 9
+Reservatório e modo de transmissão 9
+Período de incubação 10
+Período de transmissibilidade 10
+Suscetibilidade e imunidade 10
+Manifestações clínicas 11
+Complicações 11
+Diagnósticos 12
+ATENDIMENTO E TRATAMENTO 13
+Tabela 1 - Síndromes clínicas associadas a infecção por 2019-nCoV 14
+Manejo clínico de Síndrome Respiratória por novo Coronavírus (2019-nCoV) 15
+Terapia e monitoramento precoce de suporte 15
+Tratamento de insuficiência respiratória hipoxêmica e
+Síndrome do Desconforto Respiratório Agudo (SDRA)
+15
+Gerenciamento do choque séptico 16
+Prevenção de complicações 17
+Tabela 2 - Intervenções a serem implementadas para
+evitar complicações/agravos do paciente
+17
+Considerações especiais para gestantes 17
+MEDIDAS DE PREVENÇÃO E CONTROLE 18
+Implementação de precauções padrão 18
+Reconhecimento e classificação de pacientes com síndrome
+respiratória por novo Coronavírus (2019-nCOV)
+18
+Controle de infecção relacionado à assistência à saúde
+- Atendimento pré-hospitalar móvel de urgência e transporte
+interinstitucional de casos suspeitos ou confirmados
+- Atendimento ambulatorial, pronto atendimento e assistência hospitalar
+- Tabela 3 - Recomendação de medidas a serem implementadas para prevenção
+e controle da disseminação do novo Coronavírus (2019-nCoV)
+- Equipamentos de Proteção Individual
+- Isolamento
+- Processamento de produtos para saúde
+- Limpeza e desinfecção de superfícies
+- Processamento de roupas
+- Tratamento de resíduos
+19
+19
+20
+21
+22
+25
+25
+25
+26
+26
+NOTIFICAÇÃO 28
+Como Notificar ao Centro de Informações Estratégicas
+em Vigilância em Saúde (CIEVS)
+28
+REFERÊNCIAS 30
+5
+Introdução
+Em 22 de janeiro de 2020, foi ativado o Centro de Operações de Emergências
+em Saúde Pública para o novo Coronavírus (COE – nCoV), estratégia prevista no
+Plano Nacional de Resposta às Emergências em Saúde Pública do Ministério da
+Saúde.
+O novo Coronavírus (2019-nCoV) é um vírus identificado como a causa de um
+surto de doença respiratória detectado pela primeira vez em Wuhan, China.
+Desde 2005, o Sistema Único de Saúde (SUS) está aprimorando suas capacidades
+de responder às emergências por síndromes respiratórias, dispondo de planos,
+protocolos, procedimentos e guias para identificação, monitoramento e resposta
+às emergências em saúde pública.
+Diante da Emergência em Saúde Pública de Importância Nacional (ESPIN) por
+doença respiratória, causada pelo novo coronavírus (2019-nCoV) e considerando-
+-se as recomendações da Organização Mundial de Saúde (OMS), as equipes de
+vigilância dos estados e municípios, bem como quaisquer serviços de saúde, de-
+vem ficar alertas aos casos de pessoas com sintomatologia respiratória e que apre-
+sentam histórico de viagens para áreas de transmissão local nos últimos 14 dias.
+A vigilância epidemiológica de infecção humana pelo 2019-nCoV está sendo cons-
+truída à medida que a OMS consolida as informações recebidas dos países e
+novas evidências técnicas e científicas são publicadas. Deste modo, o documento
+apresentado está sendo estruturado com base nas ações já existentes para notifica-
+ção, registro, investigação, manejo e adoção de medidas preventivas, em analogia
+ao conhecimento acumulado sobre o SARS-CoV, MERS-CoV e 2019-nCoV, que
+nunca ocorreram no Brasil, além de Planos de Vigilância de Síndrome Respira-
+tória Aguda Grave (SRAG) e Síndrome Gripal (SG).
+Como toda normatização, este Protocolo está sujeito a ajustes decorrentes da sua
+utilização prática e das modificações do cenário epidemiológico. Ressalta-se que
+ele se aplica ao cenário epidemiológico brasileiro na atual fase, de acordo com as
+orientações da OMS.
+Os estados e municípios possuem planos de preparação para pandemia de in-
+fluenza e síndromes respiratórias. A maior parte dos procedimentos recomenda-
+dos estão previstos no capítulo de influenza do Guia de Vigilância Epidemiológi-
+ca, além de manuais e planos elaborados para preparação e resposta durante os
+eventos de massa. Antes de se considerar a possibilidade de ser um caso suspeito
+6
+de Coronavírus, recomenda-se descartar as doenças respiratórias mais comuns e
+adotar o protocolo de tratamento de influenza oportunamente para evitar casos
+graves e óbitos por doenças respiratórias conhecidas, quando indicado.
+Portanto, o SUS possui capacidade e experiência na resposta. Este documento visa
+ajustar algumas recomendações ao contexto específico desta emergência atual,
+com base nas informações disponibilizadas pela OMS diariamente e todo proce-
+dimento está suscetível às alterações necessárias.
+Objetivos
+Geral
+Orientar a Rede de Serviços de Atenção à Saúde do SUS para atuação na identi-
+ficação, notificação e manejo oportuno de casos suspeitos de Infecção Humana
+pelo Novo Coronavírus de modo a mitigar os riscos de transmissão sustentada
+no território nacional.
+Específicos
+• Atualizar os serviços de saúde com base nas evidências técnicas e científicas
+nacionais e/ou internacionais;
+• Evitar transmissão do vírus para profissionais de saúde e contatos próximos;
+• Evitar que os casos confirmados evoluam para o óbito, por meio de suporte
+clínico;
+• Orientar sobre a conduta frente aos contatos próximos;
+• Acompanhar a tendência da morbidade e da mortalidade associadas à doença;
+• Produzir e disseminar informações epidemiológicas.
+7
+Definições operacionais
+para 2019-nCoV
+Para um correto manejo clínico desde o contato inicial com os serviços de saúde, é
+preciso considerar e diferenciar cada caso. Abaixo seguem definições importantes:
+Caso Suspeito
+Situação 1: Febre1 E pelo menos um sinal ou sintoma respiratório (tosse, di-
+ficuldade para respirar, batimento das asas nasais entre outros) E histórico de
+viagem para área com transmissão local, de acordo com a OMS, nos últimos 14
+dias anteriores ao aparecimento dos sinais ou sintomas; OU
+Situação 2: Febre1 E pelo menos um sinal ou sintoma respiratório (tosse, di-
+ficuldade para respirar, batimento das asas nasais entre outros) E histórico de
+contato próximo de caso suspeito para o coronavírus (2019-nCoV), nos últimos
+14 dias anteriores ao aparecimento dos sinais ou sintomas; OU
+Situação 3: Febre1 OU pelo menos um sinal ou sintoma respiratório (tosse, di-
+ficuldade para respirar, batimento das asas nasais entre outros) E contato próximo
+de caso confirmado de coronavírus (2019-nCoV) em laboratório, nos últimos 14
+dias anteriores ao aparecimento dos sinais ou sintomas.
+Entende-se como contato próximo uma pessoa envolvida em qualquer uma das
+seguintes situações:
+1. Estar a dois metros de um paciente com suspeita de caso por 2019-nCoV,
+dentro da mesma sala ou área de atendimento (ou aeronaves ou outros meios
+de transporte), por um período prolongado, sem uso de equipamento de pro-
+teção individual.
+2. Cuidar, morar, visitar ou compartilhar uma área ou sala de espera de assis-
+tência médica ou, ainda, nos casos de contato direto com fluidos corporais,
+enquanto não estiver em uso do EPI recomendado.
+1 Febre pode não estar presente em alguns casos como, por exemplo, em pacientes jovens, idosos,
+imunossuprimidos ou que em algumas situações possam ter utilizado medicamento antitérmico. Nestas
+situações, a avaliação clínica deve ser levada em consideração e a decisão deve ser registrada na ficha de
+notificação.
+8
+Caso Provável de Infecção Humana
+Caso suspeito que apresente resultado laboratorial inconclusivo para 2019-nCoV
+OU com teste positivo em ensaio de pan-coronavírus.
+Caso Confirmado de Infecção Humana
+Indivíduo com confirmação laboratorial conclusiva para o novo Coronavírus
+(2019-nCoV), independente de sinais e sintomas.
+Caso Descartado de Infecção Humana
+Caso que se enquadre na definição de suspeito e apresente confirmação laborato-
+rial para outro agente etiológico OU resultado negativo para 2019-nCoV.
+Caso Excluído de Infecção Humana
+Caso notificado que não se enquadrar na definição de caso suspeito. Nessa situ-
+ação, o registro será excluído da base de dados nacional.
+Terminologias Complementares
+Transmissão local
+Definimos como transmissão local, a confirmação laboratorial de transmissão do
+2019-nCoV entre pessoas com vínculo epidemiológico comprovado. Os casos que
+ocorrerem entre familiares próximos ou profissionais de saúde de forma limita-
+da não serão considerados transmissão local. Até o momento, a única área com
+transmissão local é a China. As áreas com transmissão local serão atualizadas e
+disponibilizadas no site do Ministério da Saúde, no link: saude.gov.br/listacorona.
+9
+Características gerais sobre a infecção
+pelo novo Coronavírus (2019-nCoV)
+Descrição
+Os coronavírus causam infecções respiratórias e intestinais em humanos e ani-
+mais; sendo que a maioria das infecções por coronavirus em humanos são cau-
+sadas por espécies de baixa patogenicidade, levando ao desenvolvimento de sin-
+tomas do resfriado comum, no entanto, podem eventualmente levar a infecções
+graves em grupos de risco, idosos e crianças. Previamente a 2019, duas espécies
+de coronavírus altamente patogênicos e provenientes de animais (SARS e MERS)
+foram responsáveis por surtos de síndromes respiratórias agudas graves. Acerca
+da infecção humana pelo novo coronavírus (2019-nCoV), o espectro clínico não
+está descrito completamente bem como não se sabe o padrão de letalidade, morta-
+lidade, infectividade e transmissibilidade. Ainda não há vacina ou medicamentos
+específicos disponíveis e, atualmente, o tratamento é de suporte e inespecífico2.
+Agente Etiológico
+Trata-se de RNA vírus da ordem Nidovirales da família Coronaviridae. Os vírus
+da SARS-CoV, MERS-CoV e 2019-nCoV são da subfamília Betacoronavírus que
+infectam somente mamíferos; são altamente patogênicos e responsáveis por cau-
+sar síndrome respiratória e gastrointestinal. Além desses três, há outros quatro
+tipos de coronavírus que podem induzir doença no trato respiratório superior e,
+eventualmente inferior, em pacientes imunodeprimidos, bem como afetar espe-
+cialmente crianças, pacientes com comorbidades, jovens, e idosos.
+Reservatório e Modo de Transmissão
+Os coronavírus são uma grande família de vírus comuns em muitas espécies de
+animais, incluindo camelos, gado, gatos e morcegos. Raramente, os coronavírus
+animais podem infectar pessoas e depois se espalhar entre elas, como aconteceu
+com o MERS-CoV e SARS-CoV. No início, muitos dos pacientes com surtos de
+doenças respiratórias causados por 2019-nCov em Wuhan, na China, tinham
+alguma ligação com um grande mercado de frutos do mar e animais vivos, su-
+gerindo que a disseminação ocorreu de animais para pessoas. No entanto, um
+2 Síndrome Respiratória Aguda Grave (SRAG): indivíduo hospitalizado com febre, mesmo que
+referida, acompanhada de tosse ou dor de garganta e que apresente dispneia ou saturação de O2<95%
+ou desconforto respiratório ou que evoluiu para óbito por SRAG independente de internação.
+10
+número crescente de pacientes supostamente não teve exposição ao mercado de
+animais, indicando também a ocorrência de disseminação de pessoa para pessoa.
+As autoridades chinesas relatam que a disseminação sustentada de pessoa para
+pessoa está ocorrendo na China. Casos de transmissão pessoa-pessoa já foi re-
+latado em outros países, como Estados Unidos, Alemanha, Japão e Vietnã. A
+transmissão em instituições de saúde, como hospitais, também pode ocorrer, já
+tendo sido relatados casos na China e França.
+Quando da disseminação de pessoa para pessoa que ocorreu com MERS-
+CoV e SARS-CoV, acredita-se que tenha ocorrido principalmente por meio de
+gotículas respiratórias produzidas quando uma pessoa infectada tosse ou espirra,
+semelhante à maneira como a influenza e outros patógenos respiratórios se
+espalham. Tendo sido identificado também transmissão por aerossóis em
+pacientes submetidos a procedimentos de vias aéreas, como a intubação oro
+traqueal ou aspiração de vias aéreas. Na população, a disseminação de MERS-
+CoV e SARS-CoV entre pessoas geralmente ocorre após contatos próximos, sendo
+particularmente vulneráveis os profissionais de saúde que prestam assistência a
+esses pacientes. Nos surtos anteriores de SARS e MERS os profissionais de saúde
+representaram uma parcela expressiva do número de casos, tendo contribuído
+para amplificação das epidemias.
+É importante esclarecer para melhor entendimento quanto ao risco associado ao
+2019-nCoV, que a facilidade com que um vírus se espalha de pessoa para pessoa
+pode variar. Alguns vírus são altamente transmissíveis (como sarampo), enquanto
+outros são menos transmissíveis.
+Período de Incubação
+O período médio de incubação da infecção por coronavírus é de 5.2 dias, com
+intervalo que pode chegar até 12.5 dias.número crescente de pacientes suposta-
+mente não teve exposição ao mercado de animais, indicando também a ocorrência
+de disseminação de pessoa para pessoa.
+Período de Transmissibilidade
+A transmissibilidade dos pacientes infectados por SARS-CoV é em média de 7
+dias após o início dos sintomas. No entanto, dados preliminares do Novo Coro-
+navírus (2019-nCoV) sugerem que a transmissão possa ocorrer, mesmo sem o
+aparecimento de sinais e sintomas. Até o momento, não há informação suficiente
+que defina quantos dias anteriores ao início dos sinais e sintomas uma pessoa
+infectada passa a transmitir o vírus.
+11
+Suscetibilidade e Imunidade
+A suscetibilidade é geral, por ser um vírus novo. Quanto a imunidade, não se sabe
+se a infecção em humanos que não evoluíram para o óbito irá gerar imunidade
+contra novas infecções e se essa imunidade é duradoura por toda a vida. O que se
+sabe é que a projeção em relação aos números de casos está intimamente ligada
+a transmissibilidade e suscetibilidade.
+Manifestações Clínicas
+O espectro clínico da infecção por coronavírus é muito amplo, podendo variar de
+um simples resfriado até uma pneumonia severa. No entanto, neste novo coro-
+navírus não está estabelecido completamente o espectro, necessitando de mais
+investigações e tempo para caracterização da doença.
+Segundo os dados mais atuais, os sinais e sintomas clínicos referidos são prin-
+cipalmente respiratórios. O paciente pode apresentar febre, tosse e dificuldade
+para respirar. Em avaliação recente de 99 pacientes com pneumonia e diagnóstico
+laboratorial de 2019-nCoV internados no hospital de Wuhan, aponta-se maior taxa
+de hospitalização em maiores de 50 anos, sexo masculino. Os principais sintomas
+foram febre (83%), tosse (82%), falta de ar (31%), dor muscular (11%), confusão
+(9%), dor de cabeça (8%), dor de garganta (5%), rinorréia (4%), dor no peito (2%),
+diarréia (2%) e náusea e vômito (1%). Segundo exames de imagem, 74 pacien-
+tes (75%) apresentaram pneumonia bilateral, 14 pacientes (14%) apresentaram
+manchas múltiplas e opacidade em vidro fosco e 1 paciente (1%) evoluiu com
+pneumotórax. Também houve registros de linfopenia em outro estudo realizado
+com 41 pacientes diagnosticados com 2019-nCoV.
+Complicações
+As complicações mais comuns são Síndrome Respiratória Aguda Grave - SRAG
+(17-29%), lesão cardíaca aguda (12%) e infecção secundária (10%). A letalidade
+entre os pacientes hospitalizados variou entre 11% e 15%.
+Até o dia 04 de fevereiro de 2020, foram confirmados 20.630 casos de infecção
+por 2019-nCoV no mundo, sendo que 20.471 deles (99%) ocorreram na China
+continental, com uma letalidade de 2,1%. A Comissão Nacional de Saúde da
+China relatou os detalhes das primeiras 17 mortes: incluíram 13 homens e 4 mu-
+lheres, com idade média de 75 anos (intervalo de 48 a 89 anos). Febre (64,7%) e
+tosse (52,9%) foram os primeiros sintomas mais comuns nas mortes. A mediana
+de dias entre o primeiro sintoma e a morte foi de 14 dias (variação de 6-41 dias).
+12
+Diagnósticos
+Diagnóstico clínico
+O quadro clínico inicial da doença é caracterizado como síndrome gripal, no en-
+tanto, casos iniciais leves, subfebris, podem evoluir para elevação progressiva da
+temperatura e a febre ser persistente além de 3-4 dias, ao contrário do descenso
+observado nos caso de Influenza. O diagnóstico depende da investigação clínico-
+-epidemiológica e do exame físico.
+É recomendável que em todos os casos de síndrome gripal seja questionado o
+histórico de viagem para o exterior ou contato próximo com pessoas que tenham
+viajado para o exterior. Essas informações devem ser registradas no prontuário
+do paciente para eventual investigação epidemiológica.
+Diagnóstico laboratorial
+O diagnóstico laboratorial para identificação do vírus 2019-nCoV é realizado por
+meio das técnicas de RT-PCR em tempo real e sequenciamento parcial ou total
+do genoma viral. Outras informações importantes como: indicação e técnica de
+coleta, acondicionamento e envio das amostras estão descritas no tópico de Vigi-
+lância Laboratorial do Boletim Epidemiológico nº 2 que encontra-se disponível
+no Portal do Ministério da Saúde.
+Diagnóstico diferencial
+As características clínicas não são específicas e podem ser similares àquelas
+causadas por outros vírus respiratórios, que também ocorrem sob a forma
+de surtos e, eventualmente, circulam ao mesmo tempo, tais como influenza,
+parainfluenza, rinovírus, vírus sincicial respiratório, adenovírus, outros
+coronavírus, entre outros.
+13
+Atendimento e tratamento
+Até o momento não há medicamento específico para o tratamento da Infecção
+Humana pelo novo Coronavírus (2019-nCoV). No entanto, medidas de suporte
+devem ser implementadas.
+No atendimento, deve-se levar em consideração os demais diagnósticos
+diferenciais pertinentes e o adequado manejo clínico. Em caso de suspeita
+para Influenza, não retardar o início do tratamento com Fosfato de Oseltamivir
+nos pacientes com risco aumentado de complicações, conforme protocolo de
+tratamento de Influenza.
+Todos os pacientes que receberem alta durante os primeiros 07 dias do início do
+quadro (qualquer sintoma independente de febre), devem ser alertados para a
+possibilidade de piora tardia do quadro clínico e sinais de alerta de complicações
+como: aparecimento de febre (podendo haver casos iniciais afebris), elevação ou
+recrudescência de febre ou sinais respiratórios, taquicardia, dor pleurítica, fadiga,
+dispnéia.
+Casos suspeitos ou confirmados para 2019-nCoV que não necessitem de hospi-
+talização e o serviço de saúde opte pelo isolamento domiciliar, o médico poderá
+solicitar RX de tórax, hemograma e provas bioquímicas antes de serem dispensa-
+dos para o domicílio a depender da avaliação clínica do paciente. Estes pacientes
+deverão receber orientações de controle de infecção, prevenção de transmissão
+para contatos e sinais de alerta para possíveis complicações e um acesso por
+meio de comunicação rápida deve ser providenciado para eventuais dúvidas ou
+comunicados. A presença de qualquer sinal de alerta deverá determinar retorno
+e hospitalização imediata do paciente. Porém, é necessário avaliação de cada caso,
+considerando também se o ambiente residencial é adequado e se o paciente é
+capaz de seguir as medidas de precaução recomendadas pela equipe de saúde
+responsável pelo atendimento.
+Para os pacientes imunocomprometidos, recomenda-se hospitalização e avaliar
+possibilidade de repetir o PCR (teste molecular) antes da alta hospitalar ou even-
+tual transferência para quarto de enfermaria sem isolamento, devido a possibili-
+dade de excreção prolongada.
+Pacientes que necessitarem de internação prolongada por outras comorbidades,
+devem ter também PCR (teste molecular) repetidos para eventual liberação de
+isolamento, independente de ausência de febre e sintomas hospitalares.
+14
+Tabela 1. Síndromes Clínicas associadas à infecção por 2019-nCoV
+Doença não complicada
+Quadro compatível com infecção de vias aéreas superiores, sem sinais de desidratação,
+dispneia, sepse ou disfunção de órgãos.
+Os sinais e sintomas mais comuns são: febre, tosse, dificuldade para respirar, dor na
+garganta, congestão nasal, cefaleia, mal-estar e mialgia.
+Imunossuprimidos, idosos e crianças podem apresentar quadro atípico. Esses pacientes
+não apresentam sinais de desidratação, febre ou dificuldade para respirar.
+Pneumonia sem complicações
+Infecção do trato respiratório inferior sem sinais de gravidade.
+Criança sem pneumonia grave tem tosse ou dificuldade para respirar + respiração
+rápida:
+<2meses: ≥60irpm
+2 a 11 meses: ≥50irpm
+1 a 5 anos: ≥40 irpm
+Pneumonia grave
+Adolescente ou adulto: infecção do trato respiratório inferior com algum dos seguintes
+sinais de gravidade:
+frequência respiratória > 30 incursões por minuto; dispneia; SpO2 < 90% em ar
+ambiente; cianose; disfunção orgânica.
+Crianças com tosse ou dificuldade de respirar ainda podem ter como critérios de
+gravidade:
+uso de musculatura acessória para respiração; incapacidade ou recusa de se amamentar
+ou ingerir líquidos; sibilância ou estridor em repouso; vômitos incoercíveis;
+alteração do sensório (irritabilidade ou sonolência); convulsões.
+A frequência respiratória que denota gravidade em infantes dependerá da idade, a saber:
+<2meses: ≥60irpm
+2 a 11 meses: ≥50irpm
+1 a 5 anos: ≥40 irpm
+O diagnóstico é clínico. Imagens torácicas podem excluir complicações.
+Síndrome da Angústia Respiratória
+Aguda
+Início ou agravamento dos sintomas respiratórios, até 1 semana do aparecimento da
+doença.Pode ainda apresentar:alterações radiológicas (opacidades bilaterais,atelectasia
+lobar/pulmonar ou nódulos); edema pulmonar não explicado por insuficiência cardíaca
+ou hiper-hidratação; relação PaO2/FiO2 ≤ 300 mmHg – leve (entre 200-300 mmHg),
+moderada (entre 100-200 mmHg) e grave (abaixo de 100 mmHg).
+Sepse
+Síndrome da resposta inflamatória sistêmica com disfunção orgânica na presença
+de infecção presumida ou confirmada. São sinais frequentes de disfunção orgânica:
+alteração do nível de consciência, oligúria, taqui e/ou dispneia, baixa saturação de
+oxigênio, taquicardia, pulso débil, extremidades frias, coagulopatia, trombocitopenia,
+acidose, elevação do lactato sérico ou da bilirrubina.
+Choque Séptico
+Sepse acompanhada de hipotensão [pressão arterial média (PAM) < 65 mmHg] a
+despeito de ressuscitação volêmica adequada.
+Fonte: WORLD HEALTH ORGANIZATION. jan.2020
+Observação: Pacientes com pneumonia sem complicações ou pneumonia grave – hospitalização imediata após medidas iniciais
+de isolamento e avaliação clínica, de acordo com a evolução respiratória e/ou hemodinâmica (primeiras 4 horas) após oxige-
+nioterapia e hidratação. Avaliar necessidade de terapia intensiva (vide condições descritas no protocolo de influenza, disponível
+em: http://bvsms.saude.gov.br/bvs/publicacoes/protocolo_tratamento_influenza_2017.pdf.
+Pacientes com doença não complicada – hospitalização preferencialmente em leito de isolamento. Pacientes com comorbidades
+ou pertencentes a grupo de risco (vide influenza grupo) devem permanecer hospitalizados com avaliação clínica por pelo menos
+24 horas para posterior encaminhamento domiciliar caso seja este o fluxo hospitalar de atendimento adotado.
+15
+Manejo clínico de síndrome respiratória por novo Coronavírus
+(2019-nCoV)
+Terapia e monitoramento precoces de suporte
+• Administre oxigenoterapia suplementar imediatamente a pacientes com
+SRAG e dificuldade respiratória, hipoxemia ou choque.
+• Use tratamento conservador de fluidos em pacientes com SRAG quando não
+houver evidência de choque.
+• Dê antimicrobianos empíricos para tratar todos os patógenos prováveis que
+causam SRAG. Administre antimicrobianos dentro de uma hora da avaliação
+inicial de pacientes com sepse.
+• Não administre rotineiramente corticosteróides sistêmicos para tratamento
+de pneumonia viral ou SRAG fora dos ensaios clínicos, a menos que sejam
+indicados por outro motivo.
+• Monitore de perto os pacientes com SRAG quanto a sinais de complicações
+clínicas como insuficiência respiratória e sepse de progressão rápida e aplique
+intervenções de suporte imediatamente.
+• Entenda as comorbidades do paciente para atendimento individualizado
+e prognóstico. Mantenha uma boa comunicação com o paciente e seus
+familiares.
+Tratamento da insuficiência respiratória hipoxêmica e síndrome
+do desconforto respiratório agudo (SDRA).
+• Reconhecer desconforto respiratório grave mesmo quando oxigenioterapia
+ofertada em alto fluxo.
+• Instituir ventilação mecânica precocemente em pacientes com insuficiência
+respiratória hipoxêmica persistente (apesar da oxigenoterapia).
+• Considerar ventilação não invasiva (VNI) se desconforto respiratório leve,
+imunossupressão presente ou problemas cardiovasculares.
+• Proceder com intubação endotraqueal caso não haja resposta à VNI. O pro-
+cedimento deve ser realizado por um profissional treinado e experiente, uti-
+lizando precauções para aerossóis.
+• Implementar ventilação mecânica usando volumes correntes mais baixos (4-8
+ml / kg de peso corporal previsto, PBW) e pressões inspiratórias mais baixas
+(pressão de platô <30 cmH2O).
+16
+• Colocar pacientes com SDRA grave em posição prona pode melhorar a oxi-
+genação, mas deve ser garantida a segurança do paciente.
+• Adotar uma estratégia conservadora de gerenciamento de fluidos para pacien-
+tes com SDRA sem hipoperfusão tecidual.
+• Evitar que o paciente se desconecte do ventilador, o que resulta em perda
+de PEEP e atelectasia. Use cateteres em linha para sucção das vias aéreas e
+prenda o tubo endotraqueal quando for necessário desconectar (por exemplo,
+transferir para um ventilador de transporte).
+Gerenciamento do choque séptico
+• Reconhecer o choque séptico em adultos quando houver suspeita ou confir-
+mação de infecção e os vasopressores forem necessários para manter a pres-
+são arterial média (PAM) ≥65 mmHg E o lactato é ≥2 mmol / L, na ausência
+de hipovolemia.
+• Reconheça o choque séptico em crianças com qualquer hipotensão (pressão
+arterial sistólica [PAS] <5º centil ou> 2 DP abaixo do normal para a idade)
+ou 2-3 dos seguintes: estado mental alterado; taquicardia ou bradicardia (FC
+<90 bpm ou> 160 bpm em bebês e FC <70 bpm ou> 150 bpm em crianças);
+recarga capilar prolongada (> 2 s) ou vasodilatação quente com pulsos deli-
+mitadores; taquipnéia; pele manchada ou erupção petequial ou purpúrica;
+aumento de lactato; oligúria; hipertermia ou hipotermia.
+• Na ressuscitação do choque séptico em adultos, administre pelo menos 30 ml
+/ kg de cristalóide isotônico em adultos nas primeiras 3 horas. Na ressuscita-
+ção do choque séptico em crianças em locais com bons recursos, administre
+20 ml / kg em bolus rápido e até 40-60 ml / kg nas primeiras 1 horas.
+• Não use soluções hipotônicas ou baseadas em amidos para ressuscitação.
+• Administre vasopressores quando o choque persistir durante ou após a res-
+suscitação hídrica.
+• Se os cateteres venosos centrais não estiverem disponíveis, os vasopressores
+podem ser administrados por meio de um IV periférico, mas use uma veia
+grande e monitore de perto os sinais de extravasamento e necrose tecidual
+local. Se ocorrer extravasamento, pare a infusão. Os vasopressores também
+podem ser administrados através de agulhas intraósseas.
+• Considere administrar hidrocortisona intravenosa (até 200mg/dia) ou predni-
+solona (até 75mg/dia) em pacientes com choque persistente que necessitem
+de doses crescentes de vasopressores.
+17
+Prevenção de complicações
+Tabela 2. Intervenções a serem implementadas para evitar complicações/
+agravos do paciente.
+Resultado Antecipado Intervenções
+Reduzir dias de Ventilação
+Mecânica Invasiva
+Utilizar protocolos de desmame que incluam avaliação diária da capacidade respiratória
+espontânea.
+Minimizar a sedação, contínua ou intermitente, visando pontos finais de titulação
+específicos ou com interrupções diárias de infusões sedativas contínuas.
+Reduzir incidência de pneumonia
+associada à ventilação
+Prefira intubação oral à nasal e realize higiene oral regularmente.
+Mantenha o paciente em posição semireclinada.
+Use sistema de sucção fechado; drene periodicamente e descarte o condensado em
+tubulação.
+Utilize um novo circuito de ventilação para cada paciente; realize a troca sempre que
+estiver sujo ou danificado, mas não rotineiramente.
+Troque o umidificador quanto houver mau funcionamento, sujidades ou a cada 5-7 dias.
+Reduza o tempo de Ventilação mecânica invasiva.
+Reduzir incidência de
+tromboembolismo venoso
+Use profilaxia farmacológica em pacientes sem contraindicação. Se houver
+contraindicações, use profilaxia mecânica.
+Reduzir incidência de infecção
+sanguínea por catéter
+Adote uma lista simples de verificação para lembrete da data de inserção do catéter e
+sua remoção quando não for mais necessário.
+Minimizar ocorrência de úlceras de
+decúbito
+Promover mudança de decúbito a cada 2 horas
+Reduzir incidência de úlceras
+por estresse e sangramento
+gastrointestinal
+Ofertar nutrição enteral precoce (entre 24-48 horas da admissão)
+Administrar bloqueadores dos receptores de histamina-2 ou inibidores de bomba de
+prótons em pacientes com fatores para sangramento gastrointestinal (coagulopatias,
+hepatopatias, outros)
+Reduzir incidência de doenças
+relacionadas à permanência em UTI
+Mobilidade precoce do paciente no início da doença, quando for seguro realizar.
+Fonte: WORLD HEALTH ORGANIZATION. jan.2020
+Considerações especiais para gestantes
+As gestantes com suspeita ou confirmação de 2019-nCoV devem ser tratadas com
+terapias de suporte, conforme descrito acima, levando em consideração as adap-
+tações fisiológicas da gravidez. O uso de agentes terapêuticos em investigação
+fora de um estudo de pesquisa deve ser guiado por uma análise de risco-benefício
+individual baseada no benefício potencial para a mãe e a segurança do feto, com
+consulta de um especialista em obstetrícia e comitê de ética.
+As decisões sobre o parto de emergência e a interrupção da gravidez são desafia-
+doras e baseadas em muitos fatores: idade gestacional, condição materna e esta-
+bilidade fetal. As consultas com especialistas em obstetrícia, neonatal e terapia
+intensiva (dependendo da condição da mãe) são essenciais.
+18
+Medidas de prevenção e controle
+A implementação de precauções padrão constitui a principal medida de preven-
+ção da transmissão entre pacientes e profissionais de saúde e deve ser adotada no
+cuidado de todos os pacientes (antes da chegada ao serviço de saúde, na chegada,
+triagem, espera e durante toda assistência prestada) independentemente dos fa-
+tores de risco ou doença de base, garantindo que as políticas e práticas internas
+minimizem a exposição a patógenos respiratórios, incluindo o 2019-nCoV.
+Implementação de Precauções Padrão
+Como atualmente não existe vacina para prevenção de infecção por 2019-nCoV, a
+melhor maneira de prevenir é evitar a exposição ao vírus. Considerando que, até
+o momento, não há comprovação de que o novo coronavírus esteja circulando no
+Brasil, não há precauções adicionais recomendadas para o público em geral, mas
+devem ser reforçadas ações preventivas diárias que possam auxiliar na prevenção
+de propagação de vírus respiratórios:
+• Higiene frequente das mãos com água e sabão ou preparação alcoólica.
+• Evitar tocar olhos, nariz e boca sem higienização adequada das mãos.
+• Evitar contato próximo com pessoas doentes.
+• Cobrir boca e nariz ao tossir ou espirrar, com cotovelo flexionado ou utilizan-
+do-se de um lenço descartável.
+• Ficar em casa e evitar contato com pessoas quando estiver doente.
+• Limpar e desinfetar objetos e superfícies tocados com frequência.
+Reconhecimento e Classificação de Pacientes com Síndrome
+Respiratória por Novo Coronavírus
+Os serviços de saúde devem adotar medidas para garantir que todos os casos
+suspeitos ou confirmados de infecção pelo 2019-nCoV ou outra infecção
+respiratória sigam os procedimentos de higiene respiratória, etiqueta de tosse e
+higiene das mãos durante o período de permanência na unidade. Para isso podem
+usufruir de alertas visuais (cartazes, placas, pôsteres) na entrada dos serviços e
+em locais estratégicos.
+19
+Todos os pacientes que buscarem os serviços de saúde (Atenção Primária à Saúde,
+Unidade de Pronto Atendimento, Pronto Socorro, Atendimento Pré-Hospitalar
+Móvel e Hospitais), deverão ser submetidos a triagem clínica que inclui reconhe-
+cer precocemente um caso suspeito e, se necessário, encaminhamento imediato
+do mesmo para uma área separada dos demais que contenha suprimentos de
+higiene respiratória e das mãos.
+Conforme as informações disponíveis até o momento, sugere-se que a via de
+transmissão pessoa a pessoa do novo coronavírus (2019-nCoV) seja por gotículas
+respiratórias ou contato. Qualquer pessoa que tenha contato próximo (dentro de
+1 metro) com alguém que tenha sintomas respiratórios (por exemplo, espirros,
+tosse etc.) está em risco de ser exposta a gotículas respiratórias potencialmente
+infecciosas.
+Portanto, os profissionais de saúde deverão redobrar a atenção a detecção de
+possíveis casos suspeitos durante ou antes da triagem e registro dos pacientes,
+procedendo com a oferta de máscaras cirúrgicas a sintomáticos respiratórios. A
+partir do atendimento, deverá ser esclarecido ao paciente a hipótese diagnóstica
+inicial, considerando as definições de caso previamente apresentadas para o 2019-
+nCoV e possíveis sinais de gravidade.
+Controle de Infecção Relacionado à Assistência à Saúde
+Atendimento pré-hospitalar móvel de urgência e transporte
+interinstitucional de casos suspeitos ou confirmados
+• Isolar precocemente pacientes suspeitos durante o transporte. Os mesmos
+deverão utilizar máscara cirúrgica todo o momento, desde a identificação até
+chegada ao local de isolamento.
+• Melhorar a ventilação do veículo para aumentar a troca de ar durante o
+transporte.
+• Utilizar Equipamento de Proteção Individual (EPI) quando em contato com
+o caso suspeito, conforme Tabela 1.
+• Realizar higiene das mãos com preparação alcoólica frequentemente.
+• Orientar pacientes e possíveis acompanhantes quanto à importância da higie-
+nização frequente das mãos.
+• Comunicar imediatamente aos profissionais dos serviços de atendimento am-
+bulatorial ou pronto atendimento se caso suspeito ou confirmado.
+• Limpar e desinfetar todas as superfícies internas do veículo após a realização
+do transporte. A desinfecção pode ser feita com álcool a 70%, hipoclorito de
+20
+sódio ou outro desinfetante indicado para este fim e seguindo procedimento
+operacional padrão definido para a atividade de limpeza e desinfecção do
+veículo e seus equipamentos.
+• Reforçar a provisão de todos os insumos (máscaras cirúrgicas, máscaras N95,
+sabonete líquido ou preparação alcoólica, lenços de papel, avental imperme-
+ável, óculos de proteção e luvas de procedimento) do veículo de transporte.
+Observação: Deve-se evitar o transporte interinstitucional de casos suspeitos ou
+confirmados. Se a transferência do paciente for realmente necessária, este deve
+utilizar máscara cirúrgica, obrigatoriamente.
+Atendimento ambulatorial, pronto atendimento e assistência
+hospitalar
+• Estabelecer previamente critérios de triagem para identificação e atendimento
+dos casos.
+• Orientar os trabalhadores dos serviços de saúde quanto aos cuidados e medi-
+das de prevenção a serem adotadas.
+• Disponibilizar máscara cirúrgica para pacientes e acompanhantes e orientar
+sobre a higiene adequada das mãos.
+• Manter casos suspeitos em área separada até atendimento ou encaminha-
+mento ao serviço de referência (se necessário), limitando sua movimentação
+fora da área de isolamento.
+• Orientar os pacientes a cobrir boca e nariz ao tossir ou espirrar (com cotove-
+lo flexionado ou utilizando-se de um lenço descartável para higiene nasal),
+evitar o toque em mucosas de olho, nariz e boca e realizar higiene das mãos
+frequentemente.
+• Prover lenços descartáveis para higiene nasal na sala de espera e lixeira com
+acionamento por pedal para o descarte de lenços.
+• Prover dispensadores com preparações alcoólicas (sob as formas gel ou solu-
+ção) para a higiene das mãos nas salas de espera e estimular a higiene das
+mãos após contato com secreções respiratórias.
+• Prover condições para higiene simples das mãos: lavatório/pia com dispensa-
+dor de sabonete líquido, suporte para papel toalha, papel toalha, lixeira com
+tampa e abertura sem contato manual.
+• Manter os ambientes ventilados.
+21
+• Eliminar ou restringir o uso de itens compartilhados por pacientes como
+canetas, pranchetas e telefones.
+• Realizar a limpeza e desinfecção das superfícies do consultório e de outros
+ambientes utilizados pelo paciente.
+• Realizar a limpeza e desinfecção de equipamentos e produtos para saúde que
+tenha sido utilizado na assistência ao paciente.
+• Orientar os profissionais de saúde para que evitem tocar superfícies próximas
+ao paciente e aquelas fora do ambiente próximo ao paciente, com luvas ou
+outros EPI contaminados ou mãos contaminadas.
+• Se houver necessidade de encaminhamento do paciente para outro serviço de
+saúde, sempre notificar previamente o serviço referenciado.
+• A provisão de todos os insumos (máscaras cirúrgicas, máscaras N95, PFF2 ou
+equivalente, sabonete líquido ou preparação alcoólica, lenços de papel, avental
+impermeável, gorro, óculos de proteção, luvas de procedimento, higienizan-
+tes para o ambiente e outros) deve ser reforçada pelo serviço de saúde.
+• Todos os casos suspeitos deverão ser encaminhados a um hospital de referên-
+cia para isolamento, avaliação e tratamento. Os casos leves, a critério médico,
+poderão receber alta e manter isolamento em domicílio, desde que instituídas
+medidas de precaução domiciliar.
+Atenção: não se deve circular pelo serviço de saúde utilizando os EPI. Estes de-
+vem ser imediatamente removidos após a saída do quarto, enfermaria ou área de
+isolamento.
+o
+Tabela 3. Recomendação de medidas a serem implementadas para prevenção e
+controle da disseminação do novo coronavírus (2019-nCoV):
+Casos suspeitos ou confirmados
+e acompanhantes
+- usar máscara cirúrgica;
+- usar lenços de papel (para tosse, espirros, secreção nasal);
+- orientar etiqueta respiratória;
+- higiene das mãos frequente com água e sabonete líquido ou preparação alcoolica.
+Continua
+22
+Profissionais de Saúde responsáveis
+pelo atendimento de casos
+suspeitos ou confirmados
+- higiene das mãos com preparação alcoolica frequentemente;
+- gorro;
+- óculos de proteção ou protetor facial;
+- máscara;
+- avental impermeável de mangas longas;
+- luvas de procedimento.
+Atenção: deverão ser utilizadas máscaras de proteção respiratória (respirador
+particulado) com eficácia mínima na filtração de 95% de partículas de até 0,3µ (tipo
+N95, N99, N100, PFF2 ou PFF3), sempre que realizar procedimentos geradores de
+aerossóis como por exemplo, intubação ou aspiração traqueal, ventilação não invasiva,
+ressuscitação cardiopulmonar, ventilação manual antes da intubação, indução de
+escarro, coletas de amostras nasotraqueais e broncoscopias.
+Para realização de outros procedimentos não geradores de aerossóis,
+avaliar a disponibilidade da N95 ou equivalente no serviço. Não havendo
+disponibilidade é obrigatório o uso da máscara cirúrgica.
+Profissionais de apoio (limpeza,
+manutenção, nutrição e outros)
+- higiene das mãos com preparação alcoolica frequentemente;
+- gorro
+- óculos de proteção ou protetor facial;
+- máscara cirúrgica;
+- avental impermeável de mangas longas;
+- luvas de procedimento.
+Minimizar ocorrência de úlceras de
+decúbito
+Promover mudança de decúbito a cada 2 horas
+Recepcionistas, vigilantes ou outros
+que atuem no acolhimento dos
+pacientes no serviço de saúde
+- higiene das mãos com água e sabonete líquido ou preparação alcoolica frequentemente;
+- máscara cirúrgica.
+Reduzir incidência de doenças
+relacionadas à permanência em UTI
+Mobilidade precoce do paciente no início da doença, quando for seguro realizar.
+Fonte: Nota Técnica nº 04/2020 - GVIMS/GGTES/ANVISA.
+Observação 1: Todas essas medidas são baseadas no conhecimento atual sobre os casos de infecção pelo novo coronavírus e
+podem ser alteradas conforme novas informações forem disponibilizadas.
+Observação 2: Usar uma máscara cirúrgica é uma das medidas de prevenção para limitar a propagação de doenças respiratórias,
+incluindo o novo coronavírus (2019-nCoV). No entanto, apenas o uso da máscara cirúrgica é insuficiente para fornecer o nível
+seguro de proteção e outras medidas igualmente relevantes devem ser adotadas, como a higiene das mãos frequentemente com
+água e sabonete líquido ou preparação alcoólica antes e após a utilização das máscaras.
+Usar máscaras quando não indicado pode gerar custos desnecessários e criar uma falsa sensação de segurança que pode levar
+a negligenciar outras medidas como práticas de higiene das mãos.
+Além disso, a máscara deve estar apropriadamente ajustada à face para garantir sua eficácia e reduzir o risco de transmissão.
+Todos os profissionais devem ser orientados sobre como usar, remover e descartar as máscaras e higienizar as mãos antes e
+após o uso.
+Observação 3: Procedimentos que podem gerar aerossóis devem ser realizados, preferencialmente, em unidade de isolamento
+respiratório com pressão negativa e filtro HEPA. Na ausência desse tipo de unidade, colocar o paciente em quarto com portas
+fechadas e restringir o número de profissionais durante estes procedimentos (que deverão ser realizados obrigatoriamente com
+máscara de proteção respiratória - tipo N95, PFF2 ou equivalente).
+Equipamentos de Proteção Individual (EPI)
+Máscara cirúrgica
+Deve ser utilizada para evitar a contaminação da boca e nariz do profissional por
+gotículas respiratórias, quando o mesmo atuar a uma distância inferior a 1 (um)
+Continuação
+23
+metro do paciente suspeito ou confirmado de infecção pelo novo coronavírus
+(2019-nCoV):
+• Coloque a máscara cuidadosamente para cobrir a boca e nariz e amarre com
+segurança para minimizar os espaços entre a face e a máscara;
+• Enquanto estiver em uso, evite tocar na máscara;
+• Remova a máscara usando a técnica apropriada (ou seja, não toque na frente,
+mas remova sempre por trás);
+• Após a remoção ou sempre que tocar inadvertidamente em uma máscara
+usada, deve-se realizar a higiene das mãos;
+• Substitua as máscaras usadas por uma nova máscara limpa e seca assim que
+esta tornar-se úmida;
+• Não reutilize máscaras descartáveis.
+Observação: Máscaras de tecido não são recomendadas, sob qualquer circunstância.
+Máscara de proteção respiratória
+Quando o profissional atuar em procedimentos com risco de geração de aeros-
+sol nos pacientes com infecção suspeita ou confirmada pelo novo coronavírus
+(2019-nCoV) deve utilizar a máscara de proteção respiratória (respirador parti-
+culado) com eficácia mínima na filtração de 95% de partículas de até 0,3 (tipo
+N95, N99, N100, PFF2 ou PFF3). A máscara deverá estar apropriadamente ajus-
+tada à face e nunca deve ser compartilhada entre profissionais. A forma de uso,
+manipulação e armazenamento deve seguir as recomendações do fabricante.
+Luvas
+As luvas de procedimentos não cirúrgicos devem ser utilizadas quando houver
+risco de contato das mãos do profissional com sangue, fluidos corporais, secre-
+ções, excreções, mucosas, pele não íntegra e artigos ou equipamentos contami-
+nados, de forma a reduzir a possibilidade de transmissão do novo coronavírus
+(2019-nCoV) para o trabalhador de saúde, assim como de paciente para paciente
+por meio das mãos do profissional.
+Quando o procedimento a ser realizado no paciente exigir técnica asséptica, de-
+vem ser utilizadas luvas estéreis (de procedimento cirúrgico). As recomendações
+quanto ao uso de luvas por profissionais de saúde são:
+• Troque as luvas sempre que for entrar em contato com outro paciente.
+24
+• Troque também durante o contato com o paciente, se for mudar de um sítio
+corporal contaminado para outro limpo, ou quando esta estiver danificada.
+• Nunca toque desnecessariamente superfícies e materiais (tais como telefones,
+maçanetas, portas) quando estiver com luvas.
+• Não lavar ou usar novamente o mesmo par de luvas (as luvas não devem ser
+reutilizadas).
+• O uso de luvas não substitui a higiene das mãos.
+• Proceder à higiene das mãos imediatamente após a retirada das luvas.
+• Observeatécnicacorretaderemoçãodeluvasparaevitaracontaminaçãodasmãos.
+Protetor ocular ou protetor de face
+Os óculos de proteção ou protetores faciais (que cubram a frente e os lados do
+rosto) devem ser utilizados quando houver risco de exposição do profissional a
+respingos de sangue, secreções corporais e excreções. Devem ser de uso exclusivo
+para cada profissional responsável pela assistência sendo necessária a higiene
+correta após o uso.
+Sugere-se para a desinfecção, o uso de hipoclorito de sódio ou outro de-
+sinfetante recomendado pelo fabricante do equipamento de proteção.
+Capote/avental
+O capote ou avental deve ser impermeável e utilizado durante procedimentos
+onde há risco de respingos de sangue, fluidos corpóreos, secreções e excreções,
+a fim de evitar a contaminação da pele e roupa do profissional. Deve ser de man-
+gas longas, punho de malha ou elástico e abertura posterior. Além disso, deve
+ser confeccionado com material de boa qualidade, não alergênico e resistente;
+proporcionar barreira antimicrobiana efetiva, permitir a execução de atividades
+com conforto e estar disponível em vários tamanhos.
+O capote ou avental sujo deve ser removido e descartado após a realização do pro-
+cedimento e antes de sair do quarto do paciente ou da área de assistência. Após
+a remoção do capote deve-se imediatamente proceder a higiene das mãos para
+evitar a transmissão dos vírus para o profissional, pacientes e ambiente.
+Atenção: todos os profissionais (próprios ou terceirizados) deverão ser capacita-
+dos para a prevenção da transmissão de agentes infecciosos e treinados para uso
+correto dos EPI.
+25
+Isolamento
+O isolamento dos casos suspeitos ou confirmados de infecção pelo novo coronaví-
+rus (2019-nCoV) deve ser realizado, preferencialmente, em quarto privativo com
+porta fechada e bem ventilado. Caso o serviço de saúde não disponha de quartos
+privativos em número suficiente para atendimento necessário, deve-se proceder
+com o isolamento por coorte, ou seja, separar em uma mesma enfermaria ou área
+os pacientes com suspeita ou confirmação para 2019-nCoV. Deverá ser respeitada
+distância mínima de 1 metro entre os leitos e restringir ao máximo o número de
+acessos à área (inclusive de visitantes).
+Os profissionais de saúde que atuarem na assistência direta aos casos suspeitos
+ou confirmados devem ser organizados para trabalharem somente na área de
+isolamento, evitando circulação para outras área de assistência.
+A área estabelecida como isolamento deverá ser devidamente sinalizada, inclusive
+quanto às medidas de precaução a serem adotadas: padrão, gotículas e contato
+ou aerossóis.
+Normas e rotinas de procedimento deverão ser elaboradas e disponibilizadas pelo
+serviço de saúde a todos os profissionais envolvidos na assistência ao casos sus-
+peitos ou confirmados de infecção pelo novo coronavírus (2019-nCoV).
+A descontinuação das precauções e isolamento deverão ser determinadas caso a
+caso, e conjunto com as autoridades de saúde locais, estaduais e federais.
+Processamento de produtos para saúde
+Deverá ser realizado de acordo com as características, finalidade de uso e orien-
+tação dos fabricantes e métodos escolhidos, uma vez que, até o momento, não há
+uma orientação especial quanto ao processamento de equipamentos, produtos
+para saúde ou artigos utilizados na assistência a casos suspeitos ou confirmados
+do novo coronavírus (2019-nCoV).
+Além disso, as determinações previstas na RDC nº 15, de 15 de março de 2012,
+da Anvisa, que dispõe sobre os requisitos de boas práticas para o processamento
+de produtos para saúde e dá outras providências, deverão ser seguidas.
+Limpeza e desinfecção de superfícies
+Não há recomendação diferenciada para a limpeza e desinfecção de superfícies
+em contato com casos suspeitos ou confirmados pelo 2019-nCoV. Os princípios
+básicos para tal ação estão descritos no Manual para a Limpeza e Desinfecção de
+Superfícies, da Anvisa, destacando-se:
+• Medidas de precaução, bem como o uso do EPI, devem ser apropriadas para
+a atividade a ser exercida e necessárias ao procedimento.
+26
+• Nunca varrer superfícies a seco, pois esse ato favorece a dispersão de micror-
+ganismos que são veiculados pelas partículas de pó. Utilizar varredura úmida
+que pode ser realizada com mops ou rodo e panos de limpeza de pisos.
+• Para a limpeza dos pisos devem ser seguidas técnicas de varredura úmida,
+ensaboar, enxaguar e secar. Os desinfetantes com potencial para limpeza de
+superfícies incluem aqueles à base de cloro, alcoóis, alguns fenóis e iodóforos
+e o quaternário de amônio.
+• É recomendado o uso de kits de limpeza e desinfecção de superfícies especí-
+ficos para pacientes em isolamento de contato.
+• Todos os equipamentos deverão ser limpos a cada término da jornada de
+trabalho, ainda com os profissionais usando EPI e evitando contato com os
+materiais infectados.
+• A frequência de limpeza das superfícies pode ser estabelecida para cada ser-
+viço, de acordo com o protocolo da instituição.
+Processamento de roupas
+Pode-se adotar o mesmo processo estabelecido para as roupas provenientes de
+outros pacientes em geral, não sendo necessário nenhum ciclo de lavagem espe-
+cial. Porém, na retirada da roupa suja deve-se haver mínima agitação e manuseio,
+observando as medidas de precaução já citadas anteriormente. Em locais onde
+haja tubo de queda, as roupas provenientes dos isolamentos não deverão ser
+transportadas por esse meio.
+Tratamento de resíduos
+Conforme o que se sabe até o momento, o novo coronavírus (2019-nCoV) pode ser
+enquadrado como agente biológico classe de risco 3, seguindo a Classificação de
+Risco dos Agentes Biológicos publicada em 2017 pelo Ministério da Saúde, sendo
+sua transmissão de alto risco individual e moderado risco para a comunidade.
+Portanto, todos os resíduos provenientes da assistência a pacientes suspeitos
+ou confirmados de infecção pelo novo coronavírus (2019-nCoV) devem ser
+enquadrados na categoria A1, conforme Resolução RDC/Anvisa no 222, de 28
+de março de 2018.
+Os resíduos devem ser acondicionados, em saco branco leitoso, que devem ser
+substituídos quando atingirem 2/3 de sua capacidade ou pelo menos 1 vez a cada
+48 horas e identificados pelo símbolo de substância infectante, com rótulos de
+fundo branco, desenho e contornos pretos. Os sacos devem estar contidos em
+recipientes de material lavável, resistente à punctura, ruptura, vazamento e tom-
+bamento, com tampa provida de sistema de abertura sem contato manual, com
+cantos arredondados.
+27
+Estes resíduos devem ser tratados antes da disposição final ambientalmente
+adequada.
+Outras informações podem ser obtidas por meio de consulta ao endereço eletrônico:
+http://portal.anvisa.gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-
+-2020+GVIMS-GGTES-ANVISA/ab598660-3de4-4f14-8e6f-b9341c196b28
+28
+Notificação
+A infecção humana pelo 2019-nCoV é uma Emergência de Saúde Pública de
+Importância Internacional (ESPII), segundo anexo II do Regulamento Sanitário
+Internacional. Portanto, trata-se de um evento de saúde pública de notificação
+imediata.
+Como Notificar ao Centro de Informações Estratégicas em
+Vigilância em Saúde (CIEVS)
+A notificação imediata deve ser realizada pelo meio de comunicação mais rápido
+disponível, em até 24 horas a partir do conhecimento de caso que se enquadre na
+definição de suspeito, como determina a Portaria de Consolidação Nº 04, anexo
+V, capítulo I, seção I (http://j.mp/portariadeconsolidacao4ms).
+A Rede CIEVS dispõe dos seguintes meios para receber a notificação de casos
+suspeitos do novo coronavírus e outros eventos de saúde pública:
+Meio telefônico (local)
+Segundo a hierarquia do SUS, se a secretaria de saúde do estado ou município
+dispor de estrutura e fluxos para receber as notificações de emergências epide-
+miológicas e casos suspeitos do novo coronavírus, inclusive nos finais de semana,
+feriados e período noturno, o profissional deverá notificar, preferencialmente, as
+vigilâncias locais.
+Meio telefônico (nacional)
+O CIEVS oferece aos profissionais de saúde o serviço de atendimento, gratuito,
+24 horas por dia durante todos os dias da semana, denominado Disque Notifica
+(0800-644-6645). Por meio deste serviço, o profissional de saúde será atendido
+por um técnico capacitado para receber a notificação e dar encaminhamento ade-
+quado conforme protocolos estabelecidos no SUS para a investigação local, por
+meio da Rede CIEVS (Rede Nacional de Alerta e Resposta às Emergências em
+Saúde Pública)
+Meio eletrônico
+E-notifica (notifica@saude.gov.br): notificação por meio do correio eletrônico do
+CIEVS.meio da Rede CIEVS (Rede Nacional de Alerta e Resposta às Emergências
+em Saúde Pública)
+29
+FormSUScap (https://redcap.saude.gov.br): esta plataforma é a versão para mo-
+bile do FormSUS. Implantado em 2019, o FormSUScap é uma solução mais
+segura, versátil e flexível para coleta padronizada de informações. A plataforma
+dispõe de aplicativos para dispositivos móveis e os formulários são responsivos,
+ou seja, se adaptam para a tela do equipamento. Esta solução não é um sistema
+de informação.
+FormSUScap 2019-nCoV (http://bit.ly/2019-ncov): Este formulário deve ser uti-
+lizado para envio das informações padronizadas sobre casos suspeitos do novo
+coronavírus pelos serviços públicos e privados. Todas as informações inseridas
+serão disponibilizadas em tempo real para a Rede CIEVS que será responsável
+para encaminhar para a autoridade local responsável.
+Por determinação da Organização Mundial da Saúde, os países devem enviar
+informações padronizadas de casos suspeitos que ocorram no seu território.
+Considerando a inexistência de sistema de informação que contemple essas in-
+formações, o Ministério da Saúde recomenda que todos os casos notificados aos
+Estados, Distrito Federal e Municípios, sejam transcritos para esse formulário
+em até 24 horas a partir do conhecimento do caso. Caso desejar, ao final da sub-
+missão, o formulário permite que seja gerado um arquivo eletrônico e pode ser
+salvo pelo usuário.
+CID 10 - Infecção humana pelo novo Coronavírus (2019-nCoV): o código para
+registro de casos, conforme as definições, será o U07.1 – Infecção pelo novo Co-
+ronavírus (2019-nCoV).
+Ao preencher o formulário eletrônico de notificação, baixar o PDF da ficha de
+notificação e enviar eletronicamente para a autoridade local, caso a notificação
+seja de unidade privada ou pública.
+30
+Referências
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Boletim Epidemiológico nº 01
+Secretaria de Vigilância em Saúde SVS/MS-COE - Jan. 2020. Disponível em: http://portalarquivos2.
+saude.gov.br/images/pdf/2020/janeiro/28/Boletim-epidemiologicoSVS-28jan20.pdf.
+______. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das
+Doenças Transmissíveis. Protocolo de tratamento de Influenza: 2017. Brasília, 2018. Disponível em:
+http://bvsms.saude.gov.br/bvs/publicacoes/protocolo_tratamento_influenza_2017.pdf
+______. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos.
+Departamento do Complexo Industrial e Inovação em Saúde. Classificação de risco dos agentes
+biológicos - 3ª Ed. 2017.
+______. ANVISA. Nota Técnica nº 04/2020. Orientações para serviços de saúde: medidas de
+prevenção e controle que devem ser adotadas durante a assistência aos casos suspeitos ou
+confirmados de infecção pelo novo coronavírus (2019-nCoV). Disponível em: http://portal.anvisa.
+gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-ANVISA/
+ab598660-3de4-4f14-8e6f-b9341c196b28.
+CENTERS FOR DISEASE CONTROL AND PREVENTION. Interim Infection Prevention and
+Control Recommendations for Patients with Known or Patients Under Investigation for 2019
+Novel Coronavirus (2019-nCoV) in a Healthcare Setting, 2020. Disponível em: https://www.cdc.
+gov/coronavirus/2019-ncov/hcp/infection-control.html.
+WORLD HEALTH ORGANIZATION. Novel Coronavirus (2019-nCoV) technical guidance. 2020.
+Disponível em: https://www.who.int/emergencies/diseases/novel-coronavirus-2019.
+WORLD HEALTH ORGANIZATION. Advice on the use of masks the community, during home
+care and in health care settings in the context of the novel coronavirus (2019-nCoV) outbreak
+Interim guidance 29 January 2020 WHO/nCov/IPC_Masks/2020.1. Disponível: https://www.who.
+int/emergencies/diseases/novel-coronavirus-2019/technical-guidance.
+WORLD HEALTH ORGANIZATION. Clinical management of severe acute respiratory infection
+when novel coronavirus (2019-nCoV) infection is suspected. Interim guidance. January 2020.
+Disponível em: https://www.who.int/publications-detail/clinical-management-of-severe-acute-
+respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected.
+31
+“O Ministério da Saúde reforça a recomendação
+sobre a necessidade de as autoridades de saúde e
+todo o corpo clínico e de apoio manterem o sigilo
+da identidade dos casos.
+Esta medida visa a evitar estigma social aos
+pacientes e resguardar o direito à inviolabilidade
+de sua privacidade.
+O não cumprimento dessa medida sujeita o
+infrator a ações administrativas e penais.
+“
+

@@ -1,0 +1,28 @@
+{
+    "filename": "protocolo-manejo-coronavirus.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/fevereiro\/11\/protocolo-manejo-coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841694,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "791702",
+        "date": "Thu, 02 Apr 2020 15:34:54 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_233EFB27413B3EE7AF830623AAAFE288_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 02:59:52 GMT",
+        "etag": "\"c1496-5a12c5cda5a00\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e180310aa2bd73460387710f5b74da16.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "HM10sarL0OFs6TZ-dPExqGaYVlfZ9PDF9ZYmDAqV8YbE3d-pqtZNgA=="
+    },
+    "lang": "pt",
+    "size": 791702,
+    "modified": 1584586792
+}

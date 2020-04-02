@@ -1,0 +1,30 @@
+{
+    "filename": "Fluxogramas-COVID-19-SAES-5.pdf",
+    "uri": "https:\/\/coronavirus.saude.gov.br\/images\/pdf\/2020\/marco\/05\/Fluxogramas-COVID-19-SAES-5.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841740,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "location": "http:\/\/portalarquivos2.saude.gov.br\/images\/pdf\/2020\/marco\/05\/Fluxogramas-COVID-19-SAES-5.pdf",
+        "date": "Thu, 02 Apr 2020 15:35:40 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1585841741.458.12861.801563; Path=\/; Secure; HttpOnly",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 8c0e9a1aadc3a75a523925b4aae73930.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "g_xgVb4aoEh8Bom9fCFIjhZ86VIbP37JoliPinVqoOR4bpWeZ-LIJQ==",
+        "content-length": "1267723",
+        "connection": "keep-alive",
+        "last-modified": "Thu, 19 Mar 2020 03:00:12 GMT",
+        "etag": "\"13580b-5a12c5e0b8700\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "content-security-policy": "upgrade-insecure-requests"
+    },
+    "lang": "pt",
+    "size": 1267723,
+    "modified": 1584586812
+}

@@ -1,0 +1,809 @@
+Plano de Contingência
+Nacional para Infecção
+Humana pelo novo
+Coronavírus COVID-19
+Centro de Operações de Emergências
+em Saúde Pública | COE-COVID-19
+MINISTÉRIO DA SAÚDE
+Brasília/DF • Fevereiro de 2020
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Plano de Contingência
+Nacional para Infecção
+Humana pelo novo
+Coronavírus COVID-19
+Centro de Operações de Emergências
+em Saúde Pública | COE-COVID-19
+Brasília/DF • Fevereiro de 2020
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+2020 Ministério da Saúde.
+Todos os direitos reservados. É permitida a reprodução parcial ou total desta obra desde que citada a fonte e que não seja para venda ou qualquer
+fim comercial. Venda proibida.
+Distribuição gratuita. A responsabilidade pelos direitos autorais de textos e imagens desta obra é da área técnica. A coleção institucional
+do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde do Ministério da Saúde: <www.saude.gov.br/bvs>.
+Diagramação Ascom/MS.
+Tiragem: 1ª edição – 2020 – versão eletrônica preliminar
+Colaboradores
+Secretaria de Vigilância em Saúde (SVS): Wanderson Kleber de Oliveira.
+Departamento de Imunização e Doenças Transmissíveis (DEIDT/SVS): Julio Henrique Rosa Croda.
+Coordenação-Geral do Programa Nacional de Imunizações (CGPNI/DEIDT/SVS): Francieli Fontana Sutile Tardetti
+Fantinato, Daiana Araújo da Silva, Felipe Cotrim de Carvalho, Jaqueline de Araujo Schwartz, Sirlene de Fátima Pereira,
+Walquiria Aparecida Ferreira de Almeida, Victor Bertollo Gomes Porto.
+Departamento de Saúde Ambiental, do Trabalhador e Vigilância das Emergências em Saúde Pública (DSASTE/SVS):
+Daniela Buosi Rohlfs, Marcus Quito.
+Coordenação-Geral de Emergências em Saúde Pública (CGEMSP/DSASTE/SVS): Rodrigo Lins Frutuoso,
+Francisco José de Paula Júnior, Marília Lavocat Nunes, Wanderley Mendes Júnior.
+Coordenação-Geral de Saúde do Trabalhador (CGSAT/DSASTE/SVS): Karla Freire Baêta, Rafael Buralli,
+Thaís Baraviera Dutra.
+Departamento de Ações Estratégicas de Vigilância em Saúde (DAEVS/SVS): Sônia Maria Feitosa Brito,
+Aide Campagna.
+Coordenação-Geral de Laboratórios de Saúde Pública do Departamento de Articulação Estratégica de
+Vigilância em Saúde (CGLAB/DAEVS/SVS): André Luiz de Abreu, Greice Madeleine Ikeda do Carmo, Miriam Teresinha
+Furlam Prando Livorati, Gabriela Andrade Pereira, Leonardo Hermes Dutra, Roberta Paim Guimarães.
+Secretaria de Atenção Especializada em Saúde (SAES): Francisco de Assis Figueiredo.
+Departamento de Atenção Hospitalar, Domiciliar e de Urgência (DAHU/SAES): Adriana Melo Teixeira.
+Coordenação-Geral de Urgência (CGURG/DAHU/SAES): Marcelo Oliveira Barbosa, Pâmela Moreira Costa Diana, Angela
+Ribeiro Vargas, Paula Maria Raia Eliazar, Tarciana da Silva Suassuna, Ana Cristina Nogueira Nunes Jansen Ferreira, Haroldo
+Lupion Poleti, Julia Albuquerque Pacheco, Marisete Dalenogare, Danielle Christine Zacarias de Santi, Luis Henrique Pereira
+Branquinho, Emille Souto Pinto, Fernanda Luiza Hamze, Liliam Santos Barreto.
+Secretaria de Atenção Primária em Saúde (SAPS): Erno Harzheim.
+Departamento de Saúde da Família: Otávio Pereira D’avila.
+Coordenação-Geral de Garantia dos Atributos da Atenção Primária: Paula Martina da Silva Araujo Nunes, Graziela
+Tavares, Olavo de Moura Fontoura.
+Agência Nacional de Vigilância Sanitária (Anvisa): Marcelo Felga de Carvalho, Mateus Rodrigues Cerqueira, Viviane
+Vilela Marques Barreiros, Camila da Silva Borges Lacerda de Oliveira, Olavo Ossamu Inoue.
+Organização Pan-Americana da Saúde: Maria Almiron.
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+SUMÁRIO
+INTRODUÇÃO 4
+NÍVEIS DE RESPOSTA 5
+ESTRUTURA DE COMANDO 9
+MEDIDAS DE RESPOSTA PARA INFECÇÃO HUMANA PELO NOVO VÍRUS (SARS-COVID-2) 10
+NÍVEL DE RESPOSTA: ALERTA 10
+NÍVEL DE RESPOSTA: PERIGO IMINENTE 14
+NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE PÚBLICA DE IMPORTÂNCIA NACIONAL (ESPIN) 19
+REFERÊNCIAS 24
+5
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+INTRODUÇÃO
+Este documento apresenta o Plano de Contingência Nacional para Infecção Humana pelo novo Coronavírus
+(COVID-19) em caso de surto e define o nível de resposta e a estrutura de comando correspondente a ser
+configurada, em cada nível de resposta.
+Em 29 de dezembro de 2019, um hospital em Wuhan admitiu quatro pessoas com pneumonia e reconheceu
+que as quatro haviam trabalhado no Mercado Atacadista de Frutos do Mar de Huanan, que vende aves vivas,
+produtos aquáticos e vários tipos de animais selvagens ao público. O hospital relatou essa ocorrência ao Centro
+de Controle de Doenças (CDC-China) e os epidemiologistas de campo da China (FETP-China) encontraram
+pacientes adicionais vinculados ao mercado e, em 30 de dezembro, as autoridades de saúde da província de
+Hubei notificaram esse cluster ao CDC da China.
+A partir desse momento uma série de ações foram adotadas, culminando com a ativação no dia 22 de janeiro
+de 2020 do Centro de Operações de Emergência em Saúde Pública (COE-COVID-19), do Ministério da
+Saúde (MS) coordenado pela Secretaria de Vigilância em Saúde (SVS), com o objetivo de nortear a atuação
+do MS na resposta à possível emergência de saúde pública, buscando uma atuação coordenada no âmbito do
+SUS.
+O Brasil adota a ferramenta de classificação de emergência em três níveis, seguindo a mesma linha utilizada
+globalmente na preparação e resposta em todo o mundo. Deste modo, recomenda-se que as Secretarias de
+Saúde dos Municípios, Estados e Governo Federal, bem como serviços de saúde pública ou privada, agências,
+empresas tomem nota deste plano na elaboração de seus planos de contingência e medidas de resposta. Toda
+medida deve ser proporcional e restrita aos riscos vigentes.
+6
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+NÍVEIS DE RESPOSTA
+Este plano é composto por três níveis de resposta: Alerta, Perigo Iminente e Emergência em Saúde Pública.
+Cada nível é baseado na avaliação do risco do novo Coronavírus afetar o Brasil e seu impacto para a saúde
+pública. Questões importantes são consideradas nessa avaliação:
+Transmissibilidade da doença, como seu modo de transmissão, eficácia da transmissão entre reservatórios
+para humanos ou humano para humano, capacidade de sustentar o nível da comunidade e surtos;
+Propagação geográfica do novo coronavírus (COVID-19) entre humanos, animais, como a distribuição
+global das áreas afetadas, o volume de comércio e viagens entre as áreas afetadas e outras unidades
+federadas;
+Gravidade clínica da doença, como complicações graves, internações e mortes;
+Vulnerabilidade da população, incluindo imunidade pré-existente, grupos-alvo com maiores taxas de
+ataque ou maior risco de graves doenças;
+Disponibilidade de medidas preventivas, como vacinas e possíveis tratamentos; e
+Recomendações da Organização Mundial da Saúde e evidências científicas publicadas em revistas
+científicas.
+A Secretaria de Vigilância em Saúde destaca que, até o momento, fatos e conhecimentos sobre o novo
+coronavírus (COVID-19) disponíveis são limitados. Há muitas incertezas no modo exato de transmissão
+e os possíveis reservatórios. As taxas de letalidade, mortalidade e transmissibilidade não são definitivas e
+estão subestimadas ou superestimadas. As evidências epidemiológicas e clínicas ainda estão sendo descrita
+e a história natural desta doença está sendo construída. As informações cruciais para apoiar avaliação dos
+fatores mencionados, como infectividade, transmissibilidade, taxa de complicações, letalidade, mortalidade,
+serão gradualmente disponibilizadas.
+O risco será avaliado e revisto periodicamente, tendo em vista o desenvolvimento de conhecimento científico
+e situação em evolução, para garantir que o nível de resposta seja ativado e as medidas correspondentes sejam
+adotadas.
+Como exemplo, na epidemia de MERS-CoV, alguns estudos apoiaram a premissa de que os camelos são
+uma provável fonte de infecção para humanos. Deste modo, a população é recomendada a evitar visitas às
+fazendas, áreas de celeiros ou ambientes de mercado onde os camelos estão presentes e evite o contato com
+animais, especialmente camelos, durante a viagens ao oriente médio. Situações similares poderão acontecer
+pela infecção humana pelo novo coronavírus (COVID-19).
+NÍVEL DE RESPOSTA: ALERTA
+O Nível de resposta de Alerta corresponde a uma situação em que o risco de introdução do SARS-COV-2 no
+Brasil seja elevado e não apresente casos suspeitos.
+Neste nível de resposta a estrutura do COE é simplificada e restrita aos órgãos e instituições mais relacionados
+com a competência de detectar, investigar, manejar e notificar casos potencialmente suspeitos da infecção
+humana pelo novo coronavírus. Nesse momento inicial, várias doenças respiratórias comuns poderão ser
+fator de confusão. Para isso, é necessário dispor de todas as definições de caso que contemplem situações
+possíveis, incluindo a definição de caso excluído. Importante salientar a todos os serviços que as definições
+serão suficientemente sensíveis no início e progridem para maior especificidade. No entanto, mesmo no
+7
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+início, alguns casos podem não se enquadrar na definição adotada. Nessas situações, deve-se avaliar caso
+a caso, devendo prevalecer a conduta clínica local, mesmo que o caso em questão não seja incluído para
+investigação, no primeiro momento.
+A Composição do COE-COVID-19 neste nível levará em consideração as Secretarias do Ministério da
+Saúde, das Secretarias Estaduais e Municipais relacionadas, além de instituições convidadas Ad-Hoc.
+NÍVEL DE RESPOSTA: PERIGO IMINENTE
+Nível de resposta de Perigo Iminente corresponde a uma situação em que há confirmação de caso suspeito,
+conforme previsto no Capítulo IV, Seção I, Artigo 15 da Lei nº 8.080 de 19 de setembro de 1990, que dispõe
+sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos
+serviços correspondentes e dá outras providências:
+A União, os Estados, o Distrito Federal e os Municípios exercerão, em seu âmbito administrativo, as seguintes
+atribuições: XIII - para atendimento de necessidades coletivas, urgentes e transitórias, decorrentes de
+situações de perigo iminente, de calamidade pública ou de irrupção de epidemias, a autoridade
+competente da esfera administrativa correspondente poderá requisitar bens e serviços, tanto de pessoas
+naturais como de jurídicas, sendo-lhes assegurada justa indenização.
+Neste nível de resposta a estrutura do COE será ampliada com a presença de órgãos fora do setor saúde, mas
+que tenham relação com a resposta coordenada ao evento.
+NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE PÚBLICA DE IMPORTÂNCIA
+NACIONAL (ESPIN)
+Nível de resposta de Emergência de Saúde Pública de Importância Nacional (ESPIN) corresponde a uma
+situação em que há confirmação de transmissão local do primeiro caso de Coronavírus (COVID-19), no
+território nacional, ou reconhecimento de declaração de Emergência de Saúde Pública de
+Importância Internacional (ESPII) pela Organização Mundial de Saúde (OMS). Estas situações
+configuram condições para recomendação ao Ministro da Saúde de declaração de ESPIN, conforme previsto
+no Decreto nº 7.616 de 17 de novembro de 2011 que dispõe sobre a declaração de Emergência em Saúde
+Pública de Importância Nacional – ESPIN.
+Artigo 4º A declaração de ESPIN será efetuada pelo Poder Executivo federal, por meio de ato do Ministro de
+Estado da Saúde, após análise de recomendação da Secretaria de Vigilância em Saúde do Ministério da Saúde,
+nos casos de situações epidemiológicas.
+Esse nível de Emergência está organizado em duas fases.
+Fase de contenção
+Nesta fase a introdução da doença no país é uma questão de tempo. Por isso, todas as ações e medidas são
+adotadas para identificar oportunamente e evitar a dispersão do vírus, ou seja, as estratégias devem ser
+voltadas para evitar que o vírus seja transmitido de pessoa a pessoa, de modo sustentado.
+Na fase de contenção, a atenção à saúde possui mais ações do que a vigilância, compra e abastecimento de
+EPIs e definições para a rede de urgência e emergência. Quarentena domiciliar para casos leves e Estratégia de
+monitoramento domiciliar para evitar a ocupação de leitos desnecessariamente.
+8
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+As atividades de preparação e resposta devem ser revisadas e reforçadas na rede de atenção para o adequado
+atendimento dos casos confirmados, com medidas de proteção adicionais, registro das informações para que
+a vigilância possa consolidar e descrever o perfil da doença no Brasil, bem como enviar à OMS.
+Os Planos de Contingência dos Estados devem estar elaborados e publicizados, contendo, dentre outras
+informações, a organização da rede de atenção hospitalar.
+Toda rede de atenção à saúde do SUS deve ser alertada para a atual fase, com o objetivo de maior sensibilização
+dos profissionais de saúde para detecção de casos suspeitos, manejo adequado desses pacientes, bem como
+reforço do uso de EPI.
+Os estoques dos EPI preconizados também devem ser checados e aquisições emergenciais podem ser
+acionadas, caso necessário.
+Grau de atividade nesta fase por setor:
+Atenção Primária em Saúde: +
+Vigilância em Saúde: ++
+Atenção Especializada em Saúde: +++
+Fase de mitigação
+A fase de mitigação tem início a partir do registro de 100 casos positivos do novo coronavirus.
+A partir deste momento, não se realiza o teste de todos os casos, apenas de casos graves em UTI.
+As ações e medidas devem ser adotadas para evitar a ocorrência de casos graves e óbitos. Assim, medidas
+de atenção hospitalar para os casos graves e medidas restritivas individuais de isolamento e quarentena
+domiciliar para os casos leves, devem ser adotadas para evitar óbitos e o agravamento dos casos.
+Esse fortalecimento da atenção PRIMÁRIA ao paciente deve ocorrer no nível local, com a adoção das medidas
+já estabelecidas nos protocolos de doenças respiratórias.
+Adicionalmente, caso seja evidenciada a possibilidade de superação da capacidade de resposta hospitalar para
+atendimento dos casos graves, adaptação e ampliação de leitos e áreas hospitalares e a contratação emergencial
+de leitos de UTI pode ser necessária, com o objetivo de evitar óbitos.
+Grau de atividade nesta fase por setor:
+Vigilância em Saúde: +
+Atenção Especializada em Saúde: ++
+Atenção Primária em Saúde: +++
+9
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+AJUSTES NO NÍVEL DE RESPOSTA
+Em situações epidêmicas, as etapas iniciais da resposta são realizadas com base em
+poucas ou frágeis evidências. A avaliação de riscos nessas circunstâncias requer
+flexibilidade e, possivelmente, erros por precaução. O nível de resposta será ajustado
+adequadamente quando uma melhor avaliação de risco puder ser feita à luz de mais
+informações disponíveis.
+10
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+ESTRUTURA DE COMANDO
+CENTRO DE OPERAÇÕES DE EMERGÊNCIAS PARA RESPOSTA AO NOVO
+CORONAVÍRUS (COE-NCOV)
+Em 3 de fevereiro de 2020, o Ministério da Saúde declarou Emergência de Saúde Pública de Importância
+Nacional (ESPIN) em decorrência da infecção humana pelo novo Coronavírus (COVID-19), por meio
+da Portaria MS n° 188, e conforme Decreto n° 7.616, de 17 de novembro de 2011.
+A Portaria MS n°188 também estabeleceu o Centro de Operações de Emergências em Saúde Pública (COE-
+COVID-19) como mecanismo nacional da gestão coordenada da resposta à emergência no âmbito nacional,
+ficando sob responsabilidade da Secretaria de Vigilância em Saúde (SVS/MS) a gestão do COE-COVID-19.
+SUB-COMITÊS TÉCNICOS PARA SUPORTE NA TOMADA DE DECISÃO
+Durante a resposta, em qualquer nível de ativação, o líder do COE-COVID-19 poderá determinar a criação
+de Grupos de Especialistas Externos Ad-Hoc para debater questões específicas e apresentar subsídios para a
+tomada de decisão. Esses grupos podem ser compostos por representantes de sociedades científicas, conselhos
+de classe, pesquisadores ou representantes do setor público ou privado, relacionado ao tema de interesse.
+Quando não for possível o consenso, o documento contendo as recomendações deve listar todas as propostas
+existentes, e justificar as suas vantagens e implicações, com vistas a subsidiar o processo de tomada de decisão
+do COE-COVID-19.
+Todos os indicados para compor qualquer sub-comitê deve declarar seus potenciais conflitos de interesse,
+informando ao COE outras condições que considere relevante, as seguintes:
+a) Vínculo empregatício, consultoria técnica em andamento; membro de comitê técnico assessor de empresas
+produtoras de medicamentos, vacinas, exames laboratoriais ou outros equipamentos e tecnologias que
+integrem ou possam vir a integrar protocolos utilizados nas atividades de resposta à emergência.
+b) Vínculo de emprego, contrato de consultoria ou ações de organização(ões) que, de alguma forma, possam
+ter benefícios ou prejuízos com a sua participação.
+MEDIDAS DE RESPOSTA AO NOVO CORONAVÍRUS (COVID-19)
+Vigilância
+Suporte laboratorial
+Medidas de controle de infecção
+Assistência
+Assistência farmacêutica
+Vigilância Sanitária - Medidas de saúde em pontos de entrada (portos, aeroportos
+e passagens de fronteiras)
+Comunicação de risco
+Gestão
+11
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+NÍVEL DE RESPOSTA: ALERTA
+INDICADOR: a Infecção Humana pelo Novo Coronavírus (COVID-19) como potencial Emergência de Saúde
+Pública de Importância Internacional (ESPII), segundo anexo II do Regulamento Sanitário Internacional.
+São recomendações:
+Vigilância
+Instituir comunicação com a Organização Mundial da Saúde (OMS) e outras organizações internacionais
+e autoridades de saúde para obter de modo oportuno e preciso, as diretrizes dos desdobramentos
+internacionais.
+Monitorar eventos e rumores na imprensa, redes sociais e junto aos serviços de saúde.
+Revisar as definições de vigilância sistematicamente, diante de novas evidências ou recomendações da
+OMS.
+Reforçar a importância da comunicação e notificação imediata de casos suspeitos para infecção humana
+pelo novo coronavírus (COVID-19).
+Fortalecer os serviços de saúde para a detecção, notificação, investigação e monitoramento de prováveis
+casos suspeitos para infecção humana pelo novo coronavírus (COVID-19), conforme a definição de caso
+estabelecida, no devido sistema de informação orientado pelo MS.
+Articular com a rede de serviços públicos e privados de atenção à saúde o aprimoramento e a detecção
+de possíveis casos suspeitos nos serviços de saúde.
+Emitir alertas para as Secretarias Estaduais de Saúde sobre a situação epidemiológica global, com
+orientações para a preparação de resposta, com medidas de prevenção e controle para a infecção humana
+pelo novo coronavírus (COVID-19).
+Monitorar o comportamento dos casos de Síndrome Gripal (SG) e Síndrome Respiratória Aguda Grave
+(SRAG), nos sistemas de informação da rede, para permitir avaliação de risco e apoiar a tomada de
+decisão.
+Elaborar e divulgar Boletins Epidemiológicos com periodicidade para atualização das informações.
+Atualizar a rede de vigilância e atenção à saúde sobre a situação epidemiológica do país e as ações de
+enfrentamento.
+Monitorar semanalmente a rede de Unidades Sentinelas de SG e SRAG.
+Sensibilizar os profissionais de saúde e população em relação a etiqueta respiratória e higiene das mãos.
+Elaborar e promover a capacitação de recursos humanos para a investigação de casos suspeitos de
+infecção humana pelo novo coronavírus (COVID-19).
+Elaborar e divulgar materiais de educação em saúde para o trabalhador da saúde.
+Suporte laboratorial
+Organizar fluxos para diagnóstico laboratorial de casos suspeitos para a infecção humana pelo novo
+coronavírus (COVID-19), junto a rede laboratorial de referência para os vírus respiratórios.
+Estabelecer protocolos de diagnóstico para a infecção humana pelo novo coronavírus (COVID-19), de
+acordo com as recomendações da OMS.
+Realizar levantamento de capacidade de resposta para o diagnóstico de infecção humana pelo novo
+coronavírus (COVID-19) nos laboratórios de referência.
+12
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Garantir os insumos para diagnóstico da infecção humana pelo novo coronavírus (COVID-19) e outros
+vírus respiratórios para a rede laboratorial.
+Definir fluxos de laboratórios de referência para envio de amostras para infecção humana pelo novo
+coronavírus (COVID-19) e outros vírus respiratórios.
+Monitorar os resultados de diagnóstico laboratorial para infecção humana pelo novo coronavírus
+(COVID-19) e outros vírus respiratórios.
+Apoiar os laboratórios de referência na realização de diagnóstico de RT-PCR em tempo real para infecção
+humana pelo novo coronavírus (COVID-19) de acordo com os procedimentos e recomendações da
+OMS.
+Orientar aos Lacens quanto aos critérios de seleção das amostras para envio aos laboratórios de referência.
+Estabelecer o fluxo de transporte das amostras do Lacen ao laboratório de referência.
+Estimular os serviços privados sobre a adoção dos protocolos laboratoriais da rede pública, para os casos
+suspeitos de infecção humana pelo novo coronavírus (COVID-19).
+Apoiar os Laboratórios de Referência Nacional e Regionais: para realização do diagnóstico e análises
+complementares da infecção humana pelo novo coronavírus (COVID-19).
+Definir com base na legislação brasileira (RDC n.81/2008 – cap.XXIV) específica fluxos de recebimento
+e envio de amostras de casos suspeitos do novo coronavírus (COVID-19).
+Medidas de controle de infecção
+Orientar os serviços de saúde quanto às medidas de prevenção e controle de infecção para a infecção pelo
+novo coronavírus (COVID-19), conforme orientações da Anvisa, no link:
+http://portal.anvisa.gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-
+2020+GVIMS-GGTES-ANVISA/ab598660-3de4-4f14-8e6f-b9341c196b28.
+Assistência
+Promover a organização da rede de atenção para atendimento aos casos de SG e SRAG.
+Mobilizar/estimular os responsáveis pelos serviços de saúde, que fazem parte da rede de atenção, a
+elaborarem e ou adotarem protocolos, normas e rotinas para o acolhimento, atendimento, medidas de
+prevenção e controle, entre outros.
+Normatizar a regulação e manejo clínico para casos suspeitos para infecção humana pelo novo coronavírus
+(COVID-19)
+Apoiar e orientar sobre medidas de prevenção e controle para o novo coronavírus
+(COVID-19).
+Estimular a organização da rede de manejo clínico e formular capacitações de trabalhadores sobre o fluxo
+de pacientes suspeitos de infecção humana pelo novo coronavírus (COVID-19).
+Orientar o monitoramento de casos de SG e SRAG nos serviços de saúde.
+Mobilizar os serviços hospitalares de referência para a preparação/atualização dos planos de contingência.
+Garantir acolhimento, reconhecimento precoce e controle de casos suspeitos para a infecção humana
+pelo novo coronavírus (COVID-19).
+Fortalecer junto aos estados e municípios a importância de implementar precauções para gotículas/
+aerossóis em situações especiais no enfrentamento de casos suspeitos de infecção humana pelo novo
+coronavírus (COVID-19).
+13
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Realizar levantamento nas unidades federadas (UF) para identificar a capacidade de atendimento
+especializado para casos suspeitos de infecção humana pelo novo coronavírus (COVID-19).
+Realizar levantamento dos insumos e equipamentos médico-hospitalares para atendimento de pacientes
+suspeitos para infecção humana pelo novo coronavírus (COVID-19).
+Reforçar a importância da comunicação e notificação imediata de casos suspeitos para infecção humana
+pelo novo coronavírus (COVID-19).
+Estimularosserviçosdesaúdepúblicoseprivadosdasunidadesfederadasparaavaliaçãodeestoquedisponível
+de equipamento de proteção individual (EPI), conforme recomendação da Anvisa (Link: http://portal.
+anvisa.gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-
+ANVISA/ab598660-3de4-4f14-8e6f-b9341c196b28).
+Assistência farmacêutica
+Fazer levantamento de medicamentos para o tratamento de infecção humana pelo novo coronavírus
+(COVID-19).
+Garantir estoque estratégico de medicamentos para atendimento sintomático dos pacientes.
+Disponibilizar medicamentos indicados e orientar sobre organização do fluxo de serviço farmacêutico.
+Garantir medicamento específico para os casos de SG e SRAG que compreendem a definição clínica para
+uso do fosfato de oseltamivir.
+Monitorar o estoque de medicamentos no âmbito federal e estadual.
+Rever e estabelecer logística de controle, distribuição e remanejamento, conforme solicitação a demanda.
+Vigilância sanitária - medidas de saúde em pontos de entrada (portos, aeroportos
+e passagens de fronteiras)
+Elaborar material informativo para orientar os viajantes quanto a prevenção e controle a infecção humana
+pelo novo coronavírus (COVID-19).
+Orientar as equipes de Portos, Aeroportos, Fronteiras e Recintos Alfandegados sobre a atualização dos
+planos de contingências acordado localmente sobre as orientações de prevenção e controle da infecção
+humana pelo novo coronavírus (COVID-19).
+Divulgar procedimentos a serem adotados no caso de detecção de casos suspeitos a bordo dos meios de
+transporte ou nos pontos de entrada conforme protocolo da Anvisa.
+Emitir alerta sonoro nos aeroportos orientando aos viajantes as medidas de prevenção e controle para a
+infecção humana pelo novo coronavírus (COVID-19).
+Mobilizar e orientar a comunidade portuária e aeroportuária e de áreas de fronteira para preparação e
+adoção de medidas para o enfrentamento da infecção humana pelo novo coronavírus (COVID-19).
+Comunicação de risco
+Divulgar amplamente os boletins epidemiológicos, protocolos técnicos e informações pertinentes
+prevenção e controle para infecção humana pelo novo coronavírus (COVID-19);
+Divulgar as informações sobre a doença e medidas de prevenção junto à rede de serviços de saúde e
+população;
+Divulgar informações epidemiológicas e de prevenção e controle da doença no sítio do MS e para a
+imprensa, por meio de coletivas;
+14
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Divulgar informações para população em geral em relação às medidas de etiqueta respiratória e
+higienização das mãos para o COVID-19;
+Definir, em conjunto com os gestores, o porta-voz que será responsável pela interlocução com os veículos
+de comunicação;
+Elaboração e divulgação de materiais informativos sobre as medidas de prevenção e controle do
+COVID-19;
+Divulgação de informações do novo coronavírus nas redes sociais do MS e parceiros;
+Monitoramento de redes sociais para esclarecer rumores, boatos e informações equivocadas.
+Gestão
+Instituir o Centro de Operações de Emergências em infecção humana pelo novo coronavírus - COE-
+COVID-19, operando em nível nacional.
+Promover ações integradas entre vigilância em saúde, assistência, Anvisa, e outros órgãos envolvidos na
+prevenção e controle do novo coronavírus (COVID-19).
+Sensibilizar a rede de serviços assistenciais públicos e privados sobre o cenário epidemiológico e o risco
+de introdução do novo coronavírus (COVID-19).
+Articular junto às áreas do Ministério da Saúde (MS) e outros órgãos o desenvolvimento das ações e
+atividades propostas para esse nível de alerta.
+Garantir estoque estratégico de insumos laboratoriais para diagnóstico do vírus SARS-COV-2.
+Garantir estoque estratégico de medicamento para o atendimento de casos suspeitos e confirmados para
+o novo coronavírus (COVID-19).
+Apresentar a situação epidemiológica nas reuniões do Comitê de Monitoramento de Emergências
+(CME), de acordo com agenda estabelecida.
+Organizar os fluxos e atualizações das informações diárias, para o briefing e debriefing do COE.
+Promover ações de educação em saúde referente à promoção, prevenção e controle do novo coronavírus
+(COVID-19).
+Monitorar os estoques dos insumos existentes ao nível nacional e estadual (medicamentos e insumos
+laboratoriais).
+Emitir instruções para os órgãos de governo sobre diretrizes de controle de infecção e o uso adequado
+de equipamento de proteção (EPI).
+Solicitar apoio aos gestores estaduais no acompanhamento da execução dos Planos de Contingência.
+Apoiar a divulgação de materiais desenvolvidos pela área técnica (protocolos, manuais, guias, notas
+técnicas).
+Identificar fomentos para as ações emergenciais no enfrentamento da infecção humana pelo novo
+coronavírus (COVID-19).
+Mapear os laboratórios com capacidade tecnológica de produção para teste rápido e vacinas para
+prevenção e controle do novo coronavírus (COVID-19).
+NÍVEL DE RESPOSTA: PERIGO IMINENTE
+INDICADOR: quando há confirmação de caso suspeito para infecção humana pelo novo coronavírus
+(COVID-19) no país.
+15
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+A estrutura do COE será ampliada com a presença de órgãos de instituições externos
+do setor saúde, e que tenham relação com a resposta coordenada ao evento monitorado.
+As recomendações seguirão as mesmas do nível anterior, com alguns acréscimos.
+São recomendações:
+Vigilância
+Manter comunicação com a Organização Mundial da Saúde (OMS) e outras organizações internacionais
+e autoridades de saúde para obter de modo oportuno e preciso, as diretrizes dos desdobramentos
+internacionais.
+Revisar as definições de vigilância sistematicamente, diante de novas evidências ou recomendações da
+OMS.
+Orientar a implantação de Centro de Operações de Emergências em Saúde Pública COE-COVID-19 nas
+unidades federadas e municípios para monitoramento de casos suspeitos de infecção humana pelo novo
+coronavírus (COVID-19).
+Serviçosdereferênciaorganizadosparaadetecção,notificação,investigaçãoemonitoramentodeprováveis
+casos suspeitos para o novo coronavírus (COVID-19), conforme a definição de caso estabelecida, no
+devido sistema de informação orientado pelo MS.
+Expandir a capacidade de avaliação rápida de riscos, realizar eficaz monitoramento de informações e
+investigação intersetorial e resposta frente a casos suspeitos de infecção humana pelo novo coronavírus
+(COVID-19).
+Emitir alertas para as Secretarias Estaduais de Saúde sobre a situação epidemiológica global e nacional,
+com orientações para medidas de prevenção e controle para infecção humana pelo novo coronavírus
+(COVID-19).
+Monitorar o comportamento dos casos de Síndrome Gripal (SG) e Síndrome Respiratória Aguda Grave
+(SRAG), nos sistemas de informação da rede, para permitir avaliação de risco e apoiar a tomada de
+decisão.
+Elaborar e divulgar Boletins Epidemiológicos com periodicidade para atualização das informações.
+Sensibilizar a rede de vigilância e atenção à saúde organizadas sobre a situação epidemiológica do país e
+as ações de enfrentamento.
+Monitorar eventos e rumores na imprensa, redes sociais e junto aos serviços de saúde.
+Revisar as definições de vigilância sistematicamente, diante de novas evidências ou recomendações da
+OMS.
+Elaborar e divulgar materiais de educação em saúde para o trabalhador da saúde.
+Notificar, investigar e monitorar prováveis casos suspeitos para infecção humana pelo novo coronavírus
+(COVID-19), conforme a definição de caso estabelecida, no devido sistema de informação orientado
+pelo MS.
+Articular com a rede de serviços públicos e privados de atenção à saúde o aprimoramento e a detecção
+de possíveis casos suspeitos nos serviços de saúde.
+Elaborar e divulgar Boletins Epidemiológicos com periodicidade semanal para atualização das situação
+epidemiológica do país e das ações de enfrentamento.
+16
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Suporte laboratorial
+Fortalecer os fluxos estabelecidos para o diagnóstico laboratorial de casos suspeitos para a infecção
+humana pelo novo coronavírus (COVID-19), junto a rede laboratorial de referência para os vírus
+respiratórios.
+Aplicar os protocolos de diagnóstico para a infecção humana pelo novo coronavírus (COVID-19), de
+acordo com as recomendações da OMS.
+Realizar levantamento de capacidade de resposta para o diagnóstico de infecção humana pelo novo
+coronavírus (COVID-19) nos Lacen.
+Monitorar a capacidade de resposta para o diagnóstico da infecção humana pelo novo coronavírus
+(COVID-19).
+Garantir os insumos para diagnóstico da infecção humana pelo novo coronavírus (COVID-19) e outros
+vírus respiratórios para a rede laboratorial de referência.
+Garantir os insumos para diagnóstico da influenza e outros vírus respiratórios para a rede laboratorial.
+Monitorar os fluxos de transporte para o envio de amostras para os laboratórios de referência.
+Monitorar os resultados de diagnóstico laboratorial para o novo coronavírus (SARS-COV-2) e outros
+vírus respiratórios.
+Comunicar a vigilância epidemiológica os resultados laboratoriais para adoção de medidas de prevenção
+e controle.
+Apoiar os laboratórios de referência na realização de diagnóstico de RT-PCR em tempo real para a
+infecção humana pelo novo coronavírus (COVID-19) de acordo com os procedimentos e recomendações
+da OMS.
+Orientar aos Lacens quanto aos critérios de seleção das amostras para envio aos laboratórios de referência.
+Estabelecer o fluxo para apoiar e garantir o transporte das amostras do Lacen ao laboratório de referência.
+Definir fluxos de envio de amostras do serviço privado para os laboratórios públicos.
+Estimular os serviços privados sobre a adoção dos protocolos laboratoriais da rede pública, para os casos
+suspeitos de infecção humana pelo novo coronavírus (COVID-19) sobre a importância da coleta, envio
+do diagnóstico para os laboratórios públicos ou de referência.
+Apoiar os Laboratórios de Referência Nacional e Regionais: para realização do diagnóstico e análises
+complementares e análises complementares do novo coronavírus (COVID-19).
+Medidas de controle de infecção
+Orientar os serviços de saúde quanto às medidas de prevenção e controle de infecção para casos suspeitos
+ou confirmados de infecção pelo novo coronavírus (SARS-COV-2), orientações da Anvisa, no link:http://
+portal.anvisa.gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-2020+GVIMS-
+GGTES-ANVISA/ab598660-3de4-4f14-8e6f-b9341c196b28.
+Assistência
+Promover a organização da rede de atenção para atendimento aos casos de SG, SRAG e da infecção
+humana pelo novo coronavírus (COVID-19).
+Mobilizar os responsáveis pelos serviços de saúde públicos e privados a executarem seus protocolos,
+fluxos e rotinas para o acolhimento, notificação, atendimento, medidas de prevenção e controle, entre
+outros.
+17
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Orientar a organização e apresentação dos planos de contingência pelos hospitais de referência das
+unidades federadas, acolhimento, reconhecimento precoce e controle de casos suspeitos ou confirmados
+para a infecção humana pelo novo coronavírus (COVID-19) na rede pública e privada.
+Estabelecer junto aos estados e municípios a importância de implementar precauções para gotículas/
+aerossóis de acordo com cada caso e gravidade no enfrentamento de casos suspeitos ou confirmados da
+infecção humana pelo novo coronavírus (COVID-19).
+Estimular a articulação da rede de urgência e emergência, rede hospitalar e laboratorial (públicos e
+privados) para coleta e transporte oportunos e adequados das amostras para diagnóstico laboratorial.
+Levantar a disponibilidade nos hospitais de referência de leitos de internação com isolamento e leitos de
+UTI com isolamento para casos graves.
+Apoiar na elaboração de fluxos intra hospitalares para o itinerário do paciente e desenvolvimento das
+atividades pelos profissionais na avaliação e monitoramento dos casos suspeitos ou confirmados.
+Estimular a capacitação em serviço (serviços públicos e privados) para atualização do cenário global e
+nacional da infecção humana pelo novo coronavírus (COVID-19).
+Estabelecer e apoiar o uso de Equipamentos de Proteção Individual para os profissionais do SUS de
+acordo com o protocolo de manejo clínico para a infecção humana pelo novo coronavírus (COVID-19),
+conforme recomendação da Anvisa (link: http://portal.anvisa.gov.br/documents/33852/271858/
+Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-ANVISA/ab598660-3de4-4f14-8e6f-
+b9341c196b28).
+Assistência farmacêutica
+Garantir estoque estratégico de medicamentos para atendimento sintomático dos pacientes.
+Disponibilizar medicamentos indicados e orientar sobre organização do fluxo de serviço farmacêutico.
+Garantir medicamento específico para os casos de SG e SRAG que compreendem a definição clínica para
+uso do fosfato de oseltamivir.
+Rever e estabelecer logística de controle, distribuição e remanejamento, conforme solicitação a demanda.
+Vigilância sanitária - medidas de saúde em pontos de entrada (portos, aeroportos
+e passagens de fronteiras)
+Divulgar material informativo para orientar os viajantes quanto a prevenção e controle do novo
+coronavírus (COVID-19).
+Divulgar os planos de contingências acordado localmente e as orientações sobre a prevenção e controle
+da infecção humana pelo novo coronavírus (COVID-19).
+Atender aos fluxos de informação sobre tripulantes/passageiros (Portos, Aeroportos, Fronteiras e Recintos
+Alfandegados) quando for necessária a investigação de contatos de casos suspeitos ou confirmados do
+novo coronavírus (COVID-19).
+Divulgar procedimentos a serem adotados no caso de detecção de casos suspeitos a bordo dos meios de
+transporte ou nos pontos de entrada.
+Reforçar e ampliar a orientação aos viajantes com alerta sonoro nos aeroportos, portos e outros locais
+de grande circulação de viajantes, sobre medidas para prevenção e controle para o novo coronavírus
+(COVID-19) especialmente a higienização das mãos com frequência e etiqueta respiratória.
+18
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Mobilizar e capacitar a rede de vigilância em saúde, considerando os planos de contingência locais, da
+necessidade da preparação e adoção de medidas para o enfrentamento da infecção humana pelo novo
+coronavírus (COVID-19).
+Mobilizar e orientar a comunidade portuária e aeroportuária e de áreas de fronteira para preparação e
+adoção de medidas para o enfrentamento da infecção humana pelo novo coronavírus (COVID-19).
+Definição e divulgação dos equipamentos de proteção individual necessários aos atendimentos de casos
+suspeitos ou confirmados sobre as medidas de precaução e controle.
+ExpandiracomunicaçãocomosoutrosórgãosdefronteirascomoReceitaFederal,PolíciaFederal,Vigilância
+Agropecuária, Autoridade da aviação civil, autoridade aquaviária e administradoras dos terminais, para
+intensificar as ações de vigilância nos pontos de entrada.
+Comunicação de risco
+Definir estratégias de publicidade e informação à população e à imprensa para a infecção humana pelo
+novo coronavírus (COVID-19).
+Divulgar amplamente os boletins epidemiológicos, protocolos técnicos e informações pertinentes de
+prevenção e controle da infecção humana pelo novo coronavírus (COVID-19).
+Divulgar as informações sobre a doença e medidas de prevenção junto à rede de serviços de saúde e
+população sobre a infecção humana pelo novo coronavírus (COVID-19).
+Divulgar informações epidemiológicas e de prevenção e controle da infecção humana pelo novo
+coronavírus (COVID-19) no sítio do MS e para a imprensa.
+Emitir orientações de saúde sobre a infecção humana pelo novo coronavírus (COVID-19), para
+instituições privadas, escolas e público em geral, com o apoio dos órgãos parceirosdo Grupo Executivo
+InterminIsterial (GEI)Divulgar informações para população em geral em relação às medidas de etiqueta
+respiratória e higienização das mãos para a infecção humana pelo novo coronavírus (COVID-19).
+Elaboração e divulgação de campanhas e materiais informativos sobre as medidas de prevenção e controle
+da infecção humana pelo novo coronavírus (COVID-19).
+Divulgação de informações sobre a infecção humana pelo novo coronavírus (COVID-19) nas redes
+sociais.
+Promover coletivas de imprensa com o porta-voz responsável pela interlocução com os veículos de
+comunicação;
+Elaboração e divulgação de campanhas e materiais informativos sobre as medidas de prevenção e controle
+da infecção humana pelo novo coronavírus (COVID-19);
+Disponibilizar materiais informativos/educativos trilíngues para os aeroportos, portos
+e fronteiras.
+Gestão
+Ampliar os horários de funcionamento do Centro de Operações de Emergências em Saúde Pública,
+COE-COVID-19, operando em nível nacional.
+Promover ações integradas entre vigilância em saúde, assistência, Anvisa, e outros órgãos envolvidos na
+prevenção e controle da infecção humana pelo novo coronavírus (COVID-19).
+Sensibilizar a rede de serviços assistenciais públicos e privados sobre o cenário epidemiológico da
+infecção humana pelo novo coronavírus (COVID-19).
+19
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Articular junto às áreas do Ministério da Saúde (MS) e outros órgãos o desenvolvimento das ações e
+atividades propostas para esse nível de alerta.
+Garantir estoque estratégico de insumos laboratoriais para diagnóstico da infecção humana pelo novo
+coronavírus. (COVID-19).
+Garantir estoque estratégico de medicamento para o atendimento de casos suspeitos e confirmados para
+a infecção humana pelo novo coronavírus (COVID-19).
+Apresentar a situação epidemiológica nas reuniões do Comitê de Monitoramento de Emergências
+(CME), de acordo com agenda estabelecida.
+Organizar os fluxos e atualizações das informações diárias, para o briefing e debriefing do COE-
+COVID-19.
+Promover ações de educação em saúde referente à promoção, prevenção e controle da infecção humana
+pelo novo coronavírus (COVID-19).
+Monitorar os estoques dos insumos existentes ao nível nacional e estadual (medicamentos e insumos
+laboratoriais).
+Emitir instruções para os órgãos de governo sobre diretrizes de controle de infecção e o uso adequado
+de equipamento de proteção (EPI).
+Solicitar apoio aos gestores estaduais no acompanhamento da execução dos Planos de Contingência para
+a infecção humana pelo novo coronavírus.
+Apoiar a divulgação de materiais desenvolvidos pela área técnica (protocolos, manuais, guias, notas
+técnicas).
+Identificar fomentos para as ações emergenciais no enfrentamento do vírus SARS-COV-2.
+Mapear os laboratórios com capacidade tecnológica de produção para teste rápido e vacinas para
+prevenção e controle da infecção humana pelo novo coronavírus (COVID-19).
+NÍVEL DE RESPOSTA: EMERGÊNCIA DE SAÚDE PÚBLICA DE IMPORTÂNCIA
+NACIONAL (ESPIN)
+INDICADOR:háconfirmaçãodetransmissãolocaldoprimeirocasodeCoronavírus(COVID-19),noterritório
+nacional, ou reconhecimento de declaração de Emergência de Saúde Pública de Importância Internacional
+(ESPII) pela Organização Mundial de Saúde (OMS).
+São recomendações:
+Vigilância
+Manter comunicação com a Organização Mundial da Saúde (OMS) e outras organizações internacionais
+e autoridades de saúde para obter de modo oportuno e preciso, as diretrizes dos desdobramentos
+internacionais.
+Divulgar as normas e diretrizes do MS para a prevenção e controle da infecção humana pelo novo
+coronavírus.
+Manter ativas as ações do Centro de Operações de Emergências em Saúde Pública COE-COVID-19 nas
+unidades federadas e municípios para monitoramento de casos suspeitos ou confirmados para a infecção
+humana pelo novo coronavírus.
+Garantir que os serviços de referência notifiquem, investiguem e monitorem os casos confirmados para
+o vírus SARS-COV-2 oportunamente.
+20
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Realizar avaliação de risco, adaptando para a situação do país, o descrito no anexo II do Regulamento
+Sanitário Internacional.
+Realizar investigação do caso confirmado pela infecção humana pelo novo coronavírus (COVID-19).
+Elaborar e divulgar Boletins Epidemiológicos com periodicidade semanal para atualização das situação
+epidemiológica do país e das ações de enfrentamento à ESPIN.
+Manter a Rede de vigilância e atenção à saúde organizadas sobre a situação epidemiológica do país
+e a necessidade de adoção de novas medidas de prevenção e controle da infecção humana pelo novo
+coronavírus (COVID-19).
+Monitorar eventos e rumores na imprensa, redes sociais e junto aos serviços de saúde.
+Divulgar as normas e diretrizes do MS para a prevenção e controle da infecção humana pelo novo
+coronavírus (COVID-19).
+Disponibilizar equipes de resposta rápida para a investigação de casos confirmados da infecção humana
+pelo novo coronavírus (COVID-19), em apoio a estados e municípios.
+Conduzir investigação epidemiológica e rastrear contatos de casos suspeitos e confirmados da infecção
+humana pelo novo coronavírus (COVID-19).
+Divulgar amplamente materiais de educação em saúde para o trabalhador da saúde.
+Suporte laboratorial
+Garantir a execução dos fluxos para diagnóstico laboratorial para detecção de infecção humana pelo
+novo coronavírus (COVID-19), junto a rede laboratorial de referência para os vírus respiratórios.
+Aplicar os protocolos de diagnóstico para a infecção humana pelo novo coronavírus (COVID-19), de
+acordo com as recomendações da OMS.
+Garantir os insumos para diagnóstico da infecção humana pelo novo coronavírus (COVID-19) e outros
+vírus respiratórios para a rede laboratorial.
+Monitorar os resultados de diagnóstico laboratorial para a infecção humana pelo novo coronavírus
+(COVID-19) e outros vírus respiratórios.
+Apoiar os laboratórios na realização de diagnóstico de RT-PCR em tempo real para a infecção humana
+pelo novo coronavírus (COVID-19) de acordo com os procedimentos e recomendações da OMS, tanto
+para os NIC, como para os Lacen com capacidade de realização do diagnóstico.
+Orientar aos Lacens para envio das amostras aos laboratórios de referência.
+Apoiar e garantir o transporte das amostras do Lacen ao laboratório de referência.
+Apoiar os serviços privados sobre a importância da coleta, fluxo de envio e diagnóstico da infecção
+humana pelo novo coronavírus (COVID-19), de acordo com os protocolos
+Garantir a realização do diagnóstico de RT-PCR em tempo real e as análises complementares do vírus
+SARS-COV-2 aos Laboratórios de Referência Nacional e Regionais.
+Medidas de controle de infecção
+Orientar os serviços de saúde quanto às medidas de prevenção e controle de infecção para casos suspei-
+tos ou confirmados de infecção pelo novo coronavírus (COVID-19), conforme orientações da Anvisa,
+no link: http://portal.anvisa.gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-
+-2020+GVIMS-GGTES-ANVISA/ab598660-3de4-4f14-8e6f-b9341c196b28.
+21
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Assistência
+Apoiar o funcionamento adequado e oportuno da organização da rede de atenção para atendimento ao
+aumento de contingente de casos de SG, SRAG e da infecção humana pelo novo coronavírus (COVID-19).
+Apoiar a ampliação de leitos, reativação de áreas assistenciais obsoletas, ou contratação de leitos com
+isolamento para o atendimento dos casos de de SG, SRAG e da infecção humana pelo novo coronavírus
+(COVID-19).
+Orientar, em caso de surto ou epidemia de casos de novo coronavírus, a organização da rede de atenção
+à saúde para disponibilidade de UTI que atenda a demanda de cuidados intensivos para casos graves,
+garantido adequado isolamento dos mesmos.
+Reforçar a necessidade de garantir proteção aos profissionais atuantes no atendimento aos casos
+suspeitos ou confirmados da infecção humana pelo novo coronavírus (COVID-19), nos serviços
+públicos e privados, conforme recomendações da Anvisa (link: http://portal.anvisa.gov.br/
+documents/33852/271858/Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-ANVISA/
+ab598660-3de4-4f14-8e6f-b9341c196b28), garantindo provisionamento de Equipamento de
+proteção individual, evitando assim a desassistência.
+Assistência farmacêutica
+Garantir estoque estratégico de medicamentos para atendimento sintomático dos pacientes.
+Disponibilizar medicamentos indicados e orientar sobre organização do fluxo de serviço farmacêutico.
+Garantir medicamento específico para os casos de SG e SRAG que compreendem a definição clínica para
+uso do fosfato de oseltamivir.
+Monitorar o estoque de medicamentos no âmbito federal e estadual.
+Rever e estabelecer logística de controle, distribuição e remanejamento, conforme solicitação a demanda.
+Vigilância sanitária - medidas de saúde em pontos de entrada (portos, aeroportos
+e passagens de fronteiras)
+Intensificar a divulgação do material informativo para orientar os viajantes quanto a prevenção e controle
+da infecção humana pelo novo coronavírus (COVID-19).
+Fortalecer as orientações para as equipes de Portos, Aeroportos, Fronteiras e Recintos Alfandegados
+sobre as medidas de prevenção e controle da infecção humana pelo novo coronavírus (COVID-19)
+considerando a abordagem dos viajantes e inspeção dos meios de transporte, para autorização de
+desembarque ou definição de ações para investigação de casos suspeitos, se pertinente.
+Atender aos fluxos de informação definidos sobre tripulantes/passageiros (Portos, Aeroportos, Fronteiras
+e Recintos Alfandegados) quando for necessária a investigação de contatos de casos suspeitos ou
+confirmados de infecção humana pelo novo coronavírus (COVID-19).
+Intensificar os avisos sonoros nos aeroportos, portos e locais com grande circulação de viajantes
+orientando aos viajantes as medidas de prevenção e controle para a infecção humana pelo novo
+coronavírus (COVID-19).
+Reforçar as orientações sobre a utilização dos equipamentos de proteção individual necessários aos
+atendimentos de casos suspeitos e demais medidas de precaução.
+Estabelecer medidas adicionais estabelecidas pela OMS como avaliação prévia de sintomáticos ou
+assintomáticos para desembarque ou declaração do viajante considerando o histórico de viagem e
+autodeclaração de saúde.
+22
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Mobilizar e orientar a comunidade portuária e aeroportuária e de áreas de fronteira para adoção de
+medidas para o enfrentamento da infecção humana pelo novo coronavírus (COVID-19).
+Mobilizar a rede de vigilância em saúde, considerando os Planos de contingência locais, da necessidade
+da preparação e adoção de medidas para o enfrentamento da infecção humana pelo novo coronavírus
+(COVID-19).
+Comunicação de risco
+Emitir orientações de saúde para instituições privadas, escolas e público em geral, com o apoio do Grupo
+Executivo Interministerial (GEI);
+Informar as medidas a serem adotadas pelos profissionais de diversas áreas e a população geral;
+Elaborar junto com a área técnica materiais informativos/educativos sobre o novo coronavírus e distribuí-
+los para a população, profissionais de saúde, jornalistas e formadores de opinião;
+Disponibilizar material de divulgação para reprodução nos estados e municípios, órgãos que compõem
+o GEI e outros Parceiros;
+Disponibilizar materiais informativos/educativos trilíngues para os aeroportos, portos e fronteiras;
+Disponibilizar peças publicitárias a serem veiculadas nos diversos meios de comunicação;
+Monitorar as redes sociais para esclarecer rumores, boatos e informações equivocadas;
+Manter atualizada a página eletrônica do novo coronavírus;
+Disponibilizar material informativo/educativo para públicos específicos: gestores, profissionais de saúde,
+viajantes, escolas, dentre outros;
+Promover coletivas de imprensa com o porta-voz responsável pela interlocução com os veículos de
+comunicação;
+Definir com o GEI, se além do MS, terá outro porta-voz para tratar sobre o novo coronavírus;
+Aproximar as assessorias de comunicação dos diferentes órgãos que compõem o GEI para alinhamento
+de discurso e desenvolvimento de ações em comum;
+Aproximar as assessorias de comunicação dos Estados para alinhamento de discurso e desenvolvimento
+de ações;
+Estabelecer parcerias com a rede de comunicação pública (TVs, rádios e agências de notícias) para enviar
+mensagens com informações atualizadas.
+Gestão
+Ativar o Grupo Executivo Interministerial (GEI) para definição e adoção de respostas rápidas no
+enfrentamento dos casos suspeitos ou confirmados para infecção humana pelo novo coronavírus.
+Ampliar os horários de funcionamento do Centro de Operações de Emergências em Saúde Pública COE-
+COVID-19, operando em nível nacional.
+Promover ações integradas entre vigilância em saúde, assistência, Anvisa, e outros órgãos envolvidos na
+prevenção e controle do vírus SARS-COV-2.
+Sensibilizar a rede de serviços assistenciais públicos e privados sobre o cenário epidemiológico da
+infecção humana pelo novo coronavírus (COVID-19).
+Articular junto às áreas do Ministério da Saúde (MS) e outros órgãos o desenvolvimento das ações e
+atividades propostas para esse nível de alerta.
+23
+Plano de Contingência Nacional
+para Infecção Humana pelo novo
+Coronavírus COVID-19 COE/SVS/MS | Fev. 2020
+Garantir e monitorar estoque estratégico de insumos laboratoriais para diagnóstico da infecção humana
+pelo novo coronavírus COVID-19.
+Garantir e monitorar estoque estratégico de medicamento para o atendimento de casos suspeitos e
+confirmados para o vírus SARS-COV-2.
+Apresentar a situação epidemiológica nas reuniões do Comitê de Monitoramento de Emergências
+(CME), de acordo com agenda estabelecida.
+Organizar os fluxos e atualizações das informações diárias, para o briefing e debriefing do COE.
+Promover ações de educação em saúde referente à promoção, prevenção e controle da vírus SARS-COV-2.
+Emitir instruções para os órgãos de governo sobre diretrizes de controle de infecção e o uso adequado
+de equipamento de proteção (EPI).
+Solicitar apoio aos gestores estaduais no acompanhamento da execução dos Planos de Contingência para
+a infecção humana pelo novo coronavírus.
+Apoiar a divulgação de materiais desenvolvidos pela área técnica (protocolos, manuais, guias, notas
+técnicas).
+Identificar fomentos para as ações emergenciais no enfrentamento do vírus SARS-COV-2.
+REFERÊNCIAS
+Agência Nacional de Vigilância Sanitária – http://portal.anvisa.gov.br/coronavirus
+Centers for Disease Control and Prevention – https://www.cdc.gov/coronavirus/2019-ncov/index.
+html
+Ministério da Saúde. Secretaria de Vigilância em Saúde – https://www.saude.gov.br/saude-de-a-z/
+coronavirus
+World Health Organization – https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+Biblioteca Virtual em Saúde do Ministério da Saúde
+www.saude.gov.br/bvs
+

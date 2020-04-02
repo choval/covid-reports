@@ -1,0 +1,28 @@
+{
+    "filename": "Fluxo-de-Manejo-cl--nico-do-adulto-e-idoso.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/25\/Fluxo-de-Manejo-cl--nico-do-adulto-e-idoso.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841650,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1115714",
+        "date": "Thu, 02 Apr 2020 15:34:10 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_100D05D245A56B9C11CAFEAB87D57330_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 25 Mar 2020 15:27:24 GMT",
+        "etag": "\"110642-5a1af815792a7\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4e7662dfcb550119d8d03c39a78ec2ea.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "_BbZ9ImmKuZiX7AwsnRQKfL1jameg4JlPLlh3IT-58PE3MRKpZW0iw=="
+    },
+    "lang": "pt",
+    "size": 1115714,
+    "modified": 1585150044
+}

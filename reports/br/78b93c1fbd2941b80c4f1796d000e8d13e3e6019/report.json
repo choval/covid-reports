@@ -1,0 +1,28 @@
+{
+    "filename": "2020030-Fluxograma-ver06-Final.pdf",
+    "uri": "https:\/\/saude.gov.br\/images\/pdf\/2020\/marco\/30\/2020030-Fluxograma-ver06-Final.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841664,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "302807",
+        "date": "Thu, 02 Apr 2020 15:34:24 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_9886B3ABEF639D17F6F8ADF0A89D5A90_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 19:43:49 GMT",
+        "etag": "\"49ed7-5a217ab8560b1\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4147caa9bd44f24d893d2277818f3b16.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "yWBbdA0WCiHeq0y8nLMqCwRQXkqyoF5Ffj3GYcML84zfwBEtcD5Bdw=="
+    },
+    "lang": "pt",
+    "size": 302807,
+    "modified": 1585597429
+}

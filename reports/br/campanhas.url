@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.saude.gov.br/campanhas/46452-coronavirus"
+ORG=Brasil
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)\"/Uis"
+LANG=pt

@@ -1,0 +1,30 @@
+{
+    "filename": "plano-contingencia-coronavirus-preliminar.pdf",
+    "uri": "https:\/\/coronavirus.saude.gov.br\/images\/pdf\/2020\/fevereiro\/07\/plano-contingencia-coronavirus-preliminar.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841601,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "location": "http:\/\/portalarquivos2.saude.gov.br\/images\/pdf\/2020\/fevereiro\/07\/plano-contingencia-coronavirus-preliminar.pdf",
+        "date": "Thu, 02 Apr 2020 15:33:21 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1585841602.544.12862.828470; Path=\/; Secure; HttpOnly",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 f66b005748e9a5caac6d3baab6b04ca4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "hffZqoDEaP1RWv-ukfsqFT3GvLr_lNskqTSv7U_TXAYLEApQGv8WIw==",
+        "content-length": "578823",
+        "connection": "keep-alive",
+        "last-modified": "Thu, 19 Mar 2020 02:59:44 GMT",
+        "etag": "\"8d507-5a12c5c604800\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "content-security-policy": "upgrade-insecure-requests"
+    },
+    "lang": "pt",
+    "size": 578823,
+    "modified": 1584586784
+}

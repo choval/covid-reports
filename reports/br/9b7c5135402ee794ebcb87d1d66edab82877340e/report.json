@@ -1,0 +1,28 @@
+{
+    "filename": "Cartaz-Eventos-64x46cm.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/26\/Cartaz-Eventos-64x46cm.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841457,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "216528",
+        "date": "Thu, 02 Apr 2020 15:30:57 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_DF29887B38F2B3CD717E6F024E991A9A_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 26 Mar 2020 13:58:27 GMT",
+        "etag": "\"34dd0-5a1c261137210\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 f9c5e5b9a4e739792ecd46afc5cf785d.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "8slAF0b4Yrn--KDLvdL19E54q8gEqflmbVL_J8igPIIhux6TxQLEXw=="
+    },
+    "lang": "pt",
+    "size": 216528,
+    "modified": 1585231107
+}

@@ -1,0 +1,28 @@
+{
+    "filename": "20200330-BOLSO-ver06-verFinal.pdf",
+    "uri": "https:\/\/saude.gov.br\/images\/pdf\/2020\/marco\/30\/20200330-BOLSO-ver06-verFinal.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841670,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "240207",
+        "date": "Thu, 02 Apr 2020 15:34:30 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_05B83C65C44DD37E664A4B31AA42BAE4_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 19:49:59 GMT",
+        "etag": "\"3aa4f-5a217c19c2677\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 7de836cd9073880b89a64b9d7a8f8b0b.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "McRvzx4bpuI7B3H9-lvYT5WPdgdU16J5X59RFkE2aOkpz3yul2i39w=="
+    },
+    "lang": "pt",
+    "size": 240207,
+    "modified": 1585597799
+}

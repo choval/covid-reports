@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://coronavirus.saude.gov.br/profissional-gestor#plano-contigencia-estados"
+ORG=Brasil
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)\"/Uis"
+LANG=pt

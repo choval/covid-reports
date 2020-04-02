@@ -1,0 +1,30 @@
+{
+    "filename": "operacao-regresso-11fev-b.pdf",
+    "uri": "https:\/\/coronavirus.saude.gov.br\/images\/pdf\/2020\/fevereiro\/11\/operacao-regresso-11fev-b.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841584,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "location": "http:\/\/portalarquivos2.saude.gov.br\/images\/pdf\/2020\/fevereiro\/11\/operacao-regresso-11fev-b.pdf",
+        "date": "Thu, 02 Apr 2020 15:33:04 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1585841585.189.12859.341637; Path=\/; Secure; HttpOnly",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 8b130a1488d53626d2fd075757d55035.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "SAkFdxS2wCMnR20_lE6-1Zy_456kbf9YLIAvQKyMAxQjt788jH8adg==",
+        "content-length": "302426",
+        "connection": "keep-alive",
+        "last-modified": "Thu, 19 Mar 2020 02:59:47 GMT",
+        "etag": "\"49d5a-5a12c5c8e0ec0\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "content-security-policy": "upgrade-insecure-requests"
+    },
+    "lang": "pt",
+    "size": 302426,
+    "modified": 1584586787
+}

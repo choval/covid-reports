@@ -1,0 +1,28 @@
+{
+    "filename": "Coronavirus--Isolamento-Domiciliar.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/24\/Coronavirus--Isolamento-Domiciliar.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841441,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "2570590",
+        "date": "Thu, 02 Apr 2020 15:30:41 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_C4A016364082087DE3A52AC359B38232_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 24 Mar 2020 15:18:33 GMT",
+        "etag": "\"27395e-5a19b43ce5e2c\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 6492b42e2fc3684cc00b54d685c2328c.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "aivcoP50igo0RxQXrLkF0KSdyFj569c807WDACDaZcqImW1yM8vXaQ=="
+    },
+    "lang": "pt",
+    "size": 2570590,
+    "modified": 1585063113
+}
