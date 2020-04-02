@@ -1,0 +1,28 @@
+{
+    "filename": "2020-02-21-Boletim-Epidemiologico03.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/fevereiro\/21\/2020-02-21-Boletim-Epidemiologico03.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786787,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "695973",
+        "date": "Thu, 02 Apr 2020 00:19:47 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_005E5C1ACCE0D7975FD34F1C068B3C34_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 03:00:00 GMT",
+        "etag": "\"a9ea5-5a12c5d546c00\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 2b876a8191a0fa6b824bcee093fdaac2.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C1",
+        "x-amz-cf-id": "JiT-COme06W8c42d6rALuvJuvpgVVWV3oFtR7YCvyxI6tpivYiCN5Q=="
+    },
+    "lang": "pt",
+    "size": 695973,
+    "modified": 1584586800
+}

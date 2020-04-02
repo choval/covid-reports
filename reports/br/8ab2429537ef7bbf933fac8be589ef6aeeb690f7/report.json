@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-61-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/19\/Contrato-61-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786704,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "154244",
+        "date": "Thu, 02 Apr 2020 00:18:24 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_7D26620D590B7CC6995787BC92D5A44C_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 20:52:09 GMT",
+        "etag": "\"25a84-5a13b57a83bc5\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4cc54b3c18f922b46f520eb8c327d8e7.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "JAX1-C1",
+        "x-amz-cf-id": "nyJegCkPTccSUHhJurJvPZ0EewUiNx5CyfREI0Acxacgu-E8gsEV9g=="
+    },
+    "lang": "pt",
+    "size": 154244,
+    "modified": 1584651129
+}

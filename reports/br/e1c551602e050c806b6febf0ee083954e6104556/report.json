@@ -1,0 +1,28 @@
+{
+    "filename": "Boletim_epidemiologico_SVS_04.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/janeiro\/23\/Boletim_epidemiologico_SVS_04.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786807,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1927250",
+        "date": "Thu, 02 Apr 2020 00:20:07 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_97A4AC07E3B65B3798AA66C2213D0D52_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 03:00:05 GMT",
+        "etag": "\"1d6852-5a12c5da0b740\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 ae8b72a635cf1b2a87cd55853de0b1a4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "ZnCMLXP6FNTmtn7LRHF9K6DVH5nXP4J_hRlNgDtkluAyJMlh6tQWjA=="
+    },
+    "lang": "pt",
+    "size": 1927250,
+    "modified": 1584586805
+}

@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-66-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/19\/Contrato-66-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786709,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "157150",
+        "date": "Thu, 02 Apr 2020 00:18:29 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_1814A00696703AFE42AAC74302C7F2B7_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 20:52:35 GMT",
+        "etag": "\"265de-5a13b59337088\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 3eb28b22b70a0e3b88ad2ae3f684a3fc.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "JAX1-C1",
+        "x-amz-cf-id": "viGr7v83zUGGJaJl8l4rws10qi4ymfURNfGNq0_P0lTEXICXrFOWLQ=="
+    },
+    "lang": "pt",
+    "size": 157150,
+    "modified": 1584651155
+}

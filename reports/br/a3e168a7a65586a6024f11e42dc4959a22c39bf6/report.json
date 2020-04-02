@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-42-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/19\/Contrato-42-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786680,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "153429",
+        "date": "Thu, 02 Apr 2020 00:18:00 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_DC36E7E531DF38E2BA49396BEC3C2845_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 20:48:44 GMT",
+        "etag": "\"25755-5a13b4b7576ea\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 6f05f71f34e695217d05ef7627c11c8a.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "JAX1-C1",
+        "x-amz-cf-id": "AR3RlfBR3h59mw-h2Jp0TplACndQSLJSdudqlxiQDuMYersgTEOe5w=="
+    },
+    "lang": "pt",
+    "size": 153429,
+    "modified": 1584650924
+}

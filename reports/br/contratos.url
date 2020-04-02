@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.saude.gov.br/contratos-coronavirus"
+ORG=Brasil
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=pt

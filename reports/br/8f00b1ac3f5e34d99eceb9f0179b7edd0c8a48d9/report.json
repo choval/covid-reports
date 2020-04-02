@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-95-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/31\/Contrato-95-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786615,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "178053",
+        "date": "Thu, 02 Apr 2020 00:16:55 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_E9C1A9085E667F0F5335CD92741C894D_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 31 Mar 2020 21:40:27 GMT",
+        "etag": "\"2b785-5a22d6a7cdd99\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 ca1d5a4b52d08cd5e7ea6f85005bf085.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "e5aI7D49hDqqKdtPnqPCULVKYnWZYnnaC7IfIdX3sJRvFUTZfd8GWA=="
+    },
+    "lang": "pt",
+    "size": 178053,
+    "modified": 1585690827
+}

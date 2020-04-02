@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-80-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/24\/Contrato-80-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786758,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "285643",
+        "date": "Thu, 02 Apr 2020 00:19:18 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_8917FB051B2507405617A75A8620EB6D_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 24 Mar 2020 22:58:21 GMT",
+        "etag": "\"45bcb-5a1a1b03256f8\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 9e32d061d6f1c0e8ba238fdbb0c7b97e.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C1",
+        "x-amz-cf-id": "CMqPIbWkp69ujanj71lpgyRSP4trq4pxWZqscy4fh1P3F24OKztxxQ=="
+    },
+    "lang": "pt",
+    "size": 285643,
+    "modified": 1585090701
+}

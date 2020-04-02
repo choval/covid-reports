@@ -5,6 +5,7 @@
 | [Argentina](ar/README.md) | 2020-04-01 12:47 GMT | [35](ar/README.md) | 1 |
 | [Australia](au/README.md) | 2020-03-28 13:14 GMT | [8](au/README.md) | 1 |
 | [Bolivia](bo/README.md) | 2020-04-01 17:41 GMT | [21](bo/README.md) | 1 |
+| [Brasil](br/README.md) | 2020-03-31 21:40 GMT | [36](br/README.md) | 1 |
 | [Chile](cl/README.md) | 2020-04-01 21:55 GMT | [69](cl/README.md) | 1 |
 | [Colombia](co/README.md) | 2020-03-30 22:09 GMT | [76](co/README.md) | 1 |
 | [Ecuador](ec/README.md) | 2020-04-01 22:28 GMT | [76](ec/README.md) | 1 |

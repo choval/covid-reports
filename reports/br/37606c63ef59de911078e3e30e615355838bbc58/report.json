@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-94-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/31\/Contrato-94-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786610,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "192649",
+        "date": "Thu, 02 Apr 2020 00:16:50 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_41D2312A2B4ED5709B7FDBE2E46094CA_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 31 Mar 2020 21:40:11 GMT",
+        "etag": "\"2f089-5a22d6985fa3c\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 20f0da216a3d7d69d6c7e3cec1f1788e.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "EsEvt2HrJ7yxiz1gDNCT1j1sdaMzUE1Vwtz_-wl8_-QerbqsV5mqCg=="
+    },
+    "lang": "pt",
+    "size": 192649,
+    "modified": 1585690811
+}

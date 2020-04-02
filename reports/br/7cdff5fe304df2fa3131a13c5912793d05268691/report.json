@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-44-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/marco\/19\/Contrato-44-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585786653,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "161750",
+        "date": "Thu, 02 Apr 2020 00:17:32 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_F4FE84D07862AEB163119AA3B1AA616B_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 20:49:08 GMT",
+        "etag": "\"277d6-5a13b4ce5efdf\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 283bf5a1fedc412da893c1245823c7ce.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "qFAuw2MXN7OTs3VTXxHsVLn-bOX0kRGFjSKUWvxg9JW0ECw5aJULLA=="
+    },
+    "lang": "pt",
+    "size": 161750,
+    "modified": 1584650948
+}
