@@ -1,6 +1,10 @@
 # France
 
 
+## 2020-04-01
+
+* [point\_de\_situation\_1er\_avril\_2020.pdf](46ff12575cfdf16f7d0d33f54fc7fc5cecbc05be/file.pdf) @19:04 GMT
+
 ## 2020-03-31
 
 * [point\_de\_situation\_de\_jerome\_salomon\_-\_mardi\_31\_mars.pdf](681ba114cef7c930f9d1581dc681dc9c8cd858ef/file.pdf) @18:59 GMT

@@ -1,0 +1,23 @@
+{
+    "filename": "Acuerdo-012-2019.pdf",
+    "uri": "https:\/\/www.gobiernoelectronico.gob.ec\/wp-content\/uploads\/2019\/07\/Acuerdo-012-2019.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585785601,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 02 Apr 2020 00:00:01 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "4931112",
+        "last-modified": "Mon, 08 Jul 2019 22:01:53 GMT",
+        "etag": "\"4b3e28-58d32978970a3\"",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=2592000",
+        "expires": "Sat, 02 May 2020 00:00:01 GMT",
+        "vary": "User-Agent",
+        "strict-transport-security": "max-age=63072000; preload"
+    },
+    "lang": "es",
+    "size": 4931112,
+    "modified": 1562623313
+}

@@ -3,6 +3,7 @@
 
 ## 2020-04-01
 
+* [personal-enfermeria-sera-capacitado-para-hacer-frente-pandemia-covid19](0e0dfaeac45ca8ab2e72327c34aeabb5b6e35dd6/file.pdf) @23:39 GMT
 * [informe-situacion-relacion-coronavirus-covid-19-uruguay-del-31320](a660cc7aa072c251c76c461711d4506f94839400/file.pdf) @17:58 GMT
 
 ## 2020-03-31

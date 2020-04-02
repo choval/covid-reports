@@ -1,0 +1,23 @@
+{
+    "filename": "Resoluciones-COE-Nacional-19-de-marzo-2020.pdf",
+    "uri": "https:\/\/www.gestionderiesgos.gob.ec\/wp-content\/uploads\/2020\/03\/Resoluciones-COE-Nacional-19-de-marzo-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585784784,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Wed, 01 Apr 2020 23:46:24 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "85593",
+        "last-modified": "Tue, 24 Mar 2020 18:02:41 GMT",
+        "etag": "\"14e59-5a19d8ecba054\"",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=2592000",
+        "expires": "Fri, 01 May 2020 23:46:24 GMT",
+        "vary": "User-Agent",
+        "strict-transport-security": "max-age=63072000; preload"
+    },
+    "lang": "es",
+    "size": 85593,
+    "modified": 1585072961
+}

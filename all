@@ -1,5 +1,6 @@
 #!/bin/sh
 ./scripts/kr/files_fix && \
 ./scripts/jp/files_check && \
+./scripts/ec/files_check && \
 ./scripts/unrelated && \
 ./scripts/generate_docs

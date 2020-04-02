@@ -1,0 +1,23 @@
+{
+    "filename": "Informe-de-Situaci\u00f3n-No001-Casos-Coronavirus-Ecuador-12032020.pdf",
+    "uri": "https:\/\/www.gestionderiesgos.gob.ec\/wp-content\/uploads\/2020\/03\/Informe-de-Situaci\u00f3n-No001-Casos-Coronavirus-Ecuador-12032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585784761,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Wed, 01 Apr 2020 23:46:01 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "492955",
+        "last-modified": "Fri, 13 Mar 2020 21:52:47 GMT",
+        "etag": "\"7859b-5a0c37d7833b2\"",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=2592000",
+        "expires": "Fri, 01 May 2020 23:46:01 GMT",
+        "vary": "User-Agent",
+        "strict-transport-security": "max-age=63072000; preload"
+    },
+    "lang": "es",
+    "size": 492955,
+    "modified": 1584136367
+}

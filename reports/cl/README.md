@@ -3,6 +3,7 @@
 
 ## 2020-04-01
 
+* [1747890.pdf](6d87a5e93719ebf4160b3b967168389e7323a5c4/file.pdf) @21:55 GMT
 * [Informe\_15\_COVID\_19\_Chile.pdf](4bc1ec94dc08289fba003e642500b8b271364f5d/file.pdf) @14:38 GMT
 * [Informe\_17\_COVID\_19\_Chile.pdf](8d6d44e08115bedf300a6582bd83d7823c1bf72a/file.pdf) @14:38 GMT
 * [Informe\_16\_COVID\_19\_Chile.pdf](0cd0516d7d9b01c7c8fa30d4061dfc6f2f990625/file.pdf) @14:37 GMT

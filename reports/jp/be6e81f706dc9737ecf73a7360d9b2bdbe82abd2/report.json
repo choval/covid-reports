@@ -1,0 +1,21 @@
+{
+    "filename": "000618099.pdf",
+    "uri": "https:\/\/www.mhlw.go.jp\/content\/10906000\/000618099.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585783989,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Wed, 01 Apr 2020 21:09:35 GMT",
+        "etag": "\"385b1-5a24119f62bb5\"",
+        "accept-ranges": "bytes",
+        "content-length": "230833",
+        "content-type": "application\/pdf",
+        "date": "Wed, 01 Apr 2020 23:33:09 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "ja",
+    "size": 230833,
+    "modified": 1585775375
+}
