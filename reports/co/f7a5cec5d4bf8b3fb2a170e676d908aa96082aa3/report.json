@@ -1,0 +1,31 @@
+{
+    "filename": "536%20Adopta%20Plan%20de%20accion%20par%20PSS%20durante%20las%20etapas%20de%20contencion%20y%20mitigacion%20pandemia%20SARS-CoV%20-Covid-19.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/536%20Adopta%20Plan%20de%20accion%20par%20PSS%20durante%20las%20etapas%20de%20contencion%20y%20mitigacion%20pandemia%20SARS-CoV%20-Covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585836413,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "69826",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 14:06:52 GMT",
+        "last-modified": "Thu, 02 Apr 2020 01:55:43 GMT",
+        "etag": "\"{A861EF6A-1F89-44E8-BA44-7B3EDEE3E1C3},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:A861EF6A-1F89-44E8-BA44-7B3EDEE3E1C3@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "42d6449f-f865-2039-0357-f730b1f135d5",
+        "request-id": "42d6449f-f865-2039-0357-f730b1f135d5",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 14:06:52 GMT"
+    },
+    "lang": "es",
+    "size": 69826,
+    "modified": 1585792543
+}

@@ -1,0 +1,31 @@
+{
+    "filename": "TEDS06%20Salud%20Mental%20Adulto%20Mayor.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/TEDS06%20Salud%20Mental%20Adulto%20Mayor.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585792421,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "253088",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 01:53:41 GMT",
+        "last-modified": "Wed, 01 Apr 2020 23:58:10 GMT",
+        "etag": "\"{5DB3246D-9760-4D94-8CE6-5E9887D4ECD2},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:5DB3246D-9760-4D94-8CE6-5E9887D4ECD2@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "4eac449f-e87b-2039-0357-fd7a80f10777",
+        "request-id": "4eac449f-e87b-2039-0357-fd7a80f10777",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 01:53:40 GMT"
+    },
+    "lang": "es",
+    "size": 253088,
+    "modified": 1585785490
+}

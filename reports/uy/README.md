@@ -1,6 +1,11 @@
 # Uruguay
 
 
+## 2020-04-02
+
+* [informe-especial-sobre-coronavirus-covid-19](31d459dc8af512a904c5a66c59232a2aeee26e0b/file.pdf) @14:16 GMT
+* [informe-situacion-relacion-coronavirus-covid-19](6bf12d6d5ba38e4ce3d16fc94de64341de5fd9ff/file.pdf) @02:00 GMT
+
 ## 2020-04-01
 
 * [personal-enfermeria-sera-capacitado-para-hacer-frente-pandemia-covid19](0e0dfaeac45ca8ab2e72327c34aeabb5b6e35dd6/file.pdf) @23:39 GMT

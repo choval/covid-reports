@@ -1,0 +1,31 @@
+{
+    "filename": "TEDS05%20Poblacio%CC%81n%20Migrante.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/TEDS05%20Poblacio%CC%81n%20Migrante.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585792328,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "368440",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 01:52:08 GMT",
+        "last-modified": "Wed, 01 Apr 2020 23:57:54 GMT",
+        "etag": "\"{874B5806-FDB6-4AE9-9163-BA940ABD813C},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:874B5806-FDB6-4AE9-9163-BA940ABD813C@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "37ac449f-68bc-2039-0357-f5bafeed88be",
+        "request-id": "37ac449f-68bc-2039-0357-f5bafeed88be",
+        "sprequestduration": "7",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 01:52:08 GMT"
+    },
+    "lang": "es",
+    "size": 368440,
+    "modified": 1585785474
+}

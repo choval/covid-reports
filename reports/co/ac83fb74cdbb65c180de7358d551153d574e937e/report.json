@@ -1,0 +1,31 @@
+{
+    "filename": "PSSS01.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/Ministerio\/Institucional\/Procesos%20y%20procedimientos\/PSSS01.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585836392,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1214383",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 14:06:32 GMT",
+        "last-modified": "Thu, 02 Apr 2020 01:09:16 GMT",
+        "etag": "\"{5FF34F36-761B-486B-8935-354614C4F5A2},3\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:5FF34F36-761B-486B-8935-354614C4F5A2@00000000003",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "3dd6449f-d879-2039-0357-fd03ad9a606c",
+        "request-id": "3dd6449f-d879-2039-0357-fd03ad9a606c",
+        "sprequestduration": "4",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 14:06:32 GMT"
+    },
+    "lang": "es",
+    "size": 1214383,
+    "modified": 1585789756
+}

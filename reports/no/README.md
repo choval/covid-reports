@@ -1,6 +1,10 @@
 # Norway
 
 
+## 2020-04-02
+
+* [2020-04-02\_dagsrapport-covid-19\_til-publ.pdf](c4e8ef3ad8598abdd2c2d9f6e680d86b31c18381/file.pdf) @11:04 GMT
+
 ## 2020-04-01
 
 * [2020.04.01---dagsrapport-covid-19-v2.pdf](3dc1b01ea3ad36c42b4d042096102783d45578ab/file.pdf) @12:03 GMT
@@ -41,13 +45,13 @@
 
 ## 2020-03-25
 
-* [2020.03.25---dagsrapport-covid-19-2.pdf](7a2ef8d6a38e1beaaccda14db7c401d95457a46f/file.pdf) @13:01 GMT
 * [2020.03.25---dagsrapport-covid-19-2.pdf](f66a19354b003fedadbf97f442977804d8e4a912/file.pdf) @13:01 GMT
+* [2020.03.25---dagsrapport-covid-19-2.pdf](7a2ef8d6a38e1beaaccda14db7c401d95457a46f/file.pdf) @13:01 GMT
 
 ## 2020-03-24
 
-* [2020.03.24---dagsrapport-covid-19-korrigert.pdf](e91754b32f5f67cd31aee9d3d7cdf30f1f753fc4/file.pdf) @21:22 GMT
 * [2020.03.24---dagsrapport-covid-19-korrigert.pdf](ccc48459c2b4ed6654750cb0e78ec0432b8557ba/file.pdf) @21:22 GMT
+* [2020.03.24---dagsrapport-covid-19-korrigert.pdf](e91754b32f5f67cd31aee9d3d7cdf30f1f753fc4/file.pdf) @21:22 GMT
 
 ## 2020-03-23
 
@@ -62,12 +66,12 @@
 ## 2020-03-21
 
 * [2020-03-21---dagsrapport---covid-19\_korrigert.pdf](6af0f18d71a593c7596ce73534be7aa0e07827c5/file.pdf) @16:09 GMT
-* [2020-03-21-ukerapport-covid-19.pdf](b7b48118c108e3619de17d55d9539dc5a6671575/file.pdf) @15:24 GMT
 * [2020-03-21-ukerapport-covid-19.pdf](34e4104f1521e72ed12e7980143b5d8c73ac0b39/file.pdf) @15:24 GMT
+* [2020-03-21-ukerapport-covid-19.pdf](b7b48118c108e3619de17d55d9539dc5a6671575/file.pdf) @15:24 GMT
 * [2020-03-21-ukerapport-covid-19.pdf](ddb47cfa7d54b434d4e855d0178e1e97284d9722/file.pdf) @15:24 GMT
-* [2020-03-19-ukerapport-covid-19.pdf](5792bc6504ad3821c6555665dbc93ad45a3144e5/file.pdf) @13:25 GMT
 * [2020-03-19-ukerapport-covid-19.pdf](1b0715d8b5cd05fe2a8dc40177cc0d9601d53b71/file.pdf) @13:25 GMT
 * [2020-03-19-ukerapport-covid-19.pdf](dece5560abf1fb9abcd77aae2b88051591e1017d/file.pdf) @13:25 GMT
+* [2020-03-19-ukerapport-covid-19.pdf](5792bc6504ad3821c6555665dbc93ad45a3144e5/file.pdf) @13:25 GMT
 
 ## 2020-03-20
 

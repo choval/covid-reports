@@ -1,6 +1,10 @@
 # Bolivia
 
 
+## 2020-04-02
+
+* [4021-salud-registra-un-nuevo-fallecido-por-coronavirus-cinco-personas-muestran-signos-de-recuperacion](d4b3f635a22f4cc670edeb03b6eff044b592c29f/file.pdf) @14:05 GMT
+
 ## 2020-04-01
 
 * [4017-suben-a-107-los-casos-de-covid-19-en-el-pais-seis-pacientes-perecen-a-consecuencia-del-virus](b38451de5d795872d8b5cf9cec9e7232fad6eca4/file.pdf) @17:41 GMT

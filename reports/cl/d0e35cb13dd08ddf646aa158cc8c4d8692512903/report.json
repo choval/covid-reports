@@ -1,0 +1,24 @@
+{
+    "filename": "INDICACIONES-DE-CUARENTENA_06.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/INDICACIONES-DE-CUARENTENA_06.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585836375,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 14:06:00 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Thu, 02 Apr 2020 14:00:41 GMT",
+        "etag": "\"3ed53b-5a24f39e55440\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_996_1958315=qhOON5kLjDJJUHHU5o3SDVbxhV4AAAAA6veb8kKHD4TIgPbUlRQRRQ==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "14-191395991-191396087 NNNY CT(0 0 0) RT(1585836373641 858) q(0 1 1 -1) r(2 2) U6"
+    },
+    "lang": "es",
+    "size": 4117819,
+    "modified": 1585836041
+}

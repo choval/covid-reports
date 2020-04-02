@@ -1,6 +1,10 @@
 # Ecuador
 
 
+## 2020-04-02
+
+* [Resoluciones-COE-Nacional-01-de-abril-2020.pdf](9068964187e58ac5efc6f5e9a9b5b23d08dbcb79/file.pdf) @00:01 GMT
+
 ## 2020-04-01
 
 * [Informe-de-Situación-No025-Casos-Coronavirus-Ecuador-01042020.pdf](ef958d2cec8dc9e622467f92cd3b7a1faf6970c0/file.pdf) @22:28 GMT

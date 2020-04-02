@@ -1,0 +1,22 @@
+{
+    "filename": "4021-salud-registra-un-nuevo-fallecido-por-coronavirus-cinco-personas-muestran-signos-de-recuperacion",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4021-salud-registra-un-nuevo-fallecido-por-coronavirus-cinco-personas-muestran-signos-de-recuperacion",
+    "output": "file.pdf",
+    "downloaded": 1585836323,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 14:09:43 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=vl7j7pev1ihkmtu04bv5kjd86t; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Thu, 02 Apr 2020 14:09:44 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 630078,
+    "modified": 1585836342
+}

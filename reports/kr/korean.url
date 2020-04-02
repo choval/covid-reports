@@ -1,6 +1,6 @@
 [InternetShortcut]
 URL="https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015"
-ORG=Korea
+ORG=South Korea
 HASH_REGEXP="/comfile_fn=(?P<hash>[^\&\"]+)\&/Ui"
 FOLLOW_REGEXP="/href=\"(?P<link>\/board\/board\.es.+act=view[^\"]*Page=1[^\"]*)\"/U"
 DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]*(ÙÀ?¯½|µµÂü°íÀ?á|³â_°áÇÙ)[^\"]*\.pdf[^\"]*)\"/U"

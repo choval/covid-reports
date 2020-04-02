@@ -1,0 +1,23 @@
+{
+    "filename": "Rapporto ISS COVID-19 n. 8 autismo (2).pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Rapporto+ISS+COVID-19+n.+8+autismo+%282%29.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585836584,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "1675251",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 01 Apr 2020 16:10:57 GMT",
+        "set-cookie": "JSESSIONID=0E196537B656238055922D45FE61FF7E; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Rapporto ISS COVID-19 n. 8 autismo (2).pdf\"",
+        "date": "Thu, 02 Apr 2020 14:09:43 GMT"
+    },
+    "lang": "it",
+    "size": 1675251,
+    "modified": 1585757457
+}

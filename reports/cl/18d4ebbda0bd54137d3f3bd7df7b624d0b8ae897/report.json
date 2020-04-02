@@ -1,0 +1,24 @@
+{
+    "filename": "Resumen_informe_Epi_020420.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/Resumen_informe_Epi_020420.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585836359,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 14:05:47 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Thu, 02 Apr 2020 12:48:05 GMT",
+        "etag": "\"4d2af-5a24e36456f49\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_996_1958315=O+jGfwfEiwRANnHU5o3SDUfxhV4AAAAAYPfDUjTCWLJjlbQB3AJi2g==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "3-63283330-63283380 NNNY CT(0 0 0) RT(1585836358607 327) q(0 0 0 0) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 316079,
+    "modified": 1585831685
+}

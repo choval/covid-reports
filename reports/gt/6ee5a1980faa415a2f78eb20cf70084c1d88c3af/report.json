@@ -1,0 +1,22 @@
+{
+    "filename": "PPE_20200207SPA.pdf.pdf",
+    "uri": "https:\/\/mspas.gob.gt\/index.php\/component\/jdownloads\/send\/483-documentos-tecnicos\/3171-epp",
+    "output": "file.pdf",
+    "downloaded": 1585792117,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 07:52:54 GMT",
+        "server": "Apache",
+        "x-powered-by": "PHP\/5.6.30",
+        "set-cookie": "UqZBpD3n3iPIDwJU9DmTlFmPQu8FptcZ=v1LuCGSe+Ciuj; Expires=Sat, 30-Mar-2030 18:26:54 GMT; Path=\/",
+        "cache-control": "private, max-age=0, must-revalidate, no-store",
+        "content-disposition": "inline; filename=\"PPE_20200207SPA.pdf.pdf\"",
+        "last-modified": "Tue, 17 Mar 2020 07:21:00 GMT",
+        "content-length": "286071",
+        "connection": "close",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 286071,
+    "modified": 1584429660
+}

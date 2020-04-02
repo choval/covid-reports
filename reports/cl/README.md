@@ -1,6 +1,13 @@
 # Chile
 
 
+## 2020-04-02
+
+* [INDICACIONES-DE-CUARENTENA\_06.pdf](d0e35cb13dd08ddf646aa158cc8c4d8692512903/file.pdf) @14:00 GMT
+* [Resumen\_informe\_Epi\_020420.pdf](18d4ebbda0bd54137d3f3bd7df7b624d0b8ae897/file.pdf) @12:48 GMT
+* [segundo-informe-epidemiologico-covid.pdf](a87bf683661db53bc70b902bc9183c338ecf523a/file.pdf) @10:32 GMT
+* [01.04.2020-final.pdf](cc1477f79c7237ecf98435de92e64b72cbffc013/file.pdf) @01:09 GMT
+
 ## 2020-04-01
 
 * [1747890.pdf](6d87a5e93719ebf4160b3b967168389e7323a5c4/file.pdf) @21:55 GMT

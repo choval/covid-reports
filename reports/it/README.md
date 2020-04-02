@@ -1,12 +1,17 @@
 # Italy
 
 
+## 2020-04-02
+
+* [C\_17\_notizie\_4377\_0\_file.pdf](390cc3dc671fa559a0cefbc333e5d808ec708601/file.pdf) @14:09 GMT
+
 ## 2020-04-01
 
 * [C\_17\_notizie\_4378\_1\_file.pdf](9fc0cdb476298a179a9fc072482e3248997d7b2a/file.pdf) @23:30 GMT
 * [C\_17\_notizie\_4378\_0\_file.pdf](1da7a5cafbc0768b362c10edff448a6b4fe130db/file.pdf) @23:30 GMT
 * [Infografica\_1aprile ENG.pdf](5b1a29e2a033a83ac38984fb6ffd2dd40da0ce57/file.pdf) @17:37 GMT
 * [Infografica\_1aprile ITA.pdf](a70c3d7d9c9aadc7468f0299f039a80bdabd40a2/file.pdf) @17:37 GMT
+* [Rapporto ISS COVID-19 n. 8 autismo (2).pdf](6c0bd2c336eef79b58346dc5256e75b1b18fefea/file.pdf) @16:10 GMT
 
 ## 2020-03-31
 
