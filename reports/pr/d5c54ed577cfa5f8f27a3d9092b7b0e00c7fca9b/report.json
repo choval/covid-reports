@@ -1,0 +1,32 @@
+{
+    "filename": "Plenaria%20de%20Servicios%20de%20Salud%20COVID-19.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/coronavirus\/Plenaria%20de%20Servicios%20de%20Salud%20COVID-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839779,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "6395382",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:02:59 GMT",
+        "last-modified": "Fri, 13 Mar 2020 12:15:16 GMT",
+        "etag": "\"{08E037CF-1353-4702-BDB8-1D4979167FB0},1\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:08E037CF-1353-4702-BDB8-1D4979167FB0@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "78d9449f-2f4c-a001-aaf9-344d4bfaa80b",
+        "request-id": "78d9449f-2f4c-a001-aaf9-344d4bfaa80b",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "7",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:02:58 GMT"
+    },
+    "lang": "es",
+    "size": 6395382,
+    "modified": 1584101716
+}

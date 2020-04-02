@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="http://www.salud.gov.pr/Pages/COVID-19-ProfesionalesdelaSalud.aspx"
+ORG=Puerto Rico
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)\"/Ui"
+LANG=es

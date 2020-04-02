@@ -1,0 +1,32 @@
+{
+    "filename": "Gui%cc%81a%20para%20la%20vigilancia%20epidemiolo%cc%81gica%20del%20COVID-19%20Mar-16-2020.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/coronavirus\/Gui%cc%81a%20para%20la%20vigilancia%20epidemiolo%cc%81gica%20del%20COVID-19%20Mar-16-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839695,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "2076046",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:01:35 GMT",
+        "last-modified": "Wed, 18 Mar 2020 13:03:44 GMT",
+        "etag": "\"{714A0A0C-EA48-4399-957A-8D2E90C02D1D},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:714A0A0C-EA48-4399-957A-8D2E90C02D1D@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "63d9449f-cfd0-a001-aaf9-35dc1b636572",
+        "request-id": "63d9449f-cfd0-a001-aaf9-35dc1b636572",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "8",
+        "spiislatency": "1",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:01:34 GMT"
+    },
+    "lang": "es",
+    "size": 2076046,
+    "modified": 1584536624
+}

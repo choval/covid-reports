@@ -1,0 +1,32 @@
+{
+    "filename": "Apendice%20A%20-%20Orden%20Administrativa.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/Apendice%20A%20-%20Orden%20Administrativa.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839721,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "11943055",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:02:01 GMT",
+        "last-modified": "Fri, 13 Mar 2020 21:51:48 GMT",
+        "etag": "\"{28020F7A-D5CF-43F5-AD2A-B81470606863},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:28020F7A-D5CF-43F5-AD2A-B81470606863@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "6ad9449f-ff23-a001-aaf9-30b89c4362a9",
+        "request-id": "6ad9449f-ff23-a001-aaf9-30b89c4362a9",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "7",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:02:00 GMT"
+    },
+    "lang": "es",
+    "size": 11943055,
+    "modified": 1584136308
+}

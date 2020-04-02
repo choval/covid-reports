@@ -1,0 +1,32 @@
+{
+    "filename": "Ap%C3%A9ndice%20F%20-%20Elementos%20Esenciales%20de%20Informaci%C3%B3n.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/Ap%C3%A9ndice%20F%20-%20Elementos%20Esenciales%20de%20Informaci%C3%B3n.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839775,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "515656",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:02:55 GMT",
+        "last-modified": "Fri, 13 Mar 2020 21:53:39 GMT",
+        "etag": "\"{B0F6D4AA-4CBC-4A90-A6A3-0C7FD9F4364F},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:B0F6D4AA-4CBC-4A90-A6A3-0C7FD9F4364F@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "77d9449f-df5e-a001-aaf9-3c293374ecdc",
+        "request-id": "77d9449f-df5e-a001-aaf9-3c293374ecdc",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:02:55 GMT"
+    },
+    "lang": "es",
+    "size": 515656,
+    "modified": 1584136419
+}

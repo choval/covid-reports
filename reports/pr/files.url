@@ -1,0 +1,7 @@
+[InternetShortcut]
+URL="http://www.salud.gov.pr/CPCORONAVirus/Forms/AllItems.aspx"
+ORG=Puerto Rico
+BASEHREF="http://www.salud.gov.pr/CPCORONAVirus/"
+SKIPHEADERS=true
+DOWNLOAD_REGEXP="/\"FileLeafRef\": \"(?P<link>[^\"]+\.pdf)\"/Ui"
+LANG=es

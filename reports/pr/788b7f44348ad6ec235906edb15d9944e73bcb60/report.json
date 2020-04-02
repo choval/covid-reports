@@ -1,0 +1,32 @@
+{
+    "filename": "Presentacion%20COVID-19%20RegDem.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/Presentacion%20COVID-19%20RegDem.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839705,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "1431188",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:01:45 GMT",
+        "last-modified": "Fri, 20 Mar 2020 18:43:48 GMT",
+        "etag": "\"{ADBFCD29-A554-4873-B54D-D69BF5CB48EA},4\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:ADBFCD29-A554-4873-B54D-D69BF5CB48EA@00000000004",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "66d9449f-bf43-a001-aaf9-300fbe71926e",
+        "request-id": "66d9449f-bf43-a001-aaf9-300fbe71926e",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "8",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:01:44 GMT"
+    },
+    "lang": "es",
+    "size": 1431188,
+    "modified": 1584729828
+}

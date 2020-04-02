@@ -1,0 +1,1860 @@
+GOBIERNO DE PUERTO RICO
+Departamento de Salud
+Plan de Preparación y Respuesta
+ante el Coronavirus Novel 19
+COVID-19
+Marzo 2020
+.
+Plan de Preparación y Respuesta ante COVID-19
+Esta página ha sido dejada en blanco intencionalmente.
+Plan de Preparación y Respuesta ante COVID-19
+i
+Aprobación e Implementación
+El Plan de Preparación y Respuesta para COVID-19 es un anejo funcional del Plan
+Operacional de Manejo de Emergencias ESF 8 – Salud Pública y Servicios Médicos del
+Departamento de Salud de Puerto Rico (POE-DSPR). Este documento fue desarrollado
+basado en el Plan de Pandemia de Influenza de Puerto Rico y a la Guía Comprensiva de
+Preparación 101 (CPG 101, por sus siglas en inglés), de la Agencia Federal de Manejo de
+Emergencias (FEMA, por sus siglas en inglés), en su versión 2.0. Este plan busca guiar los
+procesos de preparación, el establecimiento de la estructura de respuesta y los mecanismos
+de coordinación para el manejo de incidentes en Puerto Rico, relacionados a la pandemia del
+COVID-19.
+Esto se realiza en cumplimiento con las doctrinas, conceptos, principios, terminología y
+procesos relacionados con el Sistema Nacional de Manejo de Incidentes (NIMS, según sus
+siglas en inglés) y la Estructura de Respuesta Nacional (NRF, según sus siglas en inglés) del
+Departamento de Seguridad Nacional (DHS, según sus siglas en inglés) de los Estados
+Unidos. Además, se desarrolló bajo un proceso de evaluación, teniendo en cuenta los roles
+y responsabilidades de las agencias locales, estatales, federales, organizaciones no-
+gubernamentales, entidades del sector privado, personal primario de respuesta, voluntarios y
+las comunidades a través de toda la isla. Por lo tanto, la implementación del plan requerirá
+una cooperación extensiva, colaboración e intercambio de información a través de los
+diferentes sectores. Todo esto con el fin de velar por la salud pública, la prestación de los
+servicios médicos y la salud mental necesarios en caso de una emergencia por esta
+enfermedad infecciosa en Puerto Rico.
+_____________________________________________________
+Rafael Rodríguez Mercado, MD, FAANS, FACS
+Secretario de Salud de Puerto Rico
+Plan de Preparación y Respuesta ante COVID-19
+ii
+Esta página ha sido dejada en blanco intencionalmente
+Plan de Preparación y Respuesta ante COVID-19
+iv
+TABLA DE CONTENIDO
+Aprobación e Implementación..................................................................................... i
+I. Propósito, alcance, situación y supuestos........................................................... 1
+A. Propósito....................................................................................................... 1
+B. Alcance ......................................................................................................... 1
+C. Situación ....................................................................................................... 1
+D. Supuestos de Planificación ........................................................................... 3
+II. Concepto de Operaciones................................................................................... 5
+A. Preparación................................................................................................... 5
+B. Nivel 3........................................................................................................... 9
+C. Nivel 2......................................................................................................... 15
+D. Nivel 1......................................................................................................... 18
+III. Organización y Asignación de Responsabilidades ............................................ 22
+A. Organización............................................................................................... 22
+B. Asignación de Responsabilidades .............................................................. 23
+1. Departamento de Salud de Puerto Rico...................................................... 24
+2. Agencias/Entidades Estatales y Locales..................................................... 26
+3. Agencias Federales .................................................................................... 30
+4. Entidades del Sector Privado y Organizaciones No Gubernamentales y/o
+Sin Fines de Lucro.......................................................................................... 32
+IV. Dirección, Control y Coordinación ..................................................................... 32
+A. Elementos Organizacionales....................................................................... 33
+V. Recopilación, análisis y diseminación de información ....................................... 37
+VI. Comunicaciones................................................................................................ 39
+VII. Administración, Finanzas y Logística ................................................................ 40
+VIII.Desarrollo y Mantenimiento del Plan................................................................. 41
+IX. Autoridades y Referencias................................................................................. 41
+X. Acrónimos.......................................................................................................... 44
+Apéndices ................................................................................................................ 46
+Plan de Preparación y Respuesta ante COVID-19
+v
+Esta página ha sido dejada en blanco intencionalmente.
+Plan de Preparación y Respuesta ante COVID-19
+1
+Este documento describe las actividades asociadas a la preparación y respuesta para una
+emergencia en salud pública en Puerto Rico, ocasionada por la detección de COVID-19. Debido
+a que se trata de una enfermedad novel con un cambio continuo en el conocimiento que se
+adquiere de la enfermedad, las actividades descritas deben servir como guía para la toma de
+decisiones y se adaptarán a los casos y situaciones que se presenten. La planificación
+contemplada en este documento corresponde a las estrategias y acciones del Departamento de
+Salud de Puerto Rico (DSPR) ante este tipo de emergencia de salud pública. Esta planificación
+estará apoyada por las acciones individuales, pero coordinadas que recaen bajo las demás
+agencias y entidades del gobierno de Puerto Rico, agencias federales, organizaciones sin fines
+de lucro y sector privado que tomen parte en las operaciones de respuesta.
+I. Propósito, alcance, situación y supuestos
+A. Propósito
+El propósito de este plan es establecer un marco de referencia para que los sistemas de
+salud pública, servicios médicos y salud mental trabajen de manera conjunta para reducir la
+morbilidad, mortalidad y disrupción social y económica asociadas a un brote de COVID-19.
+Para ello, el documento será compartido con las agencias y organizaciones con roles y
+responsabilidades asignadas en este documento, incluyendo las agencias y departamentos
+de apoyo que participan de las actividades de coordinación de la Función de Apoyo en
+Emergencias 8 – Salud Pública y Servicios Médicos (ESF8, según sus siglas en inglés), el
+sector privado y las Organizaciones No Gubernamentales (ONGs) que participen en las
+operaciones de respuesta.
+B. Alcance
+Este plan aplica al Departamento de Salud de Puerto Rico, incluyendo todo su personal y
+dependencias en las siete (7) regiones de salud. Además, aplica a todos los departamentos
+y agencias que apoyan las acciones del ESF8 - Salud Pública y Servicios Médicos, todas las
+facilidades de salud públicas y privadas, organizaciones sin fines de lucro, socios del sector
+privado y voluntarios que colaboren para los procesos de preparación y respuesta ante
+cualquier eventualidad relacionada a una emergencia por COVID-19.
+C. Situación
+1. Descripción
+Existen diferentes tipos de coronavirus que causan enfermedades, unos exclusivamente
+en animales y otros en humanos. En instancias muy poco frecuentes, los coronavirus
+animales han llegado a infectar a humanos, causándoles enfermedad y esparciéndose
+entre personas, lo que se conoce como enfermedad zoonótica. Una de estas
+enfermedades ha sido el COVID-19. La enfermedad que fue identificada por primera vez
+en Wuhan, China en diciembre de 2019, para inicios de marzo 2020 había sido detectada
+en más de 110 países alrededor del mundo, incluyendo los Estados Unidos.
+Esta situación no es ajena para Puerto Rico debido a la ubicación geográfica en el Caribe
+que convierte la Isla en un destino turístico de importancia en la región, así como la
+relación política con los Estados Unidos que propicia el movimiento de viajeros a través
+Plan de Preparación y Respuesta ante COVID-19
+2
+de nuestros puertos de entrada. Para ese mismo período de detección y progreso del
+brote inicial de COVID-19, Puerto Rico se mantenía monitoreando 10 personas bajo
+investigación (PBI), locales y turistas, que se encontraban hospitalizadas y en aislamiento
+en diferentes facilidades de salud. La mayoría de éstos con historial de viaje a diferentes
+partes del mundo.
+Se ha observado que la transmisión de esta enfermedad se da mediante el contacto
+cercano con personas enfermas; mediante el contacto con gotas respiratorias
+contaminadas producidas cuando una persona tose o estornuda; y, mediante el contacto
+con superficies u objetos contaminados. Los síntomas de esta enfermedad han variado
+desde causar enfermedad moderada a severa, dependiendo del estado de salud de las
+personas afectadas, e incluso causando la muerte de algunas personas. Los síntomas
+generalmente aparecen de 2 a 14 días después de la exposición e incluyen, pero no se
+limitan a, los siguientes: fiebre, tos y dificultad para respirar.
+El 30 de enero de 2020, la Organización Mundial de la Salud (OMS) declaró esta
+enfermedad como una emergencia en salud pública de importancia internacional. El 31
+de enero de 2020, el secretario del Departamento de Salud y Servicios Humanos de los
+Estados Unidos (HHS, según sus siglas en inglés) declaró una emergencia en salud
+pública para los Estados Unidos. El 11 de marzo de 2020, la OMS declaró una pandemia
+por el COVID-19. La declaración se presenta con unos 114 países afectados, 118,326
+casos y 4,292 fatalidades a nivel global, siendo China el país más impactado.
+Durante las últimas semanas de febrero 2020, los Centros para el Control y Prevención
+de Enfermedades de los Estados Unidos (CDC, según sus siglas en inglés) reportaron la
+transmisión comunitaria del virus en los estados de California, Oregon y Washington. Para
+inicios de marzo 2020, de acuerdo a datos publicados por el CDC, aún no existía una
+vacuna que proteja contra el COVID-19. Ante esto, las recomendaciones de prevención
+para este virus son evitar la exposición al mismo. Es por eso por lo que se deben tomar
+medidas preventivas cotidianas, como evitar el contacto cercano con personas enfermas
+y lavarse las manos con frecuencia. Para el COVID-19, no hay un tratamiento antiviral
+específico recomendado por la FDA. Las personas con el COVID-19 deben recibir
+cuidados de apoyo para ayudar a aliviar los síntomas. En los casos graves, el tratamiento
+debe incluir atención médica para apoyar el funcionamiento de los órganos vitales.
+2. Características del virus
+La severidad de la pandemia de COVID-19 depende de dos factores:
+ La capacidad de ser transmitido de persona a persona o transmisibilidad; y,
+ La gravedad de los síntomas clínicos de la enfermedad, que evalúa en términos
+de hospitalizaciones y muertes.
+En base a estos dos factores se crean cuatro escenarios de severidad pandémica (A, B,
+C, y D), de acuerdo con la Figura I.C.2.
+Plan de Preparación y Respuesta ante COVID-19
+3
+Figura I.C.2. Severidad pandémica
+3. Evaluación de Riesgo
+Teniendo en cuenta que no todos los virus pandémicos van a ser igual de severos, que
+las poblaciones más afectadas tampoco son siempre las mismas y que nos enfrentamos
+a un virus nuevo, resulta difícil predecir el efecto de una pandemia de COVID-19 en la
+población de Puerto Rico. De acuerdo con el CDC, la información más reciente
+procedente de China, donde se inició COVID-19, algunas personas corren un mayor
+riesgo de enfermarse gravemente por esta enfermedad. Esto incluye a los adultos
+mayores, grupo compuesto por personas mayores 60 años. A su vez, las personas que
+tienen condiciones crónicas como enfermedades del corazón, diabetes, enfermedades
+pulmonares y/o un sistema inmune comprometido, poseen mayor riesgo de experimentar
+la forma grave del COVID-19.
+Según el estimado poblacional provisto en la Encuesta sobre la Comunidad de Puerto
+Rico 2014-2018, publicada por la Oficina del Censo, para ese periodo la población de
+adultos mayores de 60 años o más correspondían al 27.3% de la población total de Puerto
+Rico. Además, de acuerdo con el Informe Anual de Estadísticas Vitales 2015-2016, las
+enfermedades del corazón, la diabetes y las enfermedades crónicas de las vías
+respiratorias inferiores, se encuentran entre las primeras causas de muerte de la
+población puertorriqueña mayor de 18 años.
+D. Supuestos de Planificación
+Este documento está basado en los supuestos de planificación establecidos en el Plan
+Operacional de Manejo de Emergencias ESF 8 – Salud Pública y Servicios Médicos del
+Plan de Preparación y Respuesta ante COVID-19
+4
+Departamento de Salud de Puerto Rico y en los supuestos de planificación que se presentan
+a continuación:
+1. Todas las personas que se expongan al virus podrían enfermarse, ya que es un virus
+nuevo contra el cual la población no tiene inmunidad.
+2. El virus se transmitirá rápidamente a través del mundo.
+3. Durante los primeros meses no habrá vacunas disponibles, ni medicamentos para
+tratamiento específico.
+4. La enfermedad podría presentar el potencial de interferir en servicios críticos como el
+cuidado de salud, el transporte, el comercio, las utilidades y la seguridad pública, entre
+otros, debido al ausentismo y la mortalidad entre trabajadores y familiares, así como
+por la preocupación de estar expuestos al virus.
+5. No todos los municipios en la isla experimentarán el brote pandémico de manera
+simultánea. Se espera, sin embargo, que experimenten brotes cercanos, lo que
+limitará su capacidad de apoyo.
+6. El número de hospitalizaciones dependerá de la agresividad del virus y el éxito de las
+medidas de prevención.
+7. Los grupos que estarán a mayor riesgo de complicaciones serán las personas con
+condiciones médicas crónicas, inmunocomprometidas y las personas mayores.
+8. Los recursos para la atención de la salud estarán disponibles en una situación de
+emergencia. Esto incluye el recurso humano, el cual puede verse afectado por la
+emergencia.
+9. Los recursos y capacidades locales, estatales, federales, privadas y no
+gubernamentales van a estar disponibles para asistir a las facilidades de salud
+públicas y privadas ante una emergencia por esta enfermedad infecciosa.
+10. Los individuos con posiciones de liderazgo tendrán un amplio entrenamiento en ICS,
+el cual puede ser adaptado directamente a la repuesta en salud pública.
+11. El Negociado del Cuerpo de Emergencias Médicas de Puerto Rico notificará
+rápidamente a los hospitales cuando se realice la coordinación para el transporte o
+los transportes de personas bajo investigación.
+12. Las facilidades de salud podrán aislar efectivamente al PBI o caso confirmado, según
+necesidad, proveyéndole cuidado paliativo básico y usando en todo momento el
+equipo de protección personal necesario.
+13. El personal de las facilidades de servicios de salud estará capacitado para identificar
+pacientes sospechosos de COVID-19.
+14. El personal de las facilidades de servicios de salud tendrá acceso al equipo de
+protección personal (EPP).
+15. El personal de las facilidades de servicios de salud estará capacitado para usar el
+equipo de protección personal (EPP), aislar pacientes, ofrecer cuidados básicos e
+informar y consultar con los oficiales correspondientes de salud pública y servicios
+médicos.
+Plan de Preparación y Respuesta ante COVID-19
+5
+II. Concepto de Operaciones
+A. Preparación
+En esta fase se desconoce la enfermedad infecciosa específica que será responsable de la
+activación del plan, pero se desarrollan actividades enfocadas en la preparación ante
+enfermedades infecciosas. Para esto se utilizan de base las enfermedades con la capacidad
+de causar una epidemia o infección en un gran número de personas con serias
+consecuencias para la salud pública o los servicios médicos de la Isla. Esta fase consiste en
+un ciclo continuo que busca lograr una coordinación efectiva durante la respuesta a un
+incidente. Durante este ciclo ocurren procesos continuos de planificación, organización,
+adiestramientos, ejercicios, evaluaciones y revisiones con el fin de realizar acciones
+correctivas. A continuación, se desglosan las actividades a realizarse en la etapa de
+preparación. Las mismas no se encuentran en orden de prioridad, son categorizadas para
+fines ilustrativos y se realizarán en conjunto como parte del ciclo continuo.
+1. Desarrollo, revisión y actualización de planes
+Durante la etapa de preparación se realiza la actualización de documentos que apoyen
+la respuesta durante una emergencia por enfermedades infecciosas. Esto incluye, pero
+no se limita a la actualización de los protocolos por enfermedad y desarrollo de guías para
+personal profesional de la salud. Igualmente, se realiza la actualización de los planes de
+comunicación de riesgo, con el fin de identificar las diferentes poblaciones (Ej.
+profesionales de la salud, personal de emergencias médicas, operadores de 9-1-1,
+comunidad, entre otros) y desarrollar estrategias educativas en base a los diferentes
+grupos identificados.
+Para el desarrollo de planes efectivos se realiza la evaluación sistemática de riesgo, con
+el fin de reconocer cuáles son las amenazas que pueden afectar los sistemas de salud
+pública, servicios médicos y salud mental de la Isla. Ese riesgo, que es asociado con cada
+amenaza, es analizado para establecer prioridades en los diferentes ámbitos del ciclo de
+respuesta. A continuación, se establecen las prioridades según cada nivel de respuesta:
+Nivel Fase Prioridades
+Nivel 3 Alerta
+Comunicación de Riesgo
+Actualización de inventarios de recursos y suplidos.
+Identificación temprana del primer caso.
+Nivel 2 Respuesta
+Comunicación de Riesgo
+Investigación de casos y seguimiento de contactos.
+Recomendación e implementación de medidas de
+aislamiento y cuarentena.
+Manejo clínico de los casos.
+Nivel 1 Respuesta
+Comunicación de Riesgo
+Recomendaciones e implementación de acciones para
+minimizar la transmisión.
+Implementación de acciones para minimizar las
+hospitalizaciones y mortalidad.
+Implementar las estrategias pertinentes para evitar la
+sobrecarga del sistema de salud.
+Plan de Preparación y Respuesta ante COVID-19
+6
+2. Adiestramientos y ejercicios
+Es indispensable la realización de adiestramientos y ejercicios en esta etapa, ya que
+proveen las herramientas necesarias a los individuos que pudieran participar en la
+respuesta y les permite practicar las destrezas, habilidades y el conocimiento obtenido
+mediante actividades y escenarios creados en base a los planes existentes. En dichos
+adiestramientos y ejercicios participa personal del DSPR, de las agencias de apoyo al
+ESF8, profesionales de la salud, personal de organizaciones sin fines de lucro y del sector
+privado, voluntarios e incluso individuos de la comunidad. Algunos de los adiestramientos
+y ejercicios incluyen, pero no se limitan a:
+a. Adiestramientos
+ Detección molecular de enfermedades infecciosas en muestras utilizando
+métodos como el RT-PCR.
+ Colección, manejo, referido, empaque y envío de muestras altamente
+infecciosas.
+ Uso del equipo de protección personal (EPP) y medidas de control de
+infecciones.
+ Manejo de enfermedades infecciosas para voluntarios.
+ Reporte de elementos esenciales de información, a través de métodos
+alternos de comunicación, incluyendo las plataformas de reporte del DSPR.
+ Sistema de Manejo de Incidentes para Hospitales (HICS)
+ Enfermedades infecciosas para personal de respuesta
+ Pandemias
+ Evaluación de planes a través de la implementación de ejercicios.
+ Desarrollo de protocolos internos para agencias, entidades y organizaciones
+ante enfermedades infecciosas.
+ Continuidad de operaciones ante una Pandemia
+ Intervenciones no farmacológicas (NPIs, por sus siglas en inglés).
+b. Ejercicios
+ Ejercicios de influenza pandémica.
+ Ejercicios de vacunaciones masivas.
+ Ejercicios de conformación de los puntos de despacho (PODs, según sus
+siglas en ingles).
+ Ejercicios de la colocación y remoción del Equipo de Protección Personal.
+ Ejercicios de comunicación en emergencias y desastres.
+ Ejercicios relacionados a los protocolos de empaque y envío de muestra.
+Plan de Preparación y Respuesta ante COVID-19
+7
+ Ejercicios de protocolos de seguridad del personal.
+3. Comunicación de Riesgo
+La comunicación de riesgo busca que los individuos que se encuentran a riesgo tomen
+decisiones informadas para protegerse ellos mismos, a sus familias y comunidades. Ya
+que es indispensable que la información esté disponible en el momento debido, durante
+la etapa de preparación se desarrollan y actualizan los modelos de los mensajes
+educativos para eventos relacionados con emergencias por enfermedades infecciosas.
+Además, se actualizan y desarrollan hojas informativas, guías dirigidas a los Oficiales de
+Información Pública y a los respondedores, con temas referentes a sus áreas de
+especialización.
+4. Inventarios
+La realización de inventarios es necesaria para conocer la disponibilidad de ciertos
+recursos que pudieran ser esenciales ante una respuesta. Algunas de los elementos
+incluidos en el inventario son:
+ Equipo de protección personal (PPE, por sus siglas en inglés)
+ Equipo y materiales de laboratorio necesarios para el procesamiento de pruebas.
+ Capacidades y recursos de las facilidades de salud
+5. Grupos prioritarios
+a. Adquisición de medicamentos y equipos
+Cuando la enfermedad que causa la emergencia es una novel, es probable que ni las
+vacunas ni los medicamentos específicos para el tratamiento de dicha enfermedad
+estén disponibles. Sin embargo, tan pronto estén disponibles, éstos y otros equipos
+entran dentro de la prioridad más alta de adquisición. A continuación, se encuentran
+las prioridades para la compra o adquisición de medicamentos y equipos, sin
+embargo, las mismas deben ser adquiridas mediante una evaluación exhaustiva de
+las necesidades:
+ Categoría A (prioridad 1): Elementos para el soporte vital (Ej. fluidos
+intravenosos, oxígeno); equipo de protección personal; medicamentos;
+vacunas; y, ventiladores.
+6. Vacunación
+Ante una enfermedad infecciosa novel, el desarrollo de la vacuna podría tardar varios
+meses. Sin embargo, una vez disponible, es posible que las dosis puedan ser obtenidas
+poco a poco mediante la producción en masa de éstas. Por lo tanto, a continuación, se
+definen los grupos prioritarios para recibir vacunación:
+a. Profesionales de la salud involucrados en la distribución y administración de la
+vacuna.
+Plan de Preparación y Respuesta ante COVID-19
+8
+b. Profesionales de salud que estén proveyendo servicios de diagnóstico y
+tratamiento en las facilidades de salud.
+c. Profesionales de salud que trabajen con poblaciones con mayor riesgo de
+complicaciones severas.
+d. Individuos que cuidan a pacientes en facilidades de cuidado prolongado; prácticas
+especializadas; cuido en el hogar; y, todos los trabajadores de salud pública
+activados en la respuesta.
+e. Policías; bomberos; personal de emergencias médica; manejo de emergencias;
+Guardia Nacional; otros grupos militares; conductores de ambulancias; y,
+respondedores activos en la respuesta.
+f. Personas que por su edad o condiciones médicas están a mayor riesgo de
+complicaciones por la enfermedad.
+g. Proveedores de servicios vitales como: maestros y oficiales de gobierno de
+atención al público.
+7. Vigilancia epidemiológica
+Para que se pueda dar la vigilancia para enfermedades infecciosas es indispensable
+establecer las definiciones de casos confirmados y casos sospechosos. Estas
+definiciones permiten establecer criterios para diferenciar entre la presencia y la ausencia
+de enfermedad. Durante la etapa de preparación, se desarrollan las definiciones de las
+enfermedades con más posibilidad de provocar epidemias o pandemias a nivel mundial,
+según estadísticas, análisis de riesgo y características de las diversas enfermedades.
+En Puerto Rico, todo personal licenciado para practicar alguna profesión relacionada con
+la salud tiene la responsabilidad de notificar inmediatamente por la vía más rápida, según
+establece la Orden Administrativa 358 del Departamento de Salud, la presencia de
+cualquier enfermedad o condición no usual (categoría III) a la Oficina de Epidemiología e
+Investigación del Departamento de Salud. En el Apéndice A se encuentran los formularios
+a utilizarse para este proceso. Esta vigilancia, a través del reporte de enfermedades de
+notificación obligatoria, permite detectar la ocurrencia de enfermedades en la Isla.
+Igualmente, se realiza la vigilancia basada en la mortalidad y la notificación recibida por
+socios como el CDC mediante el monitoreo de viajeros. Debido a este monitoreo continuo
+en los patrones de la enfermedad, el DSPR es capaz de identificar y alertar cuando se
+produce un aumento en el número de casos.
+8. Salud y seguridad ocupacional
+Un ámbito fundamental en la respuesta es la seguridad de los respondedores. Es por ello
+que, durante el periodo de preparación, se realizarán adiestramientos dirigidos al uso del
+equipo de protección personal para enfermedades altamente infecciosas. Además, se
+monitorean los cambios en los métodos de transmisión de las enfermedades, se
+actualizan los listados de EPP necesarios para atención de casos y se le brinda
+orientación a las facilidades de salud sobre el equipo que deberían adquirir estas
+facilidades ante un posible caso altamente infeccioso. Como parte de los procesos de
+salud y seguridad ocupacional, se realizan anualmente evaluaciones médicas para el uso
+de respiradores al personal del DSPR que pudiera necesitar la utilización de respiradores,
+Plan de Preparación y Respuesta ante COVID-19
+9
+incluyendo las pruebas de ajuste correspondientes. Igualmente, se mantienen al día los
+inventarios y se monitorea el buen estado del inventario.
+B. Nivel 3
+El Nivel 3 es una Fase de Alerta cuya activación ocurre cuando la Organización Mundial de
+la Salud (OMS) confirma la presencia de una enfermedad en alguna parte del mundo que ha
+demostrado la trasmisión fácil entre personas y de manera sostenida. En este nivel no hay la
+presencia de la enfermedad en Puerto Rico, pero existe el riesgo de que pudiera llegar, por
+lo que las medidas de vigilancia y prevención incrementan significativamente. Se espera que
+se produzca un aumento significativo en las consultas de casos a la Oficina de Epidemiología
+e Investigación del Departamento de Salud y en la solicitud de confirmación de diagnóstico
+mediante pruebas de laboratorio ya que los síntomas de COVID-19 son similares a las de
+otras enfermedades respiratorias como la influenza. En base a esto, y en las prioridades
+antes expuestas, a continuación, se exponen las principales actividades a realizase durante
+este nivel.
+1. Actualización de documentos
+Debido a que en este nivel ya se conoce la enfermedad, a medida que la información
+científica sobre la enfermedad esté disponible se realizará la adaptación de los planes,
+protocolos, guías y demás documentos disponibles en unos más específicos sobre la
+enfermedad. Igualmente, se identificarán dentro de los lugares disponibles, centros para
+la cuarentena de individuos, según la necesidad.
+2. Activación de Grupo Especializado (Task Force)
+El Task Force es un grupo de profesionales con inherencia y autoridades para la toma de
+decisiones, así como de expertos y especialistas que se reúnen continuamente para
+analizar, investigar y atender problemas específicos resultantes en cambios en
+información y actualizaciones de la enfermedad. La activación de este grupo ocurre
+automáticamente con la activación del nivel 3. Algunos ejemplos de la toma de decisiones
+que recae en este grupo incluye, pero no se limitan a: emisión de la congelación de
+precios; restricción de llegada de vuelos y/o cruceros; restricción de desembarque de la
+tripulación de los buques de carga; evaluación de restricción de acceso a personas no
+residentes, particularmente en las Islas Municipio de Vieques o Culebra, procedentes de
+países con transmisión comunitaria del virus; restricción en la realización de actividades
+de congregación masiva; evaluación e implementación de intervenciones no
+farmacológicas; entre otros.
+3. Comunicación de Riesgo
+En esta etapa la comunicación de riesgo es una de las prioridades indispensables para
+lograr una respuesta efectiva. Utilizando los modelos de mensajes educativos, las hojas
+informativas, las guías y demás materiales desarrollados durante la etapa de preparación,
+se realiza la adaptación de los documentos a la enfermedad, COVID-19, y se realizan las
+siguientes actividades:
+Plan de Preparación y Respuesta ante COVID-19
+10
+ Educar a la población general mediante una campaña de educación pública a
+través de los medios disponibles, que incluyen, pero no se limitan a: prensa; radio;
+redes sociales; entre otros medios, sobre los síntomas del COVID-19; la higiene
+de manos; la etiqueta respiratoria; y, otras medidas de prevención.
+ Educar y compartir las guías actualizadas con los profesionales de la salud y
+laboratorios sobre las medidas de prevención, diagnóstico, tratamiento, EPP,
+entre otros temas.
+ Identificar y capacitar a los portavoces del Departamento de Salud o del gobierno.
+ Proveer al personal de la Oficina de Comunicaciones orientación sobre la
+enfermedad, para que puedan apoyar la respuesta durante la emergencia.
+ Verificar la actualización de los contactos de los medios de comunicación.
+ Capacitar al personal de las líneas de atención ciudadana, como el Sistema 3-1-
+1, la línea PAS (1-800-981-0023) y para personas audioimpedidas (1-888-672-
+7622) para activar, implementar y mantener un canal de comunicación donde la
+comunidad pueda consultar información sobre el COVID-19 y atender sus
+inquietudes. Es menester tener en cuenta que La línea PAS de ASSMCA ofrece
+servicios 24 horas los 7 días a la semana. Por otra parte, Sistema 3-1-1 tiene un
+horario de lunes a viernes de 9:00am a 6:00pm (horario que se podría evaluar de
+acuerdo a la necesidad).
+ Actualizar la página web del Departamento de Salud con información sobre la
+enfermedad, incluyendo información tanto para la comunidad como para los
+profesionales de la salud.
+ Desarrollar los materiales necesarios para implementar capacitaciones en
+modalidad para instructores (“Train-of-Trainers” o ToT, según las siglas en inglés)
+de la enfermedad para la fuerza laboral, voluntarios, personal del sector público,
+privado y organizaciones sin fines de lucro, así como la población general que
+puedan capacitar a otros en el tema.
+ Adiestrar a educadores para ofrecer información confiable y cónsona con el
+Departamento de Salud al público general, voluntarios y el personal del sector
+público, privado y organizaciones sin fines de lucro.
+ Ofrecer conferencias de prensas para mantener al público informado sobre lo
+ocurrido con el progreso de la enfermedad, con la asistencia de intérpretes de
+lenguaje de señas.
+ Exhortar a las entidades, agencias y organizaciones a desarrollar o actualizar sus
+protocolos internos (ej. protocolos de desinfección, protocolos de trabajo a
+distancia para empleados enfermos, protocolo para la intervención de
+trabajadores enfermos, entre otros).
+ Exhortar a la población a vacunarse para la influenza estacional o de temporada.
+Aunque esta vacuna no ofrece protección contra el COVID-19, el vacunarse
+podría disminuir significativamente el riesgo de adquirir ambos virus
+simultáneamente.
+Plan de Preparación y Respuesta ante COVID-19
+11
+4. Monitoreo de inventarios
+En este nivel se monitorean los inventarios y se desarrollan estrategias para mantener la
+disponibilidad de los materiales y equipos. Entre las estrategias se incluye la
+comunicación con manufactureros para evaluar las dispensas relacionadas a la extensión
+de las fechas de vencimiento y del largo de vida de los suplidos. Además, se recibe y se
+analiza el reporte de las facilidades de salud sobre los elementos esenciales de
+información, por medio de las plataformas del DSPR. Algunas de las actividades son:
+ Monitorear el inventario de los PODs.
+ Monitorear los cuartos de aislamiento, ocupados y disponibles.
+ Monitorear el estatus y cantidad de EPP.
+ Monitorear las camas de hospitales ocupadas y disponibles por categoría: censo
+total, sala de emergencia, ICU, PICU, NICU, Pediatría, Medicina/Cirugía, entre
+otras categorías.
+ Monitorear los suplidos de desinfectantes y productos de limpieza.
+5. Procesos de monitoreo y vigilancia en puertos y aeropuertos
+a. Puertos
+Las regulaciones federales requieren el reporte de individuos fallecidos o enfermos
+en barcos y aeronaves con destino a algún puerto de los Estados Unidos. Si una
+embarcación proviene de algún puerto de los Estados Unidos, el capitán del barco
+que debe informar a la Guardia Costanera de los Estados Unidos (USCG), la
+ocurrencia, a bordo, de cualquier muerte o sobre cualquier persona enferma entre los
+pasajeros o miembros de la tripulación. El USCG, a su vez, notifica a la Estación de
+Cuarentena de San Juan del CDC (CDC-SJQS, según sus siglas en inglés) sobre el
+particular. Por otra parte, si la embarcación proviene de un puerto fuera de los Estados
+Unidos y se suscita una situación similar, el capitán del barco deberá informar a
+Customs and Border Protection (CBP, según sus siglas en inglés) para la notificación
+correspondiente al CDC-SJQS sobre el particular. Si se informa sobre la presencia de
+un caso de enfermedad infecciosa o muerte sospechosa por enfermedad infecciosa,
+el barco no podrá atracar en ningún puerto de Puerto Rico hasta tanto no reciba la
+autorización de la Autoridad de los Puertos de Puerto Rico (APPR). Para establecer
+la presencia de un posible caso sospechoso se seguirán las guías del CDC.
+Si el barco notifica que no hay personas enfermas o fallecidas dentro de la
+embarcación, la embarcación no podrá aproximarse a puerto hasta que el “Pilot”
+asignado se comunique con el doctor al mando del barco y, éste, mediante el
+manifiesto del barco confirme que no hay ni ha habido pasajeros enfermos o fallecidos
+sospechosos de una enfermedad infecciosa. Si el “Pilot” sospecha incongruencias
+entre la información provista o si, siguiendo el protocolo, determina que la
+embarcación puede representar un riesgo para la salud pública de Puerto Rico, este
+podrá denegar el permiso de atraque al puerto. Este proceso estará amparado en el
+intercambio de información y la certificación de la documentación manejada para
+estos fines por USCG, CBP, CDC-SJQS y la APPR, en comunicación con el
+Plan de Preparación y Respuesta ante COVID-19
+12
+Secretario del DSPR, la Directora de la Compañía de Turismo de Puerto Rico y el
+“Pilot” asignado.
+b. Aeropuertos
+El piloto de cada aeronave es responsable de informar a la Estación de Cuarentena
+de San Juan del CDC (CDC-SJQS, según sus siglas en inglés) a través de la torre de
+control, la ocurrencia, a bordo, de cualquier muerte o cualquier persona enferma entre
+los pasajeros o miembros de la tripulación, incluyendo casos sospechosos de
+enfermedades infecciosas. Igualmente, Customs and Border Protection (CBP, según
+sus siglas en inglés) realiza la intensificación de los protocolos para identificar viajeros
+que pudieran ser portadores de la enfermedad y realizan la notificación al CDC-SJQS.
+c. Coordinación con el Departamento de Salud de Puerto Rico
+En ambas instancias antes descritas, el CDC-SJQS mantiene comunicación y
+coordinación con la Oficina de Epidemiología Investigación del DSPR para la
+evaluación correspondiente de los casos. Si se determina, dependiendo la situación,
+que se ofrecerá acceso a la Isla de una persona enferma o una fatalidad relacionadas
+a enfermedades infecciosas, se coordina el transporte en ambulancia del pasajero a
+una facilidad de salud para ser aislado y atendido. En el caso de una fatalidad se
+coordina el transporte al Negociado de Ciencias Forenses.
+Por otra parte, los viajeros que pudieran representar un alto riesgo pueden ser puestos
+en cuarentena como medida de precaución. La cuarentena puede ser establecida en el
+hogar, lugar de estadía o en un centro alterno. Cada individuo en cuarentena será
+monitoreado diariamente por teléfono, texto o en persona para verificar la presencia de
+fiebre y otros síntomas característicos del COVID-19. Si una de estas personas desarrolla
+síntomas será trasladado y ubicado en aislamiento para descartar la presencia de otros
+virus, realizarle las pruebas confirmatorias de laboratorio para COVID-19 y ser tratada
+según la afección.
+6. Coordinación y apoyo de los servicios de laboratorio
+El manejo de muestras se realiza según el nivel de bioseguridad de los laboratorios para
+controlar cierta amenaza. Para ello, hay que tener en cuenta el método de transmisión y
+el riesgo de contagio del agente que se sospecha se va a trabajar. Existen diversas
+clasificaciones en cuanto al riesgo de los agentes infecciosos, sin embargo, en Puerto
+Rico se siguen las recomendaciones expuestas en la guía del CDC titulada: Bioseguridad
+en los Laboratorios Microbiológicos y Biomédicos (BMBL, por sus siglas en inglés). Esta
+guía clasifica los agentes según la asociación y la severidad de la enfermedad que éstos
+puedan causar en humanos. El SARS-CoV-2, el cual es el nombre dado al virus que
+causa la enfermedad de COVID-19, ha sido clasificado como nivel de bioseguridad
+biológica número dos.
+El nivel de bioseguridad biológica número dos incluye agentes de riesgo moderado, que
+se asocian con enfermedades humanas de diferente severidad. En este nivel estos
+agentes pueden ser controlados con buenas técnicas microbiológicas ya que no son
+transmitidos por aerosoles. Este nivel es apropiado también cuando se trabaja con
+Plan de Preparación y Respuesta ante COVID-19
+13
+sangre, fluidos corporales, tejidos o líneas celulares contaminadas con agentes
+infecciosos desconocidos. Los laboratorios que no tengan la capacidad o que no cumplan
+con los niveles no deben exponerse a trabajar este tipo de muestra. Mientras no haya
+una prueba rápida disponible para los laboratorios centinela dichas muestras deben ser
+referidas al Laboratorio de Salud Pública de Puerto Rico (LSPPR), dependencia del
+DSPR.
+Los laboratorios de las facilidades hospitalarias con casos sospechosos de COVID-19
+deberán recopilar las muestras y enviarlas al Laboratorio de Salud Pública, que empacará
+y enviará las muestras al CDC para su análisis. Simultáneamente, durante esta etapa el
+Laboratorio de Salud Pública estará en proceso de implementación de las pruebas
+desarrolladas o establecidas para el diagnóstico clínico de COVID-19, para así tener la
+capacidad de realizar las pruebas en Puerto Rico. Las guías para el manejo de muestras
+son enviadas también en este nivel a los laboratorios de las facilidades hospitalarias. (Ver
+Apéndice B – Guía para Laboratorios sobre la Colección, Coordinación, Empaque y Envío
+de Muestras Relacionadas a Enfermedad Coronavirus 2019.)
+7. Salud y seguridad ocupacional
+En este nivel se revisan las guías de control de infecciones sobre el uso, colocación y
+remoción del equipo de protección personal, basado en la publicación de nueva
+información y actualización de las guías del CDC. Esto con el fin de incluir nuevas
+recomendaciones, según la experiencia en otros países con la enfermedad. Igualmente,
+se realiza nuevamente la prueba de ajuste o “Fit test” al personal del DSPR que pudiera
+tener mayor exposición al virus durante sus tareas y que no hayan tenido su actualización
+anual.
+8. Intervenciones no farmacológicas
+A través de la comunicación de riesgo, se enfatizan las intervenciones no farmacológicas
+relacionadas con las acciones de prevención individual (ej. higiene de manos y la etiqueta
+respiratoria); aislamiento; cuarentena; y, la descontaminación ambiental. Además, se
+realiza el monitoreo de las intervenciones no farmacológicas implementadas en los países
+afectados, su efectividad y las consecuencias negativas observadas. A base de dicho
+análisis, se actualizan las recomendaciones para los diferentes niveles. Además, una vez
+recibida la notificación de un caso sospechoso se realiza el rastreo de contactos y la
+cuarentena de los individuos potencialmente expuestos.
+9. Rastreo de contactos
+El rastreo de contactos es el proceso de identificar los individuos que pudieron estar en
+contacto con una persona infectada y que pudieron haberse expuesto al COVID-19. Esto
+permite la identificación temprana de individuos contagiados, reduciendo el riesgo de
+exposición a las personas circundantes. Estas personas son monitoreadas de acuerdo
+con el periodo de incubación esperado de la enfermedad, para ver si ocurre la aparición
+de síntomas, a partir del último día que el individuo tuvo contacto con el paciente enfermo.
+Si ocurre la presencia de los síntomas, la persona debe ser aislada, diagnosticada usando
+las pruebas adecuadas, atendida médicamente y entrevistada para determinar
+nuevamente todos los contactos de ese nuevo paciente. Este proceso de rastreo de
+Plan de Preparación y Respuesta ante COVID-19
+14
+contacto va a ser dirigido por la Oficina de Epidemiología e investigación del
+Departamento de Salud.
+El rastreo de contactos comienza lo más pronto posible, luego de que un individuo sea
+clasificado como paciente sospechoso. Es por ello, que el individuo debe ser entrevistado
+para determinar la lista de contactos a los cuales se les debe hacer una evaluación. Los
+contactos provistos serán divididos en: núcleos del hogar, contactos casuales o
+trabajadores de las facilidades de salud y serán evaluados por los equipos de
+investigación del Departamento de Salud. Estos equipos estarán bajo la supervisión de
+la Epidemiólogo del Estado. Para la investigación de contactos se definen las siguientes
+categorías:
+a. Contactos del núcleo del hogar
+En esta categoría se incluyen todos los individuos que hayan compartido la misma
+casa, habitación o sala de espera con el individuo enfermo y que hayan tenido una
+exposición prolongada.
+b. Contactos casuales
+Los contactos casuales son aquellos que han tenido menos exposición al individuo
+enfermo, pero que por el tiempo de exposición todavía representan un riesgo de
+contagio. Esto incluye individuos que comparten la misma escuela, el mismo trabajo,
+entre otros.
+c. Trabajadores de las facilidades de salud
+Personal de cuidado de la salud que trabaja en una facilidad que le proveyó cierto
+servicio a un paciente enfermo y que tuvo el potencial de exponerse a un material
+infeccioso, incluyendo: sustancias del cuerpo, equipo y material medicamente
+contaminado o ambiente posiblemente contaminado.
+10. Transportación
+Cuando la Oficina de Epidemiología e Investigación del Departamento de Salud lo
+indique, el caso sospechoso debe ser transportado a otro tipo de facilidad. Esta decisión
+se basará en los criterios clínicos y epidemiológicos. La coordinación se realizará a través,
+del coordinador interagencial del DSPR y el Negociado del Cuerpo de Emergencias
+Médicas o transportista privado autorizado para estos fines. Los transportistas y personal
+del Negociado del Cuerpo de Emergencias Médicas deben seguir el protocolo establecido
+en la Guía Para el Manejo de Pacientes Sospechosos y/o Confirmados con el Coronavirus
+(Ver Apéndice C).
+11. Activación del Centro de Operaciones del Departamento de Salud
+El Centro de Operaciones del Departamento de Salud de Puerto Rico (DSPR-DOC) es
+activado para facilitar los procesos de manejo, coordinación e intercambio de información
+y recursos para apoyar las operaciones de respuesta a la emergencia. En este nivel, la
+activación será a través de determinadas posiciones claves que mantendrán los
+Plan de Preparación y Respuesta ante COVID-19
+15
+componentes primordiales para el funcionamiento del mismo y la actualización del estado
+de situación.
+C. Nivel 2
+El Nivel 2, que es una Fase de Respuesta, se activará cuando se confirme por laboratorio el
+primer caso del virus en Puerto Rico, sin la identificación de transmisión comunitaria del virus.
+A continuación, se exponen las principales actividades a realizase durante este nivel:
+1. Vigilancia Epidemiológica
+Se continuará la vigilancia epidemiológica, enfatizando en la presencia de síntomas, el
+criterio clínico y la realización de pruebas de laboratorio en casos sospechosos. Además,
+se realizará la actualización de caso sospechosos y casos confirmados a medida que
+nueva información esté disponible. Estas nuevas definiciones permitirán reestablecer
+criterios para diferenciar entre la presencia y la ausencia de enfermedad, en base a la
+información científica que se va actualizando. Se reforzarán los procesos de educación a
+las facilidades de salud para el diagnóstico asertivo de los casos y la realización del
+reporte correspondiente. Los procesos de monitoreo y vigilancia en los puertos continúan
+y se intensifican basándose en la aparición de nuevos hallazgos.
+2. Comunicación de riesgo
+La comunicación de riesgo continúa siendo una de las prioridades. Se realiza la
+actualización de los modelos de mensajes educativos, las hojas informativas, las guías y
+demás materiales desarrollados a medida que nueva información esté disponible.
+Además, se realizan las siguientes actividades:
+ Diseminar a todos los programas del DSPR, agencias de apoyo del ESF8,
+entidades, organizaciones, voluntarios y demás personal activo en la respuesta,
+las últimas recomendaciones y guías, si se reportan cambios.
+ Enfatizar el reporte de los elementos esenciales de información y, según sea
+necesario, volver a orientar al personal que necesite el uso de las plataformas de
+intercambio de información.
+ Preparar actualizaciones de la situación para los medios de comunicación.
+ Mantener orientación al personal clínico con relación a la maximización de los
+recursos y el referido de pruebas de laboratorio con énfasis en casos que tengan
+alta sospecha de enfermedad.
+ Reforzar la educación a la población general mediante campañas de educación
+pública, a través de los diversos medios disponibles, sobre: los síntomas del
+COVID-19; la higiene de manos; la etiqueta respiratoria; y, otras medidas de
+prevención.
+ Activar mecanismos para asegurar la mayor diseminación posible de información
+confiable y certera.
+ Publicar con frecuencia información a través de distintos medios de comunicación
+como: redes sociales, página web del Departamento de Salud, radio y televisión,
+Plan de Preparación y Respuesta ante COVID-19
+16
+entre otros, para contrarrestar la incertidumbre y disipar rumores. Se debe incluir
+la información disponible sobre:
+o Lo que se conoce y se desconoce del virus; el estado de la enfermedad en
+Puerto Rico; el uso y efectividad de las medidas de prevención e
+intervenciones no farmacológicas; y, próximos pasos a seguir.
+o Transmisión, severidad, tratamiento y profilaxis e importancia de cumplir
+con las medidas de control.
+o Medidas que podrían tomarse como: la cancelación de viajes, cierre de
+escuelas, cancelación de eventos, entre otros.
+o Medidas de autocuidado para respondedores y profesionales de la salud.
+o Líneas de atención al público.
+ Monitorear la efectividad de las estrategias de comunicación y actualizar las
+estrategias según los resultados.
+ Continuar ofreciendo conferencias de prensa para mantener al público informado
+sobre lo ocurrido con el COVID-19, con la presencia de intérpretes de señas.
+3. Monitoreo de inventarios
+Se continua con el monitoreo de los inventarios y se revisan y desarrollan nuevas
+estrategias para mantener la disponibilidad de los materiales y equipos. Además, se
+continúa la evaluación y el análisis del reporte de los elementos esenciales de información
+de las facilidades de salud, por medio de las plataformas web del DSPR. Algunas de las
+actividades son:
+ Monitorear el estatus y cantidad del EPP, evaluando la necesidad y la posibilidad
+de adquirir más EPP.
+ Monitorear el inventario de consumibles médicos. Esto incluye, pero no se limita
+a: respiradores N95; mascarillas quirúrgicas; batas; geles de alcohol;
+desinfectantes; guantes; gafas de seguridad; jeringuillas; agujas 25G x 1;
+contenedores de desperdicios biomédicos; bolsas de desperdicios biomédicos;
+toallitas de alcohol; gasas; y, termómetros; entre otros.
+ Monitorear las camas de hospitales ocupadas y disponibles por categoría,
+incluyendo: censo total; sala de emergencia; ICU; PICU; NICU; Pediatría; y,
+Medicina/cirugía; entre otros.
+ Monitorear los cuartos de aislamiento, ocupados y disponibles.
+ Monitorear los suplidos de desinfectantes y productos de limpieza.
+ Si llegan las vacunas en este nivel de activación, hacer un inventario de vacunas
+y materiales necesarios para su administración.
+4. Coordinación y apoyo de los servicios de laboratorio
+Se continuará con el proceso de envío de las muestras para el análisis al CDC hasta que
+se obtenga la autorización del CDC para realizar las pruebas en Puerto Rico. Los
+laboratorios de las facilidades hospitalarias deben recopilar las muestras y enviarlas al
+Plan de Preparación y Respuesta ante COVID-19
+17
+Laboratorio de Salud Pública, que empacará y enviará las muestras al CDC para su
+análisis. Cuando se otorgue la autorización para el procesamiento de muestras en Puerto
+Rico, se dividirán los turnos de trabajo del Laboratorio de Salud Pública evaluando la
+cantidad de pruebas recibidas. A estos fines se establecerán horarios operacionales que
+incluyan los fines de semana, para obtener resultados rápidos, sin arriesgar la
+confiabilidad de éstos. Además, en la medida que la información cambie, se actualizarán
+las guías de laboratorio y se enviarán a los laboratorios de las facilidades hospitalarias.
+5. Rastreo de contactos
+Se continúa con el proceso de rastreo de contactos a partir de la identificación de
+individuos sospechosos. Los casos identificados podrán, según el análisis de caso, ser
+referidos a cuarentena en el hogar o en una facilidad exclusiva para este proceso.
+6. Establecimiento de centros de cuarentena
+En la medida que se identifiquen individuos que requieren cuarentena, y que no cuenten
+con los medios para ello por la situación personal, se contemplará establecer centros de
+cuarentena. La implementación de esta estrategia será determinada por la Gobernadora
+de Puerto Rico, basada en las recomendaciones y guía del COVID-19 Puerto Rico Task
+Force. Estos centros deberán estar apoyados con personal para velar por el bienestar,
+tanto físico como emocional, de los individuos mediante el monitoreo continuo del estado
+de salud, seguridad en la facilidad, así como los servicios para cubrir las necesidades
+básicas de alimentación, descanso e higiene, entre otros aspectos.
+7. Colaboración Multiagencial en Coordinación con NMEAD
+Cuando se requiera la implementación de cualquier tipo de estrategia de distanciamiento
+en masa de individuos expuestos, como cuarentena o aislamiento, se solicitará la
+colaboración y apoyo del Negociado de Manejo de Emergencias y Administración de
+Desastres (NMEAD) con el fin de organizar el esfuerzo multiagencial para apoyar la
+implementación de esta intervención no farmacológica. Esta coordinación se centrará en
+múltiples aspectos, incluyendo: actividades pertinentes a cuidado en masa, guiadas por
+el Branch de Mass Care de NMEAD; identificación de recursos y servicios, como:
+alimentación, suplidos de emergencia, procesos de reunificación, identificación y
+habilitación de facilidades, entre otros aspectos.
+8. Intervenciones no farmacológicas
+A través de la comunicación de riesgo, se continúan enfatizando las intervenciones no
+farmacológicas relacionadas con las acciones de prevención individual (ej. higiene de
+manos, la etiqueta respiratoria, modificación de conductas sociales); aislamiento;
+cuarentena; y, descontaminación ambiental. Se aplican e intensifican las labores
+relacionadas a la desinfección de ambientes y superficies de lugares públicos.
+9. Centro de Operaciones del Departamento de Salud
+Se implementa la activación con todas las posiciones del ICS para incrementar las labores
+que permitan los procesos de coordinación e intercambio de información y recursos.
+Plan de Preparación y Respuesta ante COVID-19
+18
+10. Salud y seguridad ocupacional
+Se monitoreará continuamente la seguridad del personal del DSPR activo en las
+operaciones de respuesta. El Oficial de Seguridad tendrá la potestad de cancelar
+cualquier operación que pueda perjudicar la salud y seguridad de cualquier respondedor
+del Departamento de Salud.
+D. Nivel 1
+Se activa la Fase de Respuesta que exige el Nivel 1 cuando se identifica la ocurrencia de la
+transmisión comunitaria del virus en Puerto Rico. Este nivel se caracteriza por el aumento en
+la demanda del sistema de salud; la activación de estrategias para disminuir el contagio;
+dirigir al público a los lugares de cuidado apropiados; y, mantenerlos informados sobre las
+estrategias de autocuidado para disminuir la demanda de las salas de emergencia; así como
+en el apoyo a las facilidades de salud para la continuidad de sus operaciones.
+1. Comunicación de riesgo
+La comunicación de riesgo continúa siendo una de las prioridades. Se realiza la
+actualización de los modelos de mensajes educativos, las hojas informativas, las guías y
+demás materiales desarrollados a medida que nueva información esté disponible.
+Además, se realizan las siguientes actividades:
+ Diseminar las últimas recomendaciones y guías, si han tenido actualizaciones y
+cambios, a todos los programas del DSPR, agencias de apoyo del ESF8,
+entidades, organizaciones, voluntarios y demás personal activo en las
+operaciones de respuesta.
+ Enfatizar el reporte de los elementos esenciales de información.
+ Preparar actualizaciones de la situación para los medios de comunicación.
+ Continuar reforzando la educación a la población general mediante campañas de
+educación pública, a través de los diferentes medios disponibles, sobre los
+síntomas del COVID-19, la higiene de manos, la etiqueta respiratoria y otras
+medidas de prevención enfatizando el distanciamiento social.
+ Publicar con frecuencia información a través de distintos medios de comunicación
+como: redes sociales, página web del DSPR, radio y televisión, entre otros, para
+contrarrestar la incertidumbre y disipar rumores. Se debe incluir la información
+disponible sobre:
+o Cuando visitar una sala de emergencias
+o Cuando ir a un proveedor primario de salud
+o Cuando permanecer en su casa
+o Intervenciones no farmacológicas con énfasis en el distanciamiento social,
+la desinfección ambiental y los procesos de aislamiento y cuarentena.
+o Los grupos prioritarios para vacunación y lugar de administración, cuando
+la misma esté disponible.
+Plan de Preparación y Respuesta ante COVID-19
+19
+o Ubicación de los centros de diagnóstico móviles, a disponibilidad.
+o Continuar reforzando lo que se conoce y se desconoce del virus; el estado
+de la enfermedad en Puerto Rico; y, el uso y efectividad de las medidas de
+prevención.
+o Transmisión, severidad, tratamiento y profilaxis e importancia de cumplir
+con las medidas de control.
+o Medidas de autocuidado para respondedores y profesionales de la salud.
+o Líneas de atención al público.
+ Monitorear la efectividad de las estrategias de comunicación y actualizar las
+estrategias según los resultados.
+ Continuar ofreciendo conferencias de prensas para mantener al público informado
+sobre lo ocurrido con el COVID-19, con la presencia de intérpretes de señas.
+2. Vigilancia Epidemiológica
+Se continuarán las labores de vigilancia epidemiológica, fortaleciendo la presencia de
+síntomas, el criterio clínico y la realización de pruebas de laboratorio en casos
+sospechosos. Se mantendrán los procesos de monitoreo y vigilancia en los puertos.
+Además, se realizarán las siguientes actividades:
+ Realizar investigaciones de casos y seguimiento de contactos cuando se
+comiencen a detectar los primeros casos para identificar si hay algún patrón o
+conglomerado que pudiera ser controlado por medio de aislamiento y cuarentena.
+ Realizar o fomentar los estudios de conglomerado para determinar información
+como: la tasa de ataque y el porcentaje de los casos asintomáticos.
+ Una vez el número de casos sea tan elevado que no permita el seguimiento por
+falta de recursos, descontinuar el seguimiento de contactos.
+ Realizar informes epidemiológicos que permitan identificar algunos factores como:
+la incidencia, los umbrales epidémicos y el impacto de la enfermedad.
+ Modificar la definición de caso, basado en el análisis de los datos de vigilancia
+epidemiológica, si fuera necesario.
+ Fortalecer la vigilancia de las hospitalizaciones y la mortalidad.
+ Evaluar la tasa de incidencia por región.
+3. Monitoreo de inventarios
+Se continúa con el monitoreo de los inventarios y se implementan nuevas estrategias
+para mantener la disponibilidad de los materiales y equipos. Además, se continúa con el
+análisis del reporte de los elementos esenciales de información de las facilidades de
+salud, por medio de las plataformas Web del Departamento de Salud. Algunas de las
+actividades a realizarse son:
+ Monitorear el estatus y cantidad del EPP. Se evalúa la necesidad y la posibilidad
+de adquirir más EPP.
+Plan de Preparación y Respuesta ante COVID-19
+20
+ Monitorear el inventario de consumibles médicos. Esto incluye, pero no se limita
+a: respiradores N95; mascarillas quirúrgicas; batas; geles de alcohol;
+desinfectantes; guantes; gafas de seguridad; jeringuillas; agujas 25G x 1;
+contenedores de desperdicios biomédicos; bolsas de desperdicios biomédicos;
+toallitas de alcohol; gasas; y, termómetros, entre otros.
+ Monitorear las camas de hospital ocupadas y disponibles por categoría: censo
+total, sala de emergencia, ICU, PICU, NICU, Pediatría, Medicina/cirugía, entre
+otros.
+ Monitorear los cuartos de aislamiento, ocupados y disponibles.
+ Monitorear los suplidos de desinfectantes y productos de limpieza.
+ Si llegan las vacunas en este nivel de activación hacer un inventario de vacunas
+y materiales necesarios para su administración.
+ Si se reciben donaciones, inspeccionar las condiciones y cantidad de los
+suplidos.
+4. Coordinación y apoyo de los servicios de laboratorio
+Para realizar el procesamiento de muestras en Puerto Rico, se dividirán los turnos de
+trabajo del Laboratorio de Salud Pública y se establecerán horarios que incluyan los fines
+de semana, para obtener resultados rápidos, sin arriesgar la confiabilidad de éstos. Se
+considerará la contratación de personal que apoye los procesos del laboratorio.
+Igualmente, se realizará un proceso de “triage” para ejecutar la prueba molecular a las
+muestras recibidas. Se les dará prioridad a los casos hospitalizados ya que los mismos
+son los que presentan los síntomas más severos de la enfermedad. Se estarán evaluando
+opciones adicionales para el procesamiento de muestras, en vías de atender un aumento
+súbito en el volumen de las muestras.
+5. Intervenciones no farmacológicas
+A través de la comunicación de riesgo, se continúan enfatizando las intervenciones no
+farmacológicas relacionadas con las acciones de prevención individual (ej. higiene de
+manos, la etiqueta respiratoria, modificación de conductas sociales); aislamiento;
+cuarentena; y, la descontaminación ambiental. Se aplican e intensifican las labores
+relacionadas al distanciamiento social y la desinfección de ambientes y superficies de
+lugares públicos. Se puede dar el cierre de instituciones educativas, museos, eventos
+masivos, cines, entre otros. (Ver Apéndice D – Intervenciones No Farmacológicas). Se
+realizarán las siguientes actividades:
+ Monitorear el ausentismo laboral y escolar.
+ Recomendar a las personas que permanezcan en sus casas si estén enfermas.
+ Recomendar a las personas minimizar las interacciones fuera del hogar y practicar
+el aislamiento o permanecer en su hogar al primer síntoma de la enfermedad.
+ De 2 a 3 semanas después de la detección del primer caso en Puerto Rico, realizar
+una evaluación inicial para determinar de manera preliminar la severidad y poder
+tomar decisiones sobre las NPIs a ser implementadas con los datos disponibles.
+Plan de Preparación y Respuesta ante COVID-19
+21
+ De 4 a 8 semanas después de la detección del primer caso en Puerto Rico: realizar
+segunda evaluación de severidad pandémica.
+ Seleccionar e implementar NPIs seleccionadas de acuerdo con la severidad
+pandémica: baja/moderada o elevada/muy elevada.
+ Activar estrategias alternativas de aislamiento y cuarentena, según sea necesario.
+ Monitorear el cumplimiento y la efectividad de las NPIs.
+6. Contramedidas médicas
+a. Medicamentos
+Cuando el o los medicamentos específicos para COVID-19 estén disponibles, algunas
+de las actividades a realizarse serán:
+ Activar los Centros de Despacho (PODs, por sus siglas en inglés) para la
+dispensación de los medicamentos.
+ Utilizar los medicamentos antivirales exclusivamente para tratamiento a
+menos que el CDC recomiende que sean utilizados para profilaxis.
+ Mantener un expediente de las dosis administradas y disponibles por facilidad
+de salud y lugar de despacho.
+ Monitorear los efectos adversos de los antivirales y reportarlos a la
+Administración de Drogas y Alimentos de los EU (FDA, por sus siglas en
+inglés).
+ Proveer protocolos e información a los proveedores de salud.
+ Activar los acuerdos con gobiernos municipales, los voluntarios del Cuerpo de
+Reserva Médica de Puerto Rico (MRC-PR) y organizaciones comunitarias.
+b. Vacunas
+Cuando la vacuna para COVID-19 esté disponible, algunas de las actividades a
+realizarse serán:
+ Activar los centros para la distribución de vacunas.
+ Reportar los efectos adversos de la vacuna a través del sistema VAERS
+(Vaccine Adverse Event Reporting System) del CDC.
+ Activar el Plan de Vacunación masiva.
+ Monitorear las vacunaciones; la distribución, utilización y seguimiento en caso
+de que sea necesaria una segunda dosis, utilizando el Registro de
+Inmunización de Puerto Rico.
+ Mantener y reportar un inventario de materiales médicos por cada Open POD
+y Closed POD.
+ Las vacunaciones se registrarán a través del Puerto Rico Immunization
+Registry (PRIR).
+Plan de Preparación y Respuesta ante COVID-19
+22
+7. Centro de Operaciones del Departamento de Salud:
+Debido a la importancia de establecer medidas para el distanciamiento social, la
+modalidad de activación del Centro de Operaciones del Departamento de Salud pasará
+de ser una presencial a una virtual. Sin embargo, todas las funciones y tareas seguirán
+ocurriendo sin interrupción a través de las plataformas y sistemas de intercambio de
+información del DSPR.
+8. Salud y Seguridad Ocupacional
+Con el fin de monitorear la salud y seguridad de los respondedores e implementar
+estrategias efectivas para el cuidado de éstos, se realizarán acciones como:
+ Determinar la tasa de ataque en el personal del DSPR.
+ Evaluar los impactos psicológicos de la pandemia en los profesionales de salud y
+proveer apoyo social y psicológico a los trabajadores de salud, pacientes y
+comunidades.
+ Actualizar y ofrecer guías para la colocación y remoción del EPP, esto si hay algún
+cambio significativo.
+ Monitorear la disponibilidad del EPP para los respondedores del DSPR e implementar
+estrategias para contar con la disponibilidad de éstos.
+ Ofrecer guías de control de infecciones en el trabajo y apoyar en la evaluación de
+riesgo.
+ Investigar las exposiciones laborales del personal de DSPR.
+III. Organización y Asignación de Responsabilidades
+Esta sección del Plan de Preparación y Respuesta para COVID-19, incluye la planificación
+correspondiente a la organización que rige el desarrollo de este documento para su óptima
+implementación. De la misma manera, este documento contempla la asignación de
+responsabilidades para las diferentes dependencias involucradas concerniente a los roles que
+desempeñan en apoyo al DSPR ante las operaciones de respuesta en una emergencia en salud
+pública pertinente al COVID-19.
+A. Organización
+El Plan de Preparación y Respuesta para COVID-19 del DSPR aplica un formato funcional
+tradicional que detalla a través de un Plan Básico y Apéndices, las acciones, estrategias y
+procedimientos a implementar para la atención de una emergencia en salud pública relacionada
+al coronavirus novel 2019. La organización que rige este plan ofrece la planificación, estrategias
+y recursos requeridos para manejar las operaciones de respuesta a una emergencia en salud
+pública que impacte los sistemas de salud pública, servicios médicos y salud mental en Puerto
+Rico, como consecuencia de enfermedades respiratorias transmisibles.
+Plan de Preparación y Respuesta ante COVID-19
+23
+B. Asignación de Responsabilidades
+Este plan toma en consideración la responsabilidad del Departamento de Salud de Puerto Rico
+(DSPR) como la agencia líder de la Función de Apoyo de Emergencia 8 (ESF8, según sus siglas
+en inglés) – Salud Pública y Servicios Médicos. Esto incluye la planificación, preparación,
+implementación y evaluación de las acciones correspondientes para atender los elementos
+pertinentes a este tipo de emergencia en los sistemas de salud pública, servicios médicos y salud
+mental en Puerto Rico. El DSPR, a través de la Oficina de Preparación y Coordinación de
+Respuesta en Salud Pública (OPCRSP), se encarga de planificar y coordinar las operaciones de
+respuesta del sistema de salud pública, servicios médicos y salud mental ante una emergencia
+ocasionada por el COVID-19. Para ello, el Plan de Preparación y Respuesta para COVID-19, se
+nutre y contempla el rol y la asignación de responsabilidades de los siguientes: las unidades
+operacionales, programas y oficinas del DSPR; agencias y entidades locales, estatales y
+federales de apoyo al ESF8, así como otras entidades y organizaciones que se involucran en
+estas operaciones.
+Las responsabilidades aquí contempladas se dividen para los diferentes sectores, antes
+mencionados, que tienen un rol en este tipo de emergencia. A esos fines, se inicia esta
+descripción con las responsabilidades que son comunes para todas las agencias, entidades y/u
+organizaciones involucradas en estas actividades. Las responsabilidades aquí detalladas están
+apoyadas por el Apéndice E – Recomendaciones en el lugar de trabajo para minimizar la
+transmisión de un virus novel. Estas responsabilidades incluyen, pero no se limitan a las
+siguientes:
+ Desarrollar y/o actualizar protocolos internos para el apoyo a la emergencia. Incluyendo,
+pero sin limitarse a los siguientes:
+o Protocolo de desinfección y descontaminación en el lugar de trabajo, espacios de
+atención al público, entre otras áreas;
+o Protocolo de trabajo a distancia (telework) o aislamiento en el lugar de trabajo para
+empleados enfermos;
+o Protocolo para la intervención de trabajadores enfermos.
+ Educar al personal regular, personal subcontratado y socios sobre: los síntomas de la
+enfermedad, medidas de prevención y protocolos internos relacionados.
+ Mantener la disponibilidad de agua y jabón, en las instalaciones sanitarias y espacios de
+aseo, para promover y facilitar el lavado de manos.
+ Mantener suplidos y accesibilidad de “hand sanitizer” en las áreas de atención al público.
+ Desinfectar continuamente las áreas comunes.
+ Desarrollar políticas que permitan la implementación de medidas de distanciamiento
+social en el trabajo.
+ Enfatizar a los empleados enfermos que no se presenten a trabajar si tienen síntomas y
+se comuniquen con su proveedor de servicios de salud para coordinar su visita.
+ Promover y facilitar el trabajo en el hogar (telework) si una persona necesita estar en
+aislamiento o cuarentena, si es posible.
+ Apoyar las actividades de comunicación de riesgo y educación pública mediante la
+orientación al público.
+Plan de Preparación y Respuesta ante COVID-19
+24
+ Mantener y compartir con el DSPR un registro de los empleados enfermos. (Enviar a:
+prdoheoc@salud.pr.gov, incluyendo en el asunto ATTN: WILL COVID-19)
+Las tablas con las responsabilidades correspondientes a cada sector se incluyen a continuación:
+1. Departamento de Salud de Puerto Rico
+Tabla III.B.1: Roles y Responsabilidades de las Unidades Operacionales, Programas y
+Oficinas del DSPR en el Plan de Preparación y Respuesta para COVID-19
+Agencia, Entidad u Organización Roles y Responsabilidades
+Administración de Servicios
+Médicos (ASEM) de Puerto Rico
+ Coordinar las operaciones, la logística y personal del
+complejo de hospitales del Centro Médico ante la
+emergencia causada por COVID-19.
+Coaliciones de Servicios de
+Salud
+ Mantener la red de colaboración y coordinación de
+las Coaliciones Regionales de Servicios de Salud
+para el apoyo correspondiente a los recursos y
+servicios necesarios.
+ Desarrollar, revisar, actualizar e implementar los
+planes de respuesta regionales de las coaliciones.
+División de Inmunización
+ Administrar y distribuir las vacunas, una vez estén
+disponible.
+Laboratorio de Salud Pública
+(PRPHL, según sus siglas en
+inglés)
+ Coordinar con el Centro para el Control y Prevención
+de Enfermedades (CDC, según sus siglas en inglés)
+el análisis de muestras ante enfermedades
+emergentes que no cuenten en el momento con la
+validación correspondiente.
+ Diagnosticar y caracterizar de manera rápida las
+cepas circulantes y los nuevos subtipos de
+enfermedad, una vez se haya realizado la validación
+pertinente.
+ Adiestrar, orientar y distribuir protocolos y guías a
+médicos, enfermeras y otros laboratorios, sobre el
+manejo y referido de muestras clínicas.
+Oficina de Epidemiología e
+Investigación
+ Servir de enlace, a través de los epidemiólogos
+regionales, con las facilidades de salud, proveedores
+de servicios de salud y otros socios en relación a las
+acciones pertinentes para la identificación y
+seguimiento de casos sospechosos y/o confirmados.
+ Mantener, a través de los epidemiólogos regionales,
+el monitoreo de las personas bajo investigación
+mediante las acciones establecidas en los protocolos
+establecidos para la emergencia.
+ Establecer y mantener el sistema de vigilancia
+correspondiente a la emergencia.
+ Desarrollar y publicar los informes de vigilancia
+epidemiológica correspondiente.
+Plan de Preparación y Respuesta ante COVID-19
+25
+Agencia, Entidad u Organización Roles y Responsabilidades
+Oficina Estatal para el Control de
+Animales (OECA)
+ Informar a la Secretaría Auxiliar para la Salud
+Ambiental de la identificación de cualquier caso de
+coronavirus novel en animales en Puerto Rico.
+ Apoyar al Departamento de Agricultura (DA) de
+Puerto Rico en la implementación del protocolo de
+manejo de casos.
+Oficina de Preparación y
+Coordinación de Respuesta en
+Salud Pública (OPCRSP)
+ Manejar y mantener las operaciones de manejo de
+emergencias del DSPR.
+ Desarrollar, revisar y actualizar el Plan de
+Preparación y Respuesta para COVID-19.
+ Apoyar al Laboratorio de Salud Pública (LSP) a
+través de las coordinaciones pertinentes para
+aumentar su capacidad de análisis durante la
+emergencia.
+ Evaluar el riesgo asociado a los trabajadores del
+DSPR que llevan a cabo operaciones críticas
+durante la respuesta a la emergencia.
+ Ofrecer recomendaciones sobre el uso de equipo de
+protección personal.
+ Manejar las contramedidas médicas a través de la
+División del DSPR del Programa Nacional
+Estratégico de Medicamentos (SNS, según sus
+siglas en inglés).
+ Apoyar la coordinación de recursos de apoyo para
+mantener el personal necesario durante la
+emergencia para aumentar la capacidad de
+respuesta del sistema de salud pública, servicios
+médicos y salud mental.
+ Desarrollar estrategias de comunicación de riesgo y
+educación pública.
+ Mantener comunicación constante con la oficina de
+comunicaciones del DSPR.
+ Desarrollar, a través de su Unidad de GIS, mapas
+con información actualizada sobre el progreso de la
+emergencia en relación a los aspectos pertinentes
+para mantener el estado de situación.
+ Realizar adiestramientos en temas relacionados a
+preparación y respuesta a emergencias y desastres
+para los programas del DSPR y otras agencias de
+gobierno.
+ Realizar ejercicios para validar el plan de
+preparación y respuesta para COVID-19.
+Regiones del DSPR
+ Realizar la evaluación preliminar y recolección de
+datos sobre las necesidades de las facilidades de
+salud del DSPR en su región y los gastos incurridos
+en servicios generales causados por la emergencia.
+Plan de Preparación y Respuesta ante COVID-19
+26
+Agencia, Entidad u Organización Roles y Responsabilidades
+Secretaría Auxiliar para
+Reglamentación y Acreditación
+de Facilidades de Salud
+(SARAFS)
+ Asegurar la planificación y monitoreo de la calidad
+de los servicios de salud y las operaciones de las
+facilidades de salud durante la emergencia.
+Secretaría Auxiliar para la Salud
+Ambiental
+ Certificar e inspeccionar las facilidades que van a ser
+utilizadas como centros de despacho de
+medicamentos y/o vacunas (PODs, según sus siglas
+en inglés), así como las facilidades que se
+identifiquen para realizar aislamiento y/o cuarentena
+en la comunidad.
+Unidades Operacionales,
+Programas y Oficinas del DSPR
+ Apoyar las actividades de comunicación de riesgo y
+educación pública mediante la orientación al público.
+ Apoyar las operaciones de manejo de emergencias
+del DSPR, según sea requerido.
+2. Agencias/Entidades Estatales y Locales
+Tabla III.B.2: Roles y Responsabilidades de las Agencias/Entidades Estatales y Locales
+del Gobierno de Puerto Rico en el Plan de Preparación y Respuesta para COVID-19
+Agencia, Entidad u Organización Roles y Responsabilidades
+Administración de Servicios de
+Salud Mental y Contra la
+Adicción (ASSMCA)
+ Recomendar intervenciones para ayudar a superar la
+resistencia cuando se dan instrucciones para
+aislamiento, cuarentena, desalojo o alguna otra
+intervención no farmacológica (NPI).
+ Ayudar a identificar y coordinar recursos para la
+vigilancia de las necesidades emocionales que
+presenten individuos en aislamiento, cuarentena y/o
+desalojados.
+ Apoyar desde la perspectiva de la conducta humana
+en el desarrollo de estrategias dirigidas a evitar la
+violencia, discrimen, estigma, crisis colectiva y pánico.
+ Coordinar recursos para evaluar el estrés en
+primeros respondedores, asociados al contagio y al
+estigma.
+ Orientar, educar y brindar apoyo emocional,
+estrategias de manejo de las emociones, sesiones de
+desahogo e intervención en crisis a la comunidad en
+general a nivel individual, familiar, grupal y
+comunitario.
+ Ofrecer asistencia psicológica, emocional y
+psiquiátrica a las víctimas de la pandemia y sus
+familias, respondedores y personal involucrado en
+las operaciones de respuesta.
+ En conjunto con el Comité de Expertos de Salud
+Mental y Conductual ante Emergencias de Salud
+Plan de Preparación y Respuesta ante COVID-19
+27
+Agencia, Entidad u Organización Roles y Responsabilidades
+Pública y/o Desastres (BHSMEC, según sus siglas en
+inglés), dar recomendaciones de los materiales
+desarrollados para que la gente cumpla con las
+intervenciones no farmacológicas (NPIs).
+ En conjunto con el comité BHSMEC, ofrecer
+recomendaciones para la implementación de las
+estrategias de NPIs.
+ Brindar una respuesta rápida para el manejo
+emocional a través de la línea de primera ayuda
+psicosocial (Línea PAS: 1-800-981-0023).
+Autoridad de Edificios Públicos
+ Proveer asistencia técnica para la identificación de los
+edificios y las facilidades públicas que pudieran ser
+utilizados como lugares de aislamiento y cuarentena.
+Autoridad de los Puertos
+ Facilitar la entrada a los puertos y aeropuertos, bajo
+su jurisdicción, del personal correspondiente cuando lo
+ameriten las operaciones de respuesta debido a algún
+caso sospechoso o confirmado.
+Compañía de Turismo de Puerto
+Rico
+ Apoyar al DSPR orientando sobre los síntomas y
+medidas de prevención.
+ Apoyar y cumplir las órdenes de cuarentena en
+hoteles y paradores, de ser necesario.
+ Velar por la salud y seguridad de visitantes y
+empleados del sector turístico mediante la
+coordinación con las demás agencias locales e
+internacionales.
+ Crear y compartir guías con la industria turística local
+para la implementación de medidas de evaluación
+(screening), prevención y control aplicables a este
+sector, basado en la información provista por
+autoridades locales e internacionales.
+ Mantener comunicación constante con las líneas
+aéreas y de cruceros para identificar riesgos y
+medidas de prevención con el tráfico de visitantes.
+ Trabajar junto a la entidad de mercadeo de destino en
+las guías informativas para el visitante.
+ Ser punto de enlace para informar la toma de
+decisiones de las demás agencias locales y estatales
+con potencial impacto en el desempeño del sector.
+Departamento de Agricultura de
+Puerto Rico
+ Diseminar la información relacionada al brote o
+identificación del virus en animales
+Departamento de Corrección y
+Rehabilitación
+ Mantener coordinación con el DSPR en relación a la
+salud del personal y los sumariados.
+ Colaborar con la implementación de las NPIs en los
+complejos correccionales.
+ Impulsar las medidas de prevención en todos los
+complejos correccionales, incluyendo en las
+actividades relacionadas a las visitas.
+Plan de Preparación y Respuesta ante COVID-19
+28
+Agencia, Entidad u Organización Roles y Responsabilidades
+Departamento de Educación
+ Colaborar con la identificación de brotes en las
+escuelas.
+ Colaborar con la implementación de las NPIs en las
+escuelas, incluyendo la continuidad del sistema de
+educación para los estudiantes en aislamiento y
+cuarentena.
+ Proveer los alimentos para las personas que se
+encuentren en las facilidades de aislamiento y
+cuarentena.
+ Coordinar la distribución de información confiable
+sobre síntomas y medidas de prevención.
+Departamento de Estado
+ Apoyar al DSPR en la implementación de las medidas
+de aislamiento y cuarentena.
+ Colaborar en la coordinación de viajes de regreso y/o
+procesos de repatriación para los extranjeros.
+ Comunicar a los países correspondientes si uno de
+sus nacionales se encuentra en aislamiento o
+cuarentena en Puerto Rico.
+ Apoyar los procesos de intérpretes y traducción de
+materiales desarrollados con relación a la emergencia.
+ Diseminar información a la comunidad sobre la
+pandemia y facilitar el proceso de preguntas y
+respuestas, a través de su Sistema 3-1-1.
+Departamento de la Familia
+ Proveer y distribuir alimentos y suplidos a las familias
+que cualifiquen para sus programas y que se
+encuentren en cuarentena en el hogar.
+ Coordinar la distribución de información confiable
+sobre síntomas y medidas de prevención al público a
+través de su sistema de hogares, centros de cuidado
+de envejecientes y otros lugares de cuido manejados
+por la agencia.
+Departamento de Hacienda de
+Puerto Rico
+ Asistir en la entrada o acceso a Puerto Rico, a través
+de los muelles, de equipo y materiales necesarios
+para el funcionamiento de las facilidades de salud y la
+respuesta a la emergencia.
+Departamento de Recursos
+Naturales y Ambientales
+ Colaborar con el transporte de medicamentos a través
+de toda la isla, incluyendo Vieques y Culebra.
+Departamento de Vivienda
+ Proveer un inventario de facilidades públicas
+disponibles para ser utilizadas como facilidades
+alternas en caso de que fuera necesario para
+implementar la cuarentena.
+ Coordinar la distribución de información confiable
+sobre síntomas y medidas de prevención al público a
+través de su sistema administrativo de vivienda
+pública.
+Plan de Preparación y Respuesta ante COVID-19
+29
+Agencia, Entidad u Organización Roles y Responsabilidades
+ Impulsar medidas de prevención en todas las
+comunidades relacionadas a vivienda y en sus 333
+residenciales alrededor de Puerto Rico.
+Fondo del Seguro del Estado
+ Revisar los programas de beneficios que puedan
+asistir a los trabajadores enfermos.
+ Apoyar a los trabajadores del DSPR poniendo a su
+servicio sus profesionales de consejería, psicólogos y
+psiquiatras.
+Guardia Nacional de Puerto Rico
+ Proveer seguridad en los puntos de dispensación de
+medicamentos y vacunas.
+ Apoyar con la transportación y los procesos de
+logística para facilitar las operaciones del DSPR.
+Municipios
+ Manejar, implementar y mantener las actividades
+correspondientes a los acuerdos de colaboración
+establecidos a través de la División del Programa
+Nacional Estratégico de Medicamentos (SNS, según
+sus siglas en inglés) del DSPR para manejar las
+contramedidas médicas determinadas para las
+operaciones de respuesta.
+Negociado de Ciencias Forenses
+ Determinar la causa y circunstancias de muerte de
+cualquier persona cuyo deceso ocurriese de manera
+repentina o cuando sucediera en una persona que
+estaba padeciendo de una enfermedad infecciosa sin
+confirmación.
+ Identificar, transportar y manejar los cadáveres que se
+produzcan como resultado de la emergencia.
+Negociado del Cuerpo de
+Emergencias Médicas de Puerto
+Rico
+ Apoyar al DSPR transportando a los pacientes que lo
+ameriten en ambulancias estatales o ambulancias
+privadas subcontratadas y proveyendo los cuidados
+médicos pre-hospitalarios a dichos pacientes.
+Negociado de Manejo de
+Emergencias y Administración de
+Desastres
+ Coordinar y manejar la estructura estatal de manejo
+de emergencias.
+ Solicitar los servicios de las agencias de gobierno,
+organizaciones y entidades, para coordinar las
+operaciones necesarias durante la emergencia.
+ Solicitar recursos externos y/o federales, de ser
+necesarios.
+ Contar con personal disponible para las tareas de
+coordinación y manejo de emergencias.
+Negociado de la
+Policía de Puerto
+Rico
+ Apoyar con seguridad para la escolta de
+personal/vehículos claves del DSPR durante las
+operaciones de la emergencia.
+ Apoyar en la seguridad de las facilidades de
+cuarentena y/o en el establecimiento y mantenimiento
+del perímetro en casos de aplicar cuarentena
+comunitaria.
+Plan de Preparación y Respuesta ante COVID-19
+30
+Agencia, Entidad u Organización Roles y Responsabilidades
+Negociado de Sistema de
+Emergencia 9-1-1
+ Recibir llamadas de emergencia e identificar y
+comunicar la necesidad a las entidades pertinentes
+para llevar a cabo una respuesta efectiva.
+Negociado de Transporte y otros
+Servicios Públicos
+ Identificar y mantener un inventario de operadores
+independientes y organizaciones (concesionarios)
+para la distribución de combustible, carga en general,
+pasajeros y materiales peligrosos.
+ Mantener el inventario de las ambulancias autorizadas
+(públicas y privadas) en el país.
+ Mantener el inventario de las franquicias y operadores
+debidamente autorizados por el Negociado.
+ Coordinar las situaciones de emergencias referentes a
+la transportación turística.
+ Coordinación con puertos de carga y muelle de San
+Juan para la transportación de equipos, medicamentos
+y materiales médicos necesarios.
+ Apoyar con la coordinación de transporte con los
+acarreadores de transporte de carga.
+Oficina de Administración de
+Tribunales
+ Priorizar la emisión de órdenes relacionadas a la
+emergencia.
+ Contar con el personal necesario para la emisión de
+órdenes.
+Oficina de Gerencia y
+Presupuesto
+ Registrar órdenes de compra en el periodo de
+emergencia. Las órdenes serán aprobadas de acuerdo
+a la necesidad y áreas declaradas como desastre o
+emergencia.
+3. Agencias Federales
+Tabla III.B.3: Roles y Responsabilidades de las Agencias Federales en el Plan de
+Preparación y Respuesta para COVID-19
+Agencia, Entidad u Organización Roles y Responsabilidades
+CDC
+ Apoyar las actividades de vigilancia epidemiológica del
+DSPR, así como del Laboratorio de Salud Pública.
+ Apoyar, a través de la División del Programa Nacional
+Estratégico de Medicamentos (DSNS, según sus
+siglas en inglés), la provisión de suplidos de
+contramedidas médicas, incluyendo la vacuna cuando
+esté disponible, para llevar a cabo las operaciones de
+respuesta.
+ Proveer protocolos de diagnóstico y tratamiento de la
+pandemia, de ser necesario.
+Plan de Preparación y Respuesta ante COVID-19
+31
+Agencia, Entidad u Organización Roles y Responsabilidades
+ Enviar y mantener el suplido necesario de las pruebas
+rápidas, así como los reactivos, de estar disponibles,
+para la detección del virus.
+Departamento de Agricultura
+Federal
+ Diseminar la información relacionada al brote y/o la
+identificación de cualquier virus en animales.
+Departamento de la Defensa
+ Apoyar los esfuerzos de respuesta y recuperación
+ante una emergencia que afecte la salud pública,
+servicios médicos y salud mental en Puerto Rico y
+facilitar/proveer recursos de apoyo para las facilidades
+críticas identificadas por el DSPR.
+Departamento de Salud y
+Servicios Humanos (HHS)
+ Apoyar las operaciones de respuesta del DSPR con
+los recursos y asistencia, según sea necesario y
+solicitado.
+ Mantener comunicación y coordinación con FEMA
+relacionado a las necesidades del DSPR para las
+operaciones de respuesta.
+ Apoyar esfuerzos de planificación para eventos
+biológicos.
+Estación de Cuarentena del CDC
+(CDC-SJQS)
+ Prevenir y controlar la propagación del virus en
+coordinación con Aduanas, la Guardia Costanera, el
+Departamento de Seguridad Nacional y la Autoridad
+de los Puertos.
+ Realizar la vigilancia de casos en los puertos de
+entrada y salida de Puerto Rico.
+ Mantener la comunicación y coordinación con el
+DSPR en relación a la vigilancia de casos.
+FEMA
+ Apoyar la estructura establecida por NMEAD para los
+procesos de manejo de emergencias, consistente con
+el establecimiento de una estructura unificada bajo
+NIMS/ICS para el manejo de las operaciones de
+respuesta.
+ Apoyar los esfuerzos de respuesta y recuperación
+ante una pandemia que afecte la salud pública, los
+servicios médicos y salud mental en Puerto Rico,
+según sea necesario y solicitado.
+ Facilitar y proveer recursos de apoyo para las
+facilidades críticas del DSPR involucradas en las
+operaciones de respuesta.
+Plan de Preparación y Respuesta ante COVID-19
+32
+4. Entidades del Sector Privado y Organizaciones No Gubernamentales y/o Sin Fines
+de Lucro
+Tabla III.B.IV: Roles y Responsabilidades de las Entidades del Sector Privado y
+Organizaciones No Gubernamentales y/o Sin Fines de Lucro en el Plan de Preparación y
+Respuesta para COVID-19
+Agencia, Entidad u Organización Roles y Responsabilidades
+Aerostar Airport Holding, LLC
+ Facilitar la entrada al Aeropuerto Internacional Luis
+Muñoz Marín, del personal correspondiente cuando lo
+ameriten las operaciones de respuesta debido a algún
+caso sospechoso o confirmado.
+ Apoyar los procesos de logística dentro de la facilidad
+del aeropuerto.
+Movimiento para el Alcance de
+Vida Independiente
+ Brindar apoyo a los casos de personas con
+necesidades de acceso y funcionales que pudieran
+estar en procesos de cuarentena o en la comunidad.
+Entre los servicios que pueden ofrecer incluyen:
+orientación, equipos (de estar disponibles) y acceso a
+recursos que puedan necesitar, como lo son los
+intérpretes de señas.
+Organizaciones Voluntarias
+Activas en Desastres de Puerto
+Rico (PROVAD)
+ Apoyar las operaciones de respuesta mediante de la
+coordinación correspondiente de los recursos y/o
+servicios necesarios a través las organizaciones y
+socios que agrupan.
+IV. Dirección, Control y Coordinación
+La estructura pertinente a la dirección, control y coordinación para la respuesta a una emergencia
+por COVID-19 adopta las estipulaciones establecidas en el Plan Operacional de Manejo de
+Emergencias del Departamento de Salud Puerto Rico, basado en el Sistema Nacional de Manejo
+de Incidentes (NIMS, según sus siglas en inglés). A estos fines se definen unos elementos
+organizacionales que desempeñan un rol en dichas operaciones y se establece una estructura
+basada en el Sistema de Comando de Incidentes (ICS, según sus siglas en inglés).
+El DSPR, a través de la Oficina de Preparación y Coordinación de Respuesta en Salud Pública,
+tiene funciones de manejo de emergencias en adición a sus deberes regulares que permiten la
+dirección, control y coordinación de las operaciones de respuesta relacionadas a este tipo de
+emergencia. Esto permite que se siga la política establecida para enfrentar o responder a una
+emergencia en salud pública de esta naturaleza. Estas actividades son dirigidas por el Secretario
+del DSPR quien puede delegar parte de sus funciones a su representante en la línea de mando,
+pero no así las responsabilidades. Las acciones correspondientes se pueden ejecutar mediante
+los siguientes comités y grupos:
+Plan de Preparación y Respuesta ante COVID-19
+33
+A. Elementos Organizacionales
+La dirección y el control de la coordinación de las operaciones de respuesta ante las
+operaciones de respuesta al COVID-19 en Puerto Rico, se regirán por las acciones y
+actividades realizadas por determinados grupos de trabajo, según de detallan a continuación:
+1. Comité Ejecutivo
+El Comité Ejecutivo es presidido por el Secretario del Departamento de Salud (DSPR). El
+mismo estará compuesto por la Subsecretaria, Director de la Oficina de Comunicaciones
+del DSPR, Directora de la Oficina de Preparación y Coordinación de Respuesta en Salud
+Pública (OPCRSP), Directora de la Oficina de Epidemiología e Investigación, Director de
+Asesores Legales, Administración de Servicios Médicos de Puerto Rico (ASEM) y
+Ayudantes Especiales inmediatos. Este comité debe asesorar al Secretario de Salud para
+establecer la política pública y directrices específicas a ser implementadas durante una
+emergencia relacionada a COVID-19.
+2. Comité de Pandemia
+El Comité de Pandemia esté compuesto por personal del DSPR, Expertos en la Materia
+o Subject Matter Experts (SME, según sus siglas en inglés) en temas relacionados a las
+actividades de preparación y respuesta descritas en este plan. Los mismos colaboran en
+el desarrollo del plan y deben estar disponibles como SME es su materia en caso de una
+activación. El comité está compuesto por los siguientes: Directora de la Oficina de
+Preparación y Coordinación de Respuesta en Salud Pública (OPCRSP) del DSPR;
+Coordinadora del Sistema de Vigilancia de Influenza del DSPR; Laboratorio de Salud
+Pública; Coordinadora del Programa de Inmunización del DSPR; Gerente del Programa
+Distribución y Dispensación de Contramedidas Médicas de la OPCRSP; Analista en
+Planificación de Resiliencia Comunitaria de la OPCRSP; Gerente de la Unidad de Salud
+y Seguridad de la OPCRSP; Analista de Planificación de Cuidados de Salud de la
+OPCRSP; y, el Analista de Comunicación de Riego de la OPCRSP.
+3. Comité Operacional
+El Comité Operacional está a cargo de coordinar todas las operaciones de emergencia
+dentro de sus áreas de responsabilidad, según establecido en este plan. El mismo estará
+integrado por los siguientes: Directora de la Oficina de Preparación y Coordinación de
+Respuesta en Salud Pública; Coaliciones de Servicios de Salud; Negociado del Cuerpo
+de Emergencias Médicas (EMS); Oficina de Epidemiología e Investigación del DSPS;
+Laboratorio de Salud Pública; División de Inmunización del DSPR; Oficina de
+Comunicaciones del DSPR; Regiones del DSPR; ASMMCA; y, ASEM. Este comité
+4. Grupo de Apoyo Externo
+Está compuesto por gobiernos locales, agencias estatales y federales, sector privado y
+organizaciones no gubernamentales que proveen apoyo a las operaciones de
+emergencia del DSPR.
+B. Estructura de Coordinación
+Plan de Preparación y Respuesta ante COVID-19
+34
+La estructura de comando y coordinación utilizada en todos los niveles del gobierno para
+manejar las operaciones de respuesta a un incidente está basada en el Sistema de Comando
+de Incidentes (ICS, según sus siglas en inglés). Las estructuras de ICS establecidas ante
+este tipo de emergencia en salud pública serán responsables del manejo de la emergencia y
+de mantener el comando y el control de las operaciones. Las estructuras de comando y
+coordinación que se presentan en esta sección incluyen las siguientes: Organigrama de ICS
+del DSPR; Organigrama del DSPR ante el COVID-19; y, el Organigrama de Area Command
+para las Regiones del DSPR. Las estructuras de comando se activarán por el Secretario del
+DSPR o un representante autorizado. La activación de las estructuras se implementará según
+sea necesario. Las estructuras correspondientes se presentan a continuación:
+Diagrama IV.B.1: Estructura de ICS del DSPR en Respuesta a Emergencias
+Plan de Preparación y Respuesta ante COVID-19
+35
+Diagrama IV.B.2: Organigrama del ICS del DSPR ante COVID-19
+Plan de Preparación y Respuesta ante COVID-19
+36
+Debido a la complejidad que puede representar este tipo de incidente se establece un Area
+Command para manejarlo. El Area Command supervisa las estructuras de ICS establecidas a
+nivel de las Regiones del DSPR. La estructura de ICS a nivel de las Regiones es establecida
+como un Comando Unificado.
+Diagrama IV.B.3: Organización de Area Command para las Regiones del DSPR
+Plan de Preparación y Respuesta ante COVID-19
+37
+Ante la ocurrencia de una emergencia que requiera la activación de diversos niveles
+gubernamentales esta estructura se inserta en la coordinación estatal a través del Centro de
+Manejo de Emergencias del DSPR, que reúne los coordinadores de manejo de emergencias de
+la agencia. Estos coordinadores, que representan al DSPR en la estructura establecida a través
+del Negociado de Manejo de Emergencias y Administración de Desastres, se encargan de
+monitorear y coordinar los procesos correspondientes para la identificación y movilización de los
+recursos necesarios. Es importante señalar que, una emergencia que exceda las capacidades
+de respuesta a nivel estatal podría requerir la activación de recursos a nivel federal e incluso el
+establecimiento de un Comando Unificado, mediante el cual agencias estatales y federales
+comparten un rol de liderato en el manejo de la emergencia. En el flujograma a continuación se
+presenta la estructura correspondiente para los procesos de coordinación del DSPR bajo la
+jurisdicción estatal.
+Diagrama IV.B.4 – Coordinación del DSPR en la Estructura Estatal en Respuesta a
+Emergencias
+V. Recopilación, análisis y diseminación de información
+La recopilación, análisis y diseminación de la información relacionada a la emergencia por
+COVID-19 y las acciones de respuesta serán dirigidas desde el Centro de Operaciones
+Departamental del DSPR. Una función esencial manejada desde esta facilidad es recoger,
+analizar y difundir adecuadamente la información de la situación para el personal involucrado,
+así como para las demás agencias y socios concernidos. La información generada apoyará la
+toma de decisiones operacionales durante la duración de la emergencia.
+Con el fin de obtener información veraz y precisa del progreso de la emergencia, se mantendrá
+una continua comunicación e intercambio de información con todas las agencias de apoyo a
+través del Centro de Operaciones de Emergencias (COE) Estatal, con sede en el Negociado
+Estatal para el Manejo de Emergencias y Administración de Desastres (NMEAD). Además, se
+mantendrán los mismos canales de comunicación e intercambio de información con todos los
+socios a nivel federal a través del personal en el COE Estatal y desde el Centro de Operaciones
+Plan de Preparación y Respuesta ante COVID-19
+38
+del DSPR. Para poder garantizar que las gestiones son efectivas, los involucrados deberán
+ofrecer actualizaciones de su información, las evaluaciones correspondientes de posibles
+incidentes dentro de la emergencia e informes sobre el estado de los recursos. Esto también
+permitirá difundir la información de diversas fuentes para que los funcionarios ejecutivos y el
+personal involucrado obtengan toda la información necesaria sobre lo acontecido y el estado de
+la situación.
+A. Elementos Esenciales de Información
+Los elementos esenciales de información (EEIs, según las siglas en inglés) son los datos de
+mayor pertinencia y relevancia para establecer un estado de la situación que permita informar
+de manera ágil y efectiva lo relacionado a la emergencia. Estos datos son analizados y
+convertidos en información que se traduce en herramientas útiles para la toma de decisiones
+en los diferentes niveles, iniciando con la comunidad. Una vez se determina que existe un
+estado de emergencia y se inician las operaciones de respuesta se identifica un panorama
+inicial de la situación y se determinan cuáles serán esos elementos de información que son
+importantes recopilar, analizar y compartir, basados en la naturaleza e implicaciones de la
+emergencia.
+Contar con información clave sobre el desarrollo de la enfermedad en tiempo real nos permite
+la toma de decisiones sobre temas relacionados y no limitados a la implementación de las
+estrategias de prevención y protección como: el cierre de escuelas, EPP, uso de antivirales,
+facilidades de cuidado alterno, entre otros. Para ello, el DSPR, además de los métodos
+estándar de intercambio de información, cuenta con plataformas basadas en la web que son
+utilizadas para el intercambio de información de manera segura entre el Departamento de
+Salud e instituciones de servicios de salud, así como otros socios. Las plataformas nos
+permiten el intercambio de información y el monitoreo de infraestructura crítica, estatus de
+utilidades, disponibilidad de camas, censo de pacientes de las facilidades de salud, entre otra
+información crítica.
+El Apéndice F - EEIs, de este plan describe la información esencial, identificada para la
+respuesta al COVID-19 y la frecuencia en el reporte de información. Debido al desarrollo de
+la respuesta y al surgimiento de nueva información, existe la posibilidad de que se requiera
+un cambio en la frecuencia del reporte, lo cual se comunicará a los concernidos. La
+información será suministrada por las Agencias, Organizaciones y Entidades identificadas
+por el DSPR. Además, debido a que el COVID-19 es un virus novel, los EEI descritos en el
+apéndice pueden cambiar o expandirse de acuerdo a la nueva información o necesidades
+que vayan surgiendo a medida que progresan las operaciones de respuesta. La información
+será analizada por la Unidad de Situación del Centro de Operaciones Departamental del
+DSPR para la preparación y publicación de los reportes correspondientes.
+B. Reportes
+La información que se desarrolla a partir de los EEIs se traduce en reportes de situación
+conocidos como SitRep, según la abreviación en inglés. Estos reportes se comparten con los
+diferentes niveles y socios involucrados para la toma de decisiones correspondientes. Estos
+reportes, dependiendo la naturaleza de la emergencia y la información desarrollada,
+presentan algunos de los siguientes: estadísticas; actividades implementadas y/o metas
+alcanzadas; ilustraciones y/o mapas, entre otras. Estos reportes recogen el cumplimiento de
+Plan de Preparación y Respuesta ante COVID-19
+39
+los objetivos trazados para la emergencia en el Plan de Acción del Incidente (IAP), lo que
+permite re-evaluar esos objetivos en la medida que son alcanzados, surgen nuevas
+necesidades y/o se presentan incidencias pertinentes a la emergencia. La frecuencia de
+publicación de estos reportes se determinará una vez establecido el estado de situación de
+la emergencia y la agilidad en el flujo de la información correspondiente.
+La recopilación, análisis y diseminación de la información se realizará a través del Centro de
+Operaciones del DSPR, basado en el flujograma de información que se presenta a continuación.
+Diagrama V.B.1 – Coordinación de Intercambio de Información del DSPR en
+Respuesta a Emergencias
+VI. Comunicaciones
+Las comunicaciones públicas se llevarán a cabo como lo establece la Oficina de Comunicaciones
+y Asuntos Públicos del DSPR. Las mismas serán dirigidas y coordinadas por el Director de la
+Oficina. Además, la oficina también manejará la información y comunicaciones pertinentes a la
+comunicación de riesgo a la ciudadanía. Mediante comunicados de prensa y/o el uso de medios
+y redes sociales se realizará la publicación de medidas de protección y prevención, así como
+medidas particulares para las poblaciones especiales y otra información indispensable.
+La activación del Centro de Operaciones Departamental del DSPR podría estar apoyado
+acompañado de la activación de un Centro de Información Conjunta (JIC, por sus siglas en
+inglés). El JIC servirá como un centro de coordinación de información a ser provista al público y
+apoyará los procesos de recopilación, verificación y diseminación de información de manera
+Plan de Preparación y Respuesta ante COVID-19
+40
+precisa, accesible y oportuna. Ante una emergencia como consecuencia del COVID-19, el JIC
+se podría establecer de manera virtual, debido a la naturaleza de la situación.
+VII. Administración, Finanzas y Logística
+La Secretaría Auxiliar de Administración y Finanzas del DSPR será la unidad operacional
+encargada de implementar los procesos correspondientes para monitorear los gastos
+relacionados a la situación de emergencia de COVID-19 siguiendo las regulaciones del Gobierno
+de Puerto Rico y/o cualquier estatuto federal que aplique.
+A. Administración
+Los procedimientos administrativos durante la emergencia, en su mayoría corresponden a
+procesos que se manejan regularmente. Durante la emergencia, se requiere mayor atención
+en los siguientes: la identificación y control de documentos administrativos, financieros e
+informes; contratos y servicios; seguros; reclutamiento; y reasignación del personal e
+informes. Todos los documentos tienen que ser identificados con el nombre de la emergencia
+y mantenerlos el tiempo que sea necesario (ej. Informe de personal activado, utilización de
+equipo, materiales, compras, contratos, etc.).
+C. Finanzas
+La coordinación para atender una situación de emergencia significa un esfuerzo operacional
+que se traduce en valor monetario. Ese valor monetario es el gasto operacional inherente a
+cada esfuerzo que se realiza para atender y manejar una emergencia y/o desastre. Debido
+a que la atención está centrada en manejar la emergencia, no se toma en consideración en
+el gasto que se incurre o invierte para atender la misma. Por tal motivo, todos los recursos
+utilizados y esfuerzos realizados durante la emergencia, será convertido a valor monetario,
+según lo establecido por la Oficina de Gerencia y Presupuesto y por la Agencia Federal para
+el Manejo de Emergencias (FEMA, por sus siglas en inglés). La información recopilada para
+estos efectos deberá estar de forma ordenada y precisa para que sea más fácil su
+conversión. La misma deberá ser dividida de la siguiente forma: recurso personal (hojas de
+asistencia semanal y nóminas), equipo y esfuerzos utilizados (utilización de vehículos
+oficiales, renta de equipo) y uso de materiales o suministros (registro de materiales), entre
+otros.
+C. Logística
+La emergencia podría requerir la adquisición de equipos, servicios, medicamentos, reactivos
+y hasta materiales de laboratorio; necesarios para manejar las operaciones de respuesta.
+Esto puede incluir la firma de contratos y acuerdos de cooperación con instituciones
+privadas, públicas y/o federales. Durante una emergencia, se establece una diferencia en
+los procedimientos administrativos en comparación con los procesos rutinarios para la
+adquisición de los elementos antes mencionados.
+Estos procesos requieren coordinar con suplidores para la adquisición de equipos,
+medicamentos, suministros y servicios en cualquier momento. Se mantendrá un inventario
+actualizado para velar por la disponibilidad de los recursos. Se recomienda mantener una
+cantidad mayor de aquellos artículos que de antemano o por experiencia se conoce son
+Plan de Preparación y Respuesta ante COVID-19
+41
+utilizados en mayores cantidades en períodos de emergencia. Todo informe, documento,
+recibo o conduce debe identificarse y enviarse a la Oficina de Finanzas, Presupuesto y
+Secretaria Auxiliar de Administración, para el archivo y preparación del informe final y otros
+informes relacionados. Estos documentos forman parte del desglose de gastos
+operacionales incurridos durante la emergencia.
+VIII. Desarrollo y Mantenimiento del Plan
+El Plan de Preparación y Respuesta para COVID-19 del DSPR fue desarrollado a través de las
+recomendaciones e insumo ofrecido por el Comité de Pandemia del DSPR, siguiendo las guías
+del CDC y contemplando las acciones correspondientes al DSPR durante este tipo de
+emergencia en salud pública. El Departamento de Salud será responsable de actualizar el plan
+anualmente. No obstante, el surgimiento de cambios o situaciones extraordinarias podría requerir
+su actualización inmediata, según sea requerido. El desarrollo de este plan se nutre de las
+Secretarías Auxiliares, Programas, Oficinas del DSPR, agencias de apoyo del ESF#8 y demás
+organismos de apoyo. Estas dependencias someterán a la Oficina de Preparación y
+Coordinación (OPCRSP) los cambios necesarios para ser incluidos en el Plan. Los programas,
+organizaciones y/o unidades involucrados en el desarrollo de los apéndices que acompañan a
+este plan serán responsables de la actualización de los mismos.
+IX. Autoridades y Referencias
+A. Autoridades
+Federal
+ Pandemic and All-Hazards Preparedness Act (PAHPA), Public Law No. 109-417,
+December 2006.
+ Pandemic and All-Hazards Preparedness Reauthorization Act (PAHPRA), Public
+Law No. 113-5, March 2013.
+ Robert T. Stanford Disaster Relief and Emergency Assistance Act, Public Law 93-
+288, as amended.
+ Public Health Service Act (PHS), section 319
+ Public Readiness and Emergency Preparedness Act (PREP Act)
+ PHS (42 U.S. Code § 264) section 361
+ Executive Order 13375 of April 1,2005
+ 42 Code of Federal Regulations parts 70 and 71
+ Title 42 - The Public Health and Welfare, Chapter 6A - Public Health Service,
+Subchapter II - General Powers and Duties, Part G - Quarantine and Inspection.
+Sections 264-272 del
+ Title 42: Public Health, Chapter 1 - Public Health Service, Department of Health
+and Human Services. Parts 70 and 71
+ Federal Law of the Health Insurance Portability and Accountability (HIPPA)
+ Comprehensive Preparedness Guide (CPG-101) Version 2
+Estatal
+ Ley 81 del 14 de agosto de 1912, según enmendada. Ley Orgánica del
+Departamento de Salud de Puerto Rico.
+Plan de Preparación y Respuesta ante COVID-19
+42
+ Ley 20 del 10 de abril de 2017.
+ Orden Ejecutiva 2005-77 del 13 de diciembre de 2005.
+ Orden Ejecutiva OE-2006-2 del 16 de junio de 2006.
+ Orden Administrativa 244 de 2008 Departamento de Salud.
+ Orden Administrativa 358 del 5 de octubre de 2016.
+ Orden Administrativa 306 del 13 de agosto de 2013
+ Reglamento de la Secretaría de Salud número 125. Reglamento de Aislamiento y
+Cuarentena del 5 de julio de 2007.
+B. Referencias
+42 U.S. Code § 243 - General grant of authority for cooperation. Recuperado
+de https://www.law.cornell.edu/uscode/text/42/243
+A Wilder-Smith, MD, D O Freedman, MD, Isolation, quarantine, social
+distancing and community containment: pivotal role for old-style public health
+measures in the novel coronavirus (2019-nCoV) outbreak, Journal of Travel
+Medicine, , taaa020, https://doi.org/10.1093/jtm/taaa020
+Centers for Disease Control and Prevention. National Center for Emerging
+and Zoonotic Infectious Diseases (NCEZID). Division of Global Migration and
+Quarantine (DGMQ). Quarantine and Isolation. San Juan Quarantine Station.
+Recuperado de https://www.cdc.gov/quarantine/stations/san-juan.html.
+Centro para el Control y Prevención de Enfermedades (2020).Enfermedad del
+Coronavirus 2019 (COVID-19). Recuperado de:
+https://www.cdc.gov/coronavirus/2019-ncov/index-sp.html
+Centros para el Control y la Prevención de Enfermedades, Centro Nacional
+de Vacunación y Enfermedades Respiratorias (NCIRD, por sus siglas en inglés).
+(2018). Información para profesionales de la salud sobre el virus COVID-19.
+Recuperado de https://www.cdc.gov/coronavirus/2019-nCoV/hcp/index.html
+Departamento de Salud de Puerto Rico (2019). Informe Anual de Estadísticas
+Vitales: Mortalidad 2015-2016 Recuperado de:
+http://www.salud.gov.pr/Estadisticas-Registros-y-
+Publicaciones/Estadisticas%20Vitales/Informe%20Anual%20Estad%C3%ADstic
+as%20Vitales%20Defunciones%202015-2016.pdf
+Departamento de Salud. Plan de Acción de Enfermedades Crónicas para
+Puerto Rico, 2014-2020. Recuperado de http://www.salud.gov.pr/Estadisticas-
+Registros-y-
+Publicaciones/Publicaciones/Plan%20de%20acci%C3%B3n%20de%20enfermed
+ades%20cr%C3%B3nicas.pdf .
+FEMA (2010). Developing and Maintaining Emergency Operations Plans.
+Comprehensive Preparedness Guide (CPG) 101. Version 2.0. Recuperado de
+https://www.fema.gov/media-library-data/20130726-1828-25045-
+Plan de Preparación y Respuesta ante COVID-19
+43
+0014/cpg_101_comprehensive_preparedness_guide_developing_and_maintaini
+ng_emergency_operations_plans_2010.pdf .
+IOM (Institute of Medicine). (2010). Medical surge capacity: Workshop
+summary. Washington, DC: The National Academies Press. Medical Surge
+Capacity: Workshop Summary. http://www.nap.edu/catalog/12798.html
+Jefferson, T., Del Mar, C., Dooley, L., Ferroni, E., Al-Ansary, L. A., Bawazeer,
+G. A., van Driel, M. L., Foxlee, R., & Rivetti, A. (2009). Physical interventions to
+interrupt or reduce the spread of respiratory viruses: systematic review. BMJ
+(Clinical research ed.), 339, b3675. https://doi.org/10.1136/bmj.b3675
+Troko, J., Myles, P., Gibson, J. et al. Is public transport a risk factor for acute
+respiratory infection?. BMC Infect Dis 11, 16 (2011).
+https://doi.org/10.1186/1471-2334-11-16
+U.S. Census Bureau. Puerto Rico Community Survey 2014-2018.
+Recuperado de: https://censo.estadisticas.pr/EncuestaComunidad
+World Health Organization (WO). (2015). Framework for a public health
+emergency operations center (PHEOC framework). Recuperado de
+http://www.who.int/ihr/publications/9789241565134_eng/en/ .
+Plan de Preparación y Respuesta ante COVID-19
+44
+X. Acrónimos
+ACRÓNIMO SIGNIFICADO
+ASEM Administración de Servicios Médicos de Puerto Rico
+ASSMCA Administración de Servicios de Salud Mental y Contra la Adicción
+CBP U.S. Customs and Border Protection
+CDC Centros para el Control y Prevención de Enfermedades de Estados Unidos
+CDC-SJQS Estación de Cuarenta del CDC en SJ
+CPG Guía Completa de Preparación
+DHS Department of Homeland Security
+DSNS División del Programa Nacional Estratégico de Medicamentos
+DSPR Departamento de Salud de Puerto Rico
+EEIs Elementos Esenciales de Información
+EPP Equipo de Protección Personal
+ESF Emergency Support Function
+FDA Administración de Alimentos y Medicamentos de los EE.UU
+FEMA Agencia Federal para el Manejo de Emergencias
+HHS Health and Human Services
+HICS Estructura de Manejo de Incidentes de los hospitales
+IAP Incident Action Plan
+ICS Incident Command System
+ICU Intensive Care Unit
+JIC Centro de Información Conjunta
+LMM Aeropuerto Luis Muñoz Marín
+MRC Cuerpo de Reserva Médica
+NFR National Response Framework
+NICU Neonatal Intensive Care Unit
+NIMS Sistema Nacional de Manejo de Incidentes
+NPIs Intervenciones No-farmacológicas
+OECA Oficina Estatal para el Control de Animales
+OMS Organización Mundial de la Salud
+OPCRSP Oficina de Preparación y Coordinación de Respuesta en Salud Pública
+PICU Pediatric Intensive Care Unit
+POD Centros de Despacho
+POE Plan Operacional de Emergencias
+PRIR Registro de Vacunación de Puerto Rico
+PROVAD Organizaciones Voluntarias Activas en Desastres de Puerto Rico
+PRPHL Laboratorio de Salud Pública de Puerto
+RT-PCR Reverse transcription polymerase chain reaction
+Plan de Preparación y Respuesta ante COVID-19
+45
+SARAFS
+Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+Salud
+SME Subject Matter Expert
+VAERS Vaccine Adverse Event Reporting System
+Plan de Preparación y Respuesta ante COVID-19
+46
+Apéndices
+Apéndice A: Orden Administrativa 358
+Apéndice B: Guía para Laboratorios sobre la Colección, Coordinación, Empaque y Envío de
+Muestras Relacionadas a Enfermedad Coronavirus 2019
+Apéndice C: Guía Para el Manejo de Pacientes Sospechosos y/o Confirmados con el
+Coronavirus
+Apéndice D: Intervenciones no farmacológicas (NPIs)
+Apéndice E: Recomendaciones en el lugar de trabajo para minimizar la transmisión de un virus
+novel.
+Apéndice F – Elementos Esenciales de Información
+

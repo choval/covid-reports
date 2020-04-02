@@ -1,0 +1,32 @@
+{
+    "filename": "Ap%C3%A9ndice%20D%20-%20Intervenciones%20no%20Farmacologicas.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/Ap%C3%A9ndice%20D%20-%20Intervenciones%20no%20Farmacologicas.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839767,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "309094",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:02:47 GMT",
+        "last-modified": "Fri, 13 Mar 2020 21:53:03 GMT",
+        "etag": "\"{ACFFB9E3-7EF2-4368-9B21-29D6B0EB4850},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:ACFFB9E3-7EF2-4368-9B21-29D6B0EB4850@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "75d9449f-ef8e-a001-aaf9-335f7474d27c",
+        "request-id": "75d9449f-ef8e-a001-aaf9-335f7474d27c",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:02:47 GMT"
+    },
+    "lang": "es",
+    "size": 309094,
+    "modified": 1584136383
+}

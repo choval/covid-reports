@@ -1,0 +1,32 @@
+{
+    "filename": "Comunicado%20COVID-19%20NCHS_CertDef%20PR%2020200305.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/Comunicado%20COVID-19%20NCHS_CertDef%20PR%2020200305.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839691,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "302738",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:01:31 GMT",
+        "last-modified": "Fri, 20 Mar 2020 18:24:47 GMT",
+        "etag": "\"{81129859-C132-4FD0-918A-591B55962F27},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:81129859-C132-4FD0-918A-591B55962F27@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "62d9449f-fff6-a001-aaf9-35a26fc3efce",
+        "request-id": "62d9449f-fff6-a001-aaf9-35a26fc3efce",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "7",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:01:31 GMT"
+    },
+    "lang": "es",
+    "size": 302738,
+    "modified": 1584728687
+}

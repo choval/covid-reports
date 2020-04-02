@@ -1,0 +1,32 @@
+{
+    "filename": "Meaningful%20Use%20Immunization%20Submissions.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/Meaningful%20Use%20Immunization%20Submissions.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585839710,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "248603",
+        "content-type": "application\/pdf",
+        "expires": "Wed, 18 Mar 2020 15:01:50 GMT",
+        "last-modified": "Wed, 02 Dec 2015 17:53:56 GMT",
+        "etag": "\"{B5B3C421-9B8D-44E4-96ED-F7E8A3D809FD},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:B5B3C421-9B8D-44E4-96ED-F7E8A3D809FD@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "67d9449f-7f9d-a001-aaf9-3a7c6b3dd0a9",
+        "request-id": "67d9449f-7f9d-a001-aaf9-3a7c6b3dd0a9",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "7",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Thu, 02 Apr 2020 15:01:50 GMT"
+    },
+    "lang": "es",
+    "size": 248603,
+    "modified": 1449078836
+}
