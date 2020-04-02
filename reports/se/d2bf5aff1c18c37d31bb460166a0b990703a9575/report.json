@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-ryska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/3849f289330b4571946a86f0c8463cde\/faktablad-covid-19-ryska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789858,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:10:58 GMT",
+        "etag": "\"1D605BFACCCBE80\"",
+        "expires": "Thu, 02 Apr 2020 01:10:57 GMT",
+        "last-modified": "Sun, 29 Mar 2020 11:46:25 GMT",
+        "server": "Front3",
+        "set-cookie": "Set_Me=3644473813.1.792186304.375791104; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "609955"
+    },
+    "lang": "sv",
+    "size": 609955,
+    "modified": 1585482385
+}

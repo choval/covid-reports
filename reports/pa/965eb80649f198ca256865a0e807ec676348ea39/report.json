@@ -1,0 +1,20 @@
+{
+    "filename": "plan_coronavirus_0.pdf",
+    "uri": "http:\/\/minsa.gob.pa\/sites\/default\/files\/publicaciones\/plan_coronavirus_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585788518,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx\/1.10.3 (Ubuntu)",
+        "date": "Thu, 02 Apr 2020 00:48:38 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1780791",
+        "last-modified": "Thu, 06 Feb 2020 20:58:09 GMT",
+        "connection": "keep-alive",
+        "etag": "\"5e3c7de1-1b2c37\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 1780791,
+    "modified": 1581022689
+}

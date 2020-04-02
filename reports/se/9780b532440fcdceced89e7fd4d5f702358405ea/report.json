@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-mienkali.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/7931456a7bef4364ad98585fd1b85c76\/faktablad-covid-19-mienkali.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789924,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:12:02 GMT",
+        "etag": "\"1D605AC3A9EAE80\"",
+        "expires": "Thu, 02 Apr 2020 01:12:03 GMT",
+        "last-modified": "Sun, 29 Mar 2020 09:27:13 GMT",
+        "server": "Front1",
+        "set-cookie": "Set_Me=3476701653.1.792397976.375852544; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "367256"
+    },
+    "lang": "sv",
+    "size": 367256,
+    "modified": 1585474033
+}

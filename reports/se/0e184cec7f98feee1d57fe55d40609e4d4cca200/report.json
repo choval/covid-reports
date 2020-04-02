@@ -1,0 +1,25 @@
+{
+    "filename": "faktablad-covid-19-70-ar-kurmanji.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/7fc24963325246eea0e508ada01721e6\/faktablad-covid-19-70-ar-kurmanji.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790065,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:25 GMT",
+        "etag": "\"1D60821C40AE680\"",
+        "expires": "Thu, 02 Apr 2020 01:14:24 GMT",
+        "last-modified": "Wed, 01 Apr 2020 12:33:37 GMT",
+        "server": "Front2",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "613902"
+    },
+    "lang": "sv",
+    "size": 613902,
+    "modified": 1585744417
+}

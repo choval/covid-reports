@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-kinesiska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/e5a8b6b57e544d4c95d400ff1678ef31\/faktablad-covid-19-kinesiska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789916,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:56 GMT",
+        "etag": "\"1D604673AE16180\"",
+        "expires": "Thu, 02 Apr 2020 01:11:55 GMT",
+        "last-modified": "Fri, 27 Mar 2020 18:40:47 GMT",
+        "server": "Front5",
+        "set-cookie": "Set_Me=1138443203.1.2630183944.375842304; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "633389"
+    },
+    "lang": "sv",
+    "size": 633389,
+    "modified": 1585334447
+}

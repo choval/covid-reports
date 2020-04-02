@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-polska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/81ae771a300c41ebb68b9cff7943fda0\/faktablad-covid-19-70-ar-polska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790083,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:42 GMT",
+        "etag": "\"1D608260A624480\"",
+        "expires": "Thu, 02 Apr 2020 01:14:41 GMT",
+        "last-modified": "Wed, 01 Apr 2020 13:04:13 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=921321685.1.792397096.376016384; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "542324"
+    },
+    "lang": "sv",
+    "size": 542324,
+    "modified": 1585746253
+}

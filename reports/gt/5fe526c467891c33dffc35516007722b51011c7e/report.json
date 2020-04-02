@@ -1,0 +1,22 @@
+{
+    "filename": "1ractuaALEP.pdf",
+    "uri": "https:\/\/mspas.gob.gt\/index.php\/component\/jdownloads\/send\/487-alertas\/3093-primera-actualizacion-alerta-sanitaria-nacional-01-2020-nuevo",
+    "output": "file.pdf",
+    "downloaded": 1585788345,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 06:50:02 GMT",
+        "server": "Apache",
+        "x-powered-by": "PHP\/5.6.30",
+        "set-cookie": "UqZBpD3n3iPIDwJU9DmTlFmPQu8FptcZ=v1LuCGSe+Ciuj; Expires=Sat, 30-Mar-2030 17:24:02 GMT; Path=\/",
+        "cache-control": "private, max-age=0, must-revalidate, no-store",
+        "content-disposition": "inline; filename=\"1ractuaALEP.pdf\"",
+        "last-modified": "Sat, 22 Feb 2020 03:45:30 GMT",
+        "content-length": "393291",
+        "connection": "close",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 393291,
+    "modified": 1582343130
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-om-covid-19-sorani.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/2dfb5b63ebbc4cf4ac35de8c1d99f570\/faktablad-om-covid-19-sorani.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789870,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:10 GMT",
+        "etag": "\"1D605C092471500\"",
+        "expires": "Thu, 02 Apr 2020 01:11:09 GMT",
+        "last-modified": "Sun, 29 Mar 2020 11:52:50 GMT",
+        "server": "Front3",
+        "set-cookie": "Set_Me=736772309.1.792186304.375801344; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "183177"
+    },
+    "lang": "sv",
+    "size": 183177,
+    "modified": 1585482770
+}

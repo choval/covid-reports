@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-nordsamiska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/6b65b30c4b1c4e7fa8d517c887e5af76\/faktablad-covid-19-nordsamiska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790033,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:13:52 GMT",
+        "etag": "\"1D605B2FF53AE00\"",
+        "expires": "Thu, 02 Apr 2020 01:13:51 GMT",
+        "last-modified": "Sun, 29 Mar 2020 10:15:40 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=3292152277.1.792397096.375965184; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "346930"
+    },
+    "lang": "sv",
+    "size": 346930,
+    "modified": 1585476940
+}

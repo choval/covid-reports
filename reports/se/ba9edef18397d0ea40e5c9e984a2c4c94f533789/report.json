@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-pashto.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/48362b6bbf6143f4b4fd9d5d37a6be67\/faktablad-covid-19-pashto.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789896,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:36 GMT",
+        "etag": "\"1D605B611831B80\"",
+        "expires": "Thu, 02 Apr 2020 01:11:35 GMT",
+        "last-modified": "Sun, 29 Mar 2020 10:37:39 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=1205552067.1.792397096.375821824; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "372314"
+    },
+    "lang": "sv",
+    "size": 372314,
+    "modified": 1585478259
+}

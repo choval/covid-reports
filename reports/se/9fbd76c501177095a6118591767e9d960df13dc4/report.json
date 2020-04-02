@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-somaliska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/a1a21d0f2a8f46e8b98b5b00b489bd32\/faktablad-covid-19-somaliska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789904,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:44 GMT",
+        "etag": "\"1D6066871D29580\"",
+        "expires": "Thu, 02 Apr 2020 01:11:43 GMT",
+        "last-modified": "Mon, 30 Mar 2020 07:54:31 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=3728359893.1.792397096.375832064; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "202140"
+    },
+    "lang": "sv",
+    "size": 202140,
+    "modified": 1585554871
+}

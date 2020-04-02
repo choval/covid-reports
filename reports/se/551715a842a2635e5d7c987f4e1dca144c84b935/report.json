@@ -1,0 +1,26 @@
+{
+    "filename": "provtagningsindikation-ncov.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/5893ab8dca1f4b3f87ee19a29724a44b\/provtagningsindikation-ncov.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789852,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "116",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:10:52 GMT",
+        "etag": "\"1D60812AE41F500\"",
+        "expires": "Thu, 02 Apr 2020 01:10:51 GMT",
+        "last-modified": "Wed, 01 Apr 2020 10:45:38 GMT",
+        "server": "ECAcc (sto\/EA3E)",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "713604"
+    },
+    "lang": "sv",
+    "size": 713604,
+    "modified": 1585737938
+}

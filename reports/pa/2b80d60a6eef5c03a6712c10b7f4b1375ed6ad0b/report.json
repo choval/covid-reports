@@ -1,0 +1,20 @@
+{
+    "filename": "manual_de_organizacion_minsa_-_30_de_abril_de_2019.pdf",
+    "uri": "http:\/\/www.minsa.gob.pa\/sites\/default\/files\/publicaciones\/manual_de_organizacion_minsa_-_30_de_abril_de_2019.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585788586,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx\/1.10.3 (Ubuntu)",
+        "date": "Thu, 02 Apr 2020 00:49:46 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "2556182",
+        "last-modified": "Fri, 10 May 2019 17:17:00 GMT",
+        "connection": "keep-alive",
+        "etag": "\"5cd5b20c-270116\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 2556182,
+    "modified": 1557508620
+}

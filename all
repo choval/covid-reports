@@ -2,5 +2,7 @@
 ./scripts/kr/files_fix && \
 ./scripts/jp/files_check && \
 ./scripts/ec/files_check && \
+./scripts/ae/files_check && \
+./scripts/gt/files_check && \
 ./scripts/unrelated && \
 ./scripts/generate_docs

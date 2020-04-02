@@ -1,0 +1,24 @@
+{
+    "filename": "ADPHC - DG-C-02-2020.pdf",
+    "uri": "https:\/\/doh.gov.ae\/-\/media\/D2EA96A8A3914035B2BBC443F7B63BA5.ashx",
+    "output": "file.pdf",
+    "downloaded": 1585790180,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private, max-age=604800",
+        "content-length": "280667",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 10 Mar 2020 15:25:16 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "attachment; filename=\"ADPHC - DG-C-02-2020.pdf\"",
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET,PUT,POST,DELETE,OPTIONS",
+        "access-control-allow-headers": "Content-Type",
+        "date": "Thu, 02 Apr 2020 01:17:15 GMT",
+        "set-cookie": "www.doh.gov.ae=!cE+RmZRY\/jgDGFFkcyv7JP9sLh4G74eiH5qdsA21DVT36nzkUnDfmbNxHf2UNmlKw2ldB\/\/5QQ6e7SY=; path=\/; Httponly; Secure"
+    },
+    "lang": "en",
+    "size": 280667,
+    "modified": 1583853916
+}

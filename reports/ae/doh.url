@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://doh.gov.ae/covid-19"
+ORG=United Arab Emirates
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+)\"[^>]*>[^\/]*Download Now/Uis"
+LANG=en

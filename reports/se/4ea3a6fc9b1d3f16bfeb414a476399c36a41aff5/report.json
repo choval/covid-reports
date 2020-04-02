@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-persiska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/004f422f03e949f8a79eb2ed0ab980ca\/faktablad-covid-19-persiska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789883,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:23 GMT",
+        "etag": "\"1D605B918F7F400\"",
+        "expires": "Thu, 02 Apr 2020 01:11:22 GMT",
+        "last-modified": "Sun, 29 Mar 2020 10:59:20 GMT",
+        "server": "Front4",
+        "set-cookie": "Set_Me=3342483925.1.2630184384.375811584; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "555312"
+    },
+    "lang": "sv",
+    "size": 555312,
+    "modified": 1585479560
+}

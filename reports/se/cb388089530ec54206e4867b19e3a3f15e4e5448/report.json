@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-romani-kelderash.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/278ba92a5c0e475ea86909c3ecff2e15\/faktablad-covid-19-70-ar-romani-kelderash.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790091,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:49 GMT",
+        "etag": "\"1D60828D5A3BC80\"",
+        "expires": "Thu, 02 Apr 2020 01:14:50 GMT",
+        "last-modified": "Wed, 01 Apr 2020 13:24:13 GMT",
+        "server": "Front1",
+        "set-cookie": "Set_Me=3510256085.1.792397976.376026624; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "481630"
+    },
+    "lang": "sv",
+    "size": 481630,
+    "modified": 1585747453
+}

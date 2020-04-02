@@ -1,0 +1,24 @@
+{
+    "filename": "10  2020.pdf",
+    "uri": "https:\/\/doh.gov.ae\/-\/media\/61BEF2CB961B483DB9535C780903B567.ashx",
+    "output": "file.pdf",
+    "downloaded": 1585790130,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private, max-age=604800",
+        "content-length": "762063",
+        "content-type": "application\/pdf",
+        "last-modified": "Mon, 23 Mar 2020 12:20:56 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "attachment; filename=\"10  2020.pdf\"",
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET,PUT,POST,DELETE,OPTIONS",
+        "access-control-allow-headers": "Content-Type",
+        "date": "Thu, 02 Apr 2020 01:16:14 GMT",
+        "set-cookie": "www.doh.gov.ae=!GlqwlMsp84n44X5kcyv7JP9sLh4G7yKLew7EtJvg95jfEO7b3IuyUkDamByrnwBTxizlxJFpToizTnU=; path=\/; Httponly; Secure"
+    },
+    "lang": "en",
+    "size": 762063,
+    "modified": 1584966056
+}

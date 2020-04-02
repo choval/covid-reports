@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-finska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/eacde63d75f24cb091cfe7eaaabec4f4\/faktablad-covid-19-finska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789928,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:12:08 GMT",
+        "etag": "\"1D60464C4DBFB00\"",
+        "expires": "Thu, 02 Apr 2020 01:12:07 GMT",
+        "last-modified": "Fri, 27 Mar 2020 18:23:10 GMT",
+        "server": "Front3",
+        "set-cookie": "Set_Me=3459924437.1.792186304.375862784; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "545234"
+    },
+    "lang": "sv",
+    "size": 545234,
+    "modified": 1585333390
+}

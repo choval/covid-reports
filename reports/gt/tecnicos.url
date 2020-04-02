@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://mspas.gob.gt/index.php/component/jdownloads/category/483-documentos-tecnicos"
+ORG=Guatemala
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]*jdownloads[^\"]*)\"><img src=\"[^\"]+pdf\.png\"/Ui"
+LANG=es

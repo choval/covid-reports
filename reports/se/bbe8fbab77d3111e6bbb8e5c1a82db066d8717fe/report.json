@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-arabiska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/4b9420cc3ca141ae8d2409b8cf83e3d8\/faktablad-covid-19-arabiska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790016,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:13:35 GMT",
+        "etag": "\"1D6045C221F7E80\"",
+        "expires": "Thu, 02 Apr 2020 01:13:34 GMT",
+        "last-modified": "Fri, 27 Mar 2020 17:21:21 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=1222329283.1.792397096.375944704; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "624476"
+    },
+    "lang": "sv",
+    "size": 624476,
+    "modified": 1585329681
+}

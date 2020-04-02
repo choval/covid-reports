@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-sydsamiska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/bc2f22d812b949a1951853c18ef08594\/faktablad-covid-19-70-ar-sydsamiska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789968,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:12:48 GMT",
+        "etag": "\"1D60834371D5880\"",
+        "expires": "Thu, 02 Apr 2020 01:12:47 GMT",
+        "last-modified": "Wed, 01 Apr 2020 14:45:41 GMT",
+        "server": "Front4",
+        "set-cookie": "Set_Me=3543810517.1.2630184384.375903744; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "481414"
+    },
+    "lang": "sv",
+    "size": 481414,
+    "modified": 1585752341
+}

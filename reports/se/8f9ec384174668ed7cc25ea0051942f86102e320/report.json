@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-finska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/cdba13482a954d05b78778f8df109687\/faktablad-covid-19-70-ar-finska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790061,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:19 GMT",
+        "etag": "\"1D60820C882CF80\"",
+        "expires": "Thu, 02 Apr 2020 01:14:20 GMT",
+        "last-modified": "Wed, 01 Apr 2020 12:26:35 GMT",
+        "server": "Front1",
+        "set-cookie": "Set_Me=1222329283.1.792397976.375995904; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "482932"
+    },
+    "lang": "sv",
+    "size": 482932,
+    "modified": 1585743995
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-persiska-farsi.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/c4990323b5bc4a5abd3bd100f8a4ff0b\/faktablad-covid-19-70-ar-persiska-farsi.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790078,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:38 GMT",
+        "etag": "\"1D6082561B3E500\"",
+        "expires": "Thu, 02 Apr 2020 01:14:37 GMT",
+        "last-modified": "Wed, 01 Apr 2020 12:59:30 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=971653333.1.792397096.376006144; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "530586"
+    },
+    "lang": "sv",
+    "size": 530586,
+    "modified": 1585745970
+}

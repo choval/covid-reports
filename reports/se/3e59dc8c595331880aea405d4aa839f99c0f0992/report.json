@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-dari.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/8e9a2cec5eeb41249aa5c1d63b252b2e\/faktablad-covid-19-dari.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789900,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:40 GMT",
+        "etag": "\"1D6045F30BB6500\"",
+        "expires": "Thu, 02 Apr 2020 01:11:39 GMT",
+        "last-modified": "Fri, 27 Mar 2020 17:43:14 GMT",
+        "server": "Front4",
+        "set-cookie": "Set_Me=3292152277.1.2630184384.375832064; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "354747"
+    },
+    "lang": "sv",
+    "size": 354747,
+    "modified": 1585330994
+}

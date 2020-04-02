@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-romani-arli.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/410a9ed4f8fa419d97e0daeaf8b12fd1\/faktablad-covid-19-romani-arli.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790012,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:13:31 GMT",
+        "etag": "\"1D605BD3929B200\"",
+        "expires": "Thu, 02 Apr 2020 01:13:30 GMT",
+        "last-modified": "Sun, 29 Mar 2020 11:28:52 GMT",
+        "server": "Front3",
+        "set-cookie": "Set_Me=1473987523.1.792186304.375944704; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "354401"
+    },
+    "lang": "sv",
+    "size": 354401,
+    "modified": 1585481332
+}

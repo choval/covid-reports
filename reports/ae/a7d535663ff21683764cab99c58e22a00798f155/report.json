@@ -1,0 +1,24 @@
+{
+    "filename": "USO-07-20.pdf",
+    "uri": "https:\/\/doh.gov.ae\/-\/media\/D9A4FF65B7A640ECBEC54313FD27341B.ashx",
+    "output": "file.pdf",
+    "downloaded": 1585790160,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private, max-age=604800",
+        "content-length": "738122",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 11 Mar 2020 14:32:33 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "attachment; filename=\"USO-07-20.pdf\"",
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET,PUT,POST,DELETE,OPTIONS",
+        "access-control-allow-headers": "Content-Type",
+        "date": "Thu, 02 Apr 2020 01:16:55 GMT",
+        "set-cookie": "www.doh.gov.ae=!qWkzVYUuFcfuW2Rkcyv7JP9sLh4G70R4apAYx3rY3YzfsLEl+1TmH8gFIH6E8aVp1s1zPzFL+vL+Nv0=; path=\/; Httponly; Secure"
+    },
+    "lang": "en",
+    "size": 738122,
+    "modified": 1583937153
+}

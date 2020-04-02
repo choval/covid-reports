@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-amhariska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/afbca172cc0a4ec395df8efea410bd78\/faktablad-covid-19-amhariska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790036,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:13:56 GMT",
+        "etag": "\"1D6045B34E58380\"",
+        "expires": "Thu, 02 Apr 2020 01:13:55 GMT",
+        "last-modified": "Fri, 27 Mar 2020 17:14:43 GMT",
+        "server": "Front5",
+        "set-cookie": "Set_Me=3292152277.1.2630183944.375965184; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "203975"
+    },
+    "lang": "sv",
+    "size": 203975,
+    "modified": 1585329283
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-serbiska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/a3b39f878d454957bae29017d7378a46\/faktablad-covid-19-70-ar-serbiska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789951,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:12:31 GMT",
+        "etag": "\"1D6082972FEF080\"",
+        "expires": "Thu, 02 Apr 2020 01:12:30 GMT",
+        "last-modified": "Wed, 01 Apr 2020 13:28:37 GMT",
+        "server": "Front4",
+        "set-cookie": "Set_Me=3359261141.1.2630184384.375883264; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "551617"
+    },
+    "lang": "sv",
+    "size": 551617,
+    "modified": 1585747717
+}

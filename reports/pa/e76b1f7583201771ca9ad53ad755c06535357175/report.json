@@ -1,0 +1,20 @@
+{
+    "filename": "reglas_de_procedimientos.pdf",
+    "uri": "http:\/\/www.minsa.gob.pa\/sites\/default\/files\/publicaciones\/reglas_de_procedimientos.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585788707,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx\/1.10.3 (Ubuntu)",
+        "date": "Thu, 02 Apr 2020 00:51:47 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "204640",
+        "last-modified": "Sat, 25 Apr 2015 13:06:15 GMT",
+        "connection": "keep-alive",
+        "etag": "\"553b9147-31f60\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 204640,
+    "modified": 1429967175
+}

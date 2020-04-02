@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-tigrinja.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/75d92f60a2d7455d95eca65246fec936\/faktablad-covid-19-tigrinja.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789888,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:28 GMT",
+        "etag": "\"1D605CD320AA000\"",
+        "expires": "Thu, 02 Apr 2020 01:11:27 GMT",
+        "last-modified": "Sun, 29 Mar 2020 13:23:12 GMT",
+        "server": "Front3",
+        "set-cookie": "Set_Me=803881173.1.792186304.375821824; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "547558"
+    },
+    "lang": "sv",
+    "size": 547558,
+    "modified": 1585488192
+}

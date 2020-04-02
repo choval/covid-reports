@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="news.txt"
+ORG=United Arab Emirates
+DOWNLOAD_REGEXP="/(?P<link>https:\/\/doh\.gov\.ae\/covid-19\/news\/News[0-9]+)/i"
+LANG=en

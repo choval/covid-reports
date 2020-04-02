@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-meankieli.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/b09dae8befdc44ceb416bde4e049cd3a\/faktablad-covid-19-70-ar-meankieli.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790069,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:29 GMT",
+        "etag": "\"1D60822B144E180\"",
+        "expires": "Thu, 02 Apr 2020 01:14:28 GMT",
+        "last-modified": "Wed, 01 Apr 2020 12:40:15 GMT",
+        "server": "Front4",
+        "set-cookie": "Set_Me=1289438147.1.2630184384.375995904; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "480812"
+    },
+    "lang": "sv",
+    "size": 480812,
+    "modified": 1585744815
+}

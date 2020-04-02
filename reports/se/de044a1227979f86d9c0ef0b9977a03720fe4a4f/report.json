@@ -1,0 +1,26 @@
+{
+    "filename": "hslf-fs-2020-9.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/419aae6d128c4f43ac87ea785ec9d7b3\/hslf-fs-2020-9.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790040,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:00 GMT",
+        "etag": "\"1D6040F88CA7B00\"",
+        "expires": "Thu, 02 Apr 2020 01:13:59 GMT",
+        "last-modified": "Fri, 27 Mar 2020 08:13:02 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=938098901.1.792397096.375975424; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "89358"
+    },
+    "lang": "sv",
+    "size": 89358,
+    "modified": 1585296782
+}

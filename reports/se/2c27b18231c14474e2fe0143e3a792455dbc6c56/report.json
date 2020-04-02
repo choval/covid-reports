@@ -1,0 +1,26 @@
+{
+    "filename": "folkhalsans-utveckling-arsrapport-2020.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/9fd952e9014642249164352cd5a3eb50\/folkhalsans-utveckling-arsrapport-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789972,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:12:52 GMT",
+        "etag": "\"1D6075D2C43C480\"",
+        "expires": "Thu, 02 Apr 2020 01:12:51 GMT",
+        "last-modified": "Tue, 31 Mar 2020 13:06:21 GMT",
+        "server": "Front5",
+        "set-cookie": "Set_Me=1055539413.1.2630183944.375903744; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "2085071"
+    },
+    "lang": "sv",
+    "size": 2085071,
+    "modified": 1585659981
+}

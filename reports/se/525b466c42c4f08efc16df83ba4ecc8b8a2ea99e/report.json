@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-engelska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/0370ba3bd2cb48358e2bfc1156a32cad\/faktablad-covid-19-70-ar-engelska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790052,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:11 GMT",
+        "etag": "\"1D6067CCAAC2900\"",
+        "expires": "Thu, 02 Apr 2020 01:14:11 GMT",
+        "last-modified": "Mon, 30 Mar 2020 10:20:10 GMT",
+        "server": "Front4",
+        "set-cookie": "Set_Me=3644473813.1.2630184384.375985664; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "447844"
+    },
+    "lang": "sv",
+    "size": 447844,
+    "modified": 1585563610
+}

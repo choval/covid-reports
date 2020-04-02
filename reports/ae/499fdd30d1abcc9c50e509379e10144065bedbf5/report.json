@@ -1,0 +1,26 @@
+{
+    "filename": "News3",
+    "uri": "https:\/\/doh.gov.ae\/covid-19\/news\/News3",
+    "output": "file.pdf",
+    "downloaded": 1585791409,
+    "headers": {
+        "http-status": 200,
+        "content-length": "6882",
+        "content-type": "text\/html; charset=utf-8",
+        "location": "\/404?item=%2fcovid-19%2fnews%2fnews3&user=extranet%5cAnonymous&site=website",
+        "server": "Microsoft-IIS\/10.0",
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET,PUT,POST,DELETE,OPTIONS",
+        "access-control-allow-headers": "Content-Type",
+        "date": "Thu, 02 Apr 2020 01:37:31 GMT",
+        "set-cookie": "SC_ANALYTICS_GLOBAL_COOKIE=77d9466199d04cc5b8817f6ff0b96198|False; expires=Sun, 31-Mar-2030 01:37:32 GMT; path=\/; HttpOnly",
+        "cache-control": "no-cache, no-store",
+        "pragma": "no-cache",
+        "content-encoding": "gzip",
+        "expires": "-1",
+        "vary": "Accept-Encoding"
+    },
+    "lang": "en",
+    "size": 16032,
+    "modified": 1585791451
+}

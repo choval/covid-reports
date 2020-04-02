@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL="https://www.folkhalsomyndigheten.se/publicerat-material/publikationer/?so=&ph=&fv=75&q=covid-19&pn=2"
+ORG=Sweden
+FOLLOW_REGEXP="/href=\"(?P<link>https:\/\/www\.folkhalsomyndigheten\.se\/publicerat-material\/publikationsarkiv\/[^\"]+)\"/Ui"
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)\"/Ui"
+LANG=sv

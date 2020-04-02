@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-70-ar-arabiska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/0bedc041c6c84ef994fc395abac6dcae\/faktablad-covid-19-70-ar-arabiska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790056,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:16 GMT",
+        "etag": "\"1D6081FB81E2500\"",
+        "expires": "Thu, 02 Apr 2020 01:14:15 GMT",
+        "last-modified": "Wed, 01 Apr 2020 12:18:58 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=3359261141.1.792397096.375985664; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "548203"
+    },
+    "lang": "sv",
+    "size": 548203,
+    "modified": 1585743538
+}

@@ -1,0 +1,22 @@
+{
+    "filename": "Anex1.1.pdf",
+    "uri": "https:\/\/mspas.gob.gt\/index.php\/component\/jdownloads\/send\/485-anexos\/3076-anexo-1-1",
+    "output": "file.pdf",
+    "downloaded": 1585788781,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 06:57:18 GMT",
+        "server": "Apache",
+        "x-powered-by": "PHP\/5.6.30",
+        "set-cookie": "UqZBpD3n3iPIDwJU9DmTlFmPQu8FptcZ=v1LuCGSe+Ciuj; Expires=Sat, 30-Mar-2030 17:31:18 GMT; Path=\/",
+        "cache-control": "private, max-age=0, must-revalidate, no-store",
+        "content-disposition": "inline; filename=\"Anex1.1.pdf\"",
+        "last-modified": "Fri, 20 Mar 2020 22:19:36 GMT",
+        "content-length": "270038",
+        "connection": "close",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 270038,
+    "modified": 1584742776
+}

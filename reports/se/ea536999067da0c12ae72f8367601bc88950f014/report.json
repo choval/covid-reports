@@ -1,0 +1,26 @@
+{
+    "filename": "hslf-fs-2020-12-allmanna-rad-om-allas-ansvar-covid-91.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/a1350246356042fb9ff3c515129e8baf\/hslf-fs-2020-12-allmanna-rad-om-allas-ansvar-covid-91.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790043,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:14:01 GMT",
+        "etag": "\"1D6082E48636680\"",
+        "expires": "Thu, 02 Apr 2020 01:14:02 GMT",
+        "last-modified": "Wed, 01 Apr 2020 14:03:13 GMT",
+        "server": "Front1",
+        "set-cookie": "Set_Me=1138443203.1.792397976.375975424; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "909747"
+    },
+    "lang": "sv",
+    "size": 909747,
+    "modified": 1585749793
+}

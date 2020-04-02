@@ -1,0 +1,20 @@
+{
+    "filename": "guia_ambientes_laborales_-_covin-19.pdf",
+    "uri": "http:\/\/minsa.gob.pa\/sites\/default\/files\/publicaciones\/guia_ambientes_laborales_-_covin-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585788492,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx\/1.10.3 (Ubuntu)",
+        "date": "Thu, 02 Apr 2020 00:48:12 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "386199",
+        "last-modified": "Mon, 09 Mar 2020 17:39:35 GMT",
+        "connection": "keep-alive",
+        "etag": "\"5e667f57-5e497\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 386199,
+    "modified": 1583775575
+}

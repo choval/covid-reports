@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-polska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/6426bdcd319c4938aaca049ec875feed\/faktablad-covid-19-polska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789912,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:52 GMT",
+        "etag": "\"1D605BA7B052900\"",
+        "expires": "Thu, 02 Apr 2020 01:11:51 GMT",
+        "last-modified": "Sun, 29 Mar 2020 11:09:14 GMT",
+        "server": "Front3",
+        "set-cookie": "Set_Me=1222329283.1.792186304.375842304; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "585205"
+    },
+    "lang": "sv",
+    "size": 585205,
+    "modified": 1585480154
+}

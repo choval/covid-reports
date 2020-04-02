@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-tyska.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/93f5b725a3604187bbf74fd92943c49a\/faktablad-covid-19-tyska.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585790020,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:13:39 GMT",
+        "etag": "\"1D605CE1D7AD780\"",
+        "expires": "Thu, 02 Apr 2020 01:13:39 GMT",
+        "last-modified": "Sun, 29 Mar 2020 13:29:47 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=719995093.1.792397096.375954944; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "607696"
+    },
+    "lang": "sv",
+    "size": 607696,
+    "modified": 1585488587
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "allmant-om-covid-19.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/e4151e43c4c440adb21f2570ea2828c4\/allmant-om-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789862,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:02 GMT",
+        "etag": "\"1D604577BD17A00\"",
+        "expires": "Thu, 02 Apr 2020 01:11:01 GMT",
+        "last-modified": "Fri, 27 Mar 2020 16:48:04 GMT",
+        "server": "Front3",
+        "set-cookie": "Set_Me=3543810517.1.792186304.375791104; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "493189"
+    },
+    "lang": "sv",
+    "size": 493189,
+    "modified": 1585327684
+}

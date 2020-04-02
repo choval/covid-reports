@@ -1,0 +1,26 @@
+{
+    "filename": "faktablad-covid-19-thai.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/2bcb964fb9504954b01950c2a6ac8747\/faktablad-covid-19-thai.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585789908,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Thu, 02 Apr 2020 01:11:47 GMT",
+        "etag": "\"1D605C5DA1C6B00\"",
+        "expires": "Thu, 02 Apr 2020 01:11:47 GMT",
+        "last-modified": "Sun, 29 Mar 2020 12:30:38 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=736772309.1.792397096.375842304; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "560421"
+    },
+    "lang": "sv",
+    "size": 560421,
+    "modified": 1585485038
+}

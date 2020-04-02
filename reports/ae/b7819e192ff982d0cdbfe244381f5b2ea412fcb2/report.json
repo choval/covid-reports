@@ -1,0 +1,24 @@
+{
+    "filename": "USO-12-2020.pdf",
+    "uri": "https:\/\/doh.gov.ae\/-\/media\/3BCC56D803A447DFB51ADE15601BD127.ashx",
+    "output": "file.pdf",
+    "downloaded": 1585790106,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private, max-age=604800",
+        "content-length": "695270",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 25 Mar 2020 04:22:26 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "attachment; filename=\"USO-12-2020.pdf\"",
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET,PUT,POST,DELETE,OPTIONS",
+        "access-control-allow-headers": "Content-Type",
+        "date": "Thu, 02 Apr 2020 01:15:49 GMT",
+        "set-cookie": "www.doh.gov.ae=!+V\/PvCk2bW8ABqVkcyv7JP9sLh4G70tQ8z6lHvCgJOGrDnERr0\/6Blrd3XX52TCDPhjcgTG6ROmO\/xw=; path=\/; Httponly; Secure"
+    },
+    "lang": "en",
+    "size": 695270,
+    "modified": 1585110146
+}
