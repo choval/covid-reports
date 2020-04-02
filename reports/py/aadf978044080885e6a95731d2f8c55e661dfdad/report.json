@@ -1,0 +1,19 @@
+{
+    "filename": "8ccd21-ProtocoloUSF.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/8ccd21-ProtocoloUSF.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585863334,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 02 Apr 2020 21:35:32 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "896816",
+        "last-modified": "Thu, 02 Apr 2020 21:18:06 GMT",
+        "etag": "\"daf30-5a25556456195\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 896816,
+    "modified": 1585862286
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "6109bb-COVID19EquiposdeproteccinindividualEPI01.04.2020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/6109bb-COVID19EquiposdeproteccinindividualEPI01.04.2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585863331,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 02 Apr 2020 21:35:29 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "439696",
+        "last-modified": "Thu, 02 Apr 2020 15:52:28 GMT",
+        "etag": "\"6b590-5a250c9ad23a3\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 439696,
+    "modified": 1585842748
+}

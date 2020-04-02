@@ -1,0 +1,19 @@
+{
+    "filename": "estrategia_comun_riesgo_personas_mayores_02042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/estrategia_comun_riesgo_personas_mayores_02042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585862605,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 21:23:24 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 02 Apr 2020 20:56:25 GMT",
+        "etag": "\"657dc-5a25508ac9040\"",
+        "accept-ranges": "bytes",
+        "content-length": "415708",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 415708,
+    "modified": 1585860985
+}

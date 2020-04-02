@@ -1,6 +1,10 @@
 # France
 
 
+## 2020-04-02
+
+* [point\_de\_situation\_2\_avril\_2020.pdf](f155096c75c9c1107b24a61699107b6dbd743d8a/file.pdf) @19:15 GMT
+
 ## 2020-04-01
 
 * [point\_de\_situation\_1er\_avril\_2020.pdf](46ff12575cfdf16f7d0d33f54fc7fc5cecbc05be/file.pdf) @19:04 GMT

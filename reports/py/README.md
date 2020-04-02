@@ -1,6 +1,12 @@
 # Paraguay
 
 
+## 2020-04-02
+
+* [8ccd21-ProtocoloUSF.pdf](aadf978044080885e6a95731d2f8c55e661dfdad/file.pdf) @21:18 GMT
+* [c8754a-Tablero01.04.2020.pdf](001f2dfe64e9d0bb609c05bf5b8ad2f6d7e12fc2/file.pdf) @15:54 GMT
+* [6109bb-COVID19EquiposdeproteccinindividualEPI01.04.2020.pdf](b939aa407f12e93539d3f27a42764675b42d128b/file.pdf) @15:52 GMT
+
 ## 2020-04-01
 
 * [08b1c4-GestindonacionesEPPMSPBSCOVID19.pdf](e5aedc4d4a6de0189aedf9412ec3d1f3a8634485/file.pdf) @21:42 GMT

@@ -3,6 +3,8 @@
 
 ## 2020-04-02
 
+* [02-04-20\_reporte-matutino\_covid-19.pdf](adf66714713a7c4c7d418a809f746b6132bc2228/file.pdf) @14:56 GMT
+* [01-04-20\_reporte\_vespertino\_covid-19.pdf](7129e12b52068fefd317e1caa54012fc02b0d768/file.pdf) @14:40 GMT
 * [01-04-20\_reporte-vespertino\_covid-19.pdf](621eb687a26b805e82e97bc0942088af4ae5652a/file.pdf) @00:08 GMT
 
 ## 2020-04-01

@@ -1,0 +1,19 @@
+{
+    "filename": "lineam_gener_traslado_extrahospitalario_personas_enfer_respir_02042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineam_gener_traslado_extrahospitalario_personas_enfer_respir_02042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585862640,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 21:24:00 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 02 Apr 2020 20:57:34 GMT",
+        "etag": "\"4398e-5a2550cc96b80\"",
+        "accept-ranges": "bytes",
+        "content-length": "276878",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 276878,
+    "modified": 1585861054
+}

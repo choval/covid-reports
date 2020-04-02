@@ -3,6 +3,7 @@
 
 ## 2020-04-02
 
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-02042020-10h00.pdf](6606c78e9ddce507e13cc4ff256d265ef8027d20/file.pdf) @16:08 GMT
 * [Resoluciones-COE-Nacional-01-de-abril-2020.pdf](9068964187e58ac5efc6f5e9a9b5b23d08dbcb79/file.pdf) @00:01 GMT
 
 ## 2020-04-01

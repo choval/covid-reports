@@ -3,6 +3,7 @@
 
 ## 2020-04-02
 
+* [4022-ministro-de-salud-agradece-ayuda-de-alibaba-y-china-en-la-lucha-contra-el-coronavirus](4cf71faaf8b14d1a66e20f944c2135efc994f605/file.pdf) @21:20 GMT
 * [4021-salud-registra-un-nuevo-fallecido-por-coronavirus-cinco-personas-muestran-signos-de-recuperacion](d4b3f635a22f4cc670edeb03b6eff044b592c29f/file.pdf) @14:05 GMT
 
 ## 2020-04-01

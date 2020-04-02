@@ -1,0 +1,19 @@
+{
+    "filename": "c8754a-Tablero01.04.2020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/c8754a-Tablero01.04.2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585863338,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 02 Apr 2020 21:35:36 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "397619",
+        "last-modified": "Thu, 02 Apr 2020 15:54:23 GMT",
+        "etag": "\"61133-5a250d08bd24a\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 397619,
+    "modified": 1585842863
+}
