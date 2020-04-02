@@ -12,6 +12,8 @@ For more information regarding the Coronavirus:
 
 [Access the reports](reports/README.md)
 
+Use GitHub's search on this repository to search for keywords, all files have their text extracted in a `raw.txt` file.
+
 Stay safe.
 
 ## Notes
