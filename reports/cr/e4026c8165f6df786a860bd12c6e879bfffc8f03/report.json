@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_tecnicos_servicios_sangre_marco_coronavirus_%20v2_20032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_tecnicos_servicios_sangre_marco_coronavirus_%20v2_20032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841882,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:38:02 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 20 Mar 2020 22:00:11 GMT",
+        "etag": "\"28559-5a15068c8d0c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "165209",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 165209,
+    "modified": 1584741611
+}

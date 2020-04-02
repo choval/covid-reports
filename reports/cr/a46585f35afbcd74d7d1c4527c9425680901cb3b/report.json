@@ -1,0 +1,22 @@
+{
+    "filename": "1570-ministro-de-salud-llama-a-propietarios-de-locales-comerciales-a-respetar-el-50-de-capacidad-permitida",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/index.php\/centro-de-prensa\/noticias\/741-noticias-2020\/1570-ministro-de-salud-llama-a-propietarios-de-locales-comerciales-a-respetar-el-50-de-capacidad-permitida",
+    "output": "file.pdf",
+    "downloaded": 1585843025,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:57:03 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "x-powered-by": "PHP\/7.1.8",
+        "set-cookie": "8cd12c6ad39b41813d2d8929fe5e4c82=tps8tngqagvdrorgsf8osjc400; path=\/; HttpOnly",
+        "p3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Thu, 02 Apr 2020 15:57:04 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 202514,
+    "modified": 1585843042
+}

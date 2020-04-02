@@ -1,0 +1,19 @@
+{
+    "filename": "med_admin_%20temp_aten_activ_%20conc_masiva_28032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/med_admin_%20temp_aten_activ_%20conc_masiva_28032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841340,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:29:00 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Sat, 28 Mar 2020 21:09:12 GMT",
+        "etag": "\"2cd76-5a1f0a12f2e00\"",
+        "accept-ranges": "bytes",
+        "content-length": "183670",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 183670,
+    "modified": 1585429752
+}

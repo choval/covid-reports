@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_menores_12_anos_cais_v3_31032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_menores_12_anos_cais_v3_31032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842127,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:42:07 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 31 Mar 2020 22:06:44 GMT",
+        "etag": "\"132975-5a22dc876a500\"",
+        "accept-ranges": "bytes",
+        "content-length": "1255797",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1255797,
+    "modified": 1585692404
+}

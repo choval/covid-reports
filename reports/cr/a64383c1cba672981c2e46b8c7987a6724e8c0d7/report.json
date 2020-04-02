@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_general_centros_trabajo_v4_20032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_general_centros_trabajo_v4_20032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841627,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:33:47 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 20 Mar 2020 22:44:06 GMT",
+        "etag": "\"16f4f7-5a15105d7b980\"",
+        "accept-ranges": "bytes",
+        "content-length": "1504503",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1504503,
+    "modified": 1584744246
+}

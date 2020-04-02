@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_turismo_v2_12032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_turismo_v2_12032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841716,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:35:16 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 12 Mar 2020 14:07:41 GMT",
+        "etag": "\"282c68-5a0a8e0432540\"",
+        "accept-ranges": "bytes",
+        "content-length": "2632808",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 2632808,
+    "modified": 1584022061
+}

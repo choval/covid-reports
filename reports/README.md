@@ -5,9 +5,10 @@
 | [Argentina](ar/README.md) | 2020-04-02 00:08 GMT | [36](ar/README.md) | 1 |
 | [Australia](au/README.md) | 2020-03-28 13:14 GMT | [8](au/README.md) | 1 |
 | [Bolivia](bo/README.md) | 2020-04-02 14:05 GMT | [22](bo/README.md) | 1 |
-| [Brasil](br/README.md) | 2020-03-31 21:40 GMT | [36](br/README.md) | 1 |
+| [Brazil](br/README.md) | 2020-04-01 19:01 GMT | [66](br/README.md) | 1 |
 | [Chile](cl/README.md) | 2020-04-02 14:00 GMT | [73](cl/README.md) | 1 |
 | [Colombia](co/README.md) | 2020-04-02 01:55 GMT | [81](co/README.md) | 1 |
+| [Costa Rica](cr/README.md) | 2020-04-02 16:12 GMT | [110](cr/README.md) | 1 |
 | [Ecuador](ec/README.md) | 2020-04-02 00:01 GMT | [77](ec/README.md) | 1 |
 | [European Union](eu/README.md) | 2020-04-01 12:57 GMT | [32](eu/README.md) | 1 |
 | [France](fr/README.md) | 2020-04-01 19:04 GMT | [8](fr/README.md) | 1 |
@@ -20,6 +21,7 @@
 | [Panama](pa/README.md) | 2020-04-01 12:43 GMT | [6](pa/README.md) | 1 |
 | [Paraguay](py/README.md) | 2020-04-01 21:42 GMT | [66](py/README.md) | 1 |
 | [Peru](pe/README.md) | 2020-04-01 21:15 GMT | [31](pe/README.md) | 1 |
+| [Puerto Rico](pr/README.md) | 2020-04-02 15:01 GMT | [21](pr/README.md) | 1 |
 | [Singapore](sg/README.md) | 2020-04-01 13:36 GMT | [79](sg/README.md) | 1 |
 | [South Korea](kr/README.md) | 2020-04-02 20:12 GMT | [162](kr/README.md) | 1 |
 | [Spain](es/README.md) | 2020-04-02 10:06 GMT | [32](es/README.md) | 1 |

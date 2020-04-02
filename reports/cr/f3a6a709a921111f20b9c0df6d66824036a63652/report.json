@@ -1,0 +1,19 @@
+{
+    "filename": "v1_lineamientos_centros_acondicionamiento_fisico_11032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/v1_lineamientos_centros_acondicionamiento_fisico_11032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841683,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:34:43 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Wed, 11 Mar 2020 22:08:20 GMT",
+        "etag": "\"16f21a-5a09b795bfd00\"",
+        "accept-ranges": "bytes",
+        "content-length": "1503770",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1503770,
+    "modified": 1583964500
+}

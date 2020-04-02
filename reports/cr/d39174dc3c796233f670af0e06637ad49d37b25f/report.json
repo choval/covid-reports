@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_transportistas_intl_v1_26032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_transportistas_intl_v1_26032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841983,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:39:43 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 26 Mar 2020 17:52:48 GMT",
+        "etag": "\"195cc6-5a1c5a71edc00\"",
+        "accept-ranges": "bytes",
+        "content-length": "1662150",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1662150,
+    "modified": 1585245168
+}

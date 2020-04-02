@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_odontologos_v2_27032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_odontologos_v2_27032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842278,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:44:38 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 27 Mar 2020 21:08:24 GMT",
+        "etag": "\"185389-5a1dc807b6200\"",
+        "accept-ranges": "bytes",
+        "content-length": "1594249",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1594249,
+    "modified": 1585343304
+}

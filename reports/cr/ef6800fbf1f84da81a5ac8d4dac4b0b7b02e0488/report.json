@@ -1,0 +1,19 @@
+{
+    "filename": "protocolo_covid_asentamientos_informales_30032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/protocolo_covid_asentamientos_informales_30032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841596,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:33:16 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 30 Mar 2020 21:44:41 GMT",
+        "etag": "\"8ec24-5a2195bc3e440\"",
+        "accept-ranges": "bytes",
+        "content-length": "584740",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 584740,
+    "modified": 1585604681
+}

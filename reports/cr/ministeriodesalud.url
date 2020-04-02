@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL="https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov"
+ORG=Costa Rica
+; Some of the situation reports of Costa Rica are in JPEG ...
+DOWNLOAD_REGEXP="/href=\"(?P<link>([^\"]+\.(pdf|jpeg|jpg)|\/index\.php\/centro-de-prensa\/noticias\/741-noticias-2020\/[^\"\?]+))[^\"]*\"/i"
+LANG=es

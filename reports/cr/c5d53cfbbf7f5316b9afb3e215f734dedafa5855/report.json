@@ -1,0 +1,19 @@
+{
+    "filename": "lineam_atencion_personas_ceaam_v2_01042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineam_atencion_personas_ceaam_v2_01042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841922,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:38:42 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Wed, 01 Apr 2020 21:19:27 GMT",
+        "etag": "\"19c9cd-5a2413d34d5c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "1690061",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1690061,
+    "modified": 1585775967
+}

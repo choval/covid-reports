@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_generales_cadenas_comerciales_supermercados_v1_23032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_generales_cadenas_comerciales_supermercados_v1_23032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841965,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:39:25 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 23 Mar 2020 22:24:29 GMT",
+        "etag": "\"b30cc-5a18d19364140\"",
+        "accept-ranges": "bytes",
+        "content-length": "733388",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 733388,
+    "modified": 1585002269
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "lineam_gene_dispo_aten_pers_situacion_calle_19032020_v1.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineam_gene_dispo_aten_pers_situacion_calle_19032020_v1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841854,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:37:34 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 19 Mar 2020 23:21:47 GMT",
+        "etag": "\"155c00-5a13d6ec478c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "1399808",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1399808,
+    "modified": 1584660107
+}

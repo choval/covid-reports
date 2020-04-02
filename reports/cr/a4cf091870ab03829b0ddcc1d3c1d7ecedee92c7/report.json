@@ -1,0 +1,19 @@
+{
+    "filename": "eventos_masivos_12032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/eventos_masivos_12032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841357,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:29:17 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 12 Mar 2020 19:58:52 GMT",
+        "etag": "\"1645ab-5a0adc8311700\"",
+        "accept-ranges": "bytes",
+        "content-length": "1459627",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1459627,
+    "modified": 1584043132
+}

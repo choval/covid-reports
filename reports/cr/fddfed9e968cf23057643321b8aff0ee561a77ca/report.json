@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_generales_transporte_version_5_19032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_generales_transporte_version_5_19032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841663,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:34:23 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 19 Mar 2020 23:28:47 GMT",
+        "etag": "\"af6fd-5a13d87cd29c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "718589",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 718589,
+    "modified": 1584660527
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "version_3_lineamientos_centros_educativos_03032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/version_3_lineamientos_centros_educativos_03032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842043,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:40:42 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 03 Mar 2020 21:50:36 GMT",
+        "etag": "\"363cb-59ffa4b35a300\"",
+        "accept-ranges": "bytes",
+        "content-length": "222155",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 222155,
+    "modified": 1583272236
+}

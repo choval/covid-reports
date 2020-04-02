@@ -1,0 +1,19 @@
+{
+    "filename": "plan_contingencia_coronavirus_mjp_version_1.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/plan_contingencia_coronavirus_mjp_version_1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842027,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:40:27 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 10 Mar 2020 22:40:23 GMT",
+        "etag": "\"8f67f-5a087ce2343c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "587391",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 587391,
+    "modified": 1583880023
+}

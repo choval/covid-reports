@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_reenvasado_alcohol_gel_v1_20032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_reenvasado_alcohol_gel_v1_20032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841890,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:38:09 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 20 Mar 2020 23:03:29 GMT",
+        "etag": "\"19470b-5a1514b29b240\"",
+        "accept-ranges": "bytes",
+        "content-length": "1656587",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1656587,
+    "modified": 1584745409
+}

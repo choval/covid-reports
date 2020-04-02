@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_general_recolectores_basura_trabajadores_municipales_v2_23032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_general_recolectores_basura_trabajadores_municipales_v2_23032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842104,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:41:44 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 23 Mar 2020 22:32:43 GMT",
+        "etag": "\"d4175-5a18d36a818c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "868725",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 868725,
+    "modified": 1585002763
+}

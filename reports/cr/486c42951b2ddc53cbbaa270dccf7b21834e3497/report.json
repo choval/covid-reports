@@ -1,0 +1,19 @@
+{
+    "filename": "version_2_lineamientos_generales_servicios_salud_publicos_privados_coronavirus.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/version_2_lineamientos_generales_servicios_salud_publicos_privados_coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842215,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:43:34 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 10 Feb 2020 19:42:31 GMT",
+        "etag": "\"4d63b-59e3df0a397c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "316987",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 316987,
+    "modified": 1581363751
+}

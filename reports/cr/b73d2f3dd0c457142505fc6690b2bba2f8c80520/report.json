@@ -1,0 +1,19 @@
+{
+    "filename": "lactancia_materna_v1_19032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lactancia_materna_v1_19032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841489,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:31:29 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 19 Mar 2020 22:59:28 GMT",
+        "etag": "\"488d5-5a13d1ef4f400\"",
+        "accept-ranges": "bytes",
+        "content-length": "297173",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 297173,
+    "modified": 1584658768
+}

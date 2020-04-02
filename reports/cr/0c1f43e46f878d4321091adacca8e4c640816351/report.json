@@ -1,0 +1,19 @@
+{
+    "filename": "lineam_generales_despacho_domicilio_medicamentos_psicotr_estupef_31032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineam_generales_despacho_domicilio_medicamentos_psicotr_estupef_31032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841615,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:33:35 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 31 Mar 2020 21:27:45 GMT",
+        "etag": "\"5ff8e-5a22d3d0c5640\"",
+        "accept-ranges": "bytes",
+        "content-length": "393102",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 393102,
+    "modified": 1585690065
+}

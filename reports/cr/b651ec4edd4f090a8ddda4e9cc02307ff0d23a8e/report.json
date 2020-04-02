@@ -1,0 +1,19 @@
+{
+    "filename": "version_1_lineamientos_aislamiento_domiciliar_06032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/version_1_lineamientos_aislamiento_domiciliar_06032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841421,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:30:20 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 06 Mar 2020 21:41:40 GMT",
+        "etag": "\"4779d-5a03684c90d00\"",
+        "accept-ranges": "bytes",
+        "content-length": "292765",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 292765,
+    "modified": 1583530900
+}

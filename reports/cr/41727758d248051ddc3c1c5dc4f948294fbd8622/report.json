@@ -1,0 +1,19 @@
+{
+    "filename": "medidas_administrativas_temporales_suspension_lecciones_covid19_13032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/medidas_administrativas_temporales_suspension_lecciones_covid19_13032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842050,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:40:50 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Sat, 14 Mar 2020 03:00:31 GMT",
+        "etag": "\"2f8d0-5a0c7c9f891c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "194768",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 194768,
+    "modified": 1584154831
+}

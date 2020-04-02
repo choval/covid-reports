@@ -1,0 +1,19 @@
+{
+    "filename": "decreto_42221_S_concentracion_actividades_masivas.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/decretos_cvd\/decreto_42221_S_concentracion_actividades_masivas.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585846722,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 16:58:41 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 27 Mar 2020 04:00:42 GMT",
+        "etag": "\"a8983-5a1ce2523ee80\"",
+        "accept-ranges": "bytes",
+        "content-length": "690563",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 690563,
+    "modified": 1585281642
+}

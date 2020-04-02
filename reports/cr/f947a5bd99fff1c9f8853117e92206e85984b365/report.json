@@ -1,0 +1,19 @@
+{
+    "filename": "protocolo_atencion_rsi_terminal_aodoq_ms_31032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/protocolo_atencion_rsi_terminal_aodoq_ms_31032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841229,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:27:09 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 31 Mar 2020 18:28:34 GMT",
+        "etag": "\"4b82b2-5a22abc3d1880\"",
+        "accept-ranges": "bytes",
+        "content-length": "4948658",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 4948658,
+    "modified": 1585679314
+}

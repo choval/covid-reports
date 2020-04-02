@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_general_trabajadores_estaciones_peaje_23032020_v1.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_general_trabajadores_estaciones_peaje_23032020_v1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842184,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:43:04 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 23 Mar 2020 22:56:36 GMT",
+        "etag": "\"cbdd7-5a18d8c11f100\"",
+        "accept-ranges": "bytes",
+        "content-length": "835031",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 835031,
+    "modified": 1585004196
+}

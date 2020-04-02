@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_residuos_valorizables_v2_31032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_residuos_valorizables_v2_31032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842203,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:43:23 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 31 Mar 2020 18:55:49 GMT",
+        "etag": "\"82baa-5a22b1db13740\"",
+        "accept-ranges": "bytes",
+        "content-length": "535466",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 535466,
+    "modified": 1585680949
+}

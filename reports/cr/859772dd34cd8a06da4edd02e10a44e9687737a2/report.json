@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_salud_mental_apoyo_psicosocial_covid19_v1_18032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_salud_mental_apoyo_psicosocial_covid19_v1_18032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841479,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:31:19 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Wed, 18 Mar 2020 22:02:17 GMT",
+        "etag": "\"5067f-5a128349cac40\"",
+        "accept-ranges": "bytes",
+        "content-length": "329343",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 329343,
+    "modified": 1584568937
+}

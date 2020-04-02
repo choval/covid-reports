@@ -1,0 +1,19 @@
+{
+    "filename": "linea_gene_segui_levant_actos_admin_aisla_domi_29032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/linea_gene_segui_levant_actos_admin_aisla_domi_29032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841588,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:33:07 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Sun, 29 Mar 2020 19:38:01 GMT",
+        "etag": "\"2cd31-5a20378edb840\"",
+        "accept-ranges": "bytes",
+        "content-length": "183601",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 183601,
+    "modified": 1585510681
+}

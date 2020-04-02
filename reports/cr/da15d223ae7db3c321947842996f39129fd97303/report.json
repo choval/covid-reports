@@ -1,0 +1,19 @@
+{
+    "filename": "lineam_gener_manejo_cadaveres_req_autop_confirm_COVID19_16032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineam_gener_manejo_cadaveres_req_autop_confirm_COVID19_16032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585842514,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:48:34 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 16 Mar 2020 16:00:29 GMT",
+        "etag": "\"54d4d-5a0faeb082140\"",
+        "accept-ranges": "bytes",
+        "content-length": "347469",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 347469,
+    "modified": 1584374429
+}

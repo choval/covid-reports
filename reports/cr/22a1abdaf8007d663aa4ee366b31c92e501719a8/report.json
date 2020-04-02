@@ -1,0 +1,19 @@
+{
+    "filename": "protocolo_cierre_fronteras_final_22032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/protocolo_cierre_fronteras_final_22032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841346,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:29:05 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 23 Mar 2020 01:03:57 GMT",
+        "etag": "\"60447-5a17b35aaf940\"",
+        "accept-ranges": "bytes",
+        "content-length": "394311",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 394311,
+    "modified": 1584925437
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_generales_empleados_sector_construccion_v1_27032020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_generales_empleados_sector_construccion_v1_27032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585841547,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 02 Apr 2020 15:32:27 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 27 Mar 2020 21:07:53 GMT",
+        "etag": "\"191cfb-5a1dc7ea25c40\"",
+        "accept-ranges": "bytes",
+        "content-length": "1645819",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1645819,
+    "modified": 1585343273
+}
