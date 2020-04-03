@@ -1,0 +1,22 @@
+{
+    "filename": "1597-personas-hospitalizadas-y-en-cuidados-intensivos-continuan-en-aumento",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/index.php\/centro-de-prensa\/noticias\/741-noticias-2020\/1597-personas-hospitalizadas-y-en-cuidados-intensivos-continuan-en-aumento",
+    "output": "file.pdf",
+    "downloaded": 1585945365,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 03 Apr 2020 20:22:44 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "x-powered-by": "PHP\/7.1.8",
+        "set-cookie": "8cd12c6ad39b41813d2d8929fe5e4c82=0u3bicnuq24f38ftjupq2nj70g; path=\/; HttpOnly",
+        "p3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Fri, 03 Apr 2020 20:22:45 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 206618,
+    "modified": 1585945381
+}

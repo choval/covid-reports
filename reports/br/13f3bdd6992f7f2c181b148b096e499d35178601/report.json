@@ -1,0 +1,28 @@
+{
+    "filename": "TELESUS-Outdoor-Social-2x1m.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/03\/TELESUS-Outdoor-Social-2x1m.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585945178,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "515327",
+        "date": "Fri, 03 Apr 2020 20:19:38 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_A5DE5B2BE3EA0D332398EC5967187718_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Fri, 03 Apr 2020 16:33:26 GMT",
+        "etag": "\"7dcff-5a2657a05d5fe\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4c6f3dc807d213a0da966381e4886b08.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "PeOZmsLX6iL3ECl4CeMYQpKlkNvrdbcIpW5N4N2gqSA_oENvSRjO_Q=="
+    },
+    "lang": "pt",
+    "size": 515327,
+    "modified": 1585931606
+}

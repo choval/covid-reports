@@ -1,0 +1,24 @@
+{
+    "filename": "MSP_RECOMENDACIONES_ODONTOLOGOS_HIGIENISTAS_DENTALES.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_RECOMENDACIONES_ODONTOLOGOS_HIGIENISTAS_DENTALES.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585946028,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 03 Apr 2020 20:33:47 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Fri, 03 Apr 2020 19:57:33 GMT",
+        "etag": "\"237648-5a26853fde540\"",
+        "accept-ranges": "bytes",
+        "content-length": "2324040",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Fri, 17 Apr 2020 20:33:47 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 2324040,
+    "modified": 1585943853
+}

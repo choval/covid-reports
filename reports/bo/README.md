@@ -1,6 +1,12 @@
 # Bolivia
 
 
+## 2020-04-03
+
+* [4023-gobierno-recibe-equipos-del-pnud-para-fortalecer-la-capacidad-de-diagnostico-del-covid-19](9b431cc91212a5b618d6aa3ac2ae2aa981127560/file.pdf) @20:19 GMT
+* [4024-ministro-cruz-reporta-132-casos-de-covid-19-y-afirma-que-el-pais-no-esta-solo](87346bfc9da46751784faffaad357f67a290a9d8/file.pdf) @20:19 GMT
+* [4025-inlasa-recibe-equipos-especializados-para-mejorar-capacidad-de-diagnostico-del-covid-19](312a870b44a1872ee14a5641967cbaaae330ecaf/file.pdf) @20:18 GMT
+
 ## 2020-04-02
 
 * [4022-ministro-de-salud-agradece-ayuda-de-alibaba-y-china-en-la-lucha-contra-el-coronavirus](4cf71faaf8b14d1a66e20f944c2135efc994f605/file.pdf) @21:20 GMT

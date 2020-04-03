@@ -1,0 +1,24 @@
+{
+    "filename": "COVID-19%20Vigilancia%20y%20diagn%C3%B3stico%202-04-20.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/COVID-19%20Vigilancia%20y%20diagn%C3%B3stico%202-04-20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585946026,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 03 Apr 2020 20:33:46 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Fri, 03 Apr 2020 20:09:31 GMT",
+        "etag": "\"1a9cf-5a2687ec9b4c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "109007",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Fri, 17 Apr 2020 20:33:46 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 109007,
+    "modified": 1585944571
+}

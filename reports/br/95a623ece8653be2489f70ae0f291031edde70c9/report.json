@@ -1,0 +1,28 @@
+{
+    "filename": "Cartilha--Informa----es-Coronavirus.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/03\/Cartilha--Informa----es-Coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585945170,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "6062031",
+        "date": "Fri, 03 Apr 2020 20:19:30 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_3F3ACE8A1A1C144503A009C55CBF80F2_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Fri, 03 Apr 2020 14:14:27 GMT",
+        "etag": "\"5c7fcf-5a26388fa85a6\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 5c9551b972dbf6cf1748ce7f55922447.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "yKm-vROREZ21bDqhX7ydhVDmEExj12OJXvQJ_gwCvgLk-IGAGLu-gQ=="
+    },
+    "lang": "pt",
+    "size": 6062031,
+    "modified": 1585923267
+}

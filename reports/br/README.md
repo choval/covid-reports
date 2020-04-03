@@ -1,6 +1,12 @@
 # Brazil
 
 
+## 2020-04-03
+
+* [Portarias-publicadas-sobre-COVID.pdf](70c7b149e0097733794d079a21034f3f5b5b2a27/file.pdf) @19:39 GMT
+* [TELESUS-Outdoor-Social-2x1m.pdf](13f3bdd6992f7f2c181b148b096e499d35178601/file.pdf) @16:33 GMT
+* [Cartilha--Informa----es-Coronavirus.pdf](95a623ece8653be2489f70ae0f291031edde70c9/file.pdf) @14:14 GMT
+
 ## 2020-04-01
 
 * [Cartilha\_Coronavirus\_Informacoes.pdf](1734cb3df892e193df03f7c90f27bd873a667e56/file.pdf) @19:01 GMT
@@ -78,16 +84,16 @@
 * [Contrato-41-2020.pdf](81373796c23089806490a84c1d938462809d269c/file.pdf) @20:48 GMT
 * [Contrato-40-2020.pdf](235adf64d9a0ed6af41b695fd3e1fd3c01aeb8de/file.pdf) @20:47 GMT
 * [Fluxogramas-COVID-19-SAES-4.pdf](6f588147b422a897fff75061144662c8fd64ce36/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-1.pdf](e899e3fe03e290067f9852c825cabca1a53d5e81/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-2.pdf](53ad952c40de6e9baee1759b218b9ffa6e1c8d4b/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-5.pdf](12da41965296446327cb768a46ebbe326eeba17f/file.pdf) @03:00 GMT
 * [Fluxogramas-COVID-19-SAES-3.pdf](7c43f1cd84e287a00b245f8acbdc9b2c4555a3a1/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-1.pdf](e899e3fe03e290067f9852c825cabca1a53d5e81/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-5.pdf](12da41965296446327cb768a46ebbe326eeba17f/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-2.pdf](53ad952c40de6e9baee1759b218b9ffa6e1c8d4b/file.pdf) @03:00 GMT
+* [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](a0fd35eac4c8644a93c2dfc3204d31c6d1668e02/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](d8885b9255f53d428c424e146ef92d4e2575acaa/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04---COE-COVID-19.pdf](7145ee40d26397e6f0645f1a811ac1fd087caece/file.pdf) @03:00 GMT
-* [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](a0fd35eac4c8644a93c2dfc3204d31c6d1668e02/file.pdf) @03:00 GMT
 * [Boletim\_epidemiologico\_SVS\_04.pdf](e1c551602e050c806b6febf0ee083954e6104556/file.pdf) @03:00 GMT
-* [2020-02-21-Boletim-Epidemiologico03.pdf](f03ac436240c5bb014e0016178a5b4ee3960c498/file.pdf) @03:00 GMT
 * [2020-02-21-Boletim-Epidemiologico03.pdf](2fb028a10a3cbc069fda3209c787c05ae1081448/file.pdf) @03:00 GMT
+* [2020-02-21-Boletim-Epidemiologico03.pdf](f03ac436240c5bb014e0016178a5b4ee3960c498/file.pdf) @03:00 GMT
 * [Boletim-epidemiologico-COEcorona-SVS-13fev20.pdf](ea34fdfb40c665f6e3387d7515c2a8866a2af2a4/file.pdf) @02:59 GMT
 * [protocolo-manejo-coronavirus.pdf](9e46e4b3a33c4ee91a3c65d3304587e7022b2806/file.pdf) @02:59 GMT
 * [operacao-regresso-11fev-b.pdf](2920849d5c379414d14bcf2e78235afdd3dff40b/file.pdf) @02:59 GMT

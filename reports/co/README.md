@@ -3,6 +3,7 @@
 
 ## 2020-04-02
 
+* [GIPS15.pdf](40e1fa71b732542c8b65c0e19915d54e36ffd221/file.pdf) @22:43 GMT
 * [536 Adopta Plan de accion par PSS durante las etapas de contencion y mitigacion pandemia SARS-CoV -Covid-19.pdf](f7a5cec5d4bf8b3fb2a170e676d908aa96082aa3/file.pdf) @01:55 GMT
 * [PSSS01.pdf](ac83fb74cdbb65c180de7358d551153d574e937e/file.pdf) @01:09 GMT
 * [PSSS02.pdf](fda1c4fe34deb182b7a717df3d55d096fc546072/file.pdf) @01:06 GMT
@@ -56,8 +57,8 @@
 
 * [TEDS03.pdf](1f00f2438562f5aa4ac7e7fcc152804ae1086ec4/file.pdf) @20:15 GMT
 * [decreto-457-de-2020.pdf](2d2598dd230f720b4db74681c8e3ae5d87d02b90/file.pdf) @16:23 GMT
-* [GIPS12.pdf](7643e070d08fb3369cc21dee537a69f67e462986/file.pdf) @01:20 GMT
 * [GIPG08.pdf](615c75bce6f977bc6d57e10b4bd5cce48d7059c2/file.pdf) @01:20 GMT
+* [GIPS12.pdf](7643e070d08fb3369cc21dee537a69f67e462986/file.pdf) @01:20 GMT
 * [GMTG15.pdf](1e6e83c49f6b6a9cd8d98713a587f88bdd56d8ea/file.pdf) @00:29 GMT
 * [asif13-personas-con-discapacidad.covid-19.pdf](c366c8ea13bbe0cc7a26c24f8778b467a0270804/file.pdf) @00:12 GMT
 * [asif13-adulto-mayor.covid-19.pdf](07d12b9e747d027e69a586998387d4a19108492f/file.pdf) @00:10 GMT

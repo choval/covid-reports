@@ -1,6 +1,12 @@
 # Uruguay
 
 
+## 2020-04-03
+
+* [actualmente-se-registran-369-casos-coronavirus-covid-19](88819c997138745ac759ef500cc2d332379d2c48/file.pdf) @20:33 GMT
+* [COVID-19 Vigilancia y diagnóstico 2-04-20.pdf](1d46850fbb1fd2acc269adc69a28f1eaf64e3ebb/file.pdf) @20:09 GMT
+* [MSP\_RECOMENDACIONES\_ODONTOLOGOS\_HIGIENISTAS\_DENTALES.pdf](8ac0c6de562607a0326a6b1a7dae711c4bba4290/file.pdf) @19:57 GMT
+
 ## 2020-04-02
 
 * [informe-especial-sobre-coronavirus-covid-19](31d459dc8af512a904c5a66c59232a2aeee26e0b/file.pdf) @14:16 GMT

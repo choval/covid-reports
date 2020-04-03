@@ -3,6 +3,8 @@
 
 ## 2020-04-03
 
+* [2020-04-3-tha-sitrep-41-covid19-th.pdf](c5d240e4d02a21f7d0be1edb89b039cf14e05122/file.pdf) @16:00 GMT
+* [2020-04-2-tha-sitrep-40-covid19-th.pdf](b3c29ed03f133723d9629b5d3a1ab61399197185/file.pdf) @15:59 GMT
 * [2020-04-3-tha-sitrep-41-covid19-final.pdf](e747f6e0d9e2212c71eab6e606853d2203077ff7/file.pdf) @12:00 GMT
 
 ## 2020-04-02

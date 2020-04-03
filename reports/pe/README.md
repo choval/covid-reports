@@ -3,6 +3,8 @@
 
 ## 2020-04-03
 
+* [coronavirus020420.pdf](9193822aff16c501198671802c03f567b0169d45/file.pdf) @18:53 GMT
+* [AE014.pdf](d6f9b5215a89a48376b846afca00c6d1ce1cb345/file.pdf) @18:00 GMT
 * [coronavirus010420.pdf](7d4805a2bdd4df39e268f99c622bb4b357c71a71/file.pdf) @01:28 GMT
 
 ## 2020-04-01

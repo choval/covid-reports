@@ -1,0 +1,28 @@
+{
+    "filename": "2020-04-03_daglig_rapport-005_rettet-fodeland_til-publisering.pdf",
+    "uri": "https:\/\/www.fhi.no\/contentassets\/ca5914bd0aa14e15a17f8a7d48fa306a\/vedlegg\/koronavirus---dagsrapporter\/2020-04-03_daglig_rapport-005_rettet-fodeland_til-publisering.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585945837,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 03 Apr 2020 20:30:37 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1223927",
+        "set-cookie": "__cfduid=dde7f30d4d3398ab9366f9eb2a1f378471585945837; expires=Sun, 03-May-20 20:30:37 GMT; path=\/; domain=.www.fhi.no; HttpOnly; SameSite=Lax",
+        "cache-control": "public, max-age=16526",
+        "expires": "Sat, 04 Apr 2020 01:06:03 GMT",
+        "last-modified": "Fri, 03 Apr 2020 12:52:56 GMT",
+        "etag": "\"1D609B6CBAFC400\"",
+        "request-context": "appId=cid-v1:afda6def-0de1-4764-90ec-fb72e90cbcc7",
+        "access-control-expose-headers": "Request-Context",
+        "cf-cache-status": "HIT",
+        "age": "26674",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "57e58c6efd65f7ba-EZE"
+    },
+    "size": 1223927,
+    "modified": 1585918376
+}

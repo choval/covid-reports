@@ -1,0 +1,20 @@
+{
+    "filename": "AE014.pdf",
+    "uri": "https:\/\/www.dge.gob.pe\/portal\/docs\/alertas\/2020\/AE014.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585945847,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 03 Apr 2020 20:27:27 GMT",
+        "server": "Apache\/2.4.6 (CentOS) OpenSSL\/1.0.2k-fips PHP\/5.4.16 mod_wsgi\/3.4 Python\/2.7.5",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 03 Apr 2020 18:00:00 GMT",
+        "etag": "\"2be0e9-5a266af99a800\"",
+        "accept-ranges": "bytes",
+        "content-length": "2875625",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 2875625,
+    "modified": 1585936800
+}

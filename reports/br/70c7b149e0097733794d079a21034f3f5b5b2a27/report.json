@@ -1,0 +1,26 @@
+{
+    "filename": "Portarias-publicadas-sobre-COVID.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/03\/Portarias-publicadas-sobre-COVID.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585945192,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "663439",
+        "date": "Fri, 03 Apr 2020 20:19:52 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_FC3833DA686403DDFFE8F0854D880FC2_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Fri, 03 Apr 2020 19:39:26 GMT",
+        "etag": "\"a1f8f-5a26813406e00\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 51d16867ea09d1b4c52eca0e090ad4a3.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "AMS54-C1",
+        "x-amz-cf-id": "WVgdpQMZa9fIjkWvqtkvgDOegB-T7K0pXjRwNZfxOgrTnzqokDMWEA=="
+    },
+    "lang": "pt",
+    "size": 663439,
+    "modified": 1585942766
+}

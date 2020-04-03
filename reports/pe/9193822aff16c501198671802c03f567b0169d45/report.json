@@ -1,0 +1,20 @@
+{
+    "filename": "coronavirus020420.pdf",
+    "uri": "https:\/\/www.dge.gob.pe\/portal\/docs\/tools\/coronavirus\/coronavirus020420.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585945873,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 03 Apr 2020 20:27:53 GMT",
+        "server": "Apache\/2.4.6 (CentOS) OpenSSL\/1.0.2k-fips PHP\/5.4.16 mod_wsgi\/3.4 Python\/2.7.5",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 03 Apr 2020 18:53:56 GMT",
+        "etag": "\"1b5637-5a267707b1900\"",
+        "accept-ranges": "bytes",
+        "content-length": "1791543",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1791543,
+    "modified": 1585940036
+}
