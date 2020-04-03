@@ -11,6 +11,10 @@
 
 * [TEDS06 Salud Mental Adulto Mayor.pdf](5a903643f4cf793e0e9e7537af9f775cea962274/file.pdf) @23:58 GMT
 * [TEDS05 Población Migrante.pdf](a4cc50dcfbaed86b93cf57fa5208fe05f4c8372b/file.pdf) @23:57 GMT
+* [Decreto 507 de 2020.pdf](5f2a3da8b47abbd46b1a6ab6885f4de007ee117f/file.pdf) @21:38 GMT
+* [Decreto 486 del 2020.pdf](853826a117c805b39957861f579659d2e38d8f0d/file.pdf) @21:29 GMT
+* [RESOLUCIÓN NO. 000072 DE 2020.pdf](aaccf8ee9b4f34cf6f310001f68e31083121ff85/file.pdf) @20:33 GMT
+* [RESOLUCIÓN NO. 000071 DE 2020.pdf](a10c31ff9c97fd218067154b896c4ba30ef9f36a/file.pdf) @20:27 GMT
 
 ## 2020-03-30
 
@@ -52,8 +56,8 @@
 
 * [TEDS03.pdf](1f00f2438562f5aa4ac7e7fcc152804ae1086ec4/file.pdf) @20:15 GMT
 * [decreto-457-de-2020.pdf](2d2598dd230f720b4db74681c8e3ae5d87d02b90/file.pdf) @16:23 GMT
-* [GIPG08.pdf](615c75bce6f977bc6d57e10b4bd5cce48d7059c2/file.pdf) @01:20 GMT
 * [GIPS12.pdf](7643e070d08fb3369cc21dee537a69f67e462986/file.pdf) @01:20 GMT
+* [GIPG08.pdf](615c75bce6f977bc6d57e10b4bd5cce48d7059c2/file.pdf) @01:20 GMT
 * [GMTG15.pdf](1e6e83c49f6b6a9cd8d98713a587f88bdd56d8ea/file.pdf) @00:29 GMT
 * [asif13-personas-con-discapacidad.covid-19.pdf](c366c8ea13bbe0cc7a26c24f8778b467a0270804/file.pdf) @00:12 GMT
 * [asif13-adulto-mayor.covid-19.pdf](07d12b9e747d027e69a586998387d4a19108492f/file.pdf) @00:10 GMT

@@ -1,0 +1,20 @@
+{
+    "filename": "sars-cov-2-stili-vita-attivita-fisica-over-65.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/pdf\/sars-cov-2-stili-vita-attivita-fisica-over-65.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585916983,
+    "headers": {
+        "http-status": 200,
+        "content-length": "727779",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 01 Apr 2020 14:24:18 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"f9cbd3a318d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Fri, 03 Apr 2020 12:29:42 GMT"
+    },
+    "lang": "it",
+    "size": 727779,
+    "modified": 1585751058
+}

@@ -1,6 +1,10 @@
 # Mexico
 
 
+## 2020-04-03
+
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.02.pdf](9f45ea829c75668fb490833feda55c43ce5a9cc5/file.pdf) @01:15 GMT
+
 ## 2020-04-02
 
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.01.pdf](7dd568b2b5c78065bb817c8a0794737732b7f7dc/file.pdf) @01:02 GMT
@@ -71,8 +75,8 @@
 
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.14.pdf](ab41859cbc5b744c17b05f2785852e48bc1c8850/file.pdf) @02:15 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.11.pdf](6c9b2cc3519aafdd0a14757c92ac42c06d354f47/file.pdf) @01:12 GMT
-* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.12.pdf](c6848ab401d2600967812d5fe9d82bb7c936e123/file.pdf) @01:12 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.13.pdf](88a61960da841bbd79be4ddea3f5b1dba9fa83f0/file.pdf) @01:12 GMT
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.12.pdf](c6848ab401d2600967812d5fe9d82bb7c936e123/file.pdf) @01:12 GMT
 
 ## 2020-03-11
 

@@ -1,0 +1,32 @@
+{
+    "filename": "RESOLUCI%C3%93N%20NO.%20000072%20DE%202020.pdf",
+    "uri": "https:\/\/www.minagricultura.gov.co\/Normatividad\/Resoluciones\/RESOLUCI%C3%93N%20NO.%20000072%20DE%202020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585916761,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "3645112",
+        "content-type": "application\/pdf",
+        "expires": "Thu, 19 Mar 2020 12:26:10 GMT",
+        "last-modified": "Wed, 01 Apr 2020 20:33:51 GMT",
+        "etag": "\"{8BC2B77E-BDE6-44C0-B18F-07DEEFE9215A},2\"",
+        "server": "Microsoft-IIS\/10.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:8BC2B77E-BDE6-44C0-B18F-07DEEFE9215A@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "e522459f-3009-7028-17cf-a327f1b80784",
+        "request-id": "e522459f-3009-7028-17cf-a327f1b80784",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "12",
+        "spiislatency": "1",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5085",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Fri, 03 Apr 2020 12:26:10 GMT"
+    },
+    "lang": "es",
+    "size": 3645112,
+    "modified": 1585773231
+}

@@ -1,0 +1,32 @@
+{
+    "filename": "Decreto%20486%20del%202020.pdf",
+    "uri": "https:\/\/www.minagricultura.gov.co\/Normatividad\/Decretos\/Decreto%20486%20del%202020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585916745,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "2605409",
+        "content-type": "application\/pdf",
+        "expires": "Thu, 19 Mar 2020 12:25:54 GMT",
+        "last-modified": "Wed, 01 Apr 2020 21:29:46 GMT",
+        "etag": "\"{DAFB9FFA-42BD-4D64-A56F-D2A8BEBDBBAC},2\"",
+        "server": "Microsoft-IIS\/10.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:DAFB9FFA-42BD-4D64-A56F-D2A8BEBDBBAC@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "e122459f-b036-7028-17cf-a4f757ca7eab",
+        "request-id": "e122459f-b036-7028-17cf-a4f757ca7eab",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "13",
+        "spiislatency": "1",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5085",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Fri, 03 Apr 2020 12:25:54 GMT"
+    },
+    "lang": "es",
+    "size": 2605409,
+    "modified": 1585776586
+}

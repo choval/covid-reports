@@ -1,6 +1,10 @@
 # Thailand
 
 
+## 2020-04-03
+
+* [2020-04-3-tha-sitrep-41-covid19-final.pdf](e747f6e0d9e2212c71eab6e606853d2203077ff7/file.pdf) @12:00 GMT
+
 ## 2020-04-02
 
 * [2020-04-02-tha-sitrep-40-covid19-final.pdf](60a3563c1ef8fd60f2d764c1649e82eba0952853/file.pdf) @13:37 GMT

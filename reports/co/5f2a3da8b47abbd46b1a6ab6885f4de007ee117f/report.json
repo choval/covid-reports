@@ -1,0 +1,32 @@
+{
+    "filename": "Decreto%20507%20de%202020.pdf",
+    "uri": "https:\/\/www.minagricultura.gov.co\/Normatividad\/Decretos\/Decreto%20507%20de%202020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585916737,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "3956557",
+        "content-type": "application\/pdf",
+        "expires": "Thu, 19 Mar 2020 12:25:46 GMT",
+        "last-modified": "Wed, 01 Apr 2020 21:38:19 GMT",
+        "etag": "\"{8CBFADFE-502A-4016-817F-D681400F16A0},2\"",
+        "server": "Microsoft-IIS\/10.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:8CBFADFE-502A-4016-817F-D681400F16A0@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "df22459f-d012-7028-17cf-ad8a7ae8fdc9",
+        "request-id": "df22459f-d012-7028-17cf-ad8a7ae8fdc9",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "13",
+        "spiislatency": "1",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5085",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Fri, 03 Apr 2020 12:25:45 GMT"
+    },
+    "lang": "es",
+    "size": 3956557,
+    "modified": 1585777099
+}

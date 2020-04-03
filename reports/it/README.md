@@ -5,9 +5,10 @@
 
 * [C\_17\_notizie\_4386\_1\_file.pdf](ce27becc3199be600a49d682a90ce8eeacdc0d6c/file.pdf) @21:29 GMT
 * [C\_17\_notizie\_4386\_0\_file.pdf](3655aacc420d6d39f1ffde52db74bb0d5a2514ce/file.pdf) @21:29 GMT
-* [Infografica\_2aprile ENG.pdf](d62c38471e0b0d2a4e8d338263d8a68fc15bdd6a/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ENG.pdf](7dd5119ea2ae7c7751091ebec68f788b2dcf36f0/file.pdf) @15:47 GMT
+* [Infografica\_2aprile ENG.pdf](d62c38471e0b0d2a4e8d338263d8a68fc15bdd6a/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ITA.pdf](5356b6cd7bbd2e64cbeebdf9050786a22e73cac0/file.pdf) @15:47 GMT
+* [Infografica\_2aprile ITA.pdf](c850a58046e66918025001c409915a0879a64437/file.pdf) @15:47 GMT
 * [C\_17\_notizie\_4377\_0\_file.pdf](390cc3dc671fa559a0cefbc333e5d808ec708601/file.pdf) @14:09 GMT
 
 ## 2020-04-01
@@ -18,6 +19,7 @@
 * [Infografica\_1aprile ITA.pdf](fea3f4fa9780440f36b3a02f0a473c92a480b9c8/file.pdf) @17:37 GMT
 * [Infografica\_1aprile ITA.pdf](a70c3d7d9c9aadc7468f0299f039a80bdabd40a2/file.pdf) @17:37 GMT
 * [Rapporto ISS COVID-19 n. 8 autismo (2).pdf](6c0bd2c336eef79b58346dc5256e75b1b18fefea/file.pdf) @16:10 GMT
+* [sars-cov-2-stili-vita-attivita-fisica-over-65.pdf](f3d1b300b19d3cddd86b696ddff3368acf9bf177/file.pdf) @14:24 GMT
 
 ## 2020-03-31
 
