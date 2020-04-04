@@ -1,6 +1,13 @@
 # Ecuador
 
 
+## 2020-04-04
+
+* [Informe-de-Situación-No027-Casos-Coronavirus-Ecuador-04042020.pdf](1cb74732eeff0d36045edeb22a68c762c3e6be7b/file.pdf) @17:22 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-04042020-10h00.pdf](b9c178e6dfde6e854b0332cd8ae1ac9770c41ea8/file.pdf) @17:21 GMT
+* [Resoluciones-COE-Nacional-03-de-abril-2020.pdf](f44528a03f231db0761957a659e1f4ecb5820d42/file.pdf) @17:06 GMT
+* [Resoluciones-COE-Nacional-02-de-abril-2020.pdf](8dde17dca199f1ce9fe53bd26ae6e94ccdad5902/file.pdf) @17:06 GMT
+
 ## 2020-04-03
 
 * [Informe-de-Situación-No026-Casos-Coronavirus-Ecuador-03042020.pdf](81deb2a23298229aec19e3ae8e47431418bcddd2/file.pdf) @16:17 GMT

@@ -1,6 +1,10 @@
 # Costa Rica
 
 
+## 2020-04-04
+
+* [decreto\_ejecutivo\_numero\_42285\_mp\_mopt\_s.pdf](4e35c4de637ed7898c47d86e0c71a62079c1be96/file.pdf) @19:24 GMT
+
 ## 2020-04-03
 
 * [lineamientos\_servicios\_alimentacion\_v1\_03042020.pdf](e20c93d3061b3765f847b723a16dd44ea013f7be/file.pdf) @23:40 GMT

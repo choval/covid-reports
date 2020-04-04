@@ -1,6 +1,10 @@
 # Paraguay
 
 
+## 2020-04-04
+
+* [be2fd4-Tablero03.04.pdf](a947bcc2d804742a7cb71d604e24492e39c0c228/file.pdf) @15:42 GMT
+
 ## 2020-04-03
 
 * [022aa9-Tablero02.04.2020.pdf](dda345c2cf86af6b8122bb9e672e29759f81c289/file.pdf) @15:57 GMT

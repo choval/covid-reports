@@ -1,0 +1,19 @@
+{
+    "filename": "decreto_ejecutivo_numero_42285_mp_mopt_s.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/decretos_cvd\/decreto_ejecutivo_numero_42285_mp_mopt_s.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586034279,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 04 Apr 2020 21:04:39 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Sat, 04 Apr 2020 19:24:33 GMT",
+        "etag": "\"772f1-5a27bfbd0de40\"",
+        "accept-ranges": "bytes",
+        "content-length": "488177",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 488177,
+    "modified": 1586028273
+}

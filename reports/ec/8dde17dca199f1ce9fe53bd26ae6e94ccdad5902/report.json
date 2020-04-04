@@ -1,0 +1,23 @@
+{
+    "filename": "Resoluciones-COE-Nacional-02-de-abril-2020.pdf",
+    "uri": "https:\/\/www.gestionderiesgos.gob.ec\/wp-content\/uploads\/2020\/04\/Resoluciones-COE-Nacional-02-de-abril-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586023229,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sat, 04 Apr 2020 18:00:29 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "379982",
+        "last-modified": "Sat, 04 Apr 2020 17:06:01 GMT",
+        "etag": "\"5cc4e-5a27a0c645ff0\"",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=2592000",
+        "expires": "Mon, 04 May 2020 18:00:29 GMT",
+        "vary": "User-Agent",
+        "strict-transport-security": "max-age=63072000; preload"
+    },
+    "lang": "es",
+    "size": 379982,
+    "modified": 1586019961
+}

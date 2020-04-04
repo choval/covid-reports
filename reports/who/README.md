@@ -1,6 +1,10 @@
 # World Health Organization
 
 
+## 2020-04-04
+
+* [20200404-sitrep-75-covid-19.pdf](a2f063c76a804897a0ecea0e123d5c4837d8ba43/file.pdf) @17:16 GMT
+
 ## 2020-04-03
 
 * [20200403-sitrep-74-covid-19-mp.pdf](a498a074ec4d71dd0cfe7dee41f13a6762e40849/file.pdf) @17:17 GMT
