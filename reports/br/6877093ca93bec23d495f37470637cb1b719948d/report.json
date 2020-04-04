@@ -1,0 +1,26 @@
+{
+    "filename": "BE6-Boletim-Especial-do-COE.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/03\/BE6-Boletim-Especial-do-COE.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998219,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1510354",
+        "date": "Sat, 04 Apr 2020 11:03:38 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_21E6E6B7186FF6A95D58FD758A6BBDC8_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Sat, 04 Apr 2020 01:49:28 GMT",
+        "etag": "\"170bd2-5a26d3e8da7f7\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 d25cb96b3c4f731e4d2f3764ef7262af.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C2",
+        "x-amz-cf-id": "adETo3e9uwLJtj88qaizRfvLa0IJ6lsqrZSLiysfPZundqscNomFCQ=="
+    },
+    "lang": "pt",
+    "size": 1510354,
+    "modified": 1585964968
+}

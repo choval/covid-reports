@@ -1,0 +1,20 @@
+{
+    "filename": "Infografica_3aprile%20ENG.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/en\/coronavirus\/bollettino\/Infografica_3aprile%20ENG.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998509,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1062988",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 03 Apr 2020 17:44:14 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"2a428d7ddf9d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Sat, 04 Apr 2020 11:08:29 GMT"
+    },
+    "lang": "it,en",
+    "size": 1062988,
+    "modified": 1585935854
+}

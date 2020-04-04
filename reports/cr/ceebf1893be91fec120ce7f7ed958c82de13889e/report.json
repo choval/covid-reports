@@ -1,0 +1,19 @@
+{
+    "filename": "line_nac_manip_disp_final_cadav_diagn_sospecha_covid_v1_03042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/line_nac_manip_disp_final_cadav_diagn_sospecha_covid_v1_03042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998284,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 04 Apr 2020 11:04:44 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 03 Apr 2020 20:30:37 GMT",
+        "etag": "\"49ed3-5a268ca3f5540\"",
+        "accept-ranges": "bytes",
+        "content-length": "302803",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 302803,
+    "modified": 1585945837
+}

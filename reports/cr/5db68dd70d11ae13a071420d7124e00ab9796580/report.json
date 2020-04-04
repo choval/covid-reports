@@ -1,0 +1,19 @@
+{
+    "filename": "decreto_restriccion_diurna_03042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/decretos_cvd\/decreto_restriccion_diurna_03042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998302,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 04 Apr 2020 11:05:02 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 03 Apr 2020 22:16:32 GMT",
+        "etag": "\"65145-5a26a4508f000\"",
+        "accept-ranges": "bytes",
+        "content-length": "414021",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 414021,
+    "modified": 1585952192
+}

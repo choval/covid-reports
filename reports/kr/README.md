@@ -1,6 +1,11 @@
 # South Korea
 
 
+## 2020-04-04
+
+* [Press Release (April4)\_afternoon.pdf](9fc7e29c0021be2c71a5f84b0e387eaf35ef0545/file.pdf) @17:52 GMT
+* [Press Release (April4)\_morning.pdf](b002fc35f8298130104bb1fe7698c3663286fb8c/file.pdf) @13:32 GMT
+
 ## 2020-04-03
 
 * [Press\_Release\_(April3)\_Afternoon.pdf](e67c85003b3de5ba39fffe537a121a99ebb37df1/file.pdf) @17:54 GMT

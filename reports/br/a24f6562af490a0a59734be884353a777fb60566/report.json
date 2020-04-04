@@ -1,0 +1,26 @@
+{
+    "filename": "Ebook-SirioLibanes-PlanodeCriseCOVID19-LeannasEmerg--ncias-0304-espelhadas.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/03\/Ebook-SirioLibanes-PlanodeCriseCOVID19-LeannasEmerg--ncias-0304-espelhadas.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998236,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "18925809",
+        "date": "Sat, 04 Apr 2020 11:03:56 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_6BAA5417D643A5528CBF4F021AB0BCB6_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Fri, 03 Apr 2020 22:39:09 GMT",
+        "etag": "\"120c8f1-5a26a95f74973\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4ea19458fc8a784f9ca63c7eeca37a94.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "a6lrCJLy001A4e4yTDTacF7SBPig7p0L0pBHA9Ja6uncdcHz5xYJvw=="
+    },
+    "lang": "pt",
+    "size": 18925809,
+    "modified": 1585953549
+}

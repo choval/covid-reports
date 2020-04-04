@@ -3,10 +3,12 @@
 
 ## 2020-04-03
 
+* [sars-cov-2-survey-rsa-rapporto.pdf](59347ec84509d7aa694aa5ed350bf9a31851a567/file.pdf) @20:35 GMT
 * [C\_17\_notizie\_4390\_1\_file.pdf](138540325d56ef099c63bb309d1ef65fc8623c31/file.pdf) @20:26 GMT
 * [C\_17\_notizie\_4390\_0\_file.pdf](4e5356f67580220c853994ab4969073925172e75/file.pdf) @20:26 GMT
 * [C\_17\_notizie\_4392\_1\_file.pdf](31a0f476f687ab37c10df41674c9b8ac1d825375/file.pdf) @20:26 GMT
 * [C\_17\_notizie\_4392\_0\_file.pdf](84d75b101c49c76ee8d05009891ec671baac8ef7/file.pdf) @20:25 GMT
+* [Infografica\_3aprile ENG.pdf](608b6045282d742d2188417bd583b9658f202b40/file.pdf) @17:44 GMT
 * [Infografica\_3aprile ENG.pdf](3f20989071b9df0cac974325c3c0e88e483f0496/file.pdf) @17:44 GMT
 * [Report-COVID-2019\_2\_april\_2020.pdf](9af2a292e9743415615a42b6ec1ddeec4fccac4f/file.pdf) @17:44 GMT
 * [Bolletino-sorveglianza-integrata-COVID-19\_2-aprile-2020\_appendix.pdf](da13a899ec5d935375eb6ad57cec229fd5ee17c3/file.pdf) @17:40 GMT
@@ -22,6 +24,9 @@
 * [Infografica\_2aprile ENG.pdf](d62c38471e0b0d2a4e8d338263d8a68fc15bdd6a/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ITA.pdf](5356b6cd7bbd2e64cbeebdf9050786a22e73cac0/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ITA.pdf](c850a58046e66918025001c409915a0879a64437/file.pdf) @15:47 GMT
+* [lopinavir\_ritonavir\_02.04.2020.pdf](4546724f240cc52f3d397caedfff7d3a6ef96cc0/file.pdf) @15:32 GMT
+* [idrossiclorochina\_02.04.2020.pdf](4a1020fb9f4e2e87cc9f3acc8879707397d13c14/file.pdf) @15:32 GMT
+* [darunavir\_cobicistat\_02.04.2020.pdf](8d486df7cda7ece1c33d00c05cf192a8330f2fe0/file.pdf) @15:32 GMT
 * [C\_17\_notizie\_4377\_0\_file.pdf](390cc3dc671fa559a0cefbc333e5d808ec708601/file.pdf) @14:09 GMT
 
 ## 2020-04-01

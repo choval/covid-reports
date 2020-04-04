@@ -1,0 +1,31 @@
+{
+    "filename": "informe-situacion-relacion-coronavirus-covid-19-0",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-situacion-relacion-coronavirus-covid-19-0",
+    "output": "file.pdf",
+    "downloaded": 1585999163,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 04 Apr 2020 11:18:44 GMT",
+        "server": "Apache",
+        "x-frame-options": "ALLOW-FROM",
+        "x-powered-by": "PHP\/7.3.11",
+        "cache-control": "max-age=0, no-store",
+        "x-drupal-dynamic-cache": "MISS",
+        "link": "<https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-situacion-relacion-coronavirus-covid-19-0>; rel=\"canonical\", <https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-situacion-relacion-coronavirus-covid-19-0>; rel=\"revision\"",
+        "x-ua-compatible": "IE=edge",
+        "content-language": "es",
+        "x-content-type-options": "nosniff",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "vary": "Cookie",
+        "x-generator": "Drupal 8 (https:\/\/www.drupal.org)",
+        "content-security-policy": "frame-ancestors",
+        "x-drupal-cache": "HIT",
+        "last-modified": "Sat, 04 Apr 2020 11:18:43 GMT",
+        "etag": "\"1585999123\"",
+        "content-type": "text\/html; charset=UTF-8",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 89508,
+    "modified": 1585999167
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "COVID-EN-DOMICILIO-CAA.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/COVID-EN-DOMICILIO-CAA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998265,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 04 Apr 2020 11:04:13 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Sat, 04 Apr 2020 00:05:49 GMT",
+        "etag": "\"e195-5a26bcbdd9745\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_168_1958315=m52SVjbrME0VlTQUONtUArlpiF4AAAAAuzXko\/zak7y\/kah6QLBD\/Q==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "3-21359359-21359389 NNNY CT(0 0 0) RT(1585998265214 301) q(0 0 0 0) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 57749,
+    "modified": 1585958749
+}

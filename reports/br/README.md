@@ -1,8 +1,14 @@
 # Brazil
 
 
+## 2020-04-04
+
+* [BE6-Boletim-Especial-do-COE.pdf](6877093ca93bec23d495f37470637cb1b719948d/file.pdf) @01:49 GMT
+
 ## 2020-04-03
 
+* [Ebook-SirioLibanes-PlanodeCriseCOVID19-LeannasEmerg--ncias-0304-espelhadas.pdf](a24f6562af490a0a59734be884353a777fb60566/file.pdf) @22:39 GMT
+* [guia-de-vigilancia-2020.pdf](def3a122572694a63d7b94ebd13a5bf4dff9bd55/file.pdf) @22:32 GMT
 * [Portarias-publicadas-sobre-COVID.pdf](70c7b149e0097733794d079a21034f3f5b5b2a27/file.pdf) @19:39 GMT
 * [TELESUS-Outdoor-Social-2x1m.pdf](13f3bdd6992f7f2c181b148b096e499d35178601/file.pdf) @16:33 GMT
 * [Cartilha--Informa----es-Coronavirus.pdf](95a623ece8653be2489f70ae0f291031edde70c9/file.pdf) @14:14 GMT
@@ -83,11 +89,11 @@
 * [Contrato-42-2020.pdf](a3e168a7a65586a6024f11e42dc4959a22c39bf6/file.pdf) @20:48 GMT
 * [Contrato-41-2020.pdf](81373796c23089806490a84c1d938462809d269c/file.pdf) @20:48 GMT
 * [Contrato-40-2020.pdf](235adf64d9a0ed6af41b695fd3e1fd3c01aeb8de/file.pdf) @20:47 GMT
-* [Fluxogramas-COVID-19-SAES-4.pdf](6f588147b422a897fff75061144662c8fd64ce36/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-3.pdf](7c43f1cd84e287a00b245f8acbdc9b2c4555a3a1/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-1.pdf](e899e3fe03e290067f9852c825cabca1a53d5e81/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-5.pdf](12da41965296446327cb768a46ebbe326eeba17f/file.pdf) @03:00 GMT
 * [Fluxogramas-COVID-19-SAES-2.pdf](53ad952c40de6e9baee1759b218b9ffa6e1c8d4b/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-1.pdf](e899e3fe03e290067f9852c825cabca1a53d5e81/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-3.pdf](7c43f1cd84e287a00b245f8acbdc9b2c4555a3a1/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-4.pdf](6f588147b422a897fff75061144662c8fd64ce36/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-5.pdf](12da41965296446327cb768a46ebbe326eeba17f/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](a0fd35eac4c8644a93c2dfc3204d31c6d1668e02/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](d8885b9255f53d428c424e146ef92d4e2575acaa/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04---COE-COVID-19.pdf](7145ee40d26397e6f0645f1a811ac1fd087caece/file.pdf) @03:00 GMT

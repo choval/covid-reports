@@ -1,0 +1,22 @@
+{
+    "filename": "4026-coronavirus-ministro-de-salud-saluda-el-compromiso-de-el-alto-de-garantizar-el-acceso-a-centros-de-salud",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4026-coronavirus-ministro-de-salud-saluda-el-compromiso-de-el-alto-de-garantizar-el-acceso-a-centros-de-salud",
+    "output": "file.pdf",
+    "downloaded": 1585998203,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 04 Apr 2020 11:07:44 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=pgkbu27le2c1g4igpvq97grlv1; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Sat, 04 Apr 2020 11:07:44 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 659088,
+    "modified": 1585998212
+}

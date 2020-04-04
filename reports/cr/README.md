@@ -3,6 +3,11 @@
 
 ## 2020-04-03
 
+* [lineamientos\_servicios\_alimentacion\_v1\_03042020.pdf](e20c93d3061b3765f847b723a16dd44ea013f7be/file.pdf) @23:40 GMT
+* [decreto\_restriccion\_diurna\_03042020.pdf](5db68dd70d11ae13a071420d7124e00ab9796580/file.pdf) @22:16 GMT
+* [ms\_dm\_2593\_2020\_res\_minis\_reforma\_medidas\_sanitarias\_claus\_temp\_estab\_psf.pdf](88ba72aa84649367f7e5ff732c6992e7424841c6/file.pdf) @21:51 GMT
+* [lineam\_gener\_farm\_actuacion\_farmaceutico\_debido\_covid19\_v1\_03042020.pdf](0ec8970d095a1d33920fe051d25a17187619242f/file.pdf) @21:23 GMT
+* [line\_nac\_manip\_disp\_final\_cadav\_diagn\_sospecha\_covid\_v1\_03042020.pdf](ceebf1893be91fec120ce7f7ed958c82de13889e/file.pdf) @20:30 GMT
 * [1597-personas-hospitalizadas-y-en-cuidados-intensivos-continuan-en-aumento](0f4c4815dbd2a8d768b66d28565ff6418d2e6382/file.pdf) @20:23 GMT
 * [dm\_rm\_0865\_2020\_res\_minist\_reforma\_medidas\_sanit\_claus\_temp\_establec\_psf\_03042020.pdf](4c5f8a9d03251bf9352ec76a1ad5137f8f400ee2/file.pdf) @15:37 GMT
 
@@ -95,14 +100,14 @@
 * [lineamiento\_general\_condominios\_v3\_27032020.pdf](d09ec39f3dc46ed9ed0c241e15182e9f79fc92d3/file.pdf) @21:28 GMT
 * [lineamientos\_odontologos\_v2\_27032020.pdf](0854065e8d5791b42d36988b951129a5cca1b339/file.pdf) @21:08 GMT
 * [lineamientos\_generales\_empleados\_sector\_construccion\_v1\_27032020.pdf](802008ccea952d9c87571fdc480f7ac9808d5f3e/file.pdf) @21:07 GMT
+* [decreto\_42221\_S\_concentracion\_actividades\_masivas.pdf](cae75bdc191237484dc5a7f30f15a78009b18e6e/file.pdf) @04:00 GMT
 * [directriz\_073\_s\_mtss\_medidas\_coordinación\_interinstitucional.pdf](6ced6cf531ccdeb080e09f2eccc6382f66ab5c8b/file.pdf) @04:00 GMT
 * [decreto\_ejecutivo\_42248\_suspension\_contratos\_trabajo.pdf](ebca2d541e85286ac72f65b36867cafbdd88509b/file.pdf) @04:00 GMT
-* [decreto\_ejecutivo\_42227\_mp\_s\_declaratoria\_emergencia\_nacional.pdf](794770b76ea0aa8251d3938ba1523dc35027e44c/file.pdf) @04:00 GMT
 * [decreto\_42238\_mgp\_s\_medidas\_sanitarias\_materia\_migratoria.pdf](09b9b501a413fcd564ae8fc12885e18a22f91a70/file.pdf) @04:00 GMT
-* [decreto\_42221\_S\_concentracion\_actividades\_masivas.pdf](cae75bdc191237484dc5a7f30f15a78009b18e6e/file.pdf) @04:00 GMT
+* [decreto\_ejecutivo\_42227\_mp\_s\_declaratoria\_emergencia\_nacional.pdf](794770b76ea0aa8251d3938ba1523dc35027e44c/file.pdf) @04:00 GMT
+* [directriz\_076\_s\_suministro\_agua\_potable.pdf](7bf695f190402c44f114e08d5137581166c73690/file.pdf) @04:00 GMT
 * [decreto\_ejecutivo\_42253\_mopt\_s\_restriccion\_vehicular\_sanitaria.pdf](3366029fe5f3b82213a850d655a8c8d9b3707ac6/file.pdf) @04:00 GMT
 * [directriz\_077\_s\_mtss\_mideplan\_funcionamiento\_instituciones\_publicas.pdf](b0c6c4280ce0ca32e3c5d8e1f06b676ddb73bb3e/file.pdf) @04:00 GMT
-* [directriz\_076\_s\_suministro\_agua\_potable.pdf](7bf695f190402c44f114e08d5137581166c73690/file.pdf) @04:00 GMT
 
 ## 2020-03-26
 

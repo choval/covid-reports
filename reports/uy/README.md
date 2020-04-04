@@ -1,8 +1,13 @@
 # Uruguay
 
 
+## 2020-04-04
+
+* [informe-situacion-relacion-coronavirus-covid-19-0](f0c8a8dcafe03eaf7aa377be2ea9e483cb80cad6/file.pdf) @11:19 GMT
+
 ## 2020-04-03
 
+* [Procedimiento diagnóstico Covid-19 en PIAS.pdf](b00b5ca6fdcaeb4342b1862975247a565d84f3b1/file.pdf) @21:31 GMT
 * [actualmente-se-registran-369-casos-coronavirus-covid-19](88819c997138745ac759ef500cc2d332379d2c48/file.pdf) @20:33 GMT
 * [COVID-19 Vigilancia y diagnóstico 2-04-20.pdf](1d46850fbb1fd2acc269adc69a28f1eaf64e3ebb/file.pdf) @20:09 GMT
 * [MSP\_RECOMENDACIONES\_ODONTOLOGOS\_HIGIENISTAS\_DENTALES.pdf](8ac0c6de562607a0326a6b1a7dae711c4bba4290/file.pdf) @19:57 GMT

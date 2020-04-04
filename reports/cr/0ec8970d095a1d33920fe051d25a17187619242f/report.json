@@ -1,0 +1,19 @@
+{
+    "filename": "lineam_gener_farm_actuacion_farmaceutico_debido_covid19_v1_03042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineam_gener_farm_actuacion_farmaceutico_debido_covid19_v1_03042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998293,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 04 Apr 2020 11:04:52 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 03 Apr 2020 21:23:41 GMT",
+        "etag": "\"19eb24-5a26988075140\"",
+        "accept-ranges": "bytes",
+        "content-length": "1698596",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1698596,
+    "modified": 1585949021
+}

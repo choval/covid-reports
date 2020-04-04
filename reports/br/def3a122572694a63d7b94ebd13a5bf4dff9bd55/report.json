@@ -1,0 +1,26 @@
+{
+    "filename": "guia-de-vigilancia-2020.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/03\/guia-de-vigilancia-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1585998232,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "574645",
+        "date": "Sat, 04 Apr 2020 11:03:52 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_A7021860DEAB621AC7BB7DC54BDDB9FD_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Fri, 03 Apr 2020 22:32:35 GMT",
+        "etag": "\"8c4b5-5a26a7e776e75\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 915092a962e63573a018390dfbdde6a5.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "FLw9Uu-pRzLoOHfnu2fbXo2F6K_YzEIwUAOl8L874v_VK-0HglN0RA=="
+    },
+    "lang": "pt",
+    "size": 574645,
+    "modified": 1585953155
+}

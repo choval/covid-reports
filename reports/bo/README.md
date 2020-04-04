@@ -1,6 +1,12 @@
 # Bolivia
 
 
+## 2020-04-04
+
+* [4026-coronavirus-ministro-de-salud-saluda-el-compromiso-de-el-alto-de-garantizar-el-acceso-a-centros-de-salud](c206a773bbbf84eab5cf8c359e6c53368aaee2f2/file.pdf) @11:03 GMT
+* [4027-cruz-plantea-habilitar-hoteles-para-aislar-a-bolivianos-repatriados-y-evitar-el-contagio-del-covid-19](3357fdf7b005fe8c07eb5b02bde4bfe0ca2ddcbf/file.pdf) @11:03 GMT
+* [4028-139-casos-de-covid-19-en-bolivia-y-gobierno-habilita-500-unidades-de-terapia-intensiva](e25270eb7111cdeb6344515325bd5c52b946a403/file.pdf) @11:03 GMT
+
 ## 2020-04-03
 
 * [4023-gobierno-recibe-equipos-del-pnud-para-fortalecer-la-capacidad-de-diagnostico-del-covid-19](9b431cc91212a5b618d6aa3ac2ae2aa981127560/file.pdf) @20:19 GMT
