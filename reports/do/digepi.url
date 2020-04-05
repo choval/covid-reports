@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Materiales%20IEC%20COVID-19"
+ORG=Dominican Republic
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]*(ncov|covid|coronavirus)[^\"]*\.(pdf|jpg))[^\"]*\"/Ui"
+LANG=es

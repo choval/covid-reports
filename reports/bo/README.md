@@ -1,6 +1,10 @@
 # Bolivia
 
 
+## 2020-04-05
+
+* [4029-ministro-de-salud-inspecciona-en-los-yungas-la-capacidad-de-centros-de-salud-ante-el-coronavirus](eb7872e8799fcbbd48fae57f99533d190f657a60/file.pdf) @00:12 GMT
+
 ## 2020-04-04
 
 * [4026-coronavirus-ministro-de-salud-saluda-el-compromiso-de-el-alto-de-garantizar-el-acceso-a-centros-de-salud](c206a773bbbf84eab5cf8c359e6c53368aaee2f2/file.pdf) @11:03 GMT

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.msp.gob.do/web/?page_id=6547"
+ORG=Dominican Republic
+DOWNLOAD_REGEXP="/wpfd_downloadlink\" href=\"(?P<link>[^\"]+)\"/Ui"
+LANG=es

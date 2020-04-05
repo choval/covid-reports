@@ -1,0 +1,28 @@
+{
+    "filename": "Recomendaciones-para-pediatras-y-personal-de-salud-que-atiende-ni\u00c3\u00b1os-y-ni\u00c3\u00b1as-WEB.pdf",
+    "uri": "https:\/\/www.msp.gob.do\/web\/wp-admin\/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=60&wpfd_file_id=6894",
+    "output": "file.pdf",
+    "downloaded": 1586046406,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 05 Apr 2020 00:26:44 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubdomains",
+        "x-content-type-options": "nosniff",
+        "set-cookie": "PHPSESSID=9gl69s12lf9fb0fknnsl73jne6; path=\/",
+        "expires": "-1",
+        "cache-control": "public, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "public",
+        "x-robots-tag": "noindex",
+        "x-frame-options": "SAMEORIGIN",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "content-disposition": "attachment; filename=\"Recomendaciones-para-pediatras-y-personal-de-salud-que-atiende-ni\u00c3\u00b1os-y-ni\u00c3\u00b1as-WEB.pdf\"",
+        "content-length": "893087",
+        "accept-ranges": "bytes",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 893087,
+    "modified": 1586046410
+}

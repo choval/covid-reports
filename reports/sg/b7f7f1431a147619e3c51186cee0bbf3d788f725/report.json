@@ -1,0 +1,26 @@
+{
+    "filename": "EN_Infographic-Keep Our Seniors Safe.pdf",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/keep-our-seniors-safe\/pdf\/en_infographic-keep-our-seniors-safe.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586046340,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1265190",
+        "content-type": "application\/pdf",
+        "last-modified": "Sat, 04 Apr 2020 23:26:08 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"EN_Infographic-Keep Our Seniors Safe.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14382",
+        "date": "Sun, 05 Apr 2020 00:25:40 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=0ac9bce649c45e7967e35a9af818b7ca2e33342c80af9690acae9cd95bdb1278;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1265190,
+    "modified": 1586042768
+}

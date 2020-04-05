@@ -3,6 +3,7 @@
 
 ## 2020-04-04
 
+* [04-04-20-reporte-vespertino-covid-19.pdf](38a9af8409c32533ba0613f9aa696d702be56bbd/file.pdf) @23:24 GMT
 * [04-04-20\_reporte-matutino\_covid-19.pdf](2fbf5fd0d29b1f6ff317ca0b021fbc0edf3fe966/file.pdf) @18:24 GMT
 * [03-04-20\_reporte\_vespertino\_covid\_19.pdf](54a94bd1e9d0dd447ab7566f6012a14dd3deaabc/file.pdf) @13:53 GMT
 
@@ -19,7 +20,9 @@
 
 ## 2020-04-01
 
+* [2020040101NS.pdf](cb259310f65e8cae9c9390ed0df53a891eca5bee/file.pdf) @17:50 GMT
 * [01-04-20\_reporte\_matutino\_covid\_19.pdf](e1fec39e75277dc0098ee22887b2b2b59d014810/file.pdf) @12:47 GMT
+* [2020033101NS.pdf](0b849a69193db48dce184302c574e1ce014994bf/file.pdf) @02:33 GMT
 * [31-03-20-reporte-vespertino-covid-19.pdf](e904050deb6829dbf56f32f3e0803e67d4631f11/file.pdf) @01:55 GMT
 
 ## 2020-03-31
@@ -49,6 +52,8 @@
 
 ## 2020-03-26
 
+* [A6946.pdf](d8b21e21c2737ec2aaf58b1348d81b46a9a485ab/file.pdf) @22:15 GMT
+* [A6945.pdf](72f77ad8bcb70577142228ef79fd21eb76a37816/file.pdf) @17:27 GMT
 * [covid19\_informe-diario-matutino-26-03.pdf](4fdca3687084c98cacc11555958e267220624b63/file.pdf) @13:27 GMT
 * [25-03-20-reporte-diario-vespertino-covid-19.pdf](7044ee7649cf634588a7a10c3296e627e8e7dce5/file.pdf) @00:11 GMT
 
@@ -85,6 +90,7 @@
 
 ## 2020-03-16
 
+* [2020031601NS.pdf](76d2a8d21e97b9140876bdb8cfa9b61e72d0b2c9/file.pdf) @21:41 GMT
 * [16-03-20-reporte-diario-covid-19\_0.pdf](2d5d7d86eaac063cd48b157fbe643294b8bd42e0/file.pdf) @00:00 GMT
 
 ## 2020-03-15

@@ -1,0 +1,21 @@
+{
+    "filename": "Que%20es%20el%20coronavirus.jpg",
+    "uri": "http:\/\/digepisalud.gob.do\/docs\/Vigilancia%20Epidemiologica\/Alertas%20epidemiologicas\/Coronavirus\/Nacional\/Materiales%20IEC%20COVID-19\/Que%20es%20el%20coronavirus.jpg",
+    "output": "file.jpeg",
+    "downloaded": 1586045756,
+    "headers": {
+        "http-status": 200,
+        "connection": "Keep-Alive",
+        "content-length": "5515598",
+        "date": "Sun, 05 Apr 2020 00:18:28 GMT",
+        "content-type": "image\/jpeg",
+        "etag": "\"54294e-5a006acd38115\"",
+        "server": "Apache\/2.4.39 (Win32) PHP\/7.0.33",
+        "last-modified": "Wed, 04 Mar 2020 12:36:53 GMT",
+        "accept-ranges": "bytes",
+        "keep-alive": "timeout=5, max=100"
+    },
+    "lang": "es",
+    "size": 5515598,
+    "modified": 1583325413
+}

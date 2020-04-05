@@ -1,0 +1,30 @@
+{
+    "filename": "2020-03-30-self-monitoring-of-blood-pressure-in-pregnancy.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-03-30-self-monitoring-of-blood-pressure-in-pregnancy.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586044800,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "131295",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 05 Apr 2020 12:02:52 GMT",
+        "last-modified": "Mon, 30 Mar 2020 14:24:22 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D6069EE80C54D0\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=no-lY29B1gEkAAAAOWViZGRmYzUtOGM0Yy00NDYyLThiZDctOWMwNDliZTZlNGVjrv_SZZhv2dYRnUTbVF8h6Uok2Qk1; expires=Sat, 13-Jun-2020 10:42:52 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Sun, 05 Apr 2020 00:02:52 GMT"
+    },
+    "lang": "en",
+    "size": 131295,
+    "modified": 1585578262
+}

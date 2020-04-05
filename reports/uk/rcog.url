@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/"
+ORG=United Kingdom
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=en

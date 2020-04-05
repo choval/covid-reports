@@ -1,0 +1,21 @@
+{
+    "filename": "Guia%20de%20orientaciones%20basicas%20para%20el%20hogar%20y%20la%20comunidad%20para%20prevencion%20de%20COVID-19%20y%20otros%20virus%20respiratorios.pdf",
+    "uri": "http:\/\/digepisalud.gob.do\/docs\/Vigilancia%20Epidemiologica\/Alertas%20epidemiologicas\/Coronavirus\/Nacional\/Materiales%20IEC%20COVID-19\/Guia%20de%20orientaciones%20basicas%20para%20el%20hogar%20y%20la%20comunidad%20para%20prevencion%20de%20COVID-19%20y%20otros%20virus%20respiratorios.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586045694,
+    "headers": {
+        "http-status": 200,
+        "connection": "Keep-Alive",
+        "content-length": "383028",
+        "date": "Sun, 05 Apr 2020 00:17:25 GMT",
+        "content-type": "application\/pdf",
+        "etag": "\"5d834-5a0fd57f533e1\"",
+        "server": "Apache\/2.4.39 (Win32) PHP\/7.0.33",
+        "last-modified": "Mon, 16 Mar 2020 18:54:06 GMT",
+        "accept-ranges": "bytes",
+        "keep-alive": "timeout=5, max=98"
+    },
+    "lang": "es",
+    "size": 383028,
+    "modified": 1584384846
+}

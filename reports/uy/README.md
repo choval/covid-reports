@@ -1,8 +1,13 @@
 # Uruguay
 
 
+## 2020-04-05
+
+* [informe-especial-sobre-coronavirus-covid-19-0](acbfb64432bcc982c2b268d177db7337b105fa13/file.pdf) @00:27 GMT
+
 ## 2020-04-04
 
+* [Recomendaciones para OLLAS POPULARES.pdf](2fe4eac214dc2b5934e4f58b93a4e2a2442b9c10/file.pdf) @23:48 GMT
 * [informe-situacion-relacion-coronavirus-covid-19-0](f0c8a8dcafe03eaf7aa377be2ea9e483cb80cad6/file.pdf) @11:19 GMT
 
 ## 2020-04-03

@@ -1,0 +1,8 @@
+<h1>Error al establecer una conexión con la base de datos</h1>
+<p>Esto significa que, o la información de nombre de usuario y contraseña de tu archivo <code>wp-config.php</code> es incorrecto o que no podemos contactar con el servidor de la base de datos en <code>mysqlsrvmsp.mysql.database.azure.com</code>. Esto podría significar que el servidor de tu base de datos está caído.</p>
+<ul>
+<li>¿Estás seguro de que tienes el nombre de usuario y la contraseña correctos?</li>
+<li>¿Estás seguro de haber introducido el nombre de host correcto?</li>
+<li>¿Estás seguro de que funciona el servidor de la base de datos?</li>
+</ul>
+<p>Si no estás seguro de qué significan estos términos deberías contactar con tu servidor. Si aún necesitas ayuda siempre puedes visitar los <a href="https://es.wordpress.org/support/">foros de soporte de WordPress</a>.</p>

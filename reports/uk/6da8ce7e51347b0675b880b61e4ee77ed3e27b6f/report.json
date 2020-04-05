@@ -1,0 +1,30 @@
+{
+    "filename": "2020-03-30-guidance-for-antenatal-and-postnatal-services-in-the-evolving-coronavirus-covid-19-pandemic-20200331.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-03-30-guidance-for-antenatal-and-postnatal-services-in-the-evolving-coronavirus-covid-19-pandemic-20200331.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586044781,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "177527",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 05 Apr 2020 12:02:33 GMT",
+        "last-modified": "Tue, 31 Mar 2020 07:54:32 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D607319D286330\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=z6-OWG9B1gEkAAAAMTI5NGY3ZWEtOTcwZC00YTZiLTgxY2QtNGIxMDg5NWQxNmRhuzl91fIpufyBdpbCw-k-BF_tMx81; expires=Sat, 13-Jun-2020 10:42:33 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Sun, 05 Apr 2020 00:02:33 GMT"
+    },
+    "lang": "en",
+    "size": 177527,
+    "modified": 1585641272
+}

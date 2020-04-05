@@ -1,0 +1,30 @@
+{
+    "filename": "2020-03-25-covid19-fetal-medicine.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-03-25-covid19-fetal-medicine.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586044790,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "105724",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 05 Apr 2020 12:02:43 GMT",
+        "last-modified": "Thu, 26 Mar 2020 08:39:12 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D6034A0681A030\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=szcrXm9B1gEkAAAANzFlMzQ1MjQtZDgyZS00Zjg5LTkxNzgtYjM1OTBjMDQyMTM0VBHYOkI7BTfjGQyB0HS53Xwv4BU1; expires=Sat, 13-Jun-2020 10:42:43 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Sun, 05 Apr 2020 00:02:42 GMT"
+    },
+    "lang": "en",
+    "size": 105724,
+    "modified": 1585211952
+}

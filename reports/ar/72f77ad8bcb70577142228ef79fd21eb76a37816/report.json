@@ -1,0 +1,19 @@
+{
+    "filename": "A6945.pdf",
+    "uri": "http:\/\/bcra.gob.ar\/Pdfs\/comytexord\/A6945.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586046214,
+    "headers": {
+        "http-status": 200,
+        "content-length": "61112",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 26 Mar 2020 17:27:41 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"802435da933d61:0\"",
+        "date": "Sun, 05 Apr 2020 00:23:21 GMT",
+        "set-cookie": "TS9a50b177027=08403d584cab2000a7af63197059295e7c8f3a52e0542f719e8fef754d85ace5032d60e9ff581f5908962e5c84113000fe45f45673e734b41dd9cd3dc0081f8145342cf3b32b5aaf33df77a278fc58ffc0f15942adb0ac06d489451fc74514d6;Path=\/"
+    },
+    "lang": "es",
+    "size": 61112,
+    "modified": 1585243661
+}

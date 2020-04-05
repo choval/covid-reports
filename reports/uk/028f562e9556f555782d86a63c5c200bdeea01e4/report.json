@@ -1,0 +1,30 @@
+{
+    "filename": "2020-03-25-covid19-antenatal-screening.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-03-25-covid19-antenatal-screening.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586044786,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "112888",
+        "content-type": "application\/pdf",
+        "expires": "Sun, 05 Apr 2020 12:02:38 GMT",
+        "last-modified": "Thu, 26 Mar 2020 08:39:11 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D6034A060F2F50\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=uyl9W29B1gEkAAAAOWI5ZThjMDEtNGZlOC00YmU5LWE4MmYtM2NlMGY0M2Q3YzZmix7GV_vVQN9ShAXdWafO0axtJmA1; expires=Sat, 13-Jun-2020 10:42:38 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Sun, 05 Apr 2020 00:02:38 GMT"
+    },
+    "lang": "en",
+    "size": 112888,
+    "modified": 1585211951
+}

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.argentina.gob.ar/coronavirus/medidas-gobierno"
+ORG=Argentina
+DOWNLOAD_REGEXP="/href=\"[^\"]*(?P<link>http[s]?:\/\/[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=es

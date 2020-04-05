@@ -1,0 +1,24 @@
+{
+    "filename": "Recomendaciones%20para%20OLLAS%20POPULARES.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/Recomendaciones%20para%20OLLAS%20POPULARES.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586046432,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 05 Apr 2020 00:27:11 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Sat, 04 Apr 2020 23:48:29 GMT",
+        "etag": "\"16c9b-5a27fabc20da0\"",
+        "accept-ranges": "bytes",
+        "content-length": "93339",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Sun, 19 Apr 2020 00:27:11 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geote-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 93339,
+    "modified": 1586044109
+}

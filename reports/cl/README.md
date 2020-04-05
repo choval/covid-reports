@@ -3,6 +3,7 @@
 
 ## 2020-04-04
 
+* [Lista-Test-Rapidos-Covid-al-03\_04\_2020.pdf](956f4bc22890ffab5ae97c5b4407f1285cc6be4b/file.pdf) @21:14 GMT
 * [COVID-EN-DOMICILIO-CAA.pdf](cfc560a1e9dbf19c99ed57422f29565c30153c14/file.pdf) @00:05 GMT
 
 ## 2020-04-02

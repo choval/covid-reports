@@ -1,0 +1,21 @@
+{
+    "filename": "35-Preguntas-y-Respuestas-Sobre-el-Coronavirus-y-Falsos-Rumores.pdf",
+    "uri": "http:\/\/digepisalud.gob.do\/docs\/Vigilancia%20Epidemiologica\/Alertas%20epidemiologicas\/Coronavirus\/Nacional\/Materiales%20IEC%20COVID-19\/35-Preguntas-y-Respuestas-Sobre-el-Coronavirus-y-Falsos-Rumores.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586045651,
+    "headers": {
+        "http-status": 200,
+        "connection": "Keep-Alive",
+        "content-length": "308149",
+        "date": "Sun, 05 Apr 2020 00:16:42 GMT",
+        "content-type": "application\/pdf",
+        "etag": "\"4b3b5-5a1a17f2b5733\"",
+        "server": "Apache\/2.4.39 (Win32) PHP\/7.0.33",
+        "last-modified": "Tue, 24 Mar 2020 22:44:38 GMT",
+        "accept-ranges": "bytes",
+        "keep-alive": "timeout=5, max=100"
+    },
+    "lang": "es",
+    "size": 308149,
+    "modified": 1585089878
+}

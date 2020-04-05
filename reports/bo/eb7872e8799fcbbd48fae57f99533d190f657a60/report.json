@@ -1,0 +1,22 @@
+{
+    "filename": "4029-ministro-de-salud-inspecciona-en-los-yungas-la-capacidad-de-centros-de-salud-ante-el-coronavirus",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4029-ministro-de-salud-inspecciona-en-los-yungas-la-capacidad-de-centros-de-salud-ante-el-coronavirus",
+    "output": "file.pdf",
+    "downloaded": 1586045554,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 05 Apr 2020 00:16:55 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=rjjaokm3kfvf5as1a3p4cfvoh3; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Sun, 05 Apr 2020 00:16:55 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 700486,
+    "modified": 1586045567
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "Lista-Test-Rapidos-Covid-al-03_04_2020.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/Lista-Test-Rapidos-Covid-al-03_04_2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586045626,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 05 Apr 2020 00:13:30 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Sat, 04 Apr 2020 21:14:50 GMT",
+        "etag": "\"3853b-5a27d86384680\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_996_1958315=MZHxYrm+rkxL2bQh6Y3SDboiiV4AAAAAHQ31jMaXjUL4GEtwGWiA4w==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "12-26629060-26629123 NNNY CT(0 0 0) RT(1586045625851 347) q(0 0 0 0) r(2 2) U6"
+    },
+    "lang": "es",
+    "size": 230715,
+    "modified": 1586034890
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "2020033101NS.pdf",
+    "uri": "https:\/\/www.boletinoficial.gob.ar\/suplementos\/2020033101NS.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586046210,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 05 Apr 2020 00:23:30 GMT",
+        "last-modified": "Wed, 01 Apr 2020 02:33:46 GMT",
+        "etag": "\"72f8a-5a231837ac66f\"",
+        "accept-ranges": "bytes",
+        "content-length": "470922",
+        "content-type": "application\/pdf",
+        "set-cookie": "TS0101c369=012795accc7a589b96d6b56ed1025e3292eb9500551dddcb38e4757f35f6ba05b48962433551d588c7704978e9a282e8c621c9fdd1a9cd84b70071d92d5f77a68a700fa1c3; Path=\/; Domain=.www.boletinoficial.gob.ar"
+    },
+    "lang": "es",
+    "size": 470922,
+    "modified": 1585708426
+}
