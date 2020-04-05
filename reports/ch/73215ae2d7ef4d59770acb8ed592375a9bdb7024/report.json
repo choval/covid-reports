@@ -1,0 +1,24 @@
+{
+    "filename": "COVID-19_Epidemiologische_Lage_Schweiz.pdf",
+    "uri": "https:\/\/www.bag.admin.ch\/dam\/bag\/de\/dokumente\/mt\/k-und-i\/aktuelle-ausbrueche-pandemien\/2019-nCoV\/covid-19-lagebericht.pdf.download.pdf\/COVID-19_Epidemiologische_Lage_Schweiz.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586047427,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "441345",
+        "date": "Sun, 05 Apr 2020 00:43:47 GMT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "content-disposition": "attachment;",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 1c1b89f1f3c38ed1685254901bc8fb2d.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL51-C1",
+        "x-amz-cf-id": "jE9siGoH10LqBI_WUZ_c1y0zV1yA9ciAJFl5zwcb3CdJREBs-E4PCg=="
+    },
+    "lang": "de",
+    "size": 441345,
+    "modified": 1586047429
+}

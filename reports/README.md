@@ -27,7 +27,7 @@
 | [South Korea](kr/README.md) | 2020-04-04 17:52 GMT | [166](kr/README.md) | 1 |
 | [Spain](es/README.md) | 2020-04-04 09:38 GMT | [34](es/README.md) | 1 |
 | [Sweden](se/README.md) | 2020-04-01 14:45 GMT | [46](se/README.md) | 1 |
-| [Switzerland](ch/README.md) | 2020-03-27 02:41 GMT | [5](ch/README.md) | 1 |
+| [Switzerland](ch/README.md) | 2020-04-05 00:43 GMT | [6](ch/README.md) | 1 |
 | [Thailand](th/README.md) | 2020-04-04 15:02 GMT | [67](th/README.md) | 1 |
 | [United Arab Emirates](ae/README.md) | 2020-04-02 01:38 GMT | [30](ae/README.md) | 1 |
 | [United Kingdom](uk/README.md) | 2020-04-04 23:59 GMT | [84](uk/README.md) | 1 |

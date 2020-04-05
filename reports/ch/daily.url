@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL="https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html"
+ORG=Switzerland
+HASH_REGEXP="/(?P<hash><a href=\"[^\"]+19_Epidemiologische_Lage_Schweiz\.pdf[^\"][^\/]+<\/a>)/Uis"
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*19_Epidemiologische_Lage_Schweiz\.pdf)\"/Ui"
+LANG=de

@@ -1,6 +1,10 @@
 # Switzerland
 
 
+## 2020-04-05
+
+* [COVID-19\_Epidemiologische\_Lage\_Schweiz.pdf](73215ae2d7ef4d59770acb8ed592375a9bdb7024/file.pdf) @00:43 GMT
+
 ## 2020-03-27
 
 * [covid-19-faktenblatt-reatoromanisch.pdf](7e2144661e7651397df8168f098dfa00db3d7600/file.pdf) @02:41 GMT
