@@ -3,6 +3,14 @@
 * [https://d2jsqrio60m94k.cloudfront.net/](https://d2jsqrio60m94k.cloudfront.net/)
 
 
+## 2020-04-05
+
+* [coronavirus-telefonos.pdf](455218a0d3ac47520a144751459b9e9fece286f3/file.pdf) @17:14 GMT
+
+## 2020-04-04
+
+* [GPSG07.pdf](2ac4bb300cb745a78fd98824488a2da67916bdab/file.pdf) @23:39 GMT
+
 ## 2020-04-03
 
 * [GIPG16.pdf](35142d32a82035d081ce6bcf7e09e105dd14d823/file.pdf) @22:56 GMT

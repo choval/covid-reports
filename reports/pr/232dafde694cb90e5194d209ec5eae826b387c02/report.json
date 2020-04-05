@@ -1,0 +1,32 @@
+{
+    "filename": "DIY-cloth-face-covering-instructions.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/DIY-cloth-face-covering-instructions.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586122990,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "775102",
+        "content-type": "application\/pdf",
+        "expires": "Sat, 21 Mar 2020 21:43:10 GMT",
+        "last-modified": "Sun, 05 Apr 2020 13:45:09 GMT",
+        "etag": "\"{665762DD-7E39-4145-8F67-2EC5BA071A0D},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:665762DD-7E39-4145-8F67-2EC5BA071A0D@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "8fe7459f-6fab-a001-aaf9-3af6e2d6cb45",
+        "request-id": "8fe7459f-6fab-a001-aaf9-3af6e2d6cb45",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sun, 05 Apr 2020 21:43:10 GMT"
+    },
+    "lang": "es",
+    "size": 775102,
+    "modified": 1586094309
+}

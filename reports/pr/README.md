@@ -5,6 +5,10 @@
 * [http://www.salud.gov.pr/Pages/coronavirus.aspx](http://www.salud.gov.pr/Pages/coronavirus.aspx)
 
 
+## 2020-04-05
+
+* [DIY-cloth-face-covering-instructions.pdf](232dafde694cb90e5194d209ec5eae826b387c02/file.pdf) @13:45 GMT
+
 ## 2020-04-01
 
 * [Lista de Proveedores para Curso COVID-19.pdf](9eaf17cd84c6087f26f1002873e770da4f6e58bf/file.pdf) @14:15 GMT

@@ -1,0 +1,1820 @@
+Protocolo
+de Manejo Clínico
+da Covid-19
+na Atenção Especializada
+MINISTÉRIO DA SAÚDE
+Brasília – DF
+2020
+1ª edição revisada
+Protocolo
+de Manejo Clínico
+da Covid-19
+na Atenção Especializada
+MINISTÉRIO DA SAÚDE
+Secretaria de Atenção Especializada à Saúde
+Departamento de Atenção Hospitalar, Domiciliar e de Urgência
+Brasília – DF
+2020
+1ª edição revisada
+2020 Ministério da Saúde.
+Esta obra é disponibilizada nos termos da Licença Creative Commons – Atribuição – Não Comercial –
+Compartilhamento pela mesma licença 4.0 Internacional. É permitida a reprodução parcial ou total desta
+obra, desde que citada a fonte.
+A coleção institucional do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde do Ministério
+da Saúde: www.saude.gov.br/bvs. O conteúdo desta e de outras obras da Editora do Ministério da Saúde pode ser acessado na
+página: http://editora.saude.gov.br.
+Tiragem: 1ª edição revisada – 2020 – versão eletrônica
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE
+Secretaria de Atenção
+Especializada à Saúde
+Departamento de Atenção Hospitalar,
+Domiciliar e de Urgência
+Coordenação-Geral de Urgência
+Força Nacional do Sistema
+Único de Saúde
+Edifício PO 700, Quadra 701,
+lote D, 3º andar, Asa Norte
+CEP: 70719-040 – Brasília/DF
+Site: www.saude.gov.br
+Coordenação:
+Adriana Melo Teixera (SAES/MS)
+Francisco de Assis
+Figueiredo (SAES/MS)
+Marcelo de Oliveira
+Barbosa (SAES/MS)
+Rafael Leandro de
+Mendonça (SAES/MS
+Organização:
+Fernanda Luiza Hamze
+Pâmela Moreira Costa Diana
+Revisão técnica (1ª edição revisada)
+Ailton Cezáreo Alves Júnior (Médico
+Coordenador da Atenção Primária
+de Sabará/MG, Especialista em
+Pneumologia Sanitária – FCMMG)
+Amanda Santos Pereira (Médica
+Intensivista e Cardiologista –
+PROADI-SUS/Hospital Sírio-Libanês)
+Bruno de Melo Tavares (Médico
+Infectologista – PROADI -SUS/
+Hospital Alemão Oswaldo Cruz)
+Revisão técnica (1ª edição)
+Ailton Cezáreo Alves Júnior
+(Especialista em Pneumologia
+Sanitária – Fiocruz/MG)
+Bruno de Melo Tavares (Médico
+Infectologista – Proadi-SUS/
+Hospital Alemão Oswaldo Cruz)
+Júlio Henrique Rosa Croda (Médico
+Infectologista – SVS/MS)
+Leonardo Gomes Menezes
+(Médico – Samu/PE)
+Nancy Cristina Junqueira Bellei
+(Médica Infectologista – Unifesp/SP)
+Victor Bertollo Gomes Porto
+(Médico Infectologista – SVS/MS)
+Colaboração:
+Secretaria de Atenção Especializada
+à Saúde (SAES/MS):
+Ana Cristina Nogueira
+Nunes Jansem Ferreira
+Angela Ribeiro Vargas
+Paula Maria Raia Eliazar
+Tarciana da Silva Suassuna
+Secretaria de Atenção Primária
+em Saúde (SAPS/MS)
+Secretaria de Vigilância
+em Saúde (SVS/MS)
+Organização Pan-Americana
+da Saúde (OPAS)
+Núcleo de Comunicação SAES
+Tiago Santos de Souza
+Bruna Pedrosa Vianna Bonelli
+Maurício Euclydes de Lima
+Capa e projeto gráfico:
+Thiago Mares Castellan
+Editora responsável:
+MINISTÉRIO DA SAÚDE
+Secretaria-Executiva
+Subsecretaria de Assuntos
+Administrativos
+Coordenação-Geral de
+Documentação e Informação
+Coordenação de Gestão Editorial
+SIA, Trecho 4, lotes 540/610
+CEP: 71200-040 – Brasília/DF
+Tels.: (61) 3315-7790 / 3315-7794
+Site: http://editora.saude.gov.br
+E-mail: editora.ms@saude.gov.br
+Equipe editorial:
+Normalização: Delano de Aquino Silva
+Revisão: Khamila Silva
+Diagramação: Renato Carvalho
+Ficha Catalográfica
+Brasil. Ministério da Saúde. Secretaria de Atenção Especializada à Saúde. Departamento de Atenção Hospitalar, Domiciliar e
+de Urgência.
+Protocolo de manejo clínico da Covid-19 na Atenção Especializada [recurso eletrônico] / Ministério da Saúde, Secretaria
+de Atenção Especializada à Saúde, Departamento de Atenção Hospitalar, Domiciliar e de Urgência. – 1. ed. rev. – Brasília :
+Ministério da Saúde, 2020.
+48 p. : il.
+Nota: 1ª edição revisada da obra Protocolo de Manejo Clínico para o Novo Coronavírus (2019-nCoV).
+Modo de acesso: World Wide Web: http://bvsms.saude.gov.br/bvs/publicacoes/manejo_clinico_covid-19_atencao_
+especializada.pdf
+ISBN 978-85-334-2766-2
+1. Coronavírus. 2. Infecções por Coronavírus. 3. Protocolos clínicos. I. Título.
+CDU616-022.6:578.834
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2020/0113
+Título para indexação:
+Clinical Management Protocol for Covid-19
+Sumário
+INTRODUÇÃO 5
+OBJETIVOS 7
+Geral 7
+Específicos 7
+CARACTERÍSTICAS GERAIS SOBRE A INFECÇÃO
+PELO NOVO CORONAVÍRUS – SARS-COV-2 8
+Manifestações clínicas 8
+Condições e fatores de risco a serem considerados
+para possíveis complicações da síndrome gripal 9
+Complicações 10
+Diagnóstico 11
+Reconhecimento e classificação de pacientes com
+síndrome respiratória por SARS-CoV-2 11
+ATENDIMENTO E TRATAMENTO 13
+MANEJO CLÍNICO DE SÍNDROME RESPIRATÓRIA
+POR NOVO CORONAVÍRUS – SARS-COV-2 16
+Terapia e monitoramento precoces de suporte 16
+Prevenção de complicações 21
+RECOMENDAÇÕES PARA ACOMPANHANTES E/OU
+VISITANTES NOS SERVIÇOS DE ATENÇÃO ESPECIALIZADA
+EM SAÚDE DURANTE PANDEMIA DA COVID-19 23
+MEDIDAS DE PREVENÇÃO E CONTROLE 25
+MANEJO DE CORPOS NO CONTEXTO DO
+NOVO CORONAVÍRUS – COVID-19 26
+NOTIFICAÇÃO 27
+REFERÊNCIAS 28
+ANEXO – CONSENSO DE ESPECIALISTAS PARA O MANEJO CLÍNICO
+DA COVID-19 NO BRASIL: CRIANÇAS, GESTANTES E ADULTOS/IDOSOS 30
+Ministério da Saúde
+5
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+INTRODUÇÃO
+Em novembro de 2019 um surto de doença respiratória, causado pelo novo
+coronavírus (SARS-CoV-2), foi detectado na cidade de Wuhan, na China. Em
+dois meses foram confirmados milhares de casos de Covid-19 (atual denominação
+da doença), que resultaram em inúmeros óbitos. Em março de 2020, o novo
+coronavírus disseminou-se para mais de uma centena de países, continuando
+a causar doença respiratória e óbitos, especialmente em grupos de risco como
+idosos, gestantes, imunodeprimidos e outros.
+O mundo vivenciou duas epidemias anteriores de coronavírus – SARS e MERS,
+com as quais a Covid-19 apresenta similaridades. No entanto, esta epidemia
+se destaca pela rapidez de disseminação, a severidade e as dificuldades para
+contenção, tanto que a Organização Mundial da Saúde (OMS) declarou pandemia
+pelo novo coronavírus em 11 de março de 2020, e os países estão empreendendo
+enormes esforços para conter o surto e reduzir a letalidade.
+No Brasil, em 22 de janeiro de 2020, foi ativado o Centro de Operações de
+Emergências em Saúde Pública para o novo coronavírus (COE Covid-19),
+estratégia prevista no Plano Nacional de Resposta às Emergências em Saúde
+Pública do Ministério da Saúde.
+A vigilância epidemiológica de infecção humana pelo SARS-CoV-2 está sendo
+construída à medida que a OMS consolida as informações recebidas dos
+países e novas evidências técnicas e científicas são publicadas. Desse modo, o
+documento apresentado está sendo estruturado com base nas ações já existentes
+para notificação, registro, investigação, manejo e adoção de medidas preventivas,
+em analogia ao conhecimento acumulado sobre o SARS-CoV e MERS-CoV
+(que nunca ocorreram no Brasil), SARS-CoV-2 e no Protocolo de tratamento de
+Influenza: 2017 do Ministério da Saúde. Além disso, as recomendações também
+estão pautadas no Consenso de Especialistas para o Manejo Clínico da Covid-19
+(Anexo), realizado nos dias 10 e 11 de março de 2020, na sede da Organização
+Pan-Americana da Saúde/Organização Mundial da Saúde (Opas/OMS) em
+Brasília, quando estiveram reunidos especialistas nacionais e internacionais para
+discussão e aprofundamento sobre o assunto.
+Considerando a Portaria GM/MS n.º 454, de 20 de março de 2020, que declara,
+em todo o território nacional, o estado de transmissão comunitária do novo
+coronavírus (Covid-19), recomenda-se que todos os estabelecimentos de saúde
+estabeleçam diagnóstico sindrômico para o atendimento de casos suspeitos de
+Covid-19 independentemente do fator etiológico da doença.
+6
+Ministério da Saúde
+Como toda normatização e pela dinâmica da pandemia, este Protocolo está sujeito
+a ajustes decorrentes da sua utilização prática e das modificações do cenário
+epidemiológico, podendo sofrer alterações conforme novos conhecimentos acerca
+da doença forem divulgados.
+7
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+OBJETIVOS
+Geral
+Orientar a Rede de Serviços de Atenção à Saúde do SUS para atuação na
+identificação, na notificação e no manejo oportuno de casos suspeitos de infecção
+humana por SARS-CoV-2 de modo a mitigar a transmissão sustentada no
+território nacional.
+Específicos
+•
+• Atualizar os serviços de saúde com base nas evidências técnicas e científicas
+sobre o tema.
+•
+• Orientar os profissionais de saúde quanto ao manejo clínico da infecção
+humana pelo novo coronavírus.
+•
+• Apresentar os fluxos de manejo clínico e operacional da Covid-19 com
+ênfase nos serviços de atenção especializada (urgência e emergência
+hospitalar e não hospitalar).
+8
+Ministério da Saúde
+CARACTERÍSTICAS GERAIS
+SOBRE A INFECÇÃO PELO NOVO
+CORONAVÍRUS – SARS-COV-2
+Os coronavírus causam infecções respiratórias e intestinais em humanos e
+animais. A maioria das infecções por coronavírus em humanos são causadas
+por espécies de baixa patogenicidade, levando ao desenvolvimento de sintomas
+do resfriado comum, no entanto, podem eventualmente levar a infecções graves
+“especialmente” em grupos de risco.
+O SARS-CoV-2 é classificado como um Betacoronavírus do mesmo subgênero
+da Síndrome Respiratória do Oriente Médio (MERS), porém de outro subtipo.
+Sua transmissão entre humanos ocorre principalmente por meio do contato com
+pessoas sintomáticas (especialmente através das mãos não higienizadas) e pelo
+contato com gotículas respiratórias oriundas de pacientes. Ainda há controvérsias
+acerca da transmissão do vírus por pessoas assintomáticas.
+O período médio de incubação da infecção por SARS-CoV-2 é estimado em 5 a 6
+dias, com intervalo que pode variar de 0 a 14 dias.
+Manifestações clínicas
+O espectro clínico da infecção por SARS-CoV-2 é muito amplo. No entanto, os
+principais sinais e sintomas relatados são:
+•
+• Febre (≥37,8ºC)
+•
+• Tosse
+•
+• Fadiga
+•
+• Dispneia
+•
+• Mal estar e mialgia
+•
+• Sintomas respiratórios do trato superior
+•
+• Sintomas gastrointestinais (mais raros)
+Importante ressaltar que o perfil clínico não está estabelecido completamente,
+necessitando de mais investigações e tempo para caracterização da doença. Assim,
+9
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+tem se estabelecido a avaliação clínica e o tratamento a partir das definições de
+síndrome gripal (SG) e síndrome respiratória aguda grave (SRAG), baseados no
+Protocolo de Influenza do Ministério da Saúde (2017).
+O paciente acometido por SG pode manifestar febre de início súbito (mesmo
+que referida) acompanhada de tosse ou dor de garganta e pelo menos um dos
+seguintes sintomas: cefaleia, mialgia ou artralgia, na ausência de outro diagnóstico
+específico. Os pacientes com infecção viral não complicada do trato respiratório
+superior podem ter sintomas inespecíficos como: febre, fadiga, tosse (com ou
+sem produção de escarro), anorexia, mal-estar, dor muscular, dor de garganta,
+dispneia, congestão nasal ou dor de cabeça. Raramente, os pacientes também
+podem apresentar diarreia, náuseas e vômitos.
+Os idosos e as pessoas imunossuprimidas podem apresentar sintomas atípicos.
+Em gestantes, devido adaptações fisiológicas ou eventos adversos na gravidez,
+dispneia, febre, sintomas gastrointestinais ou fadiga podem se sobrepor aos
+sintomas da Covid-19.
+Infiltrados bilaterais em exames de imagem do tórax, aumento da proteína
+C-reativa e linfopenia evidenciada em hemograma são as alterações mais comuns
+observadas em exames complementares.
+Condições e fatores de risco a serem considerados para
+possíveis complicações da síndrome gripal
+1. Grávidas em qualquer idade gestacional, puérperas até duas semanas após
+o parto (incluindo as que tiveram aborto ou perda fetal).
+2. Adultos ≥ 60 anos.
+3. Crianças < 5 anos (sendo que o maior risco de hospitalização é em menores
+de 2 anos, especialmente as menores de 6 meses com maior taxa de
+mortalidade).
+4. População indígena aldeada ou com dificuldade de acesso.
+5. Indivíduos menores de 19 anos de idade em uso prolongado de ácido
+acetilsalicílico (risco de síndrome de Reye).
+6. Indivíduos que apresentem: pneumopatias (incluindo asma).
+7. Pacientes com tuberculose de todas as formas (há evidências de maior
+complicação e possibilidade de reativação).
+8. Cardiovasculopatias (incluindo hipertensão arterial sistêmica – à luz dos
+atuais conhecimentos existentes sobre Covid-19).
+10
+Ministério da Saúde
+9. Nefropatias.
+10.Hepatopatias.
+11.Doenças hematológicas (incluindo anemia falciforme).
+12.Distúrbios metabólicos (incluindo diabetes mellitus).
+13.Transtornos neurológicos e do desenvolvimento que podem comprometer
+a função respiratória ou aumentar o risco de aspiração (disfunção cognitiva,
+lesão medular, epilepsia, paralisia cerebral, síndrome de Down, acidente
+vascular encefálico – AVE ou doenças neuromusculares).
+14.Imunossupressão associada a medicamentos (corticoide, quimioterápicos,
+inibidores de TNF-alfa), neoplasias, HIV/aids ou outros.
+15.Obesidade (especialmente aqueles com índice de massa corporal (IMC)
+≥ 40 em adultos).
+Complicações
+As complicações mais comuns são síndrome respiratória aguda grave (SRAG)
+definida por presença de dispneia ou os seguintes sinais de gravidade:
+•
+• Saturação de SpO2 < que 95% em ar ambiente.
+•
+• Sinais de desconforto respiratório ou aumento da frequência respiratória
+avaliada de acordo com a idade.
+•
+• Piora nas condições clínicas de doença de base.
+•
+• Hipotensão1 em relação à pressão arterial habitual do paciente.
+•
+• Indivíduo de qualquer idade com quadro de insuficiência respiratória
+aguda durante o período sazonal.
+Em crianças: além dos itens anteriores, observar os batimentos de asa nasal,
+cianose, tiragem intercostal, desidratação e inapetência.
+1 Sinais e sintomas de choque que antecedem a hipotensão, tais como: diminuição da perfusão tecidual avaliada clinicamente,
+diurese diminuída em paciente ambulatorial, ou diurese menor que 0,5 ml/kg/h, aumento do tempo de enchimento capilar
+(>3s), palidez cutânea, alteração do nível de consciência.
+11
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+Diagnóstico
+Diagnóstico clínico
+O quadro clínico inicial da doença é caracterizado como síndrome gripal, no
+entanto, casos iniciais leves, subfebris podem evoluir para elevação progressiva da
+temperatura e a febre ser persistente além de 3-4 dias, ao contrário do descenso
+observado nos casos de influenza. O diagnóstico depende da investigação clínico-
+-epidemiológica e do exame físico.
+Embora a maioria das pessoas com Covid-19 tenha doença leve ou não
+complicada, algumas desenvolverão doença grave que requer oxigenoterapia
+(14%), e aproximadamente 5% necessitarão de tratamento em uma unidade de
+terapia intensiva (UTI). Dos doentes críticos, a maioria necessitará de ventilação
+mecânica. A pneumonia grave é o diagnóstico mais comum em pacientes que
+apresentam quadro grave de Covid-19.
+Diagnóstico laboratorial
+O diagnóstico laboratorial para identificação direta do vírus SARS-CoV-2 é
+realizado por meio das técnicas de RT-PCR em tempo real e sequenciamento
+parcial ou total do genoma viral. Outras informações importantes como:
+indicação e técnica de coleta, acondicionamento e envio das amostras podem ser
+consultados no tópico de Vigilância Laboratorial do Boletim Epidemiológico que
+se encontra disponível no Portal do Ministério da Saúde.
+Reconhecimento e classificação de pacientes com síndrome
+respiratória por SARS-CoV-2
+Os serviços de saúde devem adotar medidas para garantir que todos os casos
+suspeitos ou confirmados de infecção pelo SARS-CoV-2 ou outra infecção
+respiratória sigam os procedimentos de etiqueta respiratória e higiene das mãos
+durante o período de permanência na unidade. Para isso podem usufruir de
+alertas visuais (cartazes, placas, pôsteres) na entrada dos serviços e em locais
+estratégicos.
+A identificação dos pacientes suspeitos deve ser feita no primeiro ponto de contato
+do serviço de atenção especializada (UPA 24h, emergências hospitalares ou
+ambulatórios/clínicas). Apresentando sintomas respiratórios, eles devem receber
+uma máscara cirúrgica e serem direcionados por meio de fluxo diferenciado para
+área separada que disponha de suprimentos de higiene respiratória e das mãos
+acessível, além de possibilitar ao menos 1 metro de distância entre os assentos.
+12
+Ministério da Saúde
+O reconhecimento precoce de pacientes suspeitos, incluindo aqueles com
+doenças graves, possibilita o início oportuno de medidas adequadas, tratamentos
+de suporte otimizados e o encaminhamento e a admissão seguros e rápidos para
+leito de enfermaria hospitalar ou unidade de terapia intensiva designada para este
+fim, de acordo com os protocolos institucionais ou nacionais.
+Recomenda-se aos serviços de saúde o estabelecimento de fluxo diferenciado, com
+áreas exclusivas para o atendimento de pacientes com sintomas respiratórios e a
+implementação de coortes de pacientes acometidos pela Covid-19, na ausência/
+impossibilidade/escassez de áreas de isolamento. Além disso, indica-se que
+seja disponibilizada ala completa para atendimento aos pacientes com Covid-19
+evitando ocorrência de infecção cruzada e possibilitando racionalizar recursos
+e profissionais.
+Para apoio na organização dos serviços de atenção especializada, foram
+disponibilizados Fluxos Rápidos para atendimento de pacientes com sintomas
+respiratórios nas urgências. O material elaborado encontra-se disponível
+para consulta por meio do link: https://www.saude.gov.br/images/pdf/2020/
+marco/20/2-Etapa-Fluxogramas-COVID-19-SAES-Z.pdf.
+Diante do contexto epidemiológico atual, considerando também o aumento
+do risco de exposição em serviços de saúde, recomenda-se que a avaliação dos
+pacientes que procurem por atendimento nos diversos pontos de atenção, dê-se
+nas seguintes situações (observados sinais e sintomas):
+Unidades de Atenção Primária: sintomas respiratórios de vias aéreas superiores,
+febre e sem critérios de gravidade. É desejável a disponibilização de oxímetro
+portátil em serviços de atenção primária, para a avaliação adequada dos critérios
+de gravidade.
+Serviços de Atendimento de Urgência (UPA 24h, emergências hospitalares e não
+hospitalares): pacientes com sinais de agravamento (síndrome respiratória
+aguda grave), referenciados pela atenção primária ou que chegam ao serviço por
+demanda espontânea.
+13
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+ATENDIMENTO E TRATAMENTO
+No atendimento, deve-se levar em consideração os demais diagnósticos
+diferenciais pertinentes e o adequado manejo clínico. Em se tratando de síndrome
+gripal e impossibilidade de descartar, não retardar o início do tratamento com
+Fosfato de Oseltamivir nos pacientes com risco aumentado de complicações,
+conforme protocolo de tratamento de influenza.
+Em casos suspeitos ou confirmados para SARS-CoV-2 que não necessitem de
+hospitalização e o serviço de saúde opte pelo isolamento domiciliar, o médico
+poderá solicitar raio-x de tórax, hemograma e provas bioquímicas antes de serem
+dispensados para o domicílio, conforme avaliação clínica do paciente. Esses
+pacientes deverão receber orientações de controle de infecção, prevenção de
+transmissão para contatos e sinais de alerta para possíveis complicações. Um
+acesso por meio de comunicação rápida deve ser providenciado para eventuais
+dúvidas ou comunicados. A presença de qualquer sinal de alerta deverá
+determinar retorno e hospitalização imediata do paciente. Porém, é necessário
+avaliação individualizada do caso, considerando também se o paciente apresenta
+condições ou fatores de risco e se o ambiente residencial é adequado, e se o
+paciente é capaz de seguir as medidas de precaução recomendadas pela equipe
+de saúde responsável pelo atendimento.
+Todos os pacientes que receberem alta durante os primeiros sete dias do início do
+quadro devem ser alertados para a possibilidade de piora tardia do quadro clínico
+e sinais de alerta de complicações como: aparecimento de febre (podendo haver
+casos iniciais afebris), elevação ou recrudescência de febre ou sinais respiratórios,
+taquicardia, dor pleurítica, fadiga, dispneia.
+14
+Ministério da Saúde
+Quadro 1 – Síndromes clínicas associadas à infecção por SARS-CoV-2
+Doença branda
+Quadro compatível com infecção de vias aéreas superiores, sem sinais de
+desidratação, dispneia, sepse ou disfunção de órgãos.
+Os sinais e os sintomas mais comuns são: febre, tosse, dificuldade para
+respirar, dor na garganta, congestão nasal, cefaleia, mal-estar e mialgia.
+Imunossuprimidos, idosos e crianças podem apresentar quadro atípico e não
+apresentar sinais de desidratação, febre ou dificuldade para respirar.
+Em gestantes, devido adaptações fisiológicas ou eventos adversos na gravidez,
+dispneia, febre, sintomas gastrointestinais ou fadiga podem se sobrepor aos
+sintomas da Covid-19.
+Pneumonia sem complicações
+Infecção adulto do trato respiratório inferior sem sinais de gravidade.
+Criança sem sinais de pneumonia grave com tosse ou dificuldade para respirar
++ respiração rápida.
+Observação: Segue os valores de referência de frequência respiratória de acordo
+com a faixa etária para avaliação:
+• 1 a 12 meses: 30 a 53 irpm
+• 1 a 2 anos: 22 a 37 irpm
+• 3 a 5 anos: 20 a 28 irpm
+• Escolar: 18 a 25 irpm
+• Adolescente: 12 a 20 irpm.
+Pneumonia severa
+Adolescente ou adulto: infecção do trato respiratório inferior com algum dos
+seguintes sinais de gravidade descrito a seguir: frequência respiratória > 30
+incursões por minuto; esforço respiratório severo; SpO2 < 93% em ar ambiente;
+cianose; disfunção orgânica.
+Crianças com tosse ou dificuldade para respirar mais pelo menos um dos
+critérios seguintes:
+• cianose central ou spO2<90%;
+• esforço respiratório severo;
+• sinais de PNM com aspectos de gravidade (uso de musculatura
+acessória para respiração; incapacidade ou recusa de se amamentar ou
+ingerir líquidos; sibilância ou estridor em repouso; vômitos incoercíveis;
+alteração do sensório: irritabilidade ou sonolência; convulsões).
+A frequência respiratória que denota gravidade em crianças dependerá da
+idade, a saber:
+• <2meses: ≥60irpm
+• 2 a 11 meses: ≥50irpm
+• 1 a 5 anos: ≥40 irpm
+O diagnóstico é clínico. Imagens torácicas podem indentificar ou
+excluir complicações.
+continua
+15
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+Síndrome da angústia
+respiratória aguda (Sara)
+Início ou agravamento dos sintomas respiratórios, até uma semana do
+aparecimento da doença. Pode ainda apresentar: alterações radiológicas
+(infiltrados, opacidades bilaterais, atelectasia lobar/pulmonar ou nódulos);
+edema pulmonar não explicado por insuficiência cardíaca ou hiper-hidratação.
+Comprometimento da oxigenação em adultos e crianças:
+Adultos:
+• Sara leve: 200 mmHg < PaO2/FiO2 ≤ 300 mmHg (com Peep ou Cpap ≥
+5 cm H2O, ou não ventilado).
+• Sara moderada: 100 mmHg < PaO2/FiO2 ≤ 200 mmHg (com PEEP ≥ 5
+cm H2O, ou não ventilado).
+• Sara grave: PaO2/FiO2 ≤ 100 mmHg (com PEEP ≥ 5 cm H2O, ou não
+ventilado).
+• Quando a PaO2 não está disponível, a SpO2/FiO2 ≤ 315 sugere Sara
+(inclusive em pacientes não ventilados).
+Crianças:
+OI = Índice de Oxigenação e OSI = Índice de Oxigenação utilizando SpO2. Use a
+métrica baseada no PaO2, quando disponível. Caso o PaO2 não esteja disponível,
+desmame a FiO2 para manter a SpO2 ≤ 97% para calcular o OSI ou a relação
+SpO2/FiO2:
+• Ventilação não invasiva ou Cpap bi nível ≥ 5 cm H2O através de
+máscara facial completa: PaO2/FiO2 ≤ 300 mmHg ou SpO2/FiO2 ≤ 264.
+• Sara leve (com ventilação invasiva): 4 ≤ OI < 8 ou 5 ≤ OSI < 7,5.
+• Sara moderada (com ventilação invasiva): 8 ≤ OI < 16 ou 7,5 ≤ OSI < 12,3.
+• Sara grave (com ventilação invasiva): OI ≥ 16 ou OSI ≥ 12,3.
+Sepse
+Síndrome da resposta inflamatória sistêmica com disfunção orgânica na presença
+de infecção presumida ou confirmada. São sinais frequentes de disfunção
+orgânica: alteração do nível de consciência, oligúria, taqui e/ou dispneia, baixa
+saturação de oxigênio, taquicardia, pulso débil, extremidades frias, coagulopatia,
+trombocitopenia, acidose, elevação do lactato sérico ou da bilirrubina.
+Choque séptico
+Sepse acompanhada de hipotensão [pressão arterial média (PAM) < 65
+mmHg] a despeito de ressuscitação volêmica adequada e requerendo o uso de
+vasopressores para manter PAM>=65 mmHg.
+Crianças: qualquer tipo de hipotensão (SBP <5º percentil ou >2 DP abaixo do
+normal para a idade) ou dois ou três dos seguintes: estado mental alterado;
+taquicardia ou bradicardia (FC <90 bpm ou >160 bpm em menores de 12 meses
+e FC <70 bpm ou >150 bpm em crianças); preenchimento capilar prolongado
+(>2 seg) ou pulso fraco; taquipneia; pele manchada ou fria ou erupção petequial
+ou purpúrica; aumento do lactato; oligúria; hipertermia ou hipotermia.
+Fonte: World Health Organization, mar.2020, adaptado.
+Abreviaturas: IRA, infecção respiratória aguda; PA, pressão arterial; bpm, batimentos/minuto; Cpap, pressão positiva contínua
+das vias aéreas; FiO2, fração inspirada de oxigênio; PAM, pressão arterial média; VNI, ventilação não invasiva; OI, índice de
+oxigenação; OSI, índice de oxigenação utilizando SpO2; PaO2, pressão parcial de oxigênio; Peep, pressão positiva expiratória
+final; SBP, pressão arterial sistólica; DP, desvio-padrão; SIRS, síndrome de resposta inflamatória sistêmica; SOFA, avaliação
+sequencial de falência orgânica; SpO2, saturação de oxigênio.
+conclusão
+16
+Ministério da Saúde
+MANEJO CLÍNICO DE SÍNDROME
+RESPIRATÓRIA POR NOVO
+CORONAVÍRUS – SARS-COV-2
+Terapia e monitoramento precoces de suporte
+•
+• Administre oxigenoterapia suplementar imediatamente a pacientes com
+SRAG e dificuldade respiratória, hipoxemia ou choque com alvo em
+SpO2>94%.
+*Observações para adultos: Adultos com sinais de emergência (obstrução
+ou ausência de respiração, desconforto respiratório grave, cianose central,
+choque, coma ou convulsões) devem receber manejo das vias aéreas e
+oxigenoterapia durante a reanimação para atingir SpO2 ≥ 94%. inicie a
+oxigenoterapia a 5 L/min e avalie as taxas de fluxo para atingir a meta
+SpO2 ≥ 93% durante a reanimação; ou use máscara facial com bolsa
+reservatório (de 10-15 L/min) se o paciente estiver em estado crítico.
+Assim que o paciente se estabilizar, a meta é SpO2 > 90% em adultos não
+grávidos e ≥ 92%-95% em pacientes grávidas.
+*Observações para crianças: Crianças com sinais de emergência (obstrução
+ou ausência de respiração, desconforto respiratório grave, cianose central,
+choque, coma ou convulsões) devem receber manejo das vias aéreas e
+oxigenoterapia durante a reanimação para atingir SpO2 ≥ 94%; caso
+contrário, a meta é SpO2 ≥ 90%. O uso de cânula nasal é preferível em
+crianças pequenas, pois podem ser melhor toleradas.
+•
+• Use tratamento conservador de fluidos em pacientes com SRAG quando
+não houver evidência de choque.
+*Os doentes com SRAG devem ser tratados cautelosamente com fluidos
+intravenosos, porque a ressuscitação agressiva dos fluidos pode piorar
+a oxigenação, especialmente em ambientes onde a disponibilidade de
+ventilação mecânica é limitada. Isso se aplica aos cuidados de crianças
+e adultos.
+•
+• Administre antibiótico dentro de uma hora da avaliação inicial de pacientes
+com sepse, coletar culturas dentro de uma hora idealmente antes de iniciar
+o antibiótico e o descalone com base no resultado microbiológico ou
+julgamento clínico.
+17
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+•
+• Não administre rotineiramente corticosteroides sistêmicos para tratamento
+de pneumonia viral ou SRAG fora dos ensaios clínicos, a menos que sejam
+indicados por outro motivo.
+•
+• Monitore de perto os pacientes com SRAG quanto a sinais de complicações
+clínicas como insuficiência respiratória e sepse de progressão rápida e
+aplique intervenções de suporte imediatamente.
+* Os pacientes hospitalizados com SRAG requerem monitoramento regular
+dos sinais vitais e, sempre que possível, utilização de escores de alerta, que
+facilitam o reconhecimento precoce e a intensificação do tratamento do
+paciente em deterioração.
+*Os exames laboratoriais de hematologia e bioquímica e o ECG devem ser
+realizados na admissão e conforme clinicamente indicado para monitorar as
+complicações, como lesão hepática aguda, lesão renal aguda, lesão cardíaca
+aguda ou choque. A aplicação de terapias de suporte oportunas, eficazes e
+seguras é o pilar da terapia para pacientes que desenvolvem manifestações
+graves da Covid-19.
+*Após a ressuscitação e a estabilização da paciente grávida, o bem-estar fetal
+deve ser monitorado.
+•
+• Entenda as comorbidades do paciente para atendimento individualizado
+e prognóstico. Mantenha uma boa comunicação com o paciente e seus
+familiares.
+*Determine quais terapias crônicas devem ser continuadas e quais devem
+ser interrompidas temporariamente. Monitore interações medicamentosas.
+Tratamento da Insuficiência Respiratória Hipoxêmica e Síndrome
+Respiratória Aguda Grave – SRAG
+•
+• Reconheça a insuficiência respiratória hipoxêmica grave quando um
+paciente com dificuldade respiratória estiver com falha na oxigenoterapia
+padrão e prepare-se para fornecer suporte avançado de oxigênio / ventilação.
+*Caso esses pacientes necesssitem de O2 via cateter nasal maior que
+5 litros/minuto para sustentar SpO2 > 93% e/ou tenham frequência
+respiratória > 28 irpm ou retenção de CO2 (PaCO2 >50 mmHg e/ou
+pH < 7,25) devem ser intubados e ventilados mecanicamente imediatamente.
+•
+• Instituir ventilação mecânica precocemente em pacientes com insuficiência
+respiratória hipoxêmica persistente (apesar da oxigenoterapia), respeitando
+as medidas de precaução adequadas.
+•
+• A Agência Nacional de Vigilância Sanitária (Anvisa), por meio da Nota
+Técnica n.º 4/2020, contraindica o uso de ventilação mecânica não invasiva
+(VNI) e cateter nasal de alto fluxo (Cnaf) .
+18
+Ministério da Saúde
+•
+• Proceder com intubação endotraqueal caso o paciente não responda à
+oxigenioterapia. O procedimento deve ser realizado por um profissional
+treinado e experiente, utilizando precauções para aerossóis e contato.
+*Os pacientes com SRAG, especialmente as crianças pequenas ou pessoas
+que são obesas ou estão grávidas, podem dessaturar rapidamente durante
+a intubação. Pré-oxigene com FiO2 a 100% durante 5 minutos, através
+de uma máscara facial com bolsa reservatório, máscara com ambu. A
+intubação de sequência rápida é apropriada após uma avaliação das vias
+aéreas que não apresente sinais de intubação difícil.
+O paciente submetido à ventilação mecânica invasiva protetora poderá
+ser ventilado no modo volume ou pressão controlada (VCV ou PCV)
+com volume corrente igual a 6 ml/kg de peso predito e pressão de platô
+menor que 30 cmH2O, com pressão de distensão ou driving pressure
+(= Pressão de platô menos a PEEP) menor que 15 cmH2O. O ajuste
+da PEEP ideal permanece ainda não totalmente elucidado. Ajustar a
+menor PEEP suficiente para manter SpO2 entre 90-95%, com FiO2
+< 60% ( utilizar tabela PEEP/FIO2 da ARDSNet para PEEP baixa
+(“SARA LEVE”). Verificou-se que o uso de PEEP mais elevada (obtida
+pela tabela ARDSNet para PEEP elevada ou “SARA MODERADA E
+GRAVE”) demonstrou estar acarretando hiperinsuflação pulmonar
+e piora da evolução de parte dos pacientes com Corona Vírus
+(AMIB, 2020).
+•
+• Colocar pacientes com SRAG em posição prona pode melhorar a
+oxigenação, mas deve ser garantida a segurança do paciente.
+Nos casos de PaO2/FIO2 menores que 150, já com PEEP
+adequada pela tabela PEEP/FIO2, sugere-se utilizar ventilação
+protetora colocando o paciente em posição prona por no mínimo
+16 horas. Todos os cuidados e paramentação para procedimentos
+aerossolizantes de toda equipe assistente que irá realizar a rotação
+devem ser garantidos, devido ao alto poder infectante deste vírus
+e garantir o número adequado de profissionais de saúde para
+participarem do processo seguro de rotação. Para realização
+da rotação e para manutenção do paciente em posição prona
+deve-se prover adequada sedoanalgesia e se preciso for, curarização.
+O paciente poderá permanecer em decúbito supino se, após ser
+“despronado”, permanecer com PaO2/FIO2 > 150. Do contrário,
+pode-se considerar colocar novamente o paciente em posição prona
+(AMIB, 2020).
+•
+• Adotar estratégia conservadora de gerenciamento de fluidos para pacientes
+com SRAG sem hipoperfusão tecidual.
+•
+• Evitar que o paciente se desconecte do ventilador, o que resulta em perda
+de Peep e atelectasia.
+19
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+•
+• Use cateteres em linha para sucção das vias aéreas e realize o pinçamento
+do tubo endotraqueal quando for necessário desconectar (por exemplo,
+transferir para um ventilador de transporte ou troca de filtro HME).
+Gerenciamento do choque séptico
+•
+• Reconhecer o choque séptico em adultos quando houver suspeita ou
+confirmação de infecção e os vasopressores forem necessários para manter
+a pressão arterial média (PAM) ≥65 mmHg E o lactato é ≥2 mmol / L, na
+ausência de hipovolemia.
+•
+• Reconheça o choque séptico em crianças com qualquer hipotensão (pressão
+arterial sistólica [PAS] <5º centil ou> 2 DP abaixo do normal para a idade)
+ou 2-3 dos seguintes: estado mental alterado; taquicardia ou bradicardia
+(FC <90 bpm ou> 160 bpm em bebês e FC <70 bpm ou> 150 bpm em
+crianças); recarga capilar prolongada (> 2 s) ou vasodilatação quente com
+pulsos delimitadores; taquipneia; pele manchada ou erupção petequial ou
+purpúrica; aumento de lactato; oligúria; hipertermia ou hipotermia.
+* Observações: na ausência de uma medida de lactato, use a pressão
+arterial (por exemplo, PAM) e sinais clínicos de perfusão para definir o
+choque.Os cuidados padrão incluem o reconhecimento precoce e o uso dos
+seguintes tratamentos durante a primeira hora após o reconhecimento:
+terapia antimicrobiana, e início de carga de fluidos mais vasopressores para
+a hipotensão.
+•
+• Na ressuscitação do choque séptico (PAS< 90 mmHg, PAM <65 mmHg
+ou, eventualmente, redução da PAS em 40 mmHg da pressão habitual
+ou com sinais de hipoperfusão, entre eles níveis de lactato acima de duas
+vezes o valor de referência institucional (hiperlactatemia inicial)) em
+adultos, administre pelo menos 30 m/ kg de cristaloide adultos na primeira
+uma hora.
+•
+• Na ressuscitação do choque séptico em crianças em locais com bons
+recursos, administre 20 ml/kg em bolus rápido e até 40-60 ml/kg na
+primeira uma hora.
+•
+• Não use soluções hipotônicas ou baseadas em amidos para ressuscitação.
+•
+• Administre vasopressores quando o choque persistir durante ou após
+a ressuscitação hídrica. A meta inicial da pressão arterial é atingir
+PAM>65 mmhg.
+Uso de vasopressores para pacientes que permaneçam com
+pressão arterial média (PAM) abaixo de 65 (após a infusão de
+volume inicial), sendo a noradrenalina a droga de primeira escolha.
+Não se deve tolerar pressões abaixo de 65 mmHg por períodos
+superiores a 30-40 minutos. Por isso, o vasopressor deve ser
+20
+Ministério da Saúde
+iniciado dentro da primeira hora nos pacientes em que ele está
+indicado. Em casos de hipotensão ameaçadora à vida, pode-se
+iniciar o vasopressor mesmo antes ou durante a reposição volêmica.
+Se sinais de hipoperfusão persistirem, considerar uso de droga
+inotrópica (ILAS, 2018).
+•
+• Caso os cateteres venosos centrais não estiverem disponíveis,
+os vasopressores podem ser administrados por meio de um IV
+periférico, mas use uma veia grande e monitore de perto os sinais de
+extravasamento e necrose tecidual local. Caso ocorra extravasamento para
+a infusão, os vasopressores também podem ser administrados através de
+agulhas intraósseas.
+Recomenda-se prescrever fosfato de oseltamivir em pacientes com síndrome
+respiratória aguda (SRAG) sem diagnóstico etiológico, conforme o protocolo
+atual de SRAG. A prescrição poderá ser revista a partir da identificação do agente
+etiológico por meio de exame laboratorial, considerando que o oseltamivir não
+possui atividade contra SARS-CoV-2.
+Até o momento não há medicamento específico para o tratamento da Covid-19.
+No entanto, medidas de suporte devem ser implementadas. No atendimento,
+deve-se levar em consideração os demais diagnósticos diferenciais pertinentes e
+o adequado manejo clínico.
+Importante ressaltar que, conforme descrito na NOTA INFORMATIVA
+Nº 5/2020-DAF/SCTIE/MS, o Ministério da Saúde do Brasil disponibilizará
+para uso, a critério médico, o medicamento cloroquina como terapia adjuvante
+no tratamento de formas graves, em pacientes hospitalizados, sem que outras
+medidas de suporte sejam preteridas em seu favor. A presente medida considera
+que não existe outro tratamento específico eficaz disponível até o momento.
+Há dezenas de estudos clínicos nacionais e internacionais em andamento,
+avaliando a eficácia e a segurança de cloroquina/hidroxicloroquina para infecção
+pela Covid-19, bem como outros medicamentos, e, portanto, essa medida poderá
+ser modificada a qualquer momento, a depender de novas evidências científicas.
+O documento citado anteriomente encontra-se disponível em: https://www.saude.
+gov.br/images/pdf/2020/marco/30/MS---0014167392---Nota-Informativa.pdf.
+Para os pacientes imunocomprometidos, recomenda-se hospitalização e avaliar
+possibilidade de repetir o PCR (teste molecular) antes da alta hospitalar ou
+eventual transferência para quarto de enfermaria sem isolamento, devido à
+possibilidade de excreção prolongada. Pacientes que necessitarem de internação
+prolongada por outras comorbidades, devem ter também PCR (teste molecular)
+repetidos para eventual liberação de isolamento, independentemente de ausência
+de febre e de sintomas hospitalares.
+21
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+Conforme consenso de especialistas, foram elaborados fluxos para manejo clínico
+de gestantes, crianças e adultos/idosos. Os fluxos encontram-se disponíveis para
+consulta em:
+Fluxograma de Manejo Clínico de Gestantes na Atenção Especializada:
+https://www.saude.gov.br/images/pdf/2020/marco/25/Fluxo-de-manejo-cl--nico-
+de-gestantes.pdf.
+Fluxograma de Manejo Clínico Pediátrico na Atenção Especializada:
+https://www.saude.gov.br/images/pdf/2020/marco/25/Fluxo-de-manejo-cli--nico-
+pedia--trico.pdf.
+Fluxograma de Manejo Clínico do Adulto e Idoso na Atenção Especializada:
+https://www.saude.gov.br/images/pdf/2020/marco/25/Fluxo-de-Manejo-cl--nico-
+do-adulto-e-idoso.pdf.
+Prevenção de complicações
+Quadro 2 – Intervenções a serem implementadas para evitar complicações/
+agravos do paciente
+Resultado Antecipado Intervenções
+Reduzir dias de ventilação
+mecânica invasiva
+Utilizar protocolos de desmame que incluam avaliação diária da capacidade
+respiratória espontânea.
+Minimizar a sedação, contínua ou intermitente, visando a pontos
+finais de titulação específicos ou com interrupções diárias de infusões
+sedativas contínuas.
+Reduzir incidência de
+pneumonia associada à
+ventilação
+Prefira intubação oral à nasal e realize higiene oral regularmente.
+Mantenha o paciente em posição semireclinada (cabeceira elevada entre
+30° e 45°).
+Use sistema de sucção fechado; drene periodicamente e descarte o condensado
+em tubulação.
+Utilize um novo circuito de ventilação para cada paciente; realize a troca sempre
+que estiver sujo ou danificado, mas não rotineiramente.
+Troque o umidificador quanto houver mau funcionamento, sujidades ou a
+cada 5-7 dias, seguindo as recomendações do fabricante e de acordo com os
+protocolos definidos pela CCIH do serviço de saúde.
+Reduza o tempo de ventilação mecânica invasiva.
+Reduzir incidência de
+tromboembolismo venoso
+Use profilaxia farmacológica em pacientes sem contraindicação. Caso haja
+contraindicações, use profilaxia mecânica.
+Reduzir incidência de infecção
+sanguínea por catéter
+Adote uma lista simples de verificação para lembrete da data de inserção do
+cateter e sua remoção quando não for mais necessário.
+Minimizar ocorrência de
+úlceras de decúbito
+Promover mudança de decúbito a cada duas horas.
+continua
+22
+Ministério da Saúde
+Resultado Antecipado Intervenções
+Reduzir incidência de úlceras
+por estresse e sangramento
+gastrointestinal
+Ofertar nutrição enteral precoce (entre 24-48 horas da admissão).
+Administrar bloqueadores dos receptores de histamina-2 ou inibidores de
+bomba de prótons em pacientes com fatores para sangramento gastrointestinal
+(coagulopatias, hepatopatias, outros).
+Reduzir incidência de doenças
+relacionadas à permanência
+em UTI
+Mobilidade precoce do paciente no início da doença, quando for seguro realizar.
+Fonte: World Health Organization, mar. 2020, adaptado.
+Considerações especiais para gestantes
+Considerando-se que até o momento não existem evidências científicas que
+justifiquem manejo diferenciado da gestante com Covid-19, recomenda-se que
+sejam consideradas durante a avaliação: a idade gestacional, a condição materna,
+a viabilidade fetal.
+Assim, as gestantes suspeitas ou confirmadas devem ser tratadas com terapias
+de suporte, conforme descrito anteriormente, levando em consideração as
+adaptações fisiológicas da gravidez. O uso de agentes terapêuticos deve ser guiado
+por análise de risco-benefício individual baseada no benefício potencial para a
+mãe e a segurança do feto, com consulta de um especialista em obstetrícia e se
+pertinente e viável, comitê de ética.
+As decisões sobre o parto de emergência e a interrupção da gravidez são
+desafiadoras e baseadas em muitos fatores: idade gestacional, condição materna
+e estabilidade fetal. As consultas com especialistas em obstetrícia, neonatal e
+terapia intensiva (dependendo da condição da mãe) são de grande relevância em
+vez de essenciais, considerando a realidade do Brasil.
+Diante da possibilidade de interrupção prematura da gestação, o uso de corticoide
+para promover a maturidade pulmonar fetal deverá ser avaliado caso a caso,
+segundo orientação da Federação Brasileira das Associações de Ginecologia e
+Obstetrícia (Febrasgo).
+Em relação à cesariana em gestantes diagnosticadas com Covid-19, entre 26 e
+40 semanas de gestação não há indicação exclusiva para esse procedimento.
+No entanto, deverão ser mantidas as indicações obstétricas e/ou clínicas
+considerando caso a caso. O monitoramento fetal e de contrações uterinas das
+gestantes internadas por Covid-19, deverá seguir o protocolo vigente.
+Em mães infectadas pela Covid-19 é recomendada a manutenção do aleitamento
+materno, considerando o benefício do aleitamento e a ausência, até o momento,
+de evidências de transmissão do SARS-CoV-2 por essa via. Ressalta-se que todas
+as precauções deverão ser adotadas: higienização correta das mãos e uso de
+máscara enquanto estiver amamentando e cuidado do recém-nascido.
+conclusão
+23
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+RECOMENDAÇÕES PARA
+ACOMPANHANTES E/OU
+VISITANTES NOS SERVIÇOS
+DE ATENÇÃO ESPECIALIZADA
+EM SAÚDE DURANTE
+PANDEMIA DA COVID-19
+Considerando-se a pandemia da Covid-19 e com o objetivo de garantir segurança
+no atendimento aos pacientes, a integridade dos acompanhantes, visitantes
+e trabalhadores do serviço de saúde, assim como a prevenção de infecções,
+orienta-se:
+•
+• Em serviços de saúde estabelecidos como referência ou retaguarda para
+atendimento aos pacientes com Covid-19, suspender as visitas sociais a
+estes pacientes. Caso o serviço não possua fluxo diferenciado para circulação
+dos demais pacientes e acompanhantes, recomenda-se a suspensão de
+todas as visitas.
+•
+• Caso o serviço de saúde opte por manter uma rotina de visitas, deve-se
+reduzir a circulação das pessoas, o número de visitantes e estabelecer
+horários para sua realização, além de designar sala de espera ampla e
+ventilada separada dos demais atendimentos.
+•
+• Conversar com a família sobre a possibilidade de se manter um único
+acompanhante para o paciente durante o período de internação sendo este
+com idade entre 18 e 59 anos, sem doenças crônicas ou agudas. Ressalta-se
+que acompanhantes com faixa etária de risco maior para a Covid-19 ou com
+antecedentes de doenças crônicas/imunossupressão não devem estar na
+condição de acompanhantes.
+•
+• Proibir acompanhantes para os pacientes com síndrome gripal
+(exceto em condições previstas por lei: crianças, idosos e portadores de
+necessidades especiais).
+•
+• Evitar a entrada de acompanhantes/visitantes com sintomas respiratórios.
+24
+Ministério da Saúde
+•
+• Recomenda-se evitar visitas e acompanhantes a pacientes em unidade
+de terapia intensiva (UTI); Revezamentos de acompanhantes somente
+se necessário.
+•
+• Visitantes ou acompanhantes deverão evitar contato direto com o paciente.
+Caso seja necessário e haja possibilidade de contato com fluidos corporais,
+deverão ser fornecidas luvas e orientar higiene das mãos sempre que tocar
+o paciente.
+•
+• Solicitar a saída do acompanhante do quarto/enfermaria em caso de
+procedimentos geradores de aerossol.
+•
+• Seguir rigorosamente as principais medidas preventivas do Ministério da
+Saúde: lavar as mãos com água e sabão, na sua ausência, usar álcool em
+gel a 70%; cobrir nariz e boca com lenço descartável ao tossir ou espirrar
+– quem não o tiver, deve usar o antebraço como barreira, e não as mãos,
+para evitar tocar em locais que possam contaminar outras pessoas; evitar
+aglomerações; manter os ambientes bem ventilados; e não compartilhar
+objetos pessoais.
+Importante: Cada serviço de saúde tem autonomia para orientações
+específicas, considerando suas características próprias e as recomendações
+supracitadas de acordo com as orientações da Comissão de Controle de Infecção
+Hospitalar (CCIH).
+25
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+MEDIDAS DE PREVENÇÃO
+E CONTROLE
+A implementação de precauções padrão, contato e respiratória constituem a
+principal medida de prevenção da transmissão entre pacientes e profissionais de
+saúde e deve ser adotada no cuidado de todos os pacientes (antes da chegada ao
+serviço de saúde, na chegada, triagem, espera e durante toda assistência prestada),
+independentemente dos fatores de risco ou doença de base, garantindo que as
+políticas e práticas internas minimizem a exposição a patógenos respiratórios,
+incluindo o SARS-CoV-2.
+Sendo assim, é necessário que os serviços de saúde adotem medidas de prevenção
+e controle durante toda a assistência prestada aos casos suspeitos ou confirmados
+da Covid-19. Para subsidiar todos os serviços de saúde, a Anvisa disponibilizou
+a Nota Técnica n.º 4/2020 com orientações mínimas pautadas em evidências
+disponíveis e que serão atualizadas à medida que surjam novas informações. Pode
+ser consultada pelo link: http://portal.anvisa.gov.br/documents/33852/271858/
+Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-ANVISA/ab598660-3de4-
+4f14-8e6f-b9341c196b28.
+26
+Ministério da Saúde
+MANEJO DE CORPOS NO
+CONTEXTO DO NOVO
+CORONAVÍRUS – COVID-19
+Considerando-se a possível transmissão do SARS-CoV-2 por contato pessoa a
+pessoa e também por meio de fômites, é fundamental que os profissionais que
+realizam o manejo do corpo estejam protegidos da exposição a sangue e fluidos
+corporais infectados, objetos ou outras superfícies ambientais contaminadas.
+Portanto, para recomendações referentes ao manejo de corpos no contexto da
+Covid-19 e outras questões gerais acerca desses óbitos, o Ministério da Saúde
+disponibilizou documento on-line para consulta em: https://portalarquivos2.
+saude.gov.br/images/pdf/2020/marco/24/20200323-ProtocoloManejo-ver05.pdf.
+27
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+NOTIFICAÇÃO
+A infecção humana pelo SARS-CoV-2 é uma Emergência de Saúde Pública
+de Importância Internacional (ESPII), segundo anexo II do Regulamento
+Sanitário Internacional. Portanto, trata-se de um evento de saúde pública de
+notificação imediata.
+A fim de proceder com a adequada notificação do evento, seguir as orientações
+disponibilizadas pelo Ministério da Saúde no Boletim Epidemiológico que se
+encontra disponível em: https://portalarquivos.saude.gov.br/images/pdf/2020/
+April/03/guia-de-vigilancia-2020.pdf
+28
+Ministério da Saúde
+REFERÊNCIAS
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). Nota Técnica nº 04/2020.
+Orientações para serviços de saúde: medidas de prevenção e controle que devem ser adotadas
+durante a assistência aos casos suspeitos ou confirmados de infecção pelo novo coronavírus
+(SARS-CoV-2). Atualizada em 31 mar. 2020. Disponível em: http://http://portal.anvisa.gov.
+br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-ANVISA/
+ab598660-3de4-4f14-8e6f-b9341c196b28. Acesso em: mar. 2020.
+ASSOCIAÇÃO DE MEDICINA INTENSIVA BRASILEIRA. Orientações sobre o manuseio
+do paciente com pneumonia e insuficiência respiratória devido a infecção pelo Coronavírus
+(SARS-CoV-2). Versão n. 3, 2020. Disponível em: https://www.amib.org.br/fileadmin/
+user_upload/amib/2020/marco/29/Orientacoes_sobre_o_manuseio_do_paciente_com_
+pneumonia_e_insuficiencia_respiratoria_devido_a_infeccao_pelo_Coronavirus_SARS-CoV-2_-_
+Versao_n.032020.pdf. Acesso em: mar. 2020.
+BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos.
+Departamento do Complexo Industrial e Inovação em Saúde. Classificação de risco dos agentes
+biológicos. 3. ed. Brasília, DF: MS, 2017.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Boletim Epidemiológico, n. 1,
+Brasília, DF: Secretaria de Vigilância em Saúde SVS/MS-COE, Jan. 2020. Disponível em: http://
+portalarquivos2.saude.gov.br/images/pdf/2020/janeiro/28/Boletim-epidemiologicoSVS-28jan20.
+pdf. Acesso em: mar. 2020.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância
+das Doenças Transmissíveis. Protocolo de tratamento de Influenza: 2017. Brasília, DF: MS,
+2018. Disponível em: http://bvsms.saude.gov.br/bvs/publicacoes/protocolo_tratamento_
+influenza_2017.pdf. Acesso em: mar. 2020.
+CENTERS FOR DISEASE CONTROL AND PREVENTION. Interim Infection Prevention and
+Control Recommendations for Patients with Known or Patients Under Investigation for 2019
+Novel Coronavirus (2019-nCoV) in a Healthcare Setting, 2020. Disponível em: https://www.cdc.
+gov/coronavirus/2019-ncov/hcp/infection-control.html. Acesso em: mar. 2020.
+GUAN, W. et al. Clinical Characteristics of Coronavirus Disease 2019 in China. New england
+Journal of Medicine, 2020. Disponível em: https://www.nejm.org/doi/pdf/10.1056/NEJMoa20020
+32?articleTools=true. Acesso em: mar. 2020.
+HUANG, C. et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan,
+China. The Lancet, London, 2020. Disponível em: https://www.thelancet.com/action/showPdf?pi
+i=S0140-6736%2820%2930183-5. Acesso em: mar. 2020.
+INSTITUTO LATINO AMERICANO DE SEPSE. Implementação de protocolo gerenciado
+de Sepse: Protocolo Clínico. 2018. Disponivel em: https://www.ilas.org.br/assets/arquivos/
+ferramentas/protocolo-de-tratamento.pdf. Acesso em: mar. 2020.
+WEISS, S. L. et al. Surviving sepsis campaign international guidelines for the management of
+septic shock and sepsis-associated organ dysfunction in children. Intensive Care Medicine, 2020.
+Dísponível em: https://doi.org/10.1007/s00134-019-05878-6. Acesso em: mar. 2020.
+29
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+WORLD HEALTH ORGANIZATION. Advice on the use of masks the community, during home
+care and in health care settings in the context of the novel coronavirus (2019-nCoV) outbreak
+Interim guidance, 29 Jan. 2020. WHO/nCov/IPC_Masks/2020.1. Disponível em: https://www.
+who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance. Acesso em:
+mar. 2020.
+WORLD HEALTH ORGANIZATION. Clinical management of severe acute respiratory infection
+when novel coronavirus (2019-nCoV) infection is suspected: Interim guidance. Jan. 2020.
+Disponível em: https://www.who.int/publications-detail/clinical-management-of-severe-acute-
+respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected. Acesso em:
+mar. 2020.
+WORLD HEALTH ORGANIZATION. Clinical management of severe acute respiratory infection
+(SARI) when COVID-19 disease is suspected: Interim guidance. Mar. 2020. V. 1.2. Disponível
+em: https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-
+infection-when-novel-coronavirus-(ncov)-infection-is-suspected. Acesso em: mar. 2020.
+WORLD HEALTH ORGANIZATION. Novel Coronavirus (2019-nCoV) technical guidance. 2020.
+Disponível em: https://www.who.int/emergencies/diseases/novel-coronavirus-2019. Acesso em:
+mar. 2020.
+30
+Ministério da Saúde
+ANEXO – CONSENSO DE
+ESPECIALISTAS PARA O MANEJO
+CLÍNICO DA COVID-19 NO
+BRASIL: CRIANÇAS, GESTANTES
+E ADULTOS/IDOSOS
+Autores: Ministério da Saúde do Brasil
+Lista de colaboradores após bibliografia
+Palavras-chave: Covid-19; consenso; manejo clínico; tratamento; prevenção.
+Keywords: COVID-19; consensus; clinical management; treatment; prevention.
+Palabras clave: COVID-19; consenso; manejo clínico; tratamiento; prevención.
+Resumo: Consenso de especialistas sobre o manejo clínico de Covid-19 em
+crianças, gestantes e adultos/idosos. Considerando-se que as evidências sobre
+a eficácia de diferentes tratamentos para Covid-19, não são fortes o suficiente,
+especialistas nacionais e internacionais e de associações internacionais de saúde
+recomendaram medidas para subsidiar a atuação dos profissionais dos serviços de
+saúde no cuidado com os pacientes afetados pela doença. Aqueles pacientes com
+sintomas respiratórios de vias aéreas superiores e febre (> 37,8ºC), sem critérios
+de gravidade devem procurar Unidades de Atenção Primária de Saúde e aqueles
+com sinais de agravamento (síndrome respiratória aguda grave), referenciados
+pela atenção primária ou por demanda espontânea febre deverão ser atendidos
+pelos Serviços de Atendimento de Urgência (UPA 24h, emergências hospitalares).
+Todos especialistas concordaram com a utilização dos Protocolos de Tratamento de
+Influenza 2017 e da SRAG do Ministério da Saúde do Brasil, como norteador do
+manejo clínico dos pacientes infectados por SARS-CoV-2. Reconheceram que no
+Brasil toda ação de contingenciamento deverá ser particularizada e regionalizada,
+devido à expectativa de que a pandemia deve ocorrer em diferentes momentos
+de pico no País. Chegou-se a vários consensos sobre prevenção da transmissão
+entre pacientes e trabalhadores dos serviços de saúde e sobre a organização dos
+serviços de saúde.
+Abstract: Expert consensus on the clinical management of COVID-19 in
+children, pregnant women and adults/elderly. Considering that the evidence on
+the effectiveness of different treatments for COVID-19, is not strong enough,
+31
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+national and international experts and representatives of international health
+associations recommended measures to subsidize the performance of health
+service professionals in the care of patients affected by the disease. Those
+patients with respiratory symptoms of the upper airways and fever (> 37.8 ºC),
+without severity criteria, should seek Primary Health Care Units, and those
+with signs of worsening, referred by primary care services or by spontaneous
+demand, should be attended by Emergency Care Services (UPA 24h, hospital
+emergencies). All specialists agreed with the use of the Protocols for Influenza
+Treatment 2017 and for Severe Acute Respiratory Syndrome of the Ministry of
+Health of Brazil, as a guide for the clinical management of patients infected
+with SARS-CoV-2. They recognized that in Brazil every contingency action should
+be individualized and regionalized, due to the expectation that the pandemic
+should occur at different peak times within the country. Consensus was reached
+on preventing transmission between patients and health service workers, and on
+the organization of health services.
+Resumen: Consenso de expertos sobre el manejo clínico de COVID-19 en
+niños, mujeres embarazadas y adultos ancianos. Teniendo en cuenta que la
+evidencia sobre la efectividad de los diferentes tratamientos para COVID-19
+no es lo suficientemente sólida, los expertos nacionales e internacionales y de
+asociaciones internacionales de salud recomendaron medidas para subsidiar
+el desempeño de los profesionales de los servicios de salud en la atención
+de pacientes afectados por la enfermedad Aquellos pacientes con síntomas
+respiratorios de las vías respiratorias superiores y fiebre (> 37.8 ºC), sin criterios
+de gravedad, deben buscar Unidades de Atención Primaria de Salud y aquellos
+con signos de empeoramiento (Síndrome Respiratorio Agudo Severo), referidos
+por atención primaria o por la demanda espontánea deben ser atendidos por
+los Servicios de Atención de Emergencia (UPA 24h, emergencias hospitalarias).
+Todos los especialistas, acordaron el uso de los Protocolos de Tratamiento de
+la Influenza 2017 y del Síndrome Respiratorio Agudo Severo del Ministerio de
+Salud (MS) de Brasil, como guía para el manejo clínico de pacientes infectados
+con SARS-CoV-2. Reconocieron que en Brasil cada acción de contingencia debe
+ser individualizada y regionalizada, debido a la expectativa de que la pandemia
+ocurra en diferentes momentos de pico en el país. Se han alcanzado diversos
+consensos sobre la prevención de la transmisión entre pacientes y trabajadores
+de servicios de salud y sobre la organización de los servicios de salud.
+INTRODUÇÃO
+Em novembro de 2019 um surto de doença respiratória, causado pelo novo
+Coronavírus (SARS-CoV-2), foi detectado na cidade de Wuhan, na China. Em
+dois meses foram confirmados milhares de casos da nova doença Covid-19,
+que resultaram em inúmeros óbitos. Em março de 2020, o novo coronavírus
+disseminou-se para mais de uma centena de países, continuando a causar doença
+32
+Ministério da Saúde
+respiratória e óbitos, especialmente em grupos de risco como idosos, gestantes,
+imunodeprimidos e outros.
+O mundo vivenciou duas epidemias anteriores de coronavírus – SARS e MERS,
+com as quais a Covid-19 apresenta similaridades. No entanto, esta epidemia
+se destaca pela rapidez de disseminação, a severidade, e as dificuldades para
+contenção, tanto que a OMS declarou pandemia pelo novo coronavírus em
+11 de março de 2020, e os países estão empreendendo enormes esforços para
+conter o surto e reduzir a letalidade. O Brasil desde janeiro de 2020, ativou o
+Centro de Operações de Emergências (COE) em Saúde Pública para conter o
+novo coronavírus, lançando mão de todas suas capacidades para responder às
+emergências por síndromes respiratórias.
+Considerando-se que as evidências sobre a eficácia de diferentes tratamentos
+que foram adotados, principalmente na China, não são fortes o suficiente, o
+Ministério da Saúde realizou, em parceria com a Organização Pan-Americana
+da Saúde/Organização Mundial da Saúde (Opas/OMS), uma reunião técnica
+internacional de especialistas para discussão e atualização do manejo clínico para
+Covid-19 a fim de subsidiar a atuação dos profissionais dos serviços de saúde no
+cuidado com os pacientes afetados pela doença.
+O evento aconteceu nos dias 10 e 11 de março de 2020, na sede da Organização
+Pan-Americana da Saúde/Organização Mundial da Saúde (Opas/OMS), em
+Brasília. Participaram especialistas nacionais e internacionais de diversos países,
+assim como representantes das seguintes associações internacionais: Asociación
+Panamericana de Infectologia (API), Sociedad Latinoamericana de Infectologia
+Pediatrica (SLIPE) e a Federación Panamericana e Ibérica de Medicina Critica y
+Terapia Intensiva (FEPIMCTI).
+Os participantes foram convidados a compartilhar experiências no manejo clínico
+da Covid-19, revisar os dados e evidências mais recentes disponíveis e buscar
+consenso para manejo de casos e pacientes adultos, pediátricos e gestantes.
+A agenda iniciou-se com as boas-vindas da representante da Organização
+Pan- Americana da Saúde/Organização Mundial da Saúde, seguida de
+apresentação do ministro da Saúde que expressou as expectativas do Ministério
+da Saúde em relação ao evento. Em seguida, foram feitas apresentações sobre
+a situação atual da pandemia do novo coronavírus no mundo e no País pelo
+Ministério da Saúde (MS), e sobre as medidas tomadas pelo governo brasileiro.
+Especialistas da Espanha (videoconferência), Estados Unidos e Equador fizeram
+relatos da situação da epidemia em seus países e as medidas adotadas.
+33
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+METODOLOGIA
+O consenso de especialista foi alcançado após revisão da bibliografia fornecida
+pela Opas/OMS e pelo MS, anteriormente à reunião de consulta, com o objetivo
+de proporcionar aos participantes conhecimentos que pudessem conduzir a uma
+atenção adequada aos pacientes com Covid-19. Essa bibliografia apresentou dados
+consolidados das principais evidências científicas já publicadas no mundo acerca
+dos sintomas, do manejo, da transmissão e da prevenção da Covid-19.
+Após as sessões em plenária os participantes foram divididos em três grupos
+de consulta:
+•
+• Grupo 1: Manejo clínico de pacientes adultos/idosos
+•
+• Grupo 2: Manejo clínico de pacientes pediátricos
+•
+• Grupo 3: Manejo clínico de pacientes gestantes
+Cada grupo contou com um moderador e um relator, que ao final dos trabalhos
+apresentaram seus relatórios, que subsidiaram a elaboração deste documento.
+As discussões foram conduzidas por meio de perguntas estratégicas, direcionadas
+ao perfil de cada um dos três grupos, o que norteou a discussão em ambos os
+dias do evento.
+34
+Ministério da Saúde
+Quadro 1 – Perguntas para o Painel de Especialistas
+Gestantes Crianças Adultos/Idosos
+1. Quais sinais e sintomas apresentados pelo paciente podemos definir como de
+alarme e choque?
+2. Quais sinais e sintomas mínimos o paciente deverá apresentar para procurar
+cada um dos serviços de saúde:Atenção Primária à Saúde, Unidade de Pronto
+Atendimento ou Serviço Hospitalar?
+3. Qual seria o padrão ouro para indicar isolamento domiciliar ou alta?
+4. Quais serão os sinais e os sintomas para indicar internação em leitos clínicos?
+5. Quais serão os sinais e os sintomas para indicar internação na UTI?
+6. Após alta, quais sinais e sintomas indicam retorno imediato do paciente ao
+serviço de saúde que realizou o atendimento?
+7. Com base nos estudos disponíveis, podemos definir –preliminarmente –
+alguns critérios de gravidade? Em caso afirmativo, quais seriam?
+8. Quais seriam os critérios de hospitalização?
+9. Recomenda-se o início do tratamento com oseltamivir em pacientes com
+SRAG, que ainda não têm diagnóstico?
+10. Recomenda-se o uso de antibióticos para evitar sobre infecção?
+11. Ventilação mecânica precoce para evitar falha respiratória progressiva? Uso
+de ECMO?
+12. Recomenda-se o uso de hidratação parenteral?
+13. Existe um manejo diferencial segundo idade gestacional?
+14. Recomenda-se o uso de esteroides para maturação pulmonar fetal?
+15. Recomenda-se cesárea em gestantes com Covid-19 diagnosticados entre a 26
+e 40 semanas de gestação?
+16. Deve-SE incrementar o monitoramento fetal e das contrações uterinas nas
+gestantes positivas a Covid-19?
+17. Deve-se reduzir a estadia hospitalar – pós-parto – das gestantes com a
+Covid-19?
+18. Deve-se suspender o ultrassom de rotina e pré-natal das mulheres gestantes
+com a Covid-19?
+19. Recomenda-se o uso de surfactante na síndrome de desconforto respiratório
+do recém-nascido de mães recentemente diagnosticadas com a Covid-19?
+20. O RN de uma mulher recentemente diagnosticada com a Covid-19 deve ser
+colocado em isolamento?
+21. Recomenda-se o aleitamento materno do RN de uma mulher diagnosticada
+com a COVID-19?
+1. Quais sinais e sintomas apresentados pelo paciente podemos definir como
+de alarme e choque?
+2. Quais sinais e sintomas mínimos o paciente deverá apresentar para procurar
+cada um dos serviços de saúde:Atenção Primária à Saúde, Unidade de
+Pronto Atendimento ou Serviço Hospitalar?
+3. Qual seria o padrão ouro para indicar isolamento domiciliar ou alta?
+4. Quais serão os sinais e os sintomas para indicar internação em leitos
+clínicos?
+5. Quais serão os sinais e os sintomas para indicar internação na UTI?
+6. Após alta, quais sinais e sintomas indicam retorno imediato do paciente ao
+serviço de saúde que realizou o atendimento?
+7. Exames auxiliares de laboratório: quais devem ser solicitados, em que
+momento?
+8. Poderia utilizar no Brasil o critério de gravidade de Covid-19 proposto por
+Shen et al*?
+9. Quais seriam os critérios de hospitalização?
+10. Qual é a proposta de tratamento de suporte dos casos pediátricos
+sintomáticos?
+11. Recomenda-se o início do tratamento com oseltamivir em pacientes com
+SRAG, que ainda não têm diagnóstico?
+12. Qual é a proposta de tratamento dos casos graves?
+13. Recomenda-se o uso de antibióticos para evitar sobre infecção?
+14. Quais seriam os critérios de cura – fim do isolamento?
+1. Quais sinais e sintomas apresentados pelo paciente podemos definir como
+de alarme e choque?
+2. Quais sinais e sintomas mínimos o paciente deverá apresentar para procurar
+cada um dos serviços de saúde:Atenção Primária à Saúde, Unidade de
+Pronto Atendimento ou Serviço Hospitalar?
+3. Qual seria o padrão ouro para indicar isolamento domiciliar ou alta?
+4. Quais serão os sinais e os sintomas para indicar internação em leitos
+clínicos?
+5. Quais serão os sinais e os sintomas para indicar internação na UTI?
+6. Após alta, quais sinais e sintomas indicam retorno imediato do paciente ao
+serviço de saúde que realizou o atendimento?
+7. Recomenda-se o início do tratamento com oseltamivir em pacientes com
+SRAG, que ainda não tem diagnóstico?
+8. Com base nos estudos disponíveis, podemos definir – preliminarmente –
+alguns critérios de gravidade? Em caso afirmativo, quais seriam?
+9. Qual é a proposta de tratamento de suporte dos casos sintomáticos?
+10. Qual é a proposta de tratamento dos casos graves?
+11. Qual é a recomendação para manejo de líquidos?
+12. Recomenda-se o uso de antibióticos para evitar sobre infecção?
+13. Qual é a conduta a seguir em pacientes com comorbidade (cardiopatia,
+asma, diabetes etc.). Seguem o mesmo tratamento?
+14. A utilização de ventiladores de turbina é uma opção no atendimento a
+pacientes com Covid-19?
+15. Quais seriam os critérios de cura – fim do isolamento?
+16. Quais os parâmetros mínimos para adaptação de leitos clínicos hospitalares
+em leitos de terapia intensiva?
+17. Há uma estimativa de projeção (matemática) para quantitativo de leitos
+de UTI e abertura desses a partir de parâmetros epidemiológicos de
+transmissibilidade, morbilidade e letalidade da doença?
+*Shen K, Yang Y, Wang T, Zhao D, Jiang Y, Jin R, et al. Diagnosis, treatment, and prevention of 2019 novel coronavirus infection in children: experts’ consensus statement. World Journal of Pediatrics.
+35
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+RESULTADOS DO CONSENSO
+As discussões foram além dos parâmetros clínicos, de tratamento e de cuidados
+específicos para cada grupo de pacientes. Os especialistas abordaram e discutiram
+temas como vigilância, rastreamento exaustivo de contatos, restrições de contato
+social, educação em saúde preventiva (etiqueta social em saúde e a higiene das
+mãos), adiamento de cirurgias eletivas, a esperada sobrecarga de trabalho nas
+unidades de saúde (toda a rede do SUS) e outras estratégias para evitar propagação
+da infecção. Outro aspecto considerado, foi o fato de que o Brasil, devido às
+suas dimensões continentais, poderá conviver com situações epidemiológicas
+distintas durante a pandemia, demandando abordagens diferenciadas (contenção
+e mitigação) em relação à definição de caso suspeito, coletas de exames e medidas
+de isolamento, que poderão ser adaptadas de acordo com orientações da vigilância
+em saúde local, sob orientação do MS.
+Abordagem para atendimento aos pacientes com Covid-19 em todos os
+ciclos de vida
+Diante do contexto epidemiológico atual, considerando também o aumento
+do risco de exposição em serviços de saúde, recomenda-se que a avaliação dos
+pacientes que procurem por atendimento nos diversos pontos de atenção, dê-se
+nas seguintes situações (observados sinais e sintomas):
+Unidades de Atenção Primária: sintomas respiratórios de vias aéreas superiores
+e febre (Tax. > 37,8ºC), sem critérios de gravidade. Recomendou-se que seria
+desejável a disponibilização de oxímetro portátil em serviços de atenção primária,
+para a avaliação adequada dos critérios de gravidade.
+Serviços de Atendimento de Urgência (UPA 24h, emergências hospitalares):
+pacientes com sinais de agravamento (síndrome respiratória aguda grave),
+referenciados pela atenção primária ou por demanda espontânea.
+Considerando-se a inexistência de evidência científica robusta que subsidie o
+tratamento de pacientes com a Covid-19, todos os três grupos concordaram
+que fosse utilizado o Protocolo de Tratamento de Influenza 2017, do Ministério
+da Saúde (MS), como norteador do manejo clínico dos pacientes infectados por
+SARS-CoV-2 com pequenas alterações destacadas em cada eixo de discussão.
+Condições e fatores de risco a serem considerados para
+possíveis complicações:
+1. Grávidas em qualquer idade gestacional, puérperas até duas semanas após
+o parto (incluindo as que tiveram aborto ou perda fetal).
+2. Adultos ≥ 60 anos.
+36
+Ministério da Saúde
+3. Crianças < 5 anos (sendo que o maior risco de hospitalização é em menores
+de 2 anos, especialmente as menores de 6 meses com maior taxa de
+mortalidade).
+4. População indígena aldeada ou com dificuldade de acesso.
+5. Indivíduos menores de 19 anos de idade em uso prolongado de ácido
+acetilsalicílico (risco de síndrome de Reye).
+6. Indivíduos que apresentem: pneumopatias (incluindo asma). Pacientes
+com tuberculose de todas as formas (há evidências de maior complicação
+e possibilidade de reativação).
+7. Cardiovasculopatias (incluindo hipertensão arterial sistêmica – à luz dos
+atuais conhecimentos existentes sobre a Covid-19).
+8. Nefropatias.
+9. Hepatopatias.
+10.Doenças hematológicas (incluindo anemia falciforme). Distúrbios
+metabólicos (incluindo diabetes mellitus).
+11.Transtornos neurológicos e do desenvolvimento que podem comprometer
+a função respiratória ou aumentar o risco de aspiração (disfunção cognitiva,
+lesão medular, epilepsia, paralisia cerebral, síndrome de Down, acidente
+vascular encefálico (AVE) ou doenças neuromusculares).
+12.Imunossupressão associada a medicamentos (corticoide ≥ 20 mg/dia por
+mais de duas semanas, quimioterápicos, inibidores de TNF-alfa) neoplasias,
+HIV/aids ou outros.
+13.Obesidade (especialmente aqueles com índice de massa corporal –
+IMC ≥ 40 em adultos).
+Exame laboratorial
+Consensuou-se que o exame confirmatório para Covid-19 e a pesquisa viral
+deverão ser solicitados pelos profissionais dos serviços de saúde, seguidos de
+notificação imediata via formulário FORMSUS 2 (http:\\bit.ly/2019-ncov),
+conforme orientações atualizadas pelos Boletins Epidemiológicos do Ministério
+da Saúde.
+37
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+Recomendações dos especialistas para organização dos serviços de saúde
+Acerca da gestão dos hospitais e dos recursos humanos, recomenda-se que
+cada hospital faça e descreva seu inventário sobre capacidade física instalada,
+dimensionamento de pessoal, atendimento ambulatorial, áreas de isolamento,
+número total de leitos gerais e de UTI para elaboração do plano de contingência.
+Em se tratando de leitos de UTI, caso a capacidade instalada seja insuficiente
+para a demanda prevista, recomenda-se adaptar, primeiramente, as Salas de
+Recuperação Pós- Anestésica (RPA) em leitos de UTI Geral, priorizando os
+leitos de UTI já existentes para tratamento exclusivo de Covid-19 ou SRAG sem
+diagnóstico. Após a utilização da capacidade da RPA, sugere-se que os leitos
+clínicos ou áreas ociosas/inativadas sejam adaptados para atendimento intensivo
+de pacientes com Covid-19 ou leitos clínicos de retaguarda, com o objetivo de
+ampliar a capacidade desses serviços.
+Diante da necessidade de contingenciamento da equipe de profissionais de saúde,
+deverão ser observadas e seguidas as recomendações da Associação de Medicina
+Intensiva Brasileira. É imperativo o treinamento das equipes de enfermagem
+que atuam em outras alas dos hospitais para atendimento aos pacientes críticos
+durante a pandemia.
+O contingenciamento de procedimentos eletivos de hospitais deverá ser
+considerado de acordo com o momento epidemiológico local, especialmente,
+quando identificada a transmissão comunitária. No Brasil esse contingenciamento
+deverá ser particularizado e regionalizado, devido à expectativa de a pandemia
+ocorrer em diferentes momentos de pico no país.
+Recomenda-se aos serviços de saúde o estabelecimento de fluxo diferenciado,
+com áreas exclusivas para o atendimento de pacientes sintomáticos respiratórios e
+a implementação de coortes de pacientes acometidos pela Covid-19, na ausência/
+impossibilidade/escassez de áreas de isolamento. Além disso, indica-se que seja
+disponibilizada ala completa para atendimento aos pacientes com a Covid-19 para
+evitar infecção cruzada e possibilitar racionalização de recursos e profissionais.
+Prevenção da transmissão entre pacientes e trabalhadores dos serviços
+de saúde
+Diante da possibilidade de transmissão por contato, tendo sido discutidas as
+necessidades de se implementar coortes para os pacientes, estabelecimento
+de fluxos diferenciados e unidirecionais, tanto para pacientes quanto para
+trabalhadores dos serviços de saúde, deverão ser fortalecidas as ações para
+controle de infecção nas unidades de saúde, especialmente nas hospitalares. Para
+tanto, destacou-se que há conhecimentos sólidos e orientações precisas sobre
+prevenção e controle da transmissão de infecções, as quais estão disponíveis em
+documentos técnicos do Ministério da Saúde e da Anvisa.
+38
+Ministério da Saúde
+Considerando-se a possibilidade de transmissão por gotículas ou aerossóis,
+quando em uso de cateter de alto Fluxo de O2 e Ventilação Não Invasiva (VNI) os
+pacientes com Covid-19 devem, idealmente, ser isolados em um único ambiente.
+Para casos leves a VNI deve ser feita em ambientes seguros.
+Abordagem no atendimento às gestantes
+•
+• Gestantes que apresentem sintomas de síndrome gripal (febre>=38ºC
+aferida ou referida acompanhada de tosse ou dor de garganta) devem
+procurar os serviços de Atenção Primária à Saúde; e aquelas com sinais de
+gravidade devem procurar os serviços de urgência.
+•
+• Para aquelas que estejam em isolamento domiciliar, deverão ser seguidas
+as recomendações estabelecidas pela Atenção Primária à Saúde em seu
+protocolo de manejo clínico.
+•
+• Para indicar hospitalização devem ser considerados os sinais de
+agravamento e choque do Quadro 2.
+Quadro 2 – Sinais de agravamento e choque
+Sinais de agravamento
+• FC >100 bpm
+• FR ≥ 22 irpm
+• PAS ≤ 100 mmHg
+• Saturação de O2 < de 95%
+• Enchimento capilar > 2 segundos.
+• Diminuição do volume urinário.
+• Glasgow < 15
+• Dispneia/taquipneia
+• Alteração da ausculta pulmonar (crépitos)
+• Cianose
+• Tontura/ Confusão mental/agitação psicomotora/ torpor
+• Diminuição da movimentação fetal
+Sinais de choque
+• PAM < 65 mmHg
+• Lactato > 2 mMol/L
+• Insuficiência respiratória (SO2 < 95%, PaO2 < 70, PCO2 > 50, pH < 7,35)
+• Oligúria < 0,5 ml/kg/h
+•
+• O consenso obtido foi de que a presença dos sinais de agravamento
+especificados indica recomendação para internação em leito clínico. Já
+os sinais de choque devem ser considerados para admissão em leitos de
+terapia intensiva.
+•
+• O reaparecimento dos sinais de agravamento e choque indicam necessidade
+de retorno imediato da gestante que já tenha obtido alta aos serviços de
+saúde.
+•
+• Houve consenso que se deve prescrever oseltamivir em pacientes com
+síndrome respiratória aguda (SRAG) sem diagnóstico, conforme o protocolo
+39
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+atual de SRAG. A prescrição poderá ser revista a partir da identificação
+do agente etiológico por meio de exame laboratorial, considerando que o
+oseltamivir não possui atividade contra SARS-CoV-2.
+•
+• Não foi recomendado o uso de antibiótico profilático, mas o uso deve ser
+considerado a partir da suspeita de infecção bacteriana associada.
+•
+• Em relação ao manejo de gestantes com casos graves, foi consenso que
+deve ser ofertado suporte ventilatório que garanta a oxigenação adequada
+da paciente (PaO2 > 70 mmHg) e que o uso de circulação extracorpórea
+com oxigenador de membrana (Ecmo) deverá ser indicado conforme os
+protocolos vigentes de Medicina Intensiva.
+•
+• Diante da possibilidade de interrupção prematura da gestação, o uso de
+corticoide para promover a maturidade pulmonar fetal deverá ser avaliado
+caso a caso, segundo orientação da Febrasgo.
+•
+• Em relação à cesariana em gestantes diagnosticadas com Covid-19,
+entre 26 e 40 semanas de gestação não há indicação exclusiva para esse
+procedimento. No entanto, deverão ser mantidas as indicações obstétricas
+e/ou clínicas considerando caso a caso.
+•
+• O monitoramento fetal e de contrações uterinas das gestantes internadas
+pela Covid-19, deve seguir o protocolo vigente.
+•
+• Não há recomendação de antecipação da alta hospitalar em puérperas
+infectadas pela Covid-19, até o momento.
+•
+• Para gestantes em isolamento domiciliar, recomenda-se o reagendamento
+de exames e de consultas da rotina de pré-natal para período imediatamente
+posterior ao término do isolamento, devendo ser garantida a remarcação
+no serviço de referência.
+•
+• Em mães infectadas pela Covid-19 é recomendada a manutenção do
+aleitamento materno, considerando o benefício do aleitamento e a ausência,
+até o momento, de evidências de transmissão do SARS-CoV-2 por essa via.
+•
+• Ressalta-se que todas as precauções deverão ser adotadas: higienização
+correta das mãos e o uso de máscara enquanto estiver amamentando e
+cuidando do recém-nascido.
+•
+• Considerando-se que até o momento não existem evidências científicas que
+justifiquem manejo diferenciado da gestante com Covid-19, recomenda-se
+que sejam consideradas durante a avaliação: a idade gestacional, a condição
+materna, a viabilidade fetal e o desejo materno.
+40
+Ministério da Saúde
+Abordagem no atendimento de pacientes pediátricos
+Os dados preliminares sobre a Covid-19 apontam que a maioria das crianças e
+adolescentes infectados poderão ser assintomáticos ou oligossintomáticos, com
+sintomas de vias aéreas superiores leves, sem associação com gravidade.
+Assim, cumpre destacar a impossibilidade de diferenciar clinicamente os
+sintomas causados pelo SARS-CoV-2 daqueles causados por outras etiologias
+virais. Para o manejo clínico da criança e/ou adolescente com quadro de síndrome
+gripal de etiologia indeterminada, foi indicado que se adote as recomendações
+estabelecidas no Protocolo de SRAG e de Síndrome Gripal do Ministério
+da Saúde.
+Embora não existam evidências na literatura atual, que permitam definir um
+padrão ouro para isolamento domiciliar, do ponto de vista epidemiológico, é
+recomendado o isolamento domiciliar em casos suspeitos ou confirmados, que
+não apresentem critérios de gravidade ou condições crônicas subjacentes, com o
+objetivo de reduzir o número de pessoas expostas.
+•
+• Os pacientes pediátricos com fatores de risco para evolução com gravidade
+(imunossuprimidos, recém-nascidos ou lactentes menores de 3 meses)
+deverão ser avaliados por equipe de saúde, independentemente da presença
+de febre ou sinais de gravidade.
+•
+• É indicada a internação de crianças com diagnóstico de síndrome
+respiratória aguda (SRAG). Além de avaliar os sinais e os sintomas do
+diagnóstico de SRAG, é importante considerar também os batimentos de
+aleta nasal, cianose, tiragem intercostal, desidratação e inapetência como
+sinais de agravamento.
+•
+• Crianças com sinais e sintomas de insuficiência respiratória, incluindo
+hipoxemia persistente (PaO2 abaixo de 60 mmHg ou SatO2 menor que
+90% ) ou sinais de esforço respiratório moderado a grave, apesar de
+suplementação de oxigênio; instabilidade hemodinâmica não responsiva
+ao volume e evolução para outras disfunções orgânicas, como insuficiência
+renal aguda e disfunção neurológica, identificadas em avaliação clínica ou
+laboratorial devem ser internadas em unidades de terapia intensiva.
+Além disso, os sinais e os sintomas no Quadro 3 podem ser associados com
+evolução para condições clínicas graves:
+41
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+Quadro 3 – Sinais e sintomas de agravamento
+• Persistência ou retorno da febre.
+• Recusa alimentar que impacte na aceitação de líquidos por via oral, redução de diurese, vômitos incoercíveis.
+• Taquipneia de acordo com faixa etária, com aumento do esforço respiratório (batimento de aletas do nariz,
+tiragem intercostal, supra/subesternal, supraclavicular, subcostal, contração da musculatura acessória da
+respiração e movimento paradoxal do abdome).
+• Bradipneia e ritmo respiratório irregular (colapso respiratório iminente).
+• Gemidos expiratórios (colapso alveolar e de pequenas vias aéreas ocasionado pelo fechamento da glote na
+expiração na tentativa de aumento da capacidade residual funcional pulmonar).
+• Estridor inspiratório (obstrução de vias aéreas superiores).
+• Sibilos e aumento do tempo expiratório (obstrução de vias aéreas inferiores).
+• Palidez cutânea e hipoxemia (SpO2 < 94%).
+• Alteração do sensório (confusão mental, sonolência, letargia).
+• Taquicardia, perfusão capilar periférica lentificada, acompanhados ou não de hipotensão arterial (de acordo
+com faixa etária).
+• Desidratação.
+• Exacerbação de doença preexistente.
+•
+• Definiu-se que os critérios clínicos de alta hospitalar devem levar em
+conta a melhora do quadro clínico, a ausência de taquidispneia e hipóxia,
+a ausência de suplementação de O2 por tempo mínimo de 24 horas,
+a estabilidade hemodinâmica, a boa aceitação de via oral e a ausência
+de febre.
+•
+• O reaparecimento de taquicardia, recidiva de febre, piora de estado geral
+ou dos sintomas respiratórios indicam necessidade de retorno imediato da
+criança que já tenha obtido alta dos serviços de saúde.
+•
+• Houve consenso que se deve prescrever oseltamivir em pacientes com
+SRAG sem diagnóstico, conforme o protocolo vigente para a síndrome. A
+prescrição poderá ser revista a partir da identificação do agente etiológico
+por meio de exame laboratorial, considerando que o oseltamivir não possui
+atividade contra SARS-CoV-2.
+•
+• Não foi recomendado uso profilático de antibióticos, mas o uso deve ser
+considerado a partir da suspeita de infecção bacteriana associada.
+•
+• Recomenda-se que pacientes graves, sem confirmação etiológica de
+Covid-19, sejam manejados conforme protocolo de SRAG e que o
+tratamento de suporte tenha ênfase na reversão de hipoxemia. A indicação
+de ventilação mecânica deverá seguir protocolos pediátricos de ventilação
+protetora em pacientes com Sara.
+•
+• Ademais, em pacientes com diagnóstico específico de Covid-19, os
+glicocorticoides não devem ser prescritos rotineiramente, uma vez que
+não existem evidências de seu benefício na infecção por SARS-CoV-2. No
+entanto, podem ser considerados em situações específicas, em que haja
+indicação clara para sua utilização.
+42
+Ministério da Saúde
+•
+• Sendo o isolamento domiciliar considerado alternativa para o caso
+suspeito, provável ou confirmado de Covid-19, deverão ser seguidas as
+recomendações estabelecidas pela Atenção Primária à Saúde em seu
+protocolo de manejo clínico.
+•
+• De acordo com boas práticas assistenciais, exames laboratoriais ou de
+imagem em crianças que não apresentam critérios de gravidade não são
+preconizados. Exames adicionais poderão ser solicitados para avaliação de
+complicações, condições associadas ou gravidade clínica.
+•
+• Pautados na falta de evidências que corroborem a suspensão do aleitamento
+materno, considerando que o leite materno de mãe infectada proverá ao RN
+anticorpos contra SARS-CoV-2, que até o momento não foram registrados
+casos graves em RN, que existem diversos benefícios já comprovados
+do aleitamento materno pele a pele, os especialistas recomendaram que
+o aleitamento não deve ser suspenso, mas é imperativo que a mãe seja
+orientada sobre adoção das medidas necessárias de precaução: higienização
+rigorosa de mãos e uso de máscara cirúrgica durante o contato com o filho.
+•
+• No paciente hospitalizado, de acordo com os Centers for Disease Control
+and Prevention (CDC), a suspensão de medidas de isolamento é possível
+diante do preenchimento dos seguintes critérios: desaparecimento de
+febre na ausência de antitérmicos, melhora de sinais e sintomas clínicos
+e negativação de testes moleculares. Diante da indisponibilidade de testes
+moleculares, considerando que o paciente grave possivelmente apresenta
+maior viremia e encontra-se em ambiente onde outros pacientes seriam
+grupos de riscos para evolução com gravidade, o isolamento deverá ser
+mantido durante tempo de internação hospitalar.
+•
+• Em relação ao tipo de isolamento respiratório: existem evidências de que a
+transmissão do SARS-CoV-2 ocorre, principalmente, por meio de gotículas.
+No entanto, ressalta-se que procedimentos geradores de aerossóis estão
+associados à necessidade de isolamento respiratório com uso da máscara
+facial N95. Essa questão é importante devido à grande utilização de
+práticas de micronebulização em Postos de Saúde e serviços de urgência.
+Seria desejável que, quando disponível, fosse priorizada a utilização de
+aerocâmaras (spray com espaçador) para administração de medicamentos.
+Diante da indisponibilidade de tê-las, os ambientes de micronebulização
+deverão estar bem ventilados, sem a exposição de pacientes que não
+apresentem quadros respiratórios e com a utilização de Equipamentos de
+Proteção IndividuaIS (EPIs) adequados pela equipe de saúde.
+43
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+Abordagem no atendimento a pacientes adultos/idosos
+Para o atendimento, deve-se levar em consideração os demais diagnósticos
+diferenciais pertinentes e o adequado manejo clínico dos casos. Em pacientes
+com SRAG ainda sem diagnóstico laboratorial, não retardar o uso do oseltamivir
+iniciando até 48 horas utilizando as doses recomendadas no protocolo do
+tratamento das síndromes respiratórias/influenza do Ministério da Saúde. A
+prescrição poderá ser revista a partir da identificação do agente etiológico por
+meio de exame laboratorial, considerando que o oseltamivir não possui atividade
+contra SARS-CoV-2.
+Foi consenso entre os especialistas, que pacientes com fatores de risco para
+complicações deverão ser avaliados por equipe de saúde, independentemente
+da presença de febre ou sinais de gravidade. Ademais, indivíduos de qualquer
+idade com quadro de insuficiência respiratória aguda deverão ter indicação de
+internação hospitalar.
+Recomenda-se que pacientes com diagnóstico de SRAG sejam hospitalizados,
+sendo que os casos identificados com os sintomas de gravidade a seguir listados
+sejam internados em leito de terapia intensiva:
+•
+• Instabilidade hemodinâmica persistente (pressão arterial que não
+respondeu à reposição volêmica (30 mL/kg nas primeiras 3 horas),
+indicando uso de amina vasoativa (exemplo: noradrenalina, dopamina,
+adrenalina).
+•
+• Sinais e sintomas de insuficiência respiratória, incluindo hipoxemia (PaO2
+abaixo de 60 mmHg) com necessidade de suplementação de oxigênio para
+manter saturação arterial de oxigênio acima de 90%.
+•
+• Evolução para outras disfunções orgânicas, como insuficiência renal aguda
+e disfunção neurológica.
+Sendo o isolamento domiciliar considerado alternativa para o caso suspeito,
+provável ou confirmado de Covid-19, deverão ser seguidas as recomendações
+estabelecidas pela Atenção Primária à Saúde em seu protocolo de manejo clínico.
+O reaparecimento dos sinais de agravamento indica necessidade de retorno
+imediato do paciente que já tenha obtido alta aos serviços de saúde.
+Houve consenso sobre internar os pacientes graves sem diagnóstico ou com
+resultado negativo. No caso de teste negativo, repetir o PCR entre 48-72h desde o
+primeiro teste negativo, e realizar exame do trato respiratório inferior.
+A indicação de intubação orotraqueal (EOT) deverá seguir os critérios de indicação
+para insuficiência respiratória. Regra geral, o grupo asseverou que sejam seguidas
+as recomendações de manejo habitual para paciente com síndrome gripal ou
+SRAG, divergindo apenas em questões que são essencialmente de vigilância e
+44
+Ministério da Saúde
+da Comissão de Controle de Infecção Hospitalar (CCIH): isolamentos de coorte,
+fluxos unidirecionais, e outros.
+Não foi recomendado o uso de antibiótico profilático, mas o uso deve ser
+considerado a partir da suspeita de infecção bacteriana associada.
+Houve ampla discussão sobre o uso de ventiladores microprocessadores sem
+e com turbina em momento de mitigação, evidenciando os prós e os contras
+de diferentes ventiladores. Segundo representantes da Associação de Medicina
+Intensiva Brasileira nessa situação específica, será aceito o uso de tais aparelhos.
+CONCLUSÕES
+Nos dois dias da consulta, foi possível observar o comprometimento dos
+especialistas em proporcionar apoio ao Ministério da Saúde para a prevenção e
+controle da Covid-19 no País.
+Os resultados da consulta mostraram que medidas de saúde pública associadas a
+cuidados clínicos podem potencializar a resposta à epidemia do novo coronavírus.
+A escassez de evidências científicas sobre o manejo clínico de pacientes com
+Covid-19 foi reconhecida por todos os participantes, que recomendaram a
+realização de ensaios clínicos adaptativos e multicêntricos que possam produzir
+evidências claras e fortes de como manejar e tratar pacientes com a doença.
+Sobre o uso de corticoides, foi consenso contra indicá-lo no tratamento da
+Covid-19 pelas evidências científicas de malefícios desse tratamento em doenças
+virais.
+Todos os grupos recomendaram seguir as orientações do protocolo de SRAG
+e de síndrome gripal do Ministério da Saúde, que recebeu, mais uma vez, a
+validação de sua qualidade. A utilização de outros instrumentos, desenvolvidos
+por associações de profissionais que têm sido amplamente utilizados, foram
+reconhecidos e recomendados para o manejo clínicos de pacientes com Covid-19.
+Notou-se uma preocupação intensa com a proteção e a orientação aos recursos
+humanos em saúde frente à epidemia do novo coronavírus.
+Houve intensa discussão sobre isolamento domiciliar, tendo sido levantada a
+necessidade de resolver ou prevenir as questões trabalhistas que surgirão com
+essa recomendação.
+Todos os grupos reconheceram que no Brasil esse contingenciamento deverá ser
+particularizado e regionalizado, devido à expectativa de a pandemia ocorrer em
+diferentes momentos de pico no Brasil.
+Os consensos e as recomendações da consulta poderão subsidiar de forma
+assertiva as tomadas de decisões dos gestores do sistema público de saúde
+45
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+brasileiro e da saúde complementar e contribuir para o acúmulo de conhecimento
+e evidências sobre o manejo de pacientes com Covid-19.
+REFERÊNCIAS
+1. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das
+Doenças Transmissíveis. Protocolo de tratamento de Influenza: 2017. Brasília, 2018.
+Manejo clínico de pacientes adultos/idosos com Covid-19
+1. Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease
+2019 (COVID-19) Outbreak in China: Summary of a Report of72 314 Cases From the Chinese
+Center for Disease Control and Prevention. JAMA.
+2. Tian S, Hu N, Lou J, Chen K, Kang X, Xiang Z, et al. Characteristics of COVID-19 infection in
+Beijing. Journal of Infection.
+3. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical Characteristics of 138 Hospitalized
+Patients With 2019 Novel Coronavirus–Infected Pneumonia in Wuhan, China. JAMA.
+4. Zhang J-J, Dong X, Cao Y-Y, Yuan Y-D, Yang Y-B, Yan Y-Q, et al. Clinical characteristics of 140
+patients infected with SARS-CoV-2 in Wuhan, China. European journal of allergy and clinical
+immunology.
+5. Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, et al. Clinical Characteristics of Coronavirus Disease
+2019 in China. New England Journal of Medicine.
+6. Wu J, Liu J, Zhao X, Liu C, Wang W, Wang D, et al. Clinical Characteristics of Imported Cases
+of COVID-19 in Jiangsu Province: A Multicenter Descriptive Study. Clinical Infectious Diseases.
+7. Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, et al. Clinical course and outcomes of critically
+ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective,
+observational study. The Lancet Respiratory Medicine.
+8. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with
+2019 novel coronavirus in Wuhan, China. The Lancet.
+9. Li K, Wu J, Wu F, Guo D, Chen L, Fang Z, et al. The Clinical and Chest CT Features Associated
+with Severe and Critical COVID-19 Pneumonia. Investigative Radiology.
+10. Liu W, Wang F, Li G, Wei Y, Li X, He L, et al. Analysis of 2019-nCoV Infection and Clinical
+Manifestations of Outpatients: An Epidemiological Study from the Fever Clinic in Wuhan, China.
+Rochester, NY: Social Science Research Network. The Lancet.
+11. World Health Organization. Report of the WHO-China joint mission on Coronavirus Disease
+2019 (COVID-19). 2020.
+12. Sun P, Qie S, Liu Z, Ren J, Jianing Xi J. Clinical characteristics of 50466 patients with 2019-
+nCoV infection. medRxiv. 1o de janeiro de 2020;2020.02.18.20024539
+13. Diseases KS of I, Diseases KS of PI, Epidemiology KS of, Therapy KS for A, Prevention KS
+for HIC and, Prevention KC for DC and. Report on the Epidemiological Features of Coronavirus
+Disease 2019 (COVID-19) Outbreak in the Republic of Korea from January 19 to March 2,
+2020. Journal of Korean Medical Science [Internet]. 3 de fevereiro de 2020 [citado 9 de março de
+2020];35(10).
+46
+Ministério da Saúde
+Manejo clínico de pacientes gestantes com Covid-19
+1.Chen H, Guo J, Wang C, Luo F, Yu X, Zhang W, et al. Clinical characteristics and intrauterine
+vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective
+review of medical records. The Lancet [Internet]. 2020.
+2.Zhu H, Wang L, Fang C, Peng S, Zhang L, Chang G, et al. Clinical analysis of 10 neonates born
+to mothers with 2019-nCoV pneumonia. Transl Pediatr 2020; 9(1):51-60.
+3.Liu W, Wang Q, Zhang Q, Chen L, Chen J, Zhang B, et al. Coronavirus Disease 2019
+(COVID-19) During Pregnancy: A Case Series. Preprints [Internet].
+4.Rasmussen SA, Smulian JC, Lednicky JA, Wen TS, Jamieson DJ. Coronavirus Disease 2019
+(COVID-19) and Pregnancy: What obstetricians need to know. American Journal of Obstetrics &
+Gynecology. 2020.
+5.World Health Organization. Report of the WHO-China joint mission on Coronavirus Disease
+2019 (COVID-19). 2020.
+6.Schwartz DA, Graham AL. Potential Maternal and Infant Outcomes from Coronavirus 2019-
+nCoV (SARS-CoV-2) Infecting Pregnant Women: Lessons from SARS, MERS, and Other Human
+Coronavirus Infections. Viruses. 2020;12(2):1–16.
+7.Qiao J. What are the risks of COVID-19 infection in pregnant women? Lancet [Internet].
+2020;6736(20):2019–20.
+8.Favre G, Pomar L, Musso D, Baud D. 2019-nCoV epidemic: what about pregnancies? Lancet
+[Internet]. 2020;395(10224):e40.
+9.Luca DD. Managing neonates with respiratory failure due to SARS-CoV-2. The Lancet Child &
+Adolescent Health.
+Manejo clínico de pacientes pediátricos com Covid-19
+1.Wang D, Ju XL, Xie F, Lu Y, Li FY, Huang HH, et al. Clinical analysis of 31 cases of 2019 novel
+coronavirus infection in children from six provinces (autonomous region) of northern China.
+Zhonghua Er Ke Za Zhi. 2 de março de 2020;58(4):E011.
+2.Feng K, Yun YX, Wang XF, Yang GD, Zheng YJ, Lin CM, et al. Analysis of CT features of 15
+Children with 2019 novel coronavirus infection. Zhonghua Er Ke Za Zhi. 16 de fevereiro de
+2020;58(0):E007. https://bit.ly/2PQicgk
+3.Cai J, Xu J, Lin D, Yang Z, Xu L, Qu Z, et al. A Case Series of children with 2019 novel
+coronavirus infection: clinical and epidemiological features. Clin Infect Dis [Internet]. [citado 3 de
+março de 2020].
+4.Wei M, Yuan J, Liu Y, Fu T, Yu X, Zhang Z-J. Novel Coronavirus Infection in Hospitalized
+Infants Under 1 Year of Age in China. JAMA [Internet]. 14 de fevereiro de 2020.
+5.Chan JF-W, Yuan S, Kok K-H, To KK-W, Chu H, Yang J, et al. A familial cluster of pneumonia
+associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a
+family cluster. The Lancet. 15 de fevereiro de 2020;395(10223):514–23.
+6.Kam K, Yung CF, Cui L, Lin Tzer Pin R, Mak TM, Maiwald M, et al. A Well Infant with
+Coronavirus Disease 2019 (COVID-19) with High Viral Load. Clin Infect Dis [Internet].
+47
+Protocolo de Manejo Clínico da Covid-19 na Atenção Especializada
+7.David A. Schwartz and Ashley L. Graham. Potential Maternal and Infant Outcomes from
+Coronavirus 2019-nCoV (SARS-CoV-2) Infecting Pregnant Women Lessons from SARS, MERS,
+and Other Human Coronavirus Infections. Viruses [Open Access Journal]. 10 de fevereiro
+de 2020.
+8.Shen K, Yang Y, Wang T, Zhao D, Jiang Y, Jin R, et al. Diagnosis, treatment, and prevention
+of 2019 novel coronavirus infection in children: experts’ consensus statement. World Journal of
+Pediatrics.
+9.World Health Organization. Report of the WHO-China joint mission on Coronavirus Disease
+2019 (COVID-19). 2020.
+10.Chen Z-M, Fu J-F, Shu Q, Chen Y-H, Hua C-Z, Li F-B, et al. Diagnosis and treatment
+recommendations for pediatric respiratory infection caused by the 2019 novel coronavirus. World
+J Pediatr [Internet]. 5 de fevereiro de 2020.
+PARTICIPANTES DO CONSENSO
+ADRIANA CAVALCANTI ALVES
+AILTON CEZAREO ALVES JUNIOR
+ALBERTO CHEBABO
+ANA TANDAZO
+ANDRE CELESTINO NEDER KALIL
+ANDRE MACHADO DE SIQUEIRA
+ANDRE RICARDO RIBAS FREITAS
+CARLOS JULIO RODRIGUES TAVERAS
+CARLOS MAGNO CASTELO BRANCO FORTALEZA
+CARLOS ROSERO
+CLAUDIO MARCEL BERDUN STADNIK
+CLOVIS ARNS DA CUNHA
+DAIANA ARAUJO DA SILVA
+DANIELA CALDAS TEIXEIRA
+DANIELA FORTUNATO RÊGO
+DARIO BROCK RAMALHO
+DARIO FLORES
+DENISE MACHADO MEDEIROS
+DOUGLAS FERRARI
+DUILIO SALVADOR NUNEZ
+ELISA BARROSO DE AGUIAR
+ESTEVÃO PORTELA NUNES
+FERNANDA LUIZA HAMZE
+GUILLERMO DAVID PORRAS
+HECTOR CHIPARELLI PRANZO
+HO YEH LI
+HUGO BOECHAT ANDRADE
+HUGO CHACON
+IARA MORENO LINHARES
+JAIME TORRES
+JARDÊNIA MAÇAL ROSA
+48
+Ministério da Saúde
+JOANNA PAULA FREIRE DE LIMA SILVA
+JOSE DAVID URBAEZ
+JOSÉ PAULO PEREIRA JUNIOR
+JOVANA SANCHEZ
+JULIO HENRIQUE ROSA CRODA
+LAINA SANTIAGO NONATO COSTA
+LEONARDO GOMES MENEZES
+MARA RUBIA DE MOURA
+MARCELO DE OLIVEIRA MAIA
+MARCIO BORGES SÁ
+MARCO AURELIO PALAZZI SAFADI
+MARCOS ANTÔNIO CAVALCANTI GALLINDO
+MARGARETH DALCOLMO
+MARIA PAULA DELLA LATTA
+MIRIAM TERESA CALVARI
+MONICA CRISTIANA THORMANN
+NANCY CRISTINA JUNQUEIRA BELLEI
+NESTOR OMAR RAIMONDI
+PÂMELA MOREIRA COSTA DIANA
+PAOLA VELEZ SOLORZANO
+PAULA MARIA RAIA ELIAZAR
+PAULINA CELI
+RAMIRO PUETATE
+RENATO DE ÁVILA KFOURI
+ROBINSON DIAS DE MEDEIROS
+ROBSON WILLIAM DE MELO MATOS
+SAMANTA FURTADO
+SERGIO CIMERMAN
+SILVIO VEJA
+TALES SHINJU SANAKUCHI MINEI
+TANIA DO SOCORRO SOUZA CHAVES
+TANIA MARIA MARCIAL AMARAL
+THIAGO COSTA LISBOA
+VICTOR BERTOLLO GOMES PORTO
+Biblioteca Virtual em Saúde do Ministério da Saúde
+www.saude.gov.br/bvs
+

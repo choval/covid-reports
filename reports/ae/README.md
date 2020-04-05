@@ -5,6 +5,7 @@
 
 ## 2020-04-05
 
+* [News28](be28fa54cd9755c1d5da224f0dae3c95f59e9e52/file.pdf) @21:22 GMT
 * [News1](64d816e67bb3055e655579352543c50ccad243c0/file.pdf) @15:15 GMT
 * [News2](91f9a60a390bda2cef1bf567a7d29cba82200e05/file.pdf) @15:15 GMT
 * [News4](6c1a9b952393e14dd1e05eb83401e24888d87f3a/file.pdf) @15:14 GMT

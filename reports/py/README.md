@@ -4,6 +4,10 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-05
+
+* [494197-Tablero04.04.pdf](1f44c43f177fcafd226b2cdb276d25e5b3885c93/file.pdf) @16:10 GMT
+
 ## 2020-04-04
 
 * [be2fd4-Tablero03.04.pdf](a947bcc2d804742a7cb71d604e24492e39c0c228/file.pdf) @15:42 GMT

@@ -1,6 +1,8 @@
 #!/bin/sh
 # Generates raw.txt files by using text extraction or ocr
 ./scripts/raw && \
+# Removes errored files
+./scripts/errored && \
 # Clean up remaining tmp files
 ./scripts/cleantmp && \
 # Fix korean files (encoding/date)

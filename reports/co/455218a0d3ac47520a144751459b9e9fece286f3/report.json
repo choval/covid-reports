@@ -1,0 +1,31 @@
+{
+    "filename": "coronavirus-telefonos.pdf",
+    "uri": "https:\/\/www.minsalud.gov.co\/salud\/publica\/PET\/Documents\/coronavirus-telefonos.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586121883,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "13235815",
+        "content-type": "application\/pdf",
+        "expires": "Sat, 21 Mar 2020 21:24:43 GMT",
+        "last-modified": "Sun, 05 Apr 2020 17:14:25 GMT",
+        "etag": "\"{FF4F2C90-CFB8-48AF-ADC6-054EDCCE3F5C},1\"",
+        "server": "Microsoft-IIS\/8.5",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:FF4F2C90-CFB8-48AF-ADC6-054EDCCE3F5C@00000000001",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "81e6459f-d85a-2039-33d2-935795566851",
+        "request-id": "81e6459f-d85a-2039-33d2-935795566851",
+        "sprequestduration": "5",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.5109",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Sun, 05 Apr 2020 21:24:42 GMT"
+    },
+    "lang": "es",
+    "size": 13235815,
+    "modified": 1586106865
+}
