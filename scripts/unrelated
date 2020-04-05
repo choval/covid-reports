@@ -46,7 +46,9 @@ foreach ($reports as $path) {
     }
     $path_raw = $path .'/raw.txt';
     if (!is_file($path_raw)) {
-        exec('pdftotext -raw "'.$path_file.'" - > "'.$path_raw.'"');
+        echo "MISSING RAW $path\n";
+        $errors++;
+        continue;
     }
     $uri = $report['uri'] ?? '';
     $filename = $report['filename'] ?? '';
