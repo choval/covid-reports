@@ -1,0 +1,29 @@
+{
+    "filename": "DraftTraveladvisorytotravelersUpdated06032020.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/DraftTraveladvisorytotravelersUpdated06032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048040,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 17 Mar 2020 09:41:34 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "78857",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2514345",
+        "expires": "Mon, 04 May 2020 03:19:45 GMT",
+        "date": "Sun, 05 Apr 2020 00:54:00 GMT"
+    },
+    "lang": "en,hi",
+    "size": 78857,
+    "modified": 1584438094
+}

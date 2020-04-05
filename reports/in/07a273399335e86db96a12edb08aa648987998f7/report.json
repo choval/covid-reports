@@ -1,0 +1,29 @@
+{
+    "filename": "HFMLetter.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/HFMLetter.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048472,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sat, 28 Mar 2020 18:23:39 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "2719185",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2591994",
+        "expires": "Tue, 05 May 2020 01:01:06 GMT",
+        "date": "Sun, 05 Apr 2020 01:01:12 GMT"
+    },
+    "lang": "en,hi",
+    "size": 2719185,
+    "modified": 1585419819
+}

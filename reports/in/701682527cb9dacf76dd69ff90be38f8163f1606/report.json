@@ -1,0 +1,29 @@
+{
+    "filename": "DistrictWiseList324.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/DistrictWiseList324.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586047892,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Thu, 02 Apr 2020 07:42:30 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "124090",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2357722",
+        "expires": "Sat, 02 May 2020 07:46:54 GMT",
+        "date": "Sun, 05 Apr 2020 00:51:32 GMT"
+    },
+    "lang": "en,hi",
+    "size": 124090,
+    "modified": 1585813350
+}

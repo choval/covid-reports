@@ -1,0 +1,29 @@
+{
+    "filename": "cbsecretary2020.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/cbsecretary2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048316,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 24 Mar 2020 15:16:42 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "497822",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2591946",
+        "expires": "Tue, 05 May 2020 00:57:42 GMT",
+        "date": "Sun, 05 Apr 2020 00:58:36 GMT"
+    },
+    "lang": "en,hi",
+    "size": 497822,
+    "modified": 1585063002
+}

@@ -1,0 +1,29 @@
+{
+    "filename": "ProtectivemeasuresEng.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/ProtectivemeasuresEng.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048586,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 24 Mar 2020 10:26:27 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "1248661",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2261010",
+        "expires": "Fri, 01 May 2020 05:06:36 GMT",
+        "date": "Sun, 05 Apr 2020 01:03:06 GMT"
+    },
+    "lang": "en,hi",
+    "size": 1248661,
+    "modified": 1585045587
+}

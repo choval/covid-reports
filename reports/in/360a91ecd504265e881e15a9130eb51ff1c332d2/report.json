@@ -1,0 +1,29 @@
+{
+    "filename": "3Pocketbookof5_Covid19_27March.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/3Pocketbookof5_Covid19_27March.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048529,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sat, 28 Mar 2020 11:23:38 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "5397754",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2514814",
+        "expires": "Mon, 04 May 2020 03:35:42 GMT",
+        "date": "Sun, 05 Apr 2020 01:02:08 GMT"
+    },
+    "lang": "en,hi",
+    "size": 5397754,
+    "modified": 1585394618
+}

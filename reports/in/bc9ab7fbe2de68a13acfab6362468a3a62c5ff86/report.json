@@ -1,0 +1,29 @@
+{
+    "filename": "218927g.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/218927g.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048093,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 27 Mar 2020 02:11:24 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "1217985",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2513099",
+        "expires": "Mon, 04 May 2020 02:59:52 GMT",
+        "date": "Sun, 05 Apr 2020 00:54:53 GMT"
+    },
+    "lang": "en,hi",
+    "size": 1217985,
+    "modified": 1585275084
+}

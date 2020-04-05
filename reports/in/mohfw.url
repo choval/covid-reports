@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.mohfw.gov.in/"
+ORG=India
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)\"/Ui"
+LANG=en,hi

@@ -1,0 +1,29 @@
+{
+    "filename": "Guidance%20document%20-%202019-nCoV.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/Guidance%20document%20-%202019-nCoV.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048424,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 17 Mar 2020 09:41:35 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "408821",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2592000",
+        "expires": "Tue, 05 May 2020 01:00:24 GMT",
+        "date": "Sun, 05 Apr 2020 01:00:24 GMT"
+    },
+    "lang": "en,hi",
+    "size": 408821,
+    "modified": 1584438095
+}

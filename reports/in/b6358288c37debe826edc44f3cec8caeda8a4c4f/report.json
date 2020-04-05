@@ -1,0 +1,29 @@
+{
+    "filename": "Annexure_MHA.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/Annexure_MHA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048308,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Wed, 25 Mar 2020 01:20:07 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "2794493",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2429648",
+        "expires": "Sun, 03 May 2020 03:52:36 GMT",
+        "date": "Sun, 05 Apr 2020 00:58:28 GMT"
+    },
+    "lang": "en,hi",
+    "size": 2794493,
+    "modified": 1585099207
+}

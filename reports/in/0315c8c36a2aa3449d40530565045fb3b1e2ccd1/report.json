@@ -1,0 +1,29 @@
+{
+    "filename": "GuidelinesonrationaluseofPersonalProtectiveEquipment.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/GuidelinesonrationaluseofPersonalProtectiveEquipment.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048173,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 24 Mar 2020 11:42:39 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "294877",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2261307",
+        "expires": "Fri, 01 May 2020 05:04:39 GMT",
+        "date": "Sun, 05 Apr 2020 00:56:12 GMT"
+    },
+    "lang": "en,hi",
+    "size": 294877,
+    "modified": 1585050159
+}

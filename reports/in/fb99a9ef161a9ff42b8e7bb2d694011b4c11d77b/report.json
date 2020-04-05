@@ -1,0 +1,29 @@
+{
+    "filename": "DO&AnnexureAS&MD.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/DO&AnnexureAS&MD.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586047903,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sat, 04 Apr 2020 12:20:41 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "3967056",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2549011",
+        "expires": "Mon, 04 May 2020 12:55:14 GMT",
+        "date": "Sun, 05 Apr 2020 00:51:43 GMT"
+    },
+    "lang": "en,hi",
+    "size": 3967056,
+    "modified": 1586002841
+}

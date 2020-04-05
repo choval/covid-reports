@@ -1,0 +1,503 @@
+Government of India
+Ministry of Health & Family Welfare
+Directorate General of Health Services
+(EMR Division)
+Revised Guidelines on Clinical
+Management of COVID – 19
+This document is intended for clinicians taking care of hospitalised adult and paediatric patients
+of COVID – 19. It is not meant to replace clinical judgment or specialist consultation but rather to
+strengthen clinical management of these patients and provide to up-to-date guidance. Best
+practices for COVID - 19 including IPC and optimized supportive care for severely ill patients as
+considered essential. This document aims to provide clinicians with updated interim guidance on
+timely, effective, and safe supportive management of patients with COVID - 19, particularly those
+with severe acute respiratory illness and critically ill.
+31st
+March 2020
+1
+2
+TABLE OF CONTENTS
+No. Topic Page No.
+1 Case definitions 1
+2 Clinical features 2
+3 Immediate implementation of IPC measures 4
+4 Laboratory diagnosis 6
+5 Early supporting therapy and monitoring 8
+6 Management of hypoxemic respiratory failure
+and ARDS
+10
+7 Management of septic shock 13
+8 Other therapeutic measures 15
+9 Prevention of complications 16
+10 Specific therapy 18
+When to suspect
+• All symptomatic individuals who have undertaken international travel in the last 14 days
+or
+• All symptomatic contacts of laboratory confirmed cases
+or
+• All symptomatic healthcare personnel (HCP)
+or
+• All hospitalized patients with severe acute respiratory illness ( SARI) (fever AND
+cough and/or shortness of breath)
+or
+• Asymptomatic direct and high risk contacts of a confirmed case (should be tested once
+between day 5 and day 14 after contact)
+Symptomatic refers to fever/cough/shortness of breath.
+Direct and high-risk contacts include those who live in the same household with a confirmed
+case and HCP who examined a confirmed case.
+1. Case definition
+Confirmed case
+A person with laboratory confirmation of COVID-19 infection, irrespective of clinical signs and
+symptoms
+1
+2
+2. Clinical features
+COVID–19 may present with mild, moderate, or severe illness; the latter includes severe
+pneumonia, ARDS, sepsis and septic shock. Early recognition of suspected patients allows for
+timely initiation of IPC (see Table 1). Early identification of those with severe manifestations (see
+Table 1) allows for immediate optimized supportive care treatments and safe, rapid admission (or
+referral) to intensive care unit .
+Table 1: Clinical syndromes associated with COVID - 19 infection
+Uncomplicated
+illness
+Patients with uncomplicated upper respiratory tract viral infection, may have
+non-specific symptoms such as fever, cough, sore throat, nasal congestion,
+malaise, headache. The elderly and immunosuppressed may present with
+atypical symptoms.
+Mild
+pneumonia
+Patient with pneumonia and no signs of severe pneumonia.
+Child with non-severe pneumonia has cough or difficulty in breathing/ fast
+breathing: (fast breathing - in breaths/min): <2 months, ≥60; 2–11 months, ≥50; 1–
+5 years, ≥40 and no signs of severe pneumonia
+Severe
+pneumonia
+Adolescent or adult: fever or suspected respiratory infection, plus one of the
+following; respiratory rate >30 breaths/min, severe respiratory distress, SpO2 <90%
+on room air
+Child with cough or difficulty in breathing, plus at least one of the following: central
+cyanosis or SpO2 <90%; severe respiratory distress (e.g. grunting, chest in-
+drawing); signs of pneumonia with any of the following danger signs: inability to
+breastfeed or drink, lethargy or unconsciousness, or convulsions. Other signs of
+pneumonia may be present: chest indrawing, fast breathing (in breaths/min): <2
+months ≥60; 2–11 months ≥50; 1–5 years ≥40. The diagnosis is clinical; chest
+imaging can exclude complications.
+Acute
+Respiratory
+Distress
+Syndrome
+Onset: new or worsening respiratory symptoms within one week of known clinical
+insult.
+Chest imaging (radiograph, CT scan, or lung ultrasound): bilateral opacities, not
+fully explained by effusions, lobar or lung collapse, or nodules.
+3
+Origin of oedema: respiratory failure not fully explained by cardiac failure or fluid
+overload. Need objective assessment (e.g. echocardiography) to exclude hydrostatic
+cause of oedema if no risk factor present.
+Oxygenation (adults):
+• Mild ARDS: 200 mmHg < PaO2/FiO2 ≤ 300 mmHg (with PEEP or CPAP ≥5
+cm H2O, or non-ventilated)
+• Moderate ARDS: 100 mmHg < PaO2/FiO2 ≤200 mmHg with PEEP ≥5 cm H2O,
+or non-ventilated)
+• Severe ARDS: PaO2/FiO2 ≤ 100 mmHg with PEEP ≥5 cm H2O, or non-
+ventilated)
+• When PaO2 is not available, SpO2/FiO2 ≤315 suggests ARDS (including innon-
+ventilated patients)
+Oxygenation (children; note OI = Oxygenation Index and OSI = Oxygenation Index
+using SpO2)
+• Bilevel NIV or CPAP ≥5 cm H2O via full face mask: PaO2/FiO2 ≤ 300 mmHg
+or SpO2/FiO2 ≤264
+• Mild ARDS (invasively ventilated): 4 ≤ OI < 8 or 5 ≤ OSI < 7.5
+• Moderate ARDS (invasively ventilated): 8 ≤ OI < 16 or 7.5 ≤ OSI < 12.3
+• Severe ARDS (invasively ventilated): OI ≥ 16 or OSI ≥ 12.3
+Sepsis Adults: life-threatening organ dysfunction caused by a dysregulated host response
+to suspected or proven infection, with organ dysfunction. Signs of organ dysfunction
+include: altered mental status, difficult or fast breathing, low oxygen saturation,
+reduced urine output, fast heart rate, weak pulse, cold extremities or low blood
+pressure, skin mottling, or laboratory evidence of coagulopathy, thrombocytopenia,
+acidosis, high lactate or hyperbilirubinemia.
+Children: suspected or proven infection and ≥2 SIRS criteria, of which one must be
+abnormal temperature or white blood cell count
+Septic
+Shock
+Adults: persisting hypotension despite volume resuscitation, requiring vasopressors
+to maintain MAP ≥65 mmHg and serum lactate level < 2 mmol/L
+Children: any hypotension (SBP <5th centile or >2 SD below normal for age) or 2-
+3 of the following: altered mental state; bradycardia or tachycardia (HR <90 bpm or
+>160 bpm in infants and HR <70 bpm or >150 bpm in children); prolonged
+4
+capillary refill (>2 sec) or warm vasodilation with bounding pulses; tachypnea;
+mottled skin or petechial or purpuric rash; increased lactate; oliguria; hyperthermia
+or hypothermia
+3. Immediate implementation of appropriate IPC measures
+Infection prevention control (IPC) is a critical and integral part of clinical management of patients
+and should be initiated at the point of entry of the patient to hospital (typically the Emergency
+Department). Standard precautions should always be routinely applied in all areas of health care
+facilities. Standard precautions include hand hygiene; use of PPE to avoid direct contact with
+patients’ blood, body fluids, secretions (including respiratory secretions) and non-intact skin.
+Standard precautions also include prevention of needle-stick or sharps injury; safe waste
+management; cleaning and disinfection of equipment; and cleaning of the environment.
+Table 2: How to implement infection prevention and control measures for patients with suspected
+or confirmed COVID - 19 infection
+At triage
+• Give suspect patient a triple layer surgical mask and direct patient to separate
+area, an isolation room if available. Keep at least 1meter distance between
+suspected patients and other patients. Instruct all patients to cover nose and
+mouth during coughing or sneezing with tissue or flexed elbow for others.
+Perform hand hygiene after contact with respiratory secretions
+Apply droplet
+precautions
+• Droplet precautions prevent large droplet transmission of respiratory viruses.
+Use a triple layer surgical mask if working within 1-2 metres of the patient.
+Place patients in single rooms, or group together those with the same etiological
+diagnosis. If an etiological diagnosis is not possible, group patients with similar
+clinical diagnosis and based on epidemiological risk factors, with a spatial
+separation. When providing care in close contact with a patient with respiratory
+symptoms (e.g. coughing or sneezing), use eye protection (face-mask or
+goggles), because sprays of secretions may occur. Limit patient movement
+within the institution and ensure that patients wear triple layer surgical masks
+when outside their rooms
+5
+Apply contact
+precautions
+• Droplet and contact precautions prevent direct or indirect transmission from
+contact with contaminated surfaces or equipment (i.e. contact with
+contaminated oxygen tubing/interfaces). Use PPE (triple layer surgical mask,
+eye protection, gloves and gown) when entering room and remove PPE when
+leaving. If possible, use either disposable or dedicated equipment (e.g.
+stethoscopes, blood pressure cuffs and thermometers). If equipment needs to
+be shared among patients, clean and disinfect between each patient use. Ensure
+that health care workers refrain from touching their eyes, nose, and mouth with
+potentially contaminated gloved or ungloved hands. Avoid contaminating
+environmental surfaces that are not directly related to patient care (e.g. door
+handles and light switches). Ensure adequate room ventilation. Avoid
+movement of patients or transport. Perform hand hygiene.
+Apply airborne
+precautions
+when
+performing an
+aerosol
+generating
+procedure
+• Ensure that healthcare workers performing aerosol-generating procedures (i.e.
+open suctioning of respiratory tract, intubation, bronchoscopy,
+cardiopulmonary resuscitation) use PPE, including gloves, long-sleeved
+gowns, eye protection, and fit-tested particulate respirators (N95). (The
+scheduled fit test should not be confused with user seal check before each use.)
+Whenever possible, use adequately ventilated single rooms when performing
+aerosol-generating procedures, meaning negative pressure rooms with
+minimum of 12 air changes per hour or at least 160 litres/second/patient in
+facilities with natural ventilation. Avoid the presence of unnecessary
+individuals in the room. Care for the patient in the same type of room after
+mechanical ventilation commences
+Abbreviations: ARI, acute respiratory infection; PPE, personal protective equipment
+6
+4. Laboratory diagnosis
+Guidance on specimen collection, processing, transportation, including related biosafety
+procedures, is available on https://mohfw.gov.in/media/disease-alerts.
+As per directive from MoHFW, Government of India, all suspected cases are to be reported to
+district and state surveillance officers.
+Figure 1: Helpline for COVID-19 (MOHFW, GOI)
+Sample collection:
+Preferred sample: Throat and nasal swab in viral transport media (VTM) and transported on ice
+Alternate: Nasopharyngeal swab, BAL or endotracheal aspirate which has to be mixed with the
+viral transport medium and transported on ice
+General guidelines:
+• Trained health care professionals to wear appropriate PPE with latex free purple nitrile
+gloves while collecting the sample from the patient. Maintain proper infection
+control when collecting specimens
+• Restricted entry to visitors or attendants during sample collection
+• Complete the requisition form for each specimen submitted
+• Proper disposal of all waste generated
+Respiratory specimen collection methods:
+A. Lower respiratory tract
+• Bronchoalveolar lavage, tracheal aspirate, sputum
+• Collect 2-3 mL into a sterile, leak-proof, screw-cap sputum collection cup or sterile
+dry container.
+7
+B. Upper respiratory tract
+• Nasopharyngeal swab AND oropharyngeal swab
+Oropharyngeal swab (e.g. throat swab): Tilt patient’s head back 70 degrees. Rub swab over
+both tonsillar pillars and posterior oropharynx and avoid touching the tongue, teeth, and
+gums. Use only synthetic fiber swabs with plastic shafts. Do not use calcium alginate swabs
+or swabs with wooden shafts. Place swabs immediately into sterile tubes containing 2-3 ml
+of viral transport media.
+Combined nasal & throat swab: Tilt patient’s head back 70 degrees. While gently rotating
+the swab, insert swab less than one inch into nostril (until resistance is met at turbinates).
+Rotate the swab several times against nasal wall and repeat in other nostril using the same
+swab. Place tip of the swab into sterile viral transport media tube and cut off the applicator
+stick. For throat swab, take a second dry polyester swab, insert into mouth, and swab the
+posterior pharynx and tonsillar areas (avoid the tongue). Place tip of swab into the same
+tube and cut off the applicator tip.
+Nasopharyngeal swab: Tilt patient’s head back 70 degrees. Insert flexible swab through the
+nares parallel to the palate (not upwards) until resistance is encountered or the distance is
+equivalent to that from the ear to the nostril of the patient. Gently, rub and roll the swab.
+Leave the swab in place for several seconds to absorb secretions before removing.
+Clinicians may also collect lower respiratory tract samples when these are readily available
+(for example, in mechanically ventilated patients). In hospitalized patients with confirmed
+COVID - 19 infection, repeat upper respiratory tract samples should be collected to
+demonstrate viral clearance.
+8
+5. Early supportive therapy and monitoring
+a. Give supplemental oxygen therapy immediately to patients with SARI and respiratory distress,
+hypoxaemia, or shock: Initiate oxygen therapy at 5 L/min and titrate flow rates to reach target
+SpO2 ≥90% in non-pregnant adults and SpO2 ≥92-95 % in pregnant patients. Children with
+emergency signs (obstructed or absent breathing, severe respiratory distress, central cyanosis,
+shock, coma or convulsions) should receive oxygen therapy during resuscitation to target SpO2
+≥94%; otherwise, the target SpO2 is ≥90%. All areas where patients with SARI are cared for
+should be equipped with pulse oximeters, functioning oxygen systems and disposable, single-
+use, oxygen-delivering interfaces (nasal cannula, simple face mask, and mask with reservoir
+bag). Use contact precautions when handling contaminated oxygen interfaces of patients with
+COVID – 19.
+b. Use conservative fluid management in patients with SARI when there is no evidence of shock:
+Patients with SARI should be treated cautiously with intravenous fluids, because aggressive
+fluid resuscitation may worsen oxygenation, especially in settings where there is limited
+availability of mechanical ventilation.
+c. Give empiric antimicrobials to treat all likely pathogens causing SARI. Give antimicrobials
+within one hour of initial patient assessment for patients with sepsis: Although the patient may
+be suspected to have COVID - 19, Administer appropriate empiric antimicrobials within ONE
+hour of identification of sepsis. Empirical antibiotic treatment should be based on the clinical
+diagnosis (community-acquired pneumonia, health care-associated pneumonia [if infection
+was acquired in healthcare setting], or sepsis), local epidemiology and susceptibility data, and
+treatment guidelines. Empirical therapy includes a neuraminidase inhibitor for treatment of
+influenza when there is local circulation or other risk factors, including travel history or
+exposure to animal influenza viruses. Empirical therapy should be de-escalated on the basis
+of microbiology results and clinical judgment
+d. Do not routinely give systemic corticosteroids for treatment of viral pneumonia or ARDS
+outside of clinical trials unless they are indicated for another reason: A systematic review of
+observational studies of corticosteroids administered to patients with SARS reported no
+survival benefit and possible harms (avascular necrosis, psychosis, diabetes, and delayedviral
+clearance). A systematic review of observational studies in influenza found a higher risk of
+mortality and secondary infections with corticosteroids; the evidence was judged as very low
+9
+to low quality due to confounding by indication. A subsequent study that addressed this
+limitation by adjusting for time-varying confounders found no effect on mortality. Finally, a
+recent study of patients receiving corticosteroids for MERS used a similar statistical approach
+and found no effect of corticosteroids on mortality but delayed lower respiratory tract (LRT)
+clearance of MERS-CoV. Given lack of effectiveness and possible harm, routine
+corticosteroids should be avoided unless they are indicated for another reason. See section F
+for the use of corticosteroids in sepsis.
+e. Closely monitor patients with SARI for signs of clinical deterioration, such as rapidly
+progressive respiratory failure and sepsis, and apply supportive care interventions
+immediately: Application of timely, effective, and safe supportive therapies is thecornerstone
+of therapy for patients that develop severe manifestations of COVID – 19.
+f. Understand the patient’s co-morbid condition(s) to tailor the management of critical illness
+and appreciate the prognosis: During intensive care management of SARI, determine which
+chronic therapies should be continued and which therapies should be stopped temporarily.
+g. Communicate early with patient and family: Communicate pro-actively with patients and
+families and provide support and prognostic information. Understand the patient’s values and
+preferences regarding life-sustaining interventions.
+10
+6. Management of hypoxemic respiratory failure and ARDS
+• Recognize severe hypoxemic respiratory failure when a patient with respiratory distress is
+failing standard oxygen therapy. Patients may continue to have increased work of breathing or
+hypoxemia even when oxygen is delivered via a face mask with reservoir bag (flow rates of
+10-15 L/min, which is typically the minimum flow required to maintain bag inflation; FiO2
+0.60-0.95). Hypoxemic respiratory failure in ARDS commonly results from intrapulmonary
+ventilation-perfusion mismatch or shunt and usually requires mechanical ventilation.
+• High – flow nasal catheter oxygenation or non – invasive mechanical ventilation: When
+respiratory distress and/or hypoxemia of the patient cannot be alleviated after receiving
+standard oxygen therapy, high – flow nasal cannula oxygen therapy or non – invasive
+ventilation can be considered. If conditions do not improve or even get worse within a short
+time (1 – 2 hours), tracheal intubation and invasive mechanical ventilation should be used in a
+timely manner. Compared to standard oxygen therapy, HFNO reduces the need for intubation.
+Patients with hypercapnia (exacerbation of obstructive lung disease, cardiogenic pulmonary
+oedema), hemodynamic instability, multi-organ failure, or abnormal mental status should
+generally not receive HFNO, although emerging data suggest that HFNO may be safe in
+patients with mild-moderate and non-worsening hypercapnia25
+. Patients receiving HFNO
+should be in a monitored setting and cared for by experienced personnel capable of
+endotracheal intubation in case the patient acutely deteriorates or does not improve after a short
+trial (about 1 hr).
+• NIV guidelines make no recommendation on use in hypoxemic respiratory failure (apart from
+cardiogenic pulmonary oedema and post-operative respiratory failure) or pandemic viral
+illness (referring to studies of SARS and pandemic influenza). Risks include delayed
+intubation, large tidal volumes, and injurious transpulmonary pressures. Limited data suggest
+a high failure rate when MERS patients received NIV. Patients receiving a trial of NIV should
+be in a monitored setting and cared for by experienced personnel capable of endotracheal
+intubation in case the patient acutely deteriorates or does not improve after a short trial (about
+1 hr). Patients with hemodynamic instability, multiorgan failure, or abnormal mental status
+should not receive NIV.
+11
+• Recent publications suggest that newer HFNO and NIV systems with good interface fitting do
+not create widespread dispersion of exhaled air and therefore should be associated with low
+risk of airborne transmission.
+• Endotracheal intubation should be performed by a trained and experienced provider using
+airborne precautions. Patients with ARDS, especially young children or those who are obese
+or pregnant, may de-saturate quickly during intubation. Pre-oxygenate with 100% FiO2 for 5
+minutes, via a face mask with reservoir bag, bag-valve mask, HFNO, or NIV. Rapidsequence
+intubation is appropriate after an airway assessment that identifies no signs of difficult
+intubation.
+• Implement mechanical ventilation using lower tidal volumes (4–8 ml/kg predicted body
+weight, PBW) and lower inspiratory pressures (plateau pressure <30 cmH2O). This is astrong
+recommendation from a clinical guideline for patients with ARDS, and is suggested for
+patients with sepsis-induced respiratory failure. The initial tidal volume is 6 ml/kg PBW; tidal
+volume up to 8 ml/kg PBW is allowed if undesirable side effects occur (e.g. dyssynchrony, pH
+<7.15). Hypercapnia is permitted if meeting the pH goal of 7.30-7.45. Ventilator protocols are
+available. The use of deep sedation may be required to control respiratory drive and achieve
+tidal volume targets.
+• In patients with severe ARDS, prone ventilation for >12 hours per day is recommended.
+Application of prone ventilation is strongly recommended for adult and paediatric patients with
+severe ARDS but requires sufficient human resources and expertise to be performed safely.
+• Use a conservative fluid management strategy for ARDS patients without tissue
+hypoperfusion.
+• In patients with moderate or severe ARDS, higher PEEP instead of lower PEEP is
+suggested.PEEP titration requires consideration of benefits (reducing atelectrauma and
+improving alveolar recruitment) vs. risks (end-inspiratory overdistension leading to lung injury
+and higher pulmonary vascular resistance). Tables are available to guide PEEP titration based
+on the FiO2 required to maintain SpO2. A related intervention of recruitment manoeuvres
+(RMs) is delivered as episodic periods of high continuous positive airway pressure [30–40 cm
+H2O], progressive incremental increases in PEEP with constant driving pressure, or high
+driving pressure; considerations of benefits vs. risks are similar. Higher PEEP and RMs were
+both conditionally recommended in a clinical practice guideline. In patients with moderate-
+12
+severe ARDS (PaO2/FiO2<150), neuromuscular blockade by continuous infusion should not
+be routinely used.
+• In settings with access to expertise in extracorporeal life support (ECLS), consider referral of
+patients with refractory hypoxemia despite lung protective ventilation. ECLS should only be
+offered in expert centres with a sufficient case volume to maintain expertise and that can apply
+the IPC measures required for COVID – 19 patients
+• Avoid disconnecting the patient from the ventilator, which results in loss of PEEP and
+atelectasis. Use in-line catheters for airway suctioning and clamp endotracheal tube when
+disconnection is required (for example, transfer to a transport ventilator)
+13
+7. Management of septic shock
+• Recognize septic shock in adults when infection is suspected or confirmed AND vasopressors
+are needed to maintain mean arterial pressure (MAP) ≥65 mmHg AND lactate is < 2 mmol/L,
+in absence of hypovolemia. Recognize septic shock in children with any hypotension (systolic
+blood pressure [SBP] <5th centile or >2 SD below normal for age) or 2-3 of the following:
+altered mental state; tachycardia or bradycardia (HR <90 bpm or >160 bpm in infants and HR
+<70 bpm or >150 bpm in children); prolonged capillary refill (>2 sec) or warm vasodilation
+with bounding pulses; tachypnea; mottled skin or petechial or purpuric rash; increased lactate;
+oliguria; hyperthermia or hypothermia.
+• In the absence of a lactate measurement, use MAP and clinical signs of perfusion to define
+shock. Standard care includes early recognition and the following treatments within 1 hour of
+recognition: antimicrobial therapy and fluid loading and vasopressors for hypotension. The use
+of central venous and arterial catheters should be based on resource availability and individual
+patient needs. Detailed guidelines are available for the management of septic shock in adults
+and children.
+• In resuscitation from septic shock in adults, give at least 30 ml/kg of isotonic crystalloid in
+adults in the first 3 hours. In resuscitation from septic shock in children in well-resourced
+settings, give 20 ml/kg as a rapid bolus and up to 40-60 ml/kg in the first 1 hr. Do not use
+hypotonic crystalloids, starches, or gelatins for resuscitation.
+• Fluid resuscitation may lead to volume overload, including respiratory failure. If there is no
+response to fluid loading and signs of volume overload appear (for example, jugular venous
+distension, crackles on lung auscultation, pulmonary oedema on imaging, or hepatomegaly in
+children), then reduce or discontinue fluid administration. This step is particularly important
+where mechanical ventilation is not available. Alternate fluid regimens are suggested when
+caring for children in resource-limited settings.
+• Crystalloids include normal saline and Ringer’s lactate. Determine need for additional fluid
+boluses (250-1000 ml in adults or 10-20 ml/kg in children) based on clinical response and
+improvement of perfusion targets. Perfusion targets include MAP (>65 mmHg or age-
+appropriate targets in children), urine output (>0.5 ml/kg/hr in adults, 1 ml/kg/hr in children),
+and improvement of skin mottling, capillary refill, level of consciousness, and lactate. Consider
+14
+dynamic indices of volume responsiveness to guide volume administration beyond initial
+resuscitation based on local resources and experience. These indices include passive leg raises,
+fluid challenges with serial stroke volume measurements, or variations in systolic pressure,
+pulse pressure, inferior vena cava size, or stroke volume in response to changes in intrathoracic
+pressure during mechanical ventilation.
+• Administer vasopressors when shock persists during or after fluid resuscitation. The
+initial blood pressure target is MAP ≥65 mmHg in adults and age-appropriate targets in
+children.
+• If central venous catheters are not available, vasopressors can be given through a peripheral
+IV, but use a large vein and closely monitor for signs of extravasation and local tissue necrosis.
+If extravasation occurs, stop infusion. Vasopressors can also be administered through
+intraosseous needles.
+• If signs of poor perfusion and cardiac dysfunction persist despite achieving MAP target with
+fluids and vasopressors, consider an inotrope such as dobutamine
+15
+8. Other therapeutic measures:
+For patients with progressive deterioration of oxygenation indicators, rapid worsening on imaging
+and excessive activation of the body’s inflammatory response, glucocorticoids can be used for a
+short period of time (3 to 5 days). It is recommended that dose should not exceed the equivalent
+of methylprednisolone 1 – 2mg/kg/day. Note that a larger dose of glucocorticoid will delay the
+removal of coronavirus due to immunosuppressive effects. For pregnant severe and critical cases,
+pregnancy should be preferably terminated. Consultations with obstetric, neonatal, and intensive
+care specialists (depending on the condition of the mother) are essential. Patients often suffer from
+anxiety and fear and they should be supported by psychological counseling.
+16
+9. Prevention of complications
+Implement the following interventions (Table 3) to prevent complications associated with critical
+illness. These interventions are based on Surviving Sepsis or other guidelines, and are generally
+limited to feasible recommendations based on high quality evidence.
+Table 3: Prevention of complications
+Anticipated
+Outcome
+Interventions
+Reduce days of
+invasive
+mechanical
+ventilation
+• Use weaning protocols that include daily assessment for readiness to
+breathe spontaneously
+• Minimize continuous or intermittent sedation, targeting specific titration
+endpoints (light sedation unless contraindicated) or with daily interruption
+of continuous sedative infusions
+Reduce incidence
+of ventilator
+associated
+pneumonia
+• Oral intubation is preferable to nasal intubation in adolescents and adults
+• Keep patient in semi-recumbent position (head of bed elevation 30-45º)
+• Use a closed suctioning system; periodically drain and discard condensate
+in tubing
+• Use a new ventilator circuit for each patient; once patient is ventilated,
+change circuit if it is soiled or damaged but not routinely
+• Change heat moisture exchanger when it malfunctions, when soiled, or
+every 5–7 days
+Reduce incidence
+of venous
+thromboembolism
+• Use pharmacological prophylaxis (low molecular-weight heparin[preferred
+if available] or heparin 5000 units subcutaneously twice daily) in
+adolescents and adults without contraindications. For those with
+contraindications, use mechanical prophylaxis (intermittent pneumatic
+compression devices).
+Reduce incidence
+of catheter related
+bloodstream
+infection
+• Use a checklist with completion verified by a real-time observer as reminder
+of each step needed for sterile insertion and as a daily reminder to remove
+catheter if no longer needed
+Reduce incidence
+of pressure
+• Turn patient every two hours
+17
+Ulcers
+Reduce incidence
+of stress ulcers
+and
+gastrointestinal
+bleeding
+• Give early enteral nutrition (within 24–48 hours of admission)
+• Administer histamine-2 receptor blockers or proton-pump inhibitors in
+patients with risk factors for GI bleeding. Risk factors for gastrointestinal
+bleeding include mechanical ventilation for ≥48 hours, coagulopathy, renal
+replacement therapy, liver disease, multiple co-morbidities, and higher
+organ failure score
+Reduce incidence
+of ICU-related
+weakness
+• Actively mobilize the patient early in the course of illness when safe todo
+so
+18
+10. Specific therapy
+NO SPECIFIC ANTIVIRALS have been proven to be effective as per currently available data.
+However, based on the available information (uncontrolled clinical trials), the following drugs may
+be considered as an off – label indication in patients with severe disease and requiring ICU
+management:
+• Hydroxychloroquine (Dose 400mg BD – for 1 day followed by 200mg BD for 4 days)
+In combination with
+• Azithromycin (500 mg OD for 5 days)
+These drugs should be administered under close medical supervision, with monitoring for side
+effects including QTc interval.
+The above medication is presently not recommended for children less than 12 years, pregnant
+and lactating women.
+These guidelines are based on currently available information and would be reviewed from
+time to time as new evidence emerges.
+Support to Treating Physicians: AIIMS, New Delhi is running a 24x7 helpline to provide
+support to the treating physicians on clinical management. The helpline number is
+9971876591. The identified nodal doctor of the State, appointed for clinical management of
+COVID – 19 should only contact AIIMS Call Centre.
+

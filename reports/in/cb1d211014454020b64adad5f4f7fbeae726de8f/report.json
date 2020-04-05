@@ -1,0 +1,29 @@
+{
+    "filename": "DOSecyHE.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/DOSecyHE.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048390,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Thu, 19 Mar 2020 06:18:47 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "1030343",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2591986",
+        "expires": "Tue, 05 May 2020 00:59:36 GMT",
+        "date": "Sun, 05 Apr 2020 00:59:50 GMT"
+    },
+    "lang": "en,hi",
+    "size": 1030343,
+    "modified": 1584598727
+}

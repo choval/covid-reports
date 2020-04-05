@@ -1,0 +1,29 @@
+{
+    "filename": "FINAL_14_03_2020_Hindi.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/FINAL_14_03_2020_Hindi.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048565,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sat, 28 Mar 2020 06:44:34 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "2602972",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2260468",
+        "expires": "Fri, 01 May 2020 04:57:13 GMT",
+        "date": "Sun, 05 Apr 2020 01:02:45 GMT"
+    },
+    "lang": "en,hi",
+    "size": 2602972,
+    "modified": 1585377874
+}

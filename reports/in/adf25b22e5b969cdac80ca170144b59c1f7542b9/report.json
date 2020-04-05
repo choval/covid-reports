@@ -1,0 +1,29 @@
+{
+    "filename": "Letterdated2032020toCSs.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/Letterdated2032020toCSs.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048382,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 20 Mar 2020 05:28:54 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "4448354",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2347818",
+        "expires": "Sat, 02 May 2020 05:10:00 GMT",
+        "date": "Sun, 05 Apr 2020 00:59:42 GMT"
+    },
+    "lang": "en,hi",
+    "size": 4448354,
+    "modified": 1584682134
+}

@@ -1,0 +1,29 @@
+{
+    "filename": "NewinstructionsDt14032020Restirctiononinternationalpassengertraffic.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/NewinstructionsDt14032020Restirctiononinternationalpassengertraffic.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048005,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 17 Mar 2020 09:41:38 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "755258",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2516063",
+        "expires": "Mon, 04 May 2020 03:47:48 GMT",
+        "date": "Sun, 05 Apr 2020 00:53:25 GMT"
+    },
+    "lang": "en,hi",
+    "size": 755258,
+    "modified": 1584438098
+}

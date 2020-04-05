@@ -1,0 +1,29 @@
+{
+    "filename": "officeorder18032020.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/officeorder18032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048088,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 27 Mar 2020 11:43:05 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "1083528",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2525673",
+        "expires": "Mon, 04 May 2020 06:29:21 GMT",
+        "date": "Sun, 05 Apr 2020 00:54:48 GMT"
+    },
+    "lang": "en,hi",
+    "size": 1083528,
+    "modified": 1585309385
+}

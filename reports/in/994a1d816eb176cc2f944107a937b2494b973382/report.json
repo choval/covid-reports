@@ -1,0 +1,29 @@
+{
+    "filename": "ChiefSecretary26032020.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/ChiefSecretary26032020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586048289,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Thu, 26 Mar 2020 17:29:38 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "1410957",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2515528",
+        "expires": "Mon, 04 May 2020 03:43:37 GMT",
+        "date": "Sun, 05 Apr 2020 00:58:09 GMT"
+    },
+    "lang": "en,hi",
+    "size": 1410957,
+    "modified": 1585243778
+}
