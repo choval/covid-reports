@@ -1,0 +1,24 @@
+{
+    "filename": "BMG_BZgA_Coronavirus_Plakat_barr.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/BMG_BZgA_Coronavirus_Plakat_barr.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586049051,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Sun, 05 Apr 2020 01:10:51 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1659432",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Fri, 13 Mar 2020 08:23:10 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Sun, 12 Apr 2020 08:27:51 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 1659432,
+    "modified": 1584087790
+}

@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Archiv.html"
+ORG=Germany
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]*(ncov|covid|coronavirus)[^\"]*\.pdf\?__blob=publicationFile)\"/Ui"
+LANG=en,de

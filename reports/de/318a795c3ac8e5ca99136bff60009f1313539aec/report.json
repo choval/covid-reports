@@ -1,0 +1,24 @@
+{
+    "filename": "COVID-19_Tipps_fuer_Eltern.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/COVID-19_Tipps_fuer_Eltern.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586049047,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Sun, 05 Apr 2020 01:10:47 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "904135",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Tue, 17 Mar 2020 11:55:36 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Thu, 16 Apr 2020 12:02:02 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 904135,
+    "modified": 1584446136
+}

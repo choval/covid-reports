@@ -1,0 +1,24 @@
+{
+    "filename": "Merkblatt-Bildungseinrichtungen-Coronavirus_RU.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/Merkblatt-Bildungseinrichtungen-Coronavirus_RU.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586049027,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Sun, 05 Apr 2020 01:10:26 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "234832",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Wed, 11 Mar 2020 08:13:29 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Fri, 10 Apr 2020 08:26:14 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 234832,
+    "modified": 1583914409
+}

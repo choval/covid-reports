@@ -1,0 +1,24 @@
+{
+    "filename": "BMG_C-19_200315_info_VT_Patientinnen.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/BMG_C-19_200315_info_VT_Patientinnen.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586049034,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Sun, 05 Apr 2020 01:10:34 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "373901",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Mon, 16 Mar 2020 14:26:38 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Wed, 15 Apr 2020 14:31:04 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 373901,
+    "modified": 1584368798
+}

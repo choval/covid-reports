@@ -1,0 +1,25 @@
+{
+    "filename": "st06013-re01-en20.pdf",
+    "uri": "https:\/\/www.consilium.europa.eu\/media\/42546\/st06013-re01-en20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586049062,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 05 Apr 2020 01:11:02 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "353761",
+        "set-cookie": "__cfduid=d66783faaccdd293f7964311a73577d9b1586049061; expires=Tue, 05-May-20 01:11:01 GMT; path=\/; domain=.consilium.europa.eu; HttpOnly; SameSite=Lax",
+        "cache-control": "max-age=86400,public;max-age=86400",
+        "last-modified": "Thu, 13 Feb 2020 14:08:42 GMT",
+        "etag": "\"c561411977e2d51:0\"",
+        "cf-cache-status": "HIT",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "57ef6489d806f7b6-EZE"
+    },
+    "lang": "en,de",
+    "size": 353761,
+    "modified": 1581602922
+}

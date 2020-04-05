@@ -1,0 +1,24 @@
+{
+    "filename": "Coronavirus_Leichte_Sprache_barr.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/Coronavirus_Leichte_Sprache_barr.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586049056,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Sun, 05 Apr 2020 01:10:56 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "174266",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Wed, 18 Mar 2020 12:31:02 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Fri, 17 Apr 2020 12:52:13 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 174266,
+    "modified": 1584534662
+}

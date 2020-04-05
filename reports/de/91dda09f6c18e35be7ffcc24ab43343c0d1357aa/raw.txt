@@ -1,0 +1,1072 @@
+Modellierung von Beispielszenarien der SARS-CoV-2-
+Epidemie 2020 in Deutschland
+Einleitung
+Am 12. März 2020 erklärte die Weltgesundheits-
+organisation (WHO) den COVID-19-Ausbruch zu
+einer globalen Pandemie. In China und weiteren
+Ländern, beispielsweise in Italien und im Iran, ha-
+ben die Erkrankungen in kurzer Zeit zu einem kaum
+noch bewältigbaren Aufkommen an schweren
+Fällen im Gesundheitssystem geführt.
+In Deutschland wurden von Beginn an Verdachtsfälle
+und bestätigte Fälle dem Gesundheitsamt gemeldet,
+enge Kontaktpersonen von bestätigten Fällen wur-
+den quarantänisiert. Darüber hinaus wurden an-
+fänglich erst Veranstaltungen mit über 1.000 Perso-
+nen, dann jegliche größere Veranstaltungen abge-
+sagt, und beginnend mit dem 14. März 2020 schließ-
+lich auch Schulen und Kindergärten geschlossen.
+Einige nicht beeinflussbare Eigenschaften des Er-
+regers sind schon mehr oder weniger gut bekannt
+(s. Tab. 1). Die Inkubationszeit variiert zwischen 1 und
+14 Tagen, im Mittel beträgt sie 5 Tage, die Infektiosität
+ist vermutlich schon vor dem Erkrankungsbeginn
+(Beginn der Symptome) gegeben und zum Zeitpunkt
+des Erkrankungsbeginns besonders hoch. Unbe-
+kannt ist, ob und wie stark eine Saisonalität den Ver-
+lauf der Epidemie beeinflussen könnte und ob es in
+einem Teil der Bevölkerung, z.B. bei Kindern eine
+(Kreuz-)Immunität gegenüber SARS-CoV-2 gibt.
+Häufig wird die Frage gestellt, „wie lange es noch
+dauert“ oder „wie schlimm es wird“. Da der Erreger
+bis vor wenigen Monaten noch nicht in der mensch-
+lichen Bevölkerung zirkulierte und auch die nicht be-
+einflussbaren Eigenschaften des Erregers und der Er-
+krankung nur teilweise bekannt sind, können mathe-
+matische Modellierungen einen möglichen zukünf-
+tigen Verlauf nur entsprechend vage beschreiben.
+Der große Nutzen einer Modellierung ist es aber auf-
+zeigen zu können, inwiefern Maßnahmen, wenn sie
+zu einem bestimmten Grad umgesetzt werden, auf
+Modellverläufe einen Einfluss nehmen können und
+wie groß dieser ist. Dadurch kann abgeschätzt bzw.
+begründet werden, welches Spektrum an Maßnah-
+men notwendig ist, um den Verlauf der Epidemie so
+zu beeinflussen, dass sie bewältigbar wird. Diese
+Maßnahmen können von der Politik, dem Öffentli-
+chen Gesundheitsdienst (ÖGD), der Medizin und
+uns allen (der Gesellschaft) eingesetzt werden, um
+den Verlauf der Epidemie zu beeinflussen.
+In einem häufig verwendeten Modellierungskonzept,
+den so genannten SEIR-Modellen,1-3
+wird die Bevölke-
+rung in verschiedene Gruppen unterteilt, und die Dy-
+namik der Infektionen und Erkrankungen wird über
+eine Modellierung der Übergänge zwischen diesen
+Gruppen nachgebildet. Die Buchstaben SEIR stehen
+für die empfänglichen (susceptible), latent infizierten
+(exposed – infiziert, aber noch nicht infektiös), symp-
+tomatisch infektiösen (infectious) und schließlich ver-
+storbenen oder genesenen (recovered) Anteile der Be-
+völkerung. In diesen Modellen ist von besonderer Be-
+deutung, wie viele Personen eine infektiöse Person
+selbst im Mittel in einer vollständig suszeptiblen Be-
+völkerung ansteckt (so genannte Basisreproduktions-
+zahl; R0). Die Basisreproduktionszahl ist ein Produkt
+aus der durchschnittlichen Zahl der Kontakte einer
+infektiösen Person pro Tag, der Übertragungswahr-
+Parameter Wert Beeinflussbarkeit Kenntnis
+Inkubationszeit Spannweite 1–14 Tage, Mittel 5 Tage Nicht beeinflussbar Bekannt
+Beginn und Dauer der
+Infektiosität
+1–2 Tage vor Erkrankungsbeginn bis
+etwa 8 Tage nach Erkrankungsbeginn
+Nicht beeinflussbar Teilweise bekannt
+Saisonalität Unbekannt Nicht beeinflussbar Nicht bekannt
+Anteil der (Kreuz-)Immunität
+in der Bevölkerung
+Unbekannt, möglicherweise bei
+Kindern
+Nicht beeinflussbar Nicht bekannt
+Tab. 1 | Nicht beeinflussbare Eigenschaften des Erregers und der Erkrankung, die auf den Verlauf einer Epidemie einwirken
+20. März 2020
+scheinlichkeit bei Kontakt und der durchschnittlichen
+Dauer der Infektiosität in Tagen.
+Daraus wird unmittelbar ersichtlich, dass verschie-
+dene Maßnahmen auf diese Faktoren einwirken.
+Zum Beispiel reduzieren Hustenregeln (in die El-
+lenbeuge niesen und husten) und Händehygiene
+die Übertragungswahrscheinlichkeit. Die Isolation
+Erkrankter reduziert die Zahl der Kontakte mit sus-
+zeptiblen Personen. Und Quarantäne von so ge-
+nannten ansteckungsverdächtigen Personen (die im
+Verdacht stehen, schon angesteckt zu sein, aber
+noch nicht infektiös/krank sind), hat zum einen den
+Sinn, dass ein daraus entstehender Fall quasi schon
+isoliert ist (oder die Form der Absonderung bei Er-
+krankung von z.B. häusliche Isolation in Kranken-
+hausisolation umgeändert werden kann), und dass
+die Anzahl der weiteren Kontaktpersonen schon vor
+dem Beginn der Infektiosität (die u.U. schon VOR
+Erkrankungsbeginn gegeben ist [s.o.]) reduziert ist.
+Letztlich zielen die Gegenmaßnahmen darauf ab,
+die Zahl der Folgeinfektionen zu verringern und da-
+mit den Verlauf der Epidemie zumindest zu ver-
+langsamen und die Größe des Ausbruchs zu verrin-
+gern. Die Verhältnismäßigkeit der Maßnahmen ist
+auch immer eine Abwägung zwischen sehr vielen
+unterschiedlichen Interessen.
+Viele andere Erreger haben ähnliche epidemische
+Verläufe, angefangen bei Grippeviren, aber auch an-
+deren respiratorischen und nicht respiratorischen
+Erregern. Warum wird jetzt bei COVID-19 das ge-
+samte zur Verfügung stehende Spektrum an Maß-
+nahmen ergriffen und bei anderen Erkrankungen
+nicht? Die Antwort darauf hat damit zu tun, welcher
+Anteil der Erkrankungen wie schwer verläuft und
+wie lange Patienten mit bestimmten, schwereren
+Erkrankungsstadien v.a. hochspezialisierte Kapazi-
+täten des Gesundheitssystems binden.
+Im vorliegenden Bericht soll daher zunächst ver-
+sucht werden, auf Grundlage der einigermaßen gut
+bekannten Parameter und unter verschiedenen An-
+nahmen der nicht bekannten Eigenschaften des Er-
+regers und der Erkrankung, Szenarien zu beschrei-
+ben, einschließlich der Häufigkeit milder und mode-
+rater Erkrankungen, die nicht krankenhauspflichtig
+sind, sowie der schwereren (krankenhauspflichtigen),
+intensivstationspflichtigen und schließlich tödlich
+verlaufenden Erkrankungen. Daraufhin soll gezeigt
+werden, welchen Einfluss die folgenden Maßnahmen
+auf den Verlauf und die Belastung des Gesundheits-
+wesens haben würden: (1) Isolation Erkrankter, (2) Ab-
+sonderung von Kontaktpersonen Erkrankter und
+(3) Kontaktreduktion in der Gesamtbevölkerung.
+Methoden
+Der Verlauf von COVID-19 wird von drei Prozessen
+gesteuert:
+(1) Die Ausbreitungsdynamik von SARS-
+CoV-2 in Deutschland
+(2) Die Schwereverteilung der COVID-19-
+Erkrankung und die Auswirkungen auf die
+Bevölkerung
+(3) Die jeweilige Dauer der Erkrankungs- bzw.
+Behandlungsstadien und die Auswirkun-
+gen auf das Gesundheitssystem
+Grundannahmen dieser Modellierung
+Wir modellieren die Ausbreitung und Schwere von
+SARS-CoV-2 in der Bevölkerung in Deutschland.
+Vereinfachend nehmen wir an, dass die Altersgrup-
+pen etwa gleich von einer Infektion durch SARS-
+CoV-2 betroffen sind. Insbesondere nehmen wir
+eine proportionale Betroffenheit von Kindern an, da
+bisher – anders als bei Influenzawellen – keine be-
+sonders hohe Ausbreitung von SARS-CoV-2 bei Kin-
+dern beobachtet wurde. Dagegen hat die Schwere
+einer Infektion mit SARS-CoV-2 einen sehr deutli-
+chen Altersbezug, den wir nur über die angenom-
+Faktoren, aus der
+sich die Anzahl von
+Folgeinfektionen
+(R0) ergibt
+Mögliche Maßnahmen, die auf den
+Faktor einwirken
+Übertragungswahr-
+scheinlichkeit bei
+vorhandenem
+Kontakt
+Hustenregeln; Händehygiene; physischen
+Abstand von 1–2 Meter insbes. zu
+Personen mit Atemwegserkrankungen;
+persönliche Schutzausrüstung bei
+medizinischem Personal
+Zahl der Kontakte
+pro Zeiteinheit
+Schnelle Isolation von Erkrankten;
+Quarantäne von ansteckungsverdächtigen
+Personen; Soziale Distanzierung (Absage
+von Veranstaltungen, Schulschließungen, …)
+Dauer der
+Übertragung
+Isolation von Erkrankten
+Tab. 2 | Maßnahmen, die auf die Faktoren einwirken, die die
+Zahl der Folgeerkrankungen determinieren (Basisreprodukti-
+onszahl; R0)
+20. März 2020
+menen mittleren Komplikationsraten modellieren.
+Von schweren Infektionen sind überproportional
+viele ältere Menschen und Menschen mit Vor-
+erkrankungen betroffen.4
+Wir nehmen für diese Modellierung eine Basis-
+reproduktionsrate R0 = 2 an. Diese liegt eher am un-
+teren Rand der derzeitigen Schätzungen.5-7
+Zusätz-
+lich zu diesen Faktoren gibt es möglicherweise eine
+saisonale Modulation der Ausbreitungsstärke von
+SARS-CoV-2. Gründe für eine saisonale Abschwä-
+chung der Ausbreitungsstärke können ähnlich wie
+bei anderen respiratorisch übertragbaren Infektio-
+nen ein anderes Kontaktverhalten und eine niedri-
+gere Wahrscheinlichkeit für einen infektiösen Kon-
+takt aufgrund von ungünstigeren klimatischen Be-
+dingungen für das Virus sein. Da bislang zur Saiso-
+nalität der Ausbreitung wenig bekannt ist,
+vergleichen wir Szenarien „ohne Saisonalität“ mit
+einer „leichten“ und einer „deutlich“ saisonalen
+Ausbreitung. Die Saisonalität wird modelliert als si-
+nusförmiger Verlauf mit einem Maximum am Jahres-
+wechsel und Tiefpunkt Anfang Juli, undulierend
+zwischen dem angenommenen R0 = 2 und einem
+um etwa 1/3 geringeren Wert, R0 = 1,4 (leichte Saiso-
+nalität)8
+sowie einem um 2/3 verminderten Wert,
+R0 = 0,67 (deutliche Saisonalität).8
+Vorbestehende Immunität ist eine weitere Größe,
+die nicht bekannt ist. Wir vergleichen daher ein Sze-
+nario ohne Immunität mit einem mit Immunschutz
+bei einem Drittel der Bevölkerung. In diesem Szenario
+erhöhen wir gleichzeitig den Wert von R0 auf 3, so
+dass am Anfang der Epidemie nach wie vor etwa 2
+Sekundärfälle entstehen (von dreien ist einer bereits
+immun). Es kommt also zu einem ähnlichen Beginn
+der Epidemie, aber in der Folge schneller zu einer
+Situation, in der die meisten Erkrankten auf bereits
+immune Personen treffen, so dass insgesamt deut-
+lich weniger Menschen infiziert werden.
+Für die Modellierung wird Deutschland als einheit-
+licher Raum aufgefasst und geografische Besonder-
+heiten werden nicht berücksichtigt. Diese Annahme
+führt eher zu einer Überschätzung des Ausmaßes
+und der Geschwindigkeit der Ausbreitung. Auf-
+grund der hohen Vernetzung der Regionen inner-
+halb Deutschlands ist ohne Gegenmaßnahmen aber
+grundsätzlich von einer Betroffenheit aller Regio-
+nen auszugehen. Durch die Bildung von Ausbrei-
+tungsclustern kann es allerdings zu Verschiebun-
+gen in der zeitlichen Dynamik kommen. Eine Mög-
+lichkeit, diese geografischen Barrieren im Rahmen
+eines einfachen SEIR-Modells grob darzustellen, be-
+steht darin eine künstliche Immunität anzuneh-
+men, da auch die Clusterbildung dazu führt, dass
+infizierte Personen zu einem bestimmten Zeit-
+punkt der Epidemie hauptsächlich auf Menschen
+treffen, die die Infektion bereits durchlebt haben
+und daher immun sind. Insgesamt könnte also ein
+vergleichbares Szenario wie mit einer Immunität
+von einem Drittel der Bevölkerung entstehen.
+Die weiteren Parameter des Modells orientieren
+sich an einer Schätzung beruhend auf Daten aus der
+Epidemie in China insgesamt und darüber hinaus
+spezifisch aus der Stadt Shenzhen. Die schweren
+Verläufe orientieren sich an den veröffentlichten
+Schätzungen aus ganz China,4
+demnach liegt die
+Wahrscheinlichkeit, bei einem schweren Krank-
+heitsverlauf (severe) auch intensivpflichtig zu wer-
+den, bei etwa 25%. Das Risiko von Intensivpflichti-
+gen zu versterben liegt bei etwa 50%.4
+Schwieriger
+gestaltet sich die Schätzung des Anteils der schwe-
+ren Verläufe unter allen Infizierten. In Bi et al.9
+wird
+unterschieden zwischen Fällen, die in der Surveil-
+lance mit Erkrankungssymptomen aufschlagen und
+den im Rahmen von Kontaktpersonen-Nachverfol-
+gungen gefundenen Fällen. Das Schwereprofil ist
+deutlich unterschiedlich: Während in der Surveil-
+lance symptomatischer Fälle etwa 10% einen schwe-
+ren Verlauf zeigen – und damit nur etwa halb so viele
+wie vom Novel Coronavirus Pneumonia Emergency
+Response Epidemiology Team in China4
+– sind es bei
+den Fällen, die im Rahmen der Kontaktpersonen-
+nachverfolgung als Folgefälle identifiziert wurden,
+3,4% (3 von 87).
+Da die Altersverteilung der Kontaktpersonen in
+Shenzhen nicht repräsentativ ist, könnte eine alle Al-
+tersgruppen in ähnlicher Weise betreffende Epide-
+mie in Shenzhen selber tatsächlich einen noch ge-
+ringeren Schweregrad haben. Die Altersverteilung
+in Deutschland ist im Vergleich zu Shenzhen aber
+deutlich zu den Älteren verschoben, so dass, wenn
+diese Häufigkeitsverteilung auf die Bevölkerung in
+Deutschland angewendet wird, von einem Anteil
+von 4,5% schwerer Verläufe unter allen Infektionen
+in Deutschland ausgegangen wird. Insgesamt
+20. März 2020
+nehmen wir also eine Letalität der Infektion mit
+SARS-CoV-2 von etwa 0,56% an. Auch diese An-
+nahme liegt eher am unteren Rand bestehender
+Schätzungen.10
+Abbildung 1 zeigt den angenommenen Anteil der
+Infektionen, die jeweils das nächst schwerere Stadi-
+um der Erkrankung und Behandlung durchlaufen.
+Die Dauer der Erkrankungsstadien wird wie folgt
+angenommen: Mittlere Latenzzeit (die Zeit von An-
+steckung bis zum Beginn der Infektiosität) 3 Tage,
+mittlere Inkubationszeit 5 Tage, mittlere Dauer der
+Symptome (ohne Krankenhaus-Aufenthalt) 9 Tage,
+mittlere Dauer von Erkrankungsbeginn (Beginn der
+Symptome) bis zur eventuellen Hospitalisierung 4
+Tage, mittlere Liegedauer im Krankenhaus: 14 Tage,
+davon mittlere Dauer bis zur eventuellen Intensiv-
+pflichtigkeit 1 Tag, mittlere Liegedauer auf der
+Intensivstation: 10 Tage.
+Angepasstes SEIR-Modell
+Das SEIR-Modell ist ein etabliertes Modell zur Be-
+schreibung der Ausbreitung einer Epidemie.1-3
+Das
+Modell unterscheidet folgende Gruppen: Suszeptible
+(S), latent Infizierte (E), Infektiöse (I) und Gesundete
+(R). In dem von uns angepassten Modell betrachten
+wir zusätzlich folgende Gruppen, um die Schwere
+der Erkrankung abzubilden: Erkrankte, Hospitali-
+sierte, Intensivpflichtige, Verstorbene, sowie even-
+tuell Immune. Da diese Modellierung die mögli-
+chen Auswirkungen der SARS-CoV-2-Epidemie auf
+Bevölkerungsebene beschreiben soll, betrachten wir
+ein deterministisches Differentialgleichungsmodell
+ohne Zufallseffekte. Die Infektionswahrscheinlich-
+keit wird proportional zum Produkt der Anzahl der
+suszeptiblen Personen und der Anzahl der infektiösen
+Personen zu einem gegebenen Zeitpunkt modelliert.
+Als Startpunkt der Epidemie wird am Anfang der
+Modellierung eine Zahl von 1.000 Infektionen in
+Deutschland angenommen – zur zeitlichen Orien-
+tierung: In Deutschland wurde diese Zahl an Fälle
+zum ersten Mal am 8. März 2020 gemeldet. Es wird
+eine mittlere Rate von einem importierten Fall pro
+Tag angenommen.
+Modellierte Kontrollmaßnahmen
+Als Kontrollmaßnahme wird eine effektive Reduktion
+von Folgeinfektionen erkrankter und nicht erkrankter
+COVID-19-Infizierter modelliert. Wir betrachten:
+▶
+▶ einen modellierten Anteil zwischen 0% und
+90% der Erkrankten, die im Mittel 4 Tage nach
+Symptombeginn positiv getestet werden und
+isoliert werden oder sich selbst isolieren.
+▶
+▶ Quarantäne der engen Kontaktpersonen dieser
+Fälle. Es wird angenommen, dass dadurch von
+20% bzw. 60% der infizierten Kontakte keine
+weiteren Sekundärfälle ausgehen.
+▶
+▶ Dauer der Kontrollmaßnahmen: In dieser Mo-
+dellierung wird ein Aufrechterhalten der Maß-
+nahmen über 2 Jahre angenommen.
+Unter engen Kontakten werden hier Kontakte der
+Kategorie 111
+verstanden, dies sind beispielsweise
+Menschen, die im gleichen Haushalt wohnen, ge-
+meinsame Mahlzeiten einnehmen oder sich häufig
+treffen, siehe hierzu die Ergebnisse der Analyse der
+Kontaktpersonen bei Bi, Q. et al., s. Tabelle 3.9
+Verlauf der Infektion in Tagen
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Infektiosität, 10 Tage
+Symptome, 9 Tage 95,5% Genesung
+| 4,5%
+Krankenhaus, 14 Tage – 75% – Genesung
+| 25%
+Intensivstation, 10 Tage – 50% – Genesung
+| 50%
+Tod
+Abb. 1 | Angenommene Parameter im Modell für die durchschnittliche Dauer der Erkrankungsphasen und die Übergangswahr-
+scheinlichkeiten in Prozent
+20. März 2020
+Ergebnisse
+Bei den Ergebnissen handelt es sich um Beispiel-
+szenarien, um eine Einschätzung möglicher Verläu-
+fe der Epidemie zu bekommen. Viele Annahmen im
+Modell sind mit einer erheblichen Unsicherheit be-
+haftet, die hier nicht systematisch erforscht und dar-
+gestellt werden kann.
+Abbildung 2 zeigt, dass der Referenzverlauf (ohne
+Maßnahmen) abhängig von den Annahmen zur
+möglichen Immunität und Saisonalität unterschied-
+lich ausfällt. Eine Saisonalität der Epidemie führt
+generell zu einer Verlangsamung und Abschwä-
+chung der Epidemie, eine vorbestehende Immuni-
+tät bei gleichem Beginn der Welle zu einem deutlich
+niedrigeren Maximum und niedrigerer Gesamtbe-
+troffenheit. Allen Szenarien ohne Maßnahmen ist
+gemeinsam, dass in den etwa 4 Monaten der epide-
+mischen Welle eine deutliche Überlastung des Ge-
+sundheitssystems zu erwarten ist.
+Abbildung 3 (s.S. 6) illustriert den Verlauf der An-
+zahl parallel Erkrankter und den Effekt der Isolie-
+rung von Erkrankten, sowie den Einfluss der Qua-
+rantänisierung von Kontaktpersonen. Diese zusätzli-
+chen Maßnahmen führen zu deutlichen Effekten bis
+zur Abwendung einer Welle auf Bevölkerungsebene.
+Die Anzahl parallel benötigter Krankenhausbetten
+und Intensivbetten verläuft sehr ähnlich wie die Kurve
+der momentan Erkrankten, aber natürlich in einer
+anderen Größenordnung – gemäß der Annahmen
+verlaufen etwa 4,5% der Infektionen schwer und da-
+mit krankenhauspflichtig, in etwa 1,1% der Infektio-
+nen führen Komplikationen zu Intensivpflichtigkeit.
+Abbildung 4 (s.S. 7) zeigt den Anteil der Bevölke-
+rung, der in den verschiedenen Szenarien von einer
+Infektion mit SARS-CoV-2 betroffen wäre. Das Mo-
+dell ohne Saisonalität und ohne vorbestehende Im-
+munität führt zu einer Infektion von etwa 79% der
+Bevölkerung (65,5 von 83 Millionen). Dieser hohe
+Anteil spiegelt auch die Modellannahme einer
+gleichmäßig durchmischten Bevölkerung wider. In
+dem Szenario mit 1/3 durch Immunität geschützten
+Bevölkerung kommt es zu einer Infektion von 53%
+der Bevölkerung (43,8 von 83 Millionen). Daher
+kann auch dieses Szenario als mögliche Epidemie
+einer vollständig suszeptiblen Bevölkerung inter-
+pretiert werden, bei der es aber nicht zu einer gleich-
+mäßigen Durchmischung kommt, sondern be-
+stimmte Regionen von der Epidemie verschont blie-
+ben oder wenig betroffen wären. Zu einem späteren
+Zeitpunkt könnten hier durch Eintrag von außen
+dann Ausbrüche von SARS-CoV entstehen. Die Iso-
+lations- und Quarantäne-Maßnahmen führen
+schrittweise zu einer deutlichen Verringerung der
+Infektionen in der Bevölkerung bis diese auf Bevöl-
+kerungsebene ganz verschwinden. Damit führen
+diese Maßnahmen aber auch dazu, dass die Bevöl-
+kerung suszeptibel gegenüber SARS-CoV-2 bleibt.
+Abb. 2 | Vergleich des Verlaufs der SARS-CoV-2-Epidemie (Tages-Prävalenz).
+Saisonalität führt generell zu einer Verlangsamung und Abschwächung der Epidemie, eine vorbestehende Immunität bei
+gleichem Beginn der Welle zu einem deutlich niedrigeren Maximum
+0
+2
+4
+6
+8
+10
+0 6 12 18 24
+Zeit in Monaten (seit Anfang März 2020)
+R0 konstant: keiner immun 1/3 immun
+leichte Saisonalität: keiner immun 1/3 immun
+deutliche Saisonalität: keiner immun 1/3 immun
+(in
+Millionen)
+Erwartete
+Anzahl
+momentan
+Erkrankter
+Erwartete Anzahl momentan
+Erkrankter (in Millionen)
+Zeit in Monaten (seit Anfang März 2020)
+R0 konstant: keiner immun
+keiner immun
+keiner immun
+leichte Saisonalität:
+deutliche Saisonalität:
+1/3 immun
+1/3 immun
+1/3 immun
+10
+8
+6
+4
+2
+0
+0 6 12 18 24
+20. März 2020
+Abbildung 5 (s.s. 7) zeigt die maximale Anzahl der
+isolierten Erkrankten. Sie zeigt, dass ein Contain-
+ment der Epidemie nur bei einer relativ hohen Effek-
+tivität der Isolation von Erkrankten mit gleichzeiti-
+ger Quarantänisierung der bereits infizierten engen
+Kontakte funktioniert – im Szenario ohne Saisona-
+lität und ohne vorbestehende Immunität wäre dies
+der Fall für eine Effektivität der Isolation von Er-
+krankten von 70% oder mehr. Kommt es nur zu ei-
+ner teilweisen Abschwächung und Verbreiterung
+der Epidemiekurve (Mitigation), so steigt mit dem
+Anteil der isolierten Fälle auch deren Anzahl deut-
+lich an, bis die kombinierte Isolation und Quarantäne
+so effektiv ist, dass die Welle deutlich kleiner wird.
+Bei mittlerer Effektivität müssten auf dem Höhe-
+punkt der verbreiterten Welle bis zu 600.000 Er-
+krankte parallel isoliert werden. Damit einher geht
+eine immer noch erhebliche Anzahl schwerer Verläufe,
+die auch immer noch zu einer Überlastung des Ge-
+sundheitssystems führen würde.
+Der Anteil an Erkrankten, die – um ein Containment
+zu erreichen – isoliert werden muss, ist ähnlich hoch,
+wenn es eine vorbestehende Immunität gibt, aber die
+Anzahl der zu isolierenden Erkrankten wäre deutlich
+niedriger. Zum Beispiel müssten bei 20% Isolierung
+Erkrankter ohne Saisonalität und ohne Immunität
+etwa 550.000 Patienten isoliert werden (oder sich
+selbst isolieren), bei 1/3 vorbestehender Immunität
+nur etwa 400.000.
+Abb. 3 | Verlauf der Anzahl an COVID-19-Erkrankungen (Tages-Prävalenz) abhängig vom Typ der Saisonalität, vom Anteil der
+quarantänisierten engen Kontakte und vom Anteil isolierter Erkrankungsfälle. Es wurde angenommen, dass es keine vorbeste-
+hende Immunität gibt. Verschwindende Kurven für einen hohen Anteil erfolgreicher Isolation zeigen ein Containment der
+Epidemie an. Die grauen Kurven im Hintergrund symbolisieren den Verlauf von R0, wobei das Maximum jeweils R0 = 2 entspricht
+deutliche Saisonalität, 20% Folgefälle in Quarantäne deutliche Saisonalität, 60% Folgefälle in Quarantäne
+leichte Saisonalität, 20% Folgefälle in Quarantäne leichte Saisonalität, 60% Folgefälle in Quarantäne
+keine Saisonalität, 20% Folgefälle in Quarantäne keine Saisonalität, 60% Folgefälle in Quarantäne
+0 6 12 18 24 0 6 12 18 24
+0 6 12 18 24 0 6 12 18 24
+0 6 12 18 24 0 6 12 18 24
+0
+2
+4
+6
+8
+10
+0
+2
+4
+6
+8
+10
+0
+2
+4
+6
+8
+10
+0
+2
+4
+6
+8
+10
+0
+2
+4
+6
+8
+10
+0
+2
+4
+6
+8
+10
+Zeit in Monaten (seit Anfang März 2020)
+Anzahl
+momentan
+Erkrankter
+(in
+Millionen)
+Anteil
+isolierter
+Erkrankter
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Anzahl
+momentan
+Erkrankter
+(in
+Millionen)
+keine Saisonalität, 20% Folgefälle in Quarantäne keine Saisonalität, 60% Folgefälle in Quarantäne
+leichte Saisonalität, 60% Folgefälle in Quarantäne
+leichte Saisonalität, 20% Folgefälle in Quarantäne
+Anteil isolierter
+Erkrankter
+90
+deutliche Saisonalität, 60% Folgefälle in Quarantäne
+80
+70
+60
+50
+40
+30
+20
+10
+0
+deutliche Saisonalität, 20% Folgefälle in Quarantäne
+Zeit in Monaten (seit Anfang März 2020)
+20. März 2020
+Abb. 4 | Erwartete Gesamtzahl von Infektionen abhängig vom Typ der Saisonalität (von oben nach unten), dem Anteil der
+vorbestehenden Immunität (links/rechts) und dem Anteil erfolgreich isolierter Erkrankter. Dabei wurde zusätzlich angenommen,
+dass 60% der bereits infizierten Kontaktpersonen dieser Fälle erfolgreich quarantänisiert werden konnten .
+0
+20
+40
+60
+0
+20
+40
+60
+0
+20
+40
+60
+0
+20
+40
+60
+0
+20
+40
+60
+0
+20
+40
+60
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leicht Saisonalität, keine Immunität leicht Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität deutliche Saisonalität, 1/3 immun
+(in
+Millionen)
+Erwartete
+Gesamtzahl
+Infektionen
+Anteil isolierter Erkrankter
+Erwartete
+Gesamtzahl
+Infektionen
+(in
+Millionen)
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leichte Saisonalität, 1/3 immun
+leichte Saisonalität, keine Immunität
+deutliche Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität
+Anteil isolierter Erkrankter
+Abb. 5 | Anzahl von parallel isolierter Erkrankter abhängig vom Anteil der Erkrankten, die isoliert werden können, dem Typ der
+Saisonalität (von oben nach unten) und dem Anteil der vorbestehenden Immunität (links/rechts)
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leicht Saisonalität, keine Immunität leicht Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität deutliche Saisonalität, 1/3 immun
+(in
+Tausend)
+Anzahl
+parallel
+isolierter
+Erkrankter
+Anteil isolierter Erkrankter
+Anzahl
+parallel
+isolierter
+Erkrankten
+(in
+Tausend)
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leichte Saisonalität, 1/3 immun
+leichte Saisonalität, keine Immunität
+deutliche Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität
+Anteil isolierter Erkrankter
+20. März 2020
+Die Abbildungen 6 und 7 zeigen, dass durch inten-
+sivere Maßnahmen zur Isolation von Erkrankten
+und Quarantäne enger Kontaktpersonen nach und
+nach die Anzahl der parallel benötigten Kranken-
+haus- und Intensivbetten deutlich reduziert werden
+kann. Nur bei einem Containment der Epidemie
+bleibt die Anzahl der parallel benötigten Betten in
+einem bewältigbaren Rahmen.
+Unter der Annahme, dass der Beginn der Infektio-
+sität nur einen Tag vor Symptombeginn liegt und die
+Generationszeit nur 6 Tage statt 10 Tage beträgt, er-
+gibt das Modell etwas schlankere Kurven der Ta-
+gesprävalenz der Erkrankten, die schneller den Peak
+erreichen (ohne Abbildung). So würde der Verlauf
+ohne Saisonalität bereits Mitte Juni den Peak der Epi-
+demie erreichen und nicht erst Ende Juli wie bei dem
+Abb. 6 | Erforderliche Anzahl von Krankenhausbetten aufgrund paralleler Nutzung auf dem Höhepunkt der Welle abhängig vom Typ der
+Saisonalität, dem Anteil der vorbestehenden Immunität (links/rechts) und dem Anteil erfolgreich isolierter Erkrankter. Dabei wurde
+zusätzlich angenommen, dass 60% der bereits infizierten Kontaktpersonen dieser Fälle erfolgreich quarantänisiert werden konnten
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0
+200
+400
+600
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leicht Saisonalität, keine Immunität leicht Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität deutliche Saisonalität, 1/3 immun
+(in
+Tausend)
+Erforderliche
+Anzahl
+von
+KH-Betten
+Anteil isolierter Erkrankter
+Erforderliche
+Anzahl
+von
+KH-Betten
+(in
+Tausend)
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leichte Saisonalität, 1/3 immun
+leichte Saisonalität, keine Immunität
+deutliche Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität
+Anteil isolierter Erkrankter
+Abb. 7 | Erforderliche Anzahl von Intensivbetten aufgrund paralleler Nutzung auf dem Höhepunkt der Welle abhängig vom Typ der
+Saisonalität, dem Anteil der vorbestehenden Immunität und dem Anteil erfolgreich kontaktreduzierter Erkrankungsfälle. Dabei wurde
+zusätzlich angenommen, dass 60% der bereits infizierten Kontaktpersonen dieser Fälle erfolgreich quarantänisiert werden konnten
+0
+50
+100
+150
+0
+50
+100
+150
+0
+50
+100
+150
+0
+50
+100
+150
+0
+50
+100
+150
+0
+50
+100
+150
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leicht Saisonalität, keine Immunität leicht Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität deutliche Saisonalität, 1/3 immun
+(in
+Tausend)
+Erforderliche
+Anzahl
+von
+Intensiv-Betten
+Anteil isolierter Erkrankter
+Erforderliche
+Anzahl
+von
+Intensivbetten
+(in
+Tausend)
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leichte Saisonalität, 1/3 immun
+leichte Saisonalität, keine Immunität
+deutliche Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität
+Anteil isolierter Erkrankter
+20. März 2020
+Abb. 8 | Erwartete Anzahl von Todesfällen abhängig vom Typ der Saisonalität, dem Anteil der vorbestehenden Immunität und
+dem Anteil erfolgreich kontaktreduzierter Erkrankungsfälle. Dabei wurde zusätzlich angenommen, dass 60% der bereits
+infizierten Kontaktpersonen dieser Fälle erfolgreich quarantänisiert werden konnten
+0
+100
+200
+300
+400
+0
+100
+200
+300
+400
+0
+100
+200
+300
+400
+0
+100
+200
+300
+400
+0
+100
+200
+300
+400
+0
+100
+200
+300
+400
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+0 20 40 60 80 0 20 40 60 80
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leicht Saisonalität, keine Immunität leicht Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität deutliche Saisonalität, 1/3 immun
+(in
+Tausend)
+Erwartete
+Anzahl
+Todesfälle
+Anteil isolierter Erkrankter
+Erwartete
+Anzahl
+Todesfälle
+(in
+Tausend)
+keine Saisonalität, keine Immunität keine Saisonalität, 1/3 immun
+leichte Saisonalität, 1/3 immun
+leichte Saisonalität, keine Immunität
+deutliche Saisonalität, 1/3 immun
+deutliche Saisonalität, keine Immunität
+Anteil isolierter Erkrankter
+betrachteten Szenario. Die Dauer der Hauptbelas-
+tung würde von 4 Monaten auf 3 Monate sinken. Die
+Belastung der Krankenhäuser wäre dagegen etwas
+höher, die benötigten Bettenzahlen für Krankenhäu-
+ser und Intensivstationen würde um knapp 30% an-
+steigen, die Zahl der Todesfälle bliebe etwa gleich.
+Diskussion
+Die Modellierung zeigt sehr anschaulich, dass eine
+ungebremste SARS-CoV-2-Epidemie unter den ge-
+wählten Annahmen, unabhängig von einer gewissen
+vorbestehenden Immunität in der Bevölkerung und
+einer möglicherweise bestehenden Saisonalität spä-
+testens im Herbst oder Winter 2020 zu einer hohen
+Krankheitslast in der Bevölkerung führt. Die größte
+Herausforderung besteht prinzipiell in der Gefahr,
+dass eine sehr große Zahl von Menschen gleichzeitig
+erkranken könnte und damit die verfügbaren Betten-
+kapazitäten sehr deutlich übertroffen würden. Dieser
+Gefahr kann durch eine Reduktion der Folgeerkran-
+kungen in der laufenden Epidemie begegnet werden.
+Diese Aufgabe kann allerdings nicht allein durch
+Maßnahmen der Gesundheitsämter zur Isolierung
+und Kontaktpersonen-Nachverfolgung gelöst werden.
+In welchem Maß die Maßnahmen (Isolation/Selbst-
+isolation; Quarantäne/Selbstquarantäne; allgemei-
+ne Kontaktreduktion) umgesetzt werden, ist schwer
+zu sagen, es müssen aber alle drei zusammenwir-
+ken und sich ergänzen. Zum Teil können Defizite
+in einer Maßnahme von der besseren Erfüllung ei-
+ner der anderen aufgefangen werden. Besonders
+schwer ist das Containment im Szenario ohne Saiso-
+nalität und ohne vorbestehende Immunität, hier
+wären eine Isolation von 70% oder mehr der Er-
+krankten bei gleichzeitiger erfolgreicher Quarantä-
+nisierung von 60% der bereits angesteckten engen
+Kontakte erforderlich. Das zeigt die Relevanz von
+allgemeinen kontaktreduzierenden Maßnahmen.
+Entscheidend für einen hohen Umsetzungs-
+grad ist deren Realisierbarkeit. Solange die Zahl
+der bestätigten Fälle noch klein ist (z.B. Zahl der
+laborbestätigten Fälle unter wenigen Tausend), kön-
+nen Krankenhäuser die Erkrankten isolieren und
+die Gesundheitsämter können enge Kontakte iden-
+tifizieren und quarantänisieren, sowie bei den dar-
+20. März 2020
+aus erwachsenen Fälle genauso verfahren. Durch-
+gehend ist besonders wichtig, dass die engen Kon-
+taktpersonen mit der höchsten Infektionswahr-
+scheinlichkeit, nämlich die Haushaltsmitglieder,
+die Wahrscheinlichkeit für ihre Ansteckung redu-
+zieren. Bei einer höheren Fallzahl kann es auch not-
+wendig sein, dass sich Personen mit oder ohne Labor-
+bestätigung so verhalten, als ob sie COVID-19-Fälle
+sind und ihre engen Kontaktpersonen instruieren,
+in Quarantäne zu gehen. Solches selbstinitiiertes
+Verhalten wird vermutlich aber nur dann auch so-
+ziale Akzeptanz finden, wenn die ganze Gesell-
+schaft schon durch etliche und konsequent durch-
+geführte Maßnahmen versucht, die tägliche Anzahl
+an Kontakten (auf der Arbeit, im Verkehr, beim Ein-
+kauf, in der Freizeit,…) auf ein absolutes Minimum
+zu reduzieren, d.h. eine Quarantäne ist eine Maß-
+nahme, für die es schon viel Verständnis und ge-
+sellschaftliche Akzeptanz gibt.
+Eine Schwierigkeit in der Evaluation getroffener
+Maßnahmen ist, dass aufgrund der Inkubationszeit
+und der Zeit bis zum positiven Nachweis der Er-
+krankung allein schon 6–10 Tage vergehen, und bis
+zum Nachweis eines nachhaltigen Rückgangs der
+Neuinfektionen leicht eine Zeit von ca. 2–3 Wochen
+vergehen kann.
+Da es höchst wahrscheinlich nicht möglich ist die
+Ausbreitung von SARS-CoV-2 völlig zu beenden,
+muss zumindest ein Teil der Maßnahmen nach
+Möglichkeit für einen längeren Zeitraum aufrecht-
+erhalten werden. Um dies zu realisieren ist eine große
+Akzeptanz der Maßnahmen essenziell, so dass der
+Fokus auf Maßnahmen liegen sollte, die nicht ihrer-
+seits zu großen gesellschaftlichen Problemen füh-
+ren. Eine flexible Anpassung erscheint notwendig.
+Eine Herausforderung für die Kommunikation ent-
+steht dabei insbesondere aus der Problematik: je
+„erfolgreicher“ wir sind (= je flacher die Kurve wird),
+umso länger müssen wir durchhalten, bevor ein
+substanzieller Teil der Bevölkerung aufgrund einer
+durchgemachten Infektion einen Immunschutz ge-
+gen SARS-CoV-2 erworben hat.
+Für diese Modellierung wurden R0 und andere Pa-
+rameter bewusst moderat gewählt, daher kann nicht
+ausgeschlossen werden, dass die Epidemie schneller
+verläuft und auch höhere Maximalwerte erreicht wer-
+den. Bei einer vergleichbaren Modellierung für Groß-
+britannien12
+wurden für R0 = 2 eine ähnliche Gesamt-
+zahl an Todesfällen und maximal benötigte Anzahl
+von Intensivbetten geschätzt, siehe Ferguson et al., s.
+Tabelle 4 auf Seite 13, aber es wurden auch höhere
+Werte von R0 in Betracht gezogen und insgesamt eine
+kürzere Generationenzeit von 6,5 Tagen. Dies führt
+insbesondere zu einem schnelleren Erreichen des
+Höhepunkts der epidemischen Welle bereits zwi-
+schen Ende Mai und Mitte Juni 2020. Die Annah-
+men bezüglich der Schwere sind ähnlich wie in der
+vorliegenden Analyse, so wird sogar ein Anteil von
+intensivpflichtigen Verläufen von 30% unter allen
+krankenhauspflichtigen Verläufen angenommen,
+das Risiko von Intensivpflichtigen zu versterben
+wird identisch als 50% angenommen.
+Möglicherweise ist das hohe Sterberisiko von inten-
+sivpflichtigen Personen4
+teilweise auf eine nicht opti-
+male Intensivbetreuung in Überlastungssituationen,
+etwa zu Zeiten des epidemischen Peaks in Wuhan zu-
+rückzuführen. Bei sehr guter Betreuung könnte also
+ein größerer Anteil überleben. Andererseits scheint es
+auch schwer eine Überbelastung aufgrund von hohen
+Fallzahlen auszuschließen. In diesem Fall kann auch
+eine höhere Letalität nicht ausgeschlossen werden.
+Die Tatsache dass die Infektiosität bereits am Tag
+des Symptombeginns sehr hoch ist wird beispiels-
+weise in Zou et al.13
+gezeigt. Die Höhe der Viruslast
+am Tag des Symptombeginns lässt erahnen, dass es
+auch schon am Tag 1 oder Tag 2 vor Symptombeginn
+eine messbare Virusausscheidung gegeben haben
+müsste, siehe Zou et al., s. Abbildung 1C.13
+Auch im
+Rahmen der Ausbruchsuntersuchung früher Fälle
+in Bayern, war die Ansteckung eines Patienten
+durch einen anderen nur unter Annahme von
+präsymptomatischer Übertragung erklärbar. Die
+beiden Patienten hatten einen Symptombeginn am
+gleichen Tag (bisher unveröffentlicht). Diese frühe
+Infektiosität erschwert die Erkennung von Fällen
+vor der Entstehung von Nachfolgefällen sehr deut-
+lich und führt zu der großen Relevanz der Qua-
+rantänisierung von engen Kontaktpersonen.
+Schlussfolgerungen
+Von jetzt an und in den nächsten Wochen sind
+maximale Anstrengungen erforderlich um die
+COVID-19-Epidemie in Deutschland zu verlangsa-
+men, abzuflachen und letztlich die Zahl der Hospi-
+talisierungen, intensivpflichtigen Patienten und
+Todesfälle zu minimieren.
+20. März 2020
+Literatur
+1 Anderson RM, Anderson B, May RM: Infectious di-
+seases of humans: dynamics and control: Oxford uni-
+versity press 1992
+2 Hethcote HW: The mathematics of infectious disea-
+ses. SIAM review 2000;42(4):599–653
+3 Kermack WO, McKendrick AG: A contribution to the
+mathematical theory of epidemics. Proceedings of the
+royal society of london Series A, Containing papers of
+a mathematical and physical character
+1927;115(772):700–21
+4 The Novel Coronavirus Pneumonia Emergency Res-
+ponse Epidemiology Team: The epidemiological cha-
+racteristics of an outbreak of 2019 novel coronavirus
+diseases (COVID-19) in China. China CDC Weekly
+2020;2(x):1–10
+5 Imai N, Cori A, Dorigatti I, et al.: Report 3: transmissi-
+bility of 2019-nCov. Reference Source 2020
+6 Kucharski AJ, Russell TW, Diamond C, et al.: Early dy-
+namics of transmission and control of COVID-19: a
+mathematical modelling study. medRxiv 2020
+7 Zhang S, Diao M, Yu W, et al.: Estimation of the re-
+productive number of Novel Coronavirus (COVID-19)
+and the probable outbreak size on the Diamond Prin-
+cess cruise ship: A data-driven analysis. International
+Journal of Infectious Diseases 2020
+8 Kissler SM, Tedijanto C, Goldstein E, et al.: Projecting
+the transmission dynamics of SARS-CoV-2 through
+the post-pandemic period. medRxiv. 2020.
+9 Bi Q, Wu Y, Mei S, et al.: Epidemiology and Transmis-
+sion of COVID-19 in Shenzhen China: Analysis of 391
+cases and 1,286 of their close contacts. medRxiv 2020
+10 Dorigatti I, Okell L, Cori A, et al.: Report 4: severity of
+2019-novel coronavirus (nCoV). Imperial College Lon-
+don, London 2020
+11 Robert Koch-Institut: Hinweise zum ambulanten Ma-
+nagement von COVID-19-Verdachtsfällen und leicht
+erkrankten bestätigten COVID-19-Patienten. URL:
+www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coron-
+avirus/ambulant.html
+12 Ferguson NM, Laydon D, Nedjati-Gilani G, et al.: on
+behalf of the Imperial College COVID-19 Response
+Team. Impact of non-pharmaceutical interventions
+(NPIs) to reduce COVID-19 mortality and healthcare
+demand. DOI: https://doiorg/1025561/77482. 2020
+13 Zou L, Ruan F, Huang M, et al.: SARS-CoV-2 viral load
+in upper respiratory specimens of infected patients.
+New England Journal of Medicine 2020
+Autoren
+Dr. Matthias an der Heiden | Dr. Udo Buchholz
+Robert Koch-Institut | Abteilung für Infektionsepidemio-
+logie | FG 34 für HIV/AIDS und andere sexuell oder
+durch Blut übertragbare Infektionen
+Korrespondenz: anderHeidenM@rki.de
+Vorgeschlagene Zitierweise
+an der Heiden M, Buchholz U: Modellierung von
+Beispielszenarien der SARS-CoV-2-Epidemie 2020 in
+Deutschland. | DOI 10.25646/6571.2
+Acknowledgement
+Wir danken Dr. Tim Eckmanns, Prof. Dr. Walter Haas,
+Dr. Osamah Hamouda, Prof. Dr. Lars Schaade und
+Prof. Dr. Lothar H. Wieler vom Robert Koch-Institut
+(RKI) und Prof. Dr. Michael Höhle von der Universität
+Stockholm für sehr hilfreiche Kommentare und Anre-
+gungen und die kritische Durchsicht des Manuskriptes.
+20. März 2020
+

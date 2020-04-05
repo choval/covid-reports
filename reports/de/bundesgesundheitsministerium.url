@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.bundesgesundheitsministerium.de/en/coronavirus.html"
+ORG=Germany
+DOWNLOAD_REGEXP="/\"(?P<link>[^\"]+\.pdf)\"/Ui"
+LANG=en,de

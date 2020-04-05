@@ -1,0 +1,24 @@
+{
+    "filename": "BMG_C-19_200316_info_BW_Pflegeheim.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/BMG_C-19_200316_info_BW_Pflegeheim.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586049038,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Sun, 05 Apr 2020 01:10:38 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "376143",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Tue, 17 Mar 2020 10:55:19 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Thu, 16 Apr 2020 10:56:54 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 376143,
+    "modified": 1584442519
+}
