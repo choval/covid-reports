@@ -1,0 +1,23 @@
+{
+    "filename": "Poster Disinfettanti.pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Poster+Disinfettanti.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586089592,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "406342",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 02 Apr 2020 14:33:36 GMT",
+        "set-cookie": "JSESSIONID=EF7F71E9524BD3AF0A1725EFF1B79A25; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Poster Disinfettanti.pdf\"",
+        "date": "Sun, 05 Apr 2020 12:26:31 GMT"
+    },
+    "lang": "it",
+    "size": 406342,
+    "modified": 1585838016
+}

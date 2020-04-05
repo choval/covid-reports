@@ -1,6 +1,10 @@
 # Norway
 
 
+## 2020-04-05
+
+* [2020.04.05---dagsrapport-covid-19b2.pdf](2acfc8ae5889cc048ad1b27836d94085c63119ba/file.pdf) @11:05 GMT
+
 ## 2020-04-04
 
 * [2020-04-04---dagsrapport-covid-19-til-publisering.pdf](9e1bdce2a72f791bda7abd39e32c82cd6a1fc8b2/file.pdf) @11:00 GMT

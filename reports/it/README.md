@@ -3,8 +3,8 @@
 
 ## 2020-04-04
 
-* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ENG.pdf](5054175f81881782bbd98e7ef7307fcb3c878293/file.pdf) @18:09 GMT
+* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ITA.pdf](7881f2225bfb7e07af7e3b25f9ffcda3e0d95fe8/file.pdf) @18:08 GMT
 * [C\_17\_notizie\_4399\_1\_file.pdf](8f1dc784d978f7f725feef4cd2439f1be51db591/file.pdf) @18:01 GMT
 * [C\_17\_notizie\_4399\_0\_file.pdf](5312e4146209a88022f397834bec38c7fc4261f7/file.pdf) @18:01 GMT
@@ -35,6 +35,7 @@
 * [lopinavir\_ritonavir\_02.04.2020.pdf](4546724f240cc52f3d397caedfff7d3a6ef96cc0/file.pdf) @15:32 GMT
 * [idrossiclorochina\_02.04.2020.pdf](4a1020fb9f4e2e87cc9f3acc8879707397d13c14/file.pdf) @15:32 GMT
 * [darunavir\_cobicistat\_02.04.2020.pdf](8d486df7cda7ece1c33d00c05cf192a8330f2fe0/file.pdf) @15:32 GMT
+* [Poster Disinfettanti.pdf](a0bf2f7c805f483911e8b5ebd9b86effba46746c/file.pdf) @14:33 GMT
 * [C\_17\_notizie\_4377\_0\_file.pdf](390cc3dc671fa559a0cefbc333e5d808ec708601/file.pdf) @14:09 GMT
 
 ## 2020-04-01

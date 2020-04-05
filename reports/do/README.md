@@ -3,6 +3,11 @@
 
 ## 2020-04-05
 
+* [MSP-Presupuesto-Consolidado-PIC-para-compras-y-contrataciones-necesarias-referente-al-COVID-19.pdf](a2b39eb23d5e74da750eb3df11d9b406b04e7d7f/file.pdf) @12:25 GMT
+* [PROTOCOLO-PARA-EL-DIAGNÓSTICO-Y-TRATAMIENTO-DEL-CORONAVIRUS-COVID-19.pdf](10816792a338b52bd5f286f6e61b7f24ac40d1ba/file.pdf) @12:24 GMT
+* [DIRECTRICES-PARA-EL-MANEJO-TRASLADO-Y-DISPOSICIÓN-FINAL-DE-CADÁVERES-POR-COVID-19-REPÚBLICA-DOMINICANA-web-6.pdf](a7194e0b5847a5eb1f1f0ef60584e79cd0dfd965/file.pdf) @12:24 GMT
+* [Apoyo-psicosocial-1-Primera-ayuda-psicologica-en-emergencias-y-desastres-3.pdf](b80db92f2cc72a223411129293f826f342611963/file.pdf) @12:24 GMT
+* [Boletin-especial-12-COVID-19-31-08-2020.pdf](4d14beb29cca457e4735a0afa308c6f16970bec6/file.pdf) @12:24 GMT
 * [Recomendaciones-para-pediatras-y-personal-de-salud-que-atiende-niÃ±os-y-niÃ±as-WEB.pdf](dab1ee71852064e6f83d4ec66f916756f078b665/file.pdf) @00:26 GMT
 * [Precauciones-de-Aislamiento-4-3.pdf](fbe8fb4748f9fdf27659b0ddad7703d1d95f48aa/file.pdf) @00:26 GMT
 * [Plan-CONTINGENCIA-COVID-19.pdf](fd7f2480f2b8709db08622d7efb9b8a676ba8d72/file.pdf) @00:26 GMT

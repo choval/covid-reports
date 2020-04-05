@@ -1,0 +1,31 @@
+{
+    "filename": "informe-especial-sobre-coronavirus-covid-19-actualizacion-2130-hs",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-especial-sobre-coronavirus-covid-19-actualizacion-2130-hs",
+    "output": "file.pdf",
+    "downloaded": 1586090407,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 05 Apr 2020 12:40:06 GMT",
+        "server": "Apache",
+        "x-frame-options": "ALLOW-FROM",
+        "x-powered-by": "PHP\/7.3.11",
+        "cache-control": "max-age=0, no-store",
+        "x-drupal-dynamic-cache": "MISS",
+        "link": "<https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-especial-sobre-coronavirus-covid-19-actualizacion-2130-hs>; rel=\"canonical\", <https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-especial-sobre-coronavirus-covid-19-actualizacion-2130-hs>; rel=\"revision\"",
+        "x-ua-compatible": "IE=edge",
+        "content-language": "es",
+        "x-content-type-options": "nosniff",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "vary": "Cookie",
+        "x-generator": "Drupal 8 (https:\/\/www.drupal.org)",
+        "content-security-policy": "frame-ancestors",
+        "x-drupal-cache": "MISS",
+        "last-modified": "Sun, 05 Apr 2020 12:40:06 GMT",
+        "etag": "\"1586090406\"",
+        "content-type": "text\/html; charset=UTF-8",
+        "set-cookie": "ruta.msp=.prod-punif-geote-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 133401,
+    "modified": 1586090415
+}

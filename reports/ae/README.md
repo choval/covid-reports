@@ -1,6 +1,10 @@
 # United Arab Emirates
 
 
+## 2020-04-05
+
+* [News5](e4bb3989cac8f53f00024f8043f45ab370d3bfe0/file.pdf) @12:21 GMT
+
 ## 2020-04-02
 
 * [News1](803faa65e95c69b7af2172a943665cae054ad6e6/file.pdf) @01:38 GMT

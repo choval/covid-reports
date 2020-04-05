@@ -1,6 +1,10 @@
 # France
 
 
+## 2020-04-05
+
+* [point-de-situation-js-4-avril.pdf](a0f7ec3228f4b67b354a5f411a34c419199f4e79/file.pdf) @08:57 GMT
+
 ## 2020-04-02
 
 * [point\_de\_situation\_2\_avril\_2020.pdf](f155096c75c9c1107b24a61699107b6dbd743d8a/file.pdf) @19:15 GMT

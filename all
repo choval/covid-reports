@@ -1,4 +1,5 @@
 #!/bin/sh
+./scripts/raw && \
 ./scripts/kr/files_fix && \
 ./scripts/checkall jp && \
 ./scripts/checkall ec && \
