@@ -1,5 +1,8 @@
 # Paraguay
 
+* [https://www.mspbs.gov.py/covid-19.php](https://www.mspbs.gov.py/covid-19.php)
+* [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
+
 
 ## 2020-04-04
 

@@ -1,0 +1,23 @@
+{
+    "filename": "News6",
+    "uri": "https:\/\/doh.gov.ae\/en\/covid-19\/news\/News6",
+    "output": "file.pdf",
+    "downloaded": 1586099621,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "no-cache, no-store",
+        "pragma": "no-cache",
+        "content-length": "10446",
+        "content-type": "text\/html; charset=utf-8",
+        "expires": "-1",
+        "server": "Microsoft-IIS\/10.0",
+        "set-cookie": "www.doh.gov.ae=!TdeLHwueeOoua3Jkcyv7JP9sLh4G7wnEyaHCkpmGNT6d74fRBnqmbFYtsacEXK1tZx26MOogU9JK0dA=; path=\/; Httponly; Secure",
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET,PUT,POST,DELETE,OPTIONS",
+        "access-control-allow-headers": "Content-Type",
+        "date": "Sun, 05 Apr 2020 15:15:54 GMT"
+    },
+    "lang": "en",
+    "size": 120614,
+    "modified": 1586099633
+}

@@ -1,5 +1,7 @@
 # European Union
 
+* [https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0](https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0)
+
 
 ## 2020-04-01
 

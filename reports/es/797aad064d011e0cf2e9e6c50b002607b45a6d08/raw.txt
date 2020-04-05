@@ -1,129 +1,47 @@
-SECRETARIA GENERAL
-DE SANIDAD
-
 Centro de Coordinación de
 Alertas y Emergencias
 Sanitarias
-
+SECRETARIA GENERAL
+DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
 Actualización nº 46. Enfermedad por el coronavirus (COVID-19)
 16.03.2020
-1,2
-
-RESUMEN EPIDEMIOLÓGICO DE CASOS CONFIRMADOS NOTIFICADOS :
+RESUMEN EPIDEMIOLÓGICO DE CASOS CONFIRMADOS NOTIFICADOS1,2
+:
 España:
-
-Nº de casos
-
-Casos nuevos
-
-IA últimos 14 días
-
+Nº de casos Casos nuevos IA últimos 14 días
 Ingresados
 en UCI
-
 Fallecidos (L)
-
-9.191
-
-1.438
-
-19,60
-
-432
-
-309 (3,4)
-
+9.191 1.438 19,60 432 309 (3,4)
 Otros países y global
-
-nº casos
+Italia Francia Alemania China Corea del Sur Irán Global
+nº casos 24.747 5.423 4.838 81.077 8.236 13.938 153.648
 IA últimos 14 días (casos
 100.000 habitantes)
+39,45 8,01 5,79 0,13 11,46 16,70
 nº nuevos casos (desde última
 actualización 5/3/20 18:00)
+3.590 924 1.043 29 74 1.209 1.220
 nº fallecidos (L)
-
-Italia
-
-Francia
-
-Alemania
-
-China
-
-Corea del Sur
-
-Irán
-
-Global
-
-24.747
-
-5.423
-
-4.838
-
-81.077
-
-8.236
-
-13.938
-
-153.648
-
-39,45
-
-8,01
-
-5,79
-
-0,13
-
-11,46
-
-16,70
-
-3.590
-
-924
-
-1.043
-
-29
-
-74
-
-1.209
-
-1.220
-
 1.809
 (7,3)
-
 91
 (1,7)
-
 12
 (0,2)
-
 3.218
 (4)
-
 75
 (0,9)
-
 724
 (5,2)
-
 5.746
 (3,7)
-
 IA: incidencia acumulada de casos confirmados notificados /100.000 habitantes
 L (letalidad): % fallecidos entre los casos confirmados notificados
-
 1. ANTECEDENTES DEL EVENTO
 El 31 de diciembre de 2019, la Comisión Municipal de Salud y Sanidad de Wuhan (provincia de Hubei,
 China) informó sobre un grupo de 27 casos de neumonía de etiología desconocida, incluyendo siete casos
@@ -137,23 +55,19 @@ denominado por consenso internacional COVID-19.
 El periodo de incubación medio es de 5-6 días, con un rango de 1 a 14 días. Según la información
 proporcionada por la misión de la OMS en China, con 55.924 casos confirmados a 20.02.2020, la mediana
 1
-
 Este informe se publica diariamente a las 13 horas.
+2
 Fuentes de información: OMS situation reports, ECDC, Early Warning Response System, Servicios de Alertas de las Comunidades
 Autónomas de España, China CDC, Center for Health Protection, China; Department of Health, the Government of Hong Kong Special
 Administrative Region.
-2
-
-SECRETARIA GENERAL
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
+SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
 de edad fue de 51 años (rango 2 días a 100 años) con una mayoría de casos (77,8%) entre 30 y 69 años. El
 51% de estos casos fueron varones. Los síntomas de la enfermedad en un más de un 80% son leves (fiebre,
 tos, expectoración, malestar general), mientras que aproximadamente el 20% pueden tener
@@ -161,7 +75,6 @@ manifestaciones clínicas más graves (neumonía y complicaciones clínicas) que
 hospitalario. Las personas con manifestaciones graves de la enfermedad por lo general tienen
 enfermedades de base como hipertensión, enfermedades cardiovasculares, diabetes y enfermedad
 respiratoria crónica.
-
 2. SITUACIÓN ACTUAL
 Situación en España:
 En España, hasta el momento se han registrado 9.191 casos, 309 fallecidos y 530 curados (Tabla 1, Figura
@@ -169,263 +82,111 @@ En España, hasta el momento se han registrado 9.191 casos, 309 fallecidos y 530
 14 días son La Rioja Madrid, Navarra y País Vasco (Figura 4).
 Tabla 1. Casos COVID-19, incidencia acumulada (IA) en los últimos 14 días, ingreso en UCI y fallecidos por
 Comunidades Autónomas en España, 16.03.2020.
-CCAA
-
-Total casos
-
-IA últimos 14 días
-
-Ingreso en UCI
-
-Fallecidos
-
-Andalucía
-Aragón
-Asturias
-Baleares
-Canarias
-Cantabria
-Castilla-La Mancha
-Castilla y León
-Cataluña
-Ceuta
-C. Valenciana
-Extremadura
-Galicia
-Madrid
-Melilla
-Murcia
-Navarra
-País Vasco
-La Rioja
-Total
-
-554
-174
-177
-73
-119
-58
-567
-334
-903
-1
-409
-111
-245
-4.165
-8
-77
-274
-630
-312
-9.191
-
-6,44
-13,19
-17,21
-6,18
-5,20
-8,26
-27,74
-13,79
-11,57
-1,18
-7,87
-9,83
-9,08
-62,07
-9,25
-5,15
-41,73
-28,13
-98,17
-19,30
-
-11
-7
-3
-4
-9
-2
-23
-24
-33
-0
-4
-
-7
-11
-1
-1
-1
-0
-17
-9
-12
-0
-5
-
-1
-
-2
-
-9
-253
-0
-2
-5
-29
-13
-432
-
-2
-213
-0
-0
-1
-23
-4
-309
-
+CCAA Total casos IA últimos 14 días Ingreso en UCI Fallecidos
+Andalucía 554 6,44 11 7
+Aragón 174 13,19 7 11
+Asturias 177 17,21 3 1
+Baleares 73 6,18 4 1
+Canarias 119 5,20 9 1
+Cantabria 58 8,26 2 0
+Castilla-La Mancha 567 27,74 23 17
+Castilla y León 334 13,79 24 9
+Cataluña 903 11,57 33 12
+Ceuta 1 1,18 0 0
+C. Valenciana 409 7,87 4 5
+Extremadura 111 9,83 1 2
+Galicia 245 9,08 9 2
+Madrid 4.165 62,07 253 213
+Melilla 8 9,25 0 0
+Murcia 77 5,15 2 0
+Navarra 274 41,73 5 1
+País Vasco 630 28,13 29 23
+La Rioja 312 98,17 13 4
+Total 9.191 19,30 432 309
 Fuente elaboración propia
-
-SECRETARIA GENERAL
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
+SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
 Figura 1. Casos confirmados de COVID-19 por fecha de diagnóstico e inicio de síntomas en España por
 Comunidades Autónomas, 16.03.2020
-2000
-1800
-1600
-1400
-1200
-1000
-800
-600
-400
-200
-0
-2728293031 1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829 1 2 3 4 5 6 7 8 9 10111213141516
-Febrero
-
-Por fecha de diagnóstico
-
-Marzo
-
-Por inicio de síntomas
-
 Fuente: Elaboración propia (se dispone información de fecha de inicio de síntomas en 739 casos)
-
 Figura 2. Mapa de España según incidencia acumulada los últimos 14 días, 16.03.2020.
-
-SECRETARIA GENERAL
-DE SANIDAD
-
-Centro de Coordinación de
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+2728293031 1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829 1 2 3 4 5 6 7 8 9 10111213141516
+Febrero Marzo
+Por fecha de diagnóstico Por inicio de síntomas
+Centro de Coordinación de
 Alertas y Emergencias
 Sanitarias
-
+SECRETARIA GENERAL
+DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
 Figura 3. Distribución de los casos según tratamiento domiciliario, hospitalario y UCI,16.03.2020.
-
-Resto de
-hospitalizados
-37%
+Figura 4. Casos confirmados de COVID-19 por fecha de diagnóstico en las Comunidades Autónomas donde
+se ha detectado una mayor incidencia en los últimos 14 días, 16.03.2020
 Tto domiciliario
 58%
-
 Hospitalizados
 en UCI
 5%
-
-Figura 4. Casos confirmados de COVID-19 por fecha de diagnóstico en las Comunidades Autónomas donde
-se ha detectado una mayor incidencia en los últimos 14 días, 16.03.2020
-70
-
-1000
-
-60
-50
-
-800
-
-40
-
-600
-
-30
-
-400
-
-20
+Resto de
+hospitalizados
+37%
+0
 10
-
-200
-
-0
+20
+30
+40
+50
+60
+70
 25 26 27 28 29 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-Feb
-
-0
-25 26 27 28 29 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-
-Mar
-
-Feb
-
+Feb Mar
 La Rioja
-140
-
+0
+200
+400
+600
+800
+1000
+25 26 27 28 29 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Feb Mar
 Madrid
-
-Mar
-
+0
+20
+40
+60
+80
 100
-
 120
-
-80
-
-100
-80
-
-60
-
-60
-
-40
-
-40
-
-20
-
-20
-0
-
-0
+140
 25 26 27 28 29 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-Feb
-
-Mar
-
+Feb Mar
 País Vasco
-
+0
+20
+40
+60
+80
+100
 25 26 27 28 29 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-Feb
-
-Mar
-
+Feb Mar
 Navarra
-
 

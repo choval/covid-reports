@@ -27,6 +27,10 @@ foreach($keywords as $k=>$v) {
 $errors = 0;
 $reports = glob('reports/*/*', GLOB_ONLYDIR);
 foreach ($reports as $path) {
+    $basename = basename($path);
+    if ($basename == 'tmp') {
+        continue;
+    }
     $discarded = $path.'/discarded.txt';
     $checked = $path.'/checked.txt';
     if (is_file($discarded) || is_file($checked)) {
@@ -54,6 +58,7 @@ foreach ($reports as $path) {
     $filename = $report['filename'] ?? '';
     $has_keyword = false;
 
+    /*
     foreach ($keywords as $word) {
         if (stripos($uri,$word) !== false
             || stripos($filename,$word) !== false) {
@@ -61,11 +66,12 @@ foreach ($reports as $path) {
             continue 2;
         }
     }
+     */
 
     $raw = file_get_contents($path_raw);
     $raw = preg_replace('/[\s]+/', '', $raw);
     foreach ($keywords as $word) {
-        if (stripos($raw,$word) !== false) {
+        if (mb_stripos($raw,$word) !== false) {
             file_put_contents($checked, $word);
             continue 2;
         }

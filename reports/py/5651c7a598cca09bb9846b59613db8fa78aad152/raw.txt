@@ -1,13 +1,9 @@
 FLUJOGRAMA DE MANEJO EN LA PACIENTE EMBARAZADA
 en el contexto de IRA
 Embarazada con síntomas respiratorios: Fiebre y/o Tos y/o Dificultad Respiratoria
-
-Sí
-
+Emergencia Obstétrica / Trabajo de parto
 NO
-
 INTERNACIÓN
-
 Presenta Signos de
 Alarma Obstétricos
 (Pérdida de líquido o
@@ -15,18 +11,13 @@ sangre por vagina,
 contracciones
 regulares y
 dolorosas, etc.)
-
 NO
-
 Control por
 consultorio
 con
 recomendacio
 nes de signos
 de alarma
-
-SÍ
-
 Pasa a
 Urgencias
 Obstétricas:
@@ -34,12 +25,12 @@ Manejo según
 Protocolo de
 Patologías
 Obstétricas
-
-Emergencia Obstétrica / Trabajo de parto
 SÍ
-
+NO
+SÍ
 Sala de Aislamiento para el Parto
-- Evaluación multidisciplinaria (GinecoObstetricia, Clínica Médica, Pediatría,
+- Evaluación multidisciplinaria (Gineco-
+Obstetricia, Clínica Médica, Pediatría,
 UTI)
 - Utilización de mascarilla
 - Oxígeno disponible en la sala
@@ -58,18 +49,16 @@ Escala de Alerta Precoz
 seguir Protocolo de Código Rojo
 - Cesárea según indicación
 médico/obstétrica
-
-NO
-
 Sala de Aislamiento para Internación de
 Embarazadas
-- Evaluación multidisciplinaria (GinecoObstetricia, Clínica Médica, Pediatría,
+- Evaluación multidisciplinaria (Gineco-
+Obstetricia, Clínica Médica, Pediatría,
 UTI)
 - Utilización de mascarilla
 - Oxígeno disponible en la sala
 - Lavado frecuente de manos con agua
 y jabón
-Análisis de control: hemograma,
+- Análisis de control: hemograma,
 hepatograma, perfil renal, tipificación,
 crasis, gasometría, Orina simple, PCR,
 LDH
@@ -89,7 +78,7 @@ Maduración Pulmonar,
 Neuroprotección Fetal: según
 protocolo y de acuerdo a la Edad
 Gestacional
-
+Sí
 FIGO Declaración COVID-19 (Coronavirus) 12.03.2020
 Insta a los obstetras-ginecólogos y otros profesionales de la salud a prestar
 mucha atención a la salud y el bienestar de las mujeres embarazadas y a tomar
@@ -101,5 +90,4 @@ estándar con casos sospechosos. También es obligatorio obtener un historial de
 viaje detallado para las mujeres embarazadas que presentan fiebre y
 enfermedad respiratoria aguda, así como notificar al equipo de control de
 infecciones en el centro de salud.
-
 

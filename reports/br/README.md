@@ -1,5 +1,11 @@
 # Brazil
 
+* [https://www.saude.gov.br/boletins-epidemiologicos](https://www.saude.gov.br/boletins-epidemiologicos)
+* [https://www.saude.gov.br/campanhas/46452-coronavirus](https://www.saude.gov.br/campanhas/46452-coronavirus)
+* [https://www.saude.gov.br/contratos-coronavirus](https://www.saude.gov.br/contratos-coronavirus)
+* [https://coronavirus.saude.gov.br/profissional-gestor#plano-contigencia-estados](https://coronavirus.saude.gov.br/profissional-gestor#plano-contigencia-estados)
+* [https://www.saude.gov.br/boletins-epidemiologicos](https://www.saude.gov.br/boletins-epidemiologicos)
+
 
 ## 2020-04-04
 

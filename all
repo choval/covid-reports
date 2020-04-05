@@ -1,9 +1,16 @@
 #!/bin/sh
+# Generates raw.txt files by using text extraction or ocr
 ./scripts/raw && \
+# Clean up remaining tmp files
+./scripts/cleantmp && \
+# Fix korean files (encoding/date)
 ./scripts/kr/files_fix && \
-./scripts/checkall jp && \
-./scripts/checkall ec && \
-./scripts/checkall ae && \
-./scripts/checkall gt && \
+# Forcefully check files
+#./scripts/checkall jp && \
+#./scripts/checkall ec && \
+#./scripts/checkall ae && \
+#./scripts/checkall gt && \
+# Detect unrelated to Covid19 files
 ./scripts/unrelated && \
+# If all goes well, generate docs
 ./scripts/generate_docs

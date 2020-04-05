@@ -1,5 +1,8 @@
 # Uruguay
 
+* [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/coronavirus-toda-informacion-aqui](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/coronavirus-toda-informacion-aqui)
+* [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
+
 
 ## 2020-04-05
 

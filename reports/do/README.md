@@ -1,5 +1,10 @@
 # Dominican Republic
 
+* [https://www.msp.gob.do/web/?page_id=6682](https://www.msp.gob.do/web/?page_id=6682)
+* [http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Materiales%20IEC%20COVID-19](http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Materiales%20IEC%20COVID-19)
+* [https://www.msp.gob.do/web/?page_id=6903](https://www.msp.gob.do/web/?page_id=6903)
+* [https://www.msp.gob.do/web/?page_id=6547](https://www.msp.gob.do/web/?page_id=6547)
+
 
 ## 2020-04-05
 
@@ -10,8 +15,6 @@
 * [Boletin-especial-12-COVID-19-31-08-2020.pdf](4d14beb29cca457e4735a0afa308c6f16970bec6/file.pdf) @12:24 GMT
 * [Recomendaciones-para-pediatras-y-personal-de-salud-que-atiende-niÃ±os-y-niÃ±as-WEB.pdf](dab1ee71852064e6f83d4ec66f916756f078b665/file.pdf) @00:26 GMT
 * [Precauciones-de-Aislamiento-4-3.pdf](fbe8fb4748f9fdf27659b0ddad7703d1d95f48aa/file.pdf) @00:26 GMT
-* [Plan-CONTINGENCIA-COVID-19.pdf](fd7f2480f2b8709db08622d7efb9b8a676ba8d72/file.pdf) @00:26 GMT
-* [Directriceds-Adultos-mayores-COVID-19.pdf](073e8c4fc1eba1bcd97500e8d2cee94819b1f831/file.pdf) @00:26 GMT
 * [Centros-penitenciarios-PRINT.pdf](ffa9113da442b3369980c6165003783cbd571054/file.pdf) @00:25 GMT
 * [Apoyo-psicosocial-3-Protección-de-Salud-mental-a-equipos-de-salud-3.pdf](1d49188d250422596ec73f9ae85bc8172cf33f0c/file.pdf) @00:25 GMT
 * [Apoyo-psicosocial-2-Salud-mental-en-epidemias-2.pdf](01d91cd37e366c14de0cd994e5b4da855a98ffff/file.pdf) @00:25 GMT

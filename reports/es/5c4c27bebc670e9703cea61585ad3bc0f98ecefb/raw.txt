@@ -1,13 +1,11 @@
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
 SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
 Actualización nº 52. Enfermedad por el coronavirus (COVID-19).
 22.03.2020 (datos consolidados a las 21:00 horas del 21.03.2020)
 1. SITUACIÓN ACTUAL
@@ -18,401 +16,79 @@ Rioja, Madrid, Navarra y País Vasco (Figura 2 y Figura 3). La distribución por
 hospitalizados, ingresados en UCI y fallecidos se recoge en la Tabla 2
 Tabla 1. Casos COVID-19, incidencia acumulada (IA) en los últimos 14 días, ingreso en UCI y fallecidos por
 Comunidades Autónomas en España, 22.03.2020 (datos consolidados a las 21:00 horas del 21.03.2020).
-
-CCAA
-
-TOTAL conf.
-
-Andalucía
-Aragón
-Asturias
-Baleares
-Canarias
-Cantabria
-Castilla La Mancha
-Castilla y León
-Cataluña
-Ceuta
-C. Valenciana
-Extremadura
-Galicia
-Madrid
-Melilla
-Murcia
-Navarra
-País Vasco
-La Rioja
-ESPAÑA
-
-1.725
-532
-545
-331
-414
-282
-1.819
-1.744
-4.704
-5
-1.604
-384
-915
-9.702
-25
-296
-794
-2.097
-654
-28.572
-
-IA (14 d.) Hospitalizados
-20,10
-39,49
-52,60
-28,10
-18,44
-46,47
-88,74
-71,76
-60,65
-5,90
-31,32
-35,40
-33,71
-142,98
-28,91
-19,75
-120,91
-91,81
-189,08
-59,64
-
-724
-241
-171
-79
-150
-116
-838
-709
-1.681
-0
-590
-87
-227
-8.441
-12
-78
-288
-988
-134
-15.554
-
-IA: Incidencia acumulada (casos acumulados por 100.000 habitantes)
-Fuente elaboración propia
-
-UCI
-
-Fallecidos
-
+CCAA TOTAL conf. IA (14 d.) Hospitalizados UCI Fallecidos
 Nuevos
 respecto
 ayer
-
-55
-45
-15
-14
-32
-9
-76
-106
-298
-0
-113
-8
-35
-834
-1
-16
-30
-81
-17
-1.785
-
-47
-24
-8
-4
-9
-5
-112
-74
-191
-0
-69
-14
-12
-1.021
-0
-1
-14
-97
-18
-1.720
-
-210
-108
-59
-85
-66
-67
-396
-278
-501
-0
-241
-30
-176
-781
-0
-56
-130
-372
-90
-3.646
-
-SECRETARIA GENERAL
+Andalucía 1.725 20,10 724 55 47 210
+Aragón 532 39,49 241 45 24 108
+Asturias 545 52,60 171 15 8 59
+Baleares 331 28,10 79 14 4 85
+Canarias 414 18,44 150 32 9 66
+Cantabria 282 46,47 116 9 5 67
+Castilla La Mancha 1.819 88,74 838 76 112 396
+Castilla y León 1.744 71,76 709 106 74 278
+Cataluña 4.704 60,65 1.681 298 191 501
+Ceuta 5 5,90 0 0 0 0
+C. Valenciana 1.604 31,32 590 113 69 241
+Extremadura 384 35,40 87 8 14 30
+Galicia 915 33,71 227 35 12 176
+Madrid 9.702 142,98 8.441 834 1.021 781
+Melilla 25 28,91 12 1 0 0
+Murcia 296 19,75 78 16 1 56
+Navarra 794 120,91 288 30 14 130
+País Vasco 2.097 91,81 988 81 97 372
+La Rioja 654 189,08 134 17 18 90
+ESPAÑA 28.572 59,64 15.554 1.785 1.720 3.646
+IA: Incidencia acumulada (casos acumulados por 100.000 habitantes)
+Fuente elaboración propia
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
+SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
 Tabla 2. Distribución de casos hospitalizados, ingresados en UI y fallecidos por grupos de edad a 22.03.20.
-Confirmados
-
-Hospitalizados totales
-
-UCI
-
-Fallecidos
-
-n
-
-n
-
-%
-
-n
-
-%
-
-n
-
-%
-
-Letalidad(%)
-
-0-9
-
-129
-
-34
-
-0,50
-
-1
-
-0,21
-
-0
-
-0,00
-
-0,00
-
-10-19
-
-221
-
-15
-
-0,22
-
-0
-
-0,00
-
-1
-
-0,12
-
-0,45
-
-20-29
-
-1285
-
-183
-
-2,69
-
-8
-
-1,65
-
-4
-
-0,50
-
-0,31
-
-30-39
-
-2208
-
-365
-
-5,36
-
-15
-
-3,10
-
-3
-
-0,37
-
-0,14
-
-40-49
-
-2919
-
-663
-
-9,73
-
-40
-
-8,26
-
-9
-
-1,12
-
-0,31
-
-50-59
-
-3129
-
-936
-
-13,74
-
-89
-
-18,39
-
-20
-
-2,48
-
-0,64
-
-60-69
-
-2916
-
-1230
-
-18,05
-
-132
-
-27,27
-
-63
-
-7,83
-
-2,16
-
-70-79
-
-3132
-
-1678
-
-24,63
-
-165
-
-34,09
-
-164
-
-20,37
-
-5,24
-
-80 y +
-
-3020
-
-1710
-
-25,10
-
-34
-
-7,02
-
-541
-
-67,20
-
-17,91
-
+Confirmados Hospitalizados totales UCI Fallecidos
+n n % n % n % Letalidad(%)
+0-9 129 34 0,50 1 0,21 0 0,00 0,00
+10-19 221 15 0,22 0 0,00 1 0,12 0,45
+20-29 1285 183 2,69 8 1,65 4 0,50 0,31
+30-39 2208 365 5,36 15 3,10 3 0,37 0,14
+40-49 2919 663 9,73 40 8,26 9 1,12 0,31
+50-59 3129 936 13,74 89 18,39 20 2,48 0,64
+60-69 2916 1230 18,05 132 27,27 63 7,83 2,16
+70-79 3132 1678 24,63 165 34,09 164 20,37 5,24
+80 y + 3020 1710 25,10 34 7,02 541 67,20 17,91
 Datos obtenidos del análisis sobre 18.959 casos notificados con información de edad.
-
-SECRETARIA GENERAL
-DE SANIDAD
-
-Centro de Coordinación de
+Centro de Coordinación de
 Alertas y Emergencias
 Sanitarias
-
+SECRETARIA GENERAL
+DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
 Figura 1. Casos diarios confirmados de COVID-19 por fecha de notificación, diagnóstico e inicio de
 síntomas.
-5.000
-
-Nº de casos por fecha de inicio de síntomas
-
-4.500
-
-Nº de casos por fecha de diagnóstico
-
-4.000
-3.500
-
-Nº de casos por fecha de notificación
-
-3.000
-2.500
-2.000
-1.500
-1.000
+*Sólo se dispone de fecha de inicio de síntomas y diagnóstico de 10.230 casos
+Fuente elaboración propia
+Figura 2. Casos diarios confirmados de COVID-19 por fecha de notificación en las Comunidades
+Autónomas con mayor incidencia en los últimos 14 días, 22.03.2020 (datos consolidados a las 21:00 horas
+del 21.03.2020)
+0
 500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+4.500
+5.000
 20/02/2020
 21/02/2020
 22/02/2020
@@ -443,933 +119,355 @@ Nº de casos por fecha de notificación
 18/03/2020
 19/03/2020
 20/03/2020
-
+Nº de casos por fecha de inicio de síntomas
+Nº de casos por fecha de diagnóstico
+Nº de casos por fecha de notificación
 0
-
-*Sólo se dispone de fecha de inicio de síntomas y diagnóstico de 10.230 casos
-Fuente elaboración propia
-
-Figura 2. Casos diarios confirmados de COVID-19 por fecha de notificación en las Comunidades
-Autónomas con mayor incidencia en los últimos 14 días, 22.03.2020 (datos consolidados a las 21:00 horas
-del 21.03.2020)
-
-100
-
-2000
-
-80
-
-1500
-
-60
-1000
-
-40
-
-500
-
 20
-0
-24 26 28
-
-1
-
-3
-
-5
-
-7
-
-9
-
-11 13 15 17 19 21
-
-0
-24 26 28
-
-1
-
-3
-
+40
+60
+80
+100
+24 26 28 1 3 5 7 9 11 13 15 17 19 21
 Mar
-
 La Rioja
-150
-
-5
-
-7
-
-9
-
-Madrid
-
-11 13 15 17 19 21
-Mar
-
-400
-300
-
-100
-
-200
-50
-
-100
 0
-
-0
-24 26 28
-
-1
-
-3
-
-5
-
-7
-
-Navarra
-
-9
-
-11 13 15 17 19 21
-Mar
-
-24 26 28
-
-1
-
-3
-
-5
-
-7
-
-9
-
-País Vasco
-
-11 13 15 17 19 21
-Mar
-
-SECRETARIA GENERAL
-DE SANIDAD
-DIRECCIÓN GENERAL DE
-SALUD PÚBLICA, CALIDAD
-E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
-Figura 3. Casos diarios confirmados de COVID-19 por fecha de notificación por Comunidades Autónomas, 22.03.2020 (datos consolidados a las 21:00 horas del 21.03.2020).
-
-300
-
-120
-
-100
-
-250
-
-100
-
-80
-
-200
-
-80
-
-150
-
-60
-
-100
-
-40
-
-50
-
-20
-
-0
-
-60
-40
-20
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Andalucía
-
-Mar
-
-Aragón
-
-80
-
-80
-
-60
-
-60
-
-40
-
-40
-
-20
-
-20
-
-0
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-Mar
-
-Canarias
-
-Mar
-
-Baleares
-
-Mar
-
-150
-
-100
-
-50
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Cantabria
-
-Mar
-
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Asturias
-
-Mar
-
-SECRETARIA GENERAL
-DE SANIDAD
-DIRECCIÓN GENERAL DE
-SALUD PÚBLICA, CALIDAD
-E INNOVACIÓN
-
 500
-
-Centro de Coordinación de
+1000
+1500
+2000
+24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Mar
+Madrid
+0
+50
+100
+150
+24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Mar
+Navarra
+0
+100
+200
+300
+400
+24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Mar
+País Vasco
+Centro de Coordinación de
 Alertas y Emergencias
 Sanitarias
-
-350
-
-1000
-
-300
-
-400
-
-800
-
-250
-
-300
-
-200
-
-600
-
-200
-
-150
-
-400
-
-100
-
-100
-
-200
-
-50
-
-0
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Mar
-
-Castilla La Mancha
-
-Castilla y León
-
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Cataluña Mar
-
-Mar
-
-5
-
-300
-
-60
-
-4
-
-250
-
-50
-
-200
-
-40
-
-150
-
-30
-
-100
-
-20
-
-50
-
-10
-
-3
-2
-1
-0
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Ceuta Mar
-200
-150
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-C. Valenciana
-
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Mar
-
-Extremadura
-
-10
-
-60
-
-8
-
-50
-
-Mar
-
-40
-
-6
-100
-
-30
-4
-
-50
-
-20
-
-2
-
-0
-
-10
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Galicia
-
-Mar
-
-0
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Melilla
-
-Mar
-
-242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
-
-Murcia
-
-Mar
-
-SECRETARIA GENERAL
+SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
+Figura 3. Casos diarios confirmados de COVID-19 por fecha de notificación por Comunidades Autónomas, 22.03.2020 (datos consolidados a las 21:00 horas del 21.03.2020).
+0
+50
+100
+150
+200
+250
+300
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Andalucía
+0
+20
+40
+60
+80
+100
+120
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Aragón
+0
+20
+40
+60
+80
+100
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Baleares
+0
+20
+40
+60
+80
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Canarias
+0
+20
+40
+60
+80
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Cantabria
+0
+50
+100
+150
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Asturias
+Centro de Coordinación de
 Alertas y Emergencias
 Sanitarias
-
+SECRETARIA GENERAL
+DE SANIDAD
+DIRECCIÓN GENERAL DE
+SALUD PÚBLICA, CALIDAD
+E INNOVACIÓN
+0
+100
+200
+300
+400
+500
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Castilla La Mancha
+0
+50
+100
+150
+200
+250
+300
+350
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Castilla y León
+0
+200
+400
+600
+800
+1000
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Cataluña
+0
+1
+2
+3
+4
+5
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Ceuta
+0
+50
+100
+150
+200
+250
+300
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+C. Valenciana
+0
+10
+20
+30
+40
+50
+60
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Extremadura
+0
+50
+100
+150
+200
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Galicia
+0
+2
+4
+6
+8
+10
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Melilla
+0
+10
+20
+30
+40
+50
+60
+242526272829 1 2 3 4 5 6 7 8 9 101112131415161718192021
+Mar
+Murcia
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
+SECRETARIA GENERAL
+DE SANIDAD
+DIRECCIÓN GENERAL DE
+SALUD PÚBLICA, CALIDAD
+E INNOVACIÓN
 SITUACIÓN INTERNACIONAL (datos consultados a las 8:00 horas del 22.03.2020)1
 Situación en Europa:
 En Europa, hasta el día de hoy se han notificado al menos 143.146 casos confirmados. (Tabla 3). Los países con más casos notificados son Italia, España,
 Alemania y Francia. El país con mayor número de fallecidos es Italia (4.825) seguido de España (1.720) y Francia (562) (Tabla 4 y Figura 4).
 Tabla 3. Casos confirmados de COVID-19 en Europa. (Datos consultados a las 8:00 horas del 22.03.2020)
-
-Italia
-
-Países
-
-Casos
-Países
-53.578 Portugal
-
-España
-
-28.572 Chequia
-
-904 Serbia
-
-173 Chipre
-
-67
-
-Alemania
-
-16.662 Irlanda
-
-683 San Marino
-
-151 Macedonia del Norte
-
-67
-
-Francia
-
-14.459 Turquía
-
-Países
-
-Casos
-Países
-253 Lituania
-
-Casos
-69
-
-143 República de Moldavia
-
-66
-
-137 Bosnia y Herzegovina
-
-65
-
-Suiza
-
-4.840 Grecia
-
-670 Armenia
-495 Eslovaquia
-
-Reino Unido
-
-3.983 Luxemburgo
-
-484 Bulgaria
-
-127 Georgia
-
-45
-
-Países Bajos
-
-2.994 Finlandia
-
-450 Croacia
-
-126 Ucrania
-
-41
-
-Austria
-
-2.649 Polonia
-
-425 Letonia
-
-111 Bielorrusia
-
-36
-
-Bélgica
-
-2.257 Islandia
-
-409 Hungría
-
-85 Liechtenstein
-
-34
-
-Noruega
-
-1.742 Eslovenia
-
-341 Andorra
-
-80 Montenegro
-
-13
-
-Suecia
-
-1.623 Rumanía
-
-308 Islas Faroe
-
-80 Mónaco
-
-11
-
-Dinamarca
-
-1.255 Estonia
-
-283 Albania
-
-70 Gibraltar
-
-10
-
-Total
-
+Países Casos Países Casos Países Casos Países Casos
+Italia 53.578 Portugal 1020 Rusia 253 Lituania 69
+España 28.572 Chequia 904 Serbia 173 Chipre 67
+Alemania 16.662 Irlanda 683 San Marino 151 Macedonia del Norte 67
+Francia 14.459 Turquía 670 Armenia 143 República de Moldavia 66
+Suiza 4.840 Grecia 495 Eslovaquia 137 Bosnia y Herzegovina 65
+Reino Unido 3.983 Luxemburgo 484 Bulgaria 127 Georgia 45
+Países Bajos 2.994 Finlandia 450 Croacia 126 Ucrania 41
+Austria 2.649 Polonia 425 Letonia 111 Bielorrusia 36
+Bélgica 2.257 Islandia 409 Hungría 85 Liechtenstein 34
+Noruega 1.742 Eslovenia 341 Andorra 80 Montenegro 13
+Suecia 1.623 Rumanía 308 Islas Faroe 80 Mónaco 11
+Dinamarca 1.255 Estonia 283 Albania 70 Gibraltar 10
+Total 143.146
 1
-
-Casos
-1020 Rusia
-
-143.146
-
 Datos consultados en las páginas web de las autoridades sanitarias de los propios países y en la página web de la Oficina Regional para Europa de la OMS
-
-SECRETARIA GENERAL
-DE SANIDAD
-
-Centro de Coordinación de
+Centro de Coordinación de
 Alertas y Emergencias
 Sanitarias
-
+SECRETARIA GENERAL
+DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
 Tabla 4. Casos confirmados, IA de los últimos 14 días, nº de fallecidos y letalidad en Italia, Francia, Alemania y España (Datos consultados a las 8:00 horas del
 22.03.2020)
-
-Italia
-
-Francia
-
-Alemania
-
-España
-
-nº casos
-
-53.578
-
-14.459
-
-16.662
-
-28.572
-
-nº casos nuevos
-
-6.557
-
-1.847
-
-2.705
-
-3.646
-
-IA últimos 14 días
-
-78,86
-
-20,52
-
-19,17
-
-59,64
-
-nº fallecidos
-
-4.825
-
-562
-
-46
-
-1.720
-
-Letalidad (%)
-
-9,0
-
-3,9
-
-0,3
-
-6,0
-
+Italia Francia Alemania España
+nº casos 53.578 14.459 16.662 28.572
+nº casos nuevos 6.557 1.847 2.705 3.646
+IA últimos 14 días 78,86 20,52 19,17 59,64
+nº fallecidos 4.825 562 46 1.720
+Letalidad (%) 9,0 3,9 0,3 6,0
 IA: Incidencia acumulada (casos acumulados por 100.000 habitantes)
-
-SECRETARIA GENERAL
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
+SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
 Figura 4. Casos nuevos confirmados de COVID-19 por fecha de notificación en Italia, España, Francia y Alemania. (Datos consultados a las 8:00 horas del
 22.03.2020)
-7.000
-
-7.000
-
-6.000
-
-6.000
-
-5.000
-
-5.000
-
-4.000
-
-4.000
-
-3.000
-
-3.000
-
-2.000
-
-2.000
-
-1.000
-
-1.000
-
 0
-
-0
-
-20 22 24 26 28
-
-1
-
-3
-
-5
-
-7
-
-Febrero
-
-9
-
-11 13 15 17 19 21
-
-20 22 24 26 28
-
-Marzo
-
-1
-
-3
-
-5
-
-7
-
-9
-
-Feb
-
-11 13 15 17 19 21
-
-Mar
-
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+20 22 24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Febrero Marzo
 Italia
-
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+20 22 24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Feb Mar
 España
-7.000
-
-7.000
-6.000
-
-6.000
-
-5.000
-
-5.000
-
-4.000
-
-4.000
-
-3.000
-
-3.000
-
-2.000
-
-2.000
-
-1.000
-
-1.000
-
 0
-
-0
-
-20 22 24 26 28
-Febrero
-
-1
-
-3
-
-5
-
-7
-
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+20 22 24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Febrero Marzo
 Francia
-
-9
-
-11 13 15 17 19 21
-
-Marzo
-
-20 22 24 26 28
-Febrero
-
-1
-
-3
-
-5
-
-7
-
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+20 22 24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Febrero Marzo
 Alemania
-
-9
-
-11 13 15 17 19 21
-
-Marzo
-
-SECRETARIA GENERAL
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
+SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
 Situación a nivel global y otros países fuera de Europa:
 A nivel global hasta el día de hoy se han notificado al menos 267.013 casos y 11.201 fallecidos (Tabla 5). Los países de fuera de Europa que han registrado
 más casos aparte de China son Irán, Estados Unidos y Corea del Sur (Tabla 5 y Figura 5). En Estados Unidos, los Estados que más casos han notificado según
 CDC son Nueva York (6834), Washington (1376) y California (982)
 Tabla 5. Casos confirmados, IA de los últimos 14 días, nº de fallecidos y letalidad en China, Irán, Estados Unidos, Corea del Sur y a nivel global. (Datos
 consultados a las 8:00 horas del 22.03.2020)
-
-China
-
-Irán
-
-Estados
+China Irán Estados
 Unidos2
-
 Corea del
 Sur
-
 Global
-
-81.416
-
-19.964
-
-15.219
-
-8.897
-
-267.013
-
-nº casos nuevos
-
-116
-
-1.557
-
-98
-
-IA últimos 14 días
-
-0,05
-
-20,27
-
-4,45
-
-nº fallecidos
-
-3.261
-
-1.433
-
-201
-
-104
-
-11.201
-
-Letalidad (%)
-
-4,0
-
-7,2
-
-1,3
-
-1,2
-
-4,2
-
-nº casos
-
+nº casos 81.416 19.964 15.219 8.897 267.013
+nº casos nuevos 116 1.557 98
+IA últimos 14 días 0,05 20,27 4,45
+nº fallecidos 3.261 1.433 201 104 11.201
+Letalidad (%) 4,0 7,2 1,3 1,2 4,2
 IA: Incidencia acumulada (casos acumulados por 100.000 habitantes)
-
 2
-
 Sin actualizar. CDC actualiza sus cifras de lunes a viernes
-
-SECRETARIA GENERAL
+Centro de Coordinación de
+Alertas y Emergencias
+Sanitarias
+SECRETARIA GENERAL
 DE SANIDAD
 DIRECCIÓN GENERAL DE
 SALUD PÚBLICA, CALIDAD
 E INNOVACIÓN
-
-Centro de Coordinación de
-Alertas y Emergencias
-Sanitarias
-
 Figura 5. Casos nuevos confirmados de COVID-19 por fecha de notificación en Irán y Corea del Sur. (Datos consultados a las 8:00 horas del 22.03.2020)
-4.500
-
-4.500
-
-4.000
-
-4.000
-
-3.500
-
-3.500
-
-3.000
-
-3.000
-
-2.500
-
-2.500
-
-2.000
-
-2.000
-
-1.500
-
-1.500
-
-1.000
-
-1.000
-
-500
-
-500
-
 0
-
-0
-
-16 18 20 22 24 26 28 1
-
-3
-
-Febrero
-
-5
-
-7
-
-9 11 13 15 17 19 21
-Marzo
-
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+4.500
+16 18 20 22 24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Febrero Marzo
 Irán
-
-16 18 20 22 24 26 28 1
-
-3
-
-5
-
-Febrero
-
-7
-
-9 11 13 15 17 19 21
-Marzo
-
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+4.500
+16 18 20 22 24 26 28 1 3 5 7 9 11 13 15 17 19 21
+Febrero Marzo
 Corea del Sur
-
 

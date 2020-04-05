@@ -1,583 +1,110 @@
+- 1 -
 ○ As of 0:00, 18 March 2020, the total number of confirmed cases is 8,413 with 1,540 cases discharged
 from isolation. Newly confirmed cases are 93 in total.
-
-Period
-
-Total
-
-Tested positive
-
-Being tested Tested negative
-
-Confirmed
-
-Discharged
-
-Isolated
-
-Deceased
-
-286,716
-
-8,320
-
-1,401
-
-6,838
-
-81
-
-17,291
-
-261,105
-
-As of 0:00
-18 March (Wed)
-
-295,647
-
-8,413
-
-1,540
-
-6,789
-
-84
-
-16,346
-
-270,888
-
-Differences
-
-+8,931
-
-+93
-
-+139
-
--49
-
-+3
-
--945
-
-+9,783
-
-(since 3 Jan)
-As of 0:00
-17 March (Tues)
-
 ○ Regional distribution of total confirmed cases:
 City
+Total Seoul Busan
 Daeg
-
+u
 Incheo
-
-Gwangj
-
-u
-
 n
-
+Gwangj
 u
-
-48
-
-5,038
-
-27
-
-58
-
-1,048
-
-5
-
-Total
-
-Seoul
-
-Busan
-
-Isolated
-
-6,789
-
-215
-
-Discharged
-
-1,540
-
-55
-
-Daejeon
-
-Ulsan
-
-Sejong
-
-11
-
-18
-
-21
-
-41
-
-6
-
-4
-
-9
-
-0
-
-Deceased
-
-84
-
-0
-
-1
-
-58
-
-0
-
-0
-
-0
-
-0
-
-0
-
-Total
-
-8,413
-
-270
-
-107
-
-6,144
-
-32
-
-17
-
-22
-
-30
-
-41
-
-(Change)
-
-(93)
-
-(5)
-
--
-
-(46)
-
-(1)
-
-(1)
-
--
-
-(2)
-
-(1)
-
-Province
-
-Other
-
+Daejeon Ulsan Sejong
+Isolated 6,789 215 48 5,038 27 11 18 21 41
+Discharged 1,540 55 58 1,048 5 6 4 9 0
+Deceased 84 0 1 58 0 0 0 0 0
+Total 8,413 270 107 6,144 32 17 22 30 41
+(Change) (93) (5) - (46) (1) (1) - (2) (1)
+Province Other
 Gyeong
 -gi
-
 Gang
 -won
-
 Chung
 -buk
-
 Chun
 g
 -nam
-
 Jeon
 -buk
-
 Jeon
 -nam
-
 Gyeong
 -buk
-
 Gyeon
 g-nam
-
 Jeju
-
 Airport
 Screeni
 ng
-
-isolated
-
-215
-
-21
-
-27
-
-102
-
-4
-
-3
-
-922
-
-63
-
-2
-
-11
-
-discharged
-
-59
-
-8
-
-5
-
-16
-
-5
-
-2
-
-235
-
-23
-
-2
-
-0
-
-deceased
-
-3
-
-1
-
-0
-
-0
-
-0
-
-0
-
-21
-
-0
-
-0
-
-0
-
-(Change)
-
-(15)
-
-(1)
-
-(1)
-
-(3)
-
-(2)
-
-(1)
-
-(9)
-
--
-
--
-
-(5)
-
+isolated 215 21 27 102 4 3 922 63 2 11
+discharged 59 8 5 16 5 2 235 23 2 0
+deceased 3 1 0 0 0 0 21 0 0 0
+(Change) (15) (1) (1) (3) (2) (1) (9) - - (5)
 ○ Confirmed cases by date, by region, by gender and age are shown in the following graph and tables.
-
-- 1 -
-
-○ Cases distribution by region:
-
+Period
+(since 3 Jan)
+Total
+Tested positive
+Being tested Tested negative
+Confirmed Discharged Isolated Deceased
+As of 0:00
+17 March (Tues)
+286,716 8,320 1,401 6,838 81 17,291 261,105
+As of 0:00
+18 March (Wed)
+295,647 8,413 1,540 6,789 84 16,346 270,888
+Differences +8,931 +93 +139 -49 +3 -945 +9,783
+- 2 -
+○ Cases distribution by region:
 Region
-
 # of
 cases
-
-Incidence rate
-
 (%)
-
-Region
-
+Incidence rate
 (per 0.1M)
-
+Region
 # of
 cases
-
 (%)
-
 Incidence rate
 (per 0.1M)
-
-Seoul
-
-270 (3.21)
-
-2.77
-
-Gyeonggi
-
-277 (3.29)
-
-2.09
-
-Busan
-
-107 (1.27)
-
-3.14
-
-Gangwon
-
-30 (0.36)
-
-1.95
-
-Daegu
-
-6,144 (73.03)
-
-252.17
-
-Chungbuk
-
-32 (0.38)
-
-2.00
-
-118 (1.40)
-
-5.56
-
-Incheon
-
-32 (0.38)
-
-1.08
-
-Chungnam
-
-Gwangju
-
-17 (0.20)
-
-1.17
-
-Jeonbuk
-
-9 (0.11)
-
-0.50
-
-Daejeon
-
-22 (0.26)
-
-1.49
-
-Jeonnam
-
-5 (0.06)
-
-0.27
-
-Ulsan
-
-30 (0.36)
-
-2.62
-
-Gyeongbuk
-
-Sejong
-
-41 (0.49)
-
+Seoul 270 (3.21) 2.77 Gyeonggi 277 (3.29) 2.09
+Busan 107 (1.27) 3.14 Gangwon 30 (0.36) 1.95
+Daegu 6,144 (73.03) 252.17 Chungbuk 32 (0.38) 2.00
+Incheon 32 (0.38) 1.08 Chungnam 118 (1.40) 5.56
+Gwangju 17 (0.20) 1.17 Jeonbuk 9 (0.11) 0.50
+Daejeon 22 (0.26) 1.49 Jeonnam 5 (0.06) 0.27
+Ulsan 30 (0.36) 2.62 Gyeongbuk 1,178 (14.00) 44.24
+Sejong 41 (0.49) 11.98 Gyeongnam 86 (1.02) 2.56
 Airport
 Screening
-
-1,178 (14.00)
-
-11.98 Gyeongnam
-
-11 (0.13)
-
--
-
-86 (1.02)
-
-2.56
-
-4 (0.05)
-
-0.60
-
-Jeju
-Total
-
-44.24
-
-8,413 (100)
-
-16.23
-
+11 (0.13) - Jeju 4 (0.05) 0.60
+Total 8,413 (100) 16.23
 ○ Case distribution by gender and age:
-
 Classification
-Total
-
-Sex
-
-Age
-
 Confirmed
-
-(%)
 Cases
-8,413 (100.0)
-
-Deaths (%)
-
-Fatality rate (%)
-
-84 (100.0)
-
-1.00
-1.39
-
-Male
-
-3,240 (38.51)
-
-45 (53.57)
-
-Female
-
-5,173 (61.49)
-
-39 (46.43)
-
-80 and above
-
-286 (3.40)
-
-31 (36.90)
-
-10.84
-
-70-79
-
-542 (6.44)
-
-29 (34.52)
-
-5.35
-
-60-69
-
-1,059 (12.59)
-
-16 (19.05)
-
-1.51
-
-50-59
-
-1,615 (19.20)
-
-6 (7.14)
-
-0.37
-
-40-49
-
-1,171 (13.92)
-
-1 (1.19)
-
-0.09
-
-30-39
-
-873 (10.38)
-
-1 (1.19)
-
-0.11
-
-20-29
-
-2,342 (27.84)
-
-0 (0.00)
-
--
-
-10-19
-
-438 (5.21)
-
-0 (0.00)
-
--
-
-87 (1.03)
-
-0 (0.00)
-
--
-
-0-9
-
-- 2 -
-
-0.75
-
-Age distribution of confirmed cases
-
+(%) Deaths (%) Fatality rate (%)
+Total 8,413 (100.0) 84 (100.0) 1.00
+Sex
+Male 3,240 (38.51) 45 (53.57) 1.39
+Female 5,173 (61.49) 39 (46.43) 0.75
+Age
+80 and above 286 (3.40) 31 (36.90) 10.84
+70-79 542 (6.44) 29 (34.52) 5.35
+60-69 1,059 (12.59) 16 (19.05) 1.51
+50-59 1,615 (19.20) 6 (7.14) 0.37
+40-49 1,171 (13.92) 1 (1.19) 0.09
+30-39 873 (10.38) 1 (1.19) 0.11
+20-29 2,342 (27.84) 0 (0.00) -
+10-19 438 (5.21) 0 (0.00) -
+0-9 87 (1.03) 0 (0.00) -
+- 3 -
+Age distribution of confirmed cases
 Age distribution of deaths
-
 ○ Cases distribution by region:
-
-- 3 -
-
 - 4 -
-
 - 5 -
-
 

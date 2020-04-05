@@ -1,67 +1,6 @@
 ○ As of 0:00, 25 March 2020, a total of 9,137 cases (including 227 imported cases) have been confirmed,
 of which 3,730 cases have been discharged from isolation. Newly confirmed cases are 100 in total.
 [Table 1. Total confirmed and suspected cases]
-Period
-(since 3 Jan)
-As of 0:00
-24 March (Tues)
-As of 0:00
-25 March (Wed)
-Change
-
-Total
-
-Tested positive
-Confirmed Discharged Isolated
-
-Deceased
-
-Being tested
-
-Tested negative
-
-348,582
-
-9,037
-
-3,507
-
-5,410
-
-120
-
-15,440
-
-324,105
-
-357,896
-
-9,137
-
-3,730
-
-5,281
-
-126
-
-14,278
-
-334,481
-
-9,314
-
-100
-
-223
-
--129
-
-6
-
--1,162
-
-10,376
-
 ○ Epidemiological links have been found for 82.4% of the total cases; 15.1% are either under
 investigation or sporadic cases. More details on the epidemiological links within each province or city are
 shown in Table 2.
@@ -80,56 +19,29 @@ confirmed cases, no confirmed case was found.
 ○ From Hansarang Convalescent Hospital in Daegu, 9 additional cases were confirmed. The current total
 is 101 confirmed cases since 16 March. (Patients in inpatient care = 75; staff = 2; discharged patients =
 3; visitor = 1)
-
+Period
+(since 3 Jan)
+Total
+Tested positive
+Being tested Tested negative
+Confirmed Discharged Isolated Deceased
+As of 0:00
+24 March (Tues)
+348,582 9,037 3,507 5,410 120 15,440 324,105
+As of 0:00
+25 March (Wed)
+357,896 9,137 3,730 5,281 126 14,278 334,481
+Change 9,314 100 223 -129 6 -1,162 10,376
 ○ In light of the rise in the percentage of imported cases, screening at port entry and strict
 self-quarantine monitoring is important.
-Date
-Confirmed cases
-
-23 March
-64
-
-24 March
-76
-
-25 March
-100
-
-Total
-
-18 (28.2%)
-
-25 (32.9%)
-
-51 (51.0%)
-
-Europe
-
-7
-
-20
-
-29
-
-US
-
-11
-
-5
-
-13
-
-Others
-
-0
-
-0
-
-9
-
+Date 23 March 24 March 25 March
+Confirmed cases 64 76 100
 Imported
 cases
-
+Total 18 (28.2%) 25 (32.9%) 51 (51.0%)
+Europe 7 20 29
+US 11 5 13
+Others 0 0 9
 ○ In light of the recent surge in COVID-19 cases in the United States and the rise in the number of
 imported cases from the US, starting 0:00 of 27 March, a stronger screening process will be applied for
 inbound travelers from the United States. All symptomatic persons entering from the US, regardless of
@@ -155,7 +67,6 @@ wearing a mask and in their own car if possible, and disclose their internationa
 healthcare professionals.
 ○ The KCDC also advised employers to ensure that employees returning from international business trips
 will not return to their office for the first 2 weeks upon their return.
-
 ○ The KCDC stressed the importance of keeping a clean environment and asked citizens to follow the
 instructions for safe and proper use when using disinfectants. Frequently used surfaces and objects should
 be disinfected using a cloth wetted with 70% ethanol (alcohol) or diluted sodium hypochlorite (household
@@ -174,467 +85,99 @@ develop symptoms mid-day should be sent home immediately. The government has als
 operation of high-risk facilities including religious facilities, some indoor fitness facilities, and nightlife
 venues. Venues that remain in operation must strictly comply with infection prevention guidelines (e.g.
 disinfecting, ventilation, distancing, mask wearing) set by the authorities.
-
 [Table 2. Regional distribution and epidemiological links of the confirmed cases]
-Confirmed cases
-Epidemiological links
-
 Region
-
+Confirmed cases
 Other major
 epidemiological links
-
-Subtotal
-
-Shincheonji
-
+Total
+Imported
+cases
+Epidemiological links
+Other*
+New
+cases
+Sub-
+total
+Shin-
+cheonji
 Small
 clusters
-
 Contacts
 of
 confirmed
 cases
-
-58
-
-259
-
-7
-
-194
-
-35
-
-23
-
-30
-
-13
-
-112
-
-2
-
-76
-
-11
-
-49
-
-16
-
-0
-
-34
-
-1
-
-Daegu
-
-6456
-
-2
-
-5,427
-
-4,387
-
-321
-
-719
-
-0
-
-1,027
-
-14
-
-Incheon
-Gwangju
-
-42
-
-6
-
-34
-
-2
-
-27
-
-3
-
-2
-
-2
-
-1
-
-19
-
-4
-
-14
-
-9
-
-0
-
-2
-
-3
-
-1
-
-0
-
-Daejeon
-
-24
-
-0
-
-14
-
-2
-
-9
-
-3
-
-0
-
-10
-
-0
-
-Ulsan
-
-37
-
-6
-
-24
-
-16
-
-1
-
-4
-
-3
-
-7
-
-1
-
-Sejong
-
-44
-
-0
-
-41
-
-1
-
-37
-
-3
-
-0
-
-3
-
-2
-
-Gyeonggi
-
-387
-
-36
-
-298
-
-30
-
-204
-
-54
-
-10
-
-53
-
-21
-
-Gangwon
-
-31
-
-2
-
-23
-
-18
-
-5
-
-0
-
-0
-
-6
-
-1
-
-38
-
-0
-
-30
-
-12
-
-11
-
-7
-
-0
-
-8
-
-0
-
-Goesan-gun Jangyeon-myeon
-(11)
-
-123
-
-4
-
-112
-
-0
-
-112
-
-0
-
-0
-
-7
-
-3
-
-Gym facilities in Cheonan (103),
-research center in Seosan (8),
-etc.
-
-10
-
-3
-
-1
-
-1
-
-0
-
-0
-
-0
-
-6
-
-0
-
-8
-
-0
-
-4
-
-1
-
-0
-
-2
-
-1
-
-4
-
-2
-
-Total
-
 Imported
 cases
-
-Seoul
-
-347
-
-Busan
-
-Chungbuk
-Chungnam
-Jeonbuk
-Jeonnam
-Gyeongbuk
-Gyeongnam
-Jeju
-Airport
-Total
-
-Imported
-cases
-
-Other*
-
-New
-cases
-
-1262
-
-0
-
-1,103
-
-551
-
-379
-
-172
-
-1
-
-159
-
-5
-
-90
-
-2
-
-72
-
-32
-
-35
-
-5
-
-0
-
-16
-
-0
-
-6
-
-1
-
-0
-
-0
-
-0
-
-0
-
-0
-
-5
-
-2
-
-101
-
-101
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-34
-
-227
-
-7,532
-
-5,080
-
-1,384
-
-1,025
-
-43
-
-1,378
-
-(2.5%)
-
-(82.4%)
-
-(55.6%)
-
-(15.1%)
-
-(11.2%)
-
-(0.5%)
-
-(15.1%)
-
-9137
-
+Seoul 347 58 259 7 194 35 23 30 13
 Guro-gu call center (95),
 Dongan Church-PC Cafe (20),
 etc.
+Busan 112 2 76 11 49 16 0 34 1
 Onchun Church (32),
 Suyeong-gu Kindergarten (5),
 etc.
+Daegu 6456 2 5,427 4,387 321 719 0 1,027 14
 Hansarang Convalescent
 Hospital (101), Daesil
 Convalescent Hospital (78),
 KimSin Recuperation Hospital
 (31), Kwak’s Hospital (15), etc.
-Guro-gu call center (20), etc.
+Incheon 42 6 34 2 27 3 2 2 1 Guro-gu call center (20), etc.
+Gwangju 19 4 14 9 0 2 3 1 0
+Daejeon 24 0 14 2 9 3 0 10 0
 Korea Forest Engineer Institute
 (3), etc.
+Ulsan 37 6 24 16 1 4 3 7 1
+Sejong 44 0 41 1 37 3 0 3 2
 Ministry of Oceans and Fisheries
 (29), gym facilities (8)
+Gyeonggi 387 36 298 30 204 54 10 53 21
 Grace River Church in
 Seongnam (68), Guro-gu call
 center-Bucheon SaengMyeongSu
 Church (43), etc.
+Gangwon 31 2 23 18 5 0 0 6 1
 Apartments in Wonju City (3),
 etc.
-
+Chung-
+buk
+38 0 30 12 11 7 0 8 0
+Goesan-gun Jangyeon-myeon
+(11)
+Chung-
+nam
+123 4 112 0 112 0 0 7 3
+Gym facilities in Cheonan (103),
+research center in Seosan (8),
+etc.
+Jeon-
+buk
+10 3 1 1 0 0 0 6 0
+Jeon-
+nam
+8 0 4 1 0 2 1 4 2
+Gyeong-
+buk
+1262 0 1,103 551 379 172 1 159 5
 Cheongdo Daenam Hospital
 (120), Bonghwa Pureun Nursing
 Home (68), pilgrimage to Israel
 (49), Gyeongsan Seorin Nursing
 Home (32), etc.
+Gyeong-
+nam
+90 2 72 32 35 5 0 16 0
 Geochang Church (10),
 Geochang Woongyang-myeon
 (8), etc.
-
+Jeju 6 1 0 0 0 0 0 5 2
+Airport 101 101 0 0 0 0 0 0 34
+Total 9137
+227 7,532 5,080 1,384 1,025 43 1,378
 100
-
+(2.5%) (82.4%) (55.6%) (15.1%) (11.2%) (0.5%) (15.1%)
 * Not classified into a cluster or under investigation
 ※ The interim classification is based on the reporting location, which may change depending on further epidemiological
 investigation.
-
 

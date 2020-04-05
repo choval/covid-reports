@@ -1,386 +1,165 @@
 PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 3760
+Brescia 2918
+Como 220
+Cremona 1881
+Lecco 386
+Lodi 1362
+Monza Brianza 346
+Milano 1983
+Mantova 382
+Pavia 801
+Sondrio 46
+Varese 202
+in fase di verifica e aggiornamento 362
+Totale 14649
+Piacenza 1073
+Parma 707
+Reggio Emilia 241
+Modena 440
+Bologna 291
+Ferrara 44
+Ravenna 114
+Forlì Cesena 103
+Rimini 509
+altro/in fase di verifica
+Totale 3522
+PADOVA 715
+ROVIGO 27
+VENEZIA 356
+VICENZA 287
+VERONA 425
+BELLUNO 101
+TREVISO 452
+altro/in fase di verifica 110
+Totale 2473
+ANCONA 323
+PESARO 733
+MACERATA 117
+FERMO 36
+ASCOLI PICENO 21
+altro/in fase di verifica 12
+Totale 1242
 Covid 19 - Ripartizione dei contagiati per provincia al 16/03/2020
 ore 17
-
 LOMBARDIA
-Bergamo
-Brescia
-Como
-Cremona
-Lecco
-Lodi
-Monza Brianza
-Milano
-Mantova
-Pavia
-Sondrio
-Varese
-in fase di verifica e aggiornamento
-
-3760
-2918
-220
-1881
-386
-1362
-346
-1983
-382
-801
-46
-202
-362
-
-Totale
-
-14649
-
-EMILIA-ROMAGNA
-Piacenza
-Parma
-Reggio Emilia
-Modena
-Bologna
-Ferrara
-Ravenna
-Forlì Cesena
-Rimini
-altro/in fase di verifica
-
-1073
-707
-241
-440
-291
-44
-114
-103
-509
-
-Totale
-
-3522
-
 VENETO
-PADOVA
-ROVIGO
-VENEZIA
-VICENZA
-VERONA
-BELLUNO
-TREVISO
-altro/in fase di verifica
-
-715
-27
-356
-287
-425
-101
-452
-110
-
-Totale
-
-2473
-
+EMILIA-ROMAGNA
 MARCHE
-ANCONA
-PESARO
-MACERATA
-FERMO
-ASCOLI PICENO
-altro/in fase di verifica
-
-323
-733
-117
-36
-21
-12
-
-Totale
-
-1242
-
 PCM-DPC dati forniti dal Ministero della Salute
-
-PIEMONTE
-ALESSANDRIA
-ASTI
-BIELLA
-CUNEO
-Novara
-Torino
-VERCELLI
-Verbano-Cusio-Ossola
-altro/in fase di aggiornamento
-
-273
-87
-67
-91
-109
-542
-99
-58
-190
-
-Totale
-
-1516
-
+ALESSANDRIA 273
+ASTI 87
+BIELLA 67
+CUNEO 91
+Novara 109
+Torino 542
+VERCELLI 99
+Verbano-Cusio-Ossola 58
+altro/in fase di aggiornamento 190
+Totale 1516
+Firenze 186
+Pistoia 90
+Lucca 138
+Siena 66
+Massa Carrara 117
+Arezzo 43
+Pisa 78
+Livorno 53
+Grosseto 50
+Prato 45
+Totale 866
+NAPOLI 219
+Salerno 57
+Caserta 60
+Avellino 49
+Benevento 4
+altro/in fase di verifica 11
+Totale 400
+Roma 412
+Frosinone 44
+Viterbo 27
+Rieti 11
+Latina 23
+in fase di aggiornamento 6
+Totale 523
+SAVONA 96
+LA SPEZIA 60
+IMPERIA 78
+GENOVA 274
+altro/in fase di verifica 159
+Totale 667
 TOSCANA
-Firenze
-Pistoia
-Lucca
-Siena
-Massa Carrara
-Arezzo
-Pisa
-Livorno
-Grosseto
-Prato
-
-186
-90
-138
-66
-117
-43
-78
-53
-50
-45
-
-Totale
-
-866
-
-CAMPANIA
-NAPOLI
-Salerno
-Caserta
-Avellino
-Benevento
-altro/in fase di verifica
-
-219
-57
-60
-49
-4
-11
-
-Totale
-
-400
-
-LAZIO
-Roma
-Frosinone
-Viterbo
-Rieti
-Latina
-in fase di aggiornamento
-
-412
-44
-27
-11
-23
-6
-
-Totale
-
-523
-
+PIEMONTE
 LIGURIA
-SAVONA
-LA SPEZIA
-IMPERIA
-GENOVA
-altro/in fase di verifica
-
-96
-60
-78
-274
-159
-
-Totale
-
-667
-
+LAZIO
+CAMPANIA
 PCM-DPC dati forniti dal Ministero della Salute
-
-FRIULI VENEZIA GIULIA
-Trieste
-Gorizia
-Udine
-Pordenone
+Trieste 164
+Gorizia 16
+Udine 152
+Pordenone 54
 Friuli in aggiornamento
-
-164
-16
-152
-54
-
-Totale
-
-386
-
-SICILIA
-AGRIGENTO
-CALTANISSETTA
-CATANIA
-ENNA
-MESSINA
-PALERMO
-RAGUSA
-SIRACUSA
-TRAPANI
-
-22
-4
-96
-5
-11
-37
-4
-21
-13
-
-Totale
-
-213
-
-PUGLIA
-BARI
-BAT
-BRINDISI
-FOGGIA
-LECCE
-TARANTO
-
-58
-22
-40
-62
-38
-10
-
-TOTALE
-
-230
-
-UMBRIA
-Perugia
-Terni
+Totale 386
+AGRIGENTO 22
+CALTANISSETTA 4
+CATANIA 96
+ENNA 5
+MESSINA 11
+PALERMO 37
+RAGUSA 4
+SIRACUSA 21
+TRAPANI 13
+Totale 213
+BARI 58
+BAT 22
+BRINDISI 40
+FOGGIA 62
+LECCE 38
+TARANTO 10
+TOTALE 230
+Perugia 104
+Terni 60
 Da aggiornare
-
-104
-60
-
-Totale
-
-164
-
+Totale 164
+L'Aquila 18
+Chieti 38
+Pescara 101
+Teramo 19
+Totale 176
+Campobasso 21
+Totale 21
+Bolzano 241
+Trento 378
+Totale 619
+UMBRIA
+FRIULI VENEZIA GIULIA
 ABRUZZO
-L'Aquila
-Chieti
-Pescara
-Teramo
-
-18
-38
-101
-19
-
-Totale
-
-176
-
 MOLISE
-Campobasso
-
-21
-
-Totale
-
-21
-
+PUGLIA
 TRENTINO ALTO ADIGE
-Bolzano
-Trento
-
-241
-378
-
-Totale
-
-619
-
+SICILIA
 PCM-DPC dati forniti dal Ministero della Salute
-
-SARDEGNA
-Città metropolitana di Cagiari
-Sud Sardegna
-Oristano
-Nuoro
-Sassari
-
-24
-5
-2
-19
-57
-
-Totale
-
-107
-
-BASILICATA
-Potenza
-Matera
-
-8
-4
-
-Totale
-
-12
-
-VALLE D'AOSTA
-AOSTA
-
-105
-
-Totale
-
-105
-
+Città metropolitana di Cagiari 24
+Sud Sardegna 5
+Oristano 2
+Nuoro 19
+Sassari 57
+Totale 107
+Potenza 8
+Matera 4
+Totale 12
+AOSTA 105
+Totale 105
+COSENZA 17
+REGGIO CALABRIA 22
+CATANZARO 6
+VIBO VALENTIA 6
+CROTONE 17
+Altro/In fase di aggiornamento 21
+Totale 89
+Totale Generale 27980
 CALABRIA
-COSENZA
-REGGIO CALABRIA
-CATANZARO
-VIBO VALENTIA
-CROTONE
-Altro/In fase di aggiornamento
-
-17
-22
-6
-6
-17
-21
-
-Totale
-
-Totale Generale
-
-89
-
-27980
-
+VALLE D'AOSTA
+SARDEGNA
+BASILICATA
 

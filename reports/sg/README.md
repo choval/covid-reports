@@ -1,5 +1,8 @@
 # Singapore
 
+* [https://www.gov.sg/article/covid-19-cases-in-singapore](https://www.gov.sg/article/covid-19-cases-in-singapore)
+* [https://www.gov.sg/article/covid-19-resources](https://www.gov.sg/article/covid-19-resources)
+
 
 ## 2020-04-04
 

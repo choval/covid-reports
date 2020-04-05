@@ -1,394 +1,168 @@
 PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 5869
+Brescia 5028
+Como 452
+Cremona 2733
+Lecco 818
+Lodi 1693
+Monza Brianza 1084
+Milano 4672
+Mantova 842
+Pavia 1194
+Sondrio 179
+Varese 359
+in fase di verifica e aggiornamento 592
+Totale 25515
+Piacenza 1693
+Parma 1014
+Reggio Emilia 977
+Modena 906
+Bologna 610
+Ferrara 123
+Ravenna 287
+Forlì Cesena 269
+Rimini 826
+altro/in fase di verifica
+Totale 6705
+PADOVA 1155
+VENEZIA 666
+ROVIGO 68
+VICENZA 572
+VERONA 954
+BELLUNO 212
+TREVISO 806
+altro/in fase di verifica 184
+Totale 4617
+ANCONA 564
+PESARO 1186
+MACERATA 238
+FERMO 82
+ASCOLI PICENO 50
+altro/in fase di verifica 33
+Totale 2153
 Covid 19 - Ripartizione dei contagiati per provincia al 21/03/2020
 ore 17
-
 LOMBARDIA
-Bergamo
-Brescia
-Como
-Cremona
-Lecco
-Lodi
-Monza Brianza
-Milano
-Mantova
-Pavia
-Sondrio
-Varese
-in fase di verifica e aggiornamento
-
-5869
-5028
-452
-2733
-818
-1693
-1084
-4672
-842
-1194
-179
-359
-592
-
-Totale
-
-25515
-
-EMILIA-ROMAGNA
-Piacenza
-Parma
-Reggio Emilia
-Modena
-Bologna
-Ferrara
-Ravenna
-Forlì Cesena
-Rimini
-altro/in fase di verifica
-
-1693
-1014
-977
-906
-610
-123
-287
-269
-826
-
-Totale
-
-6705
-
 VENETO
-PADOVA
-VENEZIA
-ROVIGO
-VICENZA
-VERONA
-BELLUNO
-TREVISO
-altro/in fase di verifica
-
-1155
-666
-68
-572
-954
-212
-806
-184
-
-Totale
-
-4617
-
+EMILIA-ROMAGNA
 MARCHE
-ANCONA
-PESARO
-MACERATA
-FERMO
-ASCOLI PICENO
-altro/in fase di verifica
-
-564
-1186
-238
-82
-50
-33
-
-Totale
-
-2153
-
 PCM-DPC dati forniti dal Ministero della Salute
-
-PIEMONTE
-ALESSANDRIA
-ASTI
-BIELLA
-CUNEO
-NOVARA
-TORINO
-VERCELLI
-Verbano-Cusio-Ossola
-altro/in fase di aggiornamento
-
-654
-166
-182
-265
-330
-1680
-210
-149
-116
-
-Totale
-
-3752
-
+ALESSANDRIA 654
+ASTI 166
+BIELLA 182
+CUNEO 265
+NOVARA 330
+TORINO 1680
+VERCELLI 210
+Verbano-Cusio-Ossola 149
+altro/in fase di aggiornamento 116
+Totale 3752
+Firenze 451
+Pistoia 181
+Lucca 307
+Siena 133
+Massa Carrara 256
+Arezzo 136
+Pisa 211
+Livorno 120
+Grosseto 106
+Prato 111
+Totale 2012
+NAPOLI 463
+SALERNO 126
+CASERTA 106
+AVELLINO 124
+BENEVENTO 11
+altro/in fase di verifica 14
+Totale 844
+Roma 893
+Frosinone 59
+Rieti 24
+Viterbo 72
+Latina 136
+altro/in fase di verifica 6
+Totale 1190
+SAVONA 173
+LA SPEZIA 94
+IMPERIA 155
+GENOVA 561
+altro/in fase di verifica 453
+Totale 1436
 TOSCANA
-Firenze
-Pistoia
-Lucca
-Siena
-Massa Carrara
-Arezzo
-Pisa
-Livorno
-Grosseto
-Prato
-
-451
-181
-307
-133
-256
-136
-211
-120
-106
-111
-
-Totale
-
-2012
-
-CAMPANIA
-NAPOLI
-SALERNO
-CASERTA
-AVELLINO
-BENEVENTO
-altro/in fase di verifica
-
-463
-126
-106
-124
-11
-14
-
-Totale
-
-844
-
-LAZIO
-Roma
-Frosinone
-Rieti
-Viterbo
-Latina
-altro/in fase di verifica
-
-893
-59
-24
-72
-136
-6
-
-Totale
-
-1190
-
+PIEMONTE
 LIGURIA
-SAVONA
-LA SPEZIA
-IMPERIA
-GENOVA
-altro/in fase di verifica
-
-173
-94
-155
-561
-453
-
-Totale
-
-1436
-
+LAZIO
+CAMPANIA
 PCM-DPC dati forniti dal Ministero della Salute
-
-FRIULI VENEZIA GIULIA
-Trieste
-Gorizia
-Udine
-Pordenone
+Trieste 270
+Gorizia 38
+Udine 338
+Pordenone 144
 Friuli in aggiornamento
-
-270
-38
-338
-144
-
-Totale
-
-790
-
-SICILIA
-AGRIGENTO
-CALTANISSETTA
-CATANIA
-ENNA
-MESSINA
-PALERMO
-RAGUSA
-SIRACUSA
-TRAPANI
-
-36
-27
-189
-27
-70
-63
-8
-43
-27
-
-Totale
-
-490
-
-PUGLIA
-BARI
-BAT
-BRINDISI
-FOGGIA
-LECCE
-TARANTO
-altro/in fase di aggiornamento
-
-194
-32
-94
-190
-103
-35
-27
-
-TOTALE
-
-675
-
+Totale 790
+AGRIGENTO 36
+CALTANISSETTA 27
+CATANIA 189
+ENNA 27
+MESSINA 70
+PALERMO 63
+RAGUSA 8
+SIRACUSA 43
+TRAPANI 27
+Totale 490
+BARI 194
+BAT 32
+BRINDISI 94
+FOGGIA 190
+LECCE 103
+TARANTO 35
+altro/in fase di aggiornamento 27
+TOTALE 675
+TERNI 115
+PERUGIA 329
+altro/in fase di aggiornamento 18
+Totale 462
+L'Aquila 31
+Chieti 91
+Pescara 302
+Teramo 105
+Totale 529
+Campobasso 49
+Isernia 4
+altro/in fase di aggiornamento 8
+Totale 61
+Bolzano 621
 UMBRIA
-TERNI
-PERUGIA
-altro/in fase di aggiornamento
-
-115
-329
-18
-
-Totale
-
-462
-
+FRIULI VENEZIA GIULIA
 ABRUZZO
-L'Aquila
-Chieti
-Pescara
-Teramo
-
-31
-91
-302
-105
-
-Totale
-
-529
-
 MOLISE
-Campobasso
-Isernia
-altro/in fase di aggiornamento
-
-49
-4
-8
-
-Totale
-
-61
-
+PUGLIA
 TRENTINO ALTO ADIGE
-Bolzano
-
-621
-
+SICILIA
 PCM-DPC dati forniti dal Ministero della Salute
-Trento
-
-782
-
-Totale
-
-1403
-
-SARDEGNA
-Città metropolitana di Cagliari
-Sud Sardegna
-Oristano
-Nuoro
-Sassari
-
-45
-8
-4
-22
-251
-
-Totale
-
-330
-
-BASILICATA
-Potenza
-Matera
-
-58
-8
-
-Totale
-
-66
-
-VALLE D'AOSTA
-AOSTA
-
-313
-
-Totale
-
-313
-
+Trento 782
+Totale 1403
+Città metropolitana di Cagliari 45
+Sud Sardegna 8
+Oristano 4
+Nuoro 22
+Sassari 251
+Totale 330
+Potenza 58
+Matera 8
+Totale 66
+AOSTA 313
+Totale 313
+COSENZA 50
+REGGIO CALABRIA 84
+CATANZARO 38
+VIBO VALENTIA 11
+CROTONE 50
+Altro/In fase di aggiornamento 2
+Totale 235
+Totale Generale 53578
 CALABRIA
-COSENZA
-REGGIO CALABRIA
-CATANZARO
-VIBO VALENTIA
-CROTONE
-Altro/In fase di aggiornamento
-
-50
-84
-38
-11
-50
-2
-
-Totale
-
-Totale Generale
-
-235
-
-53578
-
+VALLE D'AOSTA
+SARDEGNA
+BASILICATA
 

@@ -1,53 +1,11 @@
-Casos COVID-19 en Chile
-Región
+Región Casos confirmados Sexo Edad Centro de salud
 Arica y
 Parinacota
-Tarapacá
-
-Casos confirmados
-
-Sexo
-
-Edad
-
-0
-
-—
-
-—
-
-—
-
-0
-
-—
-
-—
-
-Femenino
-
-58
-
-Antofagasta
-
-2
-
-Atacama
-Coquimbo
-Valparaíso
-
-1
-0
-0
-
-—
-Hospital Carlos Cisternas
-Calama
-Hospital Carlos Cisternas
-Calama
-Hospital de Copiapó
-—
-—
+0 — — —
+Tarapacá 0 — — —
+Atacama 1 Masculino 50 Hospital de Copiapó
+Coquimbo 0 — — —
+Valparaíso 0 — — —
 Clínica
 Alemana
 Clínica
@@ -97,8 +55,8 @@ Laboratorio
 Integramédica
 Clínica Red
 Salud Santiago
-Clínica Tabancura
-Red Salud Vitacura
+Femenino 50 Clínica Tabancura
+Masculino — Red Salud Vitacura
 Clínica
 U. de Los Andes
 Clínica
@@ -108,287 +66,6 @@ UC-Christus
 San Carlos de Apoquindo
 Laboratorio
 Integramédica
-
-Metropolitana
-
-O’Higgins
-
-Maule
-
-Ñuble
-
-Biobío
-
-Masculino
-
-63
-
-Masculino
-—
-—
-
-50
-—
-—
-
-Femenino
-
-54
-
-Femenino
-
-40
-
-Masculino
-
-58
-
-Masculino
-
-17
-
-Femenino
-
-83
-
-Masculino
-
-14
-
-Masculino
-
-42
-
-Masculino
-
-40
-
-Femenino
-
-31
-
-Femenino
-
-32
-
-Fememino
-
-58
-
-Femenino
-
-48
-
-Femenino
-
-23
-
-Masculino
-
-26
-
-Femenino
-
-46
-
-Masculino
-
-67
-
-Femenino
-
-31
-
-Femenino
-
-46
-
-Masculino
-
-23
-
-Femenino
-
-34
-
-Femenino
-
-29
-
-Femenino
-
-28
-
-Femenino
-
-21
-
-40
-
-—
-
-9
-
-Masculino
-
-35
-
-Femenino
-Masculino
-
-50
-—
-
-Masculino
-
-31
-
-Masculino
-
-47
-
-Masculino
-
-39
-
-Femenino
-
-37
-
-Masculino
-
-28
-
-Masculino
-
-29
-
-Masculino
-
-28
-
-Masculino
-
-53
-
-Masculino
-
-38
-
-Femenino
-
-55
-
-Femenino
-
-51
-
-Femenino
-
-23
-
-Masculino
-
-36
-
-Femenino
-
-58
-
-—
-Masculino
-Femenino
-Masculino
-Femenino
-Masculino
-Femenino
-Masculino
-
-—
-33
-33
-39
-2
-21
-24
-29
-
-Femenino
-
-38
-
-Masculino
-
-53
-
-Masculino
-
-29
-
-Masculino
-
-16
-
-Masculino
-
-23
-
-Masculino
-
-23
-
-Masculino
-
-38
-
-Masculino
-
-34
-32
-—
-—
-
-4
-
-3
-
-Araucanía
-Los Ríos
-
-0
-0
-
-Masculino
-—
-—
-
-Los Lagos
-
-1
-
-Femenino
-
-20
-
-Aysén
-Magallanes
-Total
-
-1
-0
-61
-
-Masculino
-—
-—
-
-83
-—
-—
-
-Centro de salud
-
-Pontificia Universidad Católica
 Red de Salud
 UC-Christus
 San Carlos de Apoquindo
@@ -408,11 +85,14 @@ Clínica
 Las Condes
 Clínica
 Las Condes
-—
-
-Hospital de Talca
-
-Hospital de Curicó
+O’Higgins — — — —
+Masculino 33
+Femenino 33
+Masculino 39
+Femenino 2
+Masculino 21
+Femenino 24
+Masculino 29 Hospital de Curicó
 Hospital
 de Talca
 Hospital
@@ -429,13 +109,82 @@ Hospital de
 Los Ángeles
 Hospital G.
 Grant Benavente
-Clínica Universitaria
-—
-—
+Masculino 32 Clínica Universitaria
+Araucanía 0 — — —
+Los Ríos 0 — — —
 Hospital
 de Puerto Montt
-Hospital de Aysén
-—
-—
-
+Aysén 1 Masculino 83 Hospital de Aysén
+Magallanes 0 — — —
+Total 61 — — —
+Masculino 26
+23
+Los Lagos 1 Femenino 20
+Femenino 46
+23
+Femenino
+14
+Masculino
+Casos COVID-19 en Chile
+Fememino 58
+Femenino 48
+Femenino 54
+42
+Masculino
+Masculino 40
+Femenino 32
+Femenino 31
+Femenino 40
+Masculino 58
+Hospital de Talca
+Masculino 31
+Masculino 47
+Masculino 39
+51
+Femenino 23
+36
+Biobío 3
+Masculino 38
+34
+Masculino
+28
+Masculino 29
+Masculino 16
+Femenino 37
+Masculino 29
+Masculino 53
+Masculino 38
+Femenino 55
+Femenino
+Masculino 35
+Hospital Carlos Cisternas
+Calama
+Masculino 63
+Hospital Carlos Cisternas
+Calama
+Masculino 28
+Metropolitana 40
+Pontificia Universidad Católica
+Masculino 28
+Femenino 21
+Masculino 67
+Femenino 31
+Femenino 46
+Masculino
+Femenino 34
+Femenino 29
+Masculino
+Femenino 58
+Masculino 23
+Masculino 53
+Antofagasta 2
+Femenino 58
+Femenino
+Maule 9
+Femenino 38
+Ñuble 4
+Masculino 23
+17
+Femenino 83
+Masculino
 

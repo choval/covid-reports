@@ -1,5 +1,8 @@
 [InternetShortcut]
-URL="news.txt"
+URL="https://doh.gov.ae/covid-19"
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]*\/covid-19\/news\/News[0-9]+)\"/Uis"
 ORG=United Arab Emirates
-DOWNLOAD_REGEXP="/(?P<link>https:\/\/doh\.gov\.ae\/covid-19\/news\/News[0-9]+)/i"
+CONVERTER_PARAMS="-n --user-style-sheet noeffects.css"
+;URL="news.txt"
+;DOWNLOAD_REGEXP="/(?P<link>https:\/\/doh\.gov\.ae\/en\/covid-19\/news\/News[0-9]+)/i"
 LANG=en

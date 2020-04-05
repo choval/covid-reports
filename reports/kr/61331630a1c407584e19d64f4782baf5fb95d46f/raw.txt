@@ -1,142 +1,49 @@
 48 additional cases have been confirmed
 ○ As of 16:00, 21 February, 2020, 48 additional cases are confirmed, which brings the total number
 confirmed cases to 204.
-
-Period
-
-(since 3 January)
-As of 09:00, 21 Feb.
-As of 16:00, 21 Feb.
-Differences
-
-Total
-14,816
-16,400
-+1,584
-
-Confirmed cases
-Sub-tot disch
-isolated
-Death
-al
-arged
-156
-204
-+48
-
-16
-17
-+1
-
-139
-186
-+47
-
-1
-1
-0
-
-Test status
-being
-tested
-Sub-total
-tested negative
-14,660
-16,196
-+1,536
-
-2,707
-3,180
-+473
-
-11,953
-13,016
-+1,063
-
 ○ The case classification of 48 new confirmed cases is as below.
-City
-
-Province
-
 Place
-
-Subtotal
-
-Jeju
-
-Gwa
-
-Kyeon
-
-Kyeon
-
-Chun
-
-Chun
-
-Gyeon
-
-Jeon
-
-ngju
-
-gbuk
-
-gnam
-
-gnam
-
-gnam
-
-ggi
-
-buk
-
-Daegu
-
-Seoul
-
-42
-
-2
-
-1
-
-2
-
-42
-
-1
-
-1
-
-2
-
-1
-
+City Province
 Total
-
-48
-
+Daegu Seoul Jeju
+Gwa
+ngju
+Kyeon
+gbuk
+Kyeon
+gnam
+Chun
+gnam
+Chun
+gnam
+Gyeon
+ggi
+Jeon
+buk
+Subtotal 42 2 1 2 1 48
 Shincheonji
 (Religious
-
-46
-
 organization)
+42 1 1 2 46
 Cheongdo
-
-0
-
 Daenam hospital
-Under investigation
-
-1
-
-1
-
+0
+Under investigation 1 1 2
 ※ This number is counted based on the notification place, and may change if the resident registration address is different.
-
-2
-
+Period
+(since 3 January)
+Total
+Confirmed cases Test status
+Sub-tot
+al
+disch
+arged
+isolated Death Sub-total
+being
+tested
+tested
+negative
+As of 09:00, 21 Feb. 14,816 156 16 139 1 14,660 2,707 11,953
+As of 16:00, 21 Feb. 16,400 204 17 186 1 16,196 3,180 13,016
+Differences +1,584 +48 +1 +47 0 +1,536 +473 +1,063
 

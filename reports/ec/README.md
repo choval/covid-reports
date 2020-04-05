@@ -1,5 +1,7 @@
 # Ecuador
 
+* [https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/](https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/)
+
 
 ## 2020-04-05
 

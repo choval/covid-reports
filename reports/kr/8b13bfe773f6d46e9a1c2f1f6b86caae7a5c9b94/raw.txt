@@ -1,161 +1,38 @@
 ○ As of 0:00, 7 March, 2020, a total of 6,767 cases have been confirmed with 118 cases discharged from
 isolation.
-
-Period
-(since 3 January)
-
-Total
-
-Confirmed cases
-
-Sub
-total
-
-discharged
-
-isolated
-
-Deceased
-
-Suspected cases
-Sub
-being
-tested
-total
-tested negative
-
-As of 00:00, 6 March
-
-164,740
-
-6,284
-
-108
-
-6,134
-
-42
-
-158,456
-
-21,832
-
-136,624
-
-As of 0:00 7 March
-
-178,189
-
-6,767
-
-118
-
-6,605
-
-44
-
-171,422
-
-19,620
-
-151,802
-
-Differences
-
-+13,449
-
-+483
-
-+10
-
-+471
-
-+2
-
-12,966
-
--2,212
-
-+15,178
-
 ○ The regional distribution of the confirmed cases are as follows.
-
-Gyeonggi
-
-Gangwon
-
-Chung
--buk
-
-Chung
--nam
-
-130
-
-26
-
-20
-
-92
-
 Province
-Jeon
+Gyeonggi Gangwon
+Chung
+-buk
+Chung
+-nam
 Jeon
 -buk
+Jeon
 -nam
-
-Gyeong-buk
-
-Gyeong-nam
-
-Jeju
-4
-
-7
-
-4
-
-1,049
-
-82
-
+Gyeong-buk Gyeong-nam Jeju
+130 26 20 92 7 4 1,049 82 4
 City
-Seoul
-
-Busan
-
-Daegu
-
-Incheon
-
-Gwangju
-
-Daejeon
-
-Ulsan
-
-Sejong
-
-108
-
-96
-
-5,084
-
-9
-
-13
-
-18
-
-23
-
-2
-
 Total
-6,767
-
+Seoul Busan Daegu Incheon Gwangju Daejeon Ulsan Sejong
+108 96 5,084 9 13 18 23 2 6,767
 ○ The number of cases confirmed each day(orange bar) and in total(blue line) are indicated in the graph
 below.
-
+Period
+(since 3 January)
+Total
+Confirmed cases Suspected cases
+Sub
+total
+discharged isolated Deceased
+Sub
+total
+being
+tested
+tested
+negative
+As of 00:00, 6 March 164,740 6,284 108 6,134 42 158,456 21,832 136,624
+As of 0:00 7 March 178,189 6,767 118 6,605 44 171,422 19,620 151,802
+Differences +13,449 +483 +10 +471 +2 12,966 -2,212 +15,178
 

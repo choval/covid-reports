@@ -1,5 +1,10 @@
 # Germany
 
+* [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Archiv.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Archiv.html)
+* [https://www.bundesgesundheitsministerium.de/en/coronavirus.html](https://www.bundesgesundheitsministerium.de/en/coronavirus.html)
+* [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html)
+* [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
+
 
 ## 2020-04-05
 
@@ -18,16 +23,11 @@
 * [Grafik\_Kontakt\_HCW.pdf](c24c797c8bf6d74a07220f895a42f49a802b83f5/file.pdf) @16:05 GMT
 * [2020-04-02-de.pdf](30449464cb39151a88c2ed001d22ac91707d27bf/file.pdf) @13:01 GMT
 * [2020-04-02-en.pdf](274581392076dff6ca885f35a6271bf3e9f301b1/file.pdf) @12:59 GMT
-* [Handzettel\_FR\_SP\_TR.pdf](6503df934ffaeda49a760e60b2dadebe10a31a17/file.pdf) @09:41 GMT
 
 ## 2020-04-02
 
 * [2020-03-26-de.pdf](fe8a8151b41b560af5e753cc40a3c5627276dade/file.pdf) @16:31 GMT
 * [2020-04-01-de.pdf](8cfc6d2a849b70163854fc57c65d6f69ff1a05e0/file.pdf) @16:30 GMT
-
-## 2020-04-01
-
-* [2020-04-01-en.pdf](4c6810bdc07a7810314183267fee6a9d9b2dcfc6/file.pdf) @16:34 GMT
 
 ## 2020-03-31
 
@@ -107,8 +107,8 @@
 
 ## 2020-03-17
 
-* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [COVID-19\_Tipps\_bei\_haeuslicher\_Quarantaene.pdf](8408a50591ab330b28f1015dae6ee0c7ae20b5ef/file.pdf) @11:55 GMT
+* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [BMG\_C-19\_200316\_info\_BW\_Pflegeheim.pdf](0afe20a3730a82d6332eab0a96254e5ec5d48315/file.pdf) @10:55 GMT
 * [2020-03-16-en.pdf](8f0dc96a7bbe27d96f0b67085e74c87a1bbd24a0/file.pdf) @08:18 GMT
 * [2020-03-16-de.pdf](93b43ff3f586cb325a829dec8f52c243e6d9d8aa/file.pdf) @08:16 GMT
@@ -116,8 +116,8 @@
 
 ## 2020-03-16
 
-* [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
 * [BMG\_C-19\_200315\_info\_VT\_Krankenhaus.pdf](4e9956a6351bb888c60d57e03a057b86d7ecbcac/file.pdf) @14:26 GMT
+* [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
 * [2020-03-15-en.pdf](ed7447aaeef86b94fc307537e99157190cc9217b/file.pdf) @07:30 GMT
 
 ## 2020-03-14

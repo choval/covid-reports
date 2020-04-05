@@ -1,236 +1,50 @@
 PCM-DPC dati forniti dal Ministero della Salute
-
-AGGIORNAMENTO 13/03/2020 ORE 17.00
-POSITIVI AL nCoV
-
-Regione
-
-Lombardia
-Emilia Romagna
-Veneto
-Piemonte
-Marche
-Toscana
-Liguria
-Lazio
-Friuli V.G.
-Campania
-Puglia
-Bolzano
-Sicilia
-Trento
-Abruzzo
-Umbria
-Sardegna
-Calabria
-Valle d'Aosta
-Molise
-Basilicata
-TOTALE
-
 Ricoverati
 con sintomi
-
 Terapia
 intensiva
-
 Isolamento
 domiciliare
-
 Totale
 attualmente
 positivi
-
-4435
-942
-366
-556
-337
-134
-128
-122
-59
-60
-77
-20
-37
-58
-42
-11
-12
-18
-6
-5
-1
-7426
-
-650
-128
-107
-135
-85
-77
-44
-24
-8
-19
-2
-5
-7
-6
-14
-10
-
-2647
-941
-980
-103
-276
-244
-132
-96
-169
-134
-42
-98
-82
-93
-27
-52
-31
-16
-21
-9
-8
-6201
-
-7732
-2011
-1453
-794
-698
-455
-304
-242
-236
-213
-121
-123
-126
-157
-83
-73
-43
-37
-27
-17
-10
+Lombardia 4435 650 2647 7732 1198 890 9820 32700
+Emilia Romagna 942 128 941 2011 51 201 2263 8787
+Veneto 366 107 980 1453 100 42 1595 25691
+Piemonte 556 135 103 794 46 840 3105
+Marche 337 85 276 698 27 725 2218
+Toscana 134 77 244 455 10 5 470 4049
+Liguria 128 44 132 304 24 17 345 1442
+Lazio 122 24 96 242 24 11 277 6491
+Friuli V.G. 59 8 169 236 11 10 257 3149
+Campania 60 19 134 213 5 2 220 1671
+Puglia 77 2 42 121 3 5 129 1449
+Bolzano 20 5 98 123 2 125 811
+Sicilia 37 7 82 126 2 2 130 1950
+Trento 58 6 93 157 4 2 163 846
+Abruzzo 42 14 27 83 4 2 89 958
+Umbria 11 10 52 73 2 1 76 576
+Sardegna 12 31 43 43 504
+Calabria 18 3 16 37 1 38 504
+Valle d'Aosta 6 21 27 1 28 189
+Molise 5 3 9 17 17 243
+Basilicata 1 1 8 10 10 155
+TOTALE 7426 1328 6201 14955 1439 1266 17660 97488
 14955
-
-3
-3
-1
-1328
-
+1439
+1266
+17660
+CASI TOTALI
 ATTUALMENTE POSITIVI
 TOTALE GUARITI
 TOTALE DECEDUTI
-CASI TOTALI
-
-14955
-1439
-1266
-17660
-
+Regione
+AGGIORNAMENTO 13/03/2020 ORE 17.00
+POSITIVI AL nCoV
 DIMESSI
-CASI
-DECEDUTI
-TAMPONI
 GUARITI
+DECEDUTI
+CASI
 TOTALI
-1198
-51
-100
-
-10
-24
-24
-11
-5
-3
-2
-4
-4
-2
-
-890
-201
-42
-46
-27
-5
-17
-11
-10
-2
-5
-2
-2
-2
-2
-1
-
-1
-1
-
-1439
-
-1266
-
-9820
-2263
-1595
-840
-725
-470
-345
-277
-257
-220
-129
-125
-130
-163
-89
-76
-43
-38
-28
-17
-10
-17660
-
-32700
-8787
-25691
-3105
-2218
-4049
-1442
-6491
-3149
-1671
-1449
-811
-1950
-846
-958
-576
-504
-504
-189
-243
-155
-97488
-
+TAMPONI
 

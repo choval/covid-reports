@@ -1,5 +1,9 @@
 # Chile
 
+* [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/)
+* [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/informe-tecnico/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/informe-tecnico/)
+* [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/)
+
 
 ## 2020-04-04
 

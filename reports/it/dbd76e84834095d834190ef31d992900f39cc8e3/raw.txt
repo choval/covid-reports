@@ -1,85 +1,34 @@
 Characteristics of COVID-19 patients dying in Italy
-Report based on available data on March 20th, 2020
+Report based on available data on March 20th
+, 2020
 1. Sample
 The present report describes characteristics of 3200 COVID-19 patients dying in Italy.* Geographic
 distribution across the 19 regions and 2 autonomous provinces of Trento and Bozen is presented in the
-table below. Data are update to March 20th, 2020.
-
-REGIONS
-
-N
-
-%
-
-Abruzzo
-Bolzano
-Calabria
-Campania
-Emilia-Romagna
-Friuli-Venezia Giulia
-Lazio
-Liguria
-Lombardia
-Marche
-Molise
-Piemonte
-Puglia
-Sardegna
-Sicilia
-Toscana
-Trento
-Umbria
-Veneto
-
-7
-14
-1
-17
-524
-35
-31
-90
-2175
-36
-3
-69
-27
-2
-3
-14
-12
-4
-136
-
-0.2
-0.4
-0.0
-0.5
-16.4
-1.1
-1.0
-2.8
-68.0
-1.1
-0.1
-2.2
-0.8
-0.1
-0.1
-0.4
-0.4
-0.1
-4.3
-
-Total
-
-3200
-
-100.0
-
+table below. Data are update to March 20th
+, 2020.
+REGIONS N %
+Abruzzo 7 0.2
+Bolzano 14 0.4
+Calabria 1 0.0
+Campania 17 0.5
+Emilia-Romagna 524 16.4
+Friuli-Venezia Giulia 35 1.1
+Lazio 31 1.0
+Liguria 90 2.8
+Lombardia 2175 68.0
+Marche 36 1.1
+Molise 3 0.1
+Piemonte 69 2.2
+Puglia 27 0.8
+Sardegna 2 0.1
+Sicilia 3 0.1
+Toscana 14 0.4
+Trento 12 0.4
+Umbria 4 0.1
+Veneto 136 4.3
+Total 3200 100.0
 * COVID-19 related deaths presented in this report are those occurring in patients who test positive for
 SARSCoV-2 RT by PCR, independently from pre-existing diseases.
-
 2. Demographics
 Mean age of patients dying for COVID-2019 infection was 78.5 (median 80, range 31-103, IQR 73 -85).
 Women were 942 (29.4%). Figure 1 shows that median age of patients dying for COVID-2019 infection was
@@ -87,217 +36,65 @@ more than 15 years higher as compared with the national sample diagnosed with CO
 (median age 63 years). Figure 2 shows the absolute number of deaths by age group. Women dying for
 COVID-2019 infection had an older age than men (median age women 82 - median age men 79).
 Figure 1. Median age of patients with COVID-2019 infection and COVID-19 positive deceased patients
-
+Figure 2. Absolute number of deaths by age group
+0 20 40 60 80 100 120
+Median age (years)
 COVID19-Diagnosed
 COVID19-Deaths
-
-0
-
-20
-
-40
-60
-80
-Median age (years)
-
-100
-
-120
-
-Figure 2. Absolute number of deaths by age group
-
-1400
-
-1309
-1134
-
-1200
-1000
-
-877
-
-884
-
-800
-
-Women
-
-600
-
-Men
-329
-267
-
-400
-200
-0
-
-68 93
-
-2 7 9
-
-9 18 27
-
-25
-
-30-39
-
-40-49
-
-50-59
-
-425
-298
-
+2 9 25 62
 257
-
-162136
-
-62
-
-60-69
-
-70-79
-
-80-89
-
-90+
-
+425
+162
+7 18
+68
+267
+877 884
+136
+9 27
+93
+329
+1134
+1309
+298
+0
+200
+400
+600
+800
+1000
+1200
+1400
+30-39 40-49 50-59 60-69 70-79 80-89 90+
+Women
+Men
 All
-
 3. Pre-existing conditions
 Table 1 presents most common comorbidities diagnosed before COVID-2019 infection. Data on diseases
 were based on chart review and was available on 481/3200 patients dying in-hospital (15.0% of the
 sample). Mean number of diseases was 2.7 (median 2, SD 1.6). Overall, 1.2% of the sample presented with
 a no comorbidities, 23.5% with a single comorbidity, 26.6% with 2, and 48.6% with 3 or more.
 Table 1. Most common comorbidities observed in COVID-19 positive deceased patients
-Diseases
-
-N
-
-%
-
-schemic heart disease
-
-145
-
-30.1
-
-Atrial Fibrillation
-
-106
-
-22.0
-
-Stroke
-
-54
-
-11.2
-
-Hypertension
-
-355
-
-73.8
-
-Diabetes
-
-163
-
-33.9
-
-Dementia
-
-57
-
-11.9
-
-COPD
-
-66
-
-13.7
-
-Active cancer in the past 5 years
-
-94
-
-19.5
-
-Chronic liver disease
-
-18
-
-3.7
-
-Chronic renal failure
-
-97
-
-20.2
-
-6
-
-1.2
-
-1 comorbidity
-
-113
-
-23.5
-
-2 comorbidities
-
-128
-
-26.6
-
-3 comorbidities and over
-
-234
-
-48.6
-
+Diseases N %
+schemic heart disease 145 30.1
+Atrial Fibrillation 106 22.0
+Stroke 54 11.2
+Hypertension 355 73.8
+Diabetes 163 33.9
+Dementia 57 11.9
+COPD 66 13.7
+Active cancer in the past 5 years 94 19.5
+Chronic liver disease 18 3.7
+Chronic renal failure 97 20.2
 Number of comorbidities
-0 comorbidities
-
+0 comorbidities 6 1.2
+1 comorbidity 113 23.5
+2 comorbidities 128 26.6
+3 comorbidities and over 234 48.6
 4. Symptoms
 Figure 3 shows symptoms most commonly observed at hospital admission. Fever and dyspnoea were the
 most commonly observed symptoms, while cough, diarrhoea and haemoptysis were less commonly
 observed. Overall, 5.7% of patients did not present any symptoms at hospital admission.
 Figure 3. Most common symptoms observed in COVID-19 positive deceased patients
-
-1
-8
-
-Hemoptysis
-Diarrhea
-
-73
-
-Dyspnoea
-Cough
-
-40
-
-Fever
-76
-
-0
-
-20
-
-40
-
-60
-
-80
-
-100
-
-(%)
-
 5. Acute conditions
 Acute Respiratory Distress syndrome was observed in the majority of patients (96.5% of cases),
 followed by acute renal failure (29.2%). Acute cardiac injury was observed in 10.4% of cases and
@@ -308,47 +105,30 @@ corticosteroids (31%). Concomitant use of these 3 treatments was observed in 18.
 Before hospitalization, 36% of COVID-19 positive deceased patients followed ACE-inhibitor therapy and
 16% angiotensin receptor blockers-ARBs therapy. This information can be underestimated because data
 on drug treatment before admission were not always described in the chart.
-
+76
+40
+73
+8
+1
+0 20 40 60 80 100
+Hemoptysis
+Diarrhea
+Dyspnoea
+Cough
+Fever
+(%)
 7. Time-line
 Figure 4 shows, for COVID-19 positive deceased patients, the median times, in days, from the onset of
 symptoms to death (8 days), from the onset of symptoms to hospitalization (4 days) and from
 hospitalization to death (4 days). The time from hospitalization to death was 1 day longer in those who
 were transferred to intensive care than those who were not transferred (5 days vs. 4 days).
 Figure 5. Median hospitalization times (in days) in COVID-19 positive deceased patients
-
-Onset of symptoms --> Death
-
-8
-
-Onset of symptoms --> hospitalization
-
-4
-
-Hospitalization --> Death
-
-4
-
-Hospitalization --> Death (NO ICU)
-
-4
-
-Hospitalization --> Death (YES ICU)
-
-5
-0
-
-5
-
-10
-
-15 Median number of days
-
 8. Deaths under the age of 50 years
-To date (March the 20th), 36 of 3200 (1.1%) COVID-19 positive patients under the age of 50 have died. In
+To date (March the 20th
+), 36 of 3200 (1.1%) COVID-19 positive patients under the age of 50 have died. In
 particular, 9 of these were younger than 40 years, 8 men and 1 woman (age range between 31 and 39
 years). For 2 patients under the age of 40 years, no clinical information is available; the remaining 7 had
 serious pre-existing pathologies (cardiovascular, renal, psychiatric pathologies, diabetes, obesity).
-
 This report was produced by COVID-19 Surveillance Group
 Members of the COVID-19 Surveillance Group
 Luigi Palmieri, Xanthi Andrianou, Antonino Bella, Stefania Bellino, Stefano Boros, Marco Canevelli, Maria
@@ -356,5 +136,16 @@ Rita Castrucci, Alessandra Ciervo, Fortunato D'Ancona, Martina Del Manso, Chiara
 Massimo Fabiani, Antonietta Filia, Cinzia Lo Noce, Alberto Mateo Urdiales, Graziano Onder, Patrizio
 Pezzotti, Ornella Punzo, Valeria Raparelli, Giovanni Rezza, Flavia Riccardo, Maria Cristina Rota, Andrea
 Siddu, Paola Stefanelli, Brigid Unim, Nicola Vanacore, Silvio Brusaferro.
-
+5
+4
+4
+4
+8
+0 5 10 15
+Onset of symptoms --> Death
+Onset of symptoms --> hospitalization
+Hospitalization --> Death
+Hospitalization --> Death (NO ICU)
+Hospitalization --> Death (YES ICU)
+Median number of days
 

@@ -1,5 +1,7 @@
 # Mexico
 
+* [https://coronavirus.gob.mx/noticias/](https://coronavirus.gob.mx/noticias/)
+
 
 ## 2020-04-05
 

@@ -1,147 +1,59 @@
 ○ As of 16:00, 29 February, 2020, 219 additional cases are confirmed, compared to this morning (09:00,
 29 February).
-
-Period
-
-(since 3 January)
-
-Total
-
-As of 09:00, 29 Feb. 85,693
-As of 16:00, 29 Feb. 94,055
-Differences
-+8,362
-
-Sub
-total
-
-Confirmed cases
-discharged
-
-isolated
-
-Deceased
-
-27
-28
-+1*
-
-2,888
-3,105
-+217
-
-16
-17
-+1**
-
-2,931
-3,150
-+219
-
-Suspected cases
-Sub
-being
-tested
-total
-tested negative
-
-82,762
-90,905
-+8,143
-
-29,154
-35,182
-+6,028
-
-53,608
-55,723
-+2,115
-
-* The 23th case(female, born in 1962) and the 21th case(female, born in 1960) were discharged. The 25th case(female, born in
+* The 23th case(female, born in 1962) and the 21th
+case(female, born in 1960) were discharged. The 25th
+case(female, born in
 1964) has been re-isolated.
 ** 1 deceased case(male, born in 1943); the cause of death is under investigation.
-
 ○ The regional distribution of 219 additional cases are as follows.
-
+City
+Seoul Busan Daegu Incheon Gwangju Daejeon Ulsan Sejong
 As of 09:00,
 29 Feb.
-Differences
+74 77 2,055 6 9 14 17 1
+Differences 3 3 181 - - -1* - -
 As of 16:00,
 29 Feb.
-
-Seoul
-74
-3
-77
-
-Gyeonggi
-As of 09:00,
-76
-29 Feb.
-Differences
-6
-As of 16:00,
-82
-29 Feb.
-
-Busan
-77
-3
-80
+77 80 2,236 6 9 13 17 1
+Province
+Gyeong-
+gi
 Gang
 -won
-7
-7
-
-Daegu
-2,055
-181
-2,236
 Chung
 -buk
-10
-10
-
-* Area is changed from Daejeon to Daegu
-
-City
-Gwangju Daejeon
-Ulsan
-Sejong
-9
-14
-17
-1
--1*
-9
-13
-17
-1
-Province
-Chung- Jeon
-Jeon Gyeong- GyeongJeju
+Chung-
 nam
+Jeon
 -buk
+Jeon
 -nam
+Gyeong-
 buk
+Gyeong-
 nam
-48
-5
-2
-469
-59
-2
-7
-1
-19
-55
-5
-3
-488
-59
-2
-Incheon
-6
-6
-
+Jeju
+As of 09:00,
+29 Feb.
+76 7 10 48 5 2 469 59 2
+Differences 6 - - 7 - 1 19 - -
+As of 16:00,
+29 Feb.
+82 7 10 55 5 3 488 59 2
+* Area is changed from Daejeon to Daegu
+Period
+(since 3 January) Total
+Confirmed cases Suspected cases
+Sub
+total
+discharged isolated Deceased
+Sub
+total
+being
+tested
+tested
+negative
+As of 09:00, 29 Feb. 85,693 2,931 27 2,888 16 82,762 29,154 53,608
+As of 16:00, 29 Feb. 94,055 3,150 28 3,105 17 90,905 35,182 55,723
+Differences +8,362 +219 +1* +217 +1** +8,143 +6,028 +2,115
 

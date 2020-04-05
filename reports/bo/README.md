@@ -1,5 +1,8 @@
 # Bolivia
 
+* [https://www.boliviasegura.gob.bo/categoria/comunicados-oficiales/](https://www.boliviasegura.gob.bo/categoria/comunicados-oficiales/)
+* [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
+
 
 ## 2020-04-05
 

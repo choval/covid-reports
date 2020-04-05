@@ -1,73 +1,12 @@
 ○ As of 0:00, 23 March 2020, a total of 8,961 cases (including 144 imported cases) have been confirmed,
 of which 3,166 cases have been discharged from isolation. Newly confirmed cases are 64 in total.
 [Table 1. Total confirmed and suspected cases]
-Period
-(since 3 Jan)
-
-As of 0:00
-22 March (Sun)
-As of 0:00
-23 March (Mon)
-Change
-
-Total
-
-Tested positive
-Confirmed Discharged Isolated
-
-Deceased
-
-Being tested
-
-Tested negative
-
-331,780
-
-8,897
-
-2,909
-
-5,884
-
-104
-
-14,540
-
-308,343
-
-338,036
-
-8,961
-
-3,166
-
-5,684
-
-111
-
-13,628
-
-315,447
-
-+6,256
-
-+64
-
-+257
-
--200
-
-+7
-
--912
-
-+7,104
-
 ○ Epidemiological links have been found for 81.1% of the total cases; 18.9% are either under
 investigation or sporadic cases. More details on the epidemiological links within each province or city are
 shown in Table 2.
 ○ From Guro-gu call center in Seoul, 4 additional cases (11th floor = 1; contacts = 3) were confirmed.
-The current total is 156 confirmed cases since 8 March. (11th floor = 94; 10th floor = 2; 9th floor = 1;
+The current total is 156 confirmed cases since 8 March. (11th floor = 94; 10th floor = 2; 9th
+floor = 1;
 contacts = 59)
 ○ From Grace River Church in Gyeonggi Province, 4 additional cases were confirmed. The current total is
 70 confirmed cases since 9 March. Investigation on recently visited locations and contact tracing of the
@@ -84,7 +23,19 @@ strengthened active monitoring (foreigners on a short-term trip). Confirmed but 
 transferred to Life Treatment Centers. Severe confirmed cases will be transferred to hospitals by
 emergency transportation. Travel histories of all inbound travelers will be provided to healthcare providers
 via the International Traveler Information System (DUR/ITS) for reference.
-
+Period
+(since 3 Jan)
+Total
+Tested positive
+Being tested Tested negative
+Confirmed Discharged Isolated Deceased
+As of 0:00
+22 March (Sun)
+331,780 8,897 2,909 5,884 104 14,540 308,343
+As of 0:00
+23 March (Mon)
+338,036 8,961 3,166 5,684 111 13,628 315,447
+Change +6,256 +64 +257 -200 +7 -912 +7,104
 ○ Noting that 14 of the 64 (21.9%) new confirmed cases are imported cases, the KCDC urged
 international travelers to practice extra caution and care. The KCDC strongly recommended that all
 non-urgent international travel plans be canceled or postponed. Persons who are unable to avoid
@@ -105,28 +56,7 @@ workplaces, the KCDC urged everyone to participate in enhanced social distancing
 going to work, visiting a healthcare provider, and purchasing necessities. Working citizens are asked to
 maintain a distance during lunch breaks, refrain from using break rooms and other social venues, and pay
 closer attention to maintaining personal hygiene (e.g. washing hands). Employers are advised to
-implement
-
-various
-
-methods
-
-of
-
-minimizing
-
-person-to-person
-
-contact
-
-for
-
-employees,
-
-such
-
-as
-
+implement various methods of minimizing person-to-person contact for employees, such as
 work-from-home and flexible hours systems. Those who show symptoms should be advised not to show
 up at work. Workers who develop symptoms mid-day should be sent home immediately. The government
 has limited the operation of high-risk facilities including religious facilities, some indoor fitness facilities,
@@ -142,358 +72,108 @@ receive from word of mouth, social media, online videos and forums, and news med
 citizens who come across suspicious COVID-19-related information to check the sources of information
 and confirm the validity of information by utilizing resources such as official websites of KCDC and the
 Ministry of Health and Welfare and infectious disease call center (1339).
-
 ○ As part of the 15-day enhanced social distancing measures for 22 March – 5 April, starting today, the
 daily afternoon press briefings will be conducted without face-to-face interaction. During the question and
 answer time, reporters will ask questions via online group chat room. The questions will be delivered in
 real time and will be answered verbally during the briefing session as much as possible in a continued
 effort to maintain transparent communication.
-
 [Table 2. Regional distribution and epidemiological links of the confirmed cases]
-
 Region
-
-Subtotal
-
-Seoul
-
-330
-
-233
-
-(70.6%)
-
-Busan
-
-109
-
-78
-
-(71.6%)
-
-Daegu
-
-6,411
-
-5,334
-
-(83.2%)
-
-Incheon
-
-40
-
-32
-
-(80.0%)
-
-Gwangju
-
-19
-
-15
-
-(78.9%)
-
-Daejeon
-
-24
-
-13
-
-(54.2%)
-
-Ulsan
-
-36
-
-26
-
-(72.2%)
-
-Sejong
-
-42
-
-38
-
-(90.5%)
-
-Gyeonggi
-
-351
-
-286
-
-(81.5%)
-
-Gangwon
-Chungbuk
-Chungnam
-
-30
-
-21
-
-(70.0%)
-
-37
-
-30
-
-(81.1%)
-
-120
-
-112
-
-(93.3%)
-
-Jeon-buk
-
-10
-
-4
-
-(40.0%)
-
-Jeonnam
-
-6
-
-4
-
-(66.7%)
-
-Gyeongbuk
-
-1,256
-
-921
-
-(73.3%)
-
-Gyeongnam
-
-89
-
-72
-
-(80.9%)
-
-Jeju
-Airport
-Total
-
-47
-
-47
-
-(100.0%)
-
-Imported cases (47)
-
-7,266
-
-(81.1%)
-
-Shincheonji 5,054 cases (56.4%)
-
-4
-8,961
-
-n
-
--
-
-(%)
-
+Sub-
+total
 Epidemiological links
-Details
-
-Others *
-
+Others* Newly
+confirmed
+n (%) Details
+Seoul 330 233 (70.6%)
 Guro-gu call center (95), Dongan Church-PC Cafe (20), Eunpyeong
 St Mary’s Hospital (14), Seongdong-gu APT (13), Jongno-gu
 (10), Shincheonji (6), Seongnam Grace River Church (4), etc.
+97 (29.4%) 6
+Busan 109 78 (71.6%)
 Onchun Church (32), Shincheonji (11), Suyeong-gu
 Kindergarten (5), Haeundae-gu Jangsan Catholic
 Church (4), Jin-gu private academy (4), Daenam
 Hospital (1), etc.
+31 (28.4%) 1
+Daegu 6,411 5,334 (83.2%)
 Shincheonji (4,383), contacts of confirmed cases (699),
-Hansarang
-Convalescent
-Hospital
-(92),
-Daesil
+Hansarang Convalescent Hospital (92), Daesil
 Convalescent Hospital (66), KimSin Recuperation Hospital
 (30), Kwak’s Hospital (15), Baesung Hospital (11), etc.
+1,077 (16.8%) 24
+Incheon 40 32 (80.0%)
 Guro-gu call center (20), contacts of confirmed cases (6),
 company in Seocho-gu (3), Shincheonji (2), existing imported
 cases (1)
+8 (20.0%) 0
+Gwangju 19 15 (78.9%)
 Shincheonji (9), contacts of confirmed cases (5),
 existing imported cases (1)
+4 (21.1%) 0
+Daejeon 24 13 (54.2%)
 contacts of confirmed cases (9), Shincheonji (2),
 Seosan research center (2)
-Shincheonji (16), contacts of confirmed cases (10)
+11 (45.8%) 0
+Ulsan 36 26 (72.2%) Shincheonji (16), contacts of confirmed cases (10) 10 (27.8%) 0
+Sejong 42 38 (90.5%
+)
 Ministry of Oceans and Fisheries (29), gym facilities
 (8), Shincheonji (1)
+4 (9.5%) 1
+Gyeonggi 351 286 (81.5%)
 Seongnam Grace River Church (63), Bundang Je-saeng
-Hospital
-(42),
-Guro-gu
-call
-center-Bucheon
+Hospital (42), Guro-gu call center-Bucheon
 SaengMyeongSu Church (41), Shincheonji (29), Suwon
 SaengMyeongSaem Church (12), Hyo-sarang Nursing
 Home in Gunpo (7), etc.
-Shincheonji (20), gym facilities in Cheonan (1)
-Shincheonji (11), Goesan-gun
+65 (18.5%) 14
+Gangwon 30 21 (70.0%) Shincheonji (20), gym facilities in Cheonan (1) 9 (30.0%) 0
+Chung-
+buk
+37 30 (81.1%)
+Shincheonji (11), Goesan-gun Jangyeon-myeon (11),
 contacts of confirmed cases (8)
-
-Jangyeon-myeon
-
-(11),
-
+7 (18.9%) 2
+Chung-
+nam
+120 112 (93.3%)
 Gym facilities in Cheonan (103), Seosan research center (8),
 Seongnam Grace River Church (1)
+8 (6.7%) 0
+Jeon-buk 10 4 (40.0%)
 Contacts of confirmed cases (2), existing imported
 cases (1), Shincheonji (1)
+6 (60.0%) 0
+Jeon-
+nam
+6 4 (66.7%)
 Shincheonji (1), existing imported cases (1), contacts
 of confirmed cases (2)
+2 (33.3%) 0
+Gyeong-
+buk
+1,256 921 (73.3%)
 Shincheonji (530), Cheongdo Daenam Hospital (120),
 Bonghwa Pureun Nursing Home (68), pilgrimage to
 Israel (49), Seo Recuperation Hosopital in Gyeongsan
 (32), Milal Shelter (27), Gyeongsan Seorin Nursing Home
 (25), Gyeongsan Cham Joeun Community Center (18), etc.
+335 (26.7%) 2
+Gyeong-
+nam
+89 72 (80.9%)
 Shincheonji (32), Geochang Church (10), Geochang
-Woongyang-myeon
-(8), Hanmaeum
-Changwon
+Woongyang-myeon (8), Hanmaeum Changwon
 Hospital (7), Changyeong coin karaoke (7), contacts of
 confirmed cases (6), Busan Oncheon Church (2)
-
--
-
-Newly
-confirmed
-
-97
-
-(29.4%)
-
-6
-
-31
-
-(28.4%)
-
-1
-
-1,077
-
-(16.8%)
-
-24
-
-8
-
-(20.0%)
-
-0
-
-4
-
-(21.1%)
-
-0
-
-11
-
-(45.8%)
-
-0
-
-10
-
-(27.8%)
-
-0
-
-4
-
-(9.5%)
-
-1
-
-65
-
-(18.5%)
-
-14
-
-9
-
-(30.0%)
-
-0
-
-7
-
-(18.9%)
-
-2
-
-8
-
-(6.7%)
-
-0
-
-6
-
-(60.0%)
-
-0
-
-2
-
-(33.3%)
-
-0
-
-335
-
-(26.7%)
-
-2
-
-17
-
-(19.1%)
-
-1
-
-4
-
-(100.0%)
-
-0
-
--
-
--
-
-13
-
-(18.9%)
-
-64
-
-1,695
-
+17 (19.1%) 1
+Jeju 4 - - 4 (100.0%
+) 0
+Airport 47 47 (100.0%
+) Imported cases (47) - - 13
+Total 8,961 7,266 (81.1%) Shincheonji 5,054 cases (56.4%) 1,695 (18.9%) 64
 * Not classified into a cluster or under investigation
 ※ The interim classification is based on the reporting location, which may change depending on further
 epidemiological investigation.
-
 

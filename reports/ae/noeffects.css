@@ -1,0 +1,6 @@
+.animate {
+    opacity: 1 !important;
+}
+#loader-wrapper {
+    display: none !important;
+}

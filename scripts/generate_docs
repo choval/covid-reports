@@ -15,13 +15,16 @@ date_default_timezone_set('UTC');
 $summary = [];
 
 $sources = glob('reports/*/*.url');
+$summary_sources = [];
 foreach ($sources as $source) {
     echo "Parsing $source\n";
     $config = parse_ini_file($source);
     $country_code = basename(dirname($source));
     $country = $config['ORG'] ?? $country_code;
 
-    if(isset($summary[$country])) {
+    $summary_sources[$country][] = $config;
+
+    if (isset($summary[$country])) {
         continue;
     }
 
@@ -109,7 +112,7 @@ foreach ($summary as $country=>$sources) {
         }
         $files_count += count($source['files']);
     }
-    $sources_count = count($sources);
+    $sources_count = count($summary_sources[$country]);
     $report_file = 'reports/'.$country_code.'/README.md';
     $report_file_link = str_replace('reports/', '', $report_file);
 
@@ -117,6 +120,13 @@ foreach ($summary as $country=>$sources) {
     file_put_contents($summary_file, "| [{$country}]({$report_file_link}) | {$updated_date} | [{$files_count}]({$report_file_link}) | {$sources_count} |\n", FILE_APPEND);
 
     file_put_contents($report_file, "# {$country}\n\n");
+    // Sources
+    foreach ($summary_sources[$country] as $src) {
+        $url = $src['URL'];
+        file_put_contents($report_file, "* [$url]($url)\n", FILE_APPEND);
+    }
+    file_put_contents($report_file, "\n", FILE_APPEND);
+
     $files = [];
     foreach ($sources as $source) {
         foreach($source['files'] as $file) {

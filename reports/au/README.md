@@ -1,9 +1,7 @@
 # Australia
 
+* [https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
 
-## 2020-04-05
-
-* [covid\_19\_australia\_epidemiology\_report\_9\_reporting\_week\_ending\_23\_59\_aedt\_29\_march\_2020.pdf](85f066cff9c2015082cec5dfbeeb4c2f4517e792/file.pdf) @13:38 GMT
 
 ## 2020-03-28
 

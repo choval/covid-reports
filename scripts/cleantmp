@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+chdir(__DIR__ .'/../');
+
+$files = glob('reports/*/*/tmp*.png');
+foreach ($files as $file) {
+    echo "REMOVING $file\n";
+    unlink($file);
+}

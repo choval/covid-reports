@@ -1,12 +1,10 @@
+1
 MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL
-
 Coronavirus (SARS-CoV-2)
 PLAN NACIONAL DE RESPUESTA A
 VIRUS RESPIRATORIOS 2020
-
-1
-
-AUTORIDADES
+2
+AUTORIDADES
 Dr. Julio Daniel Mazzoleni Insfrán
 Ministro de Salud Pública y Bienestar Social
 Dr. Julio Javier Rolón Vicioso
@@ -26,10 +24,8 @@ Dra. Adriana Amarilla
 Directora General de Promoción de la Salud
 Econ. Emiliano R. Fernández
 Director General de Planificación y Evaluación
-
-2
-
-PRESENTACIÓN
+3
+PRESENTACIÓN
 Este documento técnico presenta las Normativas de Planificación del
 Ministerio de Salud Pública y Bienestar Social para dar respuesta al Novel
 Coronavirus (SARS-CoV-2) con una estrategia multisectorial capaz de mitigar
@@ -47,75 +43,56 @@ EL CENTRO DE OPERACIONES DE EMERGENCIA (COE) DEL MINISTERIO DE
 SALUD PÚBLICA Y BIENESTAR SOCIAL PARA DAR RESPUESTA NACIONAL A LA
 EVENTUAL PANDEMIA POR CORONAVIRUS y se dispone la urgente activación
 del Plan Nacional de Respuesta a la Pandemia a Virus Respiratorios 2020.
-
 Ministerio de Salud Pública y Bienestar Social (MSPBS)
 Asunción, 11 de marzo 2020.
-
-3
-
-ÍNDICE DE CONTENIDO
-1. Introducción
-2. Antecedentes
-3. Cronología y actualización
-4. Objetivo general
+4
+ÍNDICE DE CONTENIDO
+1. Introducción 5
+2. Antecedentes 6
+3. Cronología y actualización 7
+4. Objetivo general 9
 5. Componentes del Plan Nacional de Respuesta a Virus Respiratorios
 2020
+9
 5.1. Componente A: Coordinación, planificación y monitoreo a nivel de
 país.
+10
 5.2. Componente B: Comunicación de riesgos y participación de la
 comunidad
-5.3. Componente C: Vigilancia epidemiológica y laboratorial
-5.4. Componente D: Acciones en los servicios y logística
+11
+5.3. Componente C: Vigilancia epidemiológica y laboratorial 16
+5.4. Componente D: Acciones en los servicios y logística 17
 6. Fuentes bibliográficas
 7. Anexos
-
-5
-6
-7
-9
-9
-10
-11
-16
-17
-
 ÍNDICE DE FIGURAS
-Figura 1. Cronología de las primeras etapas del brote de SARS-CoV-2
+Figura 1. Cronología de las primeras etapas del brote de SARS-CoV-2 7
 Figura 2. Componentes del Plan Nacional de Respuesta a Virus
 Respiratorios 2020
-Figura 3. Lista de verificación de alistamiento para la respuesta al SARSCoV-2 en Hospitales
-
-7
 9
+Figura 3. Lista de verificación de alistamiento para la respuesta al SARS-
+CoV-2 en Hospitales
 18
-
 ÍNDICE DE CUADROS
 Cuadro 1. Número de casos de SARS-CoV-2 en la región de las Américas
 del 11 de marzo de 2020
+8
 Cuadro 2. Actividades de coordinación, planificación y monitoreo a nivel
 de país
+11
 Cuadro 3. Actividades de comunicación de riesgos y participación de la
 comunidad – Fase contención
+12
 Cuadro 4. Actividades de comunicación de riesgos y participación de la
 comunidad – Fase mitigación (Uno o varios casos detectados)
+14
 Cuadro 5. Actividades de comunicación de riesgos y participación de la
 comunidad – Fase mitigación (Cuando se registra una transmisión)
-Cuadro 6. Actores clave involucrados
-Cuadro 7. Plazos estimados de los trámites de una adquisición
-Cuadro 8. Actividades a desarrollar por fases
-
-8
-11
-12
-14
 15
-20
-21
-21
-
-4
-
-1. INTRODUCCIÓN
+Cuadro 6. Actores clave involucrados 20
+Cuadro 7. Plazos estimados de los trámites de una adquisición 21
+Cuadro 8. Actividades a desarrollar por fases 21
+5
+1. INTRODUCCIÓN
 El Nuevo Coronavirus SARS-CoV-2 es una nueva cepa de coronavirus que no se
 había encontrado antes en el ser humano. Proviene de una amplia familia de virus
 que pueden causar diversas afecciones, desde el resfriado común hasta
@@ -143,10 +120,8 @@ actualización y las nuevas guías y protocolos estarán disponibles en el
 apartado de CORONAVIRUS en la web institucional, en INFORMACIÓN PARA:
 profesionales y establecimientos de salud, en el siguiente link:
 https://www.mspbs.gov.py/covid-19-viajeros.php#profesionales
-
-5
-
-2. ANTECEDENTES
+6
+2. ANTECEDENTES
 Los coronavirus son una familia de virus ARN que se descubrió en la década de los
 60, algunos de los cuales puede ser causa de diversas enfermedades humanas, que
 van desde el resfriado común hasta el SARS (síndrome respiratorio agudo severo).
@@ -176,10 +151,8 @@ una especie de felinos (cibetas) y;
 - MERS-CoV, (2012) que está asociado a camélidos como reservorios. Estos
 Coronavirus han demostrado una alta tasa de letalidad en brotes (9.6% y 34.4%
 respectivamente).
-
-6
-
-A finales del 2019, se identificó un Brote de Neumonía grave en la ciudad de Wuhan,
+7
+A finales del 2019, se identificó un Brote de Neumonía grave en la ciudad de Wuhan,
 Provincia de Hubei, China, causado por un nuevo coronavirus al que, por su
 similitud genética con el SARS CoV, fue denominado SARS CoV-2 y definido como
 causante de la Enfermedad por Coronavirus o SARS-CoV-2. Este brote inició a
@@ -193,78 +166,54 @@ identificado un nuevo coronavirus (nuevo) como la causa de la neumonía (Figura
 1). El nombre provisional propuesto inicialmente fue COVID-19 y actualmente
 SARS-CoV-2.
 Figura 1. Cronología de las primeras etapas del brote de SARS-CoV-2
-
 Fuente: WHO. 2019 Novel Coronavirus (2019‑nCoV): STRATEGIC PREPAREDNESS AND RESPONSE PLAN.
-
 El epicentro se encuentra en China, existiendo casos reportados en más de 70
 países, 4 países con transmisión local fuera de China: Irán, Italia, Japón y Corea.
 El 23 de enero de 2020. Ministerio de Salud de Paraguay emite alerta
 epidemiológica, tras reunión de emergencia realizada por la OMS y luego de que
 esta organización descartara la declaración de emergencia internacional. Ver alerta
 en: http://vigisalud.gov.py/files/slider/BOLETIN_Nuevo%20coronavirus.pdf
-7
-
-El 30 de enero de 2020, la OMS declara la Emergencia Internacional por el brote
-de coronavirus de China. Ver Declaración en: https://www.who.int/es/newsroom/detail/30-01-2020-statement-on-the-second-meeting-of-the-internationalhealth-regulations-(2005)-emergency-committee-regarding-the-outbreak-ofnovel-coronavirus-(2019-ncov)
+8
+El 30 de enero de 2020, la OMS declara la Emergencia Internacional por el brote
+de coronavirus de China. Ver Declaración en: https://www.who.int/es/news-
+room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-
+health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-
+novel-coronavirus-(2019-ncov)
 Al 11 de marzo del 2020
 - El total de casos confirmados a nivel mundial es de 121.564.
 - El total de defunciones a nivel mundial es de 4.373.
 La Situación de la región de las Américas se observa en la Cuadro 1.
 Cuadro 1. Número de casos de SARS-CoV-2 en la región de las Américas del 11 de
 marzo de 2020
-
-REGIÓN DE LAS AMÉRICAS
-Argentina
-Bolivia
-Brasil
-Canadá
-Chile
-Colombia
-Costa Rica
-Ecuador
-Estados Unidos de América*
-Guayana Francesa
-Martinica
-México
-Paraguay
-Perú
-República Dominica
-San Bartolomé
-San Martín
-TOTAL
-
-N° DE CASOS CONFIRMADOS
-12
-2
-25
-69
-13
-3
-9
-15
-489
-5
-2
-7
-5
-5
-5
-2
-2
-669
-
+REGIÓN DE LAS AMÉRICAS N° DE CASOS CONFIRMADOS
+Argentina 12
+Bolivia 2
+Brasil 25
+Canadá 69
+Chile 13
+Colombia 3
+Costa Rica 9
+Ecuador 15
+Estados Unidos de América* 489
+Guayana Francesa 5
+Martinica 2
+México 7
+Paraguay 5
+Perú 5
+República Dominica 5
+San Bartolomé 2
+San Martín 2
+TOTAL 669
 * Otras 49 personas resultaron positivas para SARS-COV-2 entre las personas repatriadas a los Estados
 Unidos, incluidas las de Wuhan, China (3) y las personas a bordo del Crucero Diamond Princess (46).
-
-Fuente: https://www.paho.org/es/temas/coronavirus/enfermedad-por-coronaviruscovid-19
-
+Fuente: https://www.paho.org/es/temas/coronavirus/enfermedad-por-coronavirus-
+covid-19
 La actualización de los datos se encuentra disponible en:
 https://www.mspbs.gov.py/covid-19-actualizacion.php
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda
 7594740fd40299423467b48e9ecf6
-8
-
-4. OBJETIVO GENERAL
+9
+4. OBJETIVO GENERAL
 Establecer las Normativas de Planificación Operativa para prevenir y/o disminuir
 en la población el impacto negativo en términos de morbilidad y mortalidad del
 Coronavirus, a través de acciones de prevención, preparación y respuesta
@@ -276,35 +225,19 @@ A continuación se describen los 4 componentes del Plan Operativo del MSPBS
 y de mitigación que fueron establecidos con base en los 8 pilares determinados por
 la OMS como parte del Plan de Preparación y Respuesta ante el SARS-CoV-2.
 Figura 2. Componentes del Plan Nacional de Respuesta a Virus Respiratorios 2020
-
-COMPONENTES
-
-FASES
-
-comunidad
-
-C - Vigilancia epidemiológica y laboratorial
-
-Mitigación
-
-B – Comunicación de riesgos y participación de la
-
-Contención
-
-A – Coordinación, planificación y monitoreo a nivel país
-
-D – Acciones en los servicios y logística
-
 Fuente: MSPBS. Plan Nacional de Respuesta a Virus Respiratorios 2020. Mazo 2020.
 .
-
-9
-
-5.1. COMPONENTE A: COORDINACIÓN, PLANIFICACIÓN
+A – Coordinación, planificación y monitoreo a nivel país
+D – Acciones en los servicios y logística
+B – Comunicación de riesgos y participación de la
+comunidad
+C - Vigilancia epidemiológica y laboratorial
+Contención
+Mitigación
+COMPONENTES FASES
+10
+5.1. COMPONENTE A: COORDINACIÓN, PLANIFICACIÓN Y MONITOREO A
 NIVEL DE PAÍS
-
-Y MONITOREO A
-
 El componente de Coordinación, Planificación y Monitoreo a nivel País se regirá por
 la Resolución SG N° 76, del 28 de febrero del corriente año, POR LA CUAL SE
 CONFORMA EL CENTRO DE OPERACIONES DE EMERGENCIA (COE) DEL
@@ -314,67 +247,22 @@ urgente activación del Plan Nacional de Respuesta a la Pandemia a Virus
 Respiratorios 2020 con una estrategia multisectorial capaz de mitigar el impacto
 que podría ocasionar a la población en general (Anexo 1).
 5.1.1. OBJETIVOS ESPECÍFICOS DE LA FASE DE CONTENCIÓN
-
-
-
-Establecer los lineamientos de Rectoría para la toma de decisiones, la
+ Establecer los lineamientos de Rectoría para la toma de decisiones, la
 comunicación efectiva y oportuna a nivel intra e interinstitucional.
-Implementar el Centro Operativo de Emergencias como mecanismo de
+ Implementar el Centro Operativo de Emergencias como mecanismo de
 coordinación entre los diferentes componentes del Sistema Nacional de
 Salud.
-
 5.1.2. OBJETIVOS ESPECÍFICOS DE LA FASE DE MITIGACIÓN
-
-
-
-
-Monitoreo permanente de la Rectoría para la toma de decisiones, la
+ Monitoreo permanente de la Rectoría para la toma de decisiones, la
 comunicación efectiva y oportuna a nivel intra e interinstitucional.
-Propiciar el pleno funcionamiento del Centro Operativo de Emergencias
+ Propiciar el pleno funcionamiento del Centro Operativo de Emergencias
 como mecanismo de coordinación entre los diferentes componentes del
 Sistema Nacional de Salud.
-Propiciar los espacios de integración y participación colaborativa
+ Propiciar los espacios de integración y participación colaborativa
 interinstitucional con otros actores internos y externos.
-
 En el cuadro 2 se describen actividades a ser realizadas.
-
-10
-
-Cuadro 2. Actividades de coordinación, planificación y monitoreo a nivel de país
-Pasos
-1
-
-Actividades
-Activar mecanismos de coordinación multisectoriales y de socios múltiples para apoyar la
-preparación y la respuesta.
-Comprometerse con las autoridades nacionales y los socios claves para desarrollar un plan
-operativo específico para el país, con los requisitos de recursos estimados para la preparación
-y respuesta de SARS-CoV-2.
-Realizar una evaluación inicial de la capacidad y un análisis de riesgos, incluido el mapeo de
-poblaciones vulnerables.
-Establecer sistemas de monitoreo y evaluación de la efectividad y el impacto de las medidas
-planificadas.
-
-2
-
-Establecer un equipo de gestión de incidentes, incluido el despliegue rápido de personal
-designado y de instituciones asociadas, dentro de un centro de operaciones de emergencia
-(COE) de salud pública.
-Identificar, entrenar y designar portavoces.
-Participar con los donantes locales y los programas existentes para movilizar / asignar
-recursos y capacidades para implementar el plan operativo.
-
-3
-
-Revisar los requisitos reglamentarios y la base legal de todas las posibles medidas de salud
-pública.
-Realizar revisiones operativas periódicas para evaluar el éxito de la implementación y la
-situación epidemiológica, y ajustar los planes operativos según sea necesario.
-Realizar revisiones posteriores a la acción de acuerdo con el RSI (2005) según sea necesario.
-Utilizar el brote de SARS-CoV-2 para evaluar / aprender de los planes, sistemas y ejercicios de
-aprendizaje de lecciones existentes para informar futuras actividades de preparación y
-respuesta.
-
+11
+Cuadro 2. Actividades de coordinación, planificación y monitoreo a nivel de país
 5.2. COMPONENTE B: COMUNICACIÓN DE RIESGOS Y PARTICIPACIÓN DE LA
 COMUNIDAD
 La OMS indica que la Comunicación de Riesgos y Participación de la Comunidad es
@@ -385,33 +273,45 @@ Con base en las recomendaciones de la OMS para Comunicación de Riesgos y
 Participación Comunitaria se describen los objetivos para las fases de contención y
 mitigación con las acciones a ser realizadas. El MSPBS actualizará estas
 recomendaciones a medida que se disponga de nueva información.
-
-11
-
-5.2.1. OBJETIVOS ESPECÍFICOS DE LA FASE DE CONTENCIÓN
-
-
-Garantizar que los trabajadores de salud tengan acceso a información
+Pasos Actividades
+1 Activar mecanismos de coordinación multisectoriales y de socios múltiples para apoyar la
+preparación y la respuesta.
+Comprometerse con las autoridades nacionales y los socios claves para desarrollar un plan
+operativo específico para el país, con los requisitos de recursos estimados para la preparación
+y respuesta de SARS-CoV-2.
+Realizar una evaluación inicial de la capacidad y un análisis de riesgos, incluido el mapeo de
+poblaciones vulnerables.
+Establecer sistemas de monitoreo y evaluación de la efectividad y el impacto de las medidas
+planificadas.
+2 Establecer un equipo de gestión de incidentes, incluido el despliegue rápido de personal
+designado y de instituciones asociadas, dentro de un centro de operaciones de emergencia
+(COE) de salud pública.
+Identificar, entrenar y designar portavoces.
+Participar con los donantes locales y los programas existentes para movilizar / asignar
+recursos y capacidades para implementar el plan operativo.
+Revisar los requisitos reglamentarios y la base legal de todas las posibles medidas de salud
+pública.
+3 Realizar revisiones operativas periódicas para evaluar el éxito de la implementación y la
+situación epidemiológica, y ajustar los planes operativos según sea necesario.
+Realizar revisiones posteriores a la acción de acuerdo con el RSI (2005) según sea necesario.
+Utilizar el brote de SARS-CoV-2 para evaluar / aprender de los planes, sistemas y ejercicios de
+aprendizaje de lecciones existentes para informar futuras actividades de preparación y
+respuesta.
+12
+5.2.1. OBJETIVOS ESPECÍFICOS DE LA FASE DE CONTENCIÓN
+ Garantizar que los trabajadores de salud tengan acceso a información
 actualizada sobre esta enfermedad.
-
-
-
-Comunicar de manera proactiva a través de canales de comunicación fiables
+ Comunicar de manera proactiva a través de canales de comunicación fiables
 y eficaces.
-
-
-
-Utilizar estrategias de participación comunitaria para involucrar a las
+ Utilizar estrategias de participación comunitaria para involucrar a las
 comunidades para que las personas y los grupos tomen medidas de
 protección.
-
 En el cuadro 3 se describen las actividades a ser realizadas en la fase de contención.
 Cuadro 3. Actividades de comunicación de riesgos y participación de la
 comunidad – Fase contención
 Sistemas de
 comunicación
 de riesgos
-
 - Examinar el plan de comunicación de riesgos y participación de la
 comunidad existente y realizar los ajustes para un brote de infección por
 el SARS-CoV-2.
@@ -421,16 +321,10 @@ como procedimientos de autorización oportunos.
 incremento de la comunicación).
 - Establecer un equipo de comunicación de riegos y participación de la
 comunidad y definir las funciones y responsabilidades de los miembros.
-
 Coordinación
 interna y
 externa
-
 - Identificar y a los agentes externos —como otros organismos,
-
-Comunicación
-Pública
-
 organizaciones, planificadores comunitarios y trabajadores sanitarios—
 y (ejemplo, el Ministerio de Agricultura y Ganadería, La Secretaría
 Nacional de Turismo, Dirección Nacional de Aeronáutica Civil, Dirección
@@ -447,6 +341,8 @@ normalizados (por ejemplo, determinar qué organismo hablará en primer
 lugar y sobre qué cuestión, de qué temas y destinatarios concretos se
 ocupará mejor un determinado organismo o asociado, cómo se
 armonizará la transmisión de mensajes).
+Comunicación
+Pública
 - Revisar la lista de portavoces a todos los niveles; enumerar sus áreas de
 especialización en el contexto de un brote de SARS-CoV-2 y, en caso
 necesario, impartirles formación.
@@ -456,12 +352,9 @@ de salud pública y las comunicaciones de seguimiento.
 - Identificar los principales medios de comunicación; crear y/o actualizar
 una lista de periodistas y facilitar la información periódica sobre la
 evolución del brote y la preparación en el Paraguay.
-
-12
-
-Participación
+13
+Participación
 comunitaria
-
 - Identificar las preocupaciones, actitudes y creencias de la población ante
 el SARS-CoV-2.
 - Utilizar las redes sociales para informar al público de manera proactiva
@@ -476,24 +369,24 @@ pueden contribuir a la participación comunitaria.
 - Anticipar las necesidades de información especial y participación por lo
 que respecta a las personas discapacitadas o analfabetas.
 Abordar la
-- Estar preparado para comunicar el primer caso de SARS-CoVincertidumbre
-2.Asegurarse que los dirigentes acepten comunicarse con las poblaciones
+incertidumbre
 y las
-afectadas respondiendo a sus inquietudes y preguntas, al tiempo que
 percepciones y
-proponen medidas que se pueden adoptar para proteger su salud.
 gestionar la
-- Establecer un sistema que permita escuchar las percepciones del público
 desinformación
+- Estar preparado para comunicar el primer caso de SARS-CoV-
+2.Asegurarse que los dirigentes acepten comunicarse con las poblaciones
+afectadas respondiendo a sus inquietudes y preguntas, al tiempo que
+proponen medidas que se pueden adoptar para proteger su salud.
+- Establecer un sistema que permita escuchar las percepciones del público
 y tener conocimiento de los rumores y la desinformación. Para ello, hacer
 seguimiento de los medios de comunicación y las redes sociales y recoger
 información de los trabajadores sanitarios y las líneas telefónicas
 directas; en caso necesario, establecer sistemas para responder a los
 rumores, la desinformación y las preguntas frecuentes.
-Creación
-de
-- Identificar y/o capacitar a los encargados de la respuesta en materia de
+Creación de
 capacidad
+- Identificar y/o capacitar a los encargados de la respuesta en materia de
 Comunicación de Riesgos y Participación de la Comunidad sobre lo que se
 sabe y lo que no acerca del SARS-CoV-2 y sobre los planes y
 procedimientos actuales, así como qué preparación subnacional se
@@ -501,22 +394,15 @@ necesita para una respuesta Comunicación de Riesgos y Participación de
 la Comunidad.
 Fuente: Adaptado del Documento: OMS. Comunicación de riesgos y participación comunitaria
 (RCCE) en la preparación y respuesta frente al nuevo coronavirus de 2019 (2019-nCoV).
-
 5.2.2. OBJETIVOS ESPECÍFICOS DE LA FASE DE MITIGACIÓN
-
-
-
-
-Adaptar y aplicar medidas de intervención de la fase de contención si las
+ Adaptar y aplicar medidas de intervención de la fase de contención si las
 mismas no se ha completado.
-Proporcionar comunicación periódica y transparente con mensajes seguros
+ Proporcionar comunicación periódica y transparente con mensajes seguros
 y coherentes en todos los sectores y niveles.
-Ampliar el alcance de las actividades de participación comunitaria y alentar
+ Ampliar el alcance de las actividades de participación comunitaria y alentar
 a las personas a que adopten comportamientos protectores.
-
-13
-
-En el cuadro 4 se describen las actividades a ser realizadas en la fase de mitigación
+14
+En el cuadro 4 se describen las actividades a ser realizadas en la fase de mitigación
 (uno o varios casos detectados) y en el cuadro 5 las actividades a ser realizadas en
 la fase de mitigación (cuando se registra una transmisión).
 Cuadro 4. Actividades de comunicación de riesgos y participación de la
@@ -524,29 +410,6 @@ comunidad – Fase mitigación (Uno o varios casos detectados)
 Sistemas de
 comunicación
 de riesgos
-
-Coordinación
-interna y
-externa
-
-Comunicación
-Pública
-
-Participación
-comunitaria
-
-Abordar la
-incertidumbre
-y las
-percepciones y
-gestionar la
-desinformación
-
-Creación
-capacidad
-
-de
-
 - Adaptar el plan existente.
 - Activar los portavoces identificados para la emergencia.
 - Establecer los plazos para las actividades y productos de comunicación.
@@ -554,6 +417,9 @@ de
 Participación de la Comunidad e identificar los procesos que retrasan la
 difusión de información y crean confusión entre las poblaciones
 afectadas.
+Coordinación
+interna y
+externa
 - Activar los procedimientos operativos normalizados para coordinar las
 actividades de Comunicación de Riesgos y Participación de la Comunidad
 con otros organismos y agentes en la respuesta.
@@ -562,6 +428,8 @@ con otros organismos y agentes en la respuesta.
 organismo encargado de la respuesta y entre ellos) y la comunicación
 externa (al público).
 - Coordinar la preparación de los mensajes, su coherencia y su difusión.
+Comunicación
+Pública
 - Comunicar el primer caso de SARS-CoV-2 lo antes posible, y actualizar la
 información tras haber realizado una evaluación de los riesgos y un análisis de la
 percepción de los riesgos.
@@ -571,6 +439,8 @@ gestionar los elementos de incertidumbre).
 - Proporcionar mensajes coherentes en los distintos sectores y niveles.
 - Formar a personas influyentes y que los destinatarios consideren de confianza,
 en particular a trabajadores sanitarios.
+Participación
+comunitaria
 - Realizar un rápido análisis de la percepción de los riesgos basándose en la
 información oficial y oficiosa existente.
 - Hacer un seguimiento de los obstáculos que pueden impedir la adopción de
@@ -584,6 +454,12 @@ alfabetización que correspondan.
 que expliquen la etiología de la enfermedad, sus síntomas, su transmisión, cómo
 protegerse y qué hacer si alguien contrae la enfermedad) y que puedan
 compartirse en línea y transmitirse por televisión.
+Abordar la
+incertidumbre
+y las
+percepciones y
+gestionar la
+desinformación
 - Comunicar lo que se sabe y lo que no: explicar en qué medida existe
 incertidumbre.
 - Activar mecanismos de seguimiento de los rumores y de respuesta a
@@ -592,41 +468,32 @@ estos, y tratar de determinar qué cuestiones son objeto de rumores.
 líneas telefónicas directas, la información transmitida por los pacientes a los
 trabajadores sanitarios y las preocupaciones de la comunidad, e incluir
 sistemáticamente esa información en la estrategia adaptada.
+Creación de
+capacidad
 - Prever el suministro de orientaciones periódicas y actualizadas a todos los
 encargados de la respuesta de Comunicación de Riesgos y Participación de la
 Comunidad.
-
-14
-
-- Impartir formación al personal de refuerzo.
+15
+- Impartir formación al personal de refuerzo.
 - Considerar la posibilidad de formar a los dirigentes, el personal encargado de la
 respuesta y los portavoces sobre las orientaciones en materia de Comunicación
 de Riesgos y Participación de la Comunidad en función de las necesidades.
 Fuente: Adaptado del Documento: OMS. Comunicación de riesgos y participación comunitaria
 (RCCE) en la preparación y respuesta frente al nuevo coronavirus de 2019 (2019-nCoV).
-
 Cuadro 5. Actividades de comunicación de riesgos y participación de la
 comunidad – Fase mitigación (cuando se registra una transmisión)
 Sistemas de
 comunicación
 de riesgos
-
-Coordinación
-interna y
-externa
-
-Comunicación
-Pública
-
-Participación
-comunitaria
-
 - Reforzar la capacidad para hacer frente a aumentos súbitos de la
 demanda de comunicadores y expertos en participación comunitaria.
 - Elaborar, actualizar continuamente y compartir las estrategias de
 comunicación en función de las necesidades de respuesta.
 - Monitorear las campañas de Comunicación de Riesgos y Participación
 de la Comunidad.
+Coordinación
+interna y
+externa
 - Reforzar la colaboración interna y externa para:
  Intercambiar información en tiempo oportuno para evitar que
 las orientaciones sean poco coherentes o contradictorias;
@@ -642,6 +509,8 @@ sobre protección sanitaria); y
  Ampliar el alcance de las actividades de participación
 comunitaria utilizando los puntos fuertes y la capacidad de
 proyección de los asociados.
+Comunicación
+Pública
 - Identificar portavoces en función de la confianza de que gozan entre la
 población, el tipo de mensaje que ha de transmitirse (por ejemplo, sobre el
 compromiso político, los conocimientos técnicos especializados o la protección
@@ -660,18 +529,16 @@ diarias o a través de las líneas telefónicas directas).
 utiliza el público destinatario.
 - Utilizar los medios de comunicación tradicionales, internet y las redes sociales,
 las líneas telefónicas directas y los SMS, según convenga.
+Participación
+comunitaria
 - Mantener una comunicación bidireccional con el público afectado para
 comprender sus inquietudes, actitudes, creencias y los obstáculos que les impiden
 seguir las recomendaciones de salud, y responder a todo ello a través de
 mecanismos tales como:
  Líneas telefónicas directas a cargo de estudiantes de medicina, que
 pueden responder a las llamadas y participar en las redes sociales, y
-
-15
-
-
-
-Programas radiofónicos a los que los oyentes pueden llamar y en los que
+16
+ Programas radiofónicos a los que los oyentes pueden llamar y en los que
 se proporciona información y el público puede formular preguntas.
 - Seguir de cerca a las personas afectadas a fin de asegurarse de que sigan las
 recomendaciones sanitarias, e identificar los obstáculos que les impiden adoptar
@@ -683,26 +550,25 @@ poblaciones afectadas, en especial las menos accesibles.
 y el equipo de respuesta a emergencias, y brindar orientaciones prácticas a los
 encargados de la respuesta a emergencias para que puedan responder mejor a las
 necesidades de las comunidades en materia de protección sanitaria.
-- Establecer mecanismos para recabar periódicamente información y preguntas
 Abordar la
-comunes, malentendidos y desinformación por medio de las líneas telefónicas
 incertidumbre
-directas, los trabajadores sanitarios y las comunidades.
 y las
-- Asegurarse de que los resultados del seguimiento de los medios de
 percepciones y
-comunicación tradicionales y las redes sociales se evalúan rápidamente por
 gestionar la
-medio de un equipo constituido a tal efecto.
 desinformación
+- Establecer mecanismos para recabar periódicamente información y preguntas
+comunes, malentendidos y desinformación por medio de las líneas telefónicas
+directas, los trabajadores sanitarios y las comunidades.
+- Asegurarse de que los resultados del seguimiento de los medios de
+comunicación tradicionales y las redes sociales se evalúan rápidamente por
+medio de un equipo constituido a tal efecto.
 - Colaborar con personas influyentes para que recojan las impresiones de la
 población a través de la información facilitada por esta última.
 - Preparar orientaciones en función de las impresiones e inquietudes de las
 personas, y transmitirlas a través de varios canales de información.
-Creación
-de
-- Asegurarse de que se transmita a los encargados de la respuesta un léxico
+Creación de
 capacidad
+- Asegurarse de que se transmita a los encargados de la respuesta un léxico
 con terminología y mensajes autorizados con orientaciones.
 - Actualizar la formación para la adquisición de competencias entre los
 encargados de la respuesta de Comunicación de Riesgos y Participación de la
@@ -712,36 +578,26 @@ y los portavoces sobre las orientaciones en materia de Comunicación de
 Riesgos y Participación de la Comunidad, según sea necesario.
 Fuente: Adaptado del Documento: OMS.Comunicación de riesgos y participación comunitaria
 (RCCE) en la preparación y respuesta frente al nuevo coronavirus de 2019 (2019-nCoV).
-
 5.3. COMPONENTE C: VIGILANCIA EPIDEMIOLÓGICA Y LABORATORIAL
 El componente de Vigilancia Epidemiológica y Laboratorial tiene como objetivo
-general establecer las directrices de vigilancia epidemiológica y laboratorio SARSCoV-2 dentro del Sistema Nacional de Vigilancia, que permita detectar los casos en
+general establecer las directrices de vigilancia epidemiológica y laboratorio SARS-
+CoV-2 dentro del Sistema Nacional de Vigilancia, que permita detectar los casos en
 el país y evaluar los riesgos para generar información epidemiológica de calidad,
 que oriente a la toma de decisiones.
 5.3.1 OBJETIVOS ESPECÍFICOS DE LA FASE DE CONTENCIÓN
-
-
-
-Detectar precozmente la introducción del virus en el país, (casos importados
+ Detectar precozmente la introducción del virus en el país, (casos importados
 o autóctonos).
-Investigar oportunamente, y retrasar la dispersión en el territorio nacional.
-
+ Investigar oportunamente, y retrasar la dispersión en el territorio nacional.
 5.3.2 OBJETIVOS ESPECÍFICOS DE LA FASE DE MITIGACIÓN
-
-
-Brindar información para describir las características epidemiológicas y
+ Brindar información para describir las características epidemiológicas y
 factores de riesgos de los casos SARS-CoV-2 en Paraguay.
-16
-
-
-
-
-Monitorear el curso de la Pandemia a través de la Vigilancia Sindrómica por
+17
+ Monitorear el curso de la Pandemia a través de la Vigilancia Sindrómica por
 planilla semanal.
-Evaluar los parámetros de Transmisibilidad, Severidad e Impacto utilizando
+ Evaluar los parámetros de Transmisibilidad, Severidad e Impacto utilizando
 la plataforma establecida en la Vigilancia Centinela de ETI e IRAG.
-
-Las Directrices Actualizadas de Vigilancia Epidemiológica y Laboratorio SARSCoV-2 dentro del Sistema Nacional de Vigilancia se encuentran establecidas en la
+Las Directrices Actualizadas de Vigilancia Epidemiológica y Laboratorio SARS-
+CoV-2 dentro del Sistema Nacional de Vigilancia se encuentran establecidas en la
 Guía de Vigilancia Epidemiológica y de Laboratorio de la Enfermedad por
 Coronavirus SARS-CoV-2 en el apartado de CORONAVIRUS en la web
 institucional en INFORMACIÓN PARA: profesionales y establecimientos de
@@ -749,42 +605,31 @@ salud, en el siguiente link:
 https://www.mspbs.gov.py/covid-19-viajeros.php#profesionales
 5.4. COMPONENTE D: ACCIONES EN LOS SERVICIOS Y LOGÍSTICA
 5.4.1. OBJETIVOS ESPECÍFICOS DE LA FASE DE CONTENCIÓN
-
-
-
-Verificar y fortalecer la capacidad instalada de los establecimientos para la
+ Verificar y fortalecer la capacidad instalada de los establecimientos para la
 práctica de prevención y control de la infección en todos los niveles del
 Sistema Nacional de Salud.
-Elaborar e implementar guías y protocolos de manejo clínico.
-
+ Elaborar e implementar guías y protocolos de manejo clínico.
 5.4.2. OBJETIVOS ESPECÍFICOS DE LA FASE DE MITIGACIÓN
-
-
-
-
-
-Asegurar la organización y pleno funcionamiento de los establecimientos de
+ Asegurar la organización y pleno funcionamiento de los establecimientos de
 salud por nivel de complejidad, Red Integrada e Integrales de Servicios de
 Salud (RIISS).
-Conformar una red de expertos clínicos para ayudar a la caracterización
+ Conformar una red de expertos clínicos para ayudar a la caracterización
 clínica de la infección por SARS-CoV-2, abordar los desafíos en la atención
 clínica, y fomentar la colaboración global.
-Cumplir con las medidas de bioseguridad y contención del SARS-CoV-2.
-
+ Cumplir con las medidas de bioseguridad y contención del SARS-CoV-2.
 5.4.3. MANEJO CLÍNICO Y ORGANIZACIÓN DE SERVICIOS DE SALUD
 Para el manejo clínico y organización de servicios de salud, se utilizarán las listas
 de verificación de alistamiento para conocer la capacidad instalada para la atención
 en preparación para la respuesta al SARS-CoV-2 de los establecimientos de salud
 (Figura 3).
-
-17
-
-Figura 3. Lista de verificación de alistamiento para la respuesta al SARS-CoV-2 en
+18
+Figura 3. Lista de verificación de alistamiento para la respuesta al SARS-CoV-2 en
 Hospitales
-
 Las listas de verificación de la OMS se encuentran disponibles en el siguiente link
 https://www.paho.org/hq/index.php?option=com_docman&view=download&ali
-as=51718-lista-de-verificacion-de-alistamiento-para-la-respuesta-al-2019-ncoven-hospitales&category_slug=materiales-cientificos-tecnicos7992&Itemid=270&lang=es
+as=51718-lista-de-verificacion-de-alistamiento-para-la-respuesta-al-2019-ncov-
+en-hospitales&category_slug=materiales-cientificos-tecnicos-
+7992&Itemid=270&lang=es
 5.4.4. PREVENCIÓN Y CONTROL DE INFECCIONES DURANTE LA ATENCIÓN
 SANITARIA DE CASOS SOSPECHOSOS O CONFIRMADOS DE SARS-CoV-2
 Las orientaciones estratégicas de aplicación para la Prevención y Control de
@@ -799,9 +644,8 @@ a:
 - El Equipo de Prevención y Control de Infecciones a Nivel Nacional.
 - Las Unidades Epidemiológicas Regionales, Epidemiólogos Hospitalarios y
 Referentes de Control de Infecciones.
-18
-
-La versión actualizada de las orientaciones estratégicas para la PREVENCIÓN Y
+19
+La versión actualizada de las orientaciones estratégicas para la PREVENCIÓN Y
 CONTROL DE INFECCIONES DURANTE LA ATENCIÓN SANITARIA DE CASOS
 SOSPECHOSOS O CONFIRMADOS DE SARS-CoV-2 se encuentra disponible en el
 apartado de CORONAVIRUS en la web institucional, en INFORMACIÓN PARA:
@@ -816,7 +660,8 @@ sus actividades.
 CORONAVIRUS SARS-CoV-2
 Las indicaciones de un protocolo de actuación deben interpretarse de forma
 individualizada para cada paciente y debe prevalecer el juicio clínico. La Guía para
-el Manejo Clínico de Pacientes con Enfermedad por el Nuevo Coronavirus (SARSCOV-2) del MSPBS ha sido elaborada en concordancia con las publicaciones y las
+el Manejo Clínico de Pacientes con Enfermedad por el Nuevo Coronavirus (SARS-
+COV-2) del MSPBS ha sido elaborada en concordancia con las publicaciones y las
 recomendaciones internacionales actuales.
 Las recomendaciones pueden variar según evolucione el conocimiento acerca de la
 enfermedad y la situación epidemiológica en el Paraguay. En estas
@@ -834,14 +679,10 @@ Información y Control de Inventarios Automatizado del Paraguay (SICIAP) 1 , que
 incluye un sistema de alarma para que los parques sanitarios prevean el inventario
 crítico de productos con varios meses de anticipación. Reportan directamente al
 sistema central un total de 27 establecimientos, donde se incluyen los parques
-
 1
-
 https://www.mspbs.gov.py/dependencias/dggies/adjunto/6f394e-guiarapidaparausodelsiciapBK.pdf
-
-19
-
-sanitarios de las Regiones Sanitarias, además de Hospitales Especializados, Regionales
+20
+sanitarios de las Regiones Sanitarias, además de Hospitales Especializados, Regionales
 y Distritales.
 El sistema de gestión de órdenes de compra tiene un vínculo por medio digital con los
 contratos para la provisión de insumos y medicamentos, lo cual hace posible reducir
@@ -852,317 +693,198 @@ Garantizar la correcta dotación de medicamentos e insumos para llevar a cabo la
 acciones de vigilancia, prevención, control y manejo de casos en el marco de la posible
 introducción del virus de la Enfermedad por Coronavirus (SARS-CoV-2) al país.
 5.4.6.3. OBJETIVOS ESPECÍFICOS
-
-
-
-Contar con la información actualizada sobre estimación y disponibilidad de
+ Contar con la información actualizada sobre estimación y disponibilidad de
 insumos
-Prever los procedimientos a realizar en las diferentes fases de la eventual
+ Prever los procedimientos a realizar en las diferentes fases de la eventual
 pandemia
 Cuadro 6. Actores claves involucrados
-
-Actor
-
-Sector
-
+Actor Sector Rol en el marco del componente
 Centro de Operaciones de
 Emergencia
-
-MSPBS
-
+MSPBS  Coordinar las acciones en el marco de la
+Pandemia
+ Realiza la estimación de necesidades y
+canaliza las solicitudes
 Dirección General de
 Gestión de Insumos
 Estratégicos
-
-MSPBS
-
-Rol en el marco del componente
-
-
-
-
-
-Dirección General de
-Desarrollo de Servicios y
-Redes de Salud
-
-MSPBS
-
-
-
-Dirección de Transporte
-
-MSPBS
-
-
-
-Dirección General de
-Administración y Finanzas
-
-MSPBS
-
-
-
-Dirección General de
-Recursos Humanos
-
-MSPBS
-
-
-
-Coordinar las acciones en el marco de la
-Pandemia
-Realiza la estimación de necesidades y
-canaliza las solicitudes
-Desarrollar las actividades de monitoreo
+MSPBS  Desarrollar las actividades de monitoreo
 de control de stock, programación,
 adquisiciones y distribución de
 medicamentos e insumos
-Mantener contacto con los proveedores y
+ Mantener contacto con los proveedores y
 los parques sanitarios
-Garantizar que los establecimientos de
+Dirección General de
+Desarrollo de Servicios y
+Redes de Salud
+MSPBS  Garantizar que los establecimientos de
 salud mantengan actualizados sus
 controles de stock de insumos y realicen
 los procesos de solicitud
-Garantizar la disponibilidad de transporte
+Dirección de Transporte MSPBS  Garantizar la disponibilidad de transporte
 acordada en el plan
-Agilizar los trámites administrativos
+Dirección General de
+Administración y Finanzas
+MSPBS  Agilizar los trámites administrativos
 necesarios para la disponibilidad de
 recursos
-Responde a las necesidades de dotación
+Dirección General de
+Recursos Humanos
+MSPBS  Responde a las necesidades de dotación
 de recursos humanos consideradas
 prioritarias en el marco del Plan
-20
-
-Dirección General de
+21
+Dirección General de
 Vigilancia de la Salud
-
-MSPBS
-
-
-
-Dirección Nacional de
-Contrataciones Públicas
-
-Gobierno
-Central
-
-
-
-Empresas proveedoras
-
-Sector
-Privado
-
-
-
-Correo Nacional
-
-Gobierno
-Central
-
-
-
-Mantener actualizada la estimación de
+MSPBS  Mantener actualizada la estimación de
 casos previstos según información
 epidemiológica
-Ofrecer apoyo técnico para agilizar los
+Dirección Nacional de
+Contrataciones Públicas
+Gobierno
+Central
+ Ofrecer apoyo técnico para agilizar los
 procedimientos en el marco de la
 evaluación de riesgos
-Realizan gestiones para garantizar el
+Empresas proveedoras Sector
+Privado
+ Realizan gestiones para garantizar el
 suministro de los insumos demandados,
 con oportunidad y calidad
-Apoya las acciones de logística, en caso
+Correo Nacional Gobierno
+Central
+ Apoya las acciones de logística, en caso
 necesario
-
 Cuadro 7. Plazos estimados de los trámites de una adquisición
-Licitación Pública
-
-por Vía de la
-Excepción
-
-por Urgencia
-Impostergable
-
-•6 - 8 meses
-
-•30 días
-
-•10 días
-
 Cuadro 8. Actividades a desarrollar por Fases
-
-Fase I
-Preparación
-
-Fase II
-Contención
-
 ACTIVIDADES
-
-Fase III
-Mitigación
-
 ACTORES
 RESPONSABLES
-
 FASE I: PREPARACIÓN
-
-
-Estimar necesidades comparando con la proyección de casos
+ Estimar necesidades comparando con la proyección de casos
 estimados
-
 DGVS
 DGRSS
 DGGIES
-
-
-
-Definir un listado de insumos básicos necesarios para la atención
+ Definir un listado de insumos básicos necesarios para la atención
 de casos ambulatorios, hospitalizados e ingresados a UCI
-
 DGRSS
 INERAM
-
-
-
-
-Analizar la disponibilidad de insumos y medicamentos en los
+ Analizar la disponibilidad de insumos y medicamentos en los
 establecimientos del sector público
-Revisar saldos de contratos vigentes
-
+ Revisar saldos de contratos vigentes
 DGGIES
-
-21
-
-
-
-
-
-
-Elaborar listado para adquisición de medicamentos e insumos en
+Fase I
+Preparación
+Fase II
+Contención
+Fase III
+Mitigación
+Licitación Pública
+•6 - 8 meses
+por Vía de la
+Excepción
+•30 días
+por Urgencia
+Impostergable
+•10 días
+22
+ Elaborar listado para adquisición de medicamentos e insumos en
 base a la solicitud ampliada
-Establecer las condiciones generales y especificaciones técnicas
+ Establecer las condiciones generales y especificaciones técnicas
 para la adquisición y el monto estimativo de compra
-Proponer y asesorar para el análisis de disponibilidad de insumos
-en otros subsectores de salud
-Revisar los indicadores de uso del SICIAP y dotar de suficiente
-número de recursos humanos capacitados, destinados a esta tarea
-
 DGRSS
-
+ Proponer y asesorar para el análisis de disponibilidad de insumos
+en otros subsectores de salud
 COE
+ Revisar los indicadores de uso del SICIAP y dotar de suficiente
+número de recursos humanos capacitados, destinados a esta tarea
 COE
 DGGIES
 DGRRHH
-
 FASE II: CONTENCIÓN
-
-
-
-
-
-
-Procesar la solicitud de compra y asignación presupuestaria y
+ Procesar la solicitud de compra y asignación presupuestaria y
 apertura del llamado en el portal de Contrataciones Públicas,
 según la modalidad establecida (Licitación, excepción, urgencia)
-
 DGGIES
-
-Actualizar el cuadro de necesidades, de acuerdo a la actualización
-de la información epidemiológica
-Garantizar la entrega de insumos en forma oportuna y monitorear
-el control de stock
-Garantizar que no ocurran desabastecimientos en otras áreas
-
-DGGIES
-
 DGAF
-
+ Actualizar el cuadro de necesidades, de acuerdo a la actualización
+de la información epidemiológica
+ Garantizar la entrega de insumos en forma oportuna y monitorear
+el control de stock
+ Garantizar que no ocurran desabastecimientos en otras áreas
+DGGIES
 DGVS
 DGRSS
-
 FASE III: MITIGACIÓN
-
-
-Establecer sistemas de conciliación entre las necesidades de
+ Establecer sistemas de conciliación entre las necesidades de
 medicamentos e insumos esenciales, stocks finales y los fondos
 presupuestarios disponibles.
-
 DGGIES
-
-
-
-Coordinar con los proveedores las condiciones de entrega y prever
+ Coordinar con los proveedores las condiciones de entrega y prever
 acciones en caso de desabastecimiento a nivel internacional
-
 DGGIES
 COE
 OPS/OMS
-
-
-
-Establecer la metodología de los criterios de priorización de las
+ Establecer la metodología de los criterios de priorización de las
 necesidades de compra de medicamentos e insumos
-
 DGRSS
 DGGIES
-
-22
-
-6. FUENTES BIBLIOGRÁFICAS
+23
+6. FUENTES BIBLIOGRÁFICAS
 1. WHO. COVID-19 Strategic Preparedness and Response Plan OPERATIONAL
 PLANNING GUIDELINES TO SUPPORT COUNTRY PREPAREDNESS AND RESPONSE.
-Disponible en: https://www.who.int/docs/default-source/coronaviruse/srp04022020.pdf
+Disponible en: https://www.who.int/docs/default-source/coronaviruse/srp-
+04022020.pdf
 2. OMS. Enfermedad por el Coronavirus (COVID‑19). Disponible en:
 https://www.paho.org/hq/index.php?option=com_content&view=article&i
 d=15696:coronavirus-disease-covid-19&Itemid=4206&lang=es
 3. OMS. Comunicación de riesgos y participación comunitaria (RCCE) en la
 preparación y respuesta frente al nuevo coronavirus de 2019 (2019-nCoV).
 Disponible en:
-https://apps.who.int/iris/bitstream/handle/10665/330860/9789240001039spa.pdf
+https://apps.who.int/iris/bitstream/handle/10665/330860/9789240001039-
+spa.pdf
 4. WHO. Coronavirus disease 2019 (COVID-19) Situation Report – 44. Disponible
 en:
-https://www.who.int/docs/default-source/coronaviruse/situationreports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_6
+https://www.who.int/docs/default-source/coronaviruse/situation-
+reports/20200304-sitrep-44-covid-19.pdf?sfvrsn=783b4c9d_6
 5. Johns Hopkins CSSE. Coronavirus COVID-19 Global Cases. Disponible en:
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda75947
 40fd40299423467b48e9ecf6
 6. OPS/OMS. Lista de verificación de alistamiento para la respuesta al nCoV 2019
 en Hospitales.
 https://www.paho.org/hq/index.php?option=com_docman&view=download&ali
-as=51718-lista-de-verificacion-de-alistamiento-para-la-respuesta-al-2019-ncoven-hospitales&category_slug=materiales-cientificos-tecnicos7992&Itemid=270&lang=es
+as=51718-lista-de-verificacion-de-alistamiento-para-la-respuesta-al-2019-ncov-
+en-hospitales&category_slug=materiales-cientificos-tecnicos-
+7992&Itemid=270&lang=es
 7. MSPBS. Manejo clínico de pacientes con enfermedad por el nuevo coronavirus
 (COVID-19). Disponible en:
-https://www.mspbs.gov.py/dependencias/portal/adjunto/6645caManejoclnicodepacientesconenfermedadporelnuevocoronavirusCOVID19.pdf
+https://www.mspbs.gov.py/dependencias/portal/adjunto/6645ca-
+ManejoclnicodepacientesconenfermedadporelnuevocoronavirusCOVID19.pdf
 8. MSPBS. Prevención y control de infecciones durante la atención sanitaria de
 casos sospechosos o confirmados de covid-19. Disponible en:
-https://www.mspbs.gov.py/dependencias/portal/adjunto/769eb7Prevencinycontroldeinfeccionesdurantelaatencinsanitariadecasossospechososoco
+https://www.mspbs.gov.py/dependencias/portal/adjunto/769eb7-
+Prevencinycontroldeinfeccionesdurantelaatencinsanitariadecasossospechososoco
 nfirmadosdeCOVID19.pdf
 9. MSPBS. Guía de vigilancia epidemiológica y de laboratorio de la Enfermedad por
 Coronavirus-19 (COVID-19).
 Disponible:
-https://www.mspbs.gov.py/dependencias/portal/adjunto/5231daGuiadevigilanciaepidemiologica.pdf
+https://www.mspbs.gov.py/dependencias/portal/adjunto/5231da-
+Guiadevigilanciaepidemiologica.pdf
 10. MSPBS (2019) Guía Básica para el uso del SICIAP.
-https://www.mspbs.gov.py/dependencias/dggies/adjunto/6f394eguiarapidaparausodelsiciapBK.pdf
-23
-
-11. OMS (2010) Escenario para el cálculo modelo ante una influenza pandémica.
+https://www.mspbs.gov.py/dependencias/dggies/adjunto/6f394e-
+guiarapidaparausodelsiciapBK.pdf
+24
+11. OMS (2010) Escenario para el cálculo modelo ante una influenza pandémica.
 12. WHO. Prevención y control de infecciones (PCI) durante la atención médica
 cuando se sospecha una nueva infección por coronavirus (nCoV). Guía Provisional. 25
 enero 2020. WHO/2019-nCoV/IPC/v2020.2.
 13. WHO. Cuidados en casa para pacientes con sospecha de infección por el nuevo
 coronavirus (2019-nCoV) con síntomas leves y manejo de contactos sin síntomas.
 Guía provisional. 20 enero 2020. WHO/nCov/IPC_HomeCare/2020.1.
-
-24
-
-7. ANEXOS
+25
+7. ANEXOS
 7.1. Resolución Ministerial S. G. N° 76.
-
-25
-
 26
-
 27
-
 

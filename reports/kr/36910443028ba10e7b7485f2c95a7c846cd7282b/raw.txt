@@ -1,717 +1,110 @@
+- 1 -
 ○ As of 0:00, 20 March 2020, the total number of confirmed cases is 8,652, of which 2,233 cases have
 been discharged from isolation. Newly confirmed cases are 87 in total.
-
 Period
-
-Total
-
-Tested positive
-
-Being tested Tested negative
-
-Confirmed
-
-Discharged
-
-Isolated
-
-Deceased
-
-307,024
-
-8,565
-
-1,947
-
-6,527
-
-91
-
-15,904
-
-282,555
-
-As of 0:00
-20 March (Fri)
-
-316,664
-
-8,652
-
-2,233
-
-6,325
-
-94
-
-15,525
-
-292,487
-
-Change
-
-+9,640
-
-+87
-
-+286
-
--202
-
-+3
-
--379
-
-+9,932
-
 (since 3 Jan)
+Total
+Tested positive
+Being tested Tested negative
+Confirmed Discharged Isolated Deceased
 As of 0:00
 19 March (Thurs)
-
-- 1 -
-
-○ Regional distribution of total confirmed cases:
-City
+307,024 8,565 1,947 6,527 91 15,904 282,555
+As of 0:00
+20 March (Fri)
+316,664 8,652 2,233 6,325 94 15,525 292,487
+Change +9,640 +87 +286 -202 +3 -379 +9,932
+- 2 -
+○ Regional distribution of total confirmed cases:
 Total
-
-Seoul
-
-Busan
-
-Daegu
-
-Incheon
-
-Gwangju
-
-Daejeon
-
-Ulsan
-
-Sejong
-
-Isolated
-
-6,325
-
-235
-
-47
-
-4,631
-
-29
-
-8
-
-17
-
-25
-
-41
-
-Discharged
-
-2,233
-
-64
-
-60
-
-1,577
-
-7
-
-10
-
-5
-
-11
-
-0
-
-Deceased
-
-94
-
-0
-
-1
-
-67
-
-0
-
-0
-
-0
-
-0
-
-0
-
-Subtotal
-
-8,652
-
-299
-
-108
-
-6,275
-
-36
-
-18
-
-22
-
-36
-
-41
-
-(Change)
-
-(87)
-
-(17)
-
-(1)
-
-(34)
-
-(4)
-
-(1)
-
--
-
--
-
--
-
-Province
-
-Other
-
-Gyeonggi
-
-Gangwon
-
-Chungbuk
-
-Chungnam
-
-Jeonbuk
-
-Jeonnam
-
-Gyeongbuk
-
-Gyeongnam
-
+City
+Seoul Busan Daegu Incheon Gwangju Daejeon Ulsan Sejong
+Isolated 6,325 235 47 4,631 29 8 17 25 41
+Discharged 2,233 64 60 1,577 7 10 5 11 0
+Deceased 94 0 1 67 0 0 0 0 0
+Subtotal 8,652 299 108 6,275 36 18 22 36 41
+(Change) (87) (17) (1) (34) (4) (1) - - -
+Province Other
+Gyeonggi Gangwon
+Chung-
+buk
+Chung-
+nam
+Jeon-
+buk
+Jeon-
+nam
+Gyeong-
+buk
+Gyeong-
+nam
 Jeju
-
 Airport
 screening
-
-Isolated
-
-240
-
-19
-
-27
-
-87
-
-3
-
-2
-
-841
-
-54
-
-2
-
-17
-
-Discharged
-
-66
-
-10
-
-6
-
-32
-
-7
-
-3
-
-340
-
-33
-
-2
-
-0
-
-Deceased
-
-3
-
-1
-
-0
-
-0
-
-0
-
-0
-
-22
-
-0
-
-0
-
-0
-
-Subtotal
-
-309
-
-30
-
-33
-
-119
-
-10
-
-5
-
-1,203
-
-87
-
-4
-
-17
-
-(Change)
-
-(14)
-
--
-
--
-
-(1)
-
--
-
--
-
-(13)
-
-(1)
-
--
-
-(1)
-
+Isolated 240 19 27 87 3 2 841 54 2 17
+Discharged 66 10 6 32 7 3 340 33 2 0
+Deceased 3 1 0 0 0 0 22 0 0 0
+Subtotal 309 30 33 119 10 5 1,203 87 4 17
+(Change) (14) - - (1) - - (13) (1) - (1)
 ○ Case distribution and incidence rate by region:
 Region
-
 # of
 cases
-
 (%)
-
 Incidence rate
 (per 0.1M)
-
 Region
-
 # of
-
-(%)
-
 cases
-
+(%)
 Incidence rate
 (per 0.1M)
-
-Seoul
-
-299
-
-(3.46)
-
-3.07
-
-Gyeonggi
-
-309
-
-(3.57)
-
-2.33
-
-Busan
-
-108
-
-(1.25)
-
-3.17
-
-Gangwon
-
-30
-
-(0.35)
-
-1.95
-
-Daegu
-
-6,275
-
-Chungbuk
-
-33
-
-(0.38)
-
-2.06
-
-119
-
-(1.38)
-
-5.61
-
-(72.53)
-
-257.54
-
-Incheon
-
-36
-
-(0.42)
-
-1.22
-
-Chungnam
-
-Gwangju
-
-18
-
-(0.21)
-
-1.24
-
-Jeonbuk
-
-10
-
-(0.12)
-
-0.55
-
-Daejeon
-
-22
-
-(0.25)
-
-1.49
-
-Jeonnam
-
-5
-
-(0.06)
-
-0.27
-
-Ulsan
-
-36
-
-(0.42)
-
-3.14
-
-Gyeongbuk
-
-(13.90)
-
-45.18
-
-Sejong
-
-41
-
-(0.47)
-
-11.98
-
-Gyeongnam
-
-87
-
-(1.01)
-
-2.59
-
+Seoul 299 (3.46) 3.07 Gyeonggi 309 (3.57) 2.33
+Busan 108 (1.25) 3.17 Gangwon 30 (0.35) 1.95
+Daegu 6,275 (72.53) 257.54 Chungbuk 33 (0.38) 2.06
+Incheon 36 (0.42) 1.22 Chungnam 119 (1.38) 5.61
+Gwangju 18 (0.21) 1.24 Jeonbuk 10 (0.12) 0.55
+Daejeon 22 (0.25) 1.49 Jeonnam 5 (0.06) 0.27
+Ulsan 36 (0.42) 3.14 Gyeongbuk 1,203 (13.90) 45.18
+Sejong 41 (0.47) 11.98 Gyeongnam 87 (1.01) 2.59
 Airport
 Screening
-
-17
-
-(0.20)
-
--
-
-4
-
-(0.05)
-
-0.60
-
-8,652 (100)
-
-16.69
-
-Jeju
-Total
-
-- 2 -
-
-1,203
-
-○ Cases trends by region:
-
-- 3 -
-
+17 (0.20) - Jeju 4 (0.05) 0.60
+Total 8,652 (100) 16.69
+- 3 -
+○ Cases trends by region:
 - 4 -
-
-○ Case distribution by gender and age group:
+- 5 -
+○ Case distribution by gender and age group:
 Confirmed
 Cases
-Total
+(%) Deaths (%) Fatality rate (%)
+Total 8,652 (100.0) 94 (100.0) 1.09
 Sex
-
-Male
-Female
-80 and above
-
+Male 3,330 (38.49) 51 (54.26) 1.53
+Female 5,322 (61.51) 43 (45.74) 0.81
 Age
-
-8,652
-3,330
-5,322
-329
-
-(%)
-
-Deaths
-
-(%)
-
-Fatality rate (%)
-
-(100.0)
-(38.49)
-(61.51)
-(3.80)
-
-94
-51
-43
-33
-
-(100.0)
-(54.26)
-(45.74)
-(35.11)
-
-1.09
-1.53
-0.81
-10.03
-
-(6.56)
-
-35
-
-(37.23)
-
-6.16
-
-70-79
-
-568
-
-60-69
-
-1,099
-
-(12.70)
-
-17
-
-(18.09)
-
-1.55
-
-50-59
-
-1,656
-
-(19.14)
-
-7
-
-(7.45)
-
-0.42
-
-40-49
-
-1,193
-
-(13.79)
-
-1
-
-(1.06)
-
-0.08
-
-30-39
-
-893
-
-(10.32)
-
-1
-
-(1.06)
-
-0.11
-
-20-29
-
-2,365
-
-(27.33)
-
-0
-
-(0.00)
-
--
-
-10-19
-
-452
-
-(5.22)
-
-0
-
-(0.00)
-
--
-
-97
-
-(1.12)
-
-0
-
-(0.00)
-
--
-
-0-9
-
-- 5 -
-
-○ Pediatric case distribution:
-Age group
-
-Total confirmed
-
+80 and above 329 (3.80) 33 (35.11) 10.03
+70-79 568 (6.56) 35 (37.23) 6.16
+60-69 1,099 (12.70) 17 (18.09) 1.55
+50-59 1,656 (19.14) 7 (7.45) 0.42
+40-49 1,193 (13.79) 1 (1.06) 0.08
+30-39 893 (10.32) 1 (1.06) 0.11
+20-29 2,365 (27.33) 0 (0.00) -
+10-19 452 (5.22) 0 (0.00) -
+0-9 97 (1.12) 0 (0.00) -
+- 6 -
+○ Pediatric case distribution:
+Age group Total confirmed
 Change from
 yesterday
-
-0-2
-
-29
-
-3-6
-
 Status
 Discharged
 from isolation
-
 In isolation
-
-1
-
-7
-
-22
-
-30
-
-2
-
-6
-
-24
-
-7-12
-
-98
-
-6
-
-22
-
-76
-
-13-15
-
-89
-
-3
-
-23
-
-66
-
-16-18
-
-131
-
-1
-
-28
-
-103
-
-- 6 -
-
+0-2 29 1 7 22
+3-6 30 2 6 24
+7-12 98 6 22 76
+13-15 89 3 23 66
+16-18 131 1 28 103
 

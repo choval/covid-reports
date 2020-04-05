@@ -1,381 +1,162 @@
 PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 1815
+Lodi 1035
+Cremona 1061
+in fase di verifica e aggiornamento 190
+Pavia 403
+Brescia 1351
+Milano 925
+Monza Brianza 85
+Mantova 137
+Varese 75
+Sondrio 13
+Como 77
+Lecco 113
+Totale 7280
+Piacenza 664
+Parma 378
+Modena 163
+Rimini 245
+Reggio Emilia 114
+Bologna 108
+Ravenna 31
+Forlì Cesena 24
+Ferrara 12
+in fase di verifica e aggiornamento
+Totale 1739
+PADOVA 373
+TREVISO 185
+VENEZIA 179
+VERONA 110
+in fase di verifica e aggiornamento 40
+VICENZA 92
+BELLUNO 30
+ROVIGO 14
+Totale 1023
+Pesaro 342
+Ancona 110
+Macerata 17
+Fermo 8
+Ascoli Piceno 1
+altro/in fase di verifica 1
+Totale 479
 Covid 19 - Ripartizione dei contagiati per provincia al 11/03/2020
 ore 17
-
 LOMBARDIA
-Bergamo
-Lodi
-Cremona
-in fase di verifica e aggiornamento
-Pavia
-Brescia
-Milano
-Monza Brianza
-Mantova
-Varese
-Sondrio
-Como
-Lecco
-
-1815
-1035
-1061
-190
-403
-1351
-925
-85
-137
-75
-13
-77
-113
-
-Totale
-
-7280
-
-EMILIA-ROMAGNA
-Piacenza
-Parma
-Modena
-Rimini
-Reggio Emilia
-Bologna
-Ravenna
-Forlì Cesena
-Ferrara
-
-664
-378
-163
-245
-114
-108
-31
-24
-12
-
-in fase di verifica e aggiornamento
-
-Totale
-
-1739
-
 VENETO
-PADOVA
-TREVISO
-VENEZIA
-VERONA
-in fase di verifica e aggiornamento
-VICENZA
-BELLUNO
-ROVIGO
-
-373
-185
-179
-110
-40
-92
-30
-14
-
-Totale
-
-1023
-
+EMILIA-ROMAGNA
 MARCHE
-Pesaro
-Ancona
-Macerata
-Fermo
-Ascoli Piceno
-altro/in fase di verifica
-
-342
-110
-17
-8
-1
-1
-
-Totale
-
-479
-
 PCM-DPC dati forniti dal Ministero della Salute
-
-PIEMONTE
-Torino
-Novara
-Asti
-Vercelli
-Alessandria
-Verbano-Cusio-Ossola
-BIELLA
-CUNEO
-in fase di verifica e aggiornamento
-
-159
-27
-68
-24
-105
-13
-36
-17
-52
-
-Totale
-
-501
-
+Torino 159
+Novara 27
+Asti 68
+Vercelli 24
+Alessandria 105
+Verbano-Cusio-Ossola 13
+BIELLA 36
+CUNEO 17
+in fase di verifica e aggiornamento 52
+Totale 501
+Firenze 71
+Siena 37
+Massa Carrara 40
+Pistoia 32
+Lucca 43
+Arezzo 14
+Pisa 34
+Livorno 16
+Prato 21
+Grosseto 12
+Totale 320
+Napoli 96
+Salerno 17
+Caserta 26
+Avellino 7
+Benevento 2
+In aggiornamento 6
+Totale 154
+Roma 99
+Frosinone 8
+Viterbo 10
+Rieti 3
+Latina 11
+Lazio Fuori Regione 19
+Totale 150
+Savona 42
+Imperia 18
+Genova 63
+La Spezia 19
+in fase di aggiornamento 52
+Totale 194
 TOSCANA
-Firenze
-Siena
-Massa Carrara
-Pistoia
-Lucca
-Arezzo
-Pisa
-Livorno
-Prato
-Grosseto
-
-71
-37
-40
-32
-43
-14
-34
-16
-21
-12
-
-Totale
-
-320
-
-CAMPANIA
-Napoli
-Salerno
-Caserta
-Avellino
-Benevento
-In aggiornamento
-
-96
-17
-26
-7
-2
-6
-
-Totale
-
-154
-
-LAZIO
-Roma
-Frosinone
-Viterbo
-Rieti
-Latina
-Lazio Fuori Regione
-
-99
-8
-10
-3
-11
-19
-
-Totale
-
-150
-
+PIEMONTE
 LIGURIA
-Savona
-Imperia
-Genova
-La Spezia
-in fase di aggiornamento
-
-42
-18
-63
-19
-52
-
-Totale
-
-194
-
+LAZIO
+CAMPANIA
 PCM-DPC dati forniti dal Ministero della Salute
-
-FRIULI VENEZIA GIULIA
-Trieste
-Gorizia
-Udine
-Pordenone
+Trieste 57
+Gorizia 12
+Udine 44
+Pordenone 13
 Friuli in aggiornamento
-
-57
-12
-44
-13
-
-Totale
-
-126
-
-SICILIA
-Palermo
-Enna
-Catania
-Ragusa
-Agrigento
-Messina
-Siracusa
-Trapani
-
-15
-1
-41
-1
-16
-4
-3
-2
-
-Totale
-
-83
-
-PUGLIA
-Taranto
-Bari
-Brindisi
-Bat
-Lecce
-Foggia
-
-4
-18
-15
-4
-12
-24
-
-Totale
-
-77
-
-UMBRIA
-Perugia
-Terni
-Da aggiornare
-
-26
-18
-2
-
-Totale
-
-46
-
-ABRUZZO
-Teramo
-Pescara
-L'aquila
-Chieti
-
-5
-18
-6
-9
-
-Totale
-
-38
-
-MOLISE
-Campobasso
-
-16
-
-Totale
-
-16
-
+Totale 126
+Palermo 15
+Enna 1
+Catania 41
+Ragusa 1
+Agrigento 16
+Messina 4
+Siracusa 3
+Trapani 2
+Totale 83
+Taranto 4
+Bari 18
+Brindisi 15
+Bat 4
+Lecce 12
+Foggia 24
+Totale 77
+Perugia 26
+Terni 18
+Da aggiornare 2
+Totale 46
+Teramo 5
+Pescara 18
+L'aquila 6
+Chieti 9
+Totale 38
+Campobasso 16
+Totale 16
+Bolzano 75
+Trento 77
+Totale 152
 TRENTINO ALTO ADIGE
-Bolzano
-Trento
-
-75
-77
-
-Totale
+SICILIA
+UMBRIA
+FRIULI VENEZIA GIULIA
+ABRUZZO
 SARDEGNA
-
-152
-
+MOLISE
+PUGLIA
 PCM-DPC dati forniti dal Ministero della Salute
-Cagliari
-Nuoro
-Oristano
-Sassari
-
-15
-18
-2
-2
-
-Totale
-
-37
-
-BASILICATA
-Potenza
-Matera
-
-5
-3
-
-Totale
-
-8
-
-VALLE D'AOSTA
-AOSTA
-
-20
-
-Totale
-
-20
-
+Cagliari 15
+Nuoro 18
+Oristano 2
+Sassari 2
+Totale 37
+Potenza 5
+Matera 3
+Totale 8
+AOSTA 20
+Totale 20
+Cosenza 5
+Reggio Calabria 6
+Catanzaro 2
+Vibo Valentia 5
+Crotone 1
+Totale 19
+Totale Generale 12462
 CALABRIA
-Cosenza
-Reggio Calabria
-Catanzaro
-Vibo Valentia
-Crotone
-
-5
-6
-2
-5
-1
-
-Totale
-
-Totale Generale
-
-19
-
-12462
-
+VALLE D'AOSTA
+BASILICATA
 

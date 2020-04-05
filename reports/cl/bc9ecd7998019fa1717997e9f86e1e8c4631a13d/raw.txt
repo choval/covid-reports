@@ -1,16 +1,15 @@
 Oficio CP N° 1553 / 2020
 ANTECEDENTE: NO hay
-
 MATERIA: Alerta y refuerzo ante brote de 2019-nCoV
 en China.
-
 SANTIAGO, 22 de Enero de 2020
 DE : SUBSECRETARÍA DE SALUD PÚBLICA
 A : SEGÚN DISTRIBUCIÓN
 Los coronavirus (CoV) son una familia de virus que causan enfermedades que van desde el resfriado común hasta enfermedades
 más graves, como el síndrome respiratorio de Oriente Medio (MERS-CoV) y el síndrome respiratorio agudo severo (SARS-CoV).
 Los coronavirus son zoonóticos, lo que significa que se transmiten entre animales y personas. Algunas investigaciones postulan
-que el SARS-CoV se transmitió desde murciélagos a civetas (Paguma larvata) y desde ahí a humanos, mientras que el MERSCoV se transmitió desde murciélagos a camellos y desde ahí a humanos. Varios coronavirus conocidos circulan en animales
+que el SARS-CoV se transmitió desde murciélagos a civetas (Paguma larvata) y desde ahí a humanos, mientras que el MERS-
+CoV se transmitió desde murciélagos a camellos y desde ahí a humanos. Varios coronavirus conocidos circulan en animales
 (perros, gatos, cerdos) y aún no se ha registrado infección en humanos.
 El 31 de diciembre de 2019, las autoridades de la ciudad de Wuhan (población de 19 millones) en la provincia de Hubei
 (población de 58 millones), en China, reportaron un conglomerado de 27 casos de síndrome respiratorio agudo de etiología
@@ -27,31 +26,28 @@ causada por este virus y las acciones a implementar en caso de una persona sospe
 El ministerio de Salud en el ámbito de Salud Pública ha definido tres ejes de acción para enfrentar preliminarmente este evento.
 Estos ejes podrán modificarse en la medida que surjan nuevas recomendaciones o cambie la dinámica del evento en salud. Los
 tres ejes son:
-1. Vigilancia Epidemiológica
-2. Aspectos de Laboratorio
-3. Prevención y control de infecciones asociadas a la atención en salud (IAAS)
+Vigilancia Epidemiológica
+1.
+Aspectos de Laboratorio
+2.
+Prevención y control de infecciones asociadas a la atención en salud (IAAS)
+3.
 Vigilancia Epidemiológica
 Para todos los establecimientos de salud públicos y privados
 En el contexto de este nuevo coronavirus, se agrega una nueva definición de caso[1] que debe ser considerada frente a
 pacientes con IRAG:
-
-1)
-Pacientes con infección respiratoria aguda grave (IRAG) sin otra etiología que explique completamente la presentación
+1) Pacientes con infección respiratoria aguda grave (IRAG) sin otra etiología que explique completamente la presentación
 clínica y que tenga un historial de viaje o que haya vivido en Wuhan, provincia de Hubei, China, en los 14 días anteriores al
 inicio de los síntomas o, que tenga una ocupación como trabajador de la salud en un entorno que atiende a pacientes con
 IRAG con etiología desconocida.
-2)
-Paciente con IRAG que desarrolla un curso clínico inusual o inesperado, especialmente un deterioro repentino a pesar
+2) Paciente con IRAG que desarrolla un curso clínico inusual o inesperado, especialmente un deterioro repentino a pesar
 del tratamiento adecuado, incluso si se ha identificado otra etiología que explique completamente la presentación clínica.
-3)
-Paciente con enfermedad respiratoria aguda de cualquier grado de gravedad que, dentro de los 14 días previos al inicio
+3) Paciente con enfermedad respiratoria aguda de cualquier grado de gravedad que, dentro de los 14 días previos al inicio
 de la enfermedad: Tuvo contacto físico cercano con un caso confirmado de infección por 2019-nCoV, o exposición en un
 centro de salud de un país donde las infecciones por 2019-nCoV asociadas al hospital han sido reportados, o que haya
 visitado/trabajado en un mercado de animales vivos en Wuhan, China.
-
 Todos los casos sospechosos del nuevo coronavirus deben ser notificados en forma inmediata a la Unidad de Epidemiología de
 la SEREMI de Salud respectiva. Esta notificación debe realizarse a través de la vía más expedita y mediante el formulario anexo.
-
 Investigación Epidemiológica
 Con el fin de pesquisar oportunamente otros casos y controlar la aparición de casos secundarios, se debe iniciar la investigación
 inmediata frente a la detección de un caso sospechoso.
@@ -71,109 +67,93 @@ aparición de síntomas y signos sugerentes de 2019-nCoV.
 Exposición doméstica: permanecer en el mismo entorno cercano que un paciente confirmado para 2019-nCoV.
 Exposición asociada a la atención médica, participar en la atención directa de pacientes confirmados para 2019-nCoV; que
 trabajen con trabajadores de la salud infectados con nuevo coronavirus.
-
 Definición de Contacto:
-
 Además, solicitamos reforzar nuestra Red Centinela de enfermedades respiratorias asociado a influenza y virus respiratorios.
 Para esto se requiere:
-●
-
 En los centros Centinela de ETI de Atención Primaria:
-
 ●
-
 Realizar el envío oportuno (lunes) al Minsal de los casos ETI registrados en forma semanal.Reforzar en los equipos clínicos
 la notificación de los casos de ETI, según Circular de Influenza de 2010.Realizar búsqueda activa en aquellos con
 notificación baja o sin casos.Mantener la obtención de 5-10 muestras respiratorias semanales en casos de ETI notificados
 en los centinelas etiológicos y envío de la totalidad de los casos positivos de influenza a los laboratorios regionales de PCR
 o al ISP para su subtipificación.
-
 ●
-
-En los establecimientos centinela de IRAG[2]:
-
+En los establecimientos centinela de IRAG[2]
+:
 ●
-
 Reforzar la vigilancia intensificada de casos de IRAG en sus componentes epidemiológico, clínico y de laboratorio.Revisar
 periódicamente que la notificación y toma de muestras se realice en todos los grupos etarios.Realizar el ingreso oportuno
 de los casos IRAG, los denominadores y los resultados de laboratorio en la plataforma existente (sistema
 PahoFluid).Resguardar la toma de muestra en todos los casos fallecidos y el análisis por PCR.Realizar los cierres de casos
 respectivos.Enviar la totalidad de los casos positivos de Influenza al ISP, de manera semanal.
-
 ●
-
 En los establecimientos para la vigilancia de laboratorio de virus respiratorios:
-
 ●
-
 Realizar el ingreso oportuno (lunes) al sistema de registro Filemaker en forma semanal.
-
+●
 Precauciones Estándar en la Atención de Salud.
 La atención de casos sospechosos o confirmados se realizará cumpliendo las precauciones estándares (medidas que se aplican
 a todos los pacientes, se conozca o no su diagnóstico), de acuerdo con lo descrito en la Circular Nº 9 de 13.03.2013
-“Precauciones estándares para el control de infecciones en la atención en salud” [3] y, adicionalmente, las precauciones
+“Precauciones estándares para el control de infecciones en la atención en salud”[3]
+y, adicionalmente, las precauciones
 adicionales basadas en mecanismo de transmisión (“aislamientos”) de contacto y gotitas descritas en la circular antes citada y la
 Circular C37 07 de 14.06.2018.
-
 En resumen, entre las precauciones estándares incluye:
-1. Higiene de manos
-2. Uso de equipo de protección personal
-3. Prevención de pinchazos y cortes con artículos afilados
-4. “Higiene respiratoria” y buenos hábitos al toser/estornudar.
-5. Manejo de equipos, desechos y ropa de pacientes
-6. Uso de material clínico/dispositivos médicos reprocesados de acuerdo con la normativa vigente de esterilización y
+Higiene de manos
+1.
+Uso de equipo de protección personal
+2.
+Prevención de pinchazos y cortes con artículos afilados
+3.
+“Higiene respiratoria” y buenos hábitos al toser/estornudar.
+4.
+Manejo de equipos, desechos y ropa de pacientes
+5.
+Uso de material clínico/dispositivos médicos reprocesados de acuerdo con la normativa vigente de esterilización y
 desinfección de alto nivel (Res. Ex. 340 y 550 de 2018 que aprueba norma técnica 199 “sobre esterilización y desinfección
-de alto nivel y uso de artículos médicos estériles en establecimientos de salud” y sus modificaciones[4]).
-
+de alto nivel y uso de artículos médicos estériles en establecimientos de salud” y sus modificaciones[4]
+).
+6.
 Precauciones adicionales de contacto y gotitas:
-Medida
-
-Precauciones de contacto y gotitas
-Habitación individual[5] con W.C. (para pacientes que puedan utilizar el baño) e instalaciones para
+Medida Precauciones de contacto y gotitas
+Ubicación
+Habitación individual[5]
+con W.C. (para pacientes que puedan utilizar el baño) e instalaciones para
 la higiene de manos.
 De existir más de un paciente con la misma infección (agente etiológico identificado), éstos
 pueden compartir habitación mientras perdure la indicación de aislamiento, manteniendo una
 distancia de al menos un metro entre pacientes.
-
-Ubicación
 Adicionalmente, la ejecución de procedimientos que generen aerosoles en pacientes sospechosos
 o confirmados (intubación traqueal, ventilación mecánica no invasiva, traqueotomía, aspiración
 abierta de la vía aérea, y ventilación manual antes de la intubación) se hará en recintos con buena
 ventilación, y sólo con el personal de salud necesario.
-
 Delantal o bata de manga larga.
-
 Si existe posibilidad de exposición a fluidos, el delantal o bata de manga larga debe ser
 impermeable o, en su defecto, utilizar adicionalmente, sobre el delantal o bata, una pechera
 impermeable.
-
 Guantes
-
 Guantes de procedimiento de uso individual por paciente. Si se realiza un procedimiento invasivo
 los guantes deben ser estériles.
-Escudo facial o, en su defecto: mascarilla de tipo quirúrgico + antiparras.
-
 Protección de conjuntivas y mucosas
-
+Escudo facial o, en su defecto: mascarilla de tipo quirúrgico + antiparras.
 Los miembros del equipo de salud que se encuentren en la habitación durante la ejecución de
 procedimientos que generen aerosoles en pacientes sospechosos o confirmados usarán
 mascarillas con filtro tipo N95 o equivalente en reemplazo de la mascarilla quirúrgica.
-
-De uso individual por paciente. Si es compartido, debe ser reprocesado de acuerdo con la
-Uso de materiales, artículos médicos e normativa vigente de esterilización y desinfección de alto nivel. Material no crítico será
+Uso de materiales, artículos médicos e
 insumos.
+De uso individual por paciente. Si es compartido, debe ser reprocesado de acuerdo con la
+normativa vigente de esterilización y desinfección de alto nivel. Material no crítico será
 desinfectado con un producto de nivel intermedio o bajo entre pacientes (alcohol al 70% o sol de
 cloro 1000ppm).
-Aseo de superficies clínicas de bajo contacto y aseo y desinfección de superficies de alto contacto
 Aseo y desinfección de superficies
-con desinfectantes habituales. autorizados de uso hospitalario, por ejemplo, hipoclorito de sodio
 clínicas.
-1.000 ppm[6].
+Aseo de superficies clínicas de bajo contacto y aseo y desinfección de superficies de alto contacto
+con desinfectantes habituales. autorizados de uso hospitalario, por ejemplo, hipoclorito de sodio
+1.000 ppm[6]
+.
 Traslado de pacientes
-
 El equipo de salud implementará las medidas antes indicadas, y los pacientes, de tolerarlo,
 utilizarán una mascarilla de tipo quirúrgica para cubrir nariz y boca.
-
 Los Directores Técnicos de los establecimientos velarán por el cumplimiento de estas medidas, considerando la disponibilidad y
 acceso a los insumos y equipos necesarios para realizar la atención de acuerdo con las instrucciones señaladas.
 Toma de muestras y envío al ISP
@@ -182,7 +162,6 @@ MINSAL. Esto quiere decir que antes del envío a ISP debe cumplir con los siguie
 establecida anteriormente, notificación a Epidemiología y pruebas de laboratorio negativas a virus respiratorios
 disponibles en la red local y regional.
 Recomendaciones para la recolección y manejo de muestras para vigilancia de IRAG inusuales
-
 Las muestras recomendadas son aquellas del tracto respiratorio bajo, incluyendo esputo, lavado broncoalveolar y aspirado
 traqueal (cuando sea posible según los criterios médicos). Sin embargo, cuando no es posible la toma de estas muestras, las del
 tracto respiratorio alto también son útiles. En general, se recomienda tomar un hisopado nasofaríngeo combinado con un
@@ -190,25 +169,16 @@ hisopado orofaríngeo (los hisopos deben colocarse y transportarse en el mismo t
 La muestra recolectada debe ser enviada al laboratorio debidamente identificada en el menor tiempo posible y debe mantenerse
 refrigerada hasta su llegada al laboratorio.
 Para la obtención de la muestra respiratoria el personal que realiza el procedimiento debe aplicar las precauciones estándar:
-●
-
 Mascarilla N95 o quirúrgica
-
 ●
-
 Protección ocular
-
 ●
-
 Uso de guantes
-
 ●
-
 Lavado de manos antes y después del procedimiento
-
+●
 Las muestras deben ser procesadas idealmente dentro de un gabinete de bioseguridad y transportadas según medidas de
 bioseguridad para muestras biológicas.
-
 ENVÍO DE MUESTRAS
 Las muestras deben mantenerse refrigeradas (2-8 °C) y enviarse al Instituto de Salud Pública de Chile dentro de 48 horas como
 máximo, asegurando que se mantenga la cadena de frío y el triple embalaje requerido.
@@ -224,41 +194,29 @@ Solicitamos a usted, dar la más amplia difusión a este documento tanto en los 
 [2] Toda persona que requiera hospitalización por fiebre igual o superior a 38ºC, tos, y dificultad respiratoria. La dificultad
 respiratoria se considerará por criterio clínico.
 [3] https://www.minsal.cl/portal/url/item/d8615b8fdab6c48fe04001016401183d.pdf
-[4] https://www.minsal.cl/wp-content/uploads/2018/05/NT-de-esterilizaci%C3%B3n-y-DAN-con-rectificaciones-y-resolucionesa.pdf
+[4] https://www.minsal.cl/wp-content/uploads/2018/05/NT-de-esterilizaci%C3%B3n-y-DAN-con-rectificaciones-y-resoluciones-
+a.pdf
 [5]Se entenderá por “ubicación en habitación individual” a la hospitalización una habitación con sólo una cama o habitaciones con
 más de una cama en la cual se ocupe sólo una de ellas, dejando las otras sin uso mientras dure el aislamiento. Puede
 corresponder a cubículos de atención separados físicamente por muros o paneles sólidos que, permitiendo el acceso al paciente
 y su atención cómoda por tres costados, restrinjan la circulación. Las demarcaciones en el suelo sin la separación física
 mencionada no es una intervención efectiva.
-[6] https://www.minsal.cl/wp-content/uploads/2019/03/Circular-N-10-2019-Recomendaciones-sobre-Aseo-yDesinfeccio%CC%81n-de-Superficies-Ambientales-para-la-Prevencio%CC%81n-de-IAAS.pdf.
-Instrucciones y ejemplos con relación a preparación de soluciones cloradas disponibles en
+[6] https://www.minsal.cl/wp-content/uploads/2019/03/Circular-N-10-2019-Recomendaciones-sobre-Aseo-y-
+Desinfeccio%CC%81n-de-Superficies-Ambientales-para-la-Prevencio%CC%81n-de-IAAS.pdf.
+I n s t r u c c i o n e s y e j e m p l o s c o n r e l a c i ó n a p r e p a r a c i ó n d e s o l u c i o n e s c l o r a d a s d i s p o n i b l e s e n
 https://web.minsal.cl/sites/default/files/files/dilucion%20de%20hipoclorito%20de%20sodio%20(%20cloro)%20.docx
-
 SYLVIA SANTANDER
 RIGOLLET
 22-01-2020
 SUBSECRETARIA (S) DE SALUD
 PUBLICA
 Ministerio de Salud
-Nombre
-
-Cargo
-
-Fecha Visación
-
+Nombre Cargo Fecha Visación
 Elvira Tagle Schmidt
-
 JEFE DE GABINETE SUBSECRETARIA DE SALUD
 PUBLICA
-
 2020-01-22 20:03:02.238727
-
-Johanna Acevedo Romo
-
-JEFE (S) DIVISIÓN DE PLANIFICACION SANITARIA
-
-2020-01-22 20:01:18.467115
-
+Johanna Acevedo Romo JEFE (S) DIVISIÓN DE PLANIFICACION SANITARIA 2020-01-22 20:01:18.467115
 Distribución:
 -Subsecretaría de Redes Asistenciales
 -Subsecretaría de Salud Pública
@@ -268,7 +226,5 @@ Distribución:
 -Directora de Instituto de Salud Pública
 -Departamento de Laboratorio Biomédico, Subdepartamento de Enfermedades Virales, Instituto de Salud Pública.
 -Oficina de Partes.
-
 Código: 1579734388345 validar en http://esigner.servisign.cl/EsignerValidar/verificar.jsp
-
 

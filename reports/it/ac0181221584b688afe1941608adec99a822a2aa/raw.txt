@@ -1,82 +1,29 @@
 Report sulle caratteristiche dei pazienti deceduti positivi a COVID-19 in Italia
 Il presente report è basato sui dati aggiornati al 20 Marzo 2020
-
 1. Campione
 Il presente report descrive le caratteristiche di 3200 pazienti deceduti e positivi a COVID-19 in Italia. La
 distribuzione geografica dei decessi è la seguente:
-
-REGIONI
-
-N
-
-%
-
-Abruzzo
-Bolzano
-Calabria
-Campania
-Emilia-Romagna
-Friuli-Venezia Giulia
-Lazio
-Liguria
-Lombardia
-Marche
-Molise
-Piemonte
-Puglia
-Sardegna
-Sicilia
-Toscana
-Trento
-Umbria
-Veneto
-
-7
-14
-1
-17
-524
-35
-31
-90
-2175
-36
-3
-69
-27
-2
-3
-14
-12
-4
-136
-
-0.2
-0.4
-0.0
-0.5
-16.4
-1.1
-1.0
-2.8
-68.0
-1.1
-0.1
-2.2
-0.8
-0.1
-0.1
-0.4
-0.4
-0.1
-4.3
-
-Totale
-
-3200
-
-100.0
-
+REGIONI N %
+Abruzzo 7 0.2
+Bolzano 14 0.4
+Calabria 1 0.0
+Campania 17 0.5
+Emilia-Romagna 524 16.4
+Friuli-Venezia Giulia 35 1.1
+Lazio 31 1.0
+Liguria 90 2.8
+Lombardia 2175 68.0
+Marche 36 1.1
+Molise 3 0.1
+Piemonte 69 2.2
+Puglia 27 0.8
+Sardegna 2 0.1
+Sicilia 3 0.1
+Toscana 14 0.4
+Trento 12 0.4
+Umbria 4 0.1
+Veneto 136 4.3
+Totale 3200 100.0
 2. Dati demografici
 L’età media dei pazienti deceduti e positivi a COVID-19 è 78,5 anni (mediana 80, range 31-103, Range
 InterQuartile - IQR 73-85). Il dato sull’età non era disponibile in un paziente. Le donne sono 942 (29,4%).
@@ -86,85 +33,39 @@ pazienti con infezione 63 anni). La figura 2 mostra il numero dei decessi per fa
 decedute dopo aver contratto infezione da COVID-19 hanno un’età più alta rispetto agli uomini (età
 mediane: donne 82 – uomini 79).
 Figura 1. Età mediana deceduti e diagnosticati positivi a COVID-19
-
+Figura 2. Numero di decessi per fascia di età
+0 20 40 60 80 100 120
+Età mediana (anni)
 COVID19-Diagnosticati
 COVID19-Decessi
-
-Min
-
-0
-
-20
-
-40
-60
-80
-Età mediana (anni)
-
-100
-
-Max
-
-120
-
-Figura 2. Numero di decessi per fascia di età
-
-1400
-
-1309
-1134
-
-1200
-1000
-
-877
-
-884
-
-800
-
-Donne
-
-600
-
-Uomini
-425
-329
-267
+Min Max
+2 9 25 62
 257
-
-400
-
-200
-0
-
-2 7 9
-
-9 1827
-
-93
-2568
-
-30-39
-
-40-49
-
-50-59
-
-62
-60-69
-
-Tutti
-298
+425
 162
+7 18
+68
+267
+877 884
 136
-
-70-79
-
-80-89
-
-90+
-
+9 27
+93
+329
+1134
+1309
+298
+0
+200
+400
+600
+800
+1000
+1200
+1400
+30-39 40-49 50-59 60-69 70-79 80-89 90+
+Donne
+Uomini
+Tutti
 3. Patologie pre-esistenti
 La tabella 1 presenta le più comuni patologie croniche pre-esistenti (diagnosticate prima di contrarre
 l’infezione) nei pazienti deceduti. Questo dato è stato ottenuto in 481/3200 deceduti (15.0% del campione
@@ -173,147 +74,53 @@ Standard 1.6). Complessivamente, 6 pazienti (1.2% del campione) presentavano 0 p
 presentavano 1 patologia, 128 presentavano 2 patologie (26.6%) e 234 (48.6%) presentavano 3 o più
 patologie.
 Tabella 1. Patologie più comuni osservate nei pazienti deceduti COVID-2019 positivi
-Patologie
-
-N
-
-%
-
-Cardiopatia ischemica
-
-145
-
-30.1
-
-Fibrillazione atriale
-
-106
-
-22.0
-
-Ictus
-
-54
-
-11.2
-
-Ipertensione arteriosa
-
-355
-
-73.8
-
-Diabete mellito
-
-163
-
-33.9
-
-Demenza
-
-57
-
-11.9
-
-BPCO
-
-66
-
-13.7
-
-Cancro attivo negli ultimi 5 anni
-
-94
-
-19.5
-
-Epatopatia cronica
-
-18
-
-3.7
-
-Insufficienza renale cronica
-
-97
-
-20.2
-
-0 patologie
-
-6
-
-1.2
-
-1 patologia
-
-113
-
-23.5
-
-2 patologie
-
-128
-
-26.6
-
-3 o più patologie
-
-234
-
-48.6
-
+Patologie N %
+Cardiopatia ischemica 145 30.1
+Fibrillazione atriale 106 22.0
+Ictus 54 11.2
+Ipertensione arteriosa 355 73.8
+Diabete mellito 163 33.9
+Demenza 57 11.9
+BPCO 66 13.7
+Cancro attivo negli ultimi 5 anni 94 19.5
+Epatopatia cronica 18 3.7
+Insufficienza renale cronica 97 20.2
 Numero di patologie
-
+0 patologie 6 1.2
+1 patologia 113 23.5
+2 patologie 128 26.6
+3 o più patologie 234 48.6
 4. Sintomi
-La figura 3 mostra i sintomi più comunemente osservati prima del ricovero nei pazienti deceduti COVID19 positivo. Come mostrato nella figura, febbre e dispnea rappresentano i sintomi di più comune
+La figura 3 mostra i sintomi più comunemente osservati prima del ricovero nei pazienti deceduti COVID-
+19 positivo. Come mostrato nella figura, febbre e dispnea rappresentano i sintomi di più comune
 riscontro, meno comuni sono tosse, diarrea e emottisi. Il 5.7% delle persone non presentava alcun
 sintomo al momento del ricovero.
 Figura 3. Sintomi più comuni nei pazienti deceduti COVID-19 positivi
-
-1
-8
-
-Emottisi
-Diarrea
-73
-
-Dispnea
-Tosse
-
-40
-
-Febbre
-76
-
-0
-
-20
-
-40
-
-60
-
-80
-
-100
-
-(%)
-
 5. Complicanze
 L’insufficienza respiratoria è stata la complicanza più comunemente osservata in questo campione (96,5%
 dei casi), seguita da danno renale acuto (29,2%), danno miocardico acuto (10,4%) e sovrainfezione (8,5%).
-
 6. Terapie farmacologiche
 Durante il ricovero, l’84% dei pazienti deceduti COVID-19 positivi assumeva terapia antibiotica, meno
 utilizzata era la terapia antivirale (54%) e quella steroidea (31%). Il comune utilizzo di terapia antibiotica
 può essere spiegato dalla presenza di sovrainfezioni o è compatibile con inizio terapia empirica in pazienti
 con polmonite, in attesa di conferma laboratoristica di COVID-19. Nel 18.6% dei casi sono state utilizzate
 tutte 3 le terapie.
-Prima del ricovero in ospedale, il 36% dei pazienti deceduti COVID-19 positivi seguiva una terapia con ACEinibitori ed il 16% una terapia con Sartani (bloccanti del recettore per l'angiotensina). Questo dato può però
+Prima del ricovero in ospedale, il 36% dei pazienti deceduti COVID-19 positivi seguiva una terapia con ACE-
+inibitori ed il 16% una terapia con Sartani (bloccanti del recettore per l'angiotensina). Questo dato può però
 essere sotto-stimato in quanto non sempre dalle cartelle cliniche era possibile evincere la terapia eseguita
 prima del ricovero.
-
+76
+40
+73
+8
+1
+0 20 40 60 80 100
+Emottisi
+Diarrea
+Dispnea
+Tosse
+Febbre
+(%)
 7. Tempi ospedalieri
 La figura 4 mostra, per i pazienti deceduti COVID-19 positivo, i tempi mediani, in giorni, che trascorrono
 dall’insorgenza dei sintomi al decesso (8 giorni), dall’insorgenza dei sintomi al ricovero in ospedale (4 giorni)
@@ -321,39 +128,22 @@ e dal ricovero in ospedale al decesso (4 giorni). Il tempo intercorso dal ricove
 di 1 giorno più lungo in coloro che venivano trasferiti in rianimazione rispetto a quelli che non venivano
 trasferiti (5 giorni contro 4 giorni).
 Figura 4. Tempi mediani di ricovero (in giorni) nei pazienti deceduti COVID-19 positivi
-
-8
-
-Insorgenza sintomi --> decesso
-
-4
-
-Insorgenza sintomi --> ricovero in ospedale
-
-4
-
-Ricovero in ospedale --> decesso
-
-4
-
-Ricovero in ospedale --> decesso (NO RIANIMAZIONE)
-
-Ricovero in ospedale --> decesso (SI RIANIMAZIONE)
-
-5
-0
-
-5
-
-10
-
-15 Numero mediano di gg
-
 8. Decessi di età inferiore ai 50 anni
 Ad oggi (20 marzo) sono 36 dei 3200 (1.1%) pazienti deceduti COVID-19 positivi di età inferiore ai 50 anni.
 In particolare, 9 di questi avevano meno di 40 ed erano 8 persone di sesso maschile ed 1 di sesso
 femminile con età compresa tra i 31 ed i 39 anni. Di 2 pazienti di età inferiore ai 40 anni non sono disponibili
 informazioni cliniche, gli altri 7 presentavano gravi patologie pre-esistenti (patologie cardiovascolari, renali,
 psichiatriche, diabete, obesità).
-
+5
+4
+4
+4
+8
+0 5 10 15
+Insorgenza sintomi --> decesso
+Insorgenza sintomi --> ricovero in ospedale
+Ricovero in ospedale --> decesso
+Ricovero in ospedale --> decesso (NO RIANIMAZIONE)
+Ricovero in ospedale --> decesso (SI RIANIMAZIONE)
+Numero mediano di gg
 

@@ -1,5 +1,8 @@
 # Argentina
 
+* [https://www.argentina.gob.ar/coronavirus/medidas-gobierno](https://www.argentina.gob.ar/coronavirus/medidas-gobierno)
+* [https://www.argentina.gob.ar/coronavirus/informe-diario](https://www.argentina.gob.ar/coronavirus/informe-diario)
+
 
 ## 2020-04-04
 

@@ -13,6 +13,10 @@ if (!is_dir($path)) {
 }
 $reports = glob($path.'/*', GLOB_ONLYDIR);
 foreach ($reports as $path) {
+    $basename = basename($path);
+    if ($basename == 'tmp') {
+        continue;
+    }
     $discarded = $path.'/discarded.txt';
     if (is_file($discarded)) {
         continue;

@@ -1,5 +1,7 @@
 # Thailand
 
+* [https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports](https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports)
+
 
 ## 2020-04-05
 

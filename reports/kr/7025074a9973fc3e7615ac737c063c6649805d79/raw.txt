@@ -1,144 +1,28 @@
 \
-
 ○ As of 0:00, 15 March 2020, a total of 8,162 cases have been confirmed with 834 cases discharged
 from isolation. The newly confirmed cases were 76 in total.
-Period
-(Since 3 Jan)
-As of 0:00,14
-March (Sat)
-As of 0:00 15
-March (Sun)
-Differences
-
-Tested positive
-Confirmed Discharged Isolated
-
-Total
-
-Deceased
-
-Being tested Tested negative
-
-261,335
-
-8,086
-
-714
-
-7,300
-
-72
-
-17,634
-
-235,615
-
-268,212
-
-8,162
-
-834
-
-7,253
-
-75
-
-16,272
-
-243,778
-
-+6,877
-
-+76
-
-+120
-
--47
-
-+3
-
--1,362
-
-+8,163
-
 ○ Regional distribution of confirmed cases:
 Province
-Gyeonggi
-
-Gangwon
-
-Chung-buk
-
-Chung-nam
-
-Jeon-buk
-
-Jeon-nam
-
-Gyeong-buk
-
-Gyeong-nam
-
-Jeju
-
-211
-
-29
-
-31
-
-115
-
-7
-
-4
-
-1,157
-
-85
-
-4
-
+Gyeonggi Gangwon Chung-buk Chung-nam Jeon-buk Jeon-nam Gyeong-buk Gyeong-nam Jeju
+211 29 31 115 7 4 1,157 85 4
 City
-Seoul
-
-Busan
-
-Daegu
-
-Incheon
-
-Gwangju
-
-Daejeon
-
-Ulsan
-
-Sejong
-
-247
-
-106
-
-6,031
-
-30
-
-16
-
-22
-
-28
-
-39
-
-○ The number of newly confirmed cases (green bar) and total confirmed cases (blue line) by date:
-
 Total
-8,162
-
+Seoul Busan Daegu Incheon Gwangju Daejeon Ulsan Sejong
+247 106 6,031 30 16 22 28 39 8,162
+○ The number of newly confirmed cases (green bar) and total confirmed cases (blue line) by date:
+Period
+(Since 3 Jan)
+Total
+Tested positive
+Being tested Tested negative
+Confirmed Discharged Isolated Deceased
+As of 0:00,14
+March (Sat)
+261,335 8,086 714 7,300 72 17,634 235,615
+As of 0:00 15
+March (Sun)
+268,212 8,162 834 7,253 75 16,272 243,778
+Differences +6,877 +76 +120 -47 +3 -1,362 +8,163
 \
-
 ○ The number of confirmed cases in Daegu and Gyeongbuk regions:
-
 

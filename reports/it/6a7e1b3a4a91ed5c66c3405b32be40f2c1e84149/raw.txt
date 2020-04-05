@@ -1,12 +1,10 @@
+Prodotto dall’Istituto Superiore di Sanità, Roma
 2020
-
 Epidemia COVID-19
 Aggiornamento nazionale
 09 marzo 2020 – ore 16:00
-
-Prodotto dall’Istituto Superiore di Sanità, Roma
-
-Epidemia COVID-19
+2
+Epidemia COVID-19
 Aggiornamento nazionale
 09 marzo 2020 – ore 16:00
 Nota di lettura: Questo bollettino è prodotto dall’Istituto Superiore di Sanità (ISS) ed integra dati
@@ -27,197 +25,78 @@ dell’epidemia.
 Il bollettino descrive, con grafici, mappe e tabelle la diffusione, nel tempo e nello spazio,
 dell’epidemia di COVID-19 in Italia. Fornisce, inoltre, una descrizione delle caratteristiche delle
 persone affette.
-
 La situazione nazionale
-
-
-
-
-
-
-
-
-Alle ore 10 del 9 marzo 2020, complessivamente sono stati riportati sulla piattaforma 8.342
+ Alle ore 10 del 9 marzo 2020, complessivamente sono stati riportati sulla piattaforma 8.342
 casi di COVID-19 diagnosticati dai laboratori di riferimento regionale per SARS-CoV–2, di cui
 1.363 su 1.384 campioni processati confermati dal laboratorio nazionale di riferimento (ISS).
 Sono stati notificati 357 decessi.
-La Figura 1 mostra l’andamento di casi diagnosticati per data di prelievo/diagnosi
+ La Figura 1 mostra l’andamento di casi diagnosticati per data di prelievo/diagnosi
 (disponibile per 7.812/8.342 casi). Si osserva un andamento in crescita delle nuove diagnosi
 dal 20 febbraio al 7 marzo 2020. Va sottolineato che questo dato può comunque risentire di
 modifiche nelle politiche di offerta del test. Infatti, in accordo con la Circolare Ministeriale
-0005889 del 25 febbraio 2020, il test dovrebbe essere effettuato ai casi sospetti di COVID19, come da definizione di caso diramata dal Ministero della Salute, e ai casi sintomatici di
+0005889 del 25 febbraio 2020, il test dovrebbe essere effettuato ai casi sospetti di COVID-
+19, come da definizione di caso diramata dal Ministero della Salute, e ai casi sintomatici di
 ILI (Influenza-Like Illness, Sindrome Simil-Influenzale) e SARI (Severe Acute Respiratory
 Infections, Infezione Respiratoria Acuta Grave), ma non più a contatti asintomatici.
-La data di inizio sintomi è al momento disponibile solo in 4.555 dei 8.342 casi. Questo può
+ La data di inizio sintomi è al momento disponibile solo in 4.555 dei 8.342 casi. Questo può
 essere dovuto al fatto che una parte dei casi diagnosticati non ha ancora sviluppato sintomi
 e/o dal mancato consolidamento del dato stesso. La Figura 2, mostra la distribuzione dei
 casi per data inizio dei sintomi, che evidenzia come i primi casi sintomatici risalgano alla
 fine di gennaio.
-Il tempo mediano trascorso tra la data di insorgenza dei sintomi e la data di diagnosi è di 3
+ Il tempo mediano trascorso tra la data di insorgenza dei sintomi e la data di diagnosi è di 3
 giorni per il periodo 20-27 febbraio (calcolato su 897 casi) e di 4 giorni per il periodo 28
-2
-
-febbraio-9 marzo (calcolato su 3.579 casi).
-
+3
+febbraio-9 marzo (calcolato su 3.579 casi).
 Figura 1 – Casi di COVID-19 diagnosticati dai laboratori di riferimento regionale, per
 data prelievo/diagnosi (N=7.812).
 Nota I dati più recenti devono essere considerati provvisori (vedere soprattutto riquadro grigio)
-
 FIGURA 2 – CASI DI COVID-19 DIAGNOSTICATI DAI LABORATORI DI RIFERIMENTO REGIONALE, PER
 DATA INIZIO SINTOMI (N=4.555).
 Nota i dati più recenti devono essere considerati provvisori sia per il ritardo di notifica dei casi più recenti sia perché
 casi non ancora diagnosticati riporteranno in parte la data di inizio sintomi nei giorni del riquadro grigio.
-
-3
-
-
-
-3.702 casi sono di sesso maschile (62%) (informazione disponibile per 5.959 casi)
-
-
-
-L’età mediana è di 65 anni (min 0, max 100). La Tabella 1 mostra la
+4
+ 3.702 casi sono di sesso maschile (62%) (informazione disponibile per 5.959 casi)
+ L’età mediana è di 65 anni (min 0, max 100). La Tabella 1 mostra la
 distribuzione dei casi e dei decessi segnalati per fasce di età decennali. Si
 osserva un aumento della letalità nelle classi di età più elevate.
-
 TABELLA 1 - DISTRIBUZIONE DEI CASI DIAGNOSTICATI DAI LABORATORI DI RIFERIMENTO REGIONALE
 (N=8.342) E DEI DECESSI SEGNALATI (N=357) PER FASCIA DI ETÀ
-Classe di Età
-
-N. Casi
-
-% Casi
-
-N. Deceduti
-
-0-9
-10-19
-20-29
-30-39
-40-49
-50-59
-60-69
-70-79
-≥80
-non nota
-
-43
-85
-296
-470
-891
-1.453
-1.471
-1.785
-1.532
-316
-
-0,5
-1,0
-3,5
-5,6
-10,7
-17,4
-17,7
-21,4
-18,4
-3,8
-
-0
-0
-0
-0
-1
-3
-37
-114
-202
-0
-
-% Deceduti % Letalità
-0
-0
-0
-0
-0,3
-0,8
-10,4
-31,9
-56,6
-0
-
-0
-0
-0
-0
-0,1
-0,2
-2,5
-6,4
-13,2
-0
-
-
-
-L’indagine epidemiologica suggerisce che la trasmissione dell’infezione sia
+Classe di Età N. Casi % Casi N. Deceduti % Deceduti % Letalità
+0-9 43 0,5 0 0 0
+10-19 85 1,0 0 0 0
+20-29 296 3,5 0 0 0
+30-39 470 5,6 0 0 0
+40-49 891 10,7 1 0,3 0,1
+50-59 1.453 17,4 3 0,8 0,2
+60-69 1.471 17,7 37 10,4 2,5
+70-79 1.785 21,4 114 31,9 6,4
+≥80 1.532 18,4 202 56,6 13,2
+non nota 316 3,8 0 0 0
+ L’indagine epidemiologica suggerisce che la trasmissione dell’infezione sia
 avvenuta in Italia per tutti i casi, ad eccezione dei primi tre casi segnalati dalla
 regione Lazio che si sono verosimilmente infettati in Cina; è stato poi segnalata
 dalla regione Lombardia una persona di nazionalità iraniana, tuttavia non è
 stato indicato dove possa essere avvenuto il contagio che si è verosimilmente
 infettato in Iran.
-
-
-
-Lo stato clinico dei pazienti non è ancora classificato in tutte le Regioni/PPAA
-in modo standardizzato secondo le modalità previste dalla sorveglianza COVID19, ma si sta procedendo alla raccolta di tale informazione. Attualmente lo
+ Lo stato clinico dei pazienti non è ancora classificato in tutte le Regioni/PPAA
+in modo standardizzato secondo le modalità previste dalla sorveglianza COVID-
+19, ma si sta procedendo alla raccolta di tale informazione. Attualmente lo
 stato clinico è disponibile solo per 2.539 casi, di cui 518 (9,8%) asintomatici,
 270 (5,1%) pauci-sintomatici, 1.622 (30,7%) con sintomi per cui non viene
 specificato il livello di gravità, 1.593 (30,1%) con sintomi lievi, 297 (5,6%) con
 sintomi severi, 985 (18,6%) critici.
-
-
-
-Il 21% dei casi risulta ospedalizzato, e tra quelli di cui si conosce il reparto di
+ Il 21% dei casi risulta ospedalizzato, e tra quelli di cui si conosce il reparto di
 ricovero (1.545) il 12% risulta in terapia intensiva (Età mediana 69 anni (0-18
 anni: 0%; 19-50 anni: 10%; 51-70 anni: 46%; >70 anni: 44%).
-
-
-
-La Figura 3 mostra i dati cumulativi, riportati dal Ministero della Salute e dalla
+ La Figura 3 mostra i dati cumulativi, riportati dal Ministero della Salute e dalla
 Protezione Civile all’8 Marzo 2020, sulla condizione di ricovero e isolamento e
 sugli esiti dei casi di COVID-19 diagnosticati dai laboratori di riferimento
 regionale.
-
-4
-
-9000
-8000
-7000
-6000
-5000
-4000
-3000
-2000
-1000
-0
-
-Isolamento domiciliare
-
-Ricoverati con sintomi
-
-Ricoverati in terapia intensiva
-
-Guariti
-
-Deceduti
-
+5
 FIGURA 3 – NUMERO DI CASI CUMULATIVO DI COVID-19 DIAGNOSTICATI DAI LABORATORI DI
 RIFERIMENTO REGIONALE, PER STATO DI RICOVERO/ISOLAMENTO ED ESITO (N=9.172)
 FONTE DATI MINISTERO DELLA SALUTE E PROTEZIONE CIVILE
-
-
-
-La Figura 4 e la Tabella 2 mostrano la distribuzione dei casi segnalati per
+ La Figura 4 e la Tabella 2 mostrano la distribuzione dei casi segnalati per
 Regione/PA. I casi si concentrano soprattutto nel nord Italia, in particolare in
 Lombardia, Emilia-Romagna e Veneto, e recentemente nelle Marche dove è stata
 documentata una trasmissione locale sostenuta del virus. Nella maggior parte delle
@@ -228,123 +107,63 @@ domicilio/residenza, raccolti dall’ISS e dal Ministero della Salute/Protezione
 (dati aggregati). Si può osservare che, sebbene l’incidenza con i dati raccolti dal
 Ministero della Salute/Protezione civile sia leggermente più elevata, le due mappe
 mostrano quadri sovrapponibili relativamente alle aree di diffusione.
-
 Fattori di rischio
-
-
-Ad eccezione dei primi tre casi con storia di viaggio in Cina ed un caso
+ Ad eccezione dei primi tre casi con storia di viaggio in Cina ed un caso
 possibilmente esposto in Iran, nessun caso notificato ha riportato una storia di
 viaggio in paesi con trasmissione sostenuta da SARS-CoV-2 durante il periodo di
 incubazione di 14 gg.
-
-
-
-Sono stati diagnosticati 583 casi tra operatori sanitari, indicando la possibilità
+ Sono stati diagnosticati 583 casi tra operatori sanitari, indicando la possibilità
 di trasmissione nosocomiale dell’infezione. Questo dato potrebbe essere
 sottostimato in quanto per una parte dei casi, soprattutto quelli diagnosticati
 più recentemente, non è stata ancora completata l’indagine epidemiologica
-
-
-
-Attualmente non è possibile ricostruire, per tutti i pazienti, la catena di
+ Attualmente non è possibile ricostruire, per tutti i pazienti, la catena di
 trasmissione dell’infezione. La maggior parte dei casi segnalati in Italia
-
-5
-
-riportano un collegamento epidemiologico con altri casi diagnosticati in
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+Isolamento domiciliare Ricoverati con sintomi Ricoverati in terapia intensiva Guariti Deceduti
+6
+riportano un collegamento epidemiologico con altri casi diagnosticati in
 Lombardia, Emilia Romagna e Veneto, le zone più colpite dall’epidemia.
-
-6
-
-Tabella 2- DISTRIBUZIONE DEI CASI DIAGNOSTICATI DAI LABORATORI
+7
+Tabella 2- DISTRIBUZIONE DEI CASI DIAGNOSTICATI DAI LABORATORI
 DI RIFERIMENTO REGIONALE, per Regione/PPAA di diagnosi (8.342 casi
 riportati al 9/3/2020)
-Regioni
-
+Regioni N %
+Lombardia 5.510 66,1
+Emilia-Romagna 1.180 14,2
+Veneto 670 8,0
+Marche 274 3,3
+Piemonte 207 2,5
+Campania 113 1,4
+Toscana 64 0,8
+Liguria 62 0,7
+Friuli-Venezia Giulia 51 0,6
+Puglia 43 0,5
+Lazio 33 0,4
+Umbria 28 0,3
+Bolzano 25 0,3
+Sicilia 24 0,3
+Trento 14 0,2
+Molise 14 0,2
+Abruzzo 11 0,1
+Sardegna 8 0,1
+Valle d'Aosta 7 0,1
+Calabria 3 0,0
+Basilicata 1 0,0
+TOTALE 8.342
 FIGURA 4 – CASI DI COVID-19 DIAGNOSTICATI DAI LABORATORI DI
 RIFERIMENTO REGIONALE, PER REGIONE/PPAA DI DIAGNOSI (8.342 casi
-
 riportati al 9/3/2020)
-
-Lombardia
-Emilia-Romagna
-Veneto
-Marche
-Piemonte
-Campania
-Toscana
-Liguria
-Friuli-Venezia Giulia
-Puglia
-Lazio
-Umbria
-Bolzano
-Sicilia
-Trento
-Molise
-Abruzzo
-Sardegna
-Valle d'Aosta
-Calabria
-Basilicata
-TOTALE
-
-N
-
-%
-
-5.510
-1.180
-670
-274
-207
-113
-64
-62
-51
-43
-33
-28
-25
-24
-14
-14
-11
-8
-7
-3
-1
-8.342
-
-66,1
-14,2
-8,0
-3,3
-2,5
-1,4
-0,8
-0,7
-0,6
-0,5
-0,4
-0,3
-0,3
-0,3
-0,2
-0,2
-0,1
-0,1
-0,1
-0,0
-0,0
-
-7
-
-\
-
+8
+\
 FIGURA 5 – INCIDENZA CUMULATIVA (PER 100.000 ABITANTI) DI COVID-19 PER PROVINCIA; CONFRONTO FONTE DATI ISTITUTO SUPERIORE DI SANITÀ (ISS) E MINISTERO DELLA
 SALUTE (MDS)
-
-8
-
 

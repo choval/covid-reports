@@ -1,215 +1,36 @@
 ○ As of 0:00, 13 March 2020, a total of 7,979 cases have been confirmed with 510 cases discharged
 from isolation. The regional distribution of the confirmed cases are as follows:
 City
-Total
-
-Seoul
-
-Busan
-
-Daegu
-
-Incheon
-
-Gwangju
-
-Daejeon
-
-Ulsan
-
-Sejong
-
-isolated
-
-7,402
-
-185
-
-64
-
-5,629
-
-23
-
-11
-
-18
-
-24
-
-32
-
-discharged
-
-510
-
-40
-
-36
-
-251
-
-4
-
-4
-
-4
-
-3
-
-0
-
-deceased
-
-67
-
-0
-
-0
-
-48
-
-0
-
-0
-
-0
-
-0
-
-0
-
-Total
-
-7,979
-
-225
-
-100
-
-5,928
-
-27
-
-15
-
-22
-
-27
-
-32
-
+Total Seoul Busan Daegu Incheon Gwangju Daejeon Ulsan Sejong
+isolated 7,402 185 64 5,629 23 11 18 24 32
+discharged 510 40 36 251 4 4 4 3 0
+deceased 67 0 0 48 0 0 0 0 0
+Total 7,979 225 100 5,928 27 15 22 27 32
 Province
-Gyeonggi
-
-Gangwon
-
+Gyeonggi Gangwon
 Chung
 -buk
-
 Chung
 -nam
-
 Jeon
 -buk
-
 Jeon
 -nam
-
-Gyeong-buk
-
-Gyeong-nam
-
-Jeju
-
-isolated
-
-152
-
-22
-
-23
-
-108
-
-3
-
-3
-
-1,028
-
-74
-
-3
-
-discharged
-
-31
-
-6
-
-4
-
-7
-
-4
-
-1
-
-103
-
-11
-
-1
-
-deceased
-
-2
-
-1
-
-0
-
-0
-
-0
-
-0
-
-16
-
-0
-
-0
-
-Total
-
-185
-
-29
-
-27
-
-115
-
-7
-
-4
-
-1,147
-
-85
-
-4
-
+Gyeong-buk Gyeong-nam Jeju
+isolated 152 22 23 108 3 3 1,028 74 3
+discharged 31 6 4 7 4 1 103 11 1
+deceased 2 1 0 0 0 0 16 0 0
+Total 185 29 27 115 7 4 1,147 85 4
 ○ Epidemiological links have been found for 79.8% of the total cases; 20.2% are either under
 investigation or sporadic cases. More details on the epidemiological links within each province or city are
 shown in the Table 2 on the following page. Distribution of the cases by sex and age groups are as
 indicated in Table 1.
 ○ A current total of 109 confirmed cases have been reported from the call center located in Guro-gu,
 Seoul since 8 March. Epidemiological investigation and contact tracing are underway. There is 1 newly
-confirmed case from an office located on the 10th floor of the same building as the call center on the
-11th floor. Diagnostic tests have been conducted for the residents of the studio apartments located on
+confirmed case from an office located on the 10th
+floor of the same building as the call center on the
+11th
+floor. Diagnostic tests have been conducted for the residents of the studio apartments located on
 13-18th floors. All of the 186 tests conducted so far have turned out negative.
 ○ 26 cases have been confirmed in the city of Sejong, including 24 at the Ministry of Oceans and
 Fisheries. Epidemiological investigation and contact tracing are underway. Further tests are being
@@ -223,409 +44,123 @@ stronger prevention measures especially with public spaces and facilities used b
 during the upcoming weekend, including fully covering sneezes and coughs with arm sleeves to prevent
 transmission via respiratory droplets and refraining from visiting closed community spaces or public
 gatherings.
-
 ○ KCDC also encouraged businesses and workplaces to adopt remote working environments for
 employees such as work-at-home and online collaboration.
 ○ Extra care should be taken to keep clean any frequently used surfaces in living spaces. It is important
 to maintain proper ventilation of living spaces and maintain adequate exercise and healthy diet when
 staying at home. Individuals with fever or respiratory symptoms are advised to refrain from going to work
 or school and generally stay at home and watch their symptoms for the next 3-4 days.
-
 [Table 1. Distribution of the cases by sex and age groups]
-
-Total
-Sex
-
-Male
-Female
-
-Age
-Groups
-
-80 and above
-70-79
-60-69
-50-59
-40-49
-30-39
-20-29
-10-19
-0-9
-
 Confirmed cases
 n (%)
-
 Deaths
 n (%)
-
 Fatality rate
 %
-
-7,979
-
-(100.0)
-
-67 (100.0)
-
-0.84
-
-3,043
-
-(38.1)
-
-39
-
-(58.2)
-
-1.28
-
-4,936
-
-(61.9)
-
-28 (41.8)
-
-0.57
-
-253
-
-(3.2)
-
-21 (31.3)
-
-8.30
-
-506
-
-(6.3)
-
-24 (35.8)
-
-4.74
-
-985
-
-(12.3)
-
-14 (20.9)
-
-1.42
-
-1,523
-
-(19.1)
-
-6 (9.0)
-
-0.39
-
-1,117
-
-(14.0)
-
-1 (1.5)
-
-0.09
-
-823
-
-(10.3)
-
-1 (1.5)
-
-0.12
-
-2,274
-
-(28.5)
-
-0 (0.0)
-
--
-
-(5.3)
-
-0 (0.0)
-
--
-
-77 (1.0)
-
-0 (0.0)
-
--
-
-421
-
+Total 7,979 (100.0) 67 (100.0) 0.84
+Sex
+Male 3,043 (38.1) 39 (58.2) 1.28
+Female 4,936 (61.9) 28 (41.8) 0.57
+Age
+Groups
+80 and above 253 (3.2) 21 (31.3) 8.30
+70-79 506 (6.3) 24 (35.8) 4.74
+60-69 985 (12.3) 14 (20.9) 1.42
+50-59 1,523 (19.1) 6 (9.0) 0.39
+40-49 1,117 (14.0) 1 (1.5) 0.09
+30-39 823 (10.3) 1 (1.5) 0.12
+20-29 2,274 (28.5) 0 (0.0) -
+10-19 421 (5.3) 0 (0.0) -
+0-9 77 (1.0) 0 (0.0) -
 [Table 2. Regional distribution and epidemiological links of the confirmed cases]
-
-Regions
-
-Subtotal
-
-n
-
-Seoul
-
-225
-
-170
-
-Busan
-
-100
-
-70
-
-Daegu
-
-5,928
-
-Incheon
-
-27
-
-24
-
-Gwangju
-
-15
-
-10
-
-Daejeon
-
-22
-
-12
-
-Ulsan
-
-27
-
-19
-
-Sejong
-
-32
-
-29
-
-Gyeonggi
-
-185
-
-143
-
-Gangwon
-Chungbuk
-Chungnam
-Jeon-buk
-Jeonnam
-
-29
-
-19
-
-27
-
-25
-
-115
-
-112
-
-Gyeongbuk
-
-1,147
-
-829
-
-Gyeongnam
-
-85
-
-63
-
-4,838
-
-7
-
-4
-
-4
-
-3
-
-(%)
-
+Regions Sub-
+total
 Epidemiological links
-Details
-
+Others* Newly
+confirmed
+n (%) Details
+Seoul 225 170 (75.6%)
 Guro-gu call center (74), Eunpyeong St. Mary’s
 Hospital (14), Seongdong-gu APT (13), Jongno-gu
-(75.6%)
 (10), Dong-an Church (9), Jung-gu fashion company
 (7), Shincheonji (6), etc.
+55 (24.4%) 13
+Busan 100 70 (70.0%)
 Onchun Church (34), Shincheonji (10), Suyeong-gu
 Kindergarten (6), Haeundae-gu Catholic Church (6),
-(70.0%)
 Jin-gu private academy (4), Daenam Hospital (1),
 etc.
+30 (30.0%) 1
+Daegu 5,928 4,838 (81.6%)
 Shincheonji (4,144), contacts of confirmed cases
-(81.6%)
 (692), Daenam Hospital (2)
+1,090 (18.4%) 61
+Incheon 27 24 (88.9%)
 Guro-gu call center (17), contacts of confirmed
-(88.9%) cases (4), Shincheonji (2), existing imported cases
+cases (4), Shincheonji (2), existing imported cases
 (1)
-(66.7%) Shincheonji (9), existing imported cases (1)
+3 (11.1%) 2
+Gwangju 15 10 (66.7%) Shincheonji (9), existing imported cases (1) 5 (33.3%) 0
+Daejeon 22 12 (54.5%)
 Contacts of confirmed cases (8), Shincheonji (2),
-(54.5%)
 Seosan research center (2)
-(70.4%) Shincheonji (16), contacts of confirmed cases (3)
+10 (45.5%) 2
+Ulsan 27 19 (70.4%) Shincheonji (16), contacts of confirmed cases (3) 8 (29.6%) 2
+Sejong 32 29 (90.6%
+)
 Ministry of Oceans and Fisheries (20), Gym facility
-(90.6%)
 (8), Shincheonji (1)
+3 (9.4%) 17
+Gyeonggi 185 143 (77.3%)
 Shincheonji (27), Bundang Jesaeng Hospital (16),
 Guro-gu call center (18), Suwon Saeng Myeong
-(77.3%)
 Saem Church (10), existing imported cases (6), gym
 facility in Cheonan (2), etc.
-(65.5%) Shincheonji (16), contacts of confirmed cases (3)
+42 (22.7%) 7
+Gangwon 29 19 (65.5%) Shincheonji (16), contacts of confirmed cases (3) 10 (34.5%) 0
+Chung-
+buk
+27 25 (92.6%)
 Shincheonji (10), Goesan-gun Jangyeon-myeon (11),
-(92.6%)
 contacts of confirmed cases (4)
+2 (7.4%) 0
+Chung-
+nam
+115 112 (97.4%)
 Gym facility in Cheonan (104), Seosan research
-(97.4%)
 center (8)
+3 (2.6%) 1
+Jeon-buk 7 4 (57.1%)
 Contacts of confirmed cases (2), existing imported
-(57.1%)
 cases (1), Shincheonji (1)
+3 (42.9%) 0
+Jeon-
+nam
+4 3 (75.0%)
 Shincheonji (1), existing imported cases (1), contacts
-(75.0%)
 of confirmed cases (1)
+1 (25.0%) 0
+Gyeong-
+buk
+1,147 829 (72.3%)
 Shincheonji (506), Daenam Hospital (119), Bonghwa
 Pureun Nursing Home (58), pilgrimage to Israel (49),
-(72.3%) Milal Shelter (25), Gyeongsan Seorin Nursing Home
+Milal Shelter (25), Gyeongsan Seorin Nursing Home
 (21), Gyeongsan Jeil Silver Town (17), Gyeongsan
 Cham Joeun Community Center (15), etc.
+318 (27.7%) 4
+Gyeong-
+nam
+85 63 (74.1%)
 Shincheonji (29), Geochang Church (10), Geochang
 Woongyang-myeon (8), Hanmaeum Changwon
-(74.1%)
 Hospital (7), Changnyeong coin karaoke (7), Busan
 Onchun Church (2)
-
-Others *
-
-Newly
-confirmed
-
-55
-
-(24.4%)
-
-13
-
-30
-
-(30.0%)
-
-1
-
-1,090
-
-(18.4%)
-
-61
-
-3
-
-(11.1%)
-
-2
-
-5
-
-(33.3%)
-
-0
-
-10
-
-(45.5%)
-
-2
-
-8
-
-(29.6%)
-
-2
-
-3
-
-(9.4%)
-
-17
-
-42
-
-(22.7%)
-
-7
-
-10
-
-(34.5%)
-
-0
-
-2
-
-(7.4%)
-
-0
-
-3
-
-(2.6%)
-
-1
-
-3
-
-(42.9%)
-
-0
-
-1
-
-(25.0%)
-
-0
-
-318
-
-(27.7%)
-
-4
-
-22
-
-(25.9%)
-
-0
-
-4
-4 (100.0%)
-Jeju
-0
-1,609 (20.2%)
-110
-Total
-7,979 6,370 (79.8%) 4,780 Shincheonji-related cases (59.9%)
+22 (25.9%) 0
+Jeju 4 - - 4 (100.0%
+) 0
+Total 7,979 6,370 (79.8%) 4,780 Shincheonji-related cases (59.9%) 1,609 (20.2%) 110
 * Not classified into a cluster or under investigation
 ※ The interim classification is based on the reporting location, which may change depending on further
 epidemiological investigation.
-
 

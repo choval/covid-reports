@@ -1,115 +1,37 @@
 Plan Nacional de Contingencia para la Infección (COVID-19) por
 el nuevo Coronavirus
 (SARS CoV2)
-
 Lineamientos
 para la gestión de la respuesta
-
 Versión: 09.03.2020
-
 Contenido
 Introducción...............................................................................................................................................
-1.
-
-Nivel de alerta y preparación.............................................................................................................
-1.1
-
-2.
-
-1.1.1
-
-Vigilancia............................................................................................................................
-
-1.1.2
-
-Laboratorio........................................................................................................................
-
-1.1.3
-
-Medidas de control de infecciones....................................................................................
-
-1.1.4
-
-Medidas para la atencion sanitaria....................................................................................
-
-1.1.5
-
-Medidas sanitarias en los puntos de entrada para el RSI..................................................
-
-1.1.6
-
-Comunicación de riesgos...................................................................................................
-
-1.1.7
-
-Gestión...............................................................................................................................
-
-Nivel de riesgo inminente de propagación.......................................................................................
-2.1
-
-3.
-
-Acciones por área.......................................................................................................................
-
-Acciones por área:......................................................................................................................
-
-2.1.1
-
-Vigilancia............................................................................................................................
-
-2.1.2
-
-Laboratorio........................................................................................................................
-
-2.1.3
-
-Medidas de control de infecciones....................................................................................
-
-2.1.4
-
-Medidas para la atencion sanitaria....................................................................................
-
-2.1.5
-
-Medidas sanitarias en los puntos de entrada para el RSI..................................................
-
-2.1.6
-
-Comunicación de riesgos...................................................................................................
-
-2.1.7
-
-Gestión...............................................................................................................................
-
-Nivel de respuesta coordinada multisectorial nacional....................................................................
-3.1
-
-Acciones por área.......................................................................................................................
-
-3.1.1
-
-Vigilancia............................................................................................................................
-
-3.1.2
-
-Soporte de laboratorio......................................................................................................
-
-3.1.3
-
-Medidas para la atencion sanitaria....................................................................................
-
-3.1.4
-
-Medidas sanitarias en los puntos de entrada para el RSI..................................................
-
-3.1.5
-
-Comunicación de riesgos...................................................................................................
-
-3.1.6
-
-Gestión...............................................................................................................................
-
+1. Nivel de alerta y preparación.............................................................................................................
+1.1 Acciones por área.......................................................................................................................
+1.1.1 Vigilancia............................................................................................................................
+1.1.2 Laboratorio........................................................................................................................
+1.1.3 Medidas de control de infecciones....................................................................................
+1.1.4 Medidas para la atencion sanitaria....................................................................................
+1.1.5 Medidas sanitarias en los puntos de entrada para el RSI..................................................
+1.1.6 Comunicación de riesgos...................................................................................................
+1.1.7 Gestión...............................................................................................................................
+2. Nivel de riesgo inminente de propagación.......................................................................................
+2.1 Acciones por área:......................................................................................................................
+2.1.1 Vigilancia............................................................................................................................
+2.1.2 Laboratorio........................................................................................................................
+2.1.3 Medidas de control de infecciones....................................................................................
+2.1.4 Medidas para la atencion sanitaria....................................................................................
+2.1.5 Medidas sanitarias en los puntos de entrada para el RSI..................................................
+2.1.6 Comunicación de riesgos...................................................................................................
+2.1.7 Gestión...............................................................................................................................
+3. Nivel de respuesta coordinada multisectorial nacional....................................................................
+3.1 Acciones por área.......................................................................................................................
+3.1.1 Vigilancia............................................................................................................................
+3.1.2 Soporte de laboratorio......................................................................................................
+3.1.3 Medidas para la atencion sanitaria....................................................................................
+3.1.4 Medidas sanitarias en los puntos de entrada para el RSI..................................................
+3.1.5 Comunicación de riesgos...................................................................................................
+3.1.6 Gestión...............................................................................................................................
 Introducción
 Este documento presenta el Plan Nacional de Contingencia para la Infección (COVID-19) por el
 nuevo Coronavirus (SARS-CoV-2) incluyendo la evaluación de riesgo para el país, los escenarios
@@ -129,7 +51,6 @@ Este Plan Nacional tiene como objetivo definir el marco de respuesta nacional an
 identificación de casos sospechosos o confirmados de COVID-19, promover la coordinación
 interinstitucional de la respuesta, mantener un flujo de información confiable y oportuna y
 regular las acciones y procedimientos que deben adoptarse para cada etapa.
-
 Organización de la respuesta nacional a la infección por el nuevo coronavirus (SARS-CoV-2)
 La respuesta se divide en diferentes niveles de acción en base a la evaluación de riesgo de un
 brote de COVID-19 en el país y su impacto en la salud pública. Para la evaluación del riesgo se
@@ -143,9 +64,7 @@ mecanismos de transmisión y los reservorios y las tasas de morbilidad y mortali
 definitivas, variando de un contexto a otro. Por este motivo el riesgo se evaluará
 periódicamente y se actualizará de acuerdo a la situación epidemiológica y la disponibilidad de
 nueva evidencia.
-
 Según la evaluación de riesgo para COVID-19, la respuesta se clasifica en tres niveles:
-
 Es responsabilidad del Ministerio de Salud Pública (MSP) liderar la respuesta nacional, realizar la
 evaluación de riesgo y definir la necesidad de convocar otros organismos para la respuesta
 multisectorial.
@@ -160,322 +79,156 @@ La respuesta que corresponde a este nivel es de preparación, elaboración de pr
 procedimientos, y se enfoca fundamentalmente en las capacidades para detectar, investigar y
 manejar casos potencialmente sospechosos de COVID-19. Incluye actividades de difusión y
 comunicación al personal de la salud y a la población.
-
 1.1 Acciones por área
-1.1.1
-
-Vigilancia
-
+1.1.1 Vigilancia
  Actualizar en forma permanente la situación internacional del evento y las
 recomendaciones de prevención, control y manejo de los casos de COVID-19
 proveniente de la OMS y de otras organizaciones internacionales.
-
  Elaborar y difundir los protocolos de vigilancia de COVID-19 y manejo de contactos.
  Establecer el procedimiento y difundir la herramienta para la notificación de casos
 sospechosos de COVID-19.
-
  Revisar sistemáticamente las definiciones de caso para la vigilancia ante nueva evidencia
 o recomendaciones de la OMS.
-
  Intensificar la vigilancia rutinaria de Infección Respiratoria aguda grave (IRAG) y
 enfermedad tipo influenza (ETI).
  Monitorear eventos y rumores en la prensa, redes sociales y con servicios de salud.
  Reforzar la importancia de la comunicación y la notificación inmediata de casos
 sospechosos de COVID-19.
-
  Promover las acciones de detección, notificación y manejo de los casos sospechosos de
 COVID-19 en los servicios de salud.
-
  Orientar y capacitar a los equipos de epidemiología departamental en la investigación y
 monitoreo de probables casos sospechosos de COVID-19.
-
  Según lo establecido por la OMS, realizar las notificaciones internacionales a través del
 Centro Nacional de Enlace (CNE) para el Reglamento Sanitario Internacional (RSI) de
 todo caso sospechoso.
-1.1.2
-
-Laboratorio
-
+1.1.2 Laboratorio
  Establecer protocolos de diagnóstico de casos sospechosos de COVID-19, de acuerdo
 con las recomendaciones de la OMS.
-
  Asegurar la disponibilidad de diagnóstico por técnica de amplificación molecular en
 tiempo real (RT-PCR) de SARS-CoV-2 de acuerdo con los procedimientos y
 recomendaciones de la OMS.
-
  Establecer el flujo y condiciones de transporte de muestras de los laboratorios de
 análisis clínicos al Departamento de Laboratorios de Salud Pública (DLSP).
-
  Monitorear los resultados del diagnóstico de laboratorio de SARS-CoV-2 y otros virus
 respiratorios.
-
  Definir los criterios de selección de las muestras que se enviarán al laboratorio de
 referencia internacional (Center for Disease Control de Atlanta, EEUU).
-1.1.3
-
-Medidas de control de infecciones
-
-
-
-Difundir procedimientos de prevención y control de infecciones en los prestadores de
+1.1.3 Medidas de control de infecciones
+ Difundir procedimientos de prevención y control de infecciones en los prestadores de
 salud y orientar en el correcto uso del equipo de protección personal (EPP) para la
 atención de casos sospechosos o confirmados de COVID-19.
-
-
-
-Promover estrategias de fortalecimiento de la adhesión a la vacunación antigripal y
+ Promover estrategias de fortalecimiento de la adhesión a la vacunación antigripal y
 antineumocócica si correspondiere del personal de salud.
-
-1.1.4
-
-Medidas para la atención sanitaria
-
+1.1.4 Medidas para la atención sanitaria
  Fomentar a los prestadores de salud a desarrollar procedimientos internos de manejo
 de casos de COVID-19 y adoptar los protocolos y recomendaciones del MSP.
-
  Fortalecer las capacidades de los prestadores de salud en la recepción, el
 reconocimiento temprano y el control de casos sospechosos de COVID-19 para
 fortalecer las capacidades de los prestadores de salud.
-
  Reforzar la importancia de la comunicación y la notificación inmediata de casos
 sospechosos de COVID-19.
-
  Promover la capacitación a los trabajadores de la salud en el flujo y manejo clínico de
 casos sospechosos o confirmados de COVID-19.
-
  Promover en los prestadores la revisión y previsión de insumos y equipos para atender a
 pacientes sospechosos o confirmados COVID-19.
-
  Elaborar las guías de manejo clínico de los casos de COVID 19
-1.1.5
-
-Medidas sanitarias en los puntos de entrada para el RSI
-
+1.1.5 Medidas sanitarias en los puntos de entrada para el RSI
  Desarrollar material informativo para guiar a los viajeros sobre la prevención y el control
 de COVID-19.
-
  Orientar a los funcionarios de los puntos de entrada sobre la actualización de los planes
 de contingencia vigentes y sobre las pautas para la prevención y el control de COVID-19.
-
-1.1.6
-
-Comunicación de riesgos
-
-
-
-Definir uno o más voceros responsables de la comunicación con los medios.
-
-
-
-Difundir actualizaciones de situación, protocolos técnicos e información pertinente de
+1.1.6 Comunicación de riesgos
+ Definir uno o más voceros responsables de la comunicación con los medios.
+ Difundir actualizaciones de situación, protocolos técnicos e información pertinente de
 prevención y control de COVID-19 para el equipo de salud y la población.
-1.1.7
-
-Gestión
-
-
-
-Promover la integración de las áreas ministeriales y extraministeriales involucradas en la
+1.1.7 Gestión
+ Promover la integración de las áreas ministeriales y extraministeriales involucradas en la
 respuesta para la prevención y el control de COVID-19.
-
-
-
-Garantizar el stock estratégico de suministros de laboratorio para el diagnóstico del virus
+ Garantizar el stock estratégico de suministros de laboratorio para el diagnóstico del virus
 SARS-CoV-2.
-
-
-
-Apoyar y promover la difusión de materiales desarrollados por el área técnica (protocolos,
+ Apoyar y promover la difusión de materiales desarrollados por el área técnica (protocolos,
 manuales, guías, notas técnicas).
-
-
-
-Adelantar el Plan Invierno en los prestadores de salud.
-
+ Adelantar el Plan Invierno en los prestadores de salud.
 2. Nivel de riesgo inminente de propagación
-
 En este nivel de respuesta existe un riesgo inminente de propagación de la enfermedad y
-corresponde a una situación en la que hay uno o más casos confirmados importados de COVID19, pero no hay evidencia de transmisión activa en el territorio nacional.
+corresponde a una situación en la que hay uno o más casos confirmados importados de COVID-
+19, pero no hay evidencia de transmisión activa en el territorio nacional.
 La respuesta en este nivel incluye la implementación de los protocolos y procedimientos
 previamente elaborados, la coordinación interinstitucional, la provisión de insumos y la
 comunicación permanente de la situación epidemiológica y la evolución de los casos.
 En esta fase las estrategias deben estar dirigidas a una identificación oportuna de casos
 sospechosos y situaciones de brote y a evitar que el virus se transmita.
-
 2.1 Acciones por área:
-2.1.1
-
-Vigilancia
-
-
-
-Realizar las comunicaciones internacionales a través del CNE de acuerdo a lo establecido por
+2.1.1 Vigilancia
+ Realizar las comunicaciones internacionales a través del CNE de acuerdo a lo establecido por
 el RSI.
-
-
-
-Revisar sistemáticamente las definiciones de vigilancia ante nueva evidencia o
+ Revisar sistemáticamente las definiciones de vigilancia ante nueva evidencia o
 recomendaciones de la OMS.
-
-
-
-Investigar y controlar los posibles casos sospechosos de COVID-19, de acuerdo con la
+ Investigar y controlar los posibles casos sospechosos de COVID-19, de acuerdo con la
 definición de caso establecida.
-
-
-
-Proporcionar equipos de respuesta rápida para investigar casos confirmados de COVID-19,
+ Proporcionar equipos de respuesta rápida para investigar casos confirmados de COVID-19,
 en apoyo de los niveles departamentales y monitorear la aparición de casos sospechosos
 COVID-19.
-
-
-
-Realizar el seguimiento y monitoreo de los contactos según el protocolo establecido.
-
-
-
-Registrar toda la información referente a las características de los casos, su evolución y los
+ Realizar el seguimiento y monitoreo de los contactos según el protocolo establecido.
+ Registrar toda la información referente a las características de los casos, su evolución y los
 contactos identificados.
-
-
-
-Articular con la red de servicios de salud públicos y privados la detección y notificación de
+ Articular con la red de servicios de salud públicos y privados la detección y notificación de
 posibles casos sospechosos en los servicios de salud.
-
-
-
-Emitir alertas y actualizaciones sobre la situación epidemiológica global y nacional, con la
+ Emitir alertas y actualizaciones sobre la situación epidemiológica global y nacional, con la
 actualización de las pautas para la prevención y control de COVID-19.
-
-
-
-Monitorear el comportamiento de los casos de IRAG y ETI para permitir la evaluación de
+ Monitorear el comportamiento de los casos de IRAG y ETI para permitir la evaluación de
 riesgos y apoyar la toma de decisiones.
-
-
-
-Orientar a las instituciones en donde se concentran grupos de población (ej: centros
+ Orientar a las instituciones en donde se concentran grupos de población (ej: centros
 educativos) en las medidas recomendadas de control y prevención, así como en el
 procedimiento ante la aparición de un caso sospechoso de COVID-19.
-2.1.2
-
-Laboratorio
-
-
-
-Fortalecer los flujos establecidos para el diagnóstico de laboratorio de casos sospechosos de
+2.1.2 Laboratorio
+ Fortalecer los flujos establecidos para el diagnóstico de laboratorio de casos sospechosos de
 infección humana con el nuevo coronavirus SARS-CoV-2.
-
-
-
-Aplicar protocolos de diagnóstico de SARS-CoV-2, de acuerdo con las recomendaciones de la
+ Aplicar protocolos de diagnóstico de SARS-CoV-2, de acuerdo con las recomendaciones de la
 OMS.
-
-
-
-Asegurar un adecuado flujo de comunicación de los resultados de laboratorio para la
+ Asegurar un adecuado flujo de comunicación de los resultados de laboratorio para la
 adopción de medidas de prevención, control y tratamiento adecuadas.
-
-2.1.3
-
-Medidas de control de infecciones
-
-
-
-Difundir procedimientos de prevención y control de infecciones en los prestadores de
+2.1.3 Medidas de control de infecciones
+ Difundir procedimientos de prevención y control de infecciones en los prestadores de
 salud y orientar en el correcto uso del equipo de protección personal (EPP) para la
 atención de casos sospechosos o confirmados de COVID-19.
-
-
-
-Promover estrategias de fortalecimiento de la adhesión a la vacunación antigripal y
+ Promover estrategias de fortalecimiento de la adhesión a la vacunación antigripal y
 antineumocócica si correspondiere del personal de salud.
-
-2.1.4
-
-Medidas para la atención sanitaria
-
-
-
-Implementar el protocolo de manejo clínico de los casos sospechosos o confirmados de
+2.1.4 Medidas para la atención sanitaria
+ Implementar el protocolo de manejo clínico de los casos sospechosos o confirmados de
 COVID-19.
-
-
-
-Instar a los responsables de los servicios de salud públicos y privados para ejecutar sus
+ Instar a los responsables de los servicios de salud públicos y privados para ejecutar sus
 protocolos, flujos y rutinas para la recepción, notificación, atención, prevención y medidas
 de control definidas para COVID-19.
-
-
-
-Promover la atención ambulatoria con aislamiento domiciliario, si la situación clínica y el
+ Promover la atención ambulatoria con aislamiento domiciliario, si la situación clínica y el
 riesgo social del paciente lo permite.
-
-
-
-Informar al paciente y sus convivientes de las medidas a implementar en el domicilio para
+ Informar al paciente y sus convivientes de las medidas a implementar en el domicilio para
 evitar la propagación de la enfermedad.
-
-
-
-Instar a los prestadores a prever los recursos necesarios para el aumento de consultas en
+ Instar a los prestadores a prever los recursos necesarios para el aumento de consultas en
 los servicios de atención prehospitalaria y en los servicios de urgencias y emergencias, asi
 como el aumento de la disponibilidad de camas de aislamiento y en la Unidad de Cuidados
 Intensivos (UCI) para casos que lo requieran.
-
-
-
-Fomentar la capacitación en el servicio para el manejo clínico de los casos sospechosos o
+ Fomentar la capacitación en el servicio para el manejo clínico de los casos sospechosos o
 confirmados de COVID-19.
-2.1.5
-
-Medidas sanitarias en los puntos de entrada para el RSI
-
-
-
-Promover el conocimiento de los flujos de información sobre la tripulación y pasajeros en
+2.1.5 Medidas sanitarias en los puntos de entrada para el RSI
+ Promover el conocimiento de los flujos de información sobre la tripulación y pasajeros en
 los puntos de entrada, especialmente cuando sea necesario investigar contactos de casos
 sospechosos o confirmados COVID-19.
-
-
-
-Reforzar la difusión de las medidas de prevención y control acorde a este nivel.
-
-2.1.6
-
-
-Comunicación de riesgos
-
-Mantener la difusión a la población y al equipo de salud de informes de situación,
+ Reforzar la difusión de las medidas de prevención y control acorde a este nivel.
+2.1.6 Comunicación de riesgos
+ Mantener la difusión a la población y al equipo de salud de informes de situación,
 protocolos técnicos y toda información pertinente sobre la prevención y el control de
 COVID-19
-2.1.7
-
-Gestión
-
-
-
-Conformar la Unidad de Monitoreo, Alerta y Respuesta para gestionar la respuesta.
-
-
-
-Promover acciones integradas entre los componentes involucrados en la respuesta a COVID19.
-
-
-
-Garantizar el stock estratégico de suministros de laboratorio para el diagnóstico de COVID19.
-
-
-
-Monitorear la existencia de insumos existentes a nivel nacional y departamental.
-
-
-
-Realizar la difusión de materiales desarrollados por el área técnica (protocolos, manuales,
+2.1.7 Gestión
+ Conformar la Unidad de Monitoreo, Alerta y Respuesta para gestionar la respuesta.
+ Promover acciones integradas entre los componentes involucrados en la respuesta a COVID-
+19.
+ Garantizar el stock estratégico de suministros de laboratorio para el diagnóstico de COVID-
+19.
+ Monitorear la existencia de insumos existentes a nivel nacional y departamental.
+ Realizar la difusión de materiales desarrollados por el área técnica (protocolos, manuales,
 guías, notas técnicas).
-
 3. Nivel de respuesta coordinada multisectorial nacional
-
 Este nivel corresponde a una situación en la que hay confirmación de transmisión local
 comunitaria o sostenida de SARS-CoV-2 en el territorio nacional que puede desencadenar
 eventualmente la superación de la capacidad de respuesta.
@@ -486,166 +239,65 @@ en aquellas situaciones que así se defina. El comportamiento del evento (formas
 monitorizado en conjunto con otras estrategias de vigilancia.
 Se deben adoptar medidas de atención hospitalaria para casos graves y medidas restrictivas de
 aislamiento individual y domiciliario para casos leves.
-
 3.1 Acciones por área
-3.1.1
-
-Vigilancia
-
-
-
-Realizar las comunicaciones internacionales a través del CNE de acuerdo a lo establecido
+3.1.1 Vigilancia
+ Realizar las comunicaciones internacionales a través del CNE de acuerdo a lo establecido
 por el RSI.
-
-
-
-Asegurar contar con información de vigilancia nacional oportuna y de calidad que
+ Asegurar contar con información de vigilancia nacional oportuna y de calidad que
 permita la caracterización del evento y el monitoreo de su comportamiento a nivel
 nacional.
-
-
-
-Mantener actualizada a la población y a profesionales y prestadores de salud sobre la
+ Mantener actualizada a la población y a profesionales y prestadores de salud sobre la
 situación nacional.
-
-3.1.2
-
-Soporte de laboratorio
-
-
-
-Asegurar la ejecución de los flujos para el diagnóstico de laboratorio de los casos
+3.1.2 Soporte de laboratorio
+ Asegurar la ejecución de los flujos para el diagnóstico de laboratorio de los casos
 estudiados de COVID-19.
-
-
-
-Monitorear los resultados del diagnóstico de laboratorio para SARS-CoV 2 y otros virus
+ Monitorear los resultados del diagnóstico de laboratorio para SARS-CoV 2 y otros virus
 respiratorios.
-
-
-
-Orientar a los laboratorios de análisis clínicos en la utilización e interpretación de kit
+ Orientar a los laboratorios de análisis clínicos en la utilización e interpretación de kit
 comerciales de diagnóstico.
-
-3.1.3
-
-Medidas para la atención sanitaria
-
-
-
-Apoyar el funcionamiento adecuado y oportuno de la organización de la red de atención
+3.1.3 Medidas para la atención sanitaria
+ Apoyar el funcionamiento adecuado y oportuno de la organización de la red de atención
 acorde a la situación epidemiológica.
-
-
-
-Reforzar en los prestadores la necesidad de garantizar la protección a los profesionales
-que trabajan en el tratamiento de casos sospechosos o confirmados de infección COVID19.
-
-3.1.4
-
-Medidas sanitarias en los puntos de entrada para el RSI
-
-
-
-Fortalecer las pautas para los equipos de puntos de entrada sobre medidas de
+ Reforzar en los prestadores la necesidad de garantizar la protección a los profesionales
+que trabajan en el tratamiento de casos sospechosos o confirmados de infección COVID-
+19.
+3.1.4 Medidas sanitarias en los puntos de entrada para el RSI
+ Fortalecer las pautas para los equipos de puntos de entrada sobre medidas de
 prevención y control de COVID-19.
-
-
-
-Realizar la investigación de casos sospechosos o confirmados y contactos cuando sea
+ Realizar la investigación de casos sospechosos o confirmados y contactos cuando sea
 necesario.
-
-
-
-Reforzar las pautas sobre el uso del equipo de protección personal necesarias para
+ Reforzar las pautas sobre el uso del equipo de protección personal necesarias para
 atender casos sospechosos y otras medidas de precaución.
-
-
-
-Establecer medidas adicionales que se determinen a nivel nacional acorde a la situación
+ Establecer medidas adicionales que se determinen a nivel nacional acorde a la situación
 epidemiológica.
-
-3.1.5
-
-Comunicación de riesgos
-
-
-
-Emitir pautas de salud para instituciones cerradas, semi cerradas y público en general.
-
-
-
-Mantener actualizada a la población y al equipo de salud sobre la situación
+3.1.5 Comunicación de riesgos
+ Emitir pautas de salud para instituciones cerradas, semi cerradas y público en general.
+ Mantener actualizada a la población y al equipo de salud sobre la situación
 epidemiológica y las medidas de prevención y control.
-
-
-
-Monitorizar las redes sociales para identificar rumores o información inexacta.
-
-
-
-Promover conferencias de prensa con el portavoz responsable de la interlocución con
+ Monitorizar las redes sociales para identificar rumores o información inexacta.
+ Promover conferencias de prensa con el portavoz responsable de la interlocución con
 los medios de comunicación.
-
-
-
-Asegurar la uniformización de la comunicación entre todos los actores involucrados.
-
-
-
-Establecer asociaciones con la red de comunicación (televisores, radios y agencias de
+ Asegurar la uniformización de la comunicación entre todos los actores involucrados.
+ Establecer asociaciones con la red de comunicación (televisores, radios y agencias de
 noticias) para enviar mensajes con información actualizada.
-
-3.1.6
-
-Gestión
-
-
-
-Conformar y activar el Centro de Operaciones de Emergencia de Salud Pública (COESalud).
-
-
-
-Promover acciones integradas entre la vigilancia de la salud, la asistencia.
-
-
-
-Sensibilizar a la red de servicios de asistencia pública y privada sobre el escenario
+3.1.6 Gestión
+ Conformar y activar el Centro de Operaciones de Emergencia de Salud Pública (COE-
+Salud).
+ Promover acciones integradas entre la vigilancia de la salud, la asistencia.
+ Sensibilizar a la red de servicios de asistencia pública y privada sobre el escenario
 epidemiológico de la infección humana con el nuevo coronavirus (COVID-19).
-
-
-
-Articular con las áreas del Ministerio de Salud Pública (MSP) y otros organismos el
+ Articular con las áreas del Ministerio de Salud Pública (MSP) y otros organismos el
 desarrollo de las acciones y actividades propuestas para este nivel de alerta.
-
-
-
-Garantizar y controlar el stock estratégico de suministros de laboratorio para el
+ Garantizar y controlar el stock estratégico de suministros de laboratorio para el
 diagnóstico de infección humana con el nuevo coronavirus COVID-19.
-
-
-
-Garantizar y controlar el stock estratégico de insumos para la asistencia de casos
+ Garantizar y controlar el stock estratégico de insumos para la asistencia de casos
 sospechosos y confirmados del virus SARS-COV-2.
-
-
-
-Presentar la situación epidemiológica en las reuniones del Comité de Monitoreo de
+ Presentar la situación epidemiológica en las reuniones del Comité de Monitoreo de
 Emergencias (CME), de acuerdo con la agenda establecida.
-
-
-
-Organizar los flujos de información diaria y las actualizaciones para la reunión
+ Organizar los flujos de información diaria y las actualizaciones para la reunión
 informativa y el informe del COE.
-
-
-
-Promover acciones de educación para la salud relacionadas con la promoción,
+ Promover acciones de educación para la salud relacionadas con la promoción,
 prevención y control del virus SARS-COV-2.
-
-
-
-Apoyar la difusión de materiales desarrollados por el área técnica (protocolos, manuales,
+ Apoyar la difusión de materiales desarrollados por el área técnica (protocolos, manuales,
 guías, notas técnicas).
-
 

@@ -1,569 +1,113 @@
 ○ 600 additional cases have been confirmed from the midnight on 2 March to the midnight on 3
 March, which brings the total number of the confirmed to 4,812.
-
+○ The regional distribution of 600 additional cases are as follows.
+Province
+Gyeonggi Gangwon
+Chung
+-buk
+Chung
+-nam
+Cheon
+-buk
+Cheon
+-nam
+Gyeong-buk Gyeong-nam Jeju
+2 1 1 3 1 - 61 - 1
+City
+Total
+Seoul Busan Daegu Incheon Gwangju Daejeon Ulsan Sejong
+7 2 519 - 2 - - - 600
+○ The regional distribution and the epidemiological links of 4,812 confirmed cases are as follows.
 Period
-
-Confirmed cases
-
-Suspected cases
+(since 3 January)
+Total
+Confirmed cases Suspected cases
 Sub
+total
+discharged isolated Deceased
+Sub
+total
 being
 tested
-total
-tested negative
-
-Total
-
-Sub
-total
-
-discharged
-
-isolated
-
-Deceased
-
-As of 00:00, 2 March
-
-109,591
-
-4,212
-
-31
-
-4,159
-
-22
-
-105,379
-
-33,799
-
-71,580
-
-As of 0:00 3 March
-
-125,851
-
-4,812
-
-34
-
-4,750
-
-28
-
-121,039
-
-35,555
-
-85,484
-
-Differences
-
-+16,260
-
-+600
-
-+3
-
-+591
-
-+6
-
-+15,660
-
-+1,756
-
-+13,904
-
-(since 3 January)
-
-○ The regional distribution of 600 additional cases are as follows.
-
-Gyeonggi
-
-Gangwon
-
-Chung
--buk
-
-2
-
-1
-
-1
-
-Chung
--nam
-
-3
-
-Province
-Cheon
-Cheon
--buk
--nam
-
-Gyeong-buk
-
-Gyeong-nam
-
-Jeju
-
-1
-
-1
-
--
-
-61
-
--
-
-City
-Seoul
-
-Busan
-
-Daegu
-
-Incheon
-
-Gwangju
-
-Daejeon
-
-Ulsan
-
-Sejong
-
-7
-
-2
-
-519
-
--
-
-2
-
--
-
--
-
--
-
-Total
-600
-
-○ The regional distribution and the epidemiological links of 4,812 confirmed cases are as follows.
-
+tested
+negative
+As of 00:00, 2 March 109,591 4,212 31 4,159 22 105,379 33,799 71,580
+As of 0:00 3 March 125,851 4,812 34 4,750 28 121,039 35,555 85,484
+Differences +16,260 +600 +3 +591 +6 +15,660 +1,756 +13,904
 Regions
-
-subtotal
-
-Seoul
-
-98
-
+sub-
+total
 Epidemiological links
-n(%)
-
-Details
-Related
-
-57(58..2%)
-
-to
-
-:
-
-Hospital(14),
-
-Eunpyeong
-
-Jongno
-
-St.
-
-Community
-
-Others *
-
-Newly
-confirmed **
-
-41(41.8%)
-
-7
-
-22(24.4%)
-
-2
-
-1,216(33.8%)
-
-520
-
-4(57.1%)
-
-0
-
-2(18.2%)
-
-2
-
-6(42.9%)
-
-0
-
-10(50.0%)
-
-0
-
--
-
-0
-
-Mary’s
-Center(6),
-
+Others* Newly
+confirmed**
+n(%) Details
+Seoul 98 57(58..2%)
+Related to : Eunpyeong St. Mary’s
+Hospital(14), Jongno Community Center(6),
 Shincheonji(4), Myeongnyun Church(3), etc.
-
-Busan
-
-90
-
-68(75.6%)
-
-Related
-
-to
-
-of
-
-confirmed
-
-the
-
-:
-
-Onchun
-
-Church(31),
-
-cases(26),
-
-contacts
-
-Sbincheonji(9),
-
+41(41.8%) 7
+Busan 90 68(75.6%)
+Related to : Onchun Church(31), contacts
+of the confirmed cases(26), Sbincheonji(9),
 Daenam Hospital(2)
-Daegu
-
-Incheon
-
-3,601
-7
-
-2,385(66.2%)
-
-Related
-
-:
-
-Shincheonji(2,383),
-
-Daenam
-
+22(24.4%) 2
+Daegu 3,601 2,385(66.2%)
+Related to : Shincheonji(2,383), Daenam
 Hospital(2)
-Related
-
-3(42.9%)
-
-to
-
-to
-
-confirmed
-
-:
-
-Shincheonji(1),
-
-cases(1),
-
-the
-
-contacts
-
-existing
-
-of
-
-the
-
-imported
-
+1,216(33.8%) 520
+Incheon 7 3(42.9%)
+Related to : Shincheonji(1), contacts of the
+confirmed cases(1), the existing imported
 cases(1)
-Gwangju
-Daejeon
-Ulsan
-Sejong
-
-11
-14
-20
-1
-
-9(81.8%)
-8(57.1%)
-
-Related
-
-to
-
-:
-
-Shincheonji(8),
-
-the
-
+4(57.1%) 0
+Gwangju 11 9(81.8%)
+Related to : Shincheonji(8), the existing
 imported cases(1)
-Contacts of the confirmed cases(8)
-
-10(50.0%)
-
-Related to Shincheonji(10)
-
-1(100.0%)
-
-Related to Shincheonji(1)
-
-existing
-
-Gyeonggi
-
-94
-
-Related
-70(74.5%)
-
-to
-
-:
-
-cases(48),
-
-contacts
-
-of
-
-the
-
-Shincheonji(16),
-
-confirmed
-
-the
-
-existing
-
-24(25.5%)
-
-2
-
-13(65.0%)
-
-1
-
-6(54.5%)
-
-0
-
-24(29.6%)
-
-3
-
-4(57.1%)
-
-1
-
-3(60.0%)
-
-0
-
-249(36.4%)
-
-61
-
-24(37.5%)
-
-0
-
-3(100.0%)
-
-1
-
-1,651(34.3%)
-
-600
-
+2(18.2%) 2
+Daejeon 14 8(57.1%) Contacts of the confirmed cases(8) 6(42.9%) 0
+Ulsan 20 10(50.0%) Related to Shincheonji(10) 10(50.0%) 0
+Sejong 1 1(100.0%) Related to Shincheonji(1) - 0
+Gyeonggi 94 70(74.5%)
+Related to : contacts of the confirmed
+cases(48), Shincheonji(16), the existing
 imported cases(6)
-Gangwon
-Chungbuk
-
-20
-11
-
-7(35.0%)
-
-Related to Shincheonji(7)
-
-5(45.5%)
-
-Related to Shincheonji(5)
-
-Chungnam
-
-81
-
-57(70.4%)
-
-Cheonbuk
-
-7
-
-3(42.9%)
-
-Cheonnam
-
-5
-
-2(40.0%)
-
-Related
-
-to
-
-:
-
-the
-
-gym
-
-in
-
-Cheonan(55),
-
+24(25.5%) 2
+Gangwon 20 7(35.0%) Related to Shincheonji(7) 13(65.0%) 1
+Chungbuk 11 5(45.5%) Related to Shincheonji(5) 6(54.5%) 0
+Chungnam 81 57(70.4%)
+Related to : the gym in Cheonan(55),
 Shincheonji(2)
+24(29.6%) 3
+Cheonbuk 7 3(42.9%)
 Contacts of the confirmed cases(2), Related
 to the existing imported cases(1)
-Related
-
-to
-
-:
-
-Shincheonji(1),
-
-the
-
-existing
-
+4(57.1%) 1
+Cheonnam 5 2(40.0%)
+Related to : Shincheonji(1), the existing
 imported cases(1)
-Related
-
-to
-
-:
-
-Shincheonji(229),
-
-Daenam
-
+3(60.0%) 0
+Gyeongbuk 685 436(63.6%)
+Related to : Shincheonji(229), Daenam
 Hospital (115), Pilgrimage to Israel(49), Milal
-Gyeongbuk
-
-685
-
-436(63.6%)
-
-Shelter(23),
-Gimcheon
-Korea
-
-Seonrin
-Juvenile
-
-Electric
-
-Nursing
-
-Home(13),
-
-Detention
-
-Center(3),
-
-Power
-
-Corporation
-
-regional
-
+Shelter(23), Seonrin Nursing Home(13),
+Gimcheon Juvenile Detention Center(3),
+Korea Electric Power Corporation regional
 branch(4)
+249(36.4%) 61
 Gyeongna
 m
-Jeju
-Total
-
-64
-
-Related
-40(62.5%)
-
-to
-
-Church(10),
-
-:
-
-Shincheonji(22),
-
-Geochang
-
-Hanmaeum Changwon Hospital(6),
-
+64 40(62.5%)
+Related to : Shincheonji(22), Geochang
+Church(10), Hanmaeum Changwon Hospital(6),
 Busan Onchun Church(2)
-
-3
-4,812
-
-3,161(65.7%)
-
-2,698
-
-(56.1%)
-
+24(37.5%) 0
+Jeju 3 - 3(100.0%) 1
+Total 4,812 3,161(65.7%)
+2,698 (56.1%) cases are related to
 Shincheonji
-
-cases
-
-are
-
-related
-
-to
-
+1,651(34.3%) 600
 * Not classified into a cluster or under investigation
-
-※
-
 ** Reported from 0:00, 2 March to 0:00, 3 March
-The interim classification is based on the reporting location, which may change depending on further
-
+※ The interim classification is based on the reporting location, which may change depending on further
 epidemiological investigation.
-
 

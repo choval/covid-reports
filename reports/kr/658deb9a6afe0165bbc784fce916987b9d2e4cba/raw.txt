@@ -2,223 +2,35 @@
 from isolation. Newly confirmed cases are 84 in total. The regional distribution of the confirmed cases
 are as follows:
 City
-Total
-
-Seoul
-
-Busan
-
-Daegu
-
-Incheon
-
-Gwangju
-
-Daejeon
-
-Ulsan
-
-Sejong
-
-isolated
-
-6,838
-
-210
-
-52
-
-5,094
-
-26
-
-10
-
-18
-
-20
-
-40
-
-discharged
-
-1,401
-
-55
-
-54
-
-947
-
-5
-
-6
-
-4
-
-8
-
-0
-
-deceased
-
-81
-
-0
-
-1
-
-57
-
-0
-
-0
-
-0
-
-0
-
-0
-
-Total
-
-8,320
-
-265
-
-107
-
-6,098
-
-31
-
-16
-
-22
-
-28
-
-40
-
-Province
-
-Other
-
+Total Seoul Busan Daegu Incheon Gwangju Daejeon Ulsan Sejong
+isolated 6,838 210 52 5,094 26 10 18 20 40
+discharged 1,401 55 54 947 5 6 4 8 0
+deceased 81 0 1 57 0 0 0 0 0
+Total 8,320 265 107 6,098 31 16 22 28 40
+Province Other
+Gyeong
+gi
 Gangwon
-
 Chung
 -buk
-
 Chung
 -nam
-
 Jeon
 -buk
-
 Jeon
 -nam
-
 Gyeong
 -buk
-
-Gyeongnam
-
+Gyeong-
+nam
 Jeju
-
 Airport
 Screeni
 ng
-
-204
-
-20
-
-26
-
-100
-
-3
-
-2
-
-941
-
-64
-
-2
-
-6
-
-discharged
-
-55
-
-8
-
-5
-
-15
-
-4
-
-2
-
-209
-
-22
-
-2
-
-0
-
-deceased
-
-3
-
-1
-
-0
-
-0
-
-0
-
-0
-
-19
-
-0
-
-0
-
-0
-
-Total
-
-262
-
-29
-
-31
-
-115
-
-7
-
-4
-
-1,169
-
-86
-
-4
-
-6
-
-Gyeong
-gi
-isolated
-
+isolated 204 20 26 100 3 2 941 64 2 6
+discharged 55 8 5 15 4 2 209 22 2 0
+deceased 3 1 0 0 0 0 19 0 0 0
+Total 262 29 31 115 7 4 1,169 86 4 6
 ○ Epidemiological links have been found for 80.6% of the total cases; 19.4% are either under
 investigation or sporadic cases. More details on the epidemiological links within each province or city
 are shown in Table 1 on the next page. Distribution of the cases by sex and age groups are as
@@ -236,7 +48,6 @@ among whom 56 have been discharged and 296 are currently in isolation. Discharge
 patients is 15.9%, compared to 16.8% for all ages. There has been no fatalities. No severe cases
 occurred. Further detailed analysis of pediatric cases is underway. More data will be made available as
 soon as the analysis is completed.
-
 ○ In light of the recent rise in the number of confirmed cases from airport quarantine, the KCDC
 announced that the Special Entry Procedure will be extended to all travelers arriving at port beginning
 at 0:00 of 19 March. The Special Entry Procedure requires the traveler to be checked for fever,
@@ -254,573 +65,132 @@ the global pandemic.
 ○ The KCDC again reminded everyone that personal hygiene and social distancing practices are effective
 measures to prevent infections.
 [Table 1. Regional distribution and epidemiological links of the confirmed cases]
-
+Region Sub-
+total
 Epidemiological links
-
-Region
-
-Subtotal
-
-Seoul
-
-265
-
-196
-
-(74.0%)
-
-Busan
-
-107
-
-75
-
-(70.1%)
-
-Daegu
-
-6,098
-
-5,021
-
-(82.3%)
-
-Incheon
-
-31
-
-27
-
-(87.1%)
-
-Gwangju
-
-16
-
-14
-
-(87.5%)
-
-Daejeon
-
-22
-
-12
-
-(54.5%)
-
-Ulsan
-
-28
-
-22
-
-(78.6%)
-
-Sejong
-
-40
-
-37
-
-(92.5%)
-
-Gyeonggi
-
-262
-
-214
-
-(81.7%)
-
-#
-
-(%)
-
-Details
+Others* Newly
+confirmed
+# (%) Details
+Seoul 265 196 (74.0%)
 Guro-gu call center (82), Dongan Church-Internet Cafe
 (18), Eunpyeong St Mary’s Hospital (14), Seongdong-gu
 Apartments (13), Jongno-gu (10), Shincheonji (6), etc.
+69 (26.0%) 12
+Busan 107 75 (70.1%)
 Onchun Church (32), Shincheonji (8명), Suyeong-gu
 Kindergarten (5), Haeundae-gu Jangsan Catholic
 Church (4), Jin-gu private academy (4), Daenam
 Hospital (1), etc.
+32 (29.9%) 0
+Daegu 6,098 5,021 (82.3%)
 Shincheonji (4,363), contacts of confirmed cases (656),
 Daenam Hospital (2)
+1,077 (17.7%) 32
+Incheon 31 27 (87.1%)
 Guro-gu call center (19), contacts of confirmed cases (5),
 Shincheonji (2), existing imported cases (1)
+4 (12.9%) 1
+Gwangju 16 14 (87.5%)
 Shincheonji (9), contacts of confirmed cases (4),
 existing imported cases (1)
+2 (12.5%) 0
+Daejeon 22 12 (54.5%)
 Contacts of confirmed cases (8), Shincheonji (2),
 Seosan research center (2)
-Shincheonji (16), contacts of confirmed cases (6)
+10 (45.5%) 0
+Ulsan 28 22 (78.6%) Shincheonji (16), contacts of confirmed cases (6) 6 (21.4%) 0
+Sejong 40 37 (92.5%
+)
 Ministry of Oceans and Fisheries (28), gym facilities
 (8), Shincheonji (1)
+3 (7.5%) 0
+Gyeonggi 262 214 (81.7%)
 Seongnam Grace River Church (45), Guro-gu call
 center-Bucheon Saeng Myeong Su Church (33),
 Shincheonji (28), Bundang Je-saeng Hospital (26), Suwon
 Saeng Myeong Saem Church (10), existing imported cases
-
-Others *
-
-Newly
-confirmed
-
-69
-
-(26.0%)
-
-12
-
-32
-
-(29.9%)
-
-0
-
-1,077
-
-(17.7%)
-
-32
-
-4
-
-(12.9%)
-
-1
-
-2
-
-(12.5%)
-
-0
-
-10
-
-(45.5%)
-
-0
-
-6
-
-(21.4%)
-
-0
-
-3
-
-(7.5%)
-
-0
-
-48
-
-(18.3%)
-
-31
-
-(6), etc.
-
-Gangwon
-Chungbuk
-Chungnam
-
-29
-
-21
-
-(72.4%)
-
-Shincheonji (20), Cheonan gym facility (1)
-
-31
-
-27
-
-(87.1%)
-
-Shincheonji (10), Goesan-gun
+48 (18.3%) 31
+[Table 2. Distribution of the cases by sex and age groups]
+Confirmed cases
+# (%)
+Deaths
+# (%)
+Fatality rate %
+Total 8,320 (100.00) 81 (100.00) 0.97
+Sex
+Male 3,200 (38.46) 44 (54.32) 1.38
+Female 5,120 (61.54) 37 (45.68) 0.72
+Age
+Group
+80 and above 274 (3.29) 28 (34.57) 10.22
+70-79 539 (6.48) 29 (35.80) 5.38
+60-69 1,033 (12.42) 16 (19.75) 1.55
+50-59 1,602 (19.25) 6 (7.41) 0.37
+40-49 1,164 (13.99) 1 (1.23) 0.09
+30-39 856 (10.29) 1 (1.23) 0.12
+20-29 2,330 (28.00) 0 (0.00) -
+10-19 436 (5.24) 0 (0.00) -
+0-9 86 (1.03) 0 (0.00) -
+(6), etc.
+Gangwon 29 21 (72.4%) Shincheonji (20), Cheonan gym facility (1) 8 (27.6%) 0
+Chung-
+buk
+31 27 (87.1%)
+Shincheonji (10), Goesan-gun Jangyeon-myeon (11),
 contacts of confirmed cases (6)
-
-115
-
-112
-
-(97.4%)
-
-Gym facility in Cheonan (104), Seosan research center (8)
-
-Jeon-buk
-
-7
-
-4
-
-(57.1%)
-
-Jeonnam
-
-4
-
-3
-
-(75.0%)
-
-Gyeongbuk
-
-1,169
-
-848
-
-(72.5%)
-
-Gyeongnam
-
-86
-
-66
-
-(76.7%)
-
-Jeju
-Airport
-
-4
-
-Total
-
-8,320
-
--
-
-6
-
-Jangyeon-myeon
-
-(11),
-
+4 (12.9%) 0
+Chung-
+nam
+115 112 (97.4%) Gym facility in Cheonan (104), Seosan research center (8) 3 (2.6%) 0
+Jeon-buk 7 4 (57.1%)
 Contacts of confirmed cases (2), existing imported
 cases (1), Shincheonji (1)
+3 (42.9%) 0
+Jeon-
+nam
+4 3 (75.0%)
 Shincheonji (1), existing imported cases (1), contacts
 of confirmed cases (1)
+1 (25.0%) 0
+Gyeong-
+buk
+1,169 848 (72.5%)
 Shincheonji (517), Cheongdo Daenam Hospital (119),
 Bonghwa Pureun Nursing Home (58), pilgrimage to
 Israel (49), Milal Shelter (27), Gyeongsan Seorin Nursing
 Home (24), Gyeongsan Jeil Silver Town (17), Gyeongsan
 Cham Joeun Community Center (18), etc.
+321 (27.5%) 5
+Gyeong-
+nam
+86 66 (76.7%)
 Shincheonji (32), Geochang Church (10), Geochang
 Woongyang-myeon (8), Hanmaeum Changwon
 Hospital (7), Changyeong coin karaoke (7), Busan
 Oncheon Church (2)
-
-6
-
-(100.0%)
-
-Imported cases (6)
-
-6,705
-
-(80.6%)
-
-Shincheonji 5,016 (60.3%)
-
-8
-
-(27.6%)
-
-0
-
-4
-
-(12.9%)
-
-0
-
-3
-
-(2.6%)
-
-0
-
-3
-
-(42.9%)
-
-0
-
-1
-
-(25.0%)
-
-0
-
-321
-
-(27.5%)
-
-5
-
-20
-
-(23.3%)
-
-1
-
-4
-
-(100.0%)
-
-0
-
--
-
--
-
-2
-
-(19.4%)
-
-84
-
-1,615
-
+20 (23.3%) 1
+Jeju 4 - - 4 (100.0%
+) 0
+Airport 6 6 (100.0%
+) Imported cases (6) - - 2
+Total 8,320 6,705 (80.6%) Shincheonji 5,016 (60.3%) 1,615 (19.4%) 84
 * Not classified into a cluster or under investigation
 ※ The interim classification is based on the reporting location, which may change depending on further
 epidemiological investigation.
-[Table 2. Distribution of the cases by sex and age groups]
-
-Confirmed cases
-# (%)
-
-Total
-Sex
-
-Age
-Group
-
-Deaths
-# (%)
-
-Fatality rate %
-
-8,320
-
-(100.00)
-
-81 (100.00)
-
-0.97
-
-Male
-
-3,200
-
-(38.46)
-
-44
-
-(54.32)
-
-1.38
-
-Female
-
-5,120
-
-(61.54)
-
-37
-
-(45.68)
-
-0.72
-
-80 and above
-
-274
-
-(3.29)
-
-28
-
-(34.57)
-
-10.22
-
-70-79
-
-539
-
-(6.48)
-
-29
-
-(35.80)
-
-5.38
-
-60-69
-
-1,033
-
-(12.42)
-
-16
-
-(19.75)
-
-1.55
-
-50-59
-
-1,602
-
-(19.25)
-
-6
-
-(7.41)
-
-0.37
-
-40-49
-
-1,164
-
-(13.99)
-
-1
-
-(1.23)
-
-0.09
-
-30-39
-
-856
-
-(10.29)
-
-1
-
-(1.23)
-
-0.12
-
-20-29
-
-2,330
-
-(28.00)
-
-0
-
-(0.00)
-
--
-
-10-19
-
-436
-
-(5.24)
-
-0
-
-(0.00)
-
--
-
-0-9
-
-86
-
-(1.03)
-
-0
-
-(0.00)
-
--
-
 [Table 3. Distribution of pediatric cases by age group]
-Status
-Discharged from
-In isolation
-isolation
-
-Age group
-
-Total confirmed
+Age group Total confirmed
 cases
-
 Change from
 previous day
-
-0-2
-
-27
-
--
-
-5
-
-22
-
-3-6
-
-27
-
--
-
-4
-
-23
-
-7-12
-
-87
-
-+1
-
-14
-
-73
-
-13-15
-
-83
-
-+1
-
-14
-
-69
-
-16-18
-
-128
-
-+2
-
-19
-
-109
-
-Total
-
-352
-
-+4
-
-56
-
-296
-
+Status
+Discharged from
+isolation In isolation
+0-2 27 - 5 22
+3-6 27 - 4 23
+7-12 87 +1 14 73
+13-15 83 +1 14 69
+16-18 128 +2 19 109
+Total 352 +4 56 296
 [Figure 1. Imported confirmed cases by region of origin]
-
 ○ Cases distribution by region:
-
 

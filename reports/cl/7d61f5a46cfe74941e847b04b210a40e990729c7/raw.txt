@@ -1,84 +1,48 @@
-Fase 2 del Plan de Preparación y Respuesta COVID-19
-
 PROTOCOLO DE DETECCIÓN DE VIAJEROS
 EN PASOS FRONTERIZOS TERRESTRES
 Marzo 2020
-
+Fase 2 del Plan de Preparación y Respuesta COVID-19
 División de Planificación Sanitaria
 Departamento de Epidemiología
 Oficina de Reglamento Sanitario Internacional
-
-GLOSARIO
-Según orden alfabético:
-ASR		
-
-: Autoridad Sanitaria Regional
-
-CNE		
-
-: Centro Nacional de Enlace del Ministerio de Salud
-
-COVID-19
-
-: Enfermedad por coronavirus (SARS-CoV-2)
-
-DIGERA		
-
-: División de Gestión de Redes Asistenciales del Ministerio de Salud
-
-EPP		
-
-: Elemento de Protección Personal
-
-ISP		
-
-: Instituto de Salud Pública
-
-MINSAL		
-
-: Ministerio de Salud de Chile
-
-PCR		
-
-: Reacción en Cadena de la Polimerasa (por sus siglas en inglés)
-
-PDI		
-
-: Policía de Investigaciones de Chile
-
-SAG
-
-: Servicio Agrícola y Ganadero
-
-SAMU		
-
-: Servicio Ambulatorio Médico de Urgencias
-
-SEREMI
-
-: Secretaría Regional Ministerial
-
+2
 Protocolo de detección de viajeros en pasos fronterizos
-
-2
-
-OBJETIVOS
+GLOSARIO
+Según orden alfabético:
+ASR		 : Autoridad Sanitaria Regional
+CNE		 : Centro Nacional de Enlace del Ministerio de Salud
+COVID-19 : Enfermedad por coronavirus (SARS-CoV-2)
+DIGERA		 : División de Gestión de Redes Asistenciales del Ministerio de Salud
+EPP		 : Elemento de Protección Personal
+ISP		 : Instituto de Salud Pública
+MINSAL		 : Ministerio de Salud de Chile
+PCR		 : Reacción en Cadena de la Polimerasa (por sus siglas en inglés)
+PDI		 : Policía de Investigaciones de Chile
+SAG : Servicio Agrícola y Ganadero
+SAMU		 : Servicio Ambulatorio Médico de Urgencias
+SEREMI : Secretaría Regional Ministerial
+3
+Protocolo de detección de viajeros en pasos fronterizos
+OBJETIVOS
 • Establecer los lineamientos para la detección oportuna de viajeros que provengan desde países con
 brotes activos de COVID-19, en pasos fronterizos terrestres.
-• Determinar las acciones a realizar frente a casos sospechosos de COVID-19 detectados en pasos fronterizos terrestres.
-
+• Determinar las acciones a realizar frente a casos sospechosos de COVID-19 detectados en pasos fron-
+terizos terrestres.
 MARCO LEGAL
 • Código Sanitario. Artículo 22: será responsabilidad de la Autoridad Sanitaria el aislamiento de toda
-persona que padezca una enfermedad de declaración obligatoria, la cual de preferencia y especialmente en caso de amenaza de epidemia o insuficiencia del aislamiento en domicilio, deberá ser internada en un establecimiento hospitalario u otro local especial para este fin.
+persona que padezca una enfermedad de declaración obligatoria, la cual de preferencia y especial-
+mente en caso de amenaza de epidemia o insuficiencia del aislamiento en domicilio, deberá ser inter-
+nada en un establecimiento hospitalario u otro local especial para este fin.
 • Reglamento Sanitario Internacional, promulgado a través del Decreto Nº 230 de 2008 del Ministerio
 de Relaciones Exteriores.
 • Decreto Nº4 del 05 de febrero de 2020 sobre Alerta Sanitaria por Emergencia de Salud Pública de
 Importancia Internacional por brote de COVID-19.
 • Resolución Exenta Nº108, del 27 de febrero de 2020: Establece declaración jurada de estado de
-salud como medida de control sanitario obligatorio para viajeros que ingresan a chile y aprueba formulario para realizar la declaración jurada.
-
+salud como medida de control sanitario obligatorio para viajeros que ingresan a chile y aprueba for-
+mulario para realizar la declaración jurada.
 ALCANCE
-El siguiente protocolo establece las acciones a realizar en los pasos fronterizos terrestres y su alcance incluye a las siguientes instituciones:
+El siguiente protocolo establece las acciones a realizar en los pasos fronterizos terrestres y su alcance in-
+cluye a las siguientes instituciones:
 • Ministerio de Salud
 • Ministerio de Transporte y Telecomunicaciones
 • Policía de Investigaciones
@@ -89,13 +53,11 @@ El siguiente protocolo establece las acciones a realizar en los pasos fronterizo
 Este documento no incluye lineamientos relacionados a la investigación epidemiológica, seguimiento de
 contactos, atención clínica de viajeros o estudios de laboratorio. Los contenidos y orientaciones podrán
 modificarse de acuerdo a la contingencia epidemiológica.
-
+4
 Protocolo de detección de viajeros en pasos fronterizos
-
-3
-
-DEFINICIONES
-1. Caso sospechoso de COVID-19: refiérase a la definición de caso sospechoso para vigilancia epidemiológica ante brote de COVID-19, formalizado en Ord. N° 748, fechado el 06 de marzo de 2020, del Ministerio
+DEFINICIONES
+1. Caso sospechoso de COVID-19: refiérase a la definición de caso sospechoso para vigilancia epidemio-
+lógica ante brote de COVID-19, formalizado en Ord. N° 748, fechado el 06 de marzo de 2020, del Ministerio
 de Salud de Chile.
 2. Contacto de alto riesgo:
 • Cualquier persona que haya tenido contacto directo con un caso confirmado de COVID-19 sin uso de
@@ -106,138 +68,93 @@ con un caso confirmado de COVID-19, sin uso de Equipo de Protección Personal (E
 viajado un caso confirmado de COVID-19. Si el caso confirmado utilizó el baño del bus, se consideran
 además aquellos viajeros que utilizaron el baño.
 Figura 1
-o
-
-o
-
-o
-
-o
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-**
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-o
-
-o
-
-o
-
-o
-
+o o o o
+x x x x
+x x x x
+x ** x x
+x x x x
+x x x x
+o o o o
 ** : Caso confirmado
 x : Caso de alto riesgo
 o : Caso de bajo riesgo
-
 3. Contacto de bajo riesgo:
 • Persona que haya viajado con un caso confirmado de COVID-19 que no corresponda a las definiciones
 de viajero de alto riesgo definido en la sección anterior.
 • Viajero que provenga de un país con brotes activos de COVID-19 y que no presenta síntomas.
-4. Declaración Jurada: Declaración Jurada para Viajeros para prevenir enfermedades por Coronavirus (COVID-19).
+4.DeclaraciónJurada:DeclaraciónJuradaparaViajerosparaprevenirenfermedadesporCoronavirus(COVID-19).
 5. Medio de Transporte: Significa cualquier aeronave, embarcación, tren, vehículo de carretera u otro que
-efectúa un viaje internacional1.
-6. Paso fronterizo terrestre: significa un punto de entrada terrestre a un Estado Parte, inclusive los utilizados por vehículos de carretera y trenes.
+efectúa un viaje internacional1
+.
+6. Paso fronterizo terrestre: significa un punto de entrada terrestre a un Estado Parte, inclusive los utiliza-
+dos por vehículos de carretera y trenes.
 7. Punto de Entrada: Significa un paso para la entrada o salida internacionales de viajeros, equipajes, cargas,
 contenedores, medios de transporte, mercancías, y paquetes postales, así como los organismos y áreas que
 presten servicios para dicha entrada o salida.
+1
 Medio de transporte, Puerto y Punto de entrada, definiciones según Reglamento Sanitario Internacional, disponible en: https://apps.who.int/iris/
 bitstream/handle/10665/246186/9789243580494-spa.pdf;jsessionid=E7910E81DCF16B62D7750DFD52C28FDF?sequence=1
-
-1
-
+5
 Protocolo de detección de viajeros en pasos fronterizos
-
-4
-
-DESCRIPCIÓN DEL PROCESO PARA PASOS FRONTERIZOS TERRESTRES
+DESCRIPCIÓN DEL PROCESO PARA PASOS FRONTERIZOS TERRESTRES
 A. Identificación de viajeros provenientes de países con brotes de COVID-19 al llegar a Chile
 1. Las empresas de transporte de viajeros, que operen en el país, deberán proporcionar a cada viajero el
 documento “Declaración Jurada” (Anexo 1), publicada en el Diario Oficial el viernes 28 de febrero de
 2020, en todos los viajes internacionales que ingresen a Chile.
-2. La tripulación del bus, indicará las instrucciones básicas de llenado procurando que se registren todos los datos requeridos en el documento.
-3. Una vez que el bus ingrese al complejo fronterizo, cada viajero deberá entregar la “Declaración Jurada” a los funcionarios que se hayan designado en el paso fronterizo (PDI o SEREMI).
+2. La tripulación del bus, indicará las instrucciones básicas de llenado procurando que se registren to-
+dos los datos requeridos en el documento.
+3. Una vez que el bus ingrese al complejo fronterizo, cada viajero deberá entregar la “Declaración Jura-
+da” a los funcionarios que se hayan designado en el paso fronterizo (PDI o SEREMI).
 4. En el caso de viajeros que ingresen en vehículos particulares o transporte de cargas, deberán llenar
 la Declaración Jurada que estará disponible en dependencias del paso fronterizo y entregarla a los
 funcionarios designados.
 5. Los funcionarios designados revisarán exhaustivamente los datos registrados en cada “Declaración
-Jurada” y entregarán las indicaciones según el “Protocolo de identificación y seguimiento para viajeros que provienen de países con transmisión local de COVID-19”, formalizado en Ord. 749, 06 de
+Jurada” y entregarán las indicaciones según el “Protocolo de identificación y seguimiento para via-
+jeros que provienen de países con transmisión local de COVID-19”, formalizado en Ord. 749, 06 de
 marzo, Ministerio de Salud, si corresponde.
 B. Viajeros que NO han visitado países con transmisión local de COVID-19
-1. A los viajeros que declaren NO haber visitado países con transmisión local de COVID-19, en los últimos 14 días, el funcionario de salud entregará un comprobante que deberá mostrar en la ventanilla
+1. A los viajeros que declaren NO haber visitado países con transmisión local de COVID-19, en los últi-
+mos 14 días, el funcionario de salud entregará un comprobante que deberá mostrar en la ventanilla
 de Policía de Investigaciones (PDI) durante el trámite de ingreso al país, que autoriza su ingreso.
 2. El viajero podrá realizar su trámite migratorio de ingreso al país normalmente.
 C. Viajeros que SI han visitado países con transmisión local de COVID-19
 1. Los viajeros que declaren que SI han visitado países con transmisión local de COVID-19 en los últimos
-14 días, serán catalogados como viajero que debe ingresar a seguimiento según “Protocolo de identificación y seguimiento para viajeros que provienen de países con transmisión local de COVID-19”,
+14 días, serán catalogados como viajero que debe ingresar a seguimiento según “Protocolo de iden-
+tificación y seguimiento para viajeros que provienen de países con transmisión local de COVID-19”,
 ya señalado.
-2. Al momento del ingreso a nuestro país, el funcionario designado, verificará la veracidad y completitud de la Declaración Jurada, así como la presencia de síntomas sugerentes de infección respiratoria
-tales como fiebre, tos y disnea entre otros. Si el viajero no presenta síntomas, se entregarán instrucciones al viajero según protocolo, y se autorizará su ingreso sanitario con el cual podrá continuar con
+2. Al momento del ingreso a nuestro país, el funcionario designado, verificará la veracidad y completi-
+tud de la Declaración Jurada, así como la presencia de síntomas sugerentes de infección respiratoria
+tales como fiebre, tos y disnea entre otros. Si el viajero no presenta síntomas, se entregarán instruc-
+ciones al viajero según protocolo, y se autorizará su ingreso sanitario con el cual podrá continuar con
 su trámite migratorio.
-3. Si al momento del ingreso al país, el viajero se encuentra con síntomas sugerentes de infección respiratoria tales como fiebre, tos y disnea entre otros, se debe activar el protocolo de “Caso sospechoso
+3. Si al momento del ingreso al país, el viajero se encuentra con síntomas sugerentes de infección res-
+piratoria tales como fiebre, tos y disnea entre otros, se debe activar el protocolo de “Caso sospechoso
 de COVID-19”.
-
+6
 Protocolo de detección de viajeros en pasos fronterizos
-
-5
-
-Manejo de Casos sospechoso en el punto de entrada
-1. Si el viajero presenta fiebre o signos de infección respiratoria, será catalogado como caso sospechoso y se activará el protocolo “Manejo de caso sospechoso de COVID-19”
+Manejo de Casos sospechoso en el punto de entrada
+1. Si el viajero presenta fiebre o signos de infección respiratoria, será catalogado como caso sospe-
+choso y se activará el protocolo “Manejo de caso sospechoso de COVID-19”
 2. El viajero debe ser trasladado inmediatamente a una zona de aislamiento con los elementos de
 protección personal correspondientes, donde deberá esperar las indicaciones de la ASR respecto
 a su traslado o atención local si corresponde de acuerdo al protocolo regional para la derivación
-del viajero hacia el hospital designado, dependiendo de la ubicación geográfica del paso fronterizo terrestre.
+del viajero hacia el hospital designado, dependiendo de la ubicación geográfica del paso fronte-
+rizo terrestre.
 3. El caso sospechoso deberá permanecer en ese lugar hasta su traslado o indicación de continuar
-con su proceso migratorio. Para los fines de otorgar alimentación u otros requerimientos del viajero, el personal del siempre utilizará mascarilla y guantes de látex o nitrilo y realizará lavado de
+con su proceso migratorio. Para los fines de otorgar alimentación u otros requerimientos del via-
+jero, el personal del siempre utilizará mascarilla y guantes de látex o nitrilo y realizará lavado de
 manos con alcohol gel al entrar o salir de la zona de aislamiento
 4. La limpieza de la zona contaminada con gotitas de un caso deberá ser realizada de acuerdo al
 “Protocolo para gestionar la limpieza y desinfección de ambientes potencialmente contaminados
 con SARS-CoV-2”2
-
 ACCIONES PRIORITARIAS SEGÚN INSTITUCIÓN
 Ministerio de Transportes y Telecomunicaciones
 a. Informar a empresas de transportes sobre las medidas definidas por el MINSAL, para la detección de
 viajeros provenientes de países con brotes activos de COVID-19.
 b. Facilitar la lista de pasajeros, cuando corresponda.
-
 Autoridad Sanitaria Regional
-a. Capacitar a trabajadores y jefaturas de instituciones que se desempeñan en pasos fronterizos terrestres para la aplicación del presente protocolo u otros aspectos epidemiológicos de COVID-19.
+a. Capacitar a trabajadores y jefaturas de instituciones que se desempeñan en pasos fronterizos terres-
+tres para la aplicación del presente protocolo u otros aspectos epidemiológicos de COVID-19.
 b. Realizar la evaluación epidemiológica de viajeros identificados en pasos fronterizos terrestres como
 casos sospechosos de COVID-19 de acuerdo al presente protocolo.
 c. En caso de detectarse un caso sospechoso, la Autoridad Sanitaria activará el protocolo de respuesta y
@@ -253,71 +170,67 @@ como:
 − Contar con resguardo de seguridad cuando se requiera (ya sea propio del complejo fronterizo o
 por Carabineros de Chile).
 2
-
 Disponible en la División de Políticas Públicas del Ministerio de Salud (DIPOL)
+7
 Protocolo de detección de viajeros en pasos fronterizos
-
-6
-
-e. En caso de que el complejo fronterizo tenga un espacio limitado, se recomienda asignar una sala multiuso, es decir, que pueda ser utilizada para funciones de rutina y se convierta en sala de aislamiento,
+e. En caso de que el complejo fronterizo tenga un espacio limitado, se recomienda asignar una sala mul-
+tiuso, es decir, que pueda ser utilizada para funciones de rutina y se convierta en sala de aislamiento,
 solo cuando se detecte un caso sospechoso, según la definición establecida en este protocolo. En caso
 de gravedad, el viajero deberá ser trasladado a través de SAMU o en un vehículo habilitado, lo antes
 posible al centro asistencial designado por la Autoridad Sanitaria. Todo el personal involucrado en el
 traslado usará los EPP adecuados (mascarilla de tipo quirúrgica y guantes de látex o nitrilo).
 f. Supervisar y verificar que se cumplan las acciones de aislamiento de casos, medidas de prevención y
 control de enfermedades.
-
 SAMU
 a. Realizar el traslado de los casos sospechosos detectados en pasos fronterizos, siempre y cuando la
 ubicación geográfica del complejo fronterizo lo permita. En caso de dificultad de acceso, se deberá
 solicitar la orientación respectiva, en el momento, a la ASR.
-
 Policía de Investigaciones de Chile (PDI)
 a. Apoyar las acciones de detección de viajeros establecidas en el presente protocolo.
 b. Otorgar las facilidades para que las instituciones realicen las acciones de salud pública definidas por
 la ASR.
-c. En caso que deba recepcionar la declaración jurada, revisará si los viajeros estuvieron durante las últimas 2 semanas (14 días), en países con transmisión activa de COVID-19 o tiene historia de contacto
+c. En caso que deba recepcionar la declaración jurada, revisará si los viajeros estuvieron durante las úl-
+timas 2 semanas (14 días), en países con transmisión activa de COVID-19 o tiene historia de contacto
 con enfermos de COVID-19.
 d. Si la respuesta es NO, continuará atendiendo al viajero siguiendo sus protocolos habituales.
 e. Si la respuesta es SI y el viajero no presenta síntomas compatibles con COVID-19, éste podrá continuar
 con su viaje, una vez reciba las recomendaciones respectivas por la ASR.
 f. Si el viajero declara que ha estado en países con transmisión local de COVID-19, y presenta síntomas,
-el funcionario de la ASR o de la PDI le indicará que debe esperar en un lugar designado por el Coordinador del Complejo Fronterizo para dichos fines e informará inmediatamente a su superior quien activará
+el funcionario de la ASR o de la PDI le indicará que debe esperar en un lugar designado por el Coordina-
+dor del Complejo Fronterizo para dichos fines e informará inmediatamente a su superior quien activará
 los protocolos correspondientes.
 g. Si el caso sospechoso viaja en un bus internacional, y es detectado, la PDI deberá informar a la empresa
-de transporte, con el fin de activar el protocolo definido con la ASR, que puede ser según la localización del paso fronterizo que la compañía retire y entregue el equipaje al viajero para ser aislado y
+de transporte, con el fin de activar el protocolo definido con la ASR, que puede ser según la locali-
+zación del paso fronterizo que la compañía retire y entregue el equipaje al viajero para ser aislado y
 trasladado o finalizar el viaje con EPP y aislamiento.
 h. Los demás viajeros del bus o del vehículo que hayan viajado con el caso sospechoso, podrán continuar
 con su viaje con las recomendaciones respectivas de autocuidado y auto reporte, en caso que presente
 síntomas compatibles con COVID-19 en los próximos 14 días.
-
+8
 Protocolo de detección de viajeros en pasos fronterizos
-
-7
-
-Carabineros de Chile
-En los pasos o complejos fronterizos donde la autoridad migratoria está delegada en Carabineros, se deberán realizar las siguientes acciones:
+Carabineros de Chile
+En los pasos o complejos fronterizos donde la autoridad migratoria está delegada en Carabineros, se debe-
+rán realizar las siguientes acciones:
 a. Será responsable de mantener el orden público en el complejo fronterizo, de acuerdo a los Planes de
 Emergencia establecidos, en caso que se detecte un caso sospechoso.
 b. Si se detecta un caso sospechoso de COVID-19, deberá informar a la autoridad del paso fronterizo.
-c. Confirmará la procedencia de viaje y aplicará las acciones descritas en este protocolo, tanto para notificación, como para medidas de protección personal y aislamiento.
-
+c. Confirmará la procedencia de viaje y aplicará las acciones descritas en este protocolo, tanto para no-
+tificación, como para medidas de protección personal y aislamiento.
 Servicio Agrícola y Ganadero (SAG) y Servicio Nacional de Aduanas
 a. SAG y Aduanas otorgarán las facilidades para que la Autoridad Sanitaria capacite a su personal en el
 manejo de caso en investigación para COVID-19.
 b. El personal deberá:
 − Conocer los flujos de información de su paso o complejo fronterizo.
-− Disponer del equipamiento de protección personal establecido para la atención de público: mascarilla de tipo quirúrgico y guantes de látex o nitrilo.
+− Disponer del equipamiento de protección personal establecido para la atención de público: mas-
+carilla de tipo quirúrgico y guantes de látex o nitrilo.
 − En la revisión de viajeros, recordar medidas de higiene de manos y etiqueta de tos: Al toser o
 estornudar cubrirse con pañuelo desechable o con el antebrazo, lavarse las manos con agua y
 jabón o con una solución de alcohol gel y eliminar el pañuelo.
-
+9
 Protocolo de detección de viajeros en pasos fronterizos
-
-8
-
-MEDIDAS DE PREVENCIÓN
-Para trabajadores y trabajadoras que se desempeñan en Puntos de Entrada, ya sea de manera permanente o esporádica
+MEDIDAS DE PREVENCIÓN
+Para trabajadores y trabajadoras que se desempeñan en Puntos de Entrada, ya sea de manera perma-
+nente o esporádica
 • Lavar las manos frecuentemente con agua y jabón o usar solución de alcohol.
 • Usar mascarilla tipo quirúrgico, de preferencia preformada (no colapsable), que cubra nariz y boca, si
 tendrá contacto directo con los viajeros a menos de 1 metro: .
@@ -328,320 +241,178 @@ tendrá contacto directo con los viajeros a menos de 1 metro: .
 • No utilizar mascarilla en el caso que el trabajador/trabajadora se desempeñe detrás de una barrera
 mecánica (ejemplo: módulos de atención de control migratorio que cuentan con separación mediante
 ventanilla de las personas que se atienden)
-• Cubrir boca y nariz con pañuelo desechable o antebrazo al toser y estornudar. En el caso de usar pañuelos desechables, debe eliminarlos y posteriormente lavar las manos.
+• Cubrir boca y nariz con pañuelo desechable o antebrazo al toser y estornudar. En el caso de usar pa-
+ñuelos desechables, debe eliminarlos y posteriormente lavar las manos.
 • En caso de funcionarios que realizan revisión de viajeros (maletas, ropa, etc.), deberán usar guantes de
 látex o nitrilo.
-
-En caso cualquier duda o necesidad de información, deberán contactarse con la Autoridad Sanitaria Regional o con el Ministerio de Salud a través del Centro Nacional de Enlace (Turno:
+En caso cualquier duda o necesidad de información, deberán contactarse con la Autoridad Sa-
+nitaria Regional o con el Ministerio de Salud a través del Centro Nacional de Enlace (Turno:
 +56942363611) o de “Salud Responde”, al número telefónico 600 360 7777.
-
+10
 Protocolo de detección de viajeros en pasos fronterizos
-
-9
-
-ANEXO 1
+ANEXO 1
 Anverso
-
-Nº000000
-
-BIENVENIDO A CHILE | WELCOME TO CHILE
-Declaración Jurada para Viajeros
-para prevenir enfermedades por Coronavirus (COVID-19)
-
-(UTILIZAR UN FORMULARIO POR GRUPO FAMILIAR QUE HABITE EL MISMO HOGAR Y HAYA COMPARTIDO LA TOTALIDAD DEL ITINERARIO DE VIAJE)
-
-Affidavit for Travelers to prevent coronavirus diseases (COVID-19)
-(TO BE USED BY FAMILY GROUPS DWELLING IN THE SAME HOME AND HAVING SHARED THE ENTIRE TRAVEL ITINERARY)
-
 1. INFORMACIÓN PERSONAL | Personal Information
-Apellidos | Last Name
-DOCUMENTO DE VIAJE
-Travel Document
-
-Tipo
-Type
-
-FECHA DE NACIMIENTO
-Date of Birth
-
-Día
-Day
-
-FECHA DE INGRESO A CHILE
-Date of Entry into Chile
-
-/
-
 Masculino
 Male
-
-Nombres | Names
-
 Femenino
 Female
-
+Apellidos | Last Name Nombres | Names
+DOCUMENTO DE VIAJE
+Travel Document
+Tipo
+Type
 Nº
 Nº
+FECHA DE NACIMIENTO
+Date of Birth Día
+Day
 Mes
-
-/
-
 Month
-
+Año
+Year
+/ / NACIONALIDAD
+Nationality
+FECHA DE INGRESO A CHILE
+Date of Entry into Chile
 Día
 Day
-
-/
-
-Year
-
 Mes
-
-/
-
 Month
-
+Año
+Year
+/ / PAÍS DE PROCEDENCIA
+Country of Origin
 MEDIO DE TRANSPORTE DE INGRESO A CHILE
 Means of Transport of entry into Chile
-Nº DE VUELO (si corresponde)
-Flight N° (if applicable)
-
-NACIONALIDAD
-Nationality
-
-Año
-
-PAÍS DE PROCEDENCIA
-Country of Origin
-
-Año
-Year
-
 Avión
 Plane
-
 Barco
 Vessel
-
 Bus
 Bus
-
 Auto
 Car
-
 Tren
 Train
-
 Camión
 Truck
-
 Moto
 Motorcycle
-
 Otro
 Other
-
-CONTROL FRONTERIZO DEL INGRESO
-Border Control of Entry
-
+Nº DE VUELO (si corresponde)
+Flight N° (if applicable)
 Nº DE ASIENTO
 Seat Nº
-
+CONTROL FRONTERIZO DEL INGRESO
+Border Control of Entry
 EMAIL
 E-mail
-
 TELÉFONOS DE CONTACTO
 Contact phone numbers
-
 1.
 2.
-
 2. ANTECEDENTES DE VIAJE EN LOS ÚLTIMOS 30 DÍAS | Information on travels over the last 30 days
-
 Señale los países en los que usted estuvo en los últimos 30 días | Indicate the countries where you were over the last 30 days
 CHINA | China
 OTROS (Especifique) | Other
-1.
-
-5.
-
-2.
-
-6.
-
-3.
-
-7.
-
-4.
-
-8.
-
+1. 5.
+2. 6.
+3. 7.
+4. 8.
+Declaración Jurada para Viajeros
+para prevenir enfermedades por Coronavirus (COVID-19)
+BIENVENIDO A CHILE | WELCOME TO CHILE
+Affidavit for Travelers to prevent coronavirus diseases (COVID-19)
 Comprobante de Declaración Jurada para viajeros para prevenir enfermedades por Coronavirus (COVID-19)
 Affidavit for Travelers to prevent coronavirus diseases (COVID-19)
 FECHA
-Date
-
-Día
+Date Día
 Day
-
-/
-
 Mes
-
 Month
-
-/
-
 Año
 Year
-
+/ /
+(UTILIZAR UN FORMULARIO POR GRUPO FAMILIAR QUE HABITE EL MISMO HOGAR Y HAYA COMPARTIDO LA TOTALIDAD DEL ITINERARIO DE VIAJE)
+(TO BE USED BY FAMILY GROUPS DWELLING IN THE SAME HOME AND HAVING SHARED THE ENTIRE TRAVEL ITINERARY)
 Nº000000
-
+Nº000000
+11
 Protocolo de detección de viajeros en pasos fronterizos
-
-10
-
-Reverso
-
+Reverso
 3. ANTECEDENTES DE SALUD | Health information
-¿TUVO CONTACTO CON UNA PERSONA ENFERMA DE CORONAVIRUS (COVID-19)?
-
-SÍ | YES
-
-NO | NO
-
-¿EN SU ESTADÍA EN EN EL EXTRANJERO EN LOS ÚLTIMOS 30 DÍAS, ESTUVO ENFERMO/A?
-
-SÍ | YES
-
-NO | NO
-
+¿TUVO CONTACTO CON UNA PERSONA ENFERMA DE CORONAVIRUS (COVID-19)? SÍ | YES NO | NO
 Were you in contact with any person ill with coronavirus (COVID-19)?
+¿EN SU ESTADÍA EN EN EL EXTRANJERO EN LOS ÚLTIMOS 30 DÍAS, ESTUVO ENFERMO/A? SÍ | YES NO | NO
 Were you ill during your stay abroad over the last 30 days?
-
-/
-/
-Fecha de primeros síntomas
-Día Mes Año
-Date of first symptoms
-
 ¿Qué enfermedad?
 What illness?
-
+Fecha de primeros síntomas
+Día
 Day
-
+Mes
 Month
-
+Año
 Year
-
+/ /
+Date of first symptoms
 ACTUALMENTE, ¿USTED PRESENTA ALGUNO DE ESTOS SÍNTOMAS? | Do you currently have any of these symptoms?
 Tos
-
 Cough
-
 Dificultad respiratoria
 Difficult breathing
-
-Fiebre
-
-Manchas en la piel
-
-Fever
-
-Skin rash
-
-Dolor muscular
-
-Dolor de cabeza
-
-Muscle pain
-
-Headache
-
 Dolor de garganta
-
-Náusea / Vómito
-
 Sore throat
-
-Nausea / Vomiting
-
 Secreciones nasales
-
-Dolor articular
-
 Runny nose
-
+Fiebre
+Fever
+Dolor muscular
+Muscle pain
+Manchas en la piel
+Skin rash
+Dolor de cabeza
+Headache
+Náusea / Vómito
+Nausea / Vomiting
+Dolor articular
 Joint pain
-
 4. DIRECCIONES EN CHILE | Addresses in Chile
-
 Señale las direcciones (o nombre del hotel) y ciudades donde permanecerá en Chile
 State the addresses and cities in where you will stay in Chile
-DIRECCIÓN | Address
-
-COMUNA | District
-
-CIUDAD | City
-
-HOTEL | Hotel
-
+DIRECCIÓN | Address COMUNA | District CIUDAD | City HOTEL | Hotel
 1
 2
 3
-
 5. GRUPO FAMILAR | Family group
-
 En caso de grupo familiar señalar, nombre y documento de identificación de cada integrante
 In case of a family group, indicate name and identity document of each member.
 NOMBRES
 Names
-
 APELLIDOS
 Last Name
-
 TIPO DOCUMENTO DE VIAJE | Travel Document
-TIPO | Type
-Nº | Nº
-
+TIPO | Type Nº | Nº
 1
 2
 3
 4
-
 FECHA
-Date
-
-Día
+Date Día
 Day
-
-/
-
 Mes
-
 Month
-
-/
-
 Año
-
-FIRMA | Signature
-
 Year
-
-Infórmese en minsal.cl
-o llamando a Salud Responde
-
-More information at minsal.cl
-or calling Salud Responde
-
+/ /
+FIRMA | Signature
 LLAME A
 PROFESIONALES DE LA SALUD ATENDIENDO SUS DUDAS LAS 24 HORAS,
 LOS 7 DÍAS DE LA SEMANA
-
-Protocolo de detección de viajeros en pasos fronterizos
-
-11
-
+Infórmese en minsal.cl
+o llamando a Salud Responde
+More information at minsal.cl
+or calling Salud Responde
 

@@ -1,30 +1,21 @@
+Data as reported by national authorities by 00:00 CET 19 March 2020
 Coronavirus disease 2019 (COVID-19)
 Situation Report – 59
-Data as reported by national authorities by 00:00 CET 19 March 2020
-
 HIGHLIGHTS
-
-SITUATION IN NUMBERS
-total (new) cases in last 24 hours
-
-•
-
-•
-
-•
-
-Seven new countries/territories/areas (African Region [3], Eastern
+• Seven new countries/territories/areas (African Region [3], Eastern
 Mediterranean Region [1], European Region [1], and Region of the Americas
 [2]) have reported cases of COVID-19.
-The number of confirmed cases worldwide has exceeded 200 000. It took over
+• The number of confirmed cases worldwide has exceeded 200 000. It took over
 three months to reach the first 100 00 confirmed cases, and only 12 days to
 reach the next 100 000.
-A new protocol to investigate the extent of COVID-19 infection in the
+• A new protocol to investigate the extent of COVID-19 infection in the
 population, as determined by positive antibody tests in the general population
 has been developed. The protocol is titled the Population-based age-stratified
 seroepidemiological investigation protocol for COVID-19 virus infection. See
 Subject in Focus for details.
-
+Figure 1. Countries, territories or areas with reported confirmed cases of COVID-19, 19 March 2020
+SITUATION IN NUMBERS
+total (new) cases in last 24 hours
 Globally
 209 839 confirmed (16 556)
 8778 deaths (828)
@@ -46,17 +37,12 @@ Region of the Americas
 African Region
 367 confirmed (132)
 7 deaths (3)
-
 WHO RISK ASSESSMENT
-Global Level
-
-Figure 1. Countries, territories or areas with reported confirmed cases of COVID-19, 19 March 2020
-
-Very High
-
+Global Level Very High
 SUBJECT IN FOCUS: New protocol for Early Epidemiologic investigations for public health
 response
-With the emergence of COVID-19 virus, many uncertainties remain as to certain epidemiological, seroepidemiological (related to identifying antibodies in the population), clinical and virological characteristics of the virus and
+With the emergence of COVID-19 virus, many uncertainties remain as to certain epidemiological, seroepidemiologi-
+cal (related to identifying antibodies in the population), clinical and virological characteristics of the virus and
 associated disease. Studies to assess these characteristics in different settings are critical to furthering our
 understanding. They will also provide the robust information needed to refine forecasting models and inform public
 health measures.
@@ -68,27 +54,11 @@ Technical guidance website.
 All protocols propose a standardized methodology to allow data and biological samples to be systematically collected,
 taking into consideration local setting and outbreak characteristics, and shared rapidly in a format that can be easily
 aggregated, tabulated and analyzed across many different settings globally.
-Study Protocol
+Study Protocol Objectives
 The First Few COVID-19
 cases and contacts
 transmission investigation
 protocol (FFX)
-
-Households transmission
-of COVID-19 investigation
-protocol
-
-Assessment of COVID-19
-risk factors among Health
-workers protocol
-
-Surface sampling of
-COVID-19 for health care
-professionals
-Population based
-serologic survey
-
-Objectives
 To provide descriptions and/or estimates of the:
 • clinical presentation of COVID-19 infection and course of associated disease
 • secondary infection rate (SIR) and secondary clinical attack rate of COVID-19
@@ -97,12 +67,18 @@ and sex, for various end-points)
 • serial interval of COVID-19 infection
 • symptomatic proportion of COVID-19 cases (through contact tracing and
 laboratory testing); and identification of possible routes of transmission
+Households transmission
+of COVID-19 investigation
+protocol
 • To better understand the extent of transmission within a household by estimating
 the secondary infection rate for household contacts at an individual level, and
 factors associated with any variation in the secondary infection risk
 • To characterize secondary cases including the range of clinical presentation, risk
 factors for infection, and the extent and fraction of asymptomatic infections
 • To characterize serologic response following confirmed COVID-19 infection
+Assessment of COVID-19
+risk factors among Health
+workers protocol
 • To better understand the extent of human-to-human transmission among health
 care workers, by estimating the secondary infection rate for health care worker
 contacts at an individual level
@@ -110,1474 +86,272 @@ contacts at an individual level
 for infection among health care workers
 • To evaluate effectiveness of infection prevention and control measures among
 health care workers
+Surface sampling of
+COVID-19 for health care
+professionals
 • To assess the extent and persistence of surface contamination with COVID-19
 virus
 • To identify environmental surfaces which may play a role in onwards transmission
 of COVID-19 infection
+Population based
+serologic survey
 • To estimate age-specific seroprevalence
-
 The latest protocol, the Population-based age-stratified seroepidemiological investigation protocol for COVID-19
 virus infection, is intended to provide key epidemiological and serologic characteristics of COVID-19 virus in the
 general population. Specifically, data from this protocol will provide critical information about the extent of infection
 (as measured by the presence of antibodies in study subjects) in the general population, age-specific infection
-
 cumulative incidence, and the fraction of people with asymptomatic or subclinical infection.
 The results of these investigations, whether individually or pooled across study sites/countries, will allow further
 understanding and provide robust estimates of key clinical, epidemiological and virological characteristics of the
 COVID-19 virus, including:
-•
-
-•
-•
-•
-•
-•
-•
-•
-•
-•
-
-Key epidemiological parameters, such as: secondary infection rate and secondary clinical attack rate of
+• Key epidemiological parameters, such as: secondary infection rate and secondary clinical attack rate of
 COVID-19 infection among close contacts, asymptomatic fraction of infection, serial interval and incubation
 period of COVID-19, the basic reproduction number of COVID-19 infection
-Clinical presentation of COVID-19 infection and course of associated disease
-Risk factors for transmission and infection, and identification of possible routes of transmission
-Impact of infection prevention and control measures in health care settings
-Serological response following symptomatic COVID-19 infection
-Age-stratified seroprevalence of antibodies against COVID-19 virus
-Cumulative incidence of infection, including extent of age-specific infection
-Infection and disease-severity ratios (case-hospitalization ratio [CHR] and case-fatality ratio [CFR])
-Viral load and shedding profiles
-Viral persistence on surfaces
-
+• Clinical presentation of COVID-19 infection and course of associated disease
+• Risk factors for transmission and infection, and identification of possible routes of transmission
+• Impact of infection prevention and control measures in health care settings
+• Serological response following symptomatic COVID-19 infection
+• Age-stratified seroprevalence of antibodies against COVID-19 virus
+• Cumulative incidence of infection, including extent of age-specific infection
+• Infection and disease-severity ratios (case-hospitalization ratio [CHR] and case-fatality ratio [CFR])
+• Viral load and shedding profiles
+• Viral persistence on surfaces
 To date, 13 countries across five of the six WHO regions, including both high-income and low-and middle-income
 countries, have begun to implement at least one of the early investigation protocols. A further 18 countries have
 signaled their intention to implement one of the protocols. WHO will continue to support countries in their
 epidemiological investigations through the provision of clear and comprehensive protocols.
 For more information, please contact: EarlyInvestigations-2019-nCoV@who.int
-
 SURVEILLANCE
 Table 1. Countries, territories or areas with reported laboratory-confirmed COVID-19 cases and deaths. Data as of
 19 March 2020*
-Total
-Total
-Total
-Days since last
 Reporting Country/
-Total
-Transmission
-confirmed
-confirmed
-new
-reported case
 Territory/Area†
-deaths
-classification§
+Total
+confirmed
 ‡
-1
-1
 cases
-new cases
+Total
+confirmed
+new cases1
+Total
 deaths
+Total
+new
+deaths1
+Transmission
+classification§
+Days since last
+reported case
 Western Pacific Region
-China
-81174
-58
-3242
-11
-Local transmission
-0
-Republic of Korea
-8413
-93
-84
-3
-Local transmission
-0
-Japan
-873
-44
-29
-1
-Local transmission
-0
-Malaysia
-673
-120
-2
-2
-Local transmission
-0
-Australia
-510
-96
-6
-1
-Local transmission
-0
-Singapore
-313
-47
-0
-0
-Local transmission
-0
-Philippines
-187
-0
-14
-2
-Local transmission
-1
-Viet Nam
-66
-5
-0
-0
-Local transmission
-0
-Brunei Darussalam
-56
-2
-0
-0
-Local transmission
-0
-Cambodia
-35
-11
-0
-0
-Local transmission
-0
-New Zealand
-20
-9
-0
-0
-Local transmission
-0
-Mongolia
-5
-1
-0
-0
-Imported cases only
-0
+China 81174 58 3242 11 Local transmission 0
+Republic of Korea 8413 93 84 3 Local transmission 0
+Japan 873 44 29 1 Local transmission 0
+Malaysia 673 120 2 2 Local transmission 0
+Australia 510 96 6 1 Local transmission 0
+Singapore 313 47 0 0 Local transmission 0
+Philippines 187 0 14 2 Local transmission 1
+Viet Nam 66 5 0 0 Local transmission 0
+Brunei Darussalam 56 2 0 0 Local transmission 0
+Cambodia 35 11 0 0 Local transmission 0
+New Zealand 20 9 0 0 Local transmission 0
+Mongolia 5 1 0 0 Imported cases only 0
 Territories**
-Guam
-5
-2
-0
-0
-Local transmission
-0
-French Polynesia
-3
-0
-0
-0
-Imported cases only
-3
+Guam 5 2 0 0 Local transmission 0
+French Polynesia 3 0 0 0 Imported cases only 3
 European Region
-Italy
-35713
-4207
-2978
-473
-Local transmission
-0
-Spain
-13716
-2538
-598
-107
-Local transmission
-0
-France
-9043
-0
-244
-0
-Local transmission
-1
-Germany
-8198
-1042
-13
-0
-Local transmission
-0
-Switzerland
-3010
-353
-21
-2
-Local transmission
-0
-The United Kingdom
-2630
-672
-103
-0
-Local transmission
-0
-Netherlands
-2051
-0
-58
-0
-Local transmission
-1
-Austria
-1646
-314
-4
-1
-Local transmission
-0
-Belgium
-1486
-0
-14
-0
-Local transmission
-1
-Norway
-1423
-115
-3
-0
-Local transmission
-0
-Sweden
-1279
-112
-3
-0
-Local transmission
-0
-Denmark
-1044
-67
-4
-0
-Local transmission
-0
-Portugal
-642
-194
-2
-1
-Local transmission
-0
-Czechia
-522
-30
-0
-0
-Local transmission
-0
-Israel
-427
-0
-0
-0
-Local transmission
-2
-Greece
-418
-0
-5
-0
-Local transmission
-1
-Finland
-359
-40
-0
-0
-Local transmission
-0
-Ireland
-292
-0
-2
-0
-Local transmission
-1
-Poland
-287
-0
-5
-0
-Local transmission
-1
-Slovenia
-286
-0
-1
-0
-Local transmission
-1
-Estonia
-258
-33
-0
-0
-Local transmission
-0
-Iceland
-250
-25
-0
-0
-Local transmission
-0
-Romania
-246
-62
-0
-0
-Local transmission
-0
-Luxembourg
-210
-63
-2
-1
-Local transmission
-0
-Turkey
-191
-51
-2
-1
-Local transmission
-0
-Russian Federation
-147
-54
-0
-0
-Imported cases only
-0
-San Marino
-109
-5
-14
-3
-Local transmission
-0
-Slovakia
-105
-8
-0
-0
-Local transmission
-0
-Serbia††
-96
-11
-0
-0
-Local transmission
-0
-Bulgaria
-92
-11
-2
-0
-Local transmission
-0
-
-Armenia
-84
-Croatia
-81
-Latvia
-71
-Albania
-59
-Cyprus
-58
-Hungary
-58
-Malta
-48
-Belarus
-46
-Georgia
-38
+Italy 35713 4207 2978 473 Local transmission 0
+Spain 13716 2538 598 107 Local transmission 0
+France 9043 0 244 0 Local transmission 1
+Germany 8198 1042 13 0 Local transmission 0
+Switzerland 3010 353 21 2 Local transmission 0
+The United Kingdom 2630 672 103 0 Local transmission 0
+Netherlands 2051 0 58 0 Local transmission 1
+Austria 1646 314 4 1 Local transmission 0
+Belgium 1486 0 14 0 Local transmission 1
+Norway 1423 115 3 0 Local transmission 0
+Sweden 1279 112 3 0 Local transmission 0
+Denmark 1044 67 4 0 Local transmission 0
+Portugal 642 194 2 1 Local transmission 0
+Czechia 522 30 0 0 Local transmission 0
+Israel 427 0 0 0 Local transmission 2
+Greece 418 0 5 0 Local transmission 1
+Finland 359 40 0 0 Local transmission 0
+Ireland 292 0 2 0 Local transmission 1
+Poland 287 0 5 0 Local transmission 1
+Slovenia 286 0 1 0 Local transmission 1
+Estonia 258 33 0 0 Local transmission 0
+Iceland 250 25 0 0 Local transmission 0
+Romania 246 62 0 0 Local transmission 0
+Luxembourg 210 63 2 1 Local transmission 0
+Turkey 191 51 2 1 Local transmission 0
+Russian Federation 147 54 0 0 Imported cases only 0
+San Marino 109 5 14 3 Local transmission 0
+Slovakia 105 8 0 0 Local transmission 0
+Serbia†† 96 11 0 0 Local transmission 0
+Bulgaria 92 11 2 0 Local transmission 0
+Armenia 84 32 0 0 Local transmission 0
+Croatia 81 16 0 0 Local transmission 0
+Latvia 71 11 0 0 Imported cases only 0
+Albania 59 2 2 1 Local transmission 0
+Cyprus 58 25 0 0 Local transmission 0
+Hungary 58 8 1 0 Local transmission 0
+Malta 48 10 0 0 Imported cases only 0
+Belarus 46 10 0 0 Local transmission 0
+Georgia 38 4 0 0 Imported cases only 0
 Bosnia and
-36
 Herzegovina
-Kazakhstan
-36
-North Macedonia
-36
-Republic of Moldova
-36
-Azerbaijan
-34
-Lithuania
-26
-Liechtenstein
-25
-Ukraine
-16
-Uzbekistan
-16
-Monaco
-9
-Kyrgyzstan
-3
-Montenegro
-2
-Holy See
-1
+36 7 0 0 Local transmission 0
+Kazakhstan 36 3 0 0 Imported cases only 0
+North Macedonia 36 5 0 0 Local transmission 0
+Republic of Moldova 36 0 0 0 Local transmission 1
+Azerbaijan 34 13 1 1 Imported cases only 0
+Lithuania 26 1 0 0 Imported cases only 0
+Liechtenstein 25 18 0 0 Imported cases only 0
+Ukraine 16 7 2 0 Local transmission 0
+Uzbekistan 16 0 0 0 Imported cases only 1
+Monaco 9 0 0 0 Under investigation 2
+Kyrgyzstan 3 3 0 0 Under investigation 0
+Montenegro 2 0 0 0 Imported cases only 1
+Holy See 1 0 0 0 Under investigation 12
 Territories**
-Faroe Islands
-58
-Andorra
-39
-Gibraltar
-8
-Jersey
-5
-Greenland
-2
-Guernsey
-1
+Faroe Islands 58 11 0 0 Imported cases only 0
+Andorra 39 23 0 0 Imported cases only 0
+Gibraltar 8 5 0 0 Under investigation 0
+Jersey 5 0 0 0 Imported cases only 1
+Greenland 2 0 0 0 Under investigation 1
+Guernsey 1 0 0 0 Imported cases only 9
 South-East Asia Region
-Indonesia
-227
-Thailand
-212
-India
-151
-Sri Lanka
-42
-Maldives
-13
-Bangladesh
-10
-Bhutan
-1
-Nepal
-1
+Indonesia 227 55 19 14 Local transmission 0
+Thailand 212 35 1 0 Local transmission 0
+India 151 14 3 0 Local transmission 0
+Sri Lanka 42 13 0 0 Local transmission 0
+Maldives 13 0 0 0 Local transmission 3
+Bangladesh 10 2 0 0 Local transmission 0
+Bhutan 1 0 0 0 Imported cases only 12
+Nepal 1 0 0 0 Imported cases only 55
 Eastern Mediterranean Region
 Iran (Islamic Republic
-17361
 of)
-Qatar
-442
-Bahrain
-256
-Pakistan
-241
-Saudi Arabia
-238
-Egypt
-196
-Iraq
-164
-Kuwait
-142
-Lebanon
-133
-United Arab Emirates
-113
-Jordan
-52
-Morocco
-49
-Oman
-33
-
-32
-16
-11
-2
-25
-8
-10
-10
-4
-
-0
-0
-0
-2
-0
-1
-0
-0
-0
-
-0
-0
-0
-1
-0
-0
-0
-0
-0
-
-Local transmission
-Local transmission
-Imported cases only
-Local transmission
-Local transmission
-Local transmission
-Imported cases only
-Local transmission
-Imported cases only
-
-0
-0
-0
-0
-0
-0
-0
-0
-0
-
-7
-
-0
-
-0
-
-Local transmission
-
-0
-
-3
-5
-0
-13
-1
-18
-7
-0
-0
-3
-0
-0
-
-0
-0
-0
-1
-0
-0
-2
-0
-0
-0
-0
-0
-
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-
-Imported cases only
-Local transmission
-Local transmission
-Imported cases only
-Imported cases only
-Imported cases only
-Local transmission
-Imported cases only
-Under investigation
-Under investigation
-Imported cases only
-Under investigation
-
-0
-0
-1
-0
-0
-0
-0
-1
-2
-0
-1
-12
-
-11
-23
-5
-0
-0
-0
-
-0
-0
-0
-0
-0
-0
-
-0
-0
-0
-0
-0
-0
-
-Imported cases only
-Imported cases only
-Under investigation
-Imported cases only
-Under investigation
-Imported cases only
-
-0
-0
-0
-1
-1
-9
-
-55
-35
-14
-13
-0
-2
-0
-0
-
-19
-1
-3
-0
-0
-0
-0
-0
-
-14
-0
-0
-0
-0
-0
-0
-0
-
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Imported cases only
-Imported cases only
-
-0
-0
-0
-0
-3
-0
-12
-55
-
-1192
-
-1135
-
-147
-
-Local transmission
-
-0
-
-0
-5
-54
-67
-30
-0
-12
-13
-15
-13
-11
-9
-
-0
-1
-0
-0
-6
-12
-0
-4
-0
-0
-2
-0
-
-0
-0
-0
-0
-2
-0
-0
-1
-0
-0
-0
-0
-
-Local transmission
-Local transmission
-Imported cases only
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Imported cases only
-Local transmission
-Imported cases only
-
-1
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-
-Tunisia
-Afghanistan
-Djibouti
-Somalia
-Sudan
+17361 1192 1135 147 Local transmission 0
+Qatar 442 0 0 0 Local transmission 1
+Bahrain 256 5 1 0 Local transmission 0
+Pakistan 241 54 0 0 Imported cases only 0
+Saudi Arabia 238 67 0 0 Local transmission 0
+Egypt 196 30 6 2 Local transmission 0
+Iraq 164 0 12 0 Local transmission 1
+Kuwait 142 12 0 0 Local transmission 0
+Lebanon 133 13 4 1 Local transmission 0
+United Arab Emirates 113 15 0 0 Local transmission 0
+Jordan 52 13 0 0 Imported cases only 0
+Morocco 49 11 2 0 Local transmission 0
+Oman 33 9 0 0 Imported cases only 0
+Tunisia 29 5 0 0 Local transmission 0
+Afghanistan 22 0 0 0 Imported cases only 1
+Djibouti 1 1 0 0 Under investigation 0
+Somalia 1 0 0 0 Imported cases only 2
+Sudan 1 0 1 0 Imported cases only 4
 Territories**
 occupied Palestinian
 territory
+44 3 0 0 Local transmission 0
 Region of the Americas
 United States of
 America
-Canada
-Brazil
-Chile
-Ecuador
-Peru
-Colombia
-Mexico
-Panama
-Argentina
-Costa Rica
+7087 3551 100 42 Local transmission 0
+Canada 569 145 8 7 Local transmission 0
+Brazil 291 57 1 1 Local transmission 0
+Chile 238 82 0 0 Local transmission 0
+Ecuador 155 97 2 0 Local transmission 0
+Peru 145 59 0 0 Local transmission 0
+Colombia 93 48 0 0 Local transmission 0
+Mexico 93 11 0 0 Imported cases only 0
+Panama 86 17 1 0 Local transmission 0
+Argentina 79 14 2 0 Local transmission 0
+Costa Rica 50 9 0 0 Local transmission 0
 Venezuela (Bolivarian
 Republic of)
-Uruguay
-Dominican Republic
-Jamaica
+36 3 0 0 Imported cases only 0
+Uruguay 29 23 0 0 Imported cases only 0
+Dominican Republic 21 0 1 0 Local transmission 1
+Jamaica 13 1 0 0 Local transmission 0
 Bolivia (Plurinational
 State of)
-Paraguay
-Cuba
-Honduras
-Trinidad and Tobago
-Guatemala
-Guyana
-Bahamas
-Barbados
-Saint Lucia
-Antigua and Barbuda
-Montserrat
+12 1 0 0 Imported cases only 0
+Paraguay 11 2 0 0 Local transmission 0
+Cuba 10 5 1 0 Local transmission 0
+Honduras 9 1 0 0 Imported cases only 0
+Trinidad and Tobago 7 2 0 0 Imported cases only 0
+Guatemala 6 0 1 0 Imported cases only 1
+Guyana 4 1 1 0 Local transmission 0
+Bahamas 3 2 0 0 Local transmission 0
+Barbados 2 2 0 0 Imported cases only 0
+Saint Lucia 2 0 0 0 Imported cases only 3
+Antigua and Barbuda 1 0 0 0 Imported cases only 5
+Montserrat 1 1 0 0 Imported cases only 0
 Saint Vincent and the
 Grenadines
-Suriname
+1 0 0 0 Imported cases only 5
+Suriname 1 0 0 0 Imported cases only 3
 Territories**
-Guadeloupe
-Martinique
-French Guiana
-Puerto Rico
-Aruba
-Saint Martin
-Curaçao
-Saint Barthélemy
+Guadeloupe 33 15 0 0 Imported cases only 0
+Martinique 23 7 0 0 Imported cases only 0
+French Guiana 11 4 0 0 Imported cases only 0
+Puerto Rico 5 2 0 0 Imported cases only 0
+Aruba 4 2 0 0 Imported cases only 0
+Saint Martin 4 2 0 0 Under investigation 0
+Curaçao 3 0 0 0 Imported cases only 1
+Saint Barthélemy 3 0 0 0 Under investigation 3
 United States Virgin
 Islands
-Cayman Islands
-
-29
-22
-1
-1
-1
-
-5
-0
-1
-0
-0
-
-0
-0
-0
-0
-1
-
-0
-0
-0
-0
-0
-
-Local transmission
-Imported cases only
-Under investigation
-Imported cases only
-Imported cases only
-
-0
-1
-0
-2
-4
-
-44
-
-3
-
-0
-
-0
-
-Local transmission
-
-0
-
-7087
-
-3551
-
-100
-
-42
-
-Local transmission
-
-0
-
-569
-291
-238
-155
-145
-93
-93
-86
-79
-50
-
-145
-57
-82
-97
-59
-48
-11
-17
-14
-9
-
-8
-1
-0
-2
-0
-0
-0
-1
-2
-0
-
-7
-1
-0
-0
-0
-0
-0
-0
-0
-0
-
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Local transmission
-Imported cases only
-Local transmission
-Local transmission
-Local transmission
-
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-
-36
-
-3
-
-0
-
-0
-
-Imported cases only
-
-0
-
-29
-21
-13
-
-23
-0
-1
-
-0
-1
-0
-
-0
-0
-0
-
-Imported cases only
-Local transmission
-Local transmission
-
-0
-1
-0
-
-12
-
-1
-
-0
-
-0
-
-Imported cases only
-
-0
-
-11
-10
-9
-7
-6
-4
-3
-2
-2
-1
-1
-
-2
-5
-1
-2
-0
-1
-2
-2
-0
-0
-1
-
-0
-1
-0
-0
-1
-1
-0
-0
-0
-0
-0
-
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-
-Local transmission
-Local transmission
-Imported cases only
-Imported cases only
-Imported cases only
-Local transmission
-Local transmission
-Imported cases only
-Imported cases only
-Imported cases only
-Imported cases only
-
-0
-0
-0
-0
-1
-0
-0
-0
-3
-5
-0
-
-1
-
-0
-
-0
-
-0
-
-Imported cases only
-
-5
-
-1
-
-0
-
-0
-
-0
-
-Imported cases only
-
-3
-
-33
-23
-11
-5
-4
-4
-3
-3
-
-15
-7
-4
-2
-2
-2
-0
-0
-
-0
-0
-0
-0
-0
-0
-0
-0
-
-0
-0
-0
-0
-0
-0
-0
-0
-
-Imported cases only
-Imported cases only
-Imported cases only
-Imported cases only
-Imported cases only
-Under investigation
-Imported cases only
-Under investigation
-
-0
-0
-0
-0
-0
-0
-1
-3
-
-2
-
-0
-
-0
-
-0
-
-Imported cases only
-
-1
-
-1
-
-0
-
-1
-
-0
-
-Imported cases only
-
-5
-
+2 0 0 0 Imported cases only 1
+Cayman Islands 1 0 1 0 Imported cases only 5
 African Region
-South Africa
-Algeria
-Senegal
-Burkina Faso
-Rwanda
-Cameroon
-Cote d’Ivoire
-Ghana
-Nigeria
+South Africa 116 54 0 0 Local transmission 0
+Algeria 72 12 6 2 Local transmission 0
+Senegal 36 9 0 0 Local transmission 0
+Burkina Faso 26 6 1 1 Imported cases only 0
+Rwanda 11 4 0 0 Local transmission 0
+Cameroon 10 5 0 0 Local transmission 0
+Cote d’Ivoire 9 3 0 0 Imported cases only 0
+Ghana 9 1 0 0 Imported cases only 0
+Nigeria 8 6 0 0 Imported cases only 0
 Democratic Republic
 of the Congo
-Kenya
-Ethiopia
-Seychelles
-Congo
-Equatorial Guinea
-Gabon
-Mauritius
+7 4 0 0 Local transmission 0
+Kenya 7 4 0 0 Local transmission 0
+Ethiopia 6 1 0 0 Imported cases only 0
+Seychelles 6 2 0 0 Imported cases only 0
+Congo 3 2 0 0 Imported cases only 0
+Equatorial Guinea 3 2 0 0 Imported cases only 0
+Gabon 3 2 0 0 Imported cases only 0
+Mauritius 3 3 0 0 Under investigation 0
 United Republic of
 Tanzania
-Liberia
-Mauritania
-Namibia
-Zambia
-Benin
+3 2 0 0 Imported cases only 0
+Liberia 2 1 0 0 Local transmission 0
+Mauritania 2 1 0 0 Imported cases only 0
+Namibia 2 0 0 0 Imported cases only 4
+Zambia 2 2 0 0 Imported cases only 0
+Benin 1 0 0 0 Imported cases only 1
 Central African
 Republic
-Eswatini
-Gambia
-Guinea
-Togo
+1 0 0 0 Imported cases only 4
+Eswatini 1 0 0 0 Imported cases only 4
+Gambia 1 1 0 0 Imported cases only 0
+Guinea 1 0 0 0 Imported cases only 4
+Togo 1 0 0 0 Imported cases only 11
 Territories**
-Réunion
-Mayotte
+Réunion 12 3 0 0 Imported cases only 0
+Mayotte 3 2 0 0 Imported cases only 0
 Subtotal for all
 regions
+209127 16556 8771 828
 International
 conveyance
 (Diamond Princess)
-Grand total
-
-116
-72
-36
-26
-11
-10
-9
-9
-8
-
-54
-12
-9
-6
-4
-5
-3
-1
-6
-
-0
-6
-0
-1
-0
-0
-0
-0
-0
-
-0
-2
-0
-1
-0
-0
-0
-0
-0
-
-Local transmission
-Local transmission
-Local transmission
-Imported cases only
-Local transmission
-Local transmission
-Imported cases only
-Imported cases only
-Imported cases only
-
-0
-0
-0
-0
-0
-0
-0
-0
-0
-
-7
-
-4
-
-0
-
-0
-
-Local transmission
-
-0
-
-7
-6
-6
-3
-3
-3
-3
-
-4
-1
-2
-2
-2
-2
-3
-
-0
-0
-0
-0
-0
-0
-0
-
-0
-0
-0
-0
-0
-0
-0
-
-Local transmission
-Imported cases only
-Imported cases only
-Imported cases only
-Imported cases only
-Imported cases only
-Under investigation
-
-0
-0
-0
-0
-0
-0
-0
-
-3
-
-2
-
-0
-
-0
-
-Imported cases only
-
-0
-
-2
-2
-2
-2
-1
-
-1
-1
-0
-2
-0
-
-0
-0
-0
-0
-0
-
-0
-0
-0
-0
-0
-
-Local transmission
-Imported cases only
-Imported cases only
-Imported cases only
-Imported cases only
-
-0
-0
-4
-0
-1
-
-1
-
-0
-
-0
-
-0
-
-Imported cases only
-
-4
-
-1
-1
-1
-1
-
-0
-1
-0
-0
-
-0
-0
-0
-0
-
-0
-0
-0
-0
-
-Imported cases only
-Imported cases only
-Imported cases only
-Imported cases only
-
-4
-0
-4
-11
-
-12
-3
-
-3
-2
-
-0
-0
-
-0
-0
-
-Imported cases only
-Imported cases only
-
-0
-0
-
-209127
-
-16556
-
-8771
-
-828
-
-712
-
-0
-
-7
-
-0
-
-Local transmission
-
-3
-
-209839
-
-16556
-
-8778
-
-828
-
+712 0 7 0 Local transmission 3
+Grand total 209839 16556 8778 828
 *
-
 Numbers include both domestic and repatriated cases
 †The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on
 the part of WHO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its
@@ -1589,17 +363,12 @@ evidence; they may be removed from a given category if interruption of transmiss
 categories, different countries/territories/areas may have differing degrees of transmission as indicated by the differing numbers of cases and
 other factors. Not all locations within a given country/territory/area are equally affected.
 Terms:
--
-
--
-
-Community transmission is evidenced by the inability to relate confirmed cases through chains of transmission for a large number of cases, or by
+- Community transmission is evidenced by the inability to relate confirmed cases through chains of transmission for a large number of cases, or by
 increasing positive tests through sentinel samples (routine systematic testing of respiratory samples from established laboratories).
-Local transmission indicates locations where the source of infection is within the reporting location.
-Imported cases only indicates locations where all cases have been acquired outside the location of reporting.
-Under investigation indicates locations where type of transmission has not been determined for any cases.
-Interrupted transmission indicates locations where interruption of transmission has been demonstrated (details to be determined)
-
+- Local transmission indicates locations where the source of infection is within the reporting location.
+- Imported cases only indicates locations where all cases have been acquired outside the location of reporting.
+- Under investigation indicates locations where type of transmission has not been determined for any cases.
+- Interrupted transmission indicates locations where interruption of transmission has been demonstrated (details to be determined)
 ** “Territories” include territories, areas, overseas dependencies and other jurisdictions of similar status
 ††Including 13 cases from Kosovo[1]
 [1] All references to Kosovo should be understood to be in the context of the United Nations Security Council resolution 1244 (1999).
@@ -1608,83 +377,55 @@ reflect the exact difference between yesterday’s and today’s totals. WHO COV
 COVID-19 cases, thus differences between WHO reports and other sources of COVID-19 data using different inclusion criteria and different
 data cutoff times are to be expected.
 New countries/territories/areas are shown in red.
-
 Figure 2. Epidemic curve of confirmed COVID-19, by date of report and WHO region through 19 March 2020
-
-STRATEGIC OBJECTIVES
-WHO’s strategic objectives for this response are to:
-•
-•
-•
-•
-•
-•
-
-Interrupt human-to-human transmission including reducing secondary infections among close contacts
-and health care workers, preventing transmission amplification events, and preventing further
-international spread*;
-Identify, isolate and care for patients early, including providing optimized care for infected patients;
-Identify and reduce transmission from the animal source;
-Address crucial unknowns regarding clinical severity, extent of transmission and infection, treatment
-options, and accelerate the development of diagnostics, therapeutics and vaccines;
-Communicate critical risk and event information to all communities and counter misinformation;
-Minimize social and economic impact through multisectoral partnerships.
-
-*This can be achieved through a combination of public health measures, such as rapid identification, diagnosis
-and management of the cases, identification and follow up of the contacts, infection prevention and control in
-health care settings, implementation of health measures for travelers, awareness-raising in the population and
-risk communication.
-
-PREPAREDNESS AND RESPONSE
-•
-•
-
-•
-
-•
-•
-
-•
-•
-•
-•
-•
-
-To view all technical guidance documents regarding COVID-19, please go to this webpage.
-WHO has developed interim guidance for laboratory diagnosis, advice on the use of masks during home care and
+PREPAREDNESS AND RESPONSE
+• To view all technical guidance documents regarding COVID-19, please go to this webpage.
+• WHO has developed interim guidance for laboratory diagnosis, advice on the use of masks during home care and
 in health care settings in the context of the novel coronavirus (2019-nCoV) outbreak, clinical management,
 infection prevention and control in health care settings, home care for patients with suspected novel
 coronavirus, risk communication and community engagement and Global Surveillance for human infection with
 novel coronavirus (2019-nCoV).
-WHO is working closely with International Air Transport Association (IATA) and have jointly developed a
+• WHO is working closely with International Air Transport Association (IATA) and have jointly developed a
 guidance document to provide advice to cabin crew and airport workers, based on country queries. The
 guidance can be found on the IATA webpage.
-WHO has been in regular and direct contact with Member States where cases have been reported. WHO is also
+• WHO has been in regular and direct contact with Member States where cases have been reported. WHO is also
 informing other countries about the situation and providing support as requested.
-WHO is working with its networks of researchers and other experts to coordinate global work on surveillance,
+• WHO is working with its networks of researchers and other experts to coordinate global work on surveillance,
 epidemiology, mathematical modelling, diagnostics and virology, clinical care and treatment, infection
 prevention and control, and risk communication. WHO has issued interim guidance for countries, which are
 updated regularly.
-WHO has prepared a disease commodity package that includes an essential list of biomedical equipment,
+• WHO has prepared a disease commodity package that includes an essential list of biomedical equipment,
 medicines and supplies necessary to care for patients with 2019-nCoV.
-WHO has provided recommendations to reduce risk of transmission from animals to humans.
-WHO has published an updated advice for international traffic in relation to the outbreak of the novel
+• WHO has provided recommendations to reduce risk of transmission from animals to humans.
+• WHO has published an updated advice for international traffic in relation to the outbreak of the novel
 coronavirus 2019-nCoV.
-WHO has activated the R&D blueprint to accelerate diagnostics, vaccines, and therapeutics.
-OpenWHO is an interactive, web-based, knowledge-transfer platform offering online courses to improve the
+• WHO has activated the R&D blueprint to accelerate diagnostics, vaccines, and therapeutics.
+• OpenWHO is an interactive, web-based, knowledge-transfer platform offering online courses to improve the
 response to health emergencies. COVID-19 courses can be found here. Specifically, WHO has developed online
 courses on the following topics: A general introduction to emerging respiratory viruses, including novel
-
-•
-
-coronaviruses (available in Arabic, Chinese, English, French, Russian, Spanish, Portuguese, Persian, Serbian, and
+STRATEGIC OBJECTIVES
+WHO’s strategic objectives for this response are to:
+• Interrupt human-to-human transmission including reducing secondary infections among close contacts
+and health care workers, preventing transmission amplification events, and preventing further
+international spread*;
+• Identify, isolate and care for patients early, including providing optimized care for infected patients;
+• Identify and reduce transmission from the animal source;
+• Address crucial unknowns regarding clinical severity, extent of transmission and infection, treatment
+options, and accelerate the development of diagnostics, therapeutics and vaccines;
+• Communicate critical risk and event information to all communities and counter misinformation;
+• Minimize social and economic impact through multisectoral partnerships.
+*This can be achieved through a combination of public health measures, such as rapid identification, diagnosis
+and management of the cases, identification and follow up of the contacts, infection prevention and control in
+health care settings, implementation of health measures for travelers, awareness-raising in the population and
+risk communication.
+coronaviruses (available in Arabic, Chinese, English, French, Russian, Spanish, Portuguese, Persian, Serbian, and
 Turkish); Clinical Care for Severe Acute Respiratory Infections (available in English, French, Russian, and
 Vietnamese); Health and safety briefing for respiratory diseases - ePROTECT (available in English, French,
 Russian, Indonesian, and Portuguese); Infection Prevention and Control for Novel Coronavirus (COVID-19)
 (available in English, French, Russian, Spanish, Indonesian, Italian, Japanese, Portuguese, and Serbian); and
 COVID-19 Operational Planning Guidelines and COVID-19 Partners Platform to support country preparedness
 and response (available in English and coming soon in additional languages).
-WHO is providing guidance on early investigations, which are critical in an outbreak of a new virus. The data
+• WHO is providing guidance on early investigations, which are critical in an outbreak of a new virus. The data
 collected from the protocols can be used to refine recommendations for surveillance and case definitions, to
 characterize the key epidemiological transmission features of COVID-19, help understand spread, severity,
 spectrum of disease, impact on the community and to inform operational models for implementation of
@@ -1694,7 +435,6 @@ contact investigation protocol for 2019-novel coronavirus (2019-nCoV) infection�
 gain an early understanding of the key clinical, epidemiological and virological characteristics of the first cases of
 COVID-19 infection detected in any individual country, to inform the development and updating of public health
 guidance to manage cases and reduce the potential spread and impact of infection.
-
 RECOMMENDATIONS AND ADVICE FOR THE PUBLIC
 If you are not in an area where COVID-19 is spreading or have not travelled from an area where COVID-19 is
 spreading or have not been in contact with an infected patient, your risk of infection is low. It is understandable that
@@ -1709,7 +449,6 @@ will cause mild illness however, it can make some people very ill and, in some p
 and those with pre-existing medical conditions (such as cardiovascular disease, chronic respiratory disease or
 diabetes) are at risk for severe disease (See Protection measures for persons who are in or have recently visited (past
 14 days) areas where COVID-19 is spreading).
-
 CASE DEFINITIONS
 WHO periodically updates the Global Surveillance for human infection with coronavirus disease (COVID-19)
 document which includes case definitions.
@@ -1720,19 +459,16 @@ cough, shortness of breath), AND with no other etiology that fully explains the 
 history of travel to or residence in a country/area or territory reporting local transmission (See situation
 report) of COVID-19 disease during the 14 days prior to symptom onset.
 OR
-
-B. A patient with any acute respiratory illness AND having been in contact with a confirmed or probable COVID19 case (see definition of contact) in the last 14 days prior to onset of symptoms;
+B. A patient with any acute respiratory illness AND having been in contact with a confirmed or probable COVID-
+19 case (see definition of contact) in the last 14 days prior to onset of symptoms;
 OR
 C. A patient with severe acute respiratory infection (fever and at least one sign/symptom of respiratory disease
 (e.g., cough, shortness breath) AND requiring hospitalization AND with no other etiology that fully explains
 the clinical presentation.
 Probable case
 A suspect case for whom testing for COVID-19 is inconclusive.
-•
-Inconclusive being the result of the test reported by the laboratory
+• Inconclusive being the result of the test reported by the laboratory
 Confirmed case
 A person with laboratory confirmation of COVID-19 infection, irrespective of clinical signs and symptoms.
-•
-Information regarding laboratory guidance can be found here.
-
+• Information regarding laboratory guidance can be found here.
 

@@ -20,6 +20,10 @@ foreach($keywords as $k=>$v) {
 $errors = 0;
 $reports = glob('reports/*/*', GLOB_ONLYDIR);
 foreach ($reports as $path) {
+    $basename = basename($path);
+    if ($basename == 'tmp') {
+        continue;
+    }
     $discarded = $path.'/discarded.txt';
     $checked = $path.'/checked.txt';
     if (is_file($discarded) || is_file($checked)) {
@@ -35,19 +39,11 @@ foreach ($reports as $path) {
         echo "MISSING report.json $path\n";
         continue;
     }
-    $report = json_decode(file_get_contents($path_report), true);
-    if (isset($report['output'])) {
-        $path_file = $path.'/'.$report['output'];
-    }
-    $uri = $report['uri'] ?? '';
-    $filename = $report['filename'] ?? '';
-    $has_keyword = false;
+    $raw = file_get_contents($path_raw);
 
     foreach ($keywords as $word) {
-        if (stripos($uri,$word) !== false
-            || stripos($filename,$word) !== false) {
+        if (stripos($raw,$word) !== false) {
             echo "REMOVING $path\n";
-            exit;
             exec("rm -r $path");
             $errors++;
             break;
