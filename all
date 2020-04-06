@@ -8,7 +8,7 @@
 # Fix korean files (encoding/date)
 ./scripts/kr/files_fix && \
 # Forcefully check files
-#./scripts/checkall jp && \
+./scripts/checkall jp && \
 #./scripts/checkall ec && \
 #./scripts/checkall ae && \
 #./scripts/checkall gt && \

@@ -1,0 +1,28 @@
+{
+    "filename": "Plan-CONTINGENCIA-COVID-19.pdf",
+    "uri": "https:\/\/www.msp.gob.do\/web\/wp-admin\/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=60&wpfd_file_id=6895",
+    "output": "file.pdf",
+    "downloaded": 1586141094,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 06 Apr 2020 02:44:52 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubdomains",
+        "x-content-type-options": "nosniff",
+        "set-cookie": "PHPSESSID=46otslqugeagc5l238fdkra6q6; path=\/",
+        "expires": "-1",
+        "cache-control": "public, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "public",
+        "x-robots-tag": "noindex",
+        "x-frame-options": "SAMEORIGIN",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "content-disposition": "attachment; filename=\"Plan-CONTINGENCIA-COVID-19.pdf\"",
+        "content-length": "582983",
+        "accept-ranges": "bytes",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 582983,
+    "modified": 1586141097
+}

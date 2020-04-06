@@ -6,6 +6,12 @@
 * [https://www.msp.gob.do/web/?page_id=6547](https://www.msp.gob.do/web/?page_id=6547)
 
 
+## 2020-04-06
+
+* [Plan-CONTINGENCIA-COVID-19.pdf](fd7f2480f2b8709db08622d7efb9b8a676ba8d72/file.pdf) @02:44 GMT
+* [Directriceds-Adultos-mayores-COVID-19.pdf](073e8c4fc1eba1bcd97500e8d2cee94819b1f831/file.pdf) @02:44 GMT
+* [Boletin-especial-17-COVID-19-05-04-2020.pdf](0cdd1842c91d2720fa1f8096d60012a3b0eca495/file.pdf) @02:44 GMT
+
 ## 2020-04-05
 
 * [MSP-Presupuesto-Consolidado-PIC-para-compras-y-contrataciones-necesarias-referente-al-COVID-19.pdf](a2b39eb23d5e74da750eb3df11d9b406b04e7d7f/file.pdf) @12:25 GMT

@@ -4,6 +4,11 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-06
+
+* [4030-autoridades-establecen-tres-hospitales-exclusivos-para-la-atencion-de-covid-19-en-la-paz-y-el-alto](534efa3eb2f13009f8ed76eb9838f72251f48771/file.pdf) @03:03 GMT
+* [4031-ministerio-de-salud-y-autoridades-de-santa-cruz-resuelven-extremar-medidas-contra-el-coronavirus](7d8577176b8eec3fbe09b31ec7e988b9a634b420/file.pdf) @03:02 GMT
+
 ## 2020-04-05
 
 * [4029-ministro-de-salud-inspecciona-en-los-yungas-la-capacidad-de-centros-de-salud-ante-el-coronavirus](eb7872e8799fcbbd48fae57f99533d190f657a60/file.pdf) @00:12 GMT

@@ -1,0 +1,28 @@
+{
+    "filename": "Directriceds-Adultos-mayores-COVID-19.pdf",
+    "uri": "https:\/\/www.msp.gob.do\/web\/wp-admin\/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=60&wpfd_file_id=6899",
+    "output": "file.pdf",
+    "downloaded": 1586141086,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 06 Apr 2020 02:44:44 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubdomains",
+        "x-content-type-options": "nosniff",
+        "set-cookie": "PHPSESSID=5empejn1ouhdampaja26k0fa41; path=\/",
+        "expires": "-1",
+        "cache-control": "public, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "public",
+        "x-robots-tag": "noindex",
+        "x-frame-options": "SAMEORIGIN",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "content-disposition": "attachment; filename=\"Directriceds-Adultos-mayores-COVID-19.pdf\"",
+        "content-length": "1116347",
+        "accept-ranges": "bytes",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1116347,
+    "modified": 1586141091
+}

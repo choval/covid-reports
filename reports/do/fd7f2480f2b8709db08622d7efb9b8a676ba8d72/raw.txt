@@ -1,0 +1,1297 @@
+PLAN DE CONTINGENCIA
+ANTE ENFERMEDAD
+POR CORONAVIRUS
+(COVID-19)
+Ministerio de Salud Pública
+Plan de contingencia
+ante enfermedad por
+coronavirus (COVID-19)
+Santo Domingo, D. N., República Dominicana
+Marzo 2020
+Dirección de Gestión de Riesgos y Atención a Desastres
+Este Plan se encuentra en revisión y actualización continua, atendiendo a la evolución del evento
+y la más reciente información disponible respecto al nuevo coronavirus (SARS-CoV-2) y la en-
+fermedad COVID-19
+Diseño y Diagramación:
+Vishnu Rafael Almonte H.
+©Ministerio de Salud Pública, 2020
+Ministerio de Salud Pública
+AUTORIDADES
+Dr. Rafael Sánchez Cárdenas
+Ministro de Salud Pública
+Dr. Héctor Quezada Ariza
+Viceministro de Salud Colectiva
+Dr. Juan José Santana Medrano
+Viceministro de Planificación y Desarrollo
+Dr. Neftalí Vásquez
+Viceministro de Garantía de la Calidad
+Dra. Luz Herrera
+Directora General de Salud Colectiva
+Dra. Farah Peña
+Directora General de Epidemiologia
+Dr. José Luis Cruz Raposo
+Director de Gestión de Riesgos y Atención a Desastres
+Dr. Ubardino Rafael Jáquez Florencio
+Director de la Oficina de Coordinación de la Gestión Desconcentrada de la Rectoría
+Dr. Oscar Suriel
+Director de Gestión de Salud de la Población
+Lic. Georgina Durán
+Encargada Departamento de Apoyo a la Promoción y Educación en Salud
+EQUIPO RESPONSABLE
+Redacción
+Dr. José Luis Cruz Raposo
+Director de Gestión de Riesgos y Atención a Desastres
+Coordinación técnica
+Dra. Farah Peña
+Directora General de Epidemiología
+Dra. Venecia Ramírez
+Encargada Depto. Alerta Temprana, Dirección General Epidemiología
+Dr. Oscar Suriel
+Director de Gestión de Salud de la Población
+Dr. José Manuel Puello Montero
+Director del Centro de Prevención y Control de Enfermedades Transmitida por Vectores y
+Zoonosis (CECOVEZ)
+Lic. Georgina Durán
+Encargada Departamento de Apoyo a la Promoción y Educación en Salud
+Dra. Mariam Montes de Oca
+Encargada Departamento de Urgencias y Emergencias del Servicio Nacional de Salud
+Lic. Mayobanex Montero Tapia
+Director General de Emergencias Médicas
+Dr. Joan Nicolás Martínez Herrera
+Encargado de Atención a Emergencias Sanitarias y Desastres, DGRAD
+Lic. Andrés de los Santos
+Analista de Planificación, DGRAD
+Dra. Francini Placencia
+Directora General de Monitoreo y Evaluación de la Calidad de los Servicios de Salud
+Capitán de Navío, Cirujano William Suazo
+Centro de Operaciones de Emergencias (COE)
+Edwin Olivares
+Centro de Operaciones de Emergencias (COE)
+Organización Panamericana de la Salud/Organización Mundial de la Salud
+(OPS/OMS)
+Dra. Alma Morales Salinas
+Representante
+Dr. Martin Acosta
+Programa de Emergencias en Salud
+Dr. Hernán Rodríguez González
+Asesor de Sistemas y Servicios de Salud
+Dra. Yenny Rocío Neira
+Asesora de Inmunizaciones
+Lic. Rosario Guzmán
+Consultora de Gestión del Conocimiento y Publicaciones
+Dra. Michelle Jiménez
+Consultora de Sistemas y Servicios de Salud
+Centro para la Prevención y Control de Enfermedades de los Estados Unidos
+de América (CDC)
+Dr. Luis Bonilla
+Director en funciones del CDC Dominicana
+CONTENIDO
+PRESENTACIÓN 11
+INTRODUCCIÓN 13
+1. BASE LEGAL 13
+2. ANTECEDENTES 14
+3. JUSTIFICACIÓN 15
+4. ESCENARIOS DE RIESGO 15
+5. OBJETIVOS 15
+6. ALCANCE DEL PLAN 16
+7. ACTIVACIÓN DEL PLAN 16
+7.1 Organización del sector salud ante emergencia por covid-19 16
+8. LÍNEAS ESTRATÉGICAS Y ACCIONES PARA LA PREPARACIÓN
+Y RESPUESTAAL COVID-19 18
+8.1 Liderazgo 19
+8.2 Coordinación intrasectorial 19
+8.3 Coordinación multisectorial 20
+8.4 Vigilancia epidemiológica, investigación y evaluación 21
+8.5 Laboratorio y diagnóstico 22
+8.6 Comunicación del riesgo 23
+8.7 Prevención y control de infecciones 24
+8.8 Atención prehospitalaria y manejo clínico de los casos 26
+8.8.1 Atención prehospitalaria 26
+8.8.2 Manejo clínico de los casos 27
+8.9 Soporte operacional y logístico de suministros 28
+9. RECURSOS DEL MSP PARA RESPONDER ANTE EVENTOS 29
+10. PRESUPUESTO 29
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 11
+PRESENTACIÓN
+El Ministerio de Salud Pública (MSP), como ente rector del sistema nacional de salud, tiene la responsabil-
+idad de promover, proteger, mejorar y restaurar la salud de las personas y comunidades, así como, ejercer la
+rectoría de dicho sistema para regular la producción social de la salud, dirigir y conducir políticas y acciones
+sanitarias, movilizar recursos de toda índole, coordinar acciones de las diferentes instituciones públicas y
+privadas y de otros actores sociales comprometidos con la producción de la salud para el cumplimiento de
+las políticas nacionales de salud, según expresan los artículos 7 y 8 de la Ley General de Salud No. 42-01.
+El presente documento técnico es una herramienta que contiene las líneas estratégicas para la preparación y
+respuesta ante el riesgo de introducción de una infección por el nuevo coronavirus (COVID-19).
+La OPS/OMS alienta a los Estados Miembros a fortalecer las actividades de vigilancia para detectar pa-
+cientes con enfermedad respiratoria aguda según las definiciones de caso establecidas, y a garantizar que
+los trabajadores de la salud tengan acceso a información actualizada sobre esta enfermedad, verifiquen las
+prácticas de prevención y control de infecciones en los establecimientos de salud, que estén familiarizados
+con los principios y procedimientos para manejar las infecciones por coronavirus y a que estén capacitados
+para manejar adecuadamente las infecciones por coronavirus.
+Ante esta situación se hace necesario que el Ministerio de Salud, el Servicio Nacional de Salud (SNS) y
+otros sectores involucrados en la respuesta dispongan de medidas y recursos especiales para reforzar y
+mejorar cuantitativa y cualitativamente la respuesta nacional ante esta emergencia de salud pública de im-
+portancia internacional.
+Dr. Rafael Sánchez Cárdenas
+Ministro de Salud Pública
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 13
+INTRODUCCIÓN
+Los coronavirus son una gran familia de virus respiratorios que se encuentran en todo el mundo y causan
+una variedad de enfermedades en los animales y en los humanos. En los humanos, los coronavirus pueden
+causar enfermedades que en mayor proporción son leves como el resfriado común, y pueden llegar a ser
+graves, como el síndrome respiratorio agudo severo (SARS), el síndrome respiratorio severo de medio
+oriente (MERS-CoV) y el nuevo coronavirus 2019-nCoV, responsable del brote de neumonía que inició en
+la ciudad de Wuhan, China, en diciembre de 2019. Desde el 16 de enero de 2020 y hasta el 22 de marzo
+de 2020, 186 países han reportado a la Organización Mundial de la Salud (OMS) un total de 294,110
+casos confirmados; asimismo, se han notificado 12,940 muertes correspondiendo el 62,4% de los casos
+a China e Italia (este último con un 37,2%). El seguimiento epidemiológico hasta la fecha muestra un
+período de incubación de 2 a 14 días. El 30 de enero, la Organización Mundial de la Salud (OMS) declaró
+una emergencia de salud pública de importancia internacional1
+y el 11 de febrero le asignó el nombre de
+“COVID-19” (SARS-CoV-2)2
+. El 11 de marzo, la OMS declaró la pandemia por COVID-193
+.
+Los síntomas más comunes del COVID-19 son fiebre, cansancio y tos seca. Algunos pacientes pueden
+presentar dolores, congestión nasal, rinorrea, dolor de garganta o diarrea. Estos síntomas suelen ser leves y
+aparecen de forma gradual. La mayoría de las personas (alrededor del 80%) se recupera de la enfermedad
+sin necesidad de realizar ningún tratamiento especial. Alrededor de 1 de cada 6 personas que contraen la
+COVID-19 desarrolla una enfermedad grave y tiene dificultad para respirar. Las personas mayores y las
+que padecen afecciones médicas subyacentes, como hipertensión arterial, problemas cardiacos o diabetes,
+tienen más probabilidades de desarrollar una enfermedad grave.
+Una persona puede contraer la COVID-19 por contacto con otra que esté infectada por el virus. La
+enfermedad puede propagarse de persona a persona a través de las gotículas procedentes de la nariz o
+la boca que salen despedidas cuando una persona infectada tose o exhala. Estas gotículas caen sobre los
+objetos y superficies que rodean a la persona, de modo que otras personas pueden contraer la enfermedad si
+tocan estos objetos o superficies y luego se tocan los ojos, la nariz o la boca. También pueden contagiarse
+si inhalan las gotículas que haya esparcido una persona con COVID-19 al toser o exhalar. Por eso es
+importante mantenerse a más de 1 metro (3 pies) de distancia de una persona que se encuentre enferma. La
+OMS está estudiando las investigaciones en curso sobre las formas de propagación del COVID-19 y seguirá
+informando sobre los resultados actualizados.
+En la República Dominicana se han confirmado a la fecha (22 de marzo de 2020) , 245 casos de COVID-19,
+incluyendo 3 fallecimientos. De los casos confirmados, 43 tienen antecedentes de viajes a países con
+transmisión local del virus. Ante esta situación se hace necesario que el Ministerio de Salud ponga a
+disposición este Plan de preparación y respuesta en los diferentes escenarios que pueden presentarse en el
+país (casos importados, conglomerado de casos y transmisión comunitaria) del COVID-19.
+1. BASE LEGAL
+• Constitución de la República Dominicana del 13 de junio del 2015
+• Ley 42-01, General de Salud.
+• Ley 87-01, Que crea el Sistema Dominicano de Seguridad Social.
+• Ley 147-02, sobre sistema de Gestión de Riesgos.
+• Ley 166-12, que crea el Sistema Dominicano para la Calidad.
+• Ley 123-15, sobre creación del Servicio Nacional de Salud (SNS).
+1 WHO. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). 30 January 2020.
+Disponible en: https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-
+outbreak-of-novel-coronavirus-(2019-ncov)
+2 OPS. Nuevo coronavirus (COVID-19) - Actualización epidemiológica 14 de febrero 2020. Disponible en: https://www.paho.org/hq/index.php?option=com_content&view=article&id=15725:14-
+february-2020-novel-coronavirus-ncov-epidemiological-update&Itemid=42346&lang=es
+3 https://www.who.int/es/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+14
+• Decreto 309-07: que establece el Reglamento del Sistema Nacional de Vigilancia Epidemiológica.
+• Decreto 126-09, que establece el Reglamento de Manejo de Desechos Infecciosos en Centros de
+Salud y afines.
+• Decreto 084-16, Reglamento de salud de los viajeros y del servicio de sanidad marítima, aérea y de
+pasos fronterizos terrestres.
+• Decreto 635-03, que consagra el Reglamento de rectoría y separación de funciones.
+• Decreto 1137-03, que define el Reglamento de Provisión de las Redes de los Servicios de Salud
+(específicamente los artículos 29, 30 y 31 sobre la organización ante emergencias).
+• Decreto 213-09, Reglamento para Emergencias y Desastres del Ministerio de Salud.
+• Decreto 360-01, que crea el Centro de Operaciones de Emergencias (COE).
+• Decreto 874-09, Reglamento de aplicación de la Ley 147-02; define funciones del MSP.
+• Reglamento Sanitario Internacional (RSI 2005): 3a ed.
+• Resolución Ministerio de Salud No. 0001, que pone en vigencia la Norma Nacional para la Prevención
+y Control de Infecciones en los Establecimientos de Salud, del 08 de enero del 2013.
+• Ley No. 3003 sobre policía de Puertos y Costas, del 4 de agosto del 1951.
+• Ley Orgánica del Ministerio de Industria y Comercio No. 290-66, del 30 de junio del 1966.
+• Ley No. 70, que crea la Autoridad Portuaria Dominicana, del 22 de octubre del 1970.
+• La Ley No. 64-00, que crea la Secretaría de Estado de Medio Ambiente y Recursos Naturales del 18
+de agosto de 2000.
+• Ley sobre migración No. 285, del 15 de agosto de 2004, y su Reglamento de Aplicación Decreto No.
+613-11.
+• Ley No. 491-06, de Aviación Civil, del 28 de diciembre de 2006.
+• Ley No. 172-13, que tiene por objeto la protección integral de los datos personales asentados
+en archivos, registros públicos, bancos de datos u otros medios técnicos de tratamiento de datos
+destinados a dar informes, sean estos públicos o privados, del 15 de diciembre de 2013.
+2. ANTECEDENTES
+El 31 de diciembre de 2019, las autoridades de la ciudad de Wuhan, provincia de Hubei, China, reportaron
+sobre un conglomerado de 27 casos de síndrome respiratorio agudo de etiología desconocida (7 de ellos
+fueron reportados como severos); entre personas vinculadas a un mercado húmedo (de productos marinos)
+en la ciudad de Wuhan. Con el tiempo se determinó que se trata de un nuevo coronavirus que no se había
+visto en seres humanos. Posteriormente la OMS definió el nombre COVID-19 a la enfermedad causada por
+este nuevo virus.
+Desde la Alerta Epidemiológica de la OPS/OMS sobre el nuevo coronavirus (2019-nCoV) publicada el
+16 de enero de 2020 y hasta el 22 de marzo de 2020, 186 países han reportado a la Organización Mundial
+de la Salud (OMS) un total de 294.110 casos confirmados; así mismo, se han notificado 12.940 muertes,
+correspondiendo el 62,4% de los casos a China e Italia (esta última con un 37,2%). El seguimiento
+epidemiológico hasta la fecha muestra un periodo de incubación de 2 a 14 días.
+En la Región de las Américas, se ha notificado un total de 20, 667 casos confirmados y un total de 265
+muertes reportadas hasta el 22 de marzo; Estados Unidos de América con (15, 249) Argentina (2), Canadá
+(1,048), Brasil (904) entre otros.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 15
+A la fecha (22 de marzo), de acuerdo con las informaciones emitidas por el ministro de Salud, en el país se
+han confirmado 245 casos de COVID-19, incluyendo 3 fallecimientos. De los casos confirmados, 43 tienen
+antecedentes de viajes a países con transmisión local del virus.
+Sobre la base de la información más reciente, los pacientes presentan diversos síntomas: fiebre (83%-98%),
+tos (68%) y dificultad para respirar (19%-35%). Además, se ha observado que el 81% de los casos parecen
+presentar un cuadro leve, 14% parece evolucionar a un cuadro grave y cerca de 5% son críticos.
+3. JUSTIFICACIÓN
+La República Dominicana recibe un importante flujo de viajeros anualmente procedentes de los cinco
+continentes, cifra que llegó a 7,126,857 en 2019. Debido a este importante flujo de viajeros de todas partes
+del mundo hacia la República Dominicana, la forma de transmisión de la enfermedad, la transmisión de
+personaapersona,larápidapropagacióndeunpaísaotroyelhechodequesetratadeunaemergenciadesalud
+pública de importancia internacional, dentro del marco del RSI, el país ha elaborado este plan estratégico
+contemplando las principales líneas estratégicas para la respuesta, como son: liderazgo, coordinación
+intersectorial y multisectorial, vigilancia epidemiológica, investigación y evaluación, laboratorio y
+diagnóstico, comunicación de riesgo, prevención y control de infecciones, manejo y tratamiento de los
+casos, soporte operacional y logístico.
+Este plan responde a los lineamientos y directrices del plan de preparación y respuesta estratégica de la
+OMS de febrero del año en curso.
+4. ESCENARIOS DE RIESGO
+La OMS ha definido cuatro escenarios de transmisión para COVID-194
+:
+1. Países sin casos (sin casos).
+2. Países con 1 o más casos, importados o localmente detectados (casos esporádicos).
+3. Países que experimentan casos agrupados en el tiempo, ubicación geográfica y/o exposición común
+(conglomerado de casos).
+4. Países que experimentan transmisión comunitaria.
+En el contexto nacional, para definir las acciones de cada línea estratégica, se han definido tres momentos
+epidemiológicos: preepidémico, epidémico y posepidémico. El momento preepidémico se corresponde al
+escenario 1 de la OMS (sin casos); el momento epidémico incorpora los escenarios 2, 3 y 4 de la OMS
+(casos esporádicos, conglomerado de casos y transmisión comunitaria). El momento posepidémico ha sido
+incorporado por las autoridades sanitarias del país.
+5. OBJETIVOS
+General:
+Garantizar la preparación y respuesta rápida ante la presencia de casos de COVID-19, con el fin de
+interrumpir la transmisión, de acuerdo con las estrategias definidas por el Ministerio de Salud Pública
+(MSP) y a los escenarios de transmisión establecidos por la OMS.
+4 Critical preparedness, readiness and response actions for COVID-19. Interim guidance. 7 March 2020
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+16
+Específicos:
+• Establecer la coordinación inter y multisectorial para la preparación y respuesta de los casos de
+COVID-19.
+• Determinar acciones de contención y mitigación de casos de COVID-19 mediante la detección,
+vigilancia, investigación, evaluación y aislamiento oportuno de casos detectados.
+• Fortalecer la capacidad y coordinación de la red prestadora de servicios de salud para el manejo de
+casos de COVID-19 de acuerdo con los protocolos establecidos.
+• Asegurar las acciones de comunicación de riesgo dirigidas a individuos, familia y comunidad, así
+como a los grupos de riesgo.
+• Garantizar el soporte operacional y logístico de los suministros para la preparación y respuesta de los
+casos de COVID-19.
+6. ALCANCE DEL PLAN
+El plan se aplicará a nivel nacional, regional, provincial y municipal e incluye las estrategias a implementar
+por cada uno de los sectores que conforman las estructuras gubernamentales y no gubernamentales, bajo el
+liderazgo del Ministerio de Salud Pública (MSP).
+7. ACTIVACIÓN DEL PLAN
+Ante la emisión de la alerta por el COVID-19, como evento de salud pública de importancia internacional
+(ESPII), el director/a general de Epidemiología es responsable de informar al ministro/a de Salud y al
+equipo que conforma la estructura organizativa para la activación de cada uno de los momentos incluidos
+en el plan.
+7.1 Organización del sector salud ante emergencia por COVID-19
+El Ministerio de Salud Pública establece tres niveles de organización para la prevención, preparación y
+respuesta a emergencias sanitarias:
+Estructura Organizativa del Sector Salud Nivel Central
+Se encarga de la toma de decisiones al más alto nivel del sector salud.
+Conformado por:
+• Ministro/a de Salud
+• Director del Servicio Nacional de Salud (SNS)
+• Viceministros/as de Salud
+• Director/a de Gestión de Riesgos y Atención a Desastres
+• Director/a General de Epidemiologia
+• Director/a de Gestión Desconcentrada de la Rectoría del Sector Salud
+• Director/a de Salud Colectiva.
+• Director/a de Emergencias Médicas
+• Director/a Laboratorio Nacional de Salud Pública “Dr. Defillo”.
+• Director/a de Comunicación Estratégica
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 17
+• Director/a de Gestión de Salud de la Población
+• Director/a de Análisis de Situación en Salud
+• Otras instituciones del sector salud
+El ministro/a, como responsable de la toma de decisiones al más alto nivel del sector salud, puede convocar
+a otras autoridades y agencias internacionales, tales como:
+• Representante OPS/OMS
+• Representante del Centro para el Control de Enfermedades de los Estados Unidos de América (CDC)
+• Otros organismos internacionales, agencias de cooperación e instituciones.
+Estructura Operativa:
+El Comité de Operaciones de Emergencias en Salud (COES) es el espacio de coordinación a nivel nacional
+que se encarga de gestionar y dirigir las operaciones siguiendo el Plan nacional de emergencia y lo
+establecido en los procedimientos operativos para la respuesta a emergencias sanitarias y desastres.
+El COES está compuesto por:
+• Dirección de Gestión de Riesgos y Atención a Desastres
+• Dirección General de Epidemiología (DIGEPI)
+• Dirección de Emergencias Médicas
+• Departamento de Salud Ambiental
+• Dirección Administrativa y Financiera
+• Oficina de Coordinación de la Gestión Desconcentrada de la Rectoría en Salud
+• Laboratorio Nacional de Salud Pública “Dr. Defilló” (LNSPDD)
+• Dirección de Bancos de Sangre
+• Departamento Salud Materno Infantil
+• Representante de la Dirección del Servicio Nacional de Salud
+• Departamento de Salud Mental
+• Departamento de Apoyo a la Promoción y Educación en Salud
+• Departamento de Transportación
+• Encargado de Almacenes
+• Dirección de Comunicación Estratégica
+• Un representante-asesor de la OPS/OMS
+• Departamento para el Control de las Infecciones de Transmisión Sexual y SIDA
+• Centro de Prevención y Control de Enfermedades Transmitidas por Vectores y Zoonosis (CECOVEZ)
+• Programa Ampliado de Inmunizaciones (PAI)
+• Programa Nacional para el Control de la Tuberculosis
+• Programa de Reducción de la Mortalidad por Accidentes de Tránsito (PREMAT)
+• Dirección General de Medicamentos, Alimentos y Productos Sanitarios (DIGEMAPS)
+• Encargado/a de Salud Ambiental
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+18
+Estructura Provincial:
+Integrado por:
+• Director/a provincial o de área de Salud (DPS/DAS)
+• Administrador de la DPS/DAS
+• Epidemiólogos o encargados/as de vigilancia epidemiológica de las DPS/DAS y establecimientos de
+salud
+• Encargados/as de programas de la dirección provincial o de área de salud
+• Directores regionales de salud y gerentes de área
+• Directores/as de establecimientos de salud públicos y privados
+• Autoridades de puntos de entrada internacionales aéreos, marítimos y pasos fronterizos terrestres
+• Autoridades municipales
+• Grupo de Agua, Saneamiento e Higiene (GASH) local
+• Organizaciones no Gubernamentales (ONG)
+• Grupos comunitarios
+• Juntas de vecinos
+• Iglesias
+8. LÍNEAS ESTRATÉGICAS Y ACCIONES PARA LA PREPARACIÓN Y
+RESPUESTAAL COVID-19
+Las líneas estratégicas contempladas para la preparación y respuesta son:
+• Liderazgo
+• Coordinación intersectorial
+• Coordinación multisectorial
+• Vigilancia epidemiológica, investigación y evaluación
+• Laboratorio y diagnóstico
+• Comunicación del riesgo
+• Prevención y control de infecciones
+• Atención prehospitalaria y manejo clínico de los casos
+• Soporte operacional y logístico de suministros
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 19
+8.1 Liderazgo
+Responsable: Ministro de Salud
+Atendiendo a la naturaleza y complejidad que reviste el COVID-19, declarado como pandemia por la OMS
+el día 11 de marzo de 2020 y por experiencia en otros eventos de complejidad similar, ninguna institución
+gubernamental por sí sola puede dar respuesta ante esta emergencia internacional. Por tanto, el ministro
+de salud, como máxima autoridad sanitaria, es el responsable de conducir los preparativos y la respuesta a
+emergencias sanitarias al más alto nivel político y estratégico, así como la coordinación con las agencias de
+cooperación internacional que por su naturaleza puedan apoyar la ejecución del presente plan.
+En el marco de la Ley 42-01 y la 147-02, el ministro de Salud debe activar los consejos y comités nacionales
+de respuesta a emergencias para coordinar las acciones necesarias y, en caso de que lo considere pertinente,
+solicitar al presidente constitucional de la República, emitir la declaración de emergencia para acelerar
+los preparativos y/o para contener la propagación de casos. En este sentido, el presidente Danilo Medina
+emitió el Decreto no. 87-20 para las compras y contrataciones indispensables con respecto a la preparación,
+prevención y respuesta por el COVID-19.
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados,
+conglomerado de casos y
+transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Informar al presidente de la República e
+instancias de alto nivel político y de toma
+de decisiones sobre la declaración de la
+emergencia de salud pública de importancia
+internacional (ESPII) por parte de la OMS
+según el RSI.
+Declarar el inicio de este escenario ante
+la presencia de casos importados y/o
+conglomerado de casos y/o transmisión
+comunitaria.
+Informar al presidente de la República
+e instancia de alto nivel político y de
+toma de decisiones la interrupción la
+propagación de la enfermedad.
+Mantener informado al presidente de la
+Repúblicaeinstanciasdealtonivelpolíticoy
+de toma de decisiones acerca de la situación
+actual y las acciones y recomendaciones de
+preparación y respuesta.
+Mantener informado y actualizado al
+presidente de la República e instancias de
+alto nivel político y de toma de decisiones
+acerca de las actividades de respuesta,
+así como la gestión de requerimientos y
+necesidades, fortaleciendo y mejorando
+los mecanismos de respuesta a la ESPII.
+Informar el fin de la declaración de
+la emergencia de salud pública de
+importancia internacional por parte de
+la OMS.
+Activar los procedimientos para la
+preparación y respuesta.
+Monitorear y evaluar las acciones de
+respuesta según el escenario, tomando las
+medidas correctivas necesarias.
+Retornar a actividades de rutina.
+8.2 Coordinación intrasectorial
+Responsable: Dirección de Gestión de Riesgos y Atención a Desastres (DGRAD)
+La preparación y respuesta intrasectorial requiere la coordinación con las instituciones del sector salud,
+a fin de poder hacer viables y sostenibles las estrategias y acciones contempladas en el presente plan. El
+Ministerio de Salud Pública, a través del COES, asegura la integración de dichas estrategias y acciones del
+sector salud, con el propósito de que se ejecute la respuesta con un enfoque integral del sector.
+Para el desarrollo de la estrategia, todas las entidades deben asegurar recursos para la implementación de las
+acciones de preparación y respuesta. En este sentido se utilizarán las capacidades instaladas en el sistema
+nacional de gestión de riesgos, donde convergen todas las instituciones con responsabilidad en este evento.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+20
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados,
+conglomerado de casos y
+transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Crear mediante resolución ministerial
+la mesa estratégica inter y multisectorial
+para el COVID-19.
+Convocar reuniones de trabajo de la
+mesa técnica intra y multisectorial para el
+COVID-19 de acuerdo con
+las necesidades de la situación.
+Informar a los integrantes de la mesa
+técnica inter y multisectorial para el
+COVID-19 la interrupción la propagación
+de la enfermedad.
+Activar la mesa técnica sectorial. Mantener la comunicación permanente
+por parte de la mesa técnica sectorial para
+analizar el comportamiento de la situación
+y tomar las medidas de lugar.
+Informar a los integrantes de la mesa
+técnica sectorial la interrupción la
+propagación de la enfermedad.
+Disponer la activación permanente del
+Comité de Operaciones de Emergencias
+en Salud (COES).
+Activar de manera permanente el Comité
+de Operaciones de Emergencias en Salud
+(COES).
+Desactivar las diferentes mesas intra
+y multisectoriales para retornar a las
+actividades de rutina.
+Coordinar todos los procesos relacionados
+con el manejo de los cuerpos sin vida con
+el Instituto Nacional de Patología Forense
+ante el COVID-19.
+Organizar el proceso de recuperación,
+levantamiento, identificación, traslado
+y disposición final de los cuerpos sin
+vida por COVID-19 a través del Instituto
+Nacional de Patología Forense.
+Retorna a actividades de rutina.
+Coordinar todos los procesos relacionados
+con el manejo de los cuerpos sin vida con
+el Instituto Nacional de Patología Forense
+ante el COVID-19.
+Organizar el proceso de recuperación,
+levantamiento, identificación, traslado
+y disposición final de los cuerpos sin
+vida por COVID-19 a través del Instituto
+Nacional de Patología Forense.
+Coordina y dirige el funcionamiento de los establecimientos de salud a través de las 9 direcciones regionales de salud.
+Coordina con el Programa de Medicamentos Esenciales (PROMESE) en cuanto al suministros de medicamentos e insumos a los
+establecimientos de salud.
+Coordina el seguimiento y manejo comunitario.
+8.3 Coordinación multisectorial
+Responsable: Centro de Operación de Emergencias (COE).
+La preparación y respuesta ante emergencias y desastres es facultada al COE por la Ley 147-02 sobre
+gestión de riesgo, por lo que para involucrar a otros actores distintos del sector salud y efectuar una
+respuesta multisectorial, el Ministerio, a través del COE, requiere la coordinación e integración de las
+acciones descritas en este plan con las instituciones y organismos representados en dicho centro para que
+se realicen con un enfoque integral. Dicha dinámica de preparación y respuesta están basadas en roles y
+competencias establecidas en el Plan Nacional de Emergencia, el Plan de Contingencia del COE para este
+evento y su Manual de Procedimientos y Protocolos.
+Además del trabajo del COE, como parte de la estrategia multisectorial, se incluyen las acciones de la
+Gerencia Operaciones de Puntos Internacionales, de la Asociación Dominicana de Líneas Aéreas y
+Asociacion Dominicana de Empresas Navieras.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 21
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados, conglomerado de
+casos y transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Monitorearlasituaciónencolaboración
+con el enlace del MSP y el COE.
+ElevarelniveloperativodelCentrodeOperaciones
+de Emergencias (COE,) cumpliendo lo establecido
+en el Manual de Procedimientos y Protocolos del
+COE (MACOE).
+Degradar el nivel operativo del Centro
+de Operaciones de Emergencias
+(COE), cumpliendo lo establecido
+en el Manual de Procedimientos y
+Protocolos del COE (MACOE).
+Activar el Centro de Operaciones de
+Emergencias (COE). La activación
+del COE se realizará cumpliendo
+lo establecido en el Manual de
+Procedimientos y Protocolos del COE
+(MACOE).
+Convocar los líderes de las mesas sectoriales y
+todos los enlaces del COE.
+Informar a los líderes de las mesas
+sectoriales y todos los enlaces del COE
+la situación actual.
+Convocar a los enlaces de la Mesa de
+Salud para la elaboración, actualización
+o diseño del plan de contingencia para
+el evento.
+Activar de manera permanente la Mesa de Salud
+del COE.
+El COE cambiará el momento de su plan y podrá
+establecer la activación de cualquier mecanismo
+de coordinación establecido en el Plan Nacional
+de Emergencias para fines de apoyo y operaciones
+conjuntas. Estos mecanismos incluyen PMR/COE,
+Centro de Operaciones Conjuntas de las FFAA,
+Comandos Conjuntos de las FFAA, Puestos de
+Mando, Puesto de Comando, Mando Unificado,
+Célula de Coordinación.
+Desactivar las diferentes mesas inter
+y multisectoriales y retornar a las
+actividades de rutina.
+Disponer de la plataforma de manejo
+de información y de alerta temprana,
+incluyendo las redes de comunicación
+social.
+Activar la plataforma de manejo de información
+y de alerta temprana, incluyendo las redes de
+comunicación social.
+Reducir la activación de la plataforma
+de manejo de información y de alerta
+temprana, incluyendo las redes de
+comunicación social.
+Establecer la coordinación con las
+contrapartes las evaluaciones de
+viajeros sintomáticos y referencia a
+establecimientos de salud identificados
+a través de la gerencia de operaciones
+de puntos de entrada internacionales
+y Asociación Dominicana de líneas
+aéreas.
+Intensificar las acciones en los puntos de entrada
+para las evaluaciones de viajeros sintomáticos y
+referenciaaestablecimientosdesaludidentificados
+a través de la gerencia de operaciones de puntos de
+entrada internacionales y Asociación Dominicana
+de líneas aéreas.
+Coordinar en los procedimientos
+operativos de identificación de casos
+y contactos de eventos de salud
+pública de importancia internacional
+en puertos, aeropuertos y pasos
+fronterizos terrestres a través del
+CESAC, CESFRONT y CESEP
+Reforzar en la implementación del procedimiento
+operativo de identificación de casos y contactos
+de eventos de salud pública de importancia
+internacional en puertos, aeropuertos y pasos
+fronterizos terrestres a través del CESAC,
+CESFRONT y CESEP
+8.4 Vigilancia epidemiológica, investigación y evaluación
+Responsables: Dirección General de Epidemiología
+Esta línea estratégica tiene como propósito contribuir en la interrupción de la transmisión y propagación del
+COVID-19 en el país a través de los procesos de detección, notificación, investigación, y aplicación de las
+medidas de prevención y control, individuales y colectivas, de manera oportuna.
+Adicionalmente, monitorear y analizar los datos recolectados sobre la magnitud del evento, las variaciones
+en la severidad de los casos, la caracterización virológica y el impacto del evento en la salud individual y
+colectiva, así como en los sistemas de salud. De esta manera se podrán ajustar las acciones de respuesta
+establecidas en este plan.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+22
+Por otra parte, se necesita generar información que contribuya a la gestión del conocimiento de la comunidad
+científica, como soporte para nuevas investigaciones y para la toma de decisiones. Los procedimientos y
+definiciones operativas serán actualizados por la Dirección General de Epidemiología del Ministerio de
+Salud Pública, de acuerdo con la disponibilidad de nueva evidencia y recomendaciones de la OPS/OMS y
+CDC.
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados,
+conglomerado de casos y
+transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Declarar y difundir la alerta
+epidemiológica preventiva.
+Declarar y difundir la alerta epidemiológica
+cuando se evidencie casos importados,
+conglomerado de casos y transmisión
+comunitaria.
+Suspender la alerta epidemiológica para el
+COVID-19.
+Revisar y actualizar los siguientes
+documentos técnicos:
+-Protocolos y procedimientos de
+vigilancia, incorporando COVID-19 y
+eventos respiratorios inusitados.
+-Procedimientos para la identificación
+de casos y contactos de eventos de Salud
+Pública de Importancia Internacional-
+ESPII.
+-Procedimientos y criterios de toma
+de muestra, empaque, conservación y
+transporte de patógenos emergentes, en
+coordinación con el laboratorio nacional.
+Detectar casos a través de la vigilancia
+intensificada.
+Notificar los casos confirmados, de acuerdo
+con el procedimiento del RSI.
+Activar el grupo de respuesta rápida para la
+investigación de los casos y aplicación de las
+medidas correspondientes.
+Monitorear el evento para determinar la
+magnitud y severidad, y orientar la toma de
+decisiones.
+Detectar casos (esporádicos) a través de la
+vigilancia rutinaria.
+Ampliar y fortalecer la red de vigilancia
+virológica y circulación viral.
+Integrar los procedimientos operativos
+de la vigilancia epidemiológica del
+caso, junto con los procedimientos por
+laboratorio.
+Monitorear la vigilancia de virus
+respiratorios.
+Evaluar el cumplimiento de las acciones
+de vigilancia por parte de los actores
+involucrados.
+Mantener el monitoreo de vigilancia
+virológica.
+Incorporar el COVID-19 a la vigilancia
+centinela de influenza y otros virus
+respiratorios.
+Fortalecer la capacidad técnica de las
+DPS/DAS para realizar la investigación
+epidemiológica de los casos, según
+escenarios de riesgos.
+Monitorear la aplicación de los protocolos
+y procedimientos en todos los niveles y
+aplicar medidas correctivas.
+Desarrollar investigaciones planificadas.
+Evaluar de manera sistemática la respuesta
+integrada y el impacto de las acciones de
+respuesta del COVID-19 en cada uno de
+los escenarios, incorporando las lecciones
+aprendidas y medidas correctivas a futuro.
+Investigar los rumores, denuncias
+e información suministrada por la
+comunidad.
+Coordinar con la instancia correspondiente
+la investigación y respuesta a los rumores y
+denuncias.
+Mantener la coordinación con las
+instancias correspondientes para la
+investigación y respuesta de los rumores.
+Monitoreo semanal de las infecciones respiratorias altas y bajas (IRA) reportadas en el EPI 1.
+Informar periódicamente sobre la evolución de la situación de emergencia.
+Realizar evaluaciones de riesgo periódicamente, de acuerdo con la evolución del evento.
+Implementar los procedimientos del CNE para el RSI.
+8.5 Laboratorio y diagnóstico
+Responsable: Laboratorio Nacional de Salud Pública “Dr. Defilló”
+Uno de los eslabones principales de la vigilancia epidemiológica del COVID-19 es el procesamiento
+oportuno de las muestras para confirmar o descartar casos. Esta responsabilidad recae en el Laboratorio
+Nacional de Salud Pública “Dr. Defilló”, el cual cumple con los estándares de calidad de normativas
+nacionales e internacionales, certificados con ISO: 9001:2015 y además con la certificación de la OMS,
+como Centro de Referencia para Influenza (NIC, por sus siglas en inglés).
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 23
+Para el procesamiento de las muestras de COVID-19 el laboratorio cumple con los lineamientos y uso de
+protocolos y reactivos aprobados por la OMS/OPS y los centros colaboradores.
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados,
+conglomerado de casos y
+transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Actualizar los procedimientos operativos de toma
+de muestra, conservación y envío de muestras.
+Confirmar y descartar casos por
+laboratorio según necesidades del
+evento y acorde a lo establecido en el
+protocolo de vigilancia.
+Realizar las pruebas de laboratorio
+según requerimientos ordinarios a
+través de la vigilancia rutinaria.
+Revisar el inventario de equipos e insumos
+necesarios tanto en el laboratorio nacional como
+de los laboratorios pertenecientes a la red de
+laboratorios.
+Asegurar la reposición de equipos
+y suministros para la toma y el
+procesamiento oportuno de las
+muestras.
+Documentar un informe con las
+experiencias de implementación
+de medidas de control y lecciones
+aprendidas.
+Gestionar los insumos de laboratorio y los equipos
+de protección para el personal involucrado en la
+toma, transporte y análisis de las muestras.
+Monitorear permanentemente la
+disponibilidad de insumos y equipos
+de protección personal necesarios
+en los laboratorios de la red y el
+laboratorio nacional.
+Reforzar las capacidades técnicas del laboratorio
+de los establecimientos de salud seleccionados
+para la toma y envío de muestras.
+Aplicar los criterios establecidos por el
+SINAVE para investigación de brotes.
+Reforzar las capacidades técnicas del personal
+del laboratorio nacional de salud pública Dr.
+Defilló para el procesamiento de las muestras del
+COVID-19 y otros virus respiratorios.
+8.6 Comunicación del riesgo
+Responsable: Departamento de Apoyo a la Promoción y Educación en Salud -DAPES
+Una de las intervenciones más importantes y eficaces en la respuesta de salud pública ante cualquier evento
+es comunicar de manera proactiva lo que se sabe, lo que no, lo que aún es incierto y lo que se está haciendo
+para tener más información, con el objetivo de salvar vidas y reducir al mínimo las consecuencias adversas.
+Dentro de los objetivos principales de la comunicación de riesgo está generar confianza entre la población
+y/o mantenerla a través de una comunicación y participación bidireccional continuada que aborde
+periódicamente los malentendidos, la desinformación, los rumores y las preguntas frecuentes. Además,
+alentar a las personas a que adopten comportamientos protectores, gestionar las expectativas y comunicar
+los elementos de incertidumbre.
+Para la implementación de las acciones de comunicación de riesgo es necesario coordinar y fomentar la
+colaboración entre los diferentes sectores, así como evaluar la percepción inicial de los riesgos entre las
+poblaciones afectadas y en situación de riesgo.
+El país cuenta con un plan de comunicación de riesgos en emergencias sanitarias y desastres, el cual
+fue elaborado de forma ampliamente participativa, con todas las instituciones del sector salud y aliados
+estratégicos.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+24
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados, conglomerado de
+casos y transmisión comunitaria)
+Posepidémico (interrupción
+de la propagación)
+Activar el subcomité de comunicación
+de riesgo y producir los materiales
+informativos acerca de la enfermedad
+y sobre las medidas de prevención que
+han de emplearse.
+Convocar al subcomité de comunicación de
+riesgos para activar la gestión de comunicación
+en crisis, en el marco de la Estrategia nacional de
+comunicación de riesgos.
+Ofrecer apoyo psicosocial a las
+familias afectadas que lo requieran.
+Definir un protocolo para emitir las
+declaraciones oficiales relacionadas
+con la COVID-19.
+Activar el protocolo de vocería oficial y ajustar este
+acorde a los escenarios.
+Documentar un informe con las
+experiencias de la implementación
+de medidas de control y lecciones
+aprendidas.
+Reproducir y difundir materiales
+audiovisuales e impresos que han
+de emplearse en la estrategia de
+comunicación.
+Difundir los materiales informativos actualizados
+según el escenario de riesgo y grupos de población,
+a través de medios de comunicación masiva y redes
+sociales.
+Retornar a actividades de rutina.
+Activar el plan nacional de
+comunicación de riesgos ante
+emergencias sanitarias y desastres.
+Coordinar con las instituciones del sector salud
+y demás sectores la revisión, preparación e
+implementación de mensajes claves, teniendo en
+cuenta los diferentes escenarios y públicos meta.
+Realizar investigación sistemática de
+todos los rumores mediante vigilancia
+de la comunicación activa en puntos
+de entradas, centros de salud,
+comunidades y redes sociales, entre
+otros.
+Mantener un flujo constante de información sobre
+el evento, las operaciones de respuesta para el
+rápido control y las recomendaciones clave que
+ayuden a la población a entender el riesgo y tomar
+decisiones apropiadas.
+Mantener actualizada una base de
+datos de periodistas, opinión pública
+y de medios de comunicación.
+Mantener a los medios de comunicación como
+aliados, asegurando que reciban la información de
+fuentes oficiales.
+Capacitar a los voceros y a las
+diferentes audiencias en sus diferentes
+roles.
+Mantener la vigilancia de la comunicación para
+asegurar que todos los canales de comunicación,
+incluyendo los comunitarios, estén siendo
+utilizados para llegar a los diferentes sectores de la
+población.
+Identificar mecanismos de
+comunicación con personas o
+grupos vulnerables (envejecientes,
+discapacitados, personas con
+comorbilidad, entre otros), a fin de
+que puedan recibir y comprender
+la información sobre la emergencia
+sanitaria.
+Asegurar que los materiales de información y
+educaciónestánsiendocorrectamentediseminados
+a través de instituciones u organizaciones
+comunitarias aliadas, y que están llegando a todos
+los sectores de la población afectada.
+Mantener una fluida comunicación
+interna, garantizando que la
+información llegue a través de los
+canales establecidos a los trabajadores
+de la salud.
+Elaborar mensajes y acciones que promuevan
+la empatía con los enfermos y disminuyan
+la estigmatización y la discriminación de las
+comunidades y personas afectadas.
+8.7 PREVENCIÓN Y CONTROL DE INFECCIONES
+Responsable: Ministerio de Salud Pública (Viceministerio de Garantía de la
+Calidad) y Servicio Nacional de Salud
+Las medidas de prevención y control de infecciones (PCI) constituyen un pilar esencial en el plan de prepa-
+ración y respuesta a la infección por COVID-19, tanto de los sistemas de salud como de la comunidad,
+pues permiten garantizar la protección del personal de salud (profesional y de apoyo), la prevención de la
+transmisión de la infección a pacientes y visitantes de los centros de salud, y la disminución del riesgo de
+infección y diseminación en la comunidad.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 25
+En los establecimientos de salud, las medidas de PCI incluyen los equipos de protección personal (EPP),
+estaciones de lavado de manos o dispensadores de alcohol glicerinado, la limpieza estandarizada de las
+superficies del entorno, desinfección y esterilización de dispositivos y equipos, y disposición adecuada de
+desechos biológicos. Además, las medidas de PCI incluyen los espacios de triaje y las salas de aislamiento
+para los casos sospechosos y confirmados de COVID-19. El personal de salud debe estar capacitado sobre
+las medidas PCI, la identificación temprana de los casos, el protocolo de detección del caso, referimiento y
+abordaje de los casos.
+Estas medidas son trasferibles a espacios públicos como escuelas, supermercados, plazas comerciales, igle-
+sias, transporte público, entre otros, así como espacios comunitarios, incluyendo el hogar.
+Para la prevención y control de infecciones (PCI), la Dirección de Monitoreo y Evaluación de la Calidad
+de los Servicios y la Unidad de Guías de Práctica Clínica y Protocolos de Atención, instancias del Vice-
+ministerio de Garantía de la Calidad, han elaborado normas, protocolos y guías para ser aplicados en los
+establecimientos de salud de la red pública y privada. El Servicio Nacional de Salud actualmente realiza
+mecanismos para la implementación de dichos protocolos en los establecimientos de la red pública.
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados,
+conglomerados y transmisión
+comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Evaluar las capacidades de los
+establecimientos de salud de diferentes
+niveles, tanto públicos como privados,
+para implementar las medidas de PCI,
+asegurando que cumplan mínimamente
+con un sistema de triaje funcional, salas
+de aislamiento, personal entrenado, y
+EPP suficientes.
+Continuar evaluando los establecimientos
+de salud de diferentes niveles, tanto públicos
+como privados, sobre las medidas de PCI
+para dar respuesta de acuerdo con los
+escenarios de riesgo.
+Garantizar la capacidad de respuesta de los
+establecimientos de salud de la red pública y
+privada, incluyendo la provisión y reposición
+de insumos/ suministros necesarios y
+suficientes para controlar y contener la
+propagación del COVID-19.
+Mantener las capacidades de respuesta de
+los establecimientos de salud en el manejo
+de los casos de COVID-19 y de pacientes
+sintomáticos respiratorios.
+Promover en los establecimientos de
+salud la aplicación de los protocolos y
+guías para la prevención y control de la
+transmisión del COVID-19 de la OMS.
+Implementar las acciones de control
+de infecciones para cada escenario de
+transmisión de COVID-19 en esta etapa
+específica, ya sea aislamiento hospitalario o
+domiciliario, dependiendo de la severidad de
+la enfermedad.
+Evaluar en esta etapa el cumplimiento
+de las diferentes estrategias de
+prevención y control de infecciones en
+los establecimientos de salud, espacios
+comunitarios y domiciliar.
+Elaborar los lineamientos para la ruta
+crítica de los casos sospechosos y
+confirmados por COVID-19 a fin de
+prevenir la transmisión del virus en los
+establecimientos de salud.
+Establecer medidas de distanciamiento
+social en situaciones de conglomerados y
+transmisión comunitaria sostenida para
+reducir la afluencia masiva de personas
+como medida de mitigación la transmisión
+del COVID-19.
+Preparar un informe sobre las fortalezas y
+debilidades relacionadas al cumplimiento
+de las guías y protocolos de atención
+durante el periodo epidémico, el cual
+incluya el plan de mejora con visión a
+futuras epidemias.
+Dotaralpersonalasistencialydelimpieza
+con los EPP, así como las condiciones
+adecuadas para la higienización de las
+manos, teniendo en cuenta los cinco
+momentos establecidos por la OMS.
+Continuarconlascapacitacionesdelpersonal
+de salud en las precauciones estándares y
+medidas aislamiento para prevención de la
+transmisión del COVID-19.
+Incorporar a los planes de prevención
+y control de infecciones las lecciones
+aprendidas en cada uno de los escenarios
+de riesgo.
+Capacitar al personal de salud en las
+precauciones estándares y medidas
+de aislamiento para prevención de la
+transmisión del COVID-19.
+Difundir las medidas de prevención
+y control del COVID-19 en espacios
+domiciliarios y comunitarios.
+Desarrollar una guía de manejo
+comunitario, incluyendo medidas de
+aislamiento domiciliar
+. Desactivar el subcomité de emergencias y
+regresar a la operación de rutina.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+26
+8.8 Atención prehospitalaria y manejo clínico de los casos
+8.8.1 Atención prehospitalaria
+Responsable: Ministerio de Salud Pública (Dirección de Emergencias Médicas)
+La mayoria de los casos de COVID-19 deben ser manejados en el entorno domiciliario, siempre y cuando
+existan las condiciones sociales para que esto se pueda llevar a cabo de manera segura5
+. No obstante, alrede-
+dor de un 15% necesitarán atención en un establecimiento de salud, y estos pacientes necesitan ser transpor-
+tados en ambulancias que cumplan la normativa nacional e internacional; así como, por un recurso humano
+de salud capacitado para los fines, e implementando las medidas de prevención y control de infecciones.
+Los servicios de atención prehospitalaria son esenciales para garantizar el traslado y el manejo adecuado de
+pacientes bajo sospecha o casos confirmados por COVID-19.
+Como parte de esta línea estratégica, el manejo prehospitalario dispone de unidades de ambulancias en lu-
+gares preestablecidos, con rutas especificadas según áreas de captación y derivación final del paciente bajo
+sospecha o diagnóstico confirmado de infección por COVID-19.
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados, conglomerado de
+casos y transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Preposicionar las unidades de
+ambulancias en puntos estratégicos,
+en coordinación con la Dirección
+de Gestión de Riesgos y Atención a
+Desastres.
+Proveerlaasistenciaprehospitalariadesdelospuntos
+de activación de la alerta a los establecimientos
+de salud identificados para atención de casos
+sospechosos y/o confirmados, así como a nivel
+interhospitalario.
+Retornar a actividades de rutina.
+Adecuar las unidades de transporte
+para respuesta al COVID-19.
+Capacitar al personal de las
+ambulancias en el uso de los equipos de
+protección personal (EPP) y medidas
+de bioseguridad.
+Incrementar los procesos de capacitación a todo el
+personal de la Dirección General de Emergencias
+Médicas del 9.1.1/CRUE, de acuerdo con la
+evolución del evento.
+Preparar la asistencia prehospitalaria
+desde los puntos de entrada a los
+establecimientos de salud identificados,
+así como a nivel interhospitalario.
+Implementar en escenarios de conglomerado
+de casos y transmisión comunitaria sostenida,
+el protocolo de despacho del Sistema Nacional
+de Atención a Emergencias y Seguridad 9.1.1 y
+movilización de ambulancias preposicionadas para
+el traslado prehospitalario e intrahospitalario.
+Aplicar la lista de verificación de
+alistamiento para la respuesta al
+COVID-19 en servicios de emergencias
+médicas prehospitalaria la atención
+prehospitalaria a fin de identificar
+las acciones inmediatas y prioritarias
+para responder de manera eficiente y
+oportuna ante la emergencia
+5 República Dominicana, Ministerio de Salud Pública. Guía de orientaciones básicas para el hogar y la comunidad: para la prevención de la enfermedad por coronavirus (COVID-19) y otros virus
+respiratorios. Santo Domingo: MSP; 2020. Disponible en: https://repositorio.msp.gob.do/bitstream/handle/123456789/1681/1584029174283.pdf?sequence=3&isAllowed=y
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 27
+8.8.2 Manejo clínico de los casos
+Responsables: Red pública, red privada, policial y militar
+Para asegurar el manejo y tratamiento clínico de los casos sospechosos o confirmados de COVID-19, los
+establecimientos de salud de la red pública, privada, policial y militar deben evaluar sus capacidades insta-
+ladas para dar una respuesta adecuada.
+Como parte de la estrategia del manejo hospitalario, se han designado establecimientos de salud ante casos
+importados o aislados. En las situaciones de conglomerado de casos y transmisión comunitaria sostenida,
+todas las redes asistenciales deben intervenir para el manejo clínico de casos severos y críticos en las Uni-
+dades de Cuidado Intensivo.
+Cabe destacar que las Unidades de Atención Primaria de Salud-UNAP deben estar preparadas para la
+atención de casos ambulatorios que cursen con infección respiratoria leve o moderada, y hacer seguimiento
+a nivel domiciliar de dichos casos, sobre todo en la población mayor de 60 años con comorbilidades asocia-
+das, tales como hipertensión, diabetes, enfermedades cardiovasculares, entre otras, los cuales pueden tener
+cambios en sus condiciones clínicas que conlleven a una hospitalización.
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados, conglomerado de
+casos y transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Activar el comité de emergencias del SNS, para
+supervisarlapreparacióndelosestablecimientos
+de salud en la atención de los casos y elaborar
+planes alternos que involucre la derivación al
+sector privado para la atención especializada de
+los casos
+Activar los mecanismos de respuesta a emergencias:
+Comité Hospitalario de Emergencias y Desastres
+y/o Sistema Hospitalario de Gestión de Incidentes.
+Retornar a las actividades
+de rutina.
+Aplicar la lista de verificación de alistamiento
+para la respuesta a COVID-19 en hospitales,
+así como la lista de especificaciones técnicas
+de dispositivos médicos, a fin de identificar
+las acciones inmediatas y prioritarias para
+responder de manera eficiente y oportuna ante
+la emergencia.
+Coordinar con el personal de salud de las Unidades
+de Atención Primaria de Salud para la atención
+de casos ambulatorios que cursen con infección
+respiratoria leve o moderada y hacer seguimiento a
+nivel domiciliar.
+Evaluar la ocupación hospitalaria e identificar
+espacios alternativos de atención (aislamiento,
+gestión de camas, UCI para adulto y niños) así
+como de dispositivos e insumos (EPP, jabón,
+alcohol glicerinado, líquidos IV, entre otros).
+Activarsalasdeaislamientoyespaciosalternativosde
+atención (Triaje-Recepción-Acogida, Clasificación-
+RAC) para la atención exclusiva de pacientes con
+enfermedades respiratorias, incluyendo todas las
+medidas de bioseguridad.
+Identificar y preparar los establecimientos de
+salud que han de recibir los casos confirmados
+para ser aislados en una primera etapa de
+contención del virus.
+Establecer la coordinación de la red asistencial
+a nivel nacional.
+Ampliar la capacidad de la red pública, privada,
+policial y militar para atender los casos severos
+y críticos de COVID-19 ante situaciones de
+conglomerado de casos y transmisión comunitaria
+sostenida.
+Activar los mecanismos de coordinación asistencial
+para la atención de casos severos y críticos.
+Coordinar con el COE la posible instalación
+de infraestructuras provisionales y dispositivos
+asistenciales ante conglomerado de casos y
+transmisión comunitaria sostenida.
+Poner en marcha las infraestructuras provisionales
+y dispositivos asistenciales alternos, como escuelas,
+iglesias, hoteles, entre otros, en caso de ser necesario.
+Mantener informado al personal de salud
+acerca de los diferentes escenarios de riesgo
+y recomendaciones técnicas emitidas por el
+Ministerio de Salud y la OPS/OMS para el
+manejo de casos.
+-Aumentar las capacidades del hospital en cuanto a
+recursos humanos, materiales, equipo, camas, UCI
+y espacio físico, según la demanda de casos severos
+y críticos.
+-Suspenderlascirugíaselectivasparalaoptimización
+del uso de las camas.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+28
+8.9 Soporte operacional y logístico de suministros
+Responsable: Dirección de Gestión de Riesgos y Atención a Desastres
+(DGRAD)
+El establecimiento y mantenimiento de las operaciones de respuesta a emergencias requiere asegurar que
+la logística y la gestión de suministros aborda las necesidades para enfrentar el evento epidemiológico y
+distribuirlos de manera equitativa y eficiente en los lugares apropiados.
+Todos los actores involucrados en la respuesta deben tener una visión general de las actividades a desarrol-
+lar, las prioridades y conocer los riesgos potenciales. Además, se hace necesario monitorear las operaciones
+en curso para refinar continuamente las operaciones, reducir el riesgo operativo y asegurar se implementen
+las actividades necesarias y a escala adecuada.
+Preepidémico
+(sin casos)
+Epidémico
+(casos importados, conglomerado de
+casos y transmisión comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Asesorar al ministro(a) y al
+comité de emergencias en la
+implementación del plan.
+Apoyar el desarrollo, planificación, difusión y
+revisión periódica del plan, según los escenarios de
+riesgo.
+Desactivar el COES y declarar el fin de la
+emergencia.
+Elaborar un reporte de situación diario según
+escenario, para establecer las necesidades de soporte
+operacional y logística de suministro.
+Realizar evaluación(es) de la calidad y
+oportunidad de la respuesta operativa
+implementada durante el momento
+epidémico (incluidas la evaluación de los
+procedimientos de activación del plan,
+despliegue de ERR, movilización de
+recursos logísticos, entre otros).
+Revisar inventario de reserva
+estratégica de medicamentos,
+insumos y equipos y procurar
+dotación según necesidades.
+Monitorear el inventario de reserva estratégica de
+medicamentos, insumos y equipos, a fin de realizar
+solicitudes para reabastecimiento, de ser necesario.
+Retornar a actividades de rutina
+Recibir los requerimientos de apoyo por parte de las áreas técnicas y canalizar su
+respuesta a través de la dirección administrativa y/o con el ministro(a).
+Tramitar las solicitudes de
+despacho de medicamentos e
+insumos por parte del SNS, MSP
+y emergencias médicas.
+Garantizar la distribución de insumos y
+medicamentos a los establecimientos de salud,
+dirección de emergencias médicas, reserva
+estratégica del MSP y otros actores del componente
+multisectorial.
+Como parte de la Líneas estratégica Soporte Operacional y Logístico de Suministro se encuentra
+el COMPONENTE ADMINISTRATIVO Y FINANCIERO, el cual está bajo la responsabilidad de
+la Dirección Administrativa y Financiera de MSP. Las acciones de este componente incluirán lo
+siguiente:
+Preepidémico
+(sin casos)
+Epidémico (casos importados,
+conglomerado de casos y transmisión
+comunitaria)
+Posepidémico
+(interrupción de la
+propagación)
+Establecer un mecanismo de obtención
+de recursos extraordinarios en caso de
+contingencia, a través del señor ministro.
+Mantener informado al señor ministro y al comité sobre
+los fondos disponibles y los gastos para priorizar las
+acciones.
+Retornar a actividades de
+rutina.
+Facilitar la gestión y adquisición de
+insumos y materiales que impliquen
+recursos económicos.
+Coordinar los medios de transporte necesarios para
+apoyar la movilización de recursos en atención a la
+emergencia.
+Gestionar el refuerzo presupuestario
+necesario ante el Ministerio de Hacienda.
+Coordinar la recepción y administración de los recursos
+que sean aportados al Ministerio de Salud Pública, por
+instituciones de apoyo o por el sector privado.
+Plan de contingencia ante enfermedad por coronavirus (COVID-19) 29
+9. RECURSOS DEL MSP PARA RESPONDER ANTE EVENTOS
+El MSP cuenta con cuarenta (40) direcciones provinciales y de áreas de salud cada una con recurso humano,
+equipos e insumos de respuesta rápida con enfoque multidisciplinario.
+Departamentos de salud establecidos en 4 aeropuertos internacionales.
+Cuatro (4) centros para la coordinación de la respuesta a emergencias médicas prehospitalarias, ubicados
+en: 1.- Ciudad de Higüey, La Altagracia, para toda la zona Este del país. 2.- Distrito Nacional. 3.- Ciudad de
+Barahona para toda la zona Sur. 4.- Ciudad de Santiago para Santiago y Puerto Plata. Todos dotados de uni-
+dades de transporte sanitario, equipados con tecnología, insumos médicos y equipos de radiocomunicación.
+Un (1) Centro de Operaciones Móvil (COM).
+Noventa y ocho (98) unidades de transporte asistencial básico y cuatro (04) unidades de transporte asis-
+tencial avanzado. Para el desarrollo de este plan estratégico se han identificado dos unidades de transporte
+asistencial avanzado con sus equipos y recurso humano correspondiente, las cuales están exclusivamente a
+disposición de trasladar pacientes sospechosos de COVID-19 y estarán dispuestas en lugares estratégicos
+previamente coordinados.
+Un (01) almacén nacional con medicamentos e insumos para prestación de servicios de salud colectiva y
+ocho (08) almacenes regionales para garantizar el abastecimiento de medicamentos e insumos de los esta-
+blecimientos de salud en todo el territorio nacional.
+Ciento ochenta y siete (187) establecimientos de la red pública de salud; equipados, abastecidos y con re-
+curso humano disponible 24 horas para atender emergencias médicas.
+A continuación, se presenta el Presupuesto General del Sector Salud para el Plan de Contingencia del
+Coronavirus, incluyendo el Presupuesto general Ministerio de Salud Pública, el Presupuesto general Servi-
+cio Nacional de Salud, el Presupuesto General PROMESE-CAL y el Presupuesto Infraestructura Hospital
+Docente Dr. Ramon De Lara.
+10.PRESUPUESTO
+Viceministerio de Salud Colectiva
+Plan de contingencia ante Coronavirus, República Dominicana
+Presupuesto final sector salud
+Presupuesto general Ministerio de Salud Pública $419,919,352.80
+Presupuesto general Servicio Nacional de Salud $352,452,927.92
+Presupuesto General PROMESE-CAL $500,044,303.00
+Presupuesto Infraestructura Hospital Docente Dr. Ramón De Lara $17,868,454.75
+Presupuesto general del sector salud plan de contingencia coronavirus $1,290,285,038.47
+Plan de contingencia ante enfermedad por coronavirus (COVID-19)
+30
+Presupuesto final sector salud para contingencia de COVID-19
+Ministerio de Salud Pública $419,919,352.80
+Equipos de protección personal $217,462,950.00
+Insumos y equipos médicos para laboratorio y emergencias médicas $75,851,550.00
+Productos de desinfección / gestión de residuos de riesgo biológico $75,176,710.80
+Plan de comunicación estratégica $18,464,152.00
+Plan vigilancia epidemiológica, investigación y laboratorio $19,842,490.00
+Plan de capacitación y producción de materiales educativos $13,121,500.00
+PROMESE-CAL $500,004,303.00
+Servicio Nacional de Salud $120,723,290.68
+Equipos médicos y hospitalarios $113,321,316.10
+Capacitación a personal de salud del SNS sobre COVID-19 $7,401,974.58
+Infraestructura Centro de Aislamiento Hospital Militar Docente Dr. Ramón de Lara $17,868,454.75
+Total $1,058,515,401.23
+Ministerio de Salud Pública $419,919,352.80
+Equipos de protección personal $217,462,950.00
+Insumos y equipos médicos para laboratorio y emergencias médicas $75,851,550.00
+Productos de desinfección / gestión de residuos de riesgo biológico $75,176,710.80
+Plan de comunicación estratégica $18,464,152.00
+Plan vigilancia epidemiológica, investigación y laboratorio $19,842,490.00
+Plan de capacitación y producción de materiales educativos $13,121,500.00
+PROMESE-CAL $500,004,303.00
+Medicamentos e insumos $500,004,303.00
+Servicio Nacional de Salud $120,723,290.68
+Equipos médicos y hospitalarios $113,321,316.10
+Capacitación a personal de salud del SNS sobre COVID-19 $7,401,974.58
+Infraestructura Centro de Aislamiento Hospital Militar Docente Dr. Ramón de Lara $17,868,454.75
+Preliminares $97,184.38
+Mampostería $3,574,976.03
+Pañetes $2,084,155.78
+Terminación de techos $886,372.15
+Pisos, zócalos y quicios $761,733.94
+Revestimientos $1,544,885.93
+Portaje $206,718.75
+Ventanas $455,861.88
+Instalación eléctrica $277,268.50
+Suministro e instalación, alimentación de unidades aire acondicionado 208V $64,540.49
+Aire acondicionado $2,452,512.74
+Instalaciones sanitarias $505,351.56
+Pintura a todo costo $602,457.95
+Hierro de protección $172,781.25
+Misceláneos $153,984.69
+Gastos indirectos $4,027,668.73
+Total $1,058,515,401.23
+
