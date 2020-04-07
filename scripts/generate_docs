@@ -120,7 +120,7 @@ foreach ($summary as $country=>$sources) {
     file_put_contents($summary_file, "| [{$country}]({$report_file_link}) | {$updated_date} | [{$files_count}]({$report_file_link}) | {$sources_count} |\n", FILE_APPEND);
 
     file_put_contents($report_file, "# {$country}\n\n");
-    // Sources
+    $file_put_contents($report_file, "## Sources\n\n", FILE_APPEND);
     foreach ($summary_sources[$country] as $src) {
         $url = $src['URL'];
         file_put_contents($report_file, "* [$url]($url)\n", FILE_APPEND);
