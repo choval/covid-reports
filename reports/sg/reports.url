@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL="https://www.moh.gov.sg/covid-19/situation-report"
+ORG=Singapore
+DOWNLOAD_REGEXP="/href=\"(?P<link>[^\"]+\.pdf)[^\"]*\"/Ui"
+LANG=en
