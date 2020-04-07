@@ -1,0 +1,19 @@
+{
+    "filename": "4d76d3-EPIgasesmedicnialesreactivoseinsumosCOVID1906042020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/4d76d3-EPIgasesmedicnialesreactivoseinsumosCOVID1906042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586267163,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Tue, 07 Apr 2020 13:46:02 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "234121",
+        "last-modified": "Tue, 07 Apr 2020 01:15:49 GMT",
+        "etag": "\"39289-5a2a91fc03cba\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 234121,
+    "modified": 1586222149
+}
