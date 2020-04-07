@@ -24,7 +24,7 @@
 | [Paraguay](py/README.md) | 2020-04-06 16:02 GMT | [73](py/README.md) | 2 |
 | [Peru](pe/README.md) | 2020-04-05 23:24 GMT | [36](pe/README.md) | 1 |
 | [Puerto Rico](pr/README.md) | 2020-04-05 13:45 GMT | [13](pr/README.md) | 3 |
-| [Singapore](sg/README.md) | 2020-04-06 16:49 GMT | [92](sg/README.md) | 2 |
+| [Singapore](sg/README.md) | 2020-04-06 16:49 GMT | [97](sg/README.md) | 3 |
 | [South Korea](kr/README.md) | 2020-04-06 20:16 GMT | [170](kr/README.md) | 2 |
 | [Spain](es/README.md) | 2020-04-06 09:33 GMT | [36](es/README.md) | 1 |
 | [Sweden](se/README.md) | 2020-04-01 14:45 GMT | [46](se/README.md) | 1 |

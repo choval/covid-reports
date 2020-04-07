@@ -1,5 +1,7 @@
 # Dominican Republic
 
+## Sources
+
 * [https://www.msp.gob.do/web/?page_id=6682](https://www.msp.gob.do/web/?page_id=6682)
 * [http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Materiales%20IEC%20COVID-19](http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Materiales%20IEC%20COVID-19)
 * [https://www.msp.gob.do/web/?page_id=6903](https://www.msp.gob.do/web/?page_id=6903)

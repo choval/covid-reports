@@ -1,5 +1,7 @@
 # Panama
 
+## Sources
+
 * [http://minsa.gob.pa/publicaciones?title=&date%5Bvalue%5D%5Byear%5D=2020&type=All](http://minsa.gob.pa/publicaciones?title=&date%5Bvalue%5D%5Byear%5D=2020&type=All)
 * [http://minsa.gob.pa/publicaciones?title=&date%5Bvalue%5D%5Byear%5D=2020&type=25](http://minsa.gob.pa/publicaciones?title=&date%5Bvalue%5D%5Byear%5D=2020&type=25)
 
