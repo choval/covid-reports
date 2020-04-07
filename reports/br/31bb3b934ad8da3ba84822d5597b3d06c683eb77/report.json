@@ -1,0 +1,26 @@
+{
+    "filename": "20200330-POP-EPI-ver002-Final.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/30\/20200330-POP-EPI-ver002-Final.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208827,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "400729",
+        "date": "Mon, 06 Apr 2020 21:33:47 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_37E6F52F79F325C15888DD0F36785B5D_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 19:52:32 GMT",
+        "etag": "\"61d59-5a217cab9174f\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 9116843e269dabf0500134fa62bba0b8.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "FVgta03ycuiX3EBW2eyKuri3ea9lo6Ti5x6PXyP2IROmfuc15OoVgA=="
+    },
+    "lang": "pt",
+    "size": 400729,
+    "modified": 1585597952
+}

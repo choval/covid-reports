@@ -1,0 +1,26 @@
+{
+    "filename": "20200330-FLUXO-Teleatendimento-ver06-verFinal.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/30\/20200330-FLUXO-Teleatendimento-ver06-verFinal.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208890,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "650748",
+        "date": "Mon, 06 Apr 2020 21:34:49 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_18B0D71209901C94B89DDB378D22FA01_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 19:50:47 GMT",
+        "etag": "\"9edfc-5a217c47296dd\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 915092a962e63573a018390dfbdde6a5.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "kwjo99_AkKvMu3TEru5XDoFWTJkXcC8-6XldSvDzbmp1kUohVqMA4w=="
+    },
+    "lang": "pt",
+    "size": 650748,
+    "modified": 1585597847
+}

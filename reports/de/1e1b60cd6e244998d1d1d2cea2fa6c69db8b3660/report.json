@@ -1,0 +1,24 @@
+{
+    "filename": "DIVI_Intensivregister-Verordnung.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/Gesetze_und_Verordnungen\/GuV\/D\/DIVI_Intensivregister-Verordnung.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586209249,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Mon, 06 Apr 2020 21:40:49 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "102917",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Mon, 06 Apr 2020 13:49:19 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Wed, 06 May 2020 13:58:41 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 102917,
+    "modified": 1586180959
+}

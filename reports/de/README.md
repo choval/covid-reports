@@ -6,6 +6,12 @@
 * [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
 
 
+## 2020-04-06
+
+* [2020-04-06-de.pdf](d4f17dedbc3eff325f0c6e240c44f4fdac26c759/file.pdf) @15:52 GMT
+* [2020-04-06-en.pdf](676d3292cd44671b6a383dae22626726ea4a8c07/file.pdf) @15:51 GMT
+* [DIVI\_Intensivregister-Verordnung.pdf](1e1b60cd6e244998d1d1d2cea2fa6c69db8b3660/file.pdf) @13:49 GMT
+
 ## 2020-04-05
 
 * [2020-04-05-en.pdf](16e46bb575974d4ec915af5620b82b7b14e4883b/file.pdf) @11:56 GMT
@@ -112,8 +118,8 @@
 
 ## 2020-03-17
 
-* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [COVID-19\_Tipps\_bei\_haeuslicher\_Quarantaene.pdf](8408a50591ab330b28f1015dae6ee0c7ae20b5ef/file.pdf) @11:55 GMT
+* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [BMG\_C-19\_200316\_info\_BW\_Pflegeheim.pdf](0afe20a3730a82d6332eab0a96254e5ec5d48315/file.pdf) @10:55 GMT
 * [2020-03-16-en.pdf](8f0dc96a7bbe27d96f0b67085e74c87a1bbd24a0/file.pdf) @08:18 GMT
 * [2020-03-16-de.pdf](93b43ff3f586cb325a829dec8f52c243e6d9d8aa/file.pdf) @08:16 GMT
@@ -121,8 +127,8 @@
 
 ## 2020-03-16
 
-* [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
 * [BMG\_C-19\_200315\_info\_VT\_Krankenhaus.pdf](4e9956a6351bb888c60d57e03a057b86d7ecbcac/file.pdf) @14:26 GMT
+* [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
 * [2020-03-15-en.pdf](ed7447aaeef86b94fc307537e99157190cc9217b/file.pdf) @07:30 GMT
 
 ## 2020-03-14

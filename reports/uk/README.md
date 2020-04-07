@@ -5,6 +5,14 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-06
+
+* [coronavirus-covid-19-scaling-up-our-testing-programmes](f14e6af62073089554ab5f46874ca98a5885ce38/file.pdf) @21:51 GMT
+* [exceeding-waste-storage-limits-at-permitted-sites-because-of-covid-19-rps-c2](e97958f59d17fb79a96ad03fa5abbf32249315dc/file.pdf) @21:51 GMT
+* [water-and-sewerage-company-osm-and-uwwtr-sampling-affected-by-covid-19-rps-c3](23092f437c1d4ad4a5c4dc0d98efceb76062e70f/file.pdf) @21:51 GMT
+* [open-letter-to-pharmacists-jo-churchill-april-2020.pdf](e14c4e23e9154e5d0067d83bfd9f87511922e6a4/file.pdf) @16:48 GMT
+* [2020-03-30-occupational-health-advice-for-employers-and-pregnant-women-during-the-covid-19-pandemic-20200406.pdf](49df308481aa2494e1ddd0786a359b2ab29cfc14/file.pdf) @12:29 GMT
+
 ## 2020-04-04
 
 * [wuhan-novel-coronavirus-epidemiology-virology-and-clinical-features](10905fd55ba03547550da7ff723584ef043816a9/file.pdf) @23:59 GMT

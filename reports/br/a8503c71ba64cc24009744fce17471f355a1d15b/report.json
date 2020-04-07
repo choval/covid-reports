@@ -1,0 +1,26 @@
+{
+    "filename": "03--ERRATA---Boletim-Epidemiologico-05.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/24\/03--ERRATA---Boletim-Epidemiologico-05.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208780,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "423878",
+        "date": "Mon, 06 Apr 2020 21:32:59 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_B9925F8352F3634417CA5C9EF430EA67_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 24 Mar 2020 17:47:41 GMT",
+        "etag": "\"677c6-5a19d592e48b9\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 f0ccde3c63bb0c13552807c8453d7f50.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "9acZxGoZOGU5KnyQtJBhuArZ9kHclQePXGKDjhG_31PMV9dcF7Bi2g=="
+    },
+    "lang": "pt",
+    "size": 423878,
+    "modified": 1585072061
+}

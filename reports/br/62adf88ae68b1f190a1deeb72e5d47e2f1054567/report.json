@@ -1,0 +1,26 @@
+{
+    "filename": "20200330-AtendimentoOdontologico-Fluxo-ver002-Final.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/30\/20200330-AtendimentoOdontologico-Fluxo-ver002-Final.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208840,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "170232",
+        "date": "Mon, 06 Apr 2020 21:33:59 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_5148BA94E6CBA962A6F6DC1A1FA439B3_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 19:44:27 GMT",
+        "etag": "\"298f8-5a217adc8e773\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4e7662dfcb550119d8d03c39a78ec2ea.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "Ohqt5FpTQyNxYKMmBmc_EhhiReWW0jVWKNzDWtrFX-8Iwjx0haU-uA=="
+    },
+    "lang": "pt",
+    "size": 170232,
+    "modified": 1585597467
+}

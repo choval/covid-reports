@@ -8,6 +8,7 @@
 
 ## 2020-04-06
 
+* [Boletin-especial-18-COVID-19.pdf](f608aab786bc35d2b329fb97ba707d782b3ba2b1/file.pdf) @21:41 GMT
 * [Plan-CONTINGENCIA-COVID-19.pdf](fd7f2480f2b8709db08622d7efb9b8a676ba8d72/file.pdf) @02:44 GMT
 * [Directriceds-Adultos-mayores-COVID-19.pdf](073e8c4fc1eba1bcd97500e8d2cee94819b1f831/file.pdf) @02:44 GMT
 * [Boletin-especial-17-COVID-19-05-04-2020.pdf](0cdd1842c91d2720fa1f8096d60012a3b0eca495/file.pdf) @02:44 GMT

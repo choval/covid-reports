@@ -4,8 +4,14 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-07
+
+* [informe-situacion-relacion-coronavirus-covid-19-1](f8edb6f0a82c02c1a303dfc555206ce2d4f8f63d/file.pdf) @00:28 GMT
+
 ## 2020-04-06
 
+* [MSP\_RECOMENDACIONES\_PERSONAS\_MAYORES\_COVID\_19.pdf](7b9d0b886cc0725d9f39fd868ce322650a6efad7/file.pdf) @22:15 GMT
+* [plan-nacional-capacitacion-enfermeria-ante-covid-19](daeda32189e4ec656d152e708069bae773f782a3/file.pdf) @21:52 GMT
 * [informacion-interes-actualizada-sobre-coronavirus-covid-19-0](74696ac77372b88d49ed71d412068eeb811d6710/file.pdf) @03:14 GMT
 
 ## 2020-04-05

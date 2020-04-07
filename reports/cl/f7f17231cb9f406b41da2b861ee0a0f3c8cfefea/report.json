@@ -1,0 +1,24 @@
+{
+    "filename": "INFORMACION-COVID-19-PARA-PERSONAS-QUE-VIVEN-CON-VIH_final.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/INFORMACION-COVID-19-PARA-PERSONAS-QUE-VIVEN-CON-VIH_final.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586216868,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 06 Apr 2020 23:47:32 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Mon, 06 Apr 2020 22:27:33 GMT",
+        "etag": "\"32628b-5a2a6c5f51f40\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_168_1958315=qjkQXf7TCx9E5lJnOttUAqS\/i14AAAAABI4qG6oJcDNI2GeSKXCdsw==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "4-6473916-6473949 NNNN CT(99 324 0) RT(1586216867160 323) q(0 0 5 0) r(6 6) U6"
+    },
+    "lang": "es",
+    "size": 3302027,
+    "modified": 1586212053
+}

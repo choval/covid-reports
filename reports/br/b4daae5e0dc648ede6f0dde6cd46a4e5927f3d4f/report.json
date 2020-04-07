@@ -1,0 +1,28 @@
+{
+    "filename": "GuiaDeVigiEp-final.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/06\/GuiaDeVigiEp-final.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208817,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "745426",
+        "date": "Mon, 06 Apr 2020 21:33:37 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_400556964667C8856E386160E48107A5_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 06 Apr 2020 17:35:14 GMT",
+        "etag": "\"b5fd2-5a2a2b09b7487\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 9c1e51085ad77fbbab78fe2feb46cf98.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "2dtTFJZf4P9J6lvik_RH1-6IT0pFUNOViyPUsRqgbRri54-LRw5z0Q=="
+    },
+    "lang": "pt",
+    "size": 745426,
+    "modified": 1586194514
+}

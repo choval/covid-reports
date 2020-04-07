@@ -1,0 +1,26 @@
+{
+    "filename": "Livreto-Plano-de-Contingencia-5-Corona2020-210x297-16mar.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/25\/Livreto-Plano-de-Contingencia-5-Corona2020-210x297-16mar.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208811,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "844868",
+        "date": "Mon, 06 Apr 2020 21:33:31 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_07D1A9AE2BD37BE99F597B06345F377A_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 25 Mar 2020 17:10:24 GMT",
+        "etag": "\"ce444-5a1b0f1b141ff\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 f7e7b00c5c66a4e43041ba24c378d07a.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "mdlUd4_15hMoRMdcHUWvXLXmOLfFxa--O4dj1PNIzZ06PIIwpeArJQ=="
+    },
+    "lang": "pt",
+    "size": 844868,
+    "modified": 1585156224
+}

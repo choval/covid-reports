@@ -5,6 +5,10 @@
 * [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/)
 
 
+## 2020-04-06
+
+* [INFORMACION-COVID-19-PARA-PERSONAS-QUE-VIVEN-CON-VIH\_final.pdf](f7f17231cb9f406b41da2b861ee0a0f3c8cfefea/file.pdf) @22:27 GMT
+
 ## 2020-04-04
 
 * [Lista-Test-Rapidos-Covid-al-03\_04\_2020.pdf](956f4bc22890ffab5ae97c5b4407f1285cc6be4b/file.pdf) @21:14 GMT

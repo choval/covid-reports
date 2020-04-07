@@ -1,0 +1,26 @@
+{
+    "filename": "ML_Infographic_STAY AT HOME V2.pdf",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/stay-home-v2\/pdf\/ml_infographic_stay-at-home-v2.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586209806,
+    "headers": {
+        "http-status": 200,
+        "content-length": "880664",
+        "content-type": "application\/pdf",
+        "last-modified": "Mon, 06 Apr 2020 16:49:09 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"ML_Infographic_STAY AT HOME V2.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14400",
+        "date": "Mon, 06 Apr 2020 21:50:06 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=9c8f2e5674ebf131cbf0a2f766391cf223708b748558bfef58eb7a615566ef0d;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 880664,
+    "modified": 1586191749
+}

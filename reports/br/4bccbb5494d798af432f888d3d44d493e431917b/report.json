@@ -1,0 +1,26 @@
+{
+    "filename": "Recomendacoes-para-acompanhantes-e-ou-visitantes-nos-servi--os.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/26\/Recomendacoes-para-acompanhantes-e-ou-visitantes-nos-servi--os.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208834,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "912492",
+        "date": "Mon, 06 Apr 2020 21:33:53 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_F2E38C004F08C798A10456CD0850159F_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 26 Mar 2020 23:49:47 GMT",
+        "etag": "\"dec6c-5a1caa3cc7db8\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 c04393ee620bcaec604b651f00ec992b.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "MNYEWpuhD2WoM1PG81_iWhG8BwUVA8sFqKZDlINfrXeyQBm0UA6xaw=="
+    },
+    "lang": "pt",
+    "size": 912492,
+    "modified": 1585266587
+}

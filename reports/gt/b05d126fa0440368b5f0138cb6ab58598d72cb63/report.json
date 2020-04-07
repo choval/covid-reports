@@ -1,0 +1,22 @@
+{
+    "filename": "Anex3.7-Proc-COVID19.pdf",
+    "uri": "https:\/\/mspas.gob.gt\/index.php\/component\/jdownloads\/send\/485-anexos\/3415-anexo-3-7",
+    "output": "file.pdf",
+    "downloaded": 1586218265,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 07 Apr 2020 00:10:42 GMT",
+        "server": "Apache",
+        "x-powered-by": "PHP\/5.6.30",
+        "set-cookie": "UqZBpD3n3iPIDwJU9DmTlFmPQu8FptcZ=v1LuCGSe+Ciuj; Expires=Thu, 04-Apr-2030 16:49:11 GMT; Path=\/",
+        "cache-control": "private, max-age=0, must-revalidate, no-store",
+        "content-disposition": "inline; filename=\"Anex3.7-Proc-COVID19.pdf\"",
+        "last-modified": "Mon, 06 Apr 2020 21:55:07 GMT",
+        "content-length": "508772",
+        "connection": "close",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 508772,
+    "modified": 1586210107
+}

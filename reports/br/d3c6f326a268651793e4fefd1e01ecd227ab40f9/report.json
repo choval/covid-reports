@@ -1,0 +1,28 @@
+{
+    "filename": "Cartilha--Crian--as-Coronavirus.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/06\/Cartilha--Crian--as-Coronavirus.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208751,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "8086555",
+        "date": "Mon, 06 Apr 2020 21:32:30 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_A11198318673E005FDAFC9F47AC7427C_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 06 Apr 2020 13:21:34 GMT",
+        "etag": "\"7b641b-5a29f255eda30\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 3f04207ac26aea3851a49c14dde50426.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C2",
+        "x-amz-cf-id": "9OD6i-fDhElZScqymIQgsVEaV1rjbaCBm_awojBG3j979nI5kgJyrA=="
+    },
+    "lang": "pt",
+    "size": 8086555,
+    "modified": 1586179294
+}

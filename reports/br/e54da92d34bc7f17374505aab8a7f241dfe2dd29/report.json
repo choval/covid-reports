@@ -1,0 +1,26 @@
+{
+    "filename": "Fluxo-de-manejo-cli--nico-pedia--trico.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/25\/Fluxo-de-manejo-cli--nico-pedia--trico.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208869,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "971301",
+        "date": "Mon, 06 Apr 2020 21:34:29 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_8A42BF799D10063FB453305FB8A386B1_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 25 Mar 2020 15:28:50 GMT",
+        "etag": "\"ed225-5a1af866c1d60\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 6942e0a7028903cf12585df4ca12fcb5.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "n5VjOnr_5tnJbge2w0bZ1sWpQdzchNlhn3ZbsP5Z3byVRaSYKvZwlA=="
+    },
+    "lang": "pt",
+    "size": 971301,
+    "modified": 1585150130
+}

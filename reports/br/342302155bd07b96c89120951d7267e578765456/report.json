@@ -1,0 +1,26 @@
+{
+    "filename": "manejo-corpos-coronavirus-versao1-25mar20-rev5.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/25\/manejo-corpos-coronavirus-versao1-25mar20-rev5.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208845,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1599444",
+        "date": "Mon, 06 Apr 2020 21:34:05 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_45994BAC380A8A00BDC454993DF255F5_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 25 Mar 2020 22:56:53 GMT",
+        "etag": "\"1867d4-5a1b5c8cce6fd\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 3c2926282c7100f1e8c775f2126906c2.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "-DQMj6UTeHPaJ_AeFb23S3xrW6rD-KRNoK-8ujG6b2NRA-xKcy6fuQ=="
+    },
+    "lang": "pt",
+    "size": 1599444,
+    "modified": 1585177013
+}

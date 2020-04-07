@@ -1,0 +1,26 @@
+{
+    "filename": "2020-04-06---BE7---Boletim-Especial-do-COE---Atualizacao-da-Avaliacao-de-Risco.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/06\/2020-04-06---BE7---Boletim-Especial-do-COE---Atualizacao-da-Avaliacao-de-Risco.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208772,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "4890312",
+        "date": "Mon, 06 Apr 2020 21:32:52 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_1F8EF36E8720ABD3ED3C8437F28876DB_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 06 Apr 2020 20:30:02 GMT",
+        "etag": "\"4a9ec8-5a2a521b20a7b\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 019240c167e60128b9dbe3d5c782bc6d.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "iXupavObcaKqnqKRYES6xbQ21H7A3vb759k1mp1PA9Fty2fc-mLMDw=="
+    },
+    "lang": "pt",
+    "size": 4890312,
+    "modified": 1586205002
+}

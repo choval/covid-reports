@@ -1,0 +1,26 @@
+{
+    "filename": "20200330-FAST-TRACK-ver06-verFinal.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/30\/20200330-FAST-TRACK-ver06-verFinal.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208885,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "670886",
+        "date": "Mon, 06 Apr 2020 21:34:44 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_53A28D21CF3F9E6241CB84743CCB8973_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 19:50:27 GMT",
+        "etag": "\"a3ca6-5a217c33c880a\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 cdebf0009712844928e9487620fe17f6.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "wqMwKe4PNFsvag20pgRYkdZoRkWh8v4JHIAF46_iocGgVNEGPPTQiQ=="
+    },
+    "lang": "pt",
+    "size": 670886,
+    "modified": 1585597827
+}

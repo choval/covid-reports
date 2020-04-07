@@ -1,0 +1,26 @@
+{
+    "filename": "20200330-Formula--rio-Identificac--a--oTeleatendimento-002-verFinal.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/30\/20200330-Formula--rio-Identificac--a--oTeleatendimento-002-verFinal.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208896,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "711197",
+        "date": "Mon, 06 Apr 2020 21:34:55 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_AE1CABEAE1D1B255430B69D1C677DABC_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 19:52:11 GMT",
+        "etag": "\"ada1d-5a217c97164ef\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 2e35e46999104454d42bab56b4746dbd.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "LNSv1TZ6qBM4dK8NSH-aLtA8Om-TAG-Ne9xarCM8w5QTsjYz5-L-cQ=="
+    },
+    "lang": "pt",
+    "size": 711197,
+    "modified": 1585597931
+}

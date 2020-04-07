@@ -5,6 +5,14 @@
 * [https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
 
 
+## 2020-04-06
+
+* [C\_17\_notizie\_4410\_1\_file.pdf](1e3bea07ea5b729dcc47869c282cdb3ecb427cf1/file.pdf) @21:43 GMT
+* [C\_17\_notizie\_4410\_0\_file.pdf](a5c2a8c5536d2b24ceedd9847e16848ec9f0ce9e/file.pdf) @21:43 GMT
+* [Infografica\_6aprile ITA.pdf](4c0de47b99ec0f90065c9df071378eb4086c0ac9/file.pdf) @16:02 GMT
+* [Infografica\_6aprile ENG.pdf](e9bc43f93a318c11fcb9a71a9936d6627289c5b5/file.pdf) @15:55 GMT
+* [Infografica\_6aprile ENG.pdf](aad322d5bdccd998f81e66878963bfd3d2e6b9b2/file.pdf) @15:55 GMT
+
 ## 2020-04-05
 
 * [C\_17\_notizie\_4403\_1\_file.pdf](4d08b792159444e88389ba3095edade75eb04dc8/file.pdf) @21:36 GMT
@@ -15,8 +23,8 @@
 
 ## 2020-04-04
 
-* [Infografica\_4aprile ENG.pdf](5054175f81881782bbd98e7ef7307fcb3c878293/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
+* [Infografica\_4aprile ENG.pdf](5054175f81881782bbd98e7ef7307fcb3c878293/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ITA.pdf](7881f2225bfb7e07af7e3b25f9ffcda3e0d95fe8/file.pdf) @18:08 GMT
 * [C\_17\_notizie\_4399\_1\_file.pdf](8f1dc784d978f7f725feef4cd2439f1be51db591/file.pdf) @18:01 GMT
 * [C\_17\_notizie\_4399\_0\_file.pdf](5312e4146209a88022f397834bec38c7fc4261f7/file.pdf) @18:01 GMT
@@ -40,8 +48,9 @@
 
 * [C\_17\_notizie\_4386\_1\_file.pdf](ce27becc3199be600a49d682a90ce8eeacdc0d6c/file.pdf) @21:29 GMT
 * [C\_17\_notizie\_4386\_0\_file.pdf](3655aacc420d6d39f1ffde52db74bb0d5a2514ce/file.pdf) @21:29 GMT
-* [Infografica\_2aprile ENG.pdf](d62c38471e0b0d2a4e8d338263d8a68fc15bdd6a/file.pdf) @15:47 GMT
+* [volantino-violenza-1.pdf](824bd53a5ab0253a5db161f891c108b636f10137/file.pdf) @20:43 GMT
 * [Infografica\_2aprile ENG.pdf](7dd5119ea2ae7c7751091ebec68f788b2dcf36f0/file.pdf) @15:47 GMT
+* [Infografica\_2aprile ENG.pdf](d62c38471e0b0d2a4e8d338263d8a68fc15bdd6a/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ITA.pdf](c850a58046e66918025001c409915a0879a64437/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ITA.pdf](5356b6cd7bbd2e64cbeebdf9050786a22e73cac0/file.pdf) @15:47 GMT
 * [lopinavir\_ritonavir\_02.04.2020.pdf](4546724f240cc52f3d397caedfff7d3a6ef96cc0/file.pdf) @15:32 GMT

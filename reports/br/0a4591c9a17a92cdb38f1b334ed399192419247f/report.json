@@ -1,0 +1,26 @@
+{
+    "filename": "nota-informativa-ACE-Covid-19-27mar20.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/30\/nota-informativa-ACE-Covid-19-27mar20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208822,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "220801",
+        "date": "Mon, 06 Apr 2020 21:33:42 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_39E7C4E0373F832548E65756FF4E88AD_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 30 Mar 2020 17:31:21 GMT",
+        "etag": "\"35e81-5a215d1d47e5e\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 daeaa56d606882a18020d4b2db149c16.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "yycEpkSKFlY_A7DNgHyPBVVoi0eL9REa2Wcm8IcysfY-_LhQ3yQmYQ=="
+    },
+    "lang": "pt",
+    "size": 220801,
+    "modified": 1585589481
+}

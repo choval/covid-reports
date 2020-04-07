@@ -1,0 +1,26 @@
+{
+    "filename": "Boletim-epidemiologico-COEcorona-SVS-13fev20.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/fevereiro\/13\/Boletim-epidemiologico-COEcorona-SVS-13fev20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208795,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1403746",
+        "date": "Mon, 06 Apr 2020 21:33:15 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_EF16BB0FE72AA073BE45961DD10C94C0_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 19 Mar 2020 02:59:53 GMT",
+        "etag": "\"156b62-5a12c5ce99c40\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 ca1d5a4b52d08cd5e7ea6f85005bf085.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "pvn2O-O2Mi_TbvuoqKFbNBED8IHOhGTovPnAGn1RVuwge0mQICDu1w=="
+    },
+    "lang": "pt",
+    "size": 1403746,
+    "modified": 1584586793
+}

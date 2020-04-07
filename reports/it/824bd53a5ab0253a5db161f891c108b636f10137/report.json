@@ -1,0 +1,19 @@
+{
+    "filename": "volantino-violenza-1.pdf",
+    "uri": "http:\/\/www.pariopportunita.gov.it\/wp-content\/uploads\/2020\/04\/volantino-violenza-1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586209434,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 06 Apr 2020 21:43:54 GMT",
+        "server": "Apache",
+        "last-modified": "Thu, 02 Apr 2020 20:43:58 GMT",
+        "etag": "\"383c0b-24abb-5a254dc294056\"",
+        "accept-ranges": "bytes",
+        "content-length": "150203",
+        "content-type": "application\/pdf"
+    },
+    "lang": "it",
+    "size": 150203,
+    "modified": 1585860238
+}

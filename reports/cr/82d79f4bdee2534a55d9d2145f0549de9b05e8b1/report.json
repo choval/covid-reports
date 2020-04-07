@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_generales_ss_v4_06042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_generales_ss_v4_06042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586209041,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 06 Apr 2020 21:37:21 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 06 Apr 2020 19:32:37 GMT",
+        "etag": "\"6688c-5a2a45458df40\"",
+        "accept-ranges": "bytes",
+        "content-length": "419980",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 419980,
+    "modified": 1586201557
+}

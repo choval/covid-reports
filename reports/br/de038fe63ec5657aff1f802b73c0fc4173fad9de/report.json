@@ -1,0 +1,26 @@
+{
+    "filename": "2-Etapa-Fluxogramas-COVID-19-SAES-Z.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/20\/2-Etapa-Fluxogramas-COVID-19-SAES-Z.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208852,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "908109",
+        "date": "Mon, 06 Apr 2020 21:34:12 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_182A1C3786024C647345DAB675183F62_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Fri, 20 Mar 2020 22:39:28 GMT",
+        "etag": "\"ddb4d-5a150f54ee07d\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 c04393ee620bcaec604b651f00ec992b.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "ZR0i5ydP2eB-ALbib6WKePekJYKGqZOjn7FgGS2N_gY3G2VXinTdeg=="
+    },
+    "lang": "pt",
+    "size": 908109,
+    "modified": 1584743968
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "Fluxo-de-manejo-cl--nico-de-gestantes.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/marco\/25\/Fluxo-de-manejo-cl--nico-de-gestantes.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586208857,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "970324",
+        "date": "Mon, 06 Apr 2020 21:34:17 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_BE9D4F97E205037F6CFBDDEABC2539E4_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 25 Mar 2020 15:29:06 GMT",
+        "etag": "\"ece54-5a1af876448de\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 9116843e269dabf0500134fa62bba0b8.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "7psw1WzSrAAhM_MFr-FcNZc47n47sAWkJ9myR63KEpxrEmqvxSYq0Q=="
+    },
+    "lang": "pt",
+    "size": 970324,
+    "modified": 1585150146
+}

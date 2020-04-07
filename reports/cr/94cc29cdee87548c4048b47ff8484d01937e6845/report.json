@@ -1,0 +1,22 @@
+{
+    "filename": "1600-semana-cierra-con-16-personas-recuperadas-por-covid-19",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/index.php\/centro-de-prensa\/noticias\/741-noticias-2020\/1600-semana-cierra-con-16-personas-recuperadas-por-covid-19",
+    "output": "file.pdf",
+    "downloaded": 1586209186,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 06 Apr 2020 21:39:45 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "x-powered-by": "PHP\/7.1.8",
+        "set-cookie": "8cd12c6ad39b41813d2d8929fe5e4c82=fikbjkhur9c2vtbcnvaii6alp8; path=\/; HttpOnly",
+        "p3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Mon, 06 Apr 2020 21:39:45 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 181984,
+    "modified": 1586209196
+}

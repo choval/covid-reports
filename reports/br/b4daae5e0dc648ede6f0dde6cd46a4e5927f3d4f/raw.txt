@@ -1,0 +1,1310 @@
+COE/SVS/MS | Abr. 2020
+1
+Guia de Vigilância Epidemiológica
+Emergência de Saúde Pública
+de Importância Nacional pela
+Doença pelo Coronavírus 2019
+Vigilância Integrada de Síndromes Respiratórias Agudas
+Doença pelo Coronavírus 2019, Influenza e outros vírus respiratórios
+03/04/2020
+MINISTÉRIO DA SAÚDE
+Guia de Vigilância Epidemiológica
+Emergência de Saúde Pública
+de Importância Nacional pela
+Doença pelo Coronavírus 2019
+Vigilância Integrada de Síndromes Respiratórias Agudas
+Doença pelo Coronavírus 2019, Influenza e outros vírus respiratórios
+03/04/2020
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+03 de abril de 2020
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+2
+SUMÁRIO
+Introdução . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Vigilância Sentinela de Síndromes Gripais .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Vigilância Universal de Síndrome Respiratória Aguda Grave (SRAG) . .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Influenza .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Doença pelo Coronavírus 2019 (COVID-19) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Códigos Internacionais de Doenças (CID-10: SG e SRAG) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Objetivos do Sistema de Vigilância de Síndromes Respiratórias Agudas . .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Objetivo geral .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Objetivos específicos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Definições operacionais .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+CASOS SUSPEITOS .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+CASOS CONFIRMADOS . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+POR CRITÉRIO LABORATORIAL .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+POR CRITÉRIO CLÍNICO-EPIDEMIOLÓGICO . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+CASO DESCARTADO DE DOENÇA PELO CORONAVÍRUS 2019 (COVID-2019) . .  .  .  .  .  .  .  .  .  .  . 9
+Notificação e registro .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+O que notificar? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Quem deve notificar? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Quando notificar? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Como notificar? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+E quando for óbito? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .10
+Legislação vigente de referência .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .10
+Leis  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .10
+Decretos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+Portarias .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+Investigação laboratorial do coronavírus .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+Sobre o registro dos testes . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+Tipos de testes laboratoriais para vírus respiratórios  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+Teste molecular: RT-PCR em tempo real (RT-PCR)  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+Testes imunológicos: teste rápido ou sorologia clássica para detecção de anticorpos .  . 13
+Processamento de amostras . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .14
+Teste molecular: RT-PCR em tempo real (RT-PCR) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+3
+Processo semiautomatizado .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+RT-PCR em tempo real (qRT-PCR) – processo automatizado .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+Sequenciamento viral  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+Indicação de coleta de amostras .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 18
+Casos suspeitos de SG ou SRAG .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .18
+Biossegurança para coleta de amostras .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+Técnica para a coleta e acondicionamento das amostras  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+Coleta de amostras  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .20
+Acondicionamento, transporte e envio de amostras para diagnóstico  .  .  .  .  .  .  .  .  .  .  .  .20
+Biossegurança laboratorial para a COVID-19 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+Laboratórios .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .22
+Análise laboratorial em LACEN . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .22
+Análise laboratorial em laboratórios privados . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .23
+Sistema Gerenciador de Ambiente Laboratorial – GAL .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+Indicação para a coleta de amostras em situação de óbito .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+Características gerais sobre a infecção humana pelo novo coronavírus (COVID-19) .  .  .  .  .  .  . 25
+Agente etiológico .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25
+Reservatório e modo de transmissão .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .25
+Período de incubação . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .25
+Período de transmissibilidade . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .25
+Suscetibilidade e imunidade . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .26
+Manifestações clínicas .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26
+Complicações .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Diagnóstico .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .29
+Diagnóstico clínico .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+Diagnóstico laboratorial .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+Diagnóstico diferencial .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .29
+Atendimento e tratamento .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .29
+Medidas de prevenção e controle para atendimento de casos suspeitos ou confirmados .  .  . 30
+Glossário . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Referências .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .32
+Colaboradores .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 32
+Anexos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .34
+FICHA DE INVESTIGAÇÃO DE SG SUSPEITO DE DOENÇA PELO CORONAVÍRUS 2019 – COVID-19 .  . 35
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+4
+Introdução
+Em 20 de março de 2020, foi declarado que a transmissão do novo coronavírus passou a ser
+considerada comunitária em todo o território nacional. Com isso, a Secretaria de Vigilância
+em Saúde do Ministério da Saúde (SVS/MS) realizou a adaptação do Sistema de Vigilância de
+Síndromes Respiratórias Agudas, visando orientar o Sistema Nacional de Vigilância em Saúde
+para a circulação simultânea do coronavírus, influenza e outros vírus respiratórios no âmbito da
+Emergência de Saúde Pública de Importância Nacional.
+O Sistema de Vigilância de Síndromes Respiratórias Agudas foi criado em 2000 para realizar o
+monitoramento do vírus influenza a partir da Vigilância Sentinela de Síndromes Gripais (SG). Em
+2009, após a pandemia de influenza pelo vírus H1N1, foi incorporada a Vigilância Universal de
+Síndrome Respiratória Aguda Grave (SRAG).
+Essa adaptação é temporária e visa garantir a manutenção do sistema de vigilância de
+influenza e compreender o impacto que a Doença pelo Coronavírus 2019 terá sobre o Sistema
+Único de Saúde. Ainda não é possível afirmar se o coronavírus permanecerá endêmico ou se
+desaparecerá após a pandemia.
+Vigilância Sentinela de Síndromes Gripais
+Criada em 2000 para monitoramento da influenza, a Vigilância Sentinela de Síndromes Gripais
+tem como objetivo fortalecer a vigilância epidemiológica de vírus respiratórios, por meio da
+identificação da circulação dos vírus respiratórios, de acordo com a patogenicidade, virulência
+em cada período sazonal, existência de situações inusitadas ou o surgimento de novo subtipo
+viral, além do isolamento de espécimes virais e o respectivo envio oportuno ao Centro
+Colaborador de referência para as Américas e para a Organização Mundial da Saúde (OMS),
+visando à adequação da vacina da influenza sazonal, bem como o monitoramento da circulação
+de vírus respiratórios.
+A rede é composta por unidades de saúde definidas pelos gestores dos municípios, estados e
+Distrito Federal.
+Para a informação do agregado de SG da unidade sentinela, deve-se selecionar o número de
+atendimentos por SG na respectiva semana epidemiológica por faixa etária e sexo, utilizando,
+como critérios de inclusão, os atendimentos por: gripe, SG, doença pelo coronavírus 2019,
+influenza, resfriado, faringite, laringite, amigdalite, traqueíte, Infecção das Vias Aéreas Superiores
+(IVAS), dor de garganta, rinorreia e laringotraqueíte.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+5
+Vigilância Universal de Síndrome Respiratória Aguda Grave (SRAG)
+Criada em 2009, em decorrência da pandemia de influenza pelo vírus H1N1, onde estima-se que
+25 a 50% dos pacientes infectados com A (H1N1) pdm09 que foram hospitalizados ou morreram
+apresentavam alguma comorbidade (doenças crônicas, imunossupressão, obesidade, entre
+outras) ou algum fator de risco para complicações clínicas (Bautista et al., 2010, Punpanich &
+Chotpitayasunondh, 2012).
+Influenza
+Os vírus influenza têm seu pico epidêmico nos meses de maio a setembro, nas regiões de
+clima temperado do Hemisfério Sul, entre dezembro e março, nas regiões de clima temperado
+do Hemisfério Norte e durante todo o ano (com maior incidência no período chuvoso), nas
+regiões tropicais e subtropicais (Tamerius et al., 2011, Viboud et al., 2006). Devido às dimensões
+continentais do Brasil, estendendo-se por áreas temperadas, subtropicais e equatoriais. É
+possível identificar distintos padrões de sazonalidade dos vírus influenza nas diferentes regiões
+do país (Mello et al., 2009, Motta et al., 2006, Moura et al., 2009, SVS, 2009).
+No Brasil, a região Sul apresenta uma sazonalidade similar à observada nos países de clima
+temperado, com epidemias com pico no inverno (junho-julho) (Straliotto et al., 2002). A região
+Norte apresenta dois picos, sendo o maior em associação ao período chuvoso (março-abril),
+como observado em países tropicais da Ásia (Moura et al., 2009). Já nas outras regiões do
+Brasil, temos uma situação intermediária, com casos detectados ao longo de todo o ano e picos
+menos acentuados no inverno (Alonso et al., 2007). Entretanto, a descontinuidade e a falta de
+homogeneidade dos serviços de epidemiologia nas diferentes regiões do país dificultam muito
+a comparação entre os dados de circulação de influenza.
+Em 2009 (semanas epidemiológicas 16 a 52) foram registrados, no Brasil, 2.051 óbitos ocasionados
+pelo vírus A (H1N1) pdm09, sendo a taxa de mortalidade nacional de 1,1/100 mil habitantes.
+Quando analisada separadamente por região geográfica, a mortalidade foi maior no Sul do país,
+atingindo 3/100 mil habitantes.
+Doença pelo Coronavírus 2019 (COVID-19)
+A COVID-19 é uma doença causada pelo coronavírus, denominado SARS-CoV-2, que apresenta
+um espectro clínico que varia de infecções assintomáticas a quadros graves. De acordo com a
+Organização Mundial de Saúde, a maioria (cerca de 80%) dos pacientes com COVID-19 podem ser
+assintomáticos ou oligossintomáticos e, aproximadamente, 20% dos casos detectados requer
+atendimento hospitalar por apresentarem dificuldade respiratória, dos quais aproximadamente
+5% podem necessitar de suporte ventilatório.
+A doença pelo coronavírus 2019 (COVID-19), nos casos sintomáticos, apresenta-se como uma
+síndrome respiratória aguda. Portanto, pode ser confundida com uma série de outras doenças
+comuns, principalmente, no período do outono-inverno que marca a sazonalidade do vírus
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+6
+influenza. Desse modo, as definições operacionais devem ser contextualizadas regionalmente,
+de acordo com a incidência da circulação dos vírus influenza A e B em todos os indivíduos. Além
+disso, adicionalmente, nas crianças abaixo de cinco (5) anos, também deve-se atentar para o
+Vírus Sincicial Respiratório (VSR).
+São condições clínicas de risco para desenvolvimento de complicações:
+• Pessoas com 60 anos ou mais;
+• Cardiopatas graves ou descompensados (insuficiência cardíaca, infartados,
+revascularizados,portadoresdearritmias,hipertensãoarterialsistêmicadescompensada);
+• Pneumopatas graves ou descompensados (dependentes de oxigênio, portadores de
+asma moderada/grave, DPOC);
+• Imunodeprimidos;
+• Doentes renais crônicos em estágio avançado (graus 3, 4 e 5);
+• Diabéticos, conforme juízo clínico;
+• Gestantes de alto risco.
+O vírus SARS-CoV-2 é transmitido de pessoa a pessoa, por meio de gotículas de saliva ou secreção
+nasal quando uma pessoa infectada tosse ou espirra. No momento, não existem vacinas ou
+tratamentos específicos para a COVID-19. No entanto, existem muitos ensaios clínicos em
+andamento avaliando possíveis tratamentos.
+Códigos Internacionais de Doenças (CID-10): SG e SRAG
+Doença pelo coronavírus 2019: B34.2 – Infecção por coronavírus de localização não especificada,
+U04.9 – Síndrome Respiratória Aguda Grave. Esta orientação será mantida até que as tabelas
+com os novos códigos definidos pela OMS sejam atualizadas nos sistemas de informação e que
+tenhamos a edição atualizada da CID-10, em língua portuguesa, que se encontra em fase de
+revisão.
+Influenza: J10 (todos) Influenza devido ao vírus influenza identificado e J11 (todos) Influenza
+devido ao vírus influenza não identificado.
+Outras doenças respiratórias agudas: J00 Nasofaringite aguda (resfriado comum); J02.9 Faringite
+aguda não especificada; J03.9 Amigdalite aguda não especificada; J04.0 Laringite aguda; J04.1
+Traqueíte aguda; J04.2 Laringotraqueíte aguda; J06 (todos) Infecção aguda das vias aéreas
+superiores e não especificadas.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+7
+Objetivos do Sistema de Vigilância de
+Síndromes Respiratórias Agudas
+Objetivo geral
+Orientar o Sistema Nacional de Vigilância em Saúde e a Rede de Serviços de Atenção à Saúde
+do SUS para atuação na identificação, notificação, registro, coleta de amostras, investigação
+laboratorial, manejo e medidas de prevenção e controle, incluindo a circulação simultânea de
+coronavírus, influenza e outros vírus respiratórios durante o período de abril a setembro de 2020.
+Objetivos específicos
+• Identificar precocemente a ocorrência de casos de doença pelo coronavírus 2019,
+influenza e Vírus Sincicial Respiratório (VSR) em crianças menores de 5 (cinco) anos
+de idade;
+• Identificar precocemente a ocorrência de casos de doença pelo coronavírus 2019 e
+influenza em pessoas com mais de 5 (cinco) anos de idade;
+• Estabelecer critérios para a notificação e registro de casos suspeitos em serviços de
+saúde, públicos e privados;
+• Estabelecer os procedimentos para investigação laboratorial;
+• Monitorar e descrever o padrão de morbidade e mortalidade por doença pelo
+coronavírus 2019, influenza em todas as idades e, adicionalmente, do VSR em crianças
+menores de 5 anos;
+• Monitorar as características clínicas e epidemiológicas dos vírus: influenza, coronavírus
+2019 e VSR;
+• Estabelecer as medidas de prevenção e controle;
+• Realizar a comunicação oportuna e transparente da situação epidemiológica no Brasil.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+8
+Definições operacionais
+CASOS SUSPEITOS
+DEFINIÇÃO 1 – SÍNDROME GRIPAL (SG): indivíduo com quadro respiratório agudo, caracterizado
+por sensação febril ou febre1
+, mesmo que relatada, acompanhada de tosse OU dor de garganta
+OU coriza OU dificuldade respiratória.
+• EM CRIANÇAS: considera-se também obstrução nasal, na ausência de outro diagnóstico
+específico.
+• EM IDOSOS: a febre pode estar ausente. Deve-se considerar também critérios específicos
+de agravamento como síncope, confusão mental, sonolência excessiva, irritabilidade e
+inapetência.
+DEFINIÇÃO 2 – SÍNDROME RESPIRATÓRIA AGUDA GRAVE (SRAG): Síndrome Gripal que apresente:
+dispneia/desconforto respiratório OU pressão persistente no tórax OU saturação de O2
+menor
+que 95% em ar ambiente OU coloração azulada dos lábios ou rosto.
+• EM CRIANÇAS: além dos itens anteriores, observar os batimentos de asa de nariz, cianose,
+tiragem intercostal, desidratação e inapetência.
+CASOS CONFIRMADOS
+POR CRITÉRIO LABORATORIAL: caso suspeito de SG ou SRAG com teste de:
+• Biologia molecular (RT-PCR em tempo real, detecção do vírus SARS-CoV2, influenza ou VSR):
+»
+» Doença pelo coronavírus 2019: com resultado detectável para SARS-CoV2.
+»
+» Influenza: com resultado detectável para influenza.
+»
+» Vírus Sincicial Respiratório: com resultado detectável para VSR.
+• Imunológico2
+(teste rápido ou sorologia clássica para detecção de anticorpos):
+»
+» Doença pelo coronavírus 2019: com resultado positivo para anticorpos IgM e/ou IgG.
+Em amostra coletada após o sétimo dia de início dos sintomas.
+POR CRITÉRIO CLÍNICO-EPIDEMIOLÓGICO: caso suspeito de SG ou SRAG com:
+Histórico de contato próximo ou domiciliar, nos últimos 7 dias antes do aparecimento dos
+sintomas, com caso confirmado laboratorialmente para COVID-19 e para o qual não foi possível
+realizar a investigação laboratorial específica.
+1
+Na suspeita de COVID-19, a febre pode não estar presente.
+2
+Ver informações sobre investigação laboratorial.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+9
+CASO DESCARTADO DE DOENÇA PELO CORONAVÍRUS 2019 (COVID-2019)
+Caso suspeito de SG ou SRAG com resultado laboratorial negativo para coronavírus (SARS-
+COV-2 não detectável pelo método de RT-PCR em tempo real), considerando a oportunidade da
+coleta OU confirmação laboratorial para outro agente etiológico.
+Notificação e registro
+O que notificar?
+Casos de SG e de SRAG hospitalizado ou óbito por SRAG, independente da hospitalização, que
+atendam a definição de caso.
+Quem deve notificar?
+Profissionais e instituições de saúde do setor público ou privado, em todo o território nacional,
+segundo legislação nacional vigente.
+Quando notificar?
+Devem ser notificados dentro do prazo de 24 horas a partir da suspeita inicial do caso ou óbito.
+Como notificar?
+Nas unidades públicas (atenção primária e pronto atendimento) e unidades
+privadas (clínicas, consultórios etc.)
+Casos de SG devem ser notificados por meio do sistema e-SUS VE https://notifica.saude.gov.br.
+»
+» Observação: nas unidades públicas, está sendo implementada a integração com o e-SUS atenção básica. Quando
+estiver em funcionamento, aqueles que utilizam o sistema poderão realizar a notificação diretamente do e-SUS
+AB. A Secretaria de Atenção Primária à Saúde (SAPS) irá informar o momento que o sistema passa a ser a porta
+de entrada para as notificações.
+Nas Unidades de Vigilância Sentinela de Síndrome Gripal
+Casos de SG devem seguir os fluxos já estabelecidos para a vigilância da influenza e outros vírus
+respiratórios, devendo ser notificados no Sistema de Informação da Vigilância Epidemiológica
+da Gripe (SIVEP-Gripe) https://sivepgripe.saude.gov.br/sivepgripe/
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+10
+Em todos os hospitais públicos ou privados
+Casos de SRAG hospitalizados devem ser notificados no Sistema de Informação da Vigilância
+Epidemiológica da Gripe (SIVEP-Gripe) https://sivepgripe.saude.gov.br/sivepgripe/
+E quando for óbito?
+Óbitos suspeitos, independente de internação, devem ser notificados no Sistema de Informação
+da Vigilância Epidemiológica da Gripe (SIVEP-Gripe) https://sivepgripe.saude.gov.br/sivepgripe/
+As orientações sobre o preenchimento e a emissão da Declaração de Óbito estão disponíveis
+no documento “Manejo de corpos no contexto do novo coronavírus COVID-19” (www.saude.gov.
+br/coronavirus).
+Legislação vigente de referência
+Leis
+LEI Nº 6.259, DE 30 DE OUTUBRO DE 1975: dispõe sobre a organização das ações de Vigilância
+Epidemiológica, sobre o Programa Nacional de Imunizações, estabelece normas relativas à
+notificação compulsória de doenças, e dá outras providências.
+• Link: http://www.planalto.gov.br/ccivil_03/leis/L6259.htm
+LEI Nº 6.437, DE 20 DE AGOSTO DE 1977: configura infrações à legislação sanitária federal,
+estabelece as sanções respectivas, e dá outras providências
+• Link: http://www.planalto.gov.br/ccivil_03/leis/l6437.htm
+LEI Nº 8.080, DE 19 DE SETEMBRO DE 1990: dispõe sobre as condições para a promoção, proteção
+e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá
+outras providências.
+• Link: http://www.planalto.gov.br/ccivil_03/leis/l8080.htm
+LEI Nº 13.979, DE 6 DE FEVEREIRO DE 2020: dispõe sobre as medidas para enfrentamento
+da emergência de saúde pública de importância internacional decorrente do coronavírus
+responsável pelo surto de 2019.
+• Link: http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L13979.htm
+Decretos
+DECRETO Nº 78.231, DE 12 DE AGOSTO DE 1976: regulamenta a Lei nº 6.259, de 30 de outubro de
+1975, que dispõe sobre a organização das ações de Vigilância Epidemiológica, sobre o Programa
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+11
+Nacional de Imunizações, estabelece normas relativas à notificação compulsória de doenças, e
+dá outras providências.
+• Link: http://www.planalto.gov.br/ccivil_03/decreto/1970-1979/D78231.htm
+DECRETO Nº 7.616, DE 17 DE NOVEMBRO DE 2011: dispõe sobre a declaração de Emergência em
+Saúde Pública de Importância Nacional – ESPIN e institui a Força Nacional do Sistema Único de
+Saúde – FN-SUS.
+• Link: http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
+DECRETO Nº 10.212, DE 30 DE JANEIRO DE 2020: promulga o texto revisado do Regulamento
+Sanitário Internacional, acordado na 58ª Assembleia-Geral da Organização Mundial de Saúde,
+em 23 de maio de 2005.
+• Link: http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Decreto/D10212.htm
+DECRETO Nº 10.211, DE 30 DE JANEIRO DE 2020: dispõe sobre o Grupo Executivo Interministerial
+de Emergência em Saúde Pública de Importância Nacional e Internacional – GEI-ESPII.
+• Link: http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10211.htm
+Portarias
+PORTARIA Nº 188, DE 03 DE FEVEREIRO DE 2020: declara Emergência em Saúde Pública de
+importância Nacional – ESPIN em decorrência da infecção humana pelo novo coronavírus (2019-
+nCoV).
+• Link: http://www.in.gov.br/en/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+PORTARIA Nº 264, DE 17 DE FEVEREIRO DE 2020: altera a Portaria de Consolidação nº 4/GM/
+MS, de 28 de setembro de 2017, para incluir a doença de Chagas crônica, na Lista Nacional de
+Notificação Compulsória de doenças, agravos e eventos de saúde pública nos serviços de saúde
+públicos e privados em todo o território nacional.
+• Link: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2020/prt0264_19_02_2020.html
+PORTARIA CONJUNTA Nº 1, DE 30 DE MARÇO DE 2020: estabelece procedimentos excepcionais
+para sepultamento e cremação de corpos durante a situação de pandemia do coronavírus, com
+a utilização da Declaração de Óbito emitida pelas unidades de saúde, apenas nas hipóteses
+de ausência de familiares ou de pessoas conhecidas do obituado ou em razão de exigência de
+saúde pública, e dá outras providências.
+• Link: https://www.cnj.jus.br/wp-content/uploads/2020/03/PortariaConjunta-1_2020-CNJ_MS.pdf
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+12
+Investigação laboratorial do coronavírus
+Sobre o registro dos testes
+Com base na Resolução de Diretoria Colegiada da Anvisa (RDC/Anvisa), nº 348, de 17 de março
+de 2020, foram definidos critérios e procedimentos extraordinários e temporários para registro
+de medicamentos, produtos biológicos e produtos para diagnóstico in vitro e mudança pós-
+registro de medicamentos e produtos biológicos em virtude da emergência de saúde pública
+internacional decorrente do novo coronavírus, vários fabricantes estão registrando seus
+produtos no mercado nacional e oferecendo para os gestores.
+O Ministério da Saúde determina que somente os testes registrados pela Anvisa podem ser
+adquiridos e devem ser utilizados conforme bula do fabricante. Todo teste possui limitações e
+deve ser ajustado para sua finalidade potencial.
+Para saber quais testes diagnósticos possuem registro na Anvisa, acesse o site do órgão.
+• Link: http://portal.anvisa.gov.br/coronavirus
+Tipos de testes laboratoriais para vírus respiratórios
+Resumo das etapas para a realização do RT-PCR em tempo real e recomendações técnicas.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+13
+Teste molecular: RT-PCR em tempo real (RT-PCR)
+É uma técnica de laboratório com base no princípio da reação em cadeia da polimerase (PCR)
+para multiplicar ácidos nucleicos, onde o material genético inicial na reação de PCR é RNA,
+que é transcrito no reverso em seu complemento de DNA por enzima transcriptase reversa. Do
+inglês Reverse transcription polymerase chain reaction quantitative real time – RT-PCR).
+Segundo a Sociedade Brasileira de Patologia Clínica/Medicina Laboratorial, a detecção do
+vírus por RT-PCR em tempo real (reação em cadeia da polimerase com transcrição reversa)
+permanece sendo o teste laboratorial de escolha para o diagnóstico de pacientes sintomáticos
+na fase aguda (entre o 3º e 7º dia da doença, preferencialmente).
+Testes imunológicos: teste rápido ou sorologia clássica para detecção de
+anticorpos
+Até o momento, o Ministério da Saúde só dispõe do ensaio imunocromatográfico para detecção
+rápidaequalitativadosanticorposIgG/IgMdasíndromerespiratóriaagudagraveporcoronavírus
+2 (SARS-CoV2), em amostras de sangue total, soro ou plasma humano. O teste deve ser usado
+como uma ferramenta para auxílio no diagnóstico da doença por infecção por coronavírus
+(COVID 19), causada pelo SARS-CoV2. São testes qualitativos para triagem e auxílio diagnóstico.
+Resultados negativos não excluem a infecção por SARS-CoV2 e resultados positivos não podem
+ser usados como evidência absoluta de SARS-CoV2. O resultado deve ser interpretado por um
+médico com auxílio dos dados clínicos e outros exames laboratoriais confirmatórios.
+Atualmente, há muitas empresas produzindo testes rápidos para diagnosticar COVID-19. De
+forma geral, os testes sorológicos visam detectar anticorpo específico produzido pelo corpo
+humano contra o vírus SARS-CoV2 ou detectar antígeno desse vírus. Para isso, os métodos
+sorológicos são desenvolvidos para detecção de anticorpos IgG e IgM ou detecção de antígenos
+específicos do vírus, alguns por ensaios imunoenzimáticos (ELISA), imunocromatográficos (teste
+rápido) e outros por imunofluorescência.
+No âmbito da Emergência em Saúde Pública de Importância Nacional e Internacional, deve-se
+avaliar se o produto possui registro na Anvisa, avaliar a documentação do fabricante e considerar
+que os dados podem ser insuficientes para a tomada de decisão. Portanto, esses testes, até
+o momento, não devem ser adotados para a decisão clínica, mas apenas para finalidade de
+vigilância por meio de estudos de inquéritos populacionais e também como auxílio diagnóstico.
+É essencial que qualquer teste passe por um processo de validação por meio do Instituto
+Nacional de Controle de Qualidade em Saúde da Fundação Oswaldo Cruz (INCQS/Fiocruz), a fim
+de avaliar se os parâmetros de qualidade do teste (sensibilidade, especificidade, valor preditivo
+positivo e valor preditivo negativo) são úteis para alguma etapa da estratégia de resposta à
+emergência em saúde pública.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+14
+Em março de 2020, quando foi oferecida a doação desse teste para a resposta ao COVID-19,
+era a única opção disponível em quantidade suficiente para todo o território nacional. Essa
+estratégia deve ser reavaliada regularmente, para ajustar as definições operacionais da
+vigilância epidemiológica. Esse teste visa atender exclusivamente no período a ESPIN e sua
+qualidade deve ser objeto de monitoramento pelos Laboratórios Centrais de Saúde Pública em
+conjunto com o INCQS/Fiocruz. Qualquer desvio de qualidade deve ser comunicado à Anvisa.
+Tais informações são de extrema importância para a precisão da indicação de medidas não
+farmacológicas de COVID-19, pois um paciente com um resultado falso negativo pode sair
+erroneamente do isolamento domiciliar e disseminar o vírus, como também fazer com que
+profissionais de saúde tenham que se afastar do trabalho e deixar de ajudar a salvar vidas, pelo
+resultado falso positivo. De forma geral, recomenda-se que antes de utilizar um teste rápido
+deve-se verificar se ele já foi avaliado pelo INCQS.
+Mesmo validados, é importante saber que os testes rápidos apresentam limitações e a
+principal delas é que precisa ser realizado, de forma geral, a partir do 8º (oitavo) dia do início
+dos sintomas. É necessário que o caso suspeito ou contato de caso confirmado de COVID-19
+espere esse tempo para que o sistema imunológico possa produzir anticorpos em quantidade
+suficiente para ser detectado pelo teste.
+Processamento de amostras
+Teste molecular: RT-PCR em tempo real (RT-PCR)
+O diagnóstico laboratorial considerado padrão ouro para a identificação do novo coronavírus
+(2019-nCoV), agora denominado SARS-CoV2, continua sendo a RT-PCR em tempo real (qRT-PCR).
+Esses testes moleculares baseiam-se na detecção de sequências únicas de RNA viral, com
+confirmação por sequenciamento de ácidos nucleicos, quando necessário. Para o diagnóstico
+molecular de COVID-19, até o momento, os genes virais alvo do SARS-CoV-2 são: N, E, S e RdRP.
+Entre alguns protocolos existentes para detecção desses genes, o que tem sido adotado pela
+maior parte dos países e recomendado pela Organização Pan-Americana da Saúde (OPAS) é
+o protocolo internacional desenvolvido pelo Instituto Charité/Berlim. Esse método tem sido
+amplamente utilizado por estabelecimentos de saúde pública e de saúde suplementar, incluindo
+laboratórios da rede privada e, até esse momento, é considerado o método de referência no
+Brasil para confirmar a COVID-19.
+De forma simplificada, o teste molecular é realizado de acordo com as etapas da tabela a seguir:
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+15
+Tabela 1: Resumo das etapas para a realização do RT-PCR em tempo real e recomendações
+técnicas.
+Fase Etapa
+Equipamento
+de proteção
+individual*
+Equipamentos
+Resumo do
+procedimento
+Tipo de
+material
+Pré-analítica 1. Recepção,
+triagem e
+cadastramento
+da amostra no
+GAL
+Máscara cirúrgica
+Avental
+Luva
+-
+Abertura da caixa
+de transporte para
+conferir as condições
+da amostra biológica:
+volume, integridade
+e rotulagem
+(identificação do
+recipiente x ficha)
+Material
+infectante,
+mas
+recipiente
+fechado
+Analítica 2. Preparação
+da amostra
+Gorro descartável
+Óculos de
+proteção ou
+protetor facial
+Máscara modelo
+PFF2 (N95) ou
+equivalente
+Avental de
+mangas
+compridas
+Luva de
+procedimento
+Calçados
+fechados
+Cabine de
+segurança Classe
+II A2 (com filtro
+HEPA)
+Abrir o tubo falcon,
+esgotar o material
+dos 3 swabs dentro
+do próprio tubo
+e desprezá-los.
+Dividir a amostra
+em 2 criotubos (sem
+conservante)
+Material
+infectante
+Analítica 3. Extração do
+RNA viral
+Sala específica 1
+Equipamentos
+compatíveis com
+insumos para
+extração
+Processamento
+manual ou
+automatizado para
+extração do RNA viral
+Material
+infectante
+Analítica 4. Amplificação
+do RNA viral
+Sala específica 2
+Equipamentos
+compatíveis com
+insumos para
+amplificação da
+COVID-19
+Processamento
+manual ou
+automatizado para
+amplificação do RNA
+viral
+Material
+não
+infectante
+Analítica 5.Leitura Termociclador Leitura das placas
+com as amostras
+Material
+não
+infectante
+Pós-analítica 6.Liberação do
+resultado
+Avental Computador
+Acesso ao
+sistema GAL
+Digitação manual
+ou automatizada
+(interfaceamento com
+alguns equipamentos)
+Material
+não
+infectante
+* Ver recomendação no capítulo de Biossegurança laboratorial para COVID-19.
+Em áreas onde a COVID-19 está amplamente disseminada, um ou mais resultados negativos de
+um mesmo caso suspeito não descartam a possibilidade de infecção pelo vírus SARS-CoV-2.
+Vários fatores podem levar a um resultado negativo em um indivíduo infectado, incluindo:
+• Amostra de má qualidade, contendo pouco material do paciente (como controle,
+considere determinar se existe DNA humano adequado na amostra, incluindo um alvo
+humano no teste de PCR).
+• Amostra foi coletada em uma fase muito precoce ou tardia da infecção.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+16
+• Amostra não foi manuseada e enviada adequadamente.
+• Razões técnicas inerentes ao teste como, por exemplo, mutação do vírus ou inibição de
+PCR.
+Dessa forma, se um resultado negativo foi obtido de um paciente com alta probabilidade de
+infecção por SARS-CoV-2, particularmente, quando foram analisadas apenas amostras do trato
+respiratório superior, é indicado, se possível, coletar amostras de vias respiratórias inferiores e
+testar novamente.
+É importante destacar que para as amostras negativas para COVID-19 por teste molecular e
+que sejam de pacientes com Síndrome Respiratória Aguda Grave (SRAG), deve-se aproveitar o
+material já com RNA extraído e realizar amplificação para a detecção de influenza e outros vírus
+respiratórios.
+Consultar o tópico “Logística e Insumos” para obter informações sobre insumos moleculares
+que o Ministério da Saúde está adquirindo e recebendo por doações.
+Processo semiautomatizado
+O diagnóstico laboratorial considerado padrão ouro para a identificação do novo coronavírus
+(2019-nCoV), agora denominado SARS-CoV-2, continua sendo a RT-PCR em tempo real (qRT-PCR).
+Em áreas onde a COVID-19 está amplamente disseminada, um ou mais resultados negativos de
+um mesmo caso suspeito não descartam a possibilidade de infecção pelo vírus SARS-CoV-2.
+Vários fatores podem levar a um resultado negativo em um indivíduo infectado, incluindo:
+• Amostra de má qualidade, contendo pouco material do paciente (como controle,
+considere determinar se existe DNA humano adequado na amostra, incluindo um alvo
+humano no teste de PCR).
+• Amostra foi coletada em uma fase muito precoce ou tardia da infecção.
+• Amostra não foi manuseada e enviado adequadamente.
+• Razões técnicas inerentes ao teste como, por exemplo, mutação do vírus ou inibição de PCR.
+Dessa forma, se um resultado negativo for obtido de um paciente com alta probabilidade de
+suspeita de COVID-19, particularmente, quando foram analisadas apenas amostras do trato
+respiratório superior, indica-se, se possível, coletar amostras de vias respiratórias inferiores e
+testar novamente.
+É importante destacar que para as amostras negativas de COVID-19 por teste molecular e que
+sejam de pacientes com Síndrome Respiratória Aguda Grave (SRAG), deve-se aproveitar o
+material já com RNA extraído e realizar amplificação para detecção de influenza e outros vírus
+respiratórios.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+17
+RT-PCR em tempo real (qRT-PCR) – processo automatizado
+Para melhorar a capacidade de resposta da rede pública de laboratórios, também estão sendo
+disponibilizados testes moleculares que utilizam plataforma automatizada, a mesma utilizada
+no SUS na Rede Laboratorial da Tuberculose e de Carga Viral do HIV e das hepatites virais B e C.
+O teste para detecção qualitativa, PCR em Tempo Real automatizado, de SARS-CoV-2, tem como
+alvos: genes E e N2 em amostras de Swab nasofaríngeo e/ou Aspirado/lavado nasal. Além
+disso, realiza a homogeneização da amostra, descontaminação e inativação do bacilo, extração,
+amplificação e detecção do RNA do SARS-CoV-2, impedindo contaminação cruzada e reduzindo
+o risco para o profissional, permitindo seu uso em laboratórios de baixa complexidade.
+Sequenciamento viral
+Apesar do sequenciamento genético não ser um método de diagnóstico, ele desempenha um
+papel importante na luta contra as epidemias emergentes e reemergentes, pois a análise dos
+genomas permite quantificar e qualificar a diversidade genética viral, reconstruindo origens
+da epidemia, estimando as taxas de transmissão, sugerindo os próximos surtos e fornecendo
+informações para o desenvolvimento de vacinas e novos medicamentos, além de permitir o
+melhoramento dos diagnósticos sorológicos e moleculares.
+Desde o início da pandemia da COVID-19, o diagnóstico laboratorial tem sido essencial para
+confirmar os casos e, principalmente, para orientar estratégias de atenção à saúde, isolamento
+e biossegurança para profissionais de saúde.
+Nesse momento, o diagnóstico laboratorial para COVID-19 inclui as seguintes técnicas:
+• Testes moleculares de amplificação de ácido nucleico de SARS-CoV-2:
+»
+» RT-PCR em tempo real (RT-PCR).
+»
+» Teste rápido molecular SARS-CoV-2.
+• Sequenciamento parcial ou total do genoma viral.
+• Testes sorológicos.
+É extremamente importante destacar que os laboratórios que realizam testes para o vírus
+COVID-19 devem atender estritamente as práticas apropriadas de biossegurança.
+Observação:
+Sobre influenza e outros vírus respiratórios, seguir as orientações da rotina de vigilância. Guia
+para a Rede Laboratorial de Vigilância de Influenza no Brasil.
+• Link: https://bvsms.saude.gov.br/bvs/publicacoes/guia_laboratorial_influenza_vigilancia_influenza_brasil.pdf
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+18
+Indicação de coleta de amostras
+A coleta de amostras está diretamente relacionada à disponibilidade de insumos laboratoriais
+e equipamentos para análise da pesquisa de SARS-CoV-2, bem como o cenário epidemiológico.
+No momento, o Brasil conta com insumos para teste de RT-PCR, em tempo real, para SARS-
+CoV-2, para os casos de SRAG hospitalizados, sendo indicada a coleta de amostras de 100% dos
+casos, acompanhadas de notificação no SIVEP-Gripe.
+Considerando o risco ocupacional, também é indicada a coleta de amostras de profissionais de
+saúde que estejam atuando em serviços de saúde em contato com pacientes de municípios com
+casos confirmados de COVID-19, desde que se enquadre na definição de SG.
+Enquanto o Brasil estiver sob a Declaração de Emergência em Saúde Pública, o Ministério da
+Saúde determina que sejam adotadas as seguintes medidas:
+Casos suspeitos de SG ou SRAG
+A amostra clínica preferencial para investigação laboratorial é a secreção da nasofaringe (SNF).
+Considerando a sazonalidade dos vírus respiratórios, essa coleta deve ser realizada até o 7º dia
+após o aparecimento dos primeiros sinais ou sintomas.
+• Em crianças menores de 5 anos: orienta-se priorizar a coleta de amostras para
+investigação laboratorial de coronavírus (SARS-CoV-2), vírus influenza A e B e Vírus
+Sincicial Respiratório (VSR).
+• Em pessoas com idade maior ou igual a 5 anos, provenientes de:
+»
+» Atenção Primária: priorizar a coleta de amostras para exames laboratoriais para
+detecção de SARS-CoV-2.
+»
+» Unidades sentinelas e hospitais: priorizar a coleta de amostras para exames
+laboratoriais para a detecção de SARS-CoV-2 e, caso negativo, realizar exame para a
+detecção de vírus influenza.
+Observação:
+1.	 De acordo com a capacidade laboratorial, cada LACEN pode avaliar sua capacidade
+operacional para a identificação de outros vírus respiratórios, coronavírus, influenza e VSR.
+2.	 Destaca-se que o fluxo de coleta de amostras em unidades sentinela de Síndrome Gripal
+permanece inalterado, porém ampliado.
+ATENÇÃO!
+O Ministério da Saúde determina, a todos os laboratórios públicos e privados, que nenhuma
+amostra suspeita de COVID-19 seja desprezada na hipótese de haver sobrecarga de algum
+laboratório ou interrupção de fornecimento de insumos. Nesses casos, entrar em contato com a
+Coordenação-Geral de Laboratórios de Saúde Pública pelo e-mail: clinica.cglab@saude.gov.br.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+19
+Biossegurança para coleta de amostras
+O profissional de saúde responsável pela coleta de amostras respiratórias deverá utilizar os
+seguintes Equipamentos de Proteção Individual (EPI):
+• Gorro descartável.
+• Óculos de proteção ou protetor facial.
+• Máscara modelo PFF2 (N95) ou equivalente.
+• Avental de mangas compridas.
+• Luva de procedimento.
+Os itens não descartáveis deverão ser limpos e desinfetados ou esterilizados com produtos
+especificados no tópico “medidas de prevenção e controle para atendimento de casos suspeitos
+ou confirmados”.
+Técnica para a coleta e acondicionamento das amostras
+Orienta-se a coleta de amostras de uma das seguintes possibilidades:
+• Amostra de Aspirado nasofaríngeo (ANF) (Figura 1).
+• Swabs combinado (nasal/oral) (Figura 2).
+• Amostra de Secreção respiratória inferior: escarro, lavado traqueal ou lavado bronco
+alveolar.
+As amostras devem ser mantidas refrigeradas (4-8°C) e devem ser processadas dentro de 24 a 72
+horas da coleta até chegar ao LACEN ou ao laboratório privado. Após esse período, recomenda-
+se congelar as amostras a -70°C até o envio ao laboratório, assegurando a manutenção da
+temperatura.
+Figura 1. Ilustração da técnica para a coleta de aspirado nasofaríngeo.
+Fonte: BRASIL, 2014
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+20
+Figura 2. Técnica para a coleta de swab combinado.
+Coleta de amostras
+O procedimento de coleta de amostras respiratórias dos casos suspeitos de COVID-19 deve
+seguir o protocolo de coleta da influenza. Contudo, considerando se tratar de um novo vírus
+ou novo subtipo viral em processo pandêmico, a amostra deverá ser coletada até o 10° dia
+dos sintomas, preferencialmente, entre o 3º ao 5º dia, quando for para realização do teste
+molecular por RT-PCR em tempo real.
+Em serviços de saúde pública, é necessária a coleta de 1 (uma) amostra respiratória, conforme
+detalhado no tópico Técnica para a coleta e acondicionamento. Essa amostra deverá ser
+encaminhada com urgência para o LACEN ou outro laboratório público designado.
+Qualquer amostra enviada ao LACEN deverá estar:
+• Registrada no Sistema Gerenciador de Ambiente Laboratorial (GAL).
+• Acompanhada da ficha de requisição do GAL e da ficha de notificação de caso suspeito
+COVID-19.
+Acondicionamento, transporte e envio de amostras
+para diagnóstico
+As amostras devem ser mantidas refrigeradas (4-8°C) e devem ser processadas dentro de 24 a
+72 horas da coleta. Na impossibilidade de envio dentro desse período, recomenda-se congelar
+as amostras a -70°C até o envio, assegurando que mantenham a temperatura. A embalagem
+para o transporte de amostras de casos suspeitos com infecção por COVID-19 devem seguir os
+regulamentos de remessa para Substância Biológica UN 3373, Categoria B.
+Em caso de dúvidas, seguir os procedimentos de coleta e acondicionamento presente no Guia
+para a Rede Laboratorial de Vigilância de Influenza no Brasil, descritos nas páginas 16 a 24.
+(http://bit.ly/laboratorioinfluenza).
+Fonte: BRASIL, 2014
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+21
+Biossegurança laboratorial para COVID-19
+Os coronavírus são agentes infecciosos classificados como nível de biossegurança 2 (NB2) e o
+seu diagnóstico pode ser feito em um Laboratório NB2, com aporte de uma cabine de segurança
+Classe II (que são normalmente usadas em laboratórios NB2) e profissionais de saúde com
+treinamentos específicos para a realização desses exames.
+Conforme publicação da OMS de 19 de março de 2020, as orientações de biossegurança
+laboratorial de COVID-19, são:
+• Cada laboratório deve realizar uma avaliação de risco para assegurar que esteja
+qualificado para realizar os testes pretendidos, empregando medidas de controle de
+riscos apropriadas, sendo realizados somente por profissionais com qualificação
+demonstrada, aplicando-se rigorosamente todos os protocolos pertinentes, em todas
+as situações.
+• Ao manipular e processar amostras, incluindo sangue para exames sorológicos, devem-
+se seguir as práticas e procedimentos laboratoriais que são básicos para as boas práticas
+e procedimentos para laboratórios de microbiologia.
+• A manipulação e o processamento de amostras de casos suspeitos ou confirmados de
+infecção pelo COVID-19 enviadas para exames laboratoriais adicionais, como hemograma
+e gasometria, devem cumprir as diretrizes locais de processamento de material
+potencialmente infeccioso.
+• O processamento inicial (antes da inativação do vírus) de todas as amostras, inclusive
+aquelas para sequenciamento genético, deve ocorrer em uma cabine de segurança
+biológica (CSB), classe II, validada e em boas condições de manutenção, ou em
+equipamento de contenção primária.
+• O trabalho laboratorial de diagnóstico não propagativo, incluindo sequenciamento
+genético de amostras clínicas de pacientes com suspeita ou confirmação de infecção
+pelo COVID-19, deve ser realizado em um local com procedimentos equivalentes ao Nível
+de Biossegurança (NB2).
+• O trabalho propagativo que requer a manipulação de materiais com altas concentrações
+de vírus vivo ou grandes volumes de materiais infecciosos (por exemplo, culturas virais,
+isolamento viral ou testes de neutralização) deve ser realizado apenas por profissionais
+devidamentetreinadosequalificados,emlaboratóriosequipadosparacumprirrequisitos
+e práticas essenciais de contenção adicionais, com fluxo de ar direcional para dentro do
+recinto, ou seja, nível de biossegurança III, NB3.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+22
+• Devem ser usados desinfetantes apropriados, com eficácia contra vírus envelopados
+(por exemplo, hipoclorito [água sanitária], álcool, peróxido de hidrogênio, compostos de
+amônia quaternário e compostos fenólicos), durante o tempo de contato recomendado,
+na diluição correta e dentro da validade definida após o preparo da solução de trabalho.
+• Todos os procedimentos técnicos devem ser realizados de modo a minimizar a geração
+de aerossóis e gotículas.
+• Amostras de casos suspeitos ou confirmados devem ser transportadas como UN3373
+substância biológica Categoria B. Culturas ou isolados virais devem ser transportados
+como Categoria A UN2814, substância infecciosa que afeta seres humanos.
+• Os Equipamentos de Proteção Individual (EPI) apropriados, conforme determinado pela
+avaliação de risco detalhada, devem ser usados pelos funcionários do laboratório que
+tenham contato com essas amostras, são eles: gorro descartável; óculos de proteção ou
+protetor facial; máscara do PFF2 (N95 ou equivalente); avental de mangas compridas; e
+luva de procedimento e calçados fechados.
+Laboratórios
+Nesse momento, o diagnóstico laboratorial para a detecção de SARS-CoV-2 (COVID-19) está sendo
+realizado nos Laboratórios Centrais de Saúde Pública e nos Centros Nacionais de Influenza
+(NIC – sigla em inglês para National Influenza Center).
+O Ministério da Saúde alerta que antes de utilizar testes rápidos sorológicos é importante
+verificar se ele já foi avaliado.
+Análise laboratorial em LACEN
+Recomenda-se que o LACEN priorize as amostras dos casos com Síndrome Respiratória Aguda
+Grave e a identificação delas deve ser pactuada com a vigilância epidemiológica e serviços
+de saúde.
+Uma vez chegando a amostra no LACEN, deve-se realizar:
+• Análise para COVID-19, por RT-PCR em tempo real ou outro método molecular.
+• RT-PCR para influenza e outros vírus respiratórios se o resultado de SARS-CoV-2 tiver
+sido negativo, SOMENTE se as amostras forem de casos de SRAG ou de SG de pacientes
+de unidade sentinela
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+23
+Análise laboratorial em laboratórios privados
+Em estabelecimentos de saúde privados, incluindo laboratórios, orienta-se que o diagnóstico
+de vírus respiratórios, exceto COVID-19, seja realizado por meio de RT-PCR em tempo real, em
+amostra específica.
+Para garantir o fluxo de informações epidemiológicas produzidas pela rede privada e para
+assegurar que os resultados dos exames laboratoriais para a detecção do SARS-CoV-2 realizados
+pela rede de laboratórios de análises clínicas/medicina laboratorial ligados a instituições de
+saúde suplementar atendam aos requisitos e padrões técnicos nacionais e internacionais,
+principalmente em relação aos protocolos oficialmente adotados, o Ministério da Saúde passou
+a considerar os resultados do diagnóstico laboratorial de COVID-19. Contudo, orientou:
+• Cadastramento prévio no Laboratório Central de Saúde Pública (LACEN) de seu estado
+informando metodologia, responsáveis pela execução do exame, unidade de execução,
+insumos utilizados e outras informações que sejam de interesse epidemiológico nacional
+e/ou local.
+• Realização da metodologia de RT-PCR para detecção de SARS-CoV-2 pelo protocolo
+Charité/Berlim.
+• Envio de alíquota da primeira amostra positiva para confirmação em um LACEN.
+• Informe diário à Rede CIEVS estadual e ao LACEN de todos os exames de COVID-19
+realizados, inclusive casos negativos.
+• Encaminhamento das alíquotas de todas as amostras positivas para SARS-CoV-2 ao
+LACEN para armazenamento e constituição do Biobanco de SARS-COV-2, até o limite
+definido por cada laboratório.
+Sistema Gerenciador de Ambiente Laboratorial – GAL
+Atendendo às solicitações dos LACEN, está em desenvolvimento uma nova entrada de
+resultados para o seguinte exame/metodologia: vírus respiratórios/RT-PCR em tempo real. O
+desenvolvimento será finalizado e homologado e, posteriormente, será disponibilizada uma
+nova versão para os estados.
+Indicação para a coleta de amostras em situação de óbito
+Para pacientes que evoluíram para o óbito, deverá ser realizada a coleta das seguintes amostras
+para o diagnóstico viral e histopatológico:
+• Tecido da região central dos brônquios (hilar), dos brônquios direito e esquerdo e da
+traqueia proximal e distal.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+24
+• Tecido do parênquima pulmonar direito e esquerdo.
+• Tecido das tonsilas e mucosa nasal.
+Para o diagnóstico viral, as amostras frescas coletadas devem ser acondicionadas
+individualmente, em recipientes estéreis e imersas em meio de transporte viral ou solução
+salina tamponada (PBS pH 7.2), suplementadas com antibióticos. Imediatamente após a coleta,
+os espécimes identificados com sua origem tecidual devem ser congelados e transportados em
+gelo seco.
+Para o diagnóstico histopatológico, a coleta de amostras deve ser feita observando-se os
+protocolos em vigência, nos serviços locais de patologia. Acondicionar as amostras em frasco
+de vidro com boca larga com formalina tamponada a 10%. Utilizar parafina sem compostos
+adicionais (por exemplo: cera de abelha, cera de carnaúba etc.) no processo de parafinização
+dos fragmentos.
+Para mais informações relacionadas com coleta, armazenamento, transporte e processamento
+de amostras clínicas, consultar o Guia para a Rede Laboratorial de Vigilância de Influenza no
+Brasil, disponível no endereço eletrônico: bit.ly/protocoloinfluenza
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+25
+Características gerais sobre a infecção
+humana pelo novo coronavírus (COVID-19)
+Agente etiológico
+São vírus RNA da ordem dos Nidovirales da família Coronaviridae. A subfamília é composta
+por quatro gêneros Alfacoronavírus, Betacoronavírus, Gammacoronavírus e Deltacoronavírus.
+Sendo que os Alfacoronavírus e Betacoronavírus somente infectam mamíferos, no entanto, os
+Gammacoronavírus e Deltacoronavírus infectam aves e podem infectar mamíferos. Os vírus da
+SARS-CoV, MERS-CoV e COVID-19 são Betacoronavírus e altamente patogênicos e responsáveis
+por causar síndrome respiratória e gastrointestinal. Além desses três, há outros quatro tipos
+de coronavírus que podem causar síndromes respiratórias leves na população geral, raramente
+levando a quadros graves.
+Reservatório e modo de transmissão
+Os coronavírus são uma grande família de vírus comuns em muitas espécies diferentes de
+animais, incluindo camelos, gado, gatos e morcegos. Raramente, os coronavírus animais podem
+infectar pessoas e depois se espalhar entre pessoas como MERS-CoV e SARS-CoV. Recentemente,
+em dezembro de 2019, houve a transmissão de um novo coronavírus (SARS-CoV-2), o qual
+foi identificado em Wuhan na China e causou a COVID-19, sendo, em seguida, disseminada e
+transmitida pessoa a pessoa.
+A transmissão acontece de uma pessoa doente para outra ou por contato próximo por meio de:
+• Toque do aperto de mão;
+• Gotículas de saliva;
+• Espirro;
+• Tosse;
+• Catarro;
+• Objetos ou superfícies contaminadas, como celulares, mesas, maçanetas, brinquedos,
+teclados de computador etc.
+Período de incubação
+Período de incubação é o tempo que leva para os primeiros sintomas aparecerem desde a
+infecção por coronavírus, que pode ser de 2 a 14 dias, em geral de 5 dias.
+Período de transmissibilidade
+A OMS está estudando as investigações a respeito do período de transmissão da COVID-19.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+26
+Estudos apontam que uma pessoa infectada pelo vírus SARS-CoV-2 pode transmitir a doença
+durante o período sintomático e sugerem que a transmissão também possa ocorrer mesmo sem
+o aparecimento de sinais e sintomas.
+Recomenda-se o isolamento domiciliar de todos os casos suspeitos ou confirmados de COVID-19,
+bem como de todos seus contactantes domiciliares, por 14 dias após o início dos sintomas. Esse
+tempo de isolamento deverá ser ampliado, caso um contactante domiciliar apresente sintomas.
+Nos casos hospitalizados, em caso de alta hospitalar antes do período recomendado de
+isolamento (14 dias do início dos sintomas), estes deverão manter isolamento domiciliar até
+que se complete o período.
+Suscetibilidade e imunidade
+A suscetibilidade é geral, por ser um vírus novo. Sobre a imunidade não se sabe se a infecção
+em humanos que não evoluíram para o óbito irá gerar imunidade contra novas infecções e se
+essa imunidade é duradoura por toda a vida. O que sabemos é que a projeção em relação aos
+números de casos está intimamente ligada à transmissibilidade (RO) e suscetibilidade.
+Manifestações clínicas
+O espectro clínico da infecção por coronavírus é muito amplo, podendo variar de um simples
+resfriado até uma pneumonia severa. No entanto, para o novo coronavírus não está estabelecido
+completamente o espectro, necessitando de mais investigações e tempo para a caracterização
+da doença.
+Segundo o perfil dos casos confirmados no primeiro mês de ocorrência no Brasil, os sinais
+e sintomas clínicos mais comuns em pacientes não hospitalizados foram tosse (73,7%),
+febre (68,8%), coriza (37,4%), dor de garganta (36,2%) e dispneia (5,6%). E entre os pacientes
+hospitalizados, os sintomas mais comuns foram febre (81,5%), tosse (79,8%), coriza (31,1%), dor
+de garganta (26,1%) e dispneia (26,1%). As comorbidades mais prevalentes no geral foram doença
+cardiovascular (7,4%), diabetes (2,9%), doença pulmonar crônica (2,1%) e neoplasia (1,0%).
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+27
+Complicações
+As principais complicações relacionadas à COVID-19, descritas na literatura, são apresentadas
+na tabela abaixo.
+Complicação Evidência Período Probabilidade
+Síndrome do
+Desconforto
+Respiratório
+Agudo (SDRA)
+→
+→ Relatada em 15% a 33% dos pacientes
+em uma série de casos.
+→
+→ As crianças podem evoluir rapidamente para SDRA.
+→
+→ Os fatores que aumentam o risco de
+evolução para SDRA e morte incluem idade
+avançada, neutrofilia, nível elevado de lactato
+desidrogenase e nível elevado de dímero D.
+Curto
+prazo
+Média
+Lesão
+hepática
+aguda
+→
+→ Relatada em 14% a 53% dos pacientes em
+uma série de casos. Ocorre mais comumente
+nos pacientes com doença grave.
+→
+→ As evidências sugerem que a lesão hepática
+clinicamente significativa é incomum.
+Curto
+prazo
+Baixa
+Lesão
+cardíaca
+aguda
+→
+→ Relatada em 7% a 20% dos pacientes
+em uma série de casos e indicada por
+biomarcadores cardíacos elevados.
+→
+→ A prevalência é alta entre os pacientes
+gravemente ou criticamente doentes e
+esses pacientes apresentam uma taxa mais
+alta de mortalidade intra-hospitalar.
+→
+→ Geralmente, apresenta-se de duas maneiras: lesão
+e disfunção miocárdica aguda à apresentação;
+e lesão miocárdica que se desenvolve à medida
+que a gravidade da doença aumenta.
+→
+→ Arritmias foram relatadas em 16% dos
+pacientes em uma série de casos.
+→
+→ Miocardite fulminante já foi relatada.
+→
+→ Cardiomiopatia foi relatada em 33% dos pacientes
+criticamente enfermos. Não se sabe se ela é
+uma complicação cardíaca direta do COVID-19
+ou devido a uma doença clínica generalizada.
+Curto
+prazo
+Baixa
+Infecção
+secundária
+→
+→ Relatada em 6% a 10% dos pacientes
+em uma série de casos.
+Curto
+prazo
+Baixa
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+28
+Insuficiência
+respiratória
+aguda
+→
+→ Relatada em 8% dos pacientes
+em uma série de casos.
+→
+→ Principal causa de mortalidade em
+pacientes com COVID-19.
+→
+→ As crianças podem evoluir rapidamente
+para insuficiência respiratória.
+Curto
+prazo
+Baixa
+Lesão renal
+aguda
+→
+→ Relatada em 3% a 8% dos pacientes
+em uma série de casos.
+Curto
+prazo
+Baixa
+Choque
+séptico
+→
+→ Relatada em 4% a 8% dos pacientes
+em uma série de casos.
+→
+→ A síndrome da resposta inflamatória
+sistêmica pode acompanhar a sepse viral.
+→
+→ Elevações em quimiocinas e citocinas inflamatórias
+foram relatadas em pacientes com COVID-19.
+Curto
+prazo
+Baixa
+Coagulação
+intravascular
+disseminada
+→
+→ Relatada em 71% dos que evoluíram para óbito.
+Curto
+prazo
+Baixa
+Complicações
+relacionadas
+à gestação
+→
+→ Foram relatados efeitos adversos no neonato,
+entre eles, sofrimento fetal, trabalho de
+parto prematuro, desconforto respiratório,
+trombocitopenia e função hepática anormal. Não
+está claro se esses efeitos estão relacionados
+à infecção materna por SARS-COV-2.
+→
+→ Até o momento, não foram relatadas mortes
+maternas ou neonatais, natimortos ou abortos.
+Curto
+prazo
+Baixa
+Rabdomiólise
+→
+→ Relatada como complicação tardia
+em um relato de caso.
+Curto
+prazo
+Baixa
+Adaptado de Beeching NJ, Fletcher TE, Fowler R. Coronavirus disease 2019 (COVID-19). BMJ Best Practice. Atualizado
+em março de 2020. Disponível em: https://bestpractice.bmj.com/topics/en-gb/3000168
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+29
+Diagnóstico
+Diagnóstico clínico
+O quadro clínico inicial da doença é caracterizado como síndrome gripal. O diagnóstico depende
+da investigação clínico-epidemiológica e do exame físico. É recomendável que em todos os casos
+de síndrome gripal seja questionado o histórico de deslocamento e contato. Essas informações
+devem ser registradas no prontuário do paciente para eventual investigação epidemiológica.
+Diagnóstico laboratorial
+O diagnóstico laboratorial para a identificação do vírus SARS-CoV-2 é realizado por meio das técnicas
+de RT-PCR em tempo real ou teste rápido sorológico validado pelas instituições de referência.
+Diagnóstico diferencial
+As características clínicas não são específicas e podem ser similares àquelas causadas por outros
+vírus respiratórios, que também ocorrem sob a forma de surtos e, eventualmente, circulam
+ao mesmo tempo, tais como influenza, parainfluenza, rinovírus, vírus sincicial respiratório,
+adenovírus, outros coronavírus, entre outros.
+Atendimento e tratamento
+O manejo adequado dos casos suspeitos ou confirmados de COVID-19 depende do
+reconhecimento precoce de sinais de alarme e monitoramento contínuo. Considerando as
+características gerais da infecção, manifestações clínicas e possíveis complicações e com o
+objetivo de orientar a conduta terapêutica adequada a cada caso, foi elaborado pelo Ministério
+da Saúde o “Protocolo de Manejo Clínico para o novo coronavírus (2019-nCoV)”. O material pode
+ser acessado por meio do link:
+• https://www.saude.gov.br/images/pdf/2020/fevereiro/11/protocolo-manejo-coronavirus.pdf
+Como toda normatização, o Protocolo está sujeito a ajustes decorrentes da sua utilização prática
+e das modificações do cenário epidemiológico da COVID-19.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+30
+Medidas de prevenção e controle
+para atendimento de casos suspeitos
+ou confirmados
+Os serviços de saúde devem adotar, em todas as etapas do atendimento, medidas definidas na
+Nota Técnica Nº 04/2020 GVIMS/GGTES/Anvisa para garantir os procedimentos de biossegurança
+na conduta dos casos suspeitos durante todo o período que permanecerem na unidade.
+AmaioriadoscasosconfirmadosoususpeitosparaCOVID-19nãoirãonecessitardehospitalização,
+podendo ser acompanhados em domicílio. Porém, é necessário avaliar cada caso, levando-se
+em consideração se o ambiente residencial é adequado e se o paciente é capaz de seguir as
+medidas de precaução recomendadas pela equipe de saúde. Nesses casos, todas as medidas
+de precaução padrão, de higienização dos ambientes, utensílios e equipamentos, bem como de
+descarte dos resíduos gerados pelo paciente, devem ser observadas.
+Mais informações sobre medidas de prevenção e controle podem ser obtidas por meio do
+endereço eletrônico: http://bit.ly/anvisancov2019
+• Links para mais informações:
+»
+» https://saude.gov.br/saude-de-a-z/novocoronavirus
+»
+» http://portal.anvisa.gov.br/coronavirus
+»
+» https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+31
+Glossário
+CONTATO PRÓXIMO DE CASOS CONFIRMADOS DE COVID-19:
+»
+» Uma pessoa que teve contato físico direto (por exemplo, apertando as mãos) com
+caso confirmado.
+»
+» Uma pessoa que tenha contato direto desprotegido com secreções infecciosas (por
+exemplo, gotículas de tosse, contato sem proteção com tecido ou lenços de papel
+usados e que contenham secreções).
+»
+» Uma pessoa que teve contato frente a frente por 15 minutos ou mais e a uma distância
+inferior a 1 metro.
+»
+» Uma pessoa que esteve em um ambiente fechado (por exemplo, sala de aula, sala de
+reunião, sala de espera do hospital etc.) por 15 minutos ou mais e a uma distância
+inferior a 1 metro.
+»
+» Um profissional de saúde ou outra pessoa que cuide diretamente de um caso de
+COVID-19 ou trabalhadores de laboratório que manipulam amostras de um caso de
+COVID-19 sem Equipamento de Proteção Individual (EPI) recomendado, ou com uma
+possível violação do EPI.
+CONTATO DOMICILIAR DE CASO CONFIRMADO DE COVID-19:
+»
+» Uma pessoa que resida na mesma casa/ambiente. Devem ser considerados os
+residentes da mesma casa, colegas de dormitório, creche, alojamento etc.
+TRANSMISSÃO COMUNITÁRIA
+A Portaria nº 454, de 20 de março de 2020, declarou transmissão comunitária em todo o território
+nacional. Define-se como TRANSMISSÃO COMUNITÁRIA a ocorrência de casos autóctones sem
+vínculo epidemiológico a um caso confirmado que pertença a uma cadeia de transmissão
+conhecida.
+DEFINIÇÕES OPERACIONAIS
+As definições de casos suspeitos de COVID-19 estão sujeitas a alterações de acordo com as
+evidências científicas e epidemiológicas. Em situações específicas, essas definições poderão ser
+flexibilizadas a depender de critérios clínicos e epidemiológicos, de acordo com o julgamento
+do profissional de saúde em conjunto com a equipe de vigilância.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+32
+Referências
+1 Cui J, Li F, Shi Z-L. Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol 2019;
+17: 181–92.
+2 Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-
+Infected Pneumonia. N Engl J Med 2020; published online Jan 29. DOI:10.1056/NEJMoa2001316.
+3 Read JM, Bridgen JR, Cummings DA, Ho A, Jewell CP. Novel coronavirus 2019-nCoV: early
+estimation of epidemiological parameters and epidemic predictions. Infectious Diseases
+(except HIV/AIDS), 2020 DOI:10.1101/2020.01.23.20018549.
+4 Rio C del, Malani PN. 2019 Novel Coronavirus—Important Information for Clinicians. JAMA
+2020; published online Feb 5. DOI:10.1001/jama.2020.1490.
+5 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of
+2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet 2020; 0.
+DOI:10.1016/S0140-6736(20)30211-7.
+6 Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus
+in Wuhan, China. The Lancet 2020; : S0140673620301835.
+Colaboradores
+* Secretaria de Vigilância em Saúde (SVS): Wanderson Kleber de Oliveira.
+Departamento de Imunização e Doenças Transmissíveis (DEIDT/SVS): Julio Henrique Rosa Croda,
+Rodrigo Fabiano do Carmo Said, Silvano Barbosa de Oliveira.
+Coordenação-Geral do Programa Nacional de Imunizações (CGPNI/DEIDT/SVS): Francieli Fontana
+Sutile Tardetti Fantinato, Caroline Gava, Daiana Araújo da Silva, Fabiana Sherine Ganem dos
+Santos, Felipe Cotrim de Carvalho, Jaqueline de Araújo Shwartz, Sirlene de Fátima Pereira,
+Walquiria Aparecida Ferreira de Almeida, Victor Bertollo Gomes Porto.
+Coordenação-Geral de Zoonoses e Doenças Vetoriais (CGZV/DEIDT/SVS): Marcelo Yoshito Wada.
+Departamento de Saúde Ambiental, do Trabalhador e Vigilância das Emergências em Saúde
+Pública (DSASTE/SVS): Daniela Buosi Rohlfs, Marcus Quito.
+Coordenação-Geral de Emergências em Saúde Pública (CGEMSP/DSASTE/SVS): Rodrigo Lins
+Frutuoso, Francisco José de Paula Júnior, Marília Lavocat Nunes, Renato Vieira Alves, Bruna
+Ferreira Costa, Wanderley Mendes Júnior, Camile de Moraes, Patricia de Oliveira Dias, Danniely
+Caroline Soares da Silva, Leonardo José Alves de Freitas, Amanda de Sousa Delacio, Cibelle
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+33
+Mendes Cabral, Jadher Percio, Dalva Maria de Assis, Fernando Augusto Gouvea Reis, Sérgio
+Murilo Coelho de Andrade, Camilla de Miranda Ribeiro.
+Coordenação-Geral de Saúde do Trabalhador (CGSAT/DSASTE/SVS): Karla Freire Baêta, Rafael
+Buralli, Thaís Baraviera Dutra.
+Departamento de Ações Estratégicas de Vigilância em Saúde (DAEVS/SVS): Sônia Maria Feitosa
+Brito, Aide Campagna.
+Coordenação-GeraldeLaboratóriosdeSaúdePúblicadoDepartamentodeArticulaçãoEstratégica
+de Vigilância em Saúde (CGLAB/DAEVS/SVS): André Luiz de Abreu, Greice Madeleine Ikeda do
+Carmo, Miriam Teresinha Furlam Prando Livorati, Gabriela Andrade Pereira, Leonardo Hermes
+Dutra, Roberta Paim Guimarães, Rayana de Castro da Paz, Carla Freitas, Andreia Berssanetti,
+Vagner de Souza Fonseca, Mayrla da Silva Moniz.
+Departamento de Análise de Saúde e Vigilância de Doenças não Transmissíveis (DASNT/SVS):
+Eduardo Marques Macário.
+Coordenação-Geral de Análises Epidemiológicas (CGAE/DASNT/SVS): Giovanny Vinícius Araújo
+de França.
+* Secretaria de Atenção Especializada em Saúde (SAES): Francisco de Assis Figueiredo.
+Departamento de Atenção Hospitalar, Domiciliar e de Urgência (DAHU/SAES): Adriana Melo
+Teixeira.
+Coordenação-Geral de Urgência (CGURG/DAHU/SAES): Marcelo Oliveira Barbosa, Pâmela Moreira
+Costa Diana, Angela Ribeiro Vargas, Paula Maria Raia Eliazar, Tarciana da Silva Suassuna, Ana
+Cristina Nogueira Nunes Jansen Ferreira.
+Agência Nacional de Vigilância Sanitária (Anvisa): Marcelo Felga de Carvalho, Mateus Rodrigues
+Cerqueira, Viviane Vilela Marques Barreiros, Camila da Silva Borges Lacerda de Oliveira, Olavo
+Ossamu Inoue.
+Organização Pan-Americana da Saúde: Maria Almiron.
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+34
+Anexos
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+Nº
+FICHA DE INVESTIGAÇÃO DE SG SUSPEITO DE DOENÇA PELO CORONAVÍRUS 2019 – COVID-19 (B34.2)
+Definição de caso: indivíduo com quadro respiratório agudo, caracterizado por sensação febril ou febre, mesmo que relatada, acompanhada de
+tosse OU dor de garganta OU coriza.
+Em crianças: considera-se também obstrução nasal, na ausência de outro diagnóstico específico.
+Em idosos: a febre pode estar ausente. Deve-se considerar também critérios específicos de agravamento como sincope, confusão mental,
+sonolência excessiva, irritabilidade e inapetência.
+UF:
+__|__
+Município de Notificação:
+__________________________________
+IDENTIFICAÇÃO
+Tem CPF? (Marcar X)
+|__|Sim |__|Não
+Estrangeiro: (Marcar X)
+|__| Sim |__|Não
+É profissional de saúde? (Marcar X)
+|__| Sim |__|Não
+CBO: CPF: __|__|__|__|__|__|__|__|__|__|__
+CNS: __|__|__|__|__|__|__|__|__|__|__|__|__|__|
+Nome Completo:
+Nome Completo da Mãe:
+Data de nascimento:
+____|____|_______
+País de origem:
+Sexo: (Marcar X)
+|__|Masculino |__|Feminino
+Passaporte:
+__|__|__|__|__|__|__|__|
+DADOS
+CLÍNICOS
+EPIDEMIOLÓGICOS
+Atendimento
+CEP: __|__|__|__|__ - __|__|__
+UF: __|__ Município de Residência: _____________________________
+Logradouro:________________________________
+________
+Número :
+Complemento:______________________________________ Bairro:
+Telefone Celular: _|_ - _|_|_|_|_|_|_|_|_ Telefone do contato: _|_ -_|_|_|_|_|_|_|_|_
+Data da Notificação: ___|___|____
+Sintomas: (Marcar X)
+|__| Dor de Garganta |__| Dispneia |__|Febre
+|__| Tosse |__| Outros______________
+Data do início dos sintomas: ___|___|____
+Condições: (Marcar X)
+|__| Doenças respiratórias crônicas descompensadas
+|__| Doenças cardíacas crônicas
+|__| Diabetes
+|__| Doenças renais crônicas em estágio avançado (graus 3, 4 e 5)
+|__| Imunossupressão
+|__| Gestante de alto risco
+|__| Portador de doenças cromossômicas ou estado de fragilidade imunológica
+Estado do Teste: (Marcar X)
+|__|Solicitado
+|__|Coletado
+|__|Concluído
+Data da Coleta do Teste:
+____|____|_______
+Tipo de Teste: (Marcar X)
+|__|Teste rápido – anticorpo
+|__|Teste rápido – antígeno
+|__|RT - PCR
+Resultado do teste:
+(Marcar X)
+|__|Negativo
+|__|Positivo
+Classificação final: (Marcar X)
+|__|Confirmação laboratorial
+|__|Confirmação clínico epidemiológico
+|__|Descartado
+Evolução do caso: (Marcar X)
+|__|Cancelado |__|Ignorado |__| Óbito
+|__|Cura |__|Internado |__| Internado em UTI
+|__|Em tratamento domiciliar
+Data de encerramento: ____|____|_______
+Informações complementares e observações
+Observações Adicionais
+e-SUS VIGILÂNCIA EPIDEMIOLÓGICA 03/04/2020
+Obs.: Os campos Sintomas (outros) e Classificação final (Confirmação laboratorial, confirmação clínico epidemiológico e descartado) serão oportunamente implementados no e-SUS VE.
+Anexo 1. FICHA DE INVESTIGAÇÃO DE SG SUSPEITO DE DOENÇA PELO CORONAVÍRUS 2019 – COVID-19
+Guia de Vigilância Epidemiológica
+para Infecção Humana pela COVID-19 COE/SVS/MS | Abr. 2020
+36
+Biblioteca Virtual em Saúde do Ministério da Saúde
+www.saude.gov.br/bvs
+

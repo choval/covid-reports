@@ -5,6 +5,7 @@
 
 ## 2020-04-06
 
+* [News30](f80b57923b3db890d7a3e8a005789140d7a3136e/file.pdf) @21:32 GMT
 * [News29](2d31f93a14a86bfb759f2a9a0b24993a7c65b7c7/file.pdf) @11:45 GMT
 
 ## 2020-04-05

@@ -1,0 +1,26 @@
+{
+    "filename": "Contrato-96-2020.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/06\/Contrato-96-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586216818,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "206792",
+        "date": "Mon, 06 Apr 2020 23:46:58 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_B25A02E066CA77039024FF62512AC825_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 06 Apr 2020 22:18:52 GMT",
+        "etag": "\"327c8-5a2a6a6f0770b\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 7a220a3092d83b83525989666566c489.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "CXGichEf1TmJCXizoJ3F2L0aRnmzhKtrzfwqkN2F5wGCLIia4mTEpg=="
+    },
+    "lang": "pt",
+    "size": 206792,
+    "modified": 1586211532
+}

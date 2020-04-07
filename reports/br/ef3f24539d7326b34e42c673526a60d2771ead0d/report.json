@@ -1,0 +1,26 @@
+{
+    "filename": "Contrato-101-2020.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/06\/Contrato-101-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586216804,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "168299",
+        "date": "Mon, 06 Apr 2020 23:46:43 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_7C7B0B97FD4F2807460CD9D5AC197C73_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Mon, 06 Apr 2020 22:19:40 GMT",
+        "etag": "\"2916b-5a2a6a9d05e05\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 6e5576b120c81986215d5e2dd5676fe9.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "F-8TmmL9ZH6qT5dlLExdlHEKzZYbiBymW9581LImgSijP0P5_ORAiA=="
+    },
+    "lang": "pt",
+    "size": 168299,
+    "modified": 1586211580
+}
