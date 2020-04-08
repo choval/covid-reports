@@ -7,12 +7,25 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-07
+
+* [coronavirus-stay-at-home-protect-the-nhs-save-lives-web-version](ea07ae92b33b0ed2970e84a9380b99b902818c4c/file.pdf) @13:49 GMT
+* [coronavirus-leaflet-somali.pdf](d8155d67cafa156b7f248f5d8786cf5dfcd7effb/file.pdf) @10:27 GMT
+
 ## 2020-04-06
 
 * [coronavirus-covid-19-scaling-up-our-testing-programmes](f14e6af62073089554ab5f46874ca98a5885ce38/file.pdf) @21:51 GMT
 * [exceeding-waste-storage-limits-at-permitted-sites-because-of-covid-19-rps-c2](e97958f59d17fb79a96ad03fa5abbf32249315dc/file.pdf) @21:51 GMT
 * [water-and-sewerage-company-osm-and-uwwtr-sampling-affected-by-covid-19-rps-c3](23092f437c1d4ad4a5c4dc0d98efceb76062e70f/file.pdf) @21:51 GMT
 * [open-letter-to-pharmacists-jo-churchill-april-2020.pdf](e14c4e23e9154e5d0067d83bfd9f87511922e6a4/file.pdf) @16:48 GMT
+* [coronavirus-leaflet-bengali.pdf](bde251430701a9de18083ec0d544fa78d99aa6f4/file.pdf) @13:48 GMT
+* [coronavirus-leaflet-gujarati.pdf](6c99c5fc424323bf192bc0dad9db746d45d8ddc6/file.pdf) @13:46 GMT
+* [coronavirus-leaflet-punjabi.pdf](ec367ee4205a958c3e87a3f59d86d54fdf358a16/file.pdf) @13:45 GMT
+* [coronavirus-leaflet-polish.pdf](c18de737aeb6e12bda1ab2490a08013c7fa11168/file.pdf) @13:45 GMT
+* [coronavirus-leaflet-romani.pdf](2cabba42b09a392c483da2b0963e52dd09062718/file.pdf) @13:44 GMT
+* [coronavirus-leaflet-romanian.pdf](f30c2bc898cf05e03e71018855b26901d563d1fc/file.pdf) @13:44 GMT
+* [coronavirus-leaflet-russian.pdf](9472e8b20e6daf06fbd68ef71051f262bab72014/file.pdf) @13:38 GMT
+* [coronavirus-leaflet-urdu.pdf](6716a3c2f5c9bb0eab1782ac81c93dc3c72c5973/file.pdf) @13:38 GMT
 * [2020-03-30-occupational-health-advice-for-employers-and-pregnant-women-during-the-covid-19-pandemic-20200406.pdf](49df308481aa2494e1ddd0786a359b2ab29cfc14/file.pdf) @12:29 GMT
 
 ## 2020-04-04
@@ -80,6 +93,12 @@
 * [2020-04-03-coronavirus-covid-19-infection-in-pregnancy.pdf](958ea676f8e14a5cf521733421de66f008eabbc8/file.pdf) @18:30 GMT
 * [2020-04-03-guidance-for-maternal-medicine.pdf](439bdab0e28f40497f05d83f278e001cdfd33516/file.pdf) @18:30 GMT
 * [Admission\_and\_Care\_of\_Residents\_during\_COVID-19\_Incident\_in\_a\_Care\_Home.pdf](e533e8651ced949d85b4979628be07eb31774a8d/file.pdf) @18:17 GMT
+
+## 2020-04-02
+
+* [coronavirus-leaflet-large-print.pdf](5d7731cc76368705f3b71d10688c56d495e9f6b3/file.pdf) @15:01 GMT
+* [coronavirus-leaflet-welsh.pdf](c4f228c7d614879bfed8a84c1a449f82e0d79c5a/file.pdf) @13:28 GMT
+* [coronavirus-leaflet.pdf](374160faa392adbe71644dcf25a197021d32f7fa/file.pdf) @13:27 GMT
 
 ## 2020-03-31
 

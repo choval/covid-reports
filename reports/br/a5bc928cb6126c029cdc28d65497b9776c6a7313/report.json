@@ -1,0 +1,26 @@
+{
+    "filename": "ddt-covid-19.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/ddt-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298400,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "5920857",
+        "date": "Tue, 07 Apr 2020 22:26:40 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_7072B2A1CD7EA23F63C3C443E7E8C53D_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 21:43:02 GMT",
+        "etag": "\"5a5859-5a2ba449e4c62\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 d8637b73bee5bf30932e15ee62bd60dc.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "RcCGbdR-22VdA0sygwRznNDV_Azfm0lqPxgUKOS3SeC6VKN5qtitIQ=="
+    },
+    "lang": "pt",
+    "size": 5920857,
+    "modified": 1586295782
+}

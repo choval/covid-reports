@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_general_condominios_v4_07042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_general_condominios_v4_07042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298546,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 07 Apr 2020 22:29:06 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 07 Apr 2020 21:37:32 GMT",
+        "etag": "\"18df40-5a2ba30ecdf00\"",
+        "accept-ranges": "bytes",
+        "content-length": "1630016",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1630016,
+    "modified": 1586295452
+}

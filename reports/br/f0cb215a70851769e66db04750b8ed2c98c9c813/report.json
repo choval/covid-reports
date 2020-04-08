@@ -1,0 +1,26 @@
+{
+    "filename": "20200403-recomendacoes-ACS-COVID19-ver002-final-b.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/20200403-recomendacoes-ACS-COVID19-ver002-final-b.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298477,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "374085",
+        "date": "Tue, 07 Apr 2020 22:27:57 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_976F2B635375999AFC75C8FE36A9586B_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 20:52:30 GMT",
+        "etag": "\"5b545-5a2b98fe3235e\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 7de836cd9073880b89a64b9d7a8f8b0b.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "NV9sWWlbSeuiOpAaPsB5drjkmQnnouDFAtJ59IOc0LeJcRkQzAAdQA=="
+    },
+    "lang": "pt",
+    "size": 374085,
+    "modified": 1586292750
+}

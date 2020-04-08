@@ -7,6 +7,10 @@
 * [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/)
 
 
+## 2020-04-07
+
+* [Ord.-B51-Nº933.pdf](9bfd562d81f2e2db0e97d244146dc7f762f5b545/file.pdf) @20:16 GMT
+
 ## 2020-04-06
 
 * [INFORMACION-COVID-19-PARA-PERSONAS-QUE-VIVEN-CON-VIH\_final.pdf](f7f17231cb9f406b41da2b861ee0a0f3c8cfefea/file.pdf) @22:27 GMT

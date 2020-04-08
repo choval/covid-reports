@@ -1,0 +1,26 @@
+{
+    "filename": "20200407-Formulario-IdentificacaoTeleatendimento-007.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/20200407-Formulario-IdentificacaoTeleatendimento-007.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298484,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "703542",
+        "date": "Tue, 07 Apr 2020 22:28:04 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_3A5A3221CE66041B802BC667AA17DF58_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 20:53:51 GMT",
+        "etag": "\"abc36-5a2b994c1e900\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 f7e7b00c5c66a4e43041ba24c378d07a.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "W3nRMRTsWJFjAl23_O_noySVduQ66PSY4LvtweG1m_DL6HOF9nxaOA=="
+    },
+    "lang": "pt",
+    "size": 703542,
+    "modified": 1586292831
+}

@@ -6,6 +6,10 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-07
+
+* [4033-bolivia-acumula-194-casos-de-coronavirus-ministro-de-salud-pide-a-jovenes-y-adultos-cuidar-su-salud-ante-la-pandemia](57c2d2d6de15e63a21e40c7137771d1fd3bdf646/file.pdf) @13:37 GMT
+
 ## 2020-04-06
 
 * [4030-autoridades-establecen-tres-hospitales-exclusivos-para-la-atencion-de-covid-19-en-la-paz-y-el-alto](534efa3eb2f13009f8ed76eb9838f72251f48771/file.pdf) @03:03 GMT

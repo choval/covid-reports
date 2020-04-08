@@ -7,6 +7,18 @@
 * [https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
 
 
+## 2020-04-07
+
+* [C\_17\_notizie\_4417\_1\_file.pdf](b937a4e922934360299de0ea99130e1bd2b89643/file.pdf) @22:58 GMT
+* [C\_17\_notizie\_4417\_0\_file.pdf](e104d6e8842ebcb0b512e0ead3f490812a70984c/file.pdf) @22:58 GMT
+* [Infografica\_7aprile ITA.pdf](d113937a92a3dd351015facdcfcf3f080e3544ef/file.pdf) @16:34 GMT
+* [Infografica\_7aprile ENG.pdf](5670878ea4c62772a4637465baa12a0dba65c6a2/file.pdf) @16:33 GMT
+* [Infografica\_7aprile ENG.pdf](64682c6db5ab0f38dc6538aaad5f3f7c915d3c7b/file.pdf) @16:33 GMT
+* [Report-COVID-2019\_6\_april\_2020.pdf](4ee5bbe11fd5e81a3f369816e7c976bc10c38c2d/file.pdf) @15:20 GMT
+* [Report-COVID-2019\_6\_aprile.pdf](ec2035ea746de85129386c20ce2d73a850cc5283/file.pdf) @15:06 GMT
+* [Bolletino-sorveglianza-integrata-COVID-19\_6-aprile-2020\_appendix.pdf](bf5262da375c6d507f02df657cc925e6d71afd66/file.pdf) @12:35 GMT
+* [Bollettino-sorveglianza-integrata-COVID-19\_6-aprile-2020.pdf](e7c304002fa34715bb5a64353309143b318e2680/file.pdf) @12:35 GMT
+
 ## 2020-04-06
 
 * [C\_17\_notizie\_4410\_1\_file.pdf](1e3bea07ea5b729dcc47869c282cdb3ecb427cf1/file.pdf) @21:43 GMT
@@ -20,8 +32,8 @@
 * [C\_17\_notizie\_4403\_1\_file.pdf](4d08b792159444e88389ba3095edade75eb04dc8/file.pdf) @21:36 GMT
 * [C\_17\_notizie\_4403\_0\_file.pdf](13fb065709c1c885f705df381a536c773ee9f4a2/file.pdf) @21:36 GMT
 * [Infografica\_5aprile ITA.pdf](be01e49068c57d7987060aa0b09aca3ecb5a3003/file.pdf) @14:48 GMT
-* [Infografica\_5aprile ENG.pdf](59778628211ad4c30c4357eafbd7cd29f69386ff/file.pdf) @14:46 GMT
 * [Infografica\_5aprile ENG.pdf](d40faa5a444c26cca9d56ce20cca15632a36ea10/file.pdf) @14:46 GMT
+* [Infografica\_5aprile ENG.pdf](59778628211ad4c30c4357eafbd7cd29f69386ff/file.pdf) @14:46 GMT
 
 ## 2020-04-04
 

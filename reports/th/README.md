@@ -5,6 +5,11 @@
 * [https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports](https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports)
 
 
+## 2020-04-07
+
+* [2020-04-7-tha-sitrep-45-covid19-finalb2c983b5deb74bbcb3a55fa4ec819fc6.pdf](eb37edf0f0b94ae8a30f0f5231339ebce05cfd46/file.pdf) @11:13 GMT
+* [2020-04-6-tha-sitrep-44-covid19-th-finalf10333924c424ed7903493b02c84d6e3.pdf](d7ebdbe57dea4cb341620c149f1d2d69f108ab49/file.pdf) @03:23 GMT
+
 ## 2020-04-06
 
 * [2020-04-6-tha-sitrep-44-covid19.pdf](29f347f6d5a3fe52729b1950d3c447de0e2dbd16/file.pdf) @12:42 GMT

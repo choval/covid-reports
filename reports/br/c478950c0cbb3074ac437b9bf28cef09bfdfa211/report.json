@@ -1,0 +1,26 @@
+{
+    "filename": "GuiaDeVigiEpidemC19-v2.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/GuiaDeVigiEpidemC19-v2.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298388,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "745432",
+        "date": "Tue, 07 Apr 2020 22:26:28 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_EC034BDDC2F2DE4FD5A78A89E3255881_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 18:33:37 GMT",
+        "etag": "\"b5fd8-5a2b79f322db3\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e2deefdf2f2c76b24ee4785b69116006.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "DLXxVGDcv0nIBvN5TqGzjFnpyrWcHEedCsyVUOU4isx-rwcE6qnFDQ=="
+    },
+    "lang": "pt",
+    "size": 745432,
+    "modified": 1586284417
+}

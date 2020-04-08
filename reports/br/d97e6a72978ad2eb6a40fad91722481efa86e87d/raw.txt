@@ -1,0 +1,1764 @@
+1
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+PROTOCOLO DE
+MANEJO CLÍNICO
+DO CORONAVÍRUS
+(COVID-19) NA
+ATENÇÃO PRIMÁRIA
+À SAÚDE
+| Versão 7
+Brasília - DF
+Abril de 2020
+Secretaria de Atenção Primária à Saúde (SAPS)
+Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Sumário
+1 Introdução..............................................................................................................................................3
+2 Curso Clínico..........................................................................................................................................4
+2.1 Sinais e Sintomas................................................................................................................................4
+2.2 Diagnóstico..........................................................................................................................................5
+3 Manejo Clínico na APS/ESF...................................................................................................................6
+3.1 Teleatendimento............................................................................................................................7
+3.2 Fluxograma.....................................................................................................................................8
+3.3 Identificação de caso suspeito de Síndrome Gripal e de COVID-19..............................9
+3.4 Medidas para evitar contágio na USF....................................................................................9
+3.5 Estratificação da gravidade da Síndrome Gripal...........................................................10
+3.6 Casos leves: manejo terapêutico e isolamento domiciliar.........................................15
+3.6.1 Manejo Terapêutico.................................................................................................................15
+3.6.2 Isolamento Domiciliar..............................................................................................................18
+3.6.3 Orientações para afastamento e retorno às atividades de
+profissionais de saúde.............................................................................................................20
+3.7 Casos graves: estabilização e encaminhamento ao centro de
+referência ou centro de urgência.......................................................................................20
+3.8 Notificação Imediata..................................................................................................................20
+3.9 Monitoramento clínico............................................................................................................22
+3.10 Medidas de prevenção comunitária e apoio à vigilância ativa................................23
+3.11 Recomendações em grupos especiais.................................................................................23
+4 Referências.............................................................................................................................................26
+5 ANEXOS .....................................................................................................................................................27
+Atualização da Versão 7
+– Orientações de isolamento para profissionais de saúde
+– Informações sobre testes diagnósticos
+– Atualização das informações de notificação
+Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+3
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+1 - INTRODUÇÃO
+No fim de 2019, o Novo Coronavírus foi nomeado como SARS-CoV-2. Este Novo Coronavírus
+produz a doença classificada como COVID-19, sendo agente causador de uma série de casos de
+pneumonia na cidade de Wuhan (China) [1]. Ainda não há informações plenas sobre a história natural,
+nem medidas de efetividade inquestionáveis para manejo clínico dos casos de infecção humana pelo
+SARS-CoV-2, restando ainda muitos detalhes a serem esclarecidos [1]. No entanto, sabe-se que o vírus
+tem alta transmissibilidade e provoca uma síndrome respiratória aguda que varia de casos leves –
+cerca de 80% – a casos muito graves com insuficiência respiratória –entre 5% e 10% dos casos. Sua
+letalidade varia, principalmente, conforme a faixa etária (Quadro 1) e condições clínicas associadas.
+Portanto, é necessário agir. Para esse fim, as melhores e mais recentes evidências foram utilizadas na
+redação deste documento. Pela dinâmica da epidemia e da produção de conhecimento associada a ela,
+as informações podem sofrer alterações conforme avance o conhecimento sobre a doença. Dessa
+forma, este protocolo específico para serviços de Atenção Primária à Saúde / Estratégia Saúde da
+Família (APS/ESF) nos cenários de transmissão comunitária vai ser atualizado sempre que necessário.
+Fique atento a novas versões!
+Quadro 1 – Letalidade provocada pela COVID-19 por faixa etária na China, Ministério da Saúde, 2020.
+Taxa de letalidade por idade [15]:
+• 0,2% em pacientes entre 10 e 19 anos
+• 0,2% em pacientes entre 20 e 29 anos
+• 0,2% em pacientes entre 30 e 39 anos
+• 0,4% em pacientes entre 40 e 49 anos
+• 1,3% em paciente entre 50 e 59 anos
+• 3,6% em paciente entre 60 e 69 anos
+• 8,0% em pacientes entre 70 e 79 anos
+• 14,8% em pacientes acima ou igual a 80 anos
+Ref: CDC China Weekly. Accessed Feb 20, 2020.
+A APS/ESF é a porta de entrada do Sistema Único de Saúde. Durante surtos e epidemias, a APS/
+ESF tem papel fundamental na resposta global à doença em questão. A APS/ESF oferece atendimento
+resolutivo, além de manter a longitudinalidade e a coordenação do cuidado em todos os níveis de
+atenção à saúde, com grande potencial de identificação precoce de casos graves que devem ser
+manejados em serviços especializados.
+O objetivo deste documento é definir o papel dos serviços de APS/ESF no manejo e controle
+da infecção COVID-19, bem como disponibilizar os instrumentos de orientação clínica para os
+profissionais que atuam na porta de entrada do SUS a partir da transmissão comunitária de
+COVID-19 no Brasil.
+4 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Considerando a existência de fase de transmissão comunitária da COVID-19, é imprescindível
+que os serviços de APS/ESF trabalhem com abordagem sindrômica do problema, não exigindo mais a
+identificação do fator etiológico por meio de exame específico. Desta forma, este protocolo foca na
+abordagem clínica da Síndrome Gripal e da Síndrome Respiratória Aguda Grave (SRAG),
+independentemente do agente etiológico. Como é de conhecimento de todos, múltiplos agentes virais
+são responsáveis por essas duas síndromes, sendo o vírus da Influenza o de maior magnitude nos
+últimos anos. Entretanto, há evidências e dados internacionais indicando que a transcendência da
+COVID-19 pode superar a da Influenza. Portanto, a abordagem pragmática deste protocolo unifica as
+condutas referentes a esses dois grupos de vírus.
+2. CURSO CLÍNICO
+A infecção humana provocada pelo SARS-CoV-2 é uma zoonose. O vírus é classificado como um
+beta Coronavírus do mesmo subgênero da Síndrome Respiratória do Oriente Médio (MERS), porém de
+outro subtipo [1]. A transmissão do SARS-CoV-2 de humanos para humanos foi confirmada na China e
+nos EUA [1] e ocorre principalmente com o contato de gotículas respiratórias oriundas de pacientes
+doentes e sintomáticos [3]. A transmissão do vírus por indivíduos assintomáticos segue em controvérsia
+até o presente momento [4,5]. Em média, o período de incubação é estimado em de 5 a 6 dias, podendo
+variar de 0 a 14 dias [24].
+2.1 SINAIS E SINTOMAS
+O paciente com a doença COVID-19 apresenta geralmente os seguintes sintomas e sinais [6,8]:
+• Febre (>=37,8ºC);
+• Tosse;
+• Dispneia;
+• Mialgia e fadiga;
+• Sintomas respiratórios superiores; e
+• Sintomas gastrointestinais, como diarreia (mais raros).
+O quadro clínico, típico de uma Síndrome Gripal, pode variar seus sintomas desde uma
+apresentação leve e assintomática (não se sabe a frequência), principalmente em jovens adultos e
+crianças, até uma apresentação grave, incluindo choque séptico e falência respiratória [7]. A maior
+parte dos casos em que ocorreu óbito foi em pacientes com alguma comorbidade pré-existente
+(10,5% doença cardiovascular,7,3% diabetes, 6,3% doença respiratória crônica, 6% hipertensão e
+5,6% câncer (ref)) e/ou idosos (Quadro 1) [8]. A taxa de letalidade está em torno de 3,8% na China,
+porém o valor varia conforme o país. Estudos demonstram que, epidemiologicamente, homens entre
+41 e 58 anos representam a grande maioria dos casos de pacientes confirmados, sendo febre e tosse
+os sintomas mais presentes [6,13].
+As alterações em exames complementares mais comuns são infiltrados bilaterais nos exames
+de imagem de tórax, linfopenia no hemograma e aumento da proteína C-reativa. A doença apresenta
+fundamentalmente complicações respiratórias: pneumonia e Síndrome da Angústia Respiratória
+Aguda – SARA.
+5
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+2.2 DIAGNÓSTICO
+As definições de caso e critérios clínicos para a avaliação diagnóstica ainda não são consenso entre os
+especialistas [1]. Entretanto, pode-se avaliar o quadro da COVID-19 de maneira clínica e laboratorial.
+O quadro clínico inicial da doença é caracterizado como Síndrome Gripal (ver sinais e sintomas no
+item 2.1). O diagnóstico sindrômico depende da investigação clínico-epidemiológica e do exame físico.
+Conduta uniforme é sugerida para todos os casos de SG no contexto da APS/ESF, dada a impossibilidade de
+atestar com 100% de segurança se a SG é causada pelo SARS-CoV-2 ou por outro vírus.
+O diagnóstico laboratorial para identificação do vírus SARS-CoV-2 é realizado por meio das
+técnicas de RT-PCR em tempo real ou teste rápido sorológico validado pelas instituições de referência.
+RT-PCR em tempo real (qRT-PCR)
+O diagnóstico laboratorial considerado padrão ouro para a identificação do novo coronavírus
+(2019-nCoV), agora denominado SARS-CoV-2, continua sendo a RT-PCR em tempo real (qRT-PCR).
+Esses testes moleculares baseiam-se na detecção de sequências únicas de RNA viral,
+com confirmação por sequenciamento de ácidos nucleicos, quando necessário. Esse tem sido o método
+de referência no Brasil para confirmar COVID-19 tanto por estabelecimentos de saúde pública como
+também da saúde suplementar.
+Em áreas onde a COVID-19 está amplamente disseminada, um ou mais resultados negativos de
+um mesmo caso suspeito não descartam a possibilidade de infecção pelo vírus SARS-CoV-2. Vários
+fatores podem levar a um resultado negativo em um indivíduo infectado, incluindo:
+• Má qualidade da amostra, contendo pouco material do paciente (como controle, considere
+determinar se existe DNA humano adequado na amostra, incluindo um alvo humano no
+teste de PCR)
+• A amostra foi coletada em uma fase muito precoce ou tardia da infecção
+• A amostra não foi manuseada e enviado adequadamente
+• Razões técnicas inerentes ao teste, por exemplo, mutação do vírus ou inibição de PCR.
+Dessa forma, se um resultado negativo for obtido de um paciente com alta probabilidade de
+suspeita de COVID-19, particularmente quando foram analisadas apenas amostras do trato respiratório
+superior, indica-se, se possível, coletar amostras de vias respiratórias inferiores e testar novamente.
+Para melhorar a capacidade de resposta da rede pública de laboratórios também estão sendo
+disponibilizados testes moleculares que utilizam plataforma automatizada, a mesma utilizada na Rede
+Laboratorial da Tuberculose e de Carga Viral do HIV e das hepatites virais B e C do SUS.
+Testes sorológicos
+Atualmente, há muitas empresas produzindo testes rápidos para diagnosticar COVID-19. De
+forma geral, os testes sorológicos visam detectar anticorpo específico produzido pelo corpo humano
+contra o vírus SARS-CoV-2 ou detectar antígeno desse vírus. Para isso, os métodos sorológicos são
+desenvolvidos para detecção de anticorpos IgG e IgM ou detecção de antígenos específicos do
+vírus, alguns por ensaios imunoenzimáticos (ELISA) e imunocromatográficos (teste rápido) e outros
+por imunofluorescência.
+6 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Antes de se utilizar qualquer teste é essencial que o mesmo passe por um processo de validação
+no Instituto Nacional de Controle de Qualidade em Saúde (INCQS)/Fiocruz, a fim de avaliar se os
+resultados do teste podem ser considerados confiáveis, tanto se foram positivos ou negativos.
+Tais informações são de extrema importância para a precisão da indicação de medidas não
+farmacológicas de COVID-19, pois um paciente com um resultado falso negativo pode sair erroneamente
+do isolamento domiciliar e disseminar o vírus, como também fazer com que profissionais de saúde
+tenham que se afastar do trabalho e deixar de ajudar a salvar vidas, pelo resultado falso positivo. De
+forma geral, recomenda-se que antes de se utilizar um teste rápido, deve-se verificar se o mesmo já foi
+avaliado pelo INCQS.
+Mesmo validados, é importante saber que os testes rápidos apresentam limitações e a principal
+delas é que precisa ser realizado, de forma geral, a partir do 8º dia do início dos sintomas. É necessário
+que o caso suspeito ou contato de caso confirmado de COVID-19 espere esse tempo para que o sistema
+imunológico possa produzir anticorpos em quantidade suficiente para ser detectado pelo teste.
+3. MANEJO CLÍNICO NA APS/ESF
+O manejo clínico da Síndrome Gripal na APS/ESF difere frente a gravidade dos casos. Para casos
+leves, inclui medidas de suporte e conforto, isolamento domiciliar e monitoramento até alta do
+isolamento. Para casos graves, inclui a estabilização clínica e o encaminhamento e transporte a centros
+de referência ou serviço de urgência/emergência ou hospitalares.
+A APS/ESF deve assumir papel resolutivo frente aos casos leves e de identificação precoce e
+encaminhamento rápido e correto dos casos graves, mantendo a coordenação do cuidado destes últimos.
+A estratificação de intensidade da SG é a ferramenta primordial para definir a conduta correta
+para cada caso, seja para manter o paciente na APS/ESF ou para encaminhá-lo aos centros de referência,
+urgência/emergência ou hospitais.
+	Dada a letalidade muito mais elevada da COVID-19 entre os idosos (pessoas com 60 anos ou
+mais), deve-se priorizá-los para atendimento. Além deles, pessoas com doença crônica, gestantes e
+puérperas devem ter atendimento priorizado. Gestantes e puérperas não tem risco elevado para
+COVID-19, mas apresentam maior risco de gravidade se infectadas por Influenza.
+Os casos de síndromes gripais sem complicações ou sem comorbidades de risco serão
+conduzidos pela APS/ESF. Logo, faz-se obrigatório o acompanhamento dos profissionais da APS/ESF ao
+longo do curso da doença [10].
+	O manejo diagnóstico e terapêutico de pessoas com suspeita de infecção respiratória
+caracterizada como Síndrome Gripal, causada ou não por COVID-19, no contexto da APS/ESF incluiu os
+passos a seguir:
+1. Identificação de caso suspeito de Síndrome Gripal e de COVID-19
+2. Medidas para evitar contágio na UBS
+3. Estratificação da gravidade da Síndrome Gripal
+4. Casos leves: manejo terapêutico e isolamento domiciliar
+5. Casos graves: estabilização e encaminhamento a serviços de urgência/emergência ou hospitalares
+6. Notificação Imediata
+7. Monitoramento clínico
+8. Medidas de prevenção comunitária e apoio à vigilância ativa
+7
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+As equipes de APS/poderão utilizar estratégias de teleatendimento na identificação, manejo e
+acompanhamento de pacientes com sintomas suspeitos de SG (ver item 3.1 Teleatendimento). O
+fluxograma de atendimento presencial nas UBS pode ser visto no item 3.2 e exemplifica o fluxo
+assistencial ideal na APS/ESF frente a casos de Síndrome Gripal, suspeitos ou não de infecção pelo
+Novo Coronavírus.
+3.1 Teleatendimento
+Foi publicada Portaria nº 467, de 20 de Março de 2020, que dispõe, em caráter excepcional e
+temporário, sobre as ações de Telemedicina, com o objetivo de regulamentar e operacionalizar as
+medidas de enfrentamento da emergência de saúde pública de importância internacional decorrente
+da epidemia de COVID-19.
+Por meio dessa portaria, ficam autorizadas, em caráter excepcional e temporário, ações de
+Telemedicina, de interação à distância. Elas podem contemplar atendimento pré-clínico, suporte
+assistencial, consultas, monitoramento e diagnóstico, realizados por meio de tecnologia da informação
+e comunicação, no âmbito do SUS.
+Os atendimento deverão garantir a integridade, segurança e o sigilo das informações. Deverão
+também ser registrados em prontuário clínico, com as seguintes informações:
+I - Dados clínicos necessários para a boa condução do caso, sendo preenchidos em cada
+contato com o paciente;
+II - Data, hora, tecnologia da informação e comunicação utilizada para o atendimento; e
+III - Número do Conselho Regional Profissional e sua unidade da federação.
+No ANEXO 2 é possível encontrar uma recomendação de organização de fluxo rápido de
+atendimento telefônico de pacientes com suspeita de SG.
+É importante que a equipe atue de forma integrada, com apoio entre profissionais de nível
+superior e de nível técnico, facilitando o fluxo de informação e decisão.
+8 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+3.2 FLUXOGRAMA DE MANEJO CLÍNCO NA ATENÇÃO PRIMÁRIA EM TRANSMISSÃO
+COMUNITÁRIA
+Atestado médico até o fim
+do período de isolamento
+FLUXO DE MANEJO
+CLÍNICO NA ATENÇÃO
+PRIMÁRIA À SAÚDE EM
+TRANSMISSÃO COMUNITÁRIA
+CORONAVÍRUS
+C O V I D - 1 9
+PACIENTE COM QUALQUER
+SINTOMA DE SÍDROME GRIPAL
+- Febre >= 37,8ºC (aferida ou referida)
+- Tosse
+- Dor de garganta
+- Dificuldade respiratória
+UBS COM PORTA DE ENTRADA RESOLUTIVA, DE IDENTIFICAÇÃO
+PRECOCE E ENCAMINHAMENTO CORRETO DE CASOS GRAVES
+Paciente com prioridade no atendimento:
+Pessoas acima de 60 anos, imunossuprimidos (HIV+,
+transplantados, etc), pacientes com doenças crônicas,
+gestantes e puérperas
+• Forneça máscara cirúrgica para a pessoa e a oriente quanto à forma correta de colocá-la. Forneça meios para a pessoa higienizar as
+mãos (álcool gel ou água e sabão);
+• A pessoa deve ser conduzida para uma área separada ou para uma sala específica visando ao isolamento respiratório. A sala deve ser
+mantida com a porta fechada, janelas abertas e ar-condicionado desligado.
+CENTRO DE REFERÊNCIA/ATENÇÃO
+ESPECIALIZADA
+Síndrome gripal com ou os seguintes sinais ou sintomas
+de gravidade
+• Saturação de SpO2 <95% em ar ambiente
+• Sinais de desconforto respiratório ou aumento de frequência
+respiratória avaliada de acordo com a idade
+• Piora nas condições clínicas de doenças de base
+• Hipotensão
+Comorbidades
+• Diabetes (conforme juízo clínico)
+• Doenças cardíacas crônicas descompensadas
+• Doenças respiratórias crônicas
+descompensadas
+• Doenças renais crônicas em estágio avançado
+(graus 3, 4 e 5)
+• Imunossuprimidos
+• Portadores de doenças cromossômicas com
+estado de fragilidade imunológica
+• Gestante de alto risco
+CUIDADOS DOMÉSTICOS DO PACIENTE EM ISOLAMENTO
+Sempre reportar à equipe de saúde que acompanha o caso o surgimento
+de algum novo sintoma ou piora dos sintomas já presentes.
+Manter paciente em quarto isolado e bem ventilado até o fim do
+período sintomático. Destacam-se os seguintes fatores do cuidado do
+paciente em isolamento: a higiene respiratória e os hábitos saudáveis
+de alimentação. Todos os contatos domiciliares do paciente também
+deverão realizar isolamento domiciliar por 14 dias. Caso apresentar
+os sintomas, deverão entrar em contato com a equipe de saúde para
+receber atendimento.
+Para mais informações sobre orientaçãoes quanto ao isolamento
+domiciliar do paciente e precauções gerais e do cuidador, ver Protocolo
+de Manejo Clínico.
+Em crianças: além dos anteriores, observar os batimentos de asa
+de nariz, tiragem intercostal, desidratação e inapetência.
+MANEJO CLÍNICO NA APS
+MEDIDAS FARMACOLÓGICAS
+• Prescrição de fármacos para
+o controle de sintomas,
+caso não haja nenhuma
+contraindicação
+• Prescrever oseltamivir se
+Síndrome Gripal e pessoa
+com condições de risco
+MEDIDAS CLÍNICAS
+• O acompanhamento do paciente deve ser
+feito, preferencialmente por telefone, a cada
+24hs em pessoas com mais de 60 anos e
+portadores de comorbidades de risco e a
+cada 48hs nos demais, até completar 14
+dias do início dos sintomas.
+• Caso seja necessário, realizar atendimento
+presencial, idealmente no domicílio.
+• Manter alimentação balanceada e uma boa
+oferta de líquidos.
+Reavaliação/
+Acompanhamento clínico
+SÍNDROME GRIPAL GRAVE
+Transporte apropriado
+Centro de referência/
+atenção especializada
+Atestado médico até o fim
+do isolamento
+Manejo Clínico
+DESFECHO
+Apresenta sinais/
+sintomas de gravidade?
+Equipe da APS/ESF
+fica responsável pelo
+encaminhamento do paciente
+para o centro de referência/
+atenção especializada
+Monitoramento por telefone,
+a cada 24hs em pessoas com
+mais de 60 anos e portadores
+de comorbidades de risco
+e a cada 48h nos demais,
+até completar completar 14
+dias do início dos sintomas.
+Caso seja necessário, realizar
+atendimento presencial,
+idealmente no domicílio.
+DESFECHO
+NÃO SIM
+SÍNDROME GRIPAL LEVE
+ESTRATIFICAÇÃO DA GRAVIDADE E MANEJO CLÍNICO
+OU
+Verificar situação vacinal para gripe (se grupo de risco – gestante, crianças,
+puérperas e idosos) e vacinar se necessário.
+CONTROLE PRECOCE
+APS/ESF
+Síndrome Gripal confirmada:
+Febre
+Tosse OU dor de garganta
+OU dificuldade respiratória
+Ausência de comorbidades
+que indicam avaliação
+em centro de referência/
+atenção especializada
+e
+e
+Via formulário pelo e_SUS VE
+https://notifica.saude.gov.br/
+NOTIFICAÇÃO IMEDIATA
+| Versão 7
+Isolamento domiciliar após
+a alta, até completar 14 dias
+após início dos sintomas.
+Monitoramento por telefone,
+a cada 24hs em pessoas com
+mais de 60 anos e portadores
+de comorbidades de risco
+e a cada 48h nos demais.
+Caso seja necessário, realizar
+atendimento presencial,
+idealmente no domicílio.
+Fonte: Ministério da Saúde.
+9
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+3.3 IDENTIFICAÇÃO DE CASO SUSPEITO DE SÍNDROME GRIPAL E DE COVID-19
+Grande parte dos pacientes com Síndromes Gripais e casos suspeitos de COVID-19 chegarão à APS/
+ESF como porta de entrada. Por isso, o primeiro passo na cascata de manejo do COVID-19 é a identificação
+decasossuspeitosdeSíndromeGripal.Sugerimosqueessaidentificaçãoprecocesejarealizadanarecepção
+da Unidade Básica de Saúde seguindo o Fast-Track para Síndrome Gripal (Anexo 1).
+Para o objetivo deste protocolo, casos suspeitos de Síndrome Gripal serão abordados como
+casos suspeitos de COVID-19. Na recepção, todo paciente que apresentar tosse ou dificuldade
+respiratória ou dor de garganta será considerado caso suspeito de Síndrome Gripal. Esta identificação
+deve ser feita por profissional em uso de EPI e capacitado em suas atribuições frente à epidemia de
+COVID-19, aplicando o Fast-Track já mencionado.
+3.4 Medidas para evitar contágio na USF
+		
+Após a identificação precoce na recepção da Unidade Básica de Saúde de todos casos suspeitos
+de Síndrome Gripal, deve-se fornecer máscara cirúrgica a todos pacientes logo após reconhecimento
+pelo Agente Comunitário de Saúde ou profissional responsável por receber os pacientes e realizar o
+primeiro passo do Fast-Track (Anexo 1) [25], enquanto aguardam o atendimento da enfermagem e do
+médico. Preferencialmente, em localidades onde isso é possível, a pessoa deve ser conduzida para
+uma área separada ou para uma sala específica visando ao isolamento respiratório. A sala deve ser
+mantida com a porta fechada, janelas abertas e ar-condicionado desligado. Caso não haja sala disponível
+na UBS para isolamento, propiciar área externa com conforto para pacientes com Síndrome Gripal,
+que deverão ser atendidos o mais rápido possível, conforme Fast-Track (Anexo 1).
+Todo profissional que atender os pacientes com suspeita de Síndrome Gripal deve usar EPIs e
+adotar as medidas para evitar contágio, conforme Tabela 1. Atenção para os cuidados que devem ser
+tomados em relação ao uso de máscara cirúrgica (Tabela 2).
+Tabela 1. Medidas para evitar contágio por vírus causadores de Síndrome Gripal nas Unidades de
+Saúde da Família e Unidades Básicas de Saúde, Ministério da Saúde, 2020.
+Medidas de controle precoce
+PROFISSIONAIS DA SAÚDE Pacientes
+• Contenção respiratória
+• Máscara cirúrgica*;
+• Uso de luvas, óculos ou protetor facial e aventais
+descartáveis**;
+• Lavar as mãos com frequência;
+• Limpar e desinfetar objetos e superfícies
+tocados com frequência;
+• Fornecer máscara cirúrgica;
+• Isolamento com precaução de contato em
+sala isolada e bem arejada
+*Somente para procedimentos produtores de aerossóis usar máscara N95/PFF2.
+**Uso destes EPIs durante atendimento do paciente em consultório. Não é necessário o uso na recepção/triagem, desde que
+mantida distância de 1 metro.
+10 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 2. Orientações para uso correto de máscaras cirúrgicas para evitar contágio por vírus causadores de
+Síndromes Gripais, Ministério da Saúde, 2020.
+Orientações para uso de máscaras cirúrgicas
+• Coloque a máscara com cuidado para cobrir a boca e o nariz e amarre com segurança para minimizar as
+lacunas entre o rosto e a máscara;
+• Enquanto estiver utilizando a máscara, evite tocá-la;
+• Remova a máscara usando técnica apropriada (ou seja, não toque na frente, mas remova o laço ou nó da
+parte posterior);
+• Após a remoção, ou sempre que tocar em uma máscara usada, higienize as mãos com água e sabão ou
+álcool gel, se visivelmente suja;
+• Substitua a máscara por uma nova máscara limpa e seca assim que estiver úmida ou danificada;
+• Não reutilize máscaras descartáveis;
+• Descarte em local apropriado as máscaras após cada uso;
+• Troque de máscara quando ela estiver úmida ou quando o profissional atender na sala
+de isolamento.
+3.5 ESTRATIFICAÇÃO DA GRAVIDADE DA SÍNDROME GRIPAL
+Após triagem, o paciente deve passar por consulta presencial com enfermeiro e médico, de
+acordo com processo de trabalho local. É imprescindível a realização de consulta médica a fim de
+estratificar a gravidade por meio de anamnese e exame físico. Lembre-se: idosos acima de 60 anos,
+pacientes com doenças crônicas, gestantes e puérperas devem ter atendimento prioritário ao chegarem
+na USF com sintomas de Síndrome Gripal!
+Em consulta médica, após confirmar a presença de Síndrome Gripal, é fundamental estratificar
+a gravidade dos casos, a fim de identificar rapidamente casos suspeitos de Síndrome Respiratória
+Aguda Grave.
+Para manejo dos casos de Síndrome Gripal, independentemente do grau de suspeição para
+COVID-19, deve-se utilizar definições adaptadas à situação atual (ver abaixo). Recomenda-se
+definição única de caso de Síndrome Gripal, independentemente da etiologia viral, com objetivo
+de facilitar o processo de trabalho das equipes e oferecer o isolamento domiciliar ágil na redução
+da propagação da COVID-19.
+SÍNDROME GRIPAL – SG
+Indivíduo que apresente febre de início súbito, mesmo que referida, acompanhada de tosse ou
+dor de garganta ou dificuldade respiratória, na ausência de outro diagnóstico específico.
+Em crianças com menos de 2 anos de idade, considera-se também como caso de Síndrome
+Gripal: febre de início súbito (mesmo que referida) e sintomas respiratórios (tosse, coriza e obstrução
+nasal), na ausência de outro diagnóstico específico.
+Fonte: Ministério da Saúde.
+11
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+SÍNDROME RESPIRATÓRIA AGUDA GRAVE – SRAG
+Indivíduo de qualquer idade, com Síndrome Gripal (conforme definição anterior) e que apresente os
+seguintes sinais de gravidade:
+• Saturação de SpO2 <95% em ar ambiente.
+• Sinais de desconforto respiratório ou aumento da frequência respiratória avaliada de acordo
+com a idade.
+• Piora nas condições clínicas de doença de base.
+• Hipotensão.
+Em crianças, além dos itens anteriores, observar os batimentos de asa de nariz, cianose, tiragem
+intercostal, desidratação e inapetência.
+Vale ressaltar que febre pode não estar presente em alguns casos excepcionais, como crianças,
+idosos, imunossuprimidos ou pessoas que utilizaram antitérmicos e, portanto, a avaliação clínica e
+epidemiológica deve ser levada em consideração.
+A estratificação de gravidade dos casos suspeitos de SG deve se dar em consulta médica da seguinte forma:
+A. Casos leves. Aqueles que podem ser acompanhados completamente no âmbito da APS/ESF devido
+à menor gravidade do caso; e
+B. Casos graves. Aqueles que se encontram em situação de maior gravidade e, portanto, necessitam
+de estabilização na APS/ESF e encaminhamento a centro de referência/urgência/hospitais para
+avaliação ou intervenções que exijam maior densidade tecnológica.
+As Tabelas 3 a 7 fornecem subsídios técnicos para que o médico de família e comunidade /
+médico da APS defina o nível de gravidade e decida pelo acompanhamento na APS/ESF ou
+encaminhamento a serviço de Urgência ou Hospital de acordo com o contexto local da Rede de Atenção
+à Saúde. Para a definição da gravidade do caso, é fundamental definir se a pessoa apresenta
+comorbidades ou condições de risco para acompanhamento ambulatorial na APS e isolamento
+domiciliar. As principais situações são descritas Nas Tabelas 4 e 5. As Tabelas 6 e 7 fornecem subsídios
+para a avaliação de gravidade em crianças.
+12 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 3. Estratificação da gravidade de casos de Síndrome Gripal, Ministério da Saúde, 2020.
+ESTRATIFICAÇÃO DE GRAVIDADE DE CASO
+CASOS LEVES CASOS GRAVES
+APS/ESF
+CENTRO DE REFERÊNCIA/
+ATENÇÃO ESPECIALIZADA
+Síndrome gripal com sintomas leves (sem sinais e
+sintomas de gravidade) [ver tabela 4]
+E
+Ausência de comorbidades que indicam avaliação em
+centro de referência/atenção especializada
+[ver Tabela 5]
+Síndrome gripal que apresente sinais e sintomas de
+gravidade [ver Tabela 4]
+OU
+Comorbidades que indicam avaliação em centro de
+referência/atenção especializada [ver Tabela 5]
+Fonte:
+Protocolo de Tratamento da Influenza. Ministério da Saúde 2017.
+Protocolo de Manejo Clínico de Síndrome Respiratória Aguda Grave. Ministério da Saúde 2010.
+13
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 4. Sinais e sintomas de gravidade para Síndrome Gripal, Ministério da Saúde, 2020.
+SINAIS E SINTOMAS DE GRAVIDADE
+ADULTOS CRIANÇAS
+Déficit no sistema respiratório:
+• Falta de ar ou dificuldade para respirar; ou
+• Ronco, retração sub/intercostal severa; ou
+• Cianose central; ou
+• Saturação de oximetria de pulso <95% em
+ar ambiente; ou
+• Taquipneia (>30 mpm);
+Déficit no sistema cardiovascular:
+• Sinais e sintomas de hipotensão (hipotensão
+arterial com sistólica abaixo de 90 mmHg e/ou
+diastólica abaixo de 60mmHg); ou
+• Diminuição do pulso periférico.
+Sinais e sintomas de alerta adicionais:
+• Piora nas condições clínicas de doenças
+de base;
+• Alteração do estado mental, como confusão
+e letargia;
+• Persistência ou aumento da febre por mais de 3
+dias ou retorno após 48 horas de período afebril.
+Déficit no sistema respiratório:
+• Falta de ar ou dificuldade para respirar;
+• Ronco, retração sub/intercostal severa;
+• Cianose central;
+• Batimento da asa de nariz;
+• Movimento paradoxal do abdome;
+• Bradipneia e ritmo respiratório irregular;
+• Saturação de oximetria de pulso <95%
+em ar ambiente;
+• Taquipneia (Tabela 6).
+• Déficit no sistema cardiovascular:
+• Sinais e sintomas de hipotensão ou;
+• Diminuição do pulso periférico.
+Sinais e Sintomas de alerta adicionais:
+• Inapetência para amamentação ou ingestão
+de líquidos;
+• Piora nas condições clínicas de doenças
+de base;
+• Alteração do estado mental
+• Confusão e letargia;
+• Convulsão.
+Fonte:
+- WHO technical guidance - patient management - Coronavirus disease 2019
+- Kenneth McIntosh, MD. Severe acute respiratory syndrome (SARS).UpToDate Jan 2020.
+- Protocolo de Tratamento da Influenza. Ministério da Saúde 2017.
+- Protocolo de Manejo Clínico de Síndrome Respiratória Aguda Grave. Ministério da Saúde 2010.
+- American Heart Association, 2015
+14 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 5. Comorbidades que indicam avaliação da Síndrome Gripal em centro de referência/atenção
+especializada, Ministério da Saúde, 2020.
+Comorbidades que indicam avaliação em centro
+de referência/atenção especializada
+• Doenças cardíacas descompensadas
+• Doença cardíaca congênita
+• Insuficiência cardíaca mal controlada
+• Doença cardíaca isquêmica descompensada
+• Doenças respiratórias descompensadas
+• DPOC e asma mal controlados
+• Doenças pulmonares intersticiais com complicações
+• Fibrose cística com infecções recorrentes
+• Displasia broncopulmonar com complicações
+• Crianças com doença pulmonar crônica da prematuridade
+• Doenças renais crônicas em estágio avançado (graus 3, 4 e 5)
+• Pacientes em diálise
+• Imunossupressos
+• Transplantados de órgãos sólidos e de medula óssea
+• Imunossupressão por doenças e/ou medicamentos (em vigência de quimioterapia/radioterapia, entre
+outros medicamentos)
+• Portadores de doenças cromossômicas e com estados de fragilidade imunológica
+(ex.: Síndrome de Down)
+• Diabetes (conforme juízo clínico)
+• Gestante de alto risco
+Tabela 6 – Frequência respiratória (por minuto) em crianças
+IDADE FREQUÊNCIA
+1 a 12 meses 30 a 53
+1 a 2 anos 22 a 37
+3 a 5 anos 20 a 28
+Escolar 18 a 25
+Adolescente 12 a 20
+Ref: Protocolo influenza 2017
+Fonte: American Heart Association, 2015
+Fonte: Ministério da Saúde.
+15
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 7 - Frequência cardíaca (por minuto) em crianças.
+IDADE FREQUÊNCIA EM VIGÍLIA FREQUÊNCIA EM SONO
+Recém-nascido 100 a 205 90 a 160
+1 a 12 meses 100 a 180 90 a 160
+1 a 2 anos 98 a 140 80 a 120
+3 a 5 anos 80 a 120 65 a 100
+Escolar 75 a 118 58 a 90
+Ref: Protocolo influenza 2017
+Fonte: American Heart Association, 2015
+Além das condições clinicas, as condições do domicílio devem ser avaliadas antes de seguir com
+o planejamento de acompanhamento ambulatorial do paciente na APS/ESF. Mesmo casos de menor
+gravidade exigem que haja um acompanhante da pessoa doente, para auxiliar no tratamento da SG,
+bem como de demais comorbidades existentes, além de acompanhar a evolução do quadro e identificar
+rapidamente sinais ou sintomas de piora e necessidade de procura rápida de serviço de saúde.
+3.6 CASOS LEVES: MANEJO TERAPÊUTICO E ISOLAMENTO DOMICILIAR
+3.6.1 Manejo Terapêutico
+Casos leves devem ser manejados com medidas não-farmacológicas como repouso, hidratação,
+alimentação adequada, além de analgésicos e anti-térmicos e isolamento domiciliar por 14 dias a
+contardadatadeiníciodossintomas(Tabela8 ManejoterapêuticodaSGnaAPS).Diantedapossibilidade
+de síndrome gripal por outros vírus, como a Influenza, indica-se o uso de Oseltamivir nos casos de
+síndrome gripal e fatores de risco para complicações (Tabela 9). Na Tabela10 encontra-se a dose de
+oseltamivir ajustada para pacientes com insuficiência renal.
+	A vigilância ativa e continuada desses pacientes que estão recebendo acompanhamento
+ambulatorial é a principal ferramenta para o manejo. É necessária a comunicação plena com um
+profissional de saúde da APS/ESF durante todo o cuidado doméstico do paciente até a o fim do período
+de isolamento. A revisão dos sintomas e o seguimento da evolução do quadro devem ser realizados
+por um profissional da APS, a cada 24hs em pessoas com mais de 60 anos e portadores de comorbidades
+de risco e a cada 48hs nos demais, até completar completar 14 dias do início dos sintomas. Caso seja
+necessário, realizar atendimento presencial, idealmente no domicílio.
+16 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 8. Manejo terapêutico da Síndrome Gripal na APS, Ministério da Saúde, 2020.
+MANEJO TERAPÊUTICO NA APS
+Medidas Farmacológicas Medidas Clínicas
+• Prescrição de fármacos para o controle de sintomas, caso
+não haja nenhuma contraindicação, com possibilidade de
+intercalar os fármacos antitérmicos em casos de difícil
+controle da febre.
+• Antitérmico via oral:
+1ª opção: Paracetamol (200 mg/ml ou 500mg/cp), a cada 4/4
+horas ou 6/6 horas a depender da frequência de febre ou dor.
+• Crianças: 10-15 mg/kg/dose (máximo de 5 doses ao dia)
+• Adultos: 500-1000 mg/dose (máximo de 3mg/dia)
+2ª opção: Dipirona (solução gotas 500mg/ml ou 500mg/cp) em
+caso de dor ou febre, de 6/6 horas.
+• Crianças: > 3 meses: (lactentes 10 mg/kg/dose; pré-
+escolares: 15 mg/kg/dose)
+• Adultos: 500-1000 mg VO (dose máxima no adulto
+4 gramas)
+• Oseltamivir:
+Indica-se o uso de oseltamivir para todos os casos de
+síndrome gripal que tenham situações de risco para
+complicações [ver Tabela 9]. Essa recomendação
+independe da situação vacinal do paciente, mesmo sendo
+acompanhado pela APS. O medicamento deve ser iniciado
+em até 48hs após o início dos sintomas. Reforça-se que é
+necessário que o paciente procure ajuda médica em casos
+de agravamento, mesmo em uso do oseltamivir.
+• Adultos: 75mg de 12 em 12 horas por 5 dias.
+• Criança maior de 1 ano:
+≤15 kg 30 mg, 12/12h, 5 dias
+> 15 kg a 23 kg 45 mg, 12/12h, 5 dias
+> 23 kg a 40 kg 60 mg, 12/12h, 5 dias
+> 40 kg 75 mg, 12/12h, 5 dias
+• Criança menor de 1 ano de idade:
+0 a 8 meses 3 mg/Kg, 12/12h, 5 dias
+9 a 11 meses 3,5 mg/kg, 12/12h, 5 dias
+• Isolamento domiciliar por 14 dias a
+contar da data de início dos sintomas
+• Revisão a cada a cada 24hs em pessoas
+com mais de 60 anos e portadores de
+comorbidades de risco e a cada 48hs
+nos demais, preferencialmente por
+telefone. Caso seja necessário, realizar
+atendimento presencial, idealmente no
+domicílio.Manter repouso, alimentação
+balanceada e boa oferta de líquidos.
+• Isolamento de contatos domiciliares
+por 14 dias ( ver item 3.6.2
+Isolamento domiciliar).
+Fonte: WHO technical guidance - patient management - Coronavirus disease 2019
+Protocolo de Tratamento de Influenza. Ministério da Saúde 2017
+Elvino Barros. Medicamentos na prática clincia. 2010
+17
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 9. Condições de risco para complicações em casos de Síndrome Gripal com recomendação para
+uso de Oseltamivir, Ministério da Saúde, 2020.
+CONDIÇÕES DE RISCO PARA COMPLICAÇÕES
+Recomendação do uso de Oseltamivir
+• Grávidas em qualquer idade gestacional, puérperas até duas semanas após o parto (incluindo as que tiveram
+aborto ou perda fetal).
+• Adultos ≥ 60 anos.
+• Crianças < 5 anos (sendo que o maior risco de hospitalização é em menores de 2 anos, especialmente
+as menores de 6 meses com maior taxa de mortalidade).
+• População indígena aldeada ou com dificuldade de acesso.
+• Indivíduos menores de 19 anos de idade em uso prolongado de ácido acetilsalicílico (risco de
+síndrome de Reye).
+• Indivíduos que apresentem:
+› Pneumopatias (incluindo asma).
+› Pacientes com tuberculose de todas as formas (há evidências de maior complicação e possibilidade
+de reativação).
+› Cardiovasculopatias (excluindo hipertensão arterial sistêmica).
+› Nefropatias.
+› Hepatopatias.
+› Doenças hematológicas (incluindo anemia falciforme).
+› Distúrbios metabólicos (incluindo diabetes mellitus).
+› Transtornos neurológicos e do desenvolvimento que podem comprometer a função respiratória
+ou aumentar o risco de aspiração (disfunção cognitiva, lesão medular, epilepsia, paralisia cerebral,
+síndrome de Down, acidente vascular encefálico – AVE ou doenças neuromusculares).
+› Imunossupressão associada a medicamentos (corticoide ≥ 20 mg/dia por mais de duas semanas,
+quimioterápicos, inibidores de TNF-alfa) neoplasias, HIV/aids ou outros.
+› Obesidade (especialmente aqueles com índice de massa corporal – IMC ≥ 40 em adultos).
+Fonte: Protocolo de Tratamento de Influenza. Ministério da Saúde 2017.
+18 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Tabela 10. Dose de oseltamivir para pacientes com insuficiência renal, Ministério da Saúde, 2020.
+DOSE DE OSELTAMIVIR PARA PACEINTES COM INSUFICIÊNCIA RENAL
+Clearance de Creatinina Tratamento 5 dias Profilaxia 10 dias
+Leve Clearance
+>60-90 ml/min
+Moderado Clearance
+>30-60 ml/min
+Severo Clearance
+>10-30 ml/min
+Pacientes em hemodiálise Clearance
+≤ 10 ml/min
+Pacientes em diálise Peritoneal Contínua
+ambulatorial – dPCaClearance
+≤ 10 ml/min
+75 mg 12/12 h
+30 mg 12/12 h
+30 mg 1 vez ao dia
+30 mg após cada sessão de
+hemodiálise*
+Única dose de 30 mg
+administrada
+imediatamente após troca
+da diálise
+30 mg 1 vez por semana
+imediatamente após troca
+da diálise**
+*Serão apenas três doses (em vez de cinco) após cada sessão de hemodiálise, considerando-se que, num
+período de cinco dias, serão realizadas três sessões.
+**Serão duas doses de 30 mg cada, considerando-se os dez dias, em que ocorrerão apenas duas sessões de diálise.
+Fonte: CDC adaptado (2011; [2017])
+3.6.2 Isolamento Domiciliar
+Todas as pessoas com diagnóstico de Síndrome Gripal deverão realizar isolamento domiciliar,
+portanto faz-se necessário o fornecimento de atestado médico até o fim do período de isolamento, isto
+é, 14 dias a partir do início dos sintomas. Quanto ao cuidado doméstico do paciente, as condutas
+descritas na Tabela 11 devem ser adotadas [10].
+Em referência à Portaria Nº 454 de 20 de março de 2020, que define as condições de isolamento
+domiciliar, é importante esclarecer que o documento recomenda o isolamento das pessoas com
+qualquer sintoma respiratório, com ou sem febre, buscando a adoção das medidas de isolamento de
+maneira mais precoce possível. Contudo, para diagnóstico e notificação de Síndrome Gripal (e demais
+medidas correspondentes previstas nesse protocolo, a serem adotadas pelos serviços de saúde), é
+necessário seguir critérios atuais que exigem a presença de febre.
+Os contatos domiciliares de paciente com SG confirmada também deverão realizar isolamento
+domiciliar por 14 dias seguindo as condutas descritas na Tabela 11 - Precauções do cuidador. Caso seja
+necessário, os contatos deverão receber atestado médico pelo período dos 14 dias, com o CID 10 - Z20.9 -
+Contato com exposição a doença transmissível não especificada. O médico deverá fornecer atestado
+mesmo para as pessoas do domicilio que não estiverem presentes na consulta da pessoa com sintomas.
+A pessoa sintomática ou responsável deverá informar ao profissional médico o nome completo das
+demais pessoas que residam no mesmo endereço, assinando um termo de declaração contendo a relação
+dos contatos domiciliares, sujeitando-se à responsabilização civil e criminal pela prestação de informações
+falsas. Caso o contato inicie com sintomas e seja confirmada SG, deverão ser iniciadas as precações de
+isolamento para paciente, o caso notificado e o período de 14 dias deve ser reiniciado.
+19
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Contudo, o período de isolamento das demais pessoas do domicílio é mantido. Ou seja, contatos
+que se mantenham assintomáticos por 14 dias não reiniciam seu isolamento, mesmo quem outra
+pessoa da casa inicie com sintomas durante o período.
+Tabela 11. Medidas de isolamento domiciliar e cuidados domésticos para todos pacientes com diagnóstico
+de Síndrome Gripal, Ministério da Saúde, 2020.
+CUIDADOS DOMÉSTICOS DO PACIENTE EM ISOLAMENTO DOMICILIAR POR 14 DIAS
+DESDE A DATA DE INÍCIO DOS SINTOMAS DE SINDROME GRIPAL
+Sempre reportar à equipe de saúde que acompanha o caso o surgimento
+de algum novo sintoma ou piora dos sintomas já presentes
+Isolamento do paciente Precauções do cuidador Precauções gerais
+• Permanecer em quarto isolado e
+bem ventilado;
+• Caso não seja possível isolar o
+paciente em um quarto único,
+manter pelo menos 1 metro de
+distância do paciente. Dormir em
+cama separada (exceção: mães
+que estão amamentando devem
+continuar amamentando com o
+uso de máscara e medidas de
+higiene, como a lavagem
+constante de mãos);
+• Limitar a movimentação do
+paciente pela casa. Locais da casa
+com compartilhamento (como
+cozinha, banheiro etc.) devem
+estar bem ventilados;
+• Utilização de máscara todo o tempo.
+Caso o paciente não tolere ficar por
+muito tempo, realizar medidas de
+higiene respiratória com mais
+frequência; trocar máscara sempre
+que esta estiver úmida ou
+danificada;
+• Emidasaobanheiroououtro
+ambienteobrigatório,odoente
+deveusarobrigatoriamentemáscara;
+• Realizar higiene frequente das
+mãos, com água e sabão ou
+álcool em gel, especialmente
+antes de comer ou cozinhar e
+após ir ao banheiro;
+• Sem visitas ao doente;
+• O paciente só poderá sair de casa
+em casos de emergência. Caso
+necessário, sair com máscara e
+evitar multidões, preferindo
+transportes individuais ou a pé,
+sempre que possível.
+• O cuidador deve utilizar uma
+máscara quando estiver perto do
+paciente. Caso a máscara fique
+úmida ou com secreções, deve
+ser trocada imediatamente.
+Nunca tocar ou mexer na
+máscara enquanto estiver perto
+do paciente. Após retirar a
+máscara, o cuidador deve lavar
+as mãos;
+• Deve ser realizada higiene das
+mãos toda vez que elas
+parecerem sujas, antes/depois do
+contato com o paciente, antes/
+depois de ir ao banheiro, antes/
+depois de cozinhar e comer ou
+toda vez que julgar necessário.
+Pode ser utilizado álcool em gel
+quando as mãos estiverem secas
+e água e sabão quando as mãos
+parecerem oleosas ou sujas;
+• Toda vez que lavar as mãos com
+água e sabão, dar preferência
+ao papel-toalha. Caso não seja
+possível, utilizar toalha de
+tecido e trocá-la toda vez que
+ficar úmida;
+• Caso alguém do domicílio
+apresentar sintomas de SG,
+iniciar com os mesmos cuidados
+de precaução para pacientes e
+solicitar atendimento na sua UBS.
+Realizar atendimento domiciliar
+dos contactantes sempre
+que possível.
+• Toda vez que lavar as mãos com
+água e sabão, dar preferência ao
+papel-toalha. Caso não seja
+possível, utilizar toalha de
+tecido e trocá-la toda vez que
+ficar úmida;
+• Todos os moradores da casa
+devem cobrir a boca e o nariz
+quando forem tossir ou espirrar,
+seja com as mãos ou máscaras.
+Lavar as mãos e jogar as
+máscaras após o uso;
+• Evitar o contato com as
+secreções do paciente; quando
+for descartar o lixo do paciente,
+utilizar luvas descartáveis;
+• Limpar frequentemente (mais de
+uma vez por dia) as superfícies
+que são frequentemente tocadas
+com solução contendo alvejante
+(1 parte de alvejante para 99
+partes de água); faça o mesmo
+para banheiros e toaletes;
+• Lave roupas pessoais, roupas de
+cama e roupas de banho do
+paciente com sabão comum e
+água entre 60-90ºC, deixe secar.
+Fonte: WHO technical guidance - patient management - Coronavirus disease 2019.
+20 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+3.6.3 Orientações para afastamento e retorno às atividades de profissionais de saúde
+A. Profissionais contactantes domiciliares assintomáticos de pacientes suspeitos ou
+confirmados de Síndrome Gripal
+• Contactante domiciliar: sem recomendação de afastamento.
+• Contactante não domiciliar: seguir recomendação descrita na tabela abaixo.
+Tabela 12. Recomendações para profissional de saúde que é contado domiciliar de pessoa com
+sintomas de Síndrome Gripal
+Teste Positivo Teste negativo
+Caso do domicílio
+realizou teste (RT-PCR
+ou sorológico*)
+Profissional de saúde mantém 14 dias de
+afastamento, a contar do início dos sintomas
+do caso
+Retorno imediato ao trabalho,
+desde que assintomático
+Teste indisponível
+Afastamento do profissional por 7 dias, a contar do início dos sintomas do caso.
+Retorna ao trabalho após 7 dias, se permanecer assintomático
+Fonte: Ministério da Saúde.
+*Teste sorológico deve ser feito a partir do oitavo dia do início dos sintomas
+B. Profissional de saúde com suspeita de Síndrome Gripal (febre acompanhada de tosse
+ou dor de garganta ou dificuldade respiratória)
+Deve afastar-se do trabalho imediatamente.
+O retorno ao trabalho deve atender a uma das condições descritas abaixo.
+Tabela 13. Recomendações para profissional de saúde com sintomas de Síndrome Gripal
+Disponibilidade
+de teste
+Condição de retorno
+ao trabalho
+Observações
+Teste disponível
+(RT-PCR ou sorológico)
+Teste negativo
+Condições necessárias para realização do
+teste sorológico em profissional de saúde:
+• A partir do oitavo dia do início dos sintomas
+E
+• Mínimo de 72 horas assintomático*
+Se teste positivo, o profissional deverá
+cumprir 14 dias de isolamento domiciliar,
+a contar do início dos sintomas
+Teste indisponível
+- Mínimo de 72 horas assintomático
+E
+- Mínimo de 7 dias após o início
+dos sintomas
+Usar de máscara cirúrgica ao retornar ao
+trabalho, mantendo o seu uso por
+até 14 dias do início dos sintomas
+Fonte: Ministério da Saúde.
+*A necessidade de atingir 72hs de período assintomático para os profissionais, antes da realização do teste, se deva a evidência de redução
+importante da viremia após 72 horas do fim dos sintomas [26]. Essa medida permite que o grau de transmissibilidade do profissional seja
+reduzido, mesmo na eventualidade de um resultado falso-negativo.
+21
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+C.Afastamento de profissional de saúde em grupo de risco
+São consideradas condições de risco:
+• Idade igual ou superior a 60 anos
+• Cardiopatias graves ou descompensados (insuficiência cardíaca, cardiopatia isquêmica)
+• Pneumopatias graves ou descompensados (asma moderada/grave, DPOC)
+• Imunodepressão
+• Doenças renais crônicas em estágio avançado (graus 3, 4 e 5)
+• Diabetes mellitus, conforme juízo clínico
+• Doenças cromossômicas com estado de fragilidade imunológica
+• Gestação de alto risco
+Recomendação de afastamento laboral.
+Em caso de impossibilidade de afastamento desses profissionais, estes não deverão realizar
+atividades de assistência a pacientes suspeitos ou confirmados de Síndrome Gripal. Preferencialmente
+deverão ser mantidos em atividades de gestão, suporte, assistência nas áreas onde NÃO são atendidos
+pacientes suspeitos ou confirmados de Síndrome Gripal.
+3.7 Casos graves: estabilização e encaminhamento ao centro de referência ou
+centro de urgência
+Casos classificados como graves devem ser estabilizados e encaminhados aos serviços de
+urgência ou hospitalares de acordo com a organização da Rede de Atenção à Saúde local. Procure
+informações junto à Secretaria de Saúde de seu município acerca dos serviços de urgência e/ou
+hospitalares que foram definidos como Centros de Referência para a COVID-19 em sua região.
+	O encaminhamento será de responsabilidade da equipe da atenção primária onde ocorreu a
+classificação do caso. Deve-se articular na rede local de saúde a necessidade de recepcionamento
+priorizado desse cidadão, garantindo transporte sanitário adequado.
+3.8 Notificação Imediata
+É mandatória a notificação imediata de caso de Síndrome Gripal, via plataforma do e-SUS VE
+(https://notifica.saude.gov.br).
+Casos notificados de SG, que posteriormente apresentaram teste para COVID-19 positivo,
+devem ser renotificados como casos confirmados, informando o resultado do teste.
+Também é considerado caso confirmado de COVID-19 a pessoa com SG e histórico de contato próximo
+ou domiciliar, nos últimos 7 dias antes do aparecimento dos sintomas, com caso confirmado
+laboratorialmente para COVID-19 e para o qual não foi possível realizar a investigação laboratorial
+específica. Pessoas com SG e exame negativo para COVID-19 são consideradas casos descartados.
+Além da notificação, as informações de todos pacientes com Síndrome Gripal devem ser
+registradas no prontuário para possibilitar a longitudinalidade e a coordenação do cuidado, assim
+como realizar eventual investigação epidemiológica e posterior formulação de políticas e estratégias
+de saúde. Atente para o uso do CID-10 correto sempre que disponível no sistema de registro. O CID-10
+que deve ser utilizado para Síndrome Gripal inespecífica é o J11. Os CID-10 específicos para infecção
+22 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+por coronavírus são o U07.1 - Infecção pelo novo Coronavírus (COVID-19) ou o B34.2 - Infecção por
+coronavírus de localização não especificada. Nos casos em que haja também classificação por CIAP,
+pode-se utilizar o CIAP-2 R74 (Infecção Aguda de Aparelho Respiratório Superior).
+3.9 Monitoramento clínico
+Os pacientes com Síndrome Gripal em acompanhamento ambulatorial na APS/ESF devem
+permanecer em isolamento domiciliar por 14 dias a contar da data de início dos sintomas. O
+monitoramento deve ser feito a cada 24h em pessoas com mais de 60 anos e portadores de
+comorbidades de risco e a cada 48hs nos demais, preferencialmente por telefone. Caso seja
+necessário, realizar atendimento presencial, idealmente no domicílio. Todos os membros da casa
+devem ser considerados como contactantes e também deverão ser afastados por 14 dias e
+acompanhados pela APS/ESF, além de serem estratificados de maneira apropriada caso iniciem
+com sintomas.
+Caso haja piora do paciente em tratamento domiciliar ou o desenvolvimento de sintomas graves
+em familiares do paciente, torna-se obrigatório o encaminhamento para os outros níveis de cuidado
+do SUS (centro de referência, sendo a equipe da UBS responsável pelo encaminhamento do paciente).
+O Quadro 2 indica como proceder ao monitoramento por telefone.
+Quadro 2. Monitoramento de pacientes com Síndrome Gripal na APS/ESF, Ministério da Saúde, 2020.
+O acompanhamento do paciente deve ser feito a cada 24h em pessoas com mais de 60
+anos e portadores de comorbidades de risco e a cada 48h nos demais, preferencialmente
+por telefone, até completar 14 dias do início dos sintomas. Caso seja necessário, realizar
+atendimento presencial. Nesse caso, preferencialmente realizar visita domiciliar com
+medidas de precaução de contato e EPIs conforme protocolo vigente.
+Normativa de acompanhamento do paciente em isolamento domiciliar via telefone
+1. Anotar em prontuário o número de contato do paciente e de algum acompanhante (de preferência
+o cuidador que ficará responsável pelo paciente), durante a primeira avaliação na USF;
+2. Ligação deve ser realizada por profissional de saúde da ESF a cada 24h em pessoas com mais de 60
+anos e portadores de comorbidades de risco e a cada 48hs nos demais, para acompanhamento da
+evolução do quadro clínico;
+3. Não há necessidade de gravar a conversa;
+4. Anotar informações sobre a conversa telefônica no prontuário– quadro clínico autorreferido do
+paciente, autoavaliação da necessidade de ir algum profissional à residência do paciente ou
+consulta presencial na UBS com paciente em uso de máscara e inserido no Fast-Track (Anexo 2),
+horário da ligação e queixas.
+	É importante ressaltar a busca ativa de novos casos suspeitos de síndrome gripal na comunidade.
+O treinamento de profissionais para reconhecimento de sinais e sintomas clínicos de Síndrome Gripal é de
+extrema importância na APS. Além disso, políticas públicas que visam ao esclarecimento da população a
+respeito das informações acerca do Novo Coronavírus são essenciais no combate à doença.
+Fonte: Ministério da Saúde.
+23
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+3.10 Medidas de prevenção comunitária e apoio à vigilância ativa
+Em relação a medidas de prevenção comunitária, o Ministério da Saúde, em ressonância com as
+diretrizes mundiais, preconiza como medidas de prevenção à população:
+Tabela 14. Medidas de prevenção Comunitária à Síndrome Gripal e à COVID-19, Ministério da Saúde, 2020.
+PREVENÇÃO COMUNITÁRIA
+• Realizar lavagem frequente das mãos com água e sabão ou álcool em gel, especialmente após contato
+direto com pessoas doentes;
+• Utilizar lenço descartável para higiene nasal;
+• Cobrir nariz e boca quando espirrar ou tossir;
+• Evitar tocar mucosas de olhos, nariz e boca;
+• Higienizar as mãos após tossir ou espirrar;
+• Não compartilhar objetos de uso pessoal, como talheres, pratos, copos ou garrafas;
+• Manter os ambientes bem ventilados;
+• Evitar contato com pessoas que apresentem sinais ou sintomas da doença.
+Pessoas sem sintomas não necessitam usar máscaras em ambientes públicos ou em casa.
+Pacientes portadores de doenças crônicas estáveis devem ter seus receituários renovados pelo maior
+período possível, bem como deve ser feito adequado planejamento para que não fiquem sem
+medicamentos, buscando assim evitar o trânsito desnecessário dessas pessoas pela UBS.
+	Atenção especial deve ser dada às casas de repouso/lares de idosos sob responsabilidade das
+equipes, dado o maior potencial de gravidade da doença na população idosa. Ações de educação
+podem ser realizadas nesses locais, buscando a prevenção. Na ocorrência de um caso, cuidado
+redobrado deve ser dedicado ao paciente e aos demais moradores.
+3.11 Recomendações em grupos especiais
+A. Gestantes e puérperas
+Até onde as evidências atuais indicam, gestantes e puérperas não possuem risco individual
+aumentado. Contudo medidas devem ser adotadas para proteção da criança. Além disso, gestantes e
+puérperas tem maior potencial de risco para desenvolvimento de SRAG por Síndrome Gripal decorrente
+do vírus da Influenza. Dessa forma, importante seguir as recomendações expressas na Tabela 15.
+B. Pessoas com 60 anos ou mais
+Pessoas idosas, com 60 anos ou mais, possuem risco individual aumentado para a Sindrome Gripal e
+risco de complicações graves para COVID-19. Atenção especial deve ser adotadas nas particularidades
+da avaliação e conduta dessa população.
+Fonte: Ministério da Saúde.
+24 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+• Idosos com doenças crônicas devem ser monitorados para que permaneçam compensados,
+devendo ser considerados prioritários para avaliação clínica imediata;
+• Atentar para sinais de alerta incomuns tais como: confusão mental aguda, agitação, sonolência,
+prostração, desconforto respiratório, ausência de febre, dificuldade em deambular, quedas,
+ingesta alimentar diminuída, disfagia, incontinência, maior propensão para desenvolver
+taquipneia;
+• Taquipneia é sinal precoce de infecção respiratória em idosos (FR > 24 rpm);
+• Há maior atenção a possível ocorrência de anosmia considerando a maior propensão a déficit
+sensorial em idosos;
+• Provável maior incidência de delirium, bem como confusão mental. Em vigência de infecções
+é possível a ocorrência de crises epilépticas em pessoas com menor reserva cerebral como
+idosos com atrofia cerebral importante;
+• Muitos idosos, principalmente de Instituições de Longa Permanência para Idosos (ILPI) têm
+demência, histórico de AVC ou outros problemas de saúde que podem mascarar as
+manifestações da infecção por COVID-19. Assim, qualquer mudança significativa no estado
+clínico em relação à linha de base desses idosos sem explicações imediatas podem ser causadas
+por COVID 19.
+Orienta-se que os profissionais da APS:
+• Priorizem o atendimento domiciliar aos idosos mais vulneráveis como os acamados;
+• Orientar idosos e familiares para a restrição de atividades de convívio social como grupos
+(mesmo terapêuticos), reuniões em igrejas, clubes, etc;
+• As equipes da APS também devem permanecer atentas às moradias coletivas (abrigos,
+residências terapêuticas, repúblicas, instituições de longa permanência), monitorando-as
+frequentemente, bem como fornecendo informações e orientações sobre formas de evitar o
+contágio no ambiente compartilhado.
+25
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Fonte: Ministério da Saúde.
+Tabela 15. Recomendações para gestantes e puérperas com Síndrome Gripal e risco para COVID-19,
+Ministério da Saúde, 2020.
+Recomendações para gestantes e puérperas
+com Síndrome Gripal e risco para COVID-19
+Gestantes
+• Mesmo podendo representar manifestação fisiológica da gravidez, a queixa de dispneia deve ser valorizada
+na presença de síndrome gripal;
+• Em pacientes com sinais de agravamento, incluindo SpO2<95%, considerar o início imediato de
+oxigenioterapia, monitorização contínua e encaminhamento hospitalar;
+• Gestantes e puérperas, mesmo vacinadas, devem ser tratadas com antiviral, fosfato de oseltamivir
+(Tamiflu), na dose habitual para adultos, indicado na síndrome gripal independentemente de sinais de
+agravamento, visando à redução da morbimortalidade materna;
+• Não se deve protelar a realização de exame radiológico em qualquer período gestacional quando houver
+necessidade de averiguar hipótese diagnóstica de pneumonia;
+• A elevação da temperatura na gestante deve ser sempre controlada com antitérmico uma vez que a
+hipertermia materna determina lesões no feto. A melhor opção é o paracetamol.
+Puérperas
+• Manter a amamentação.
+• Manter, preferencialmente, o binômio em quartos separados.
+• Manter distância mínima do berço do RN e mãe de 1 metro.
+• Orientar a realizar etiqueta respiratória.
+• Orientar a higienização das mãos imediatamente após tocar nariz, boca e sempre antes do cuidado
+com o RN.
+• Orientar o uso de máscara cirúrgica durante o cuidado e a amamentação do RN.
+• Profissional de saúde ao atender a puérpera e RN deve seguir as orientações de precaução padrão
+e gotículas.
+• Caso a puérpera precise circular em áreas comuns da casa, utilizar máscara cirúrgica.
+26 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+4. Referências
+1. Kenneth McIntosh, MD. Novel Coronavirus (2019-nCov). UpToDate Jan 2020.
+2. Li Q et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. NEngl J
+Med. 2020.
+3. WHO. Q&A on coronavirus, 2020.
+4. Rothe C et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J
+Med. 2020;
+5. Kupferschmidt K. Study claiming new coronavirus can be transmitted by people without symptoms was
+flawed. Science. February 3, 2020
+6. Huang C et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020.
+7. Chan JF et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-
+to-person transmission: a study of a family cluster. Lancet 2020.
+8. Wang C et al. A novel coronavirus outbreak of global health concern. Lancet 2020.
+9. Protocolo de Tratamento do Novo Coronavírus. Ministério da Saúde 2020.
+10. Home care for patients with suspected novel coronavirus (nCoV) infection presenting with mild symptoms
+and management of contacts. WHO Interim guidance 20 January 2020.
+11. FLUXO DE ATENDIMENTO NA APS PARA O NOVO CORONAVÍRUS (2019-NCOV). Ministério da Saúde 2020.https://
+egestorab.saude.gov.br/image/?file=20200210_N_EmktCoronaVirusFluxoV2_6121956549677603461.pdf
+12. LEI Nº 13.979, DE 6 DE FEVEREIRO DE 2020
+13. W Guan et al. Clinical Characteristics of Coronavirus Disease 2019 in China. New england Journal of Medicine.
+14. Síndrome Gripal/ Síndrome Respiratória aguda Grave - Classificação de Risco e Manejo Clínico. Ministério da Saúde
+15. Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. Vital surveillances: the
+epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19)—China, 2020.
+China CDC Weekly.AccessedFebruary 20, 2020.
+16. Ken Inweregbu et al. Hospitalar Infections. BJA 2005
+17. Protocolo de Tratamento da Influenza. Ministério da Saúde 2017
+18. Adviceonthe use ofmasks in thecommunity, during home careand in healthcare settings in thecontextofthe
+novel coronavirus (2019-nCoV) outbreak. Interim guideline. OMS.
+19. Favre G, Pomar L, Qi X, Nielsen-Saines K, Musso D, Baud D. Guidelines
+20. forpregnantwomenwithsuspected SARS-CoV-2 infection. Lancet InfectDis2020; published online March 3.
+http://dx.doi.org/10.1016/S1473-3099(20)30157-2
+21. http://plataforma.saude.gov.br/novocoronavirus/ (referência para letalidade atual na china)
+22. UptoDate. Acetaminophen (paracetamol): Drug information. Acessado em 09/03/2020
+23. Elvino Barros. Medicamentos na prática clincia. 2010
+24. Coronavirus disease 2019 (covid-19): a guide for UK GPs. BMJ disponível em: https://www.bmj.com/content/
+bmj/368/bmj.m800.full.pdf
+25. Adams JG, Walls RM. Supporting the Health Care Workforce During the COVID-19 Global Epidemic. JAMA.
+Published online March 12, 2020. doi:10.1001/jama.2020.3972
+26. Chang et al. Time Kinetics of Viral Clearance and Resolution of Symptoms in Novel Coronavirus Infection. Am
+J Respir Crit Care Med. 2020 Mar 23. doi: 10.1164/rccm.202003-0524LE. [Epub ahead of print]
+27
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+5 ANEXOS
+Anexo 1 - FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE EM TRANS
+MISSÃO COMUNITÁRIA - FLUXO RÁPIDO
+ALVO | Todos os serviços de APS/ESF.
+Para o manejo na APS/ESF, será utilizada abordagem sindrômica de Síndrome Gripal para todo paciente com suspeita de COVID-19
+OBJETIVO
+Agilizar o atendimento de casos de Síndrome Gripal na APS, incluindo
+os casos de COVID-19, priorizando pacientes em risco de infecção,
+principalmente idosos acima de 60 anos, e evitar o contágio local com
+outros pacientes.
+O fluxo do fast-track deve ser sequencial e prioritário dentro da uSF. O paciente deverá, preferencialmente, ser manejado pela próxima esfera da cascata de atendimento, sem aguardar ou circular
+desnecessariamente por outros ambientes do serviço. Pode-se optar idealmente por utilizar uma sala na qual o paciente fica aguardando pelo profissional responsável por atendê-lo conforme escala definida
+em serviço ou deverá ser encaminhado diretamente para a próxima sala (o serviço deverá determinar espaços estratégicos a fim de diminuir a circulação de doentes e o contato com outras pessoas).
+ubS como porta de entrada resolutiva, de identificação precoce e encaminhamento correto de casos graves. Pacientes com prioridade no
+atendimento: pessoas acima de 60 anos, pacientes com doenças crônicas e/ou imunossuprimidos, gestantes e puérperas até 45 dias após o parto.
+Colocar a pessoa em uma área separada ou sala específica
+visando ao isolamento respiratório. A sala deve ser mantida
+com a porta fechada, janelas abertas e ar-condicionado
+desligado. É mandatório o uso de máscara cirúrgica.
+CHECK-LIST:
+1.Seguir formulário ACS.
+2.Questionar sobre queixas de síndrome respiratória (febre,
+tosse, dor de garganta ou desconforto respiratório). Na
+presença de qualquer sintoma, adotar medidas de controle.
+caso lEVE
+Manejo clínico, orientações de isolamento domiciliar e monitoramento a cada
+24h em pessoas com mais de 60 anos e portadores de comorbidades de risco e
+a cada 48h nos demais, preferencialmente por telefone. Caso seja necessário,
+realizar atendimento presencial, idealmente no domicílio. Se familiares
+desenvolverem sintomas, orientá-los a procurar atendimento. Se possível,
+já munidos de máscaras. Fornecer atestado (se necessário) para paciente e
+contados domiciliares por 14 dias, a contar do início dos sintomas.
+caso GraVE
+Estabilização e encaminhamento para centro de referência por
+transporte apropriado.
+CHECK-LIST:
+1. Seguir formulário do enfermeira (o).
+2. Confirmar existência de Síndrome Gripal: febre
+acompanhada de tosse ou dor de garganta ou
+dificuldade respiratória.
+3. Notificar imediatamente via formulário pelo
+e_SUS VE https://notifica.saude.gov.br/.
+4. Caso a pessoa apresente sintomas respiratórios
+graves ou outro sinal e sintoma preocupante, acione
+imediatamente o médica(o). Caso contrário, mantenha
+a pessoa com máscara cirúrgica e direcione para o
+atendimento do médica(o).
+Acesso conforme fluxo normal da unidade
+SIM
+PACIENTE PROCURA UBS
+ACS | RECEPCIONISTA
+CHECK-LIST:
+1.Seguir formulário do técnica(o) de enfermagem.
+2. Atentar nos sintomas respiratórios graves ou outro
+sinal e sintoma preocupante, nesse caso, acione
+imediatamente enfermeiro e/ou médica(o). Caso
+contrário, mantenha a pessoa com máscara cirúrgica e
+direcione para o atendimento do enfermeira(o).
+AUXILIAR OU TÉCNICA(O) DE ENFERMAGEM ENFERMEIRA(O)
+CHECK-LIST:
+1. Seguir formulário médica (o).
+2.Classificação de gravidade
+3. Verificar comorbidades que
+indicam encaminhamento para centro
+de referência/atenção especializada
+(ver protocolo clínico na APS).
+MÉDICA(O)
+PrIMEIro coNtato
+FERRAMENTA | Metodologia fast-track
+Método derivado de protocolos de triagem em emergências, como o protocolo de Manchester. Ferramenta de fluxo rápido de triagem e
+atendimento de casos de coVId-19. O trabalho é integrado e regido pelo fluxograma do Fast-Track e deve ser incorporado pelas equipes
+das ubS.
+• AGENTE COMUNITÁRIO DE SAÚDE (ACS)
+• ENFERMEIRA(O)
+• MÉDICA(O)
+• AUXILIAR OU TÉCNICA(O) DE ENFERMAGEM
+CORONAVÍRUS
+C O V I D - 1 9
+* ACS como Primeiro Contato. Quem estiver na recepção também pode
+ajudar, assim como outro profissional pode assumir o papel de Primeiro
+Contato, desde que treinado para integrar a equipe de Fast-Track.
+EQUIPE | composição da equipe fast-track coVId-19
+formulário agente comunitário de saúde/recepcionista
+Identificação
+Nome:______________________________________________________ Data de Nascimento:_____________________
+Idade: ________________________ Sexo: __________________________ Tel/cel: ( ) __________________________
+Endereço: _________________________________________________________________________________________
+CPF: __________________________________Cartão Nacional SUS:_________________________________________
+Motivo de procura da uSF: ___________________________________________________________________________
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+Queixa de sintomas de síndrome respiratória (febre, tosse, dor de garganta ou desconforto respiratório) ?
+( ) SIM ( ) NÃO
+Observação: Caso a pessoa apresente sintomas respiratórios, forneça uma máscara cirúrgica, oriente higienização
+imediata das mãos/forneça álcool gel, solicite que evite tocar no rosto e em superfícies e direcione para atendimento
+do auxiliar ou técnico de Enfermagem/Enfermeiro(a) em uma área separada ou sala específica visando o isolamento
+respiratório. A sala deve ser mantida com a porta fechada, janelas abertas e ar-condicionado desligado.
+formulário técnica(o) de Enfermagem
+Identificação
+Nome:______________________________________________________ Data de Nascimento:_____________________
+Motivo da consulta: __________________________________________________________________________________
+_________________________________________________________________________________________________
+Sinais vitais: temperatura axilar (T.ax):_______________
+freqüência cardíaca (FC):_________________________
+freqüência respiratória (FR):_______________________
+saturação de oximetria (Sat):______________________
+pressão arterial (PA):_____________________________
+Anotar informações em prontuário.
+Observação: Caso a pessoa apresente sintomas respiratórios graves ou outro sinal e sintoma preocupante, acione
+imediatamente enfermeiro e/ou médico (a). Caso contrário, mantenha a pessoa com máscara cirúrgica e direcione para o
+atendimento do enfermeiro (a).
+formulário Enfermeira(o)
+Identificação
+Nome:_____________________________________________________ Data de Nascimento:_____________________
+Apresenta sintomas respiratórios (tosse, dor de garganta, falta de ar, esforço ou desconforto respiratório)? ( ) SIM ( ) NÃO
+Apresenta ou apresentou febre ? ( ) SIM ( ) NÃO
+Apresenta outros sinais e sintomas relevantes : ( ) SIM ( ) NÃO
+Se sim, descreva: _________________________________________________________________________________
+CASO SuSPEITO DE SINDROME GRIPAL? ( ) SIM ( ) NÃO
+NOTIFICAÇÃO IMEDIATA
+Avaliação Geral:
+Apresenta outras comorbidades ? ( ) sim ( ) não
+Se sim, descreva: _________________________________________________________________________________
+Medicamentos de uso contínuo ( ) sim ( ) não
+Se sim, descreva: _________________________________________________________________________________
+Apresenta alergias de medicamentos ( ) sim ( ) não
+Se sim, descreva: _________________________________________________________________________________
+História de cirurgias prévias ou internações recentes ( ) sim ( ) não
+Se sim, descreva: _________________________________________________________________________________
+Anotar informações em prontuário.
+Observação: Caso a pessoa apresente sintomas respiratórios graves ou outro sinal e sintoma preocupante, acione
+imediatamente o médico (a). Caso contrário, mantenha a pessoa com máscara cirúrgica e direcione para o atendimento
+do médico(a). Notificar imediatamente via formulário pelo e_SUS VE https://notifica.saude.gov.br/.
+formulário Médica(o)
+Identificação
+Nome:_________________________________________________ Data de Nascimento:_____________________
+Revisão da história clínica (sintomas de síndrome gripal com ou sem febre). Avaliar outros sinais e sintomas,
+diagnósticos alternativos, descompensação de comorbidades, etc.
+Classificação de gravidade
+CASO GRAVE - ESTABILIZAÇÃO ENCAMINHAMENTO PARA CENTRO DEREFERêNCIA/ATENÇÃO ESPECIALIZADA
+CASO LEVE – avaliar comorbidades que indicam avaliação em centro de referência/atenção especializada (ver
+protocolo clínico). Se possível acompanhar na APS, realizar manejo clínico apropriado (medicamentos sintomáticos,
+prescrever oseltamivir para pessoas com condições de risco para complicações, etc.), orientações de isolamento
+domiciliar para paciente e contatos da casa e monitoramento a cada 24h em pessoas com mais de 60 anos e
+portadores de comorbidades de risco e a cada 48h nos demais, preferencialmente por telefone. Caso seja necessário,
+realizar atendimento presencial, idealmente no domicílio..
+Fornecer atestado médico de 14 dias para propiciar o isolamento domiciliar para o paciente (CID-10: J11 - Síndrome
+gripal ou B34.2 - Infecção por coronavírus ou U07.1 - COVID-19) e seus contatos da casa (CID 10: Z20.9 - Contato
+com exposição a doença transmissível não especificada).
+Anotar informações no prontuário.
+Observação: Caso a pessoa apresente sinais de gravidade ou comorbidades que indicam avaliação em centro de
+referência/atenção especializada, coordenar transferência segura, com transporte apropriado e com precaução
+de contato.
+caso lEVE
+APS | ESF
+Síndrome gripal com sintomas leves (sem sinais de gravidade).
+E
+Ausência de comorbidades que indicam avaliação em centro de referência/
+atenção especializada
+caso GraVE
+CENTRO DE REFERêNCIA/ATENÇÃO ESPECIALIZADA
+Síndrome gripal que apresente dispneia ou os sinais de gravidade (saturação
+<95%, taquipneia, hipotensão, piora nas condições clinicas basais, alteração
+do estado mental, entre outras – consultar protocolo clínico).
+Ou
+Comorbidades que indicam avaliação em centro de referência/atenção
+especializada (doença cardíaca crônica descompensada, doenças
+respiratórias crônicas descompensadas, doenças renais, imunossuprimidos,
+doença cromossômicas, entre outros – consultar protocolo clínico.
+NÃO
+FAST-TRACK PARA A
+ATENÇÃO PRIMÁRIA EM LOCAIS
+COM TRANSMISSÃO COMUNITÁRIA
+FLUXO RÁPIDO | Versão 7
+Fonte: Ministério da Saúde.
+28 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO
+CORONAVÍRUS
+C O V I D - 1 9
+FAST-TRACK PARA A
+ATENÇÃO PRIMÁRIA EM
+LOCAIS COM TRANSMISSÃO
+COMUNITÁRIA
+ALVO | Todos os serviços de APS/ESF.
+OBJETIVO
+Agilizar o atendimento de casos de Síndrome Gripal naAPS, incluindo os casos de COVID-19,
+priorizando pacientes em risco de infecção, principalmente idosos acima de 60 anos, e
+evitar o contágio local com outros pacientes.
+O FLUXO DO FAST-TRACK deve ser sequencial e prioritário dentro da USF. O paciente
+deverá, preferencialmente, ser manejado pela próxima esfera da cascata de atendimento,
+sem aguardar ou circular desnecessariamente por outros ambientes do serviço. Pode-
+se optar idealmente por utilizar uma sala na qual o paciente fica aguardando pelo
+profissional responsável por atendê-lo conforme escala definida em serviço OU deverá
+ser encaminhado diretamente para a próxima sala (o serviço deverá determinar espaços
+estratégicos a fim de diminuir a circulação de doentes e o contato com outras pessoas).
+FERRAMENTA | Metodologia FAST-TRACK
+Método derivado de protocolos de triagem em emergências, como o protocolo de Manchester.
+Ferramenta de fluxo rápido de triagem e atendimento de casos de Síndrome Gripal
+(COVID-19). O trabalho é integrado e regido pelo fluxograma do Fast-Track e deve ser
+incorporado pelas equipes das UBS.
+• AGENTE COMUNITÁRIO DE SAÚDE
+• ENFERMEIRA(O)
+• MÉDICA(O)
+• AUXILIAR OU TÉCNICA(O) DE
+ENFERMAGEM
+* ACS como Primeiro Contato. Quem estiver
+na recepção também pode ajudar, assim
+como outro profissional pode assumir o papel
+de Primeiro Contato, desde que treinado
+para integrar a equipe de Fast-Track.
+EQUIPE | Composição da equipe FAST-TRACK COVID-19
+Para o manejo na APS/ESF, será utilizada abordagem sindrômica de Síndrome Gripal para
+todo paciente com suspeita de COVID-19
+Fonte: Ministério da Saúde.
+29
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO-
+Formulário Agente Comunitário de Saúde
+Formulário Agente Comunitário de Saúde/
+Recepcionista
+Identificação
+Nome:___________________________ Data de Nascimento:__________
+Idade:_________ Sexo:___________ Tel/cel: ( ) ____________________
+Endereço:___________________________________________________
+___________________________________________________________
+CPF:______________________Cartão Nacional SUS:________________
+Motivo de procura da USF: _____________________________________
+___________________________________________________________
+___________________________________________________________
+___________________________________________________________
+___________________________________________________________
+Queixa de sintomas de síndrome respiratória (febre, tosse, dor de
+garganta ou desconforto respiratório)? ( ) SIM ( ) NÃO
+Observação: Caso a pessoa apresente sintomas respiratórios, forneça
+uma máscara cirúrgica, oriente higienização imediata das mãos/forneça
+álcool gel, solicite que evite tocar no rosto e em superfícies e direcione
+para atendimento do auxiliar ou técnico de Enfermagem/Enfermeiro(a) em
+uma área separada ou sala específica visando o isolamento respiratório.
+A sala deve ser mantida com a porta fechada, janelas abertas e
+ar-condicionado desligado.
+Fonte: Ministério da Saúde.
+30 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO
+CORONAVÍRUS
+C O V I D - 1 9
+FAST-TRACK PARA A
+ATENÇÃO PRIMÁRIA EM
+LOCAIS COM TRANSMISSÃO
+COMUNITÁRIA
+ALVO | Todos os serviços de APS/ESF.
+OBJETIVO
+Agilizar o atendimento de casos de Síndrome Gripal naAPS, incluindo os casos de COVID-19,
+priorizando pacientes em risco de infecção, principalmente idosos acima de 60 anos, e
+evitar o contágio local com outros pacientes.
+O FLUXO DO FAST-TRACK deve ser sequencial e prioritário dentro da USF. O paciente
+deverá, preferencialmente, ser manejado pela próxima esfera da cascata de atendimento,
+sem aguardar ou circular desnecessariamente por outros ambientes do serviço. Pode-
+se optar idealmente por utilizar uma sala na qual o paciente fica aguardando pelo
+profissional responsável por atendê-lo conforme escala definida em serviço OU deverá
+ser encaminhado diretamente para a próxima sala (o serviço deverá determinar espaços
+estratégicos a fim de diminuir a circulação de doentes e o contato com outras pessoas).
+FERRAMENTA | Metodologia FAST-TRACK
+Método derivado de protocolos de triagem em emergências, como o protocolo de Manchester.
+Ferramenta de fluxo rápido de triagem e atendimento de casos de Síndrome Gripal
+(COVID-19). O trabalho é integrado e regido pelo fluxograma do Fast-Track e deve ser
+incorporado pelas equipes das UBS.
+• AGENTE COMUNITÁRIO DE SAÚDE
+• ENFERMEIRA(O)
+• MÉDICA(O)
+• AUXILIAR OU TÉCNICA(O) DE
+ENFERMAGEM
+* ACS como Primeiro Contato. Quem estiver
+na recepção também pode ajudar, assim
+como outro profissional pode assumir o papel
+de Primeiro Contato, desde que treinado
+para integrar a equipe de Fast-Track.
+EQUIPE | Composição da equipe FAST-TRACK COVID-19
+Para o manejo na APS/ESF, será utilizada abordagem sindrômica de Síndrome Gripal para
+todo paciente com suspeita de COVID-19
+Fonte: Ministério da Saúde.
+31
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO-
+FORMULÁRIO TÉCNICO DE ENFERMAGEM
+Formulário Técnica(o) de Enfermagem
+Nome:___________________________ Data de Nascimento:__________
+Motivo da consulta: ____________________________________________
+___________________________________________________________
+___________________________________________________________
+___________________________________________________________
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+:
+)
+x
+a
+.
+T
+(
+r
+a
+l
+i
+x
+a
+a
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+:
+s
+i
+a
+t
+i
+v
+s
+i
+a
+n
+i
+S
+freqüência cardíaca (FC): _____________________________________
+freqüência respiratória (FR): ____________________________________
+saturação de oximetria (Sat): ___________________________________
+pressão arterial (PA): __________________________________________
+Anotar informações em prontuário.
+Observação: Caso a pessoa apresente sintomas respiratórios graves ou
+outro sinal e sintoma preocupante, acione imediatamente enfermeiro e/ou
+médico (a). Caso contrário, mantenha a pessoa com máscara cirúrgica e
+direcione para o atendimento do enfermeiro (a).
+Fonte: Ministério da Saúde.
+32 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO
+CORONAVÍRUS
+C O V I D - 1 9
+FAST-TRACK PARA A
+ATENÇÃO PRIMÁRIA EM
+LOCAIS COM TRANSMISSÃO
+COMUNITÁRIA
+ALVO | Todos os serviços de APS/ESF.
+OBJETIVO
+Agilizar o atendimento de casos de Síndrome Gripal naAPS, incluindo os casos de COVID-19,
+priorizando pacientes em risco de infecção, principalmente idosos acima de 60 anos, e
+evitar o contágio local com outros pacientes.
+O FLUXO DO FAST-TRACK deve ser sequencial e prioritário dentro da USF. O paciente
+deverá, preferencialmente, ser manejado pela próxima esfera da cascata de atendimento,
+sem aguardar ou circular desnecessariamente por outros ambientes do serviço. Pode-
+se optar idealmente por utilizar uma sala na qual o paciente fica aguardando pelo
+profissional responsável por atendê-lo conforme escala definida em serviço OU deverá
+ser encaminhado diretamente para a próxima sala (o serviço deverá determinar espaços
+estratégicos a fim de diminuir a circulação de doentes e o contato com outras pessoas).
+FERRAMENTA | Metodologia FAST-TRACK
+Método derivado de protocolos de triagem em emergências, como o protocolo de Manchester.
+Ferramenta de fluxo rápido de triagem e atendimento de casos de Síndrome Gripal
+(COVID-19). O trabalho é integrado e regido pelo fluxograma do Fast-Track e deve ser
+incorporado pelas equipes das UBS.
+• AGENTE COMUNITÁRIO DE SAÚDE
+• ENFERMEIRA(O)
+• MÉDICA(O)
+• AUXILIAR OU TÉCNICA(O) DE
+ENFERMAGEM
+* ACS como Primeiro Contato. Quem estiver
+na recepção também pode ajudar, assim
+como outro profissional pode assumir o papel
+de Primeiro Contato, desde que treinado
+para integrar a equipe de Fast-Track.
+EQUIPE | Composição da equipe FAST-TRACK COVID-19
+Para o manejo na APS/ESF, será utilizada abordagem sindrômica de Síndrome Gripal para
+todo paciente com suspeita de COVID-19
+Fonte: Ministério da Saúde.
+33
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO
+FORMULÁRIO ENFERMEIRO
+Formulário Enfermeira(o)
+Identificação
+Nome:___________________________ Data de Nascimento:__________
+Apresenta sintomas respiratórios (tosse, dor de garganta, falta de ar,
+esforço ou desconforto respiratório)? ( ) SIM ( ) NÃO
+Apresenta ou apresentou febre? ( ) SIM ( ) NÃO
+Apresenta outros sinais e sintomas relevantes : ( ) SIM ( ) NÃO
+Se sim, descreva: ____________________________________________
+CASO SUSPEITO DE SINDrOME GrIPAl?
+( ) SIM ( ) NÃO
+NOTIFICAÇÃO IMEDIATA
+Avaliação Geral:
+Apresenta outras comorbidades ? ( ) sim ( ) não
+Se sim, descreva: ____________________________________________
+Medicamentos de uso contínuo ( ) sim ( ) não
+Se sim, descreva: ____________________________________________
+Apresenta alergias de medicamentos ( ) sim ( ) não
+Se sim, descreva: ____________________________________________
+História de cirurgias prévias ou internações recentes ( ) sim ( ) não
+Se sim, descreva: ____________________________________________
+Anotar informações em prontuário.
+Observação: Caso a pessoa apresente sintomas respiratórios graves ou
+outro sinal e sintoma preocupante, acione imediatamente o médico (a).
+Caso contrário, mantenha a pessoa com máscara cirúrgica e direcione
+para o atendimento do médico(a). Notificar imediatamente via formulário
+pelo e-SUS VE https://notifica.saude.gov.br/.
+Fonte: Ministério da Saúde.
+34 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO
+CORONAVÍRUS
+C O V I D - 1 9
+FAST-TRACK PARA A
+ATENÇÃO PRIMÁRIA EM
+LOCAIS COM TRANSMISSÃO
+COMUNITÁRIA
+ALVO | Todos os serviços de APS/ESF.
+OBJETIVO
+Agilizar o atendimento de casos de Síndrome Gripal naAPS, incluindo os casos de COVID-19,
+priorizando pacientes em risco de infecção, principalmente idosos acima de 60 anos, e
+evitar o contágio local com outros pacientes.
+O FLUXO DO FAST-TRACK deve ser sequencial e prioritário dentro da USF. O paciente
+deverá, preferencialmente, ser manejado pela próxima esfera da cascata de atendimento,
+sem aguardar ou circular desnecessariamente por outros ambientes do serviço. Pode-
+se optar idealmente por utilizar uma sala na qual o paciente fica aguardando pelo
+profissional responsável por atendê-lo conforme escala definida em serviço OU deverá
+ser encaminhado diretamente para a próxima sala (o serviço deverá determinar espaços
+estratégicos a fim de diminuir a circulação de doentes e o contato com outras pessoas).
+FERRAMENTA | Metodologia FAST-TRACK
+Método derivado de protocolos de triagem em emergências, como o protocolo de Manchester.
+Ferramenta de fluxo rápido de triagem e atendimento de casos de Síndrome Gripal
+(COVID-19). O trabalho é integrado e regido pelo fluxograma do Fast-Track e deve ser
+incorporado pelas equipes das UBS.
+• AGENTE COMUNITÁRIO DE SAÚDE
+• ENFERMEIRA(O)
+• MÉDICA(O)
+• AUXILIAR OU TÉCNICA(O) DE
+ENFERMAGEM
+* ACS como Primeiro Contato. Quem estiver
+na recepção também pode ajudar, assim
+como outro profissional pode assumir o papel
+de Primeiro Contato, desde que treinado
+para integrar a equipe de Fast-Track.
+EQUIPE | Composição da equipe FAST-TRACK COVID-19
+Para o manejo na APS/ESF, será utilizada abordagem sindrômica de Síndrome Gripal para
+todo paciente com suspeita de COVID-19
+Fonte: Ministério da Saúde.
+35
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+FLUXO DO FAST-TRACK PARA ATENÇÃO PRIMÁRIA À SAÚDE - FLUXO RÁPIDO
+FORMULÁRIO MÉDICO
+Formulário Médica(o)
+Identificação
+Nome:___________________________ Data de Nascimento:__________
+Revisão da história clínica (sintomas de síndrome gripal com ou sem
+febre). Avaliar outros sinais e sintomas, diagnósticos alternativos,
+descompensação de comorbidades, etc.
+Classificação de gravidade
+CASO GRAVE - ESTABILIZAÇÃO ENCAMINHAMENTO PARA CENTRO
+DE REfERêNCIA/ATENÇÃO ESPECIALIZADA
+CASO LEVE – avaliar comorbidades que indicam avaliação em centro
+de referência/atenção especializada (ver protocolo clínico). Se possível
+acompanhar na APS, realizar manejo clínico apropriado (medicamentos
+sintomáticos, prescrever oseltamivir para pessoas com condições de
+risco para complicações, etc.), orientações de isolamento domiciliar e
+monitoramento a cada 24h em pessoas com mais de 60 anos e portadores
+de comorbidades de risco e a cada 48h nos demais, preferencialmente
+por telefone. Caso seja necessário, realizar atendimento presencial,
+idealmente no domicílio.
+fornecer atestado médico de 14 dias para propiciar o isolamento domiciliar
+(CID-10: J11 - Síndrome gripal ou B34.2 - Infecção por coronavírus ou
+U07.1 - COVID-19) e seus contatos da casa (CID 10: Z20.9 - Contato com
+exposição a doença transmissível não especificada).
+Anotar informações no prontuário.
+Observação: Caso a pessoa apresente sinais de gravidade ou
+comorbidades que indicam avaliação em centro de referência/atenção
+especializada, coordenar transferência segura, com transporte apropriado
+e com precaução de contato.
+Fonte: Ministério da Saúde.
+36 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+Anexo 2 - FAST-TRACK DE TELEATENDIMENTO PARA ATENÇÃO PRIMÁRIA -
+FLUXO RÁPIDO
+CORONAVÍRUS
+C O V I D - 1 9
+FAST -TRACK DE
+TELEATENIMENTO PARA
+A ATENÇÃO PRIMÁRIA
+FLUXO RÁPIDO | Versão 6
+ALVO | Todos os serviços de APs/esF
+OBJETIVO
+orientar o teleatendimento de casos de síndrome Gripal naAPs, incluindo
+os casos de Covid-19, com objetivo de oferecer agilidade e segurança
+para as equipes e reduzir o fluxo de pacientes na UBS.
+IDADE INFERIOR A 5 ANOS?
+ORIENTAR MEDIDAS
+DE PRECAUÇÃO E
+AgENDAR
+ATENDIMENTO
+RÁPIDO NA UBS
+Orientações gerais de
+prevenção do COvid-19
+ORIENTAR MEDIDAS DE PRECAUÇÃO
+E PROCURAR EMERgêNCIA OU
+ChAMAR SAMU
+orientar precauções de contatos
+emitir receita médica de sintomáticos para paciente, se necessário
+emitir receita de oseltamivir para grupos de risco
+emitir atestado para paciente e contatos domiciliares, se nescessário
+ACS leva receita e atestado para
+paciente e reforça orientações de
+precaução de contato
+Enfermeiro (a) reavalia caso por telefone e
+monitoramento a cada 24h em pessoas com mais
+de 60 anos e portadores de comorbidades de
+risco e a cada 48h nos demais, até completar
+14 dias do início dos sintomas.
+ApresentA sinAis de grAvidAde?
+AvAliAçãO e suspeiçãO dO CAsO
+siM
+siM
+siM
+siM
+siM siM
+PACIENTE COM SINTOMAS DE SÍNDROME gRIPAL
+OU CUIDADOR LIgA PARA UBS
+SINAIS DE gRAVIDADE ADULTO
+• Falta de ar em repouso ou com
+pequenos movimentos (dispneia)
+• sensação de desmaio (hipotensão)
+• AGENTE COMUNITÁRIO DE SAÚDE (ACS)
+• enFerMeirA(o)
+• MÉdiCA(o)
+• AUXILIAR OU TÉCNICA(O) DE ENFERMAGEM
+EQUIPE | Composição da equipe FAsT-TRACK COvid-19
+nÃo
+nÃo
+nÃo
+nÃo
+nÃo
+nÃo
+CRITÉRIOS DE DEFINIÇÃO DE CASO
+SINAIS DE gRAVIDADE DA CRIANÇA
+• Cuidador acha que a criança está muito doente
+• Falta de ar em repouso ou com pequenos
+movimentos (dispneia)
+• sensação de desmaio (hipotensão)
+CONdiçÕes Que iNdiCAM AvAliAçãO pReseNCiAl
+• Febre há mais de dois dias
+• doenças cardíacas crônicas descompensadas
+• doenças respiratórias crônicas descompensadas
+• doenças renais crônicas em estágio avançado (grau 3, 4 e 5)
+• imunossuprimidos
+• Portadores de doenças cromossômicas com estado de fragilidade imunológica
+• Gestante de alto risco
+AVALIAÇÃO DE COMORBIDADES QUE
+INDICAM AVALIAÇÃO PRESENCIAL
+piorA dA condição clínicA
+ou febre persistente?
+NOTIFICAR CASO
+TRANSFERE ChAMADA PARA
+ATENDIMENTO MÉDICO
+TÉCNICO DE ENFERMAgEM ATENDE
+APRESENTA SINAIS DE gRAVIDADE
+Febre
+e
+Tosse OU dor de garganta OU difculdade respiratória
+Fonte: Ministério da Saúde.
+37
+Ministério da Saúde/SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+|
+TÉCNICO(A) DE ENFERMAGEM
+Nome do paciente:____________________________________________________________________________________
+Data de Nascimento:________________ Idade:_________ Sexo:_______________ Tel/cel: ( ) ____________________
+Endereço: __________________________________________________________________________________________
+CPF:__________________________________________ Cartão SUS:__________________________________________
+Apresenta ou apresentou febre nos últimos 2 dias? ( ) SIM ( ) NÃO
+Apresenta sintomas respiratórios (tosse, dor de garganta ou desconforto respiratório)? ( ) SIM ( ) NÃO
+Apresenta outros sinais e sintomas relevantes: ( ) SIM ( ) NÃO
+Se sim, descreva: ____________________________________________________________________________________
+CASO SUSPEITO DE SÍNDROME GRIPAL? ( ) SIM ( ) NÃO
+MÉDICO(A)
+Avaliar comorbidades que indicam encaminhamento para centro de referência.
+ACOMPANHAMENTO NA UBS? ( ) SIM ( ) NÃO
+Realizar manejo clínico apropriado (medicamentos sintomáticos, prescrever oseltamivir para pessoas com condições
+de risco para complicações etc.) e dar orientações de isolamento domiciliar. Fornecer atestado médico de 14 dias para
+propiciar o isolamento domiciliar para paciente (CID-10: J11 - Síndrome gripal ou B34.2 - Infecção por coronavírus ou
+U07.1 - COVID-19) e seus contatos da casa (CID 10: Z20.9 - Contato com exposição a doença transmissível especificada).
+NOTIFICAR imediatamente via formulário pelo e-SUS VE https://notifica.saude.gov.br/.
+Anotar informações no prontuário.
+AGENTE COMUNITÁRIO DE SAÚDE
+Receitas/atestados entregues do caso do paciente? ( ) SIM ( ) NÃO
+ENFERMEIRO(A)
+Reavaliação por telefone e monitoramento a cada 24h em pessoas com mais de 60 anos e portadores de comorbidades
+de risco e a cada 48h nos demais, até completar 14 dias do início dos sintomas.
+Data:___________________________________
+Apresenta piora clínica ou febre persistente desde a última avaliação? ( ) SIM ( ) NÃO
+Apresenta sinais de gravidade desde a última avaliação? ( ) SIM ( ) NÃO
+Conduta:
+( ) Seguimento ( ) Reavaliação presencial ( ) Encaminhamento para emergência
+FORMULÁRIO DE IDENTIFICAÇÃO E ACOMPANHAMENTO POR MEIO DE
+TELEATENDIMENTO DE PACIENTES COM SÍNDROME GRIPAL
+Fonte: Ministério da Saúde.
+38 Ministério da Saúde / SAPS – PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE
+

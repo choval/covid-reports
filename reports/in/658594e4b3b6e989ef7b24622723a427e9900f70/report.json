@@ -1,0 +1,29 @@
+{
+    "filename": "RevisedGuidelinesforDialysisofCOVID19Patients.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/RevisedGuidelinesforDialysisofCOVID19Patients.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586300247,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 07 Apr 2020 14:38:38 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "175723",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2563069",
+        "expires": "Thu, 07 May 2020 14:55:16 GMT",
+        "date": "Tue, 07 Apr 2020 22:57:27 GMT"
+    },
+    "lang": "en,hi",
+    "size": 175723,
+    "modified": 1586270318
+}

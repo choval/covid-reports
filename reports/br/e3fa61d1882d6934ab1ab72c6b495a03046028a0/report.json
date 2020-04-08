@@ -1,0 +1,26 @@
+{
+    "filename": "20200407-fluxo-TELEATENDIMENTO-ver07.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/20200407-fluxo-TELEATENDIMENTO-ver07.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298460,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "166966",
+        "date": "Tue, 07 Apr 2020 22:27:40 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_1337A42B35527CACC01022F113A8AA49_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 20:53:18 GMT",
+        "etag": "\"28c36-5a2b992c5ca28\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 2e35e46999104454d42bab56b4746dbd.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "D60Vmq5Sy5Bhq6bj7mXzL-1RhZMVkwxvMfVPcUDzMU0yxWkBR8UG0Q=="
+    },
+    "lang": "pt",
+    "size": 166966,
+    "modified": 1586292798
+}

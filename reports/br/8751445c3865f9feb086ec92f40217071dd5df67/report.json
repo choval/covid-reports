@@ -1,0 +1,30 @@
+{
+    "filename": "20200407-FAST-TRACK-ver07.pdf",
+    "uri": "https:\/\/coronavirus.saude.gov.br\/images\/pdf\/2020\/April\/07\/20200407-FAST-TRACK-ver07.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298472,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "location": "http:\/\/portalarquivos2.saude.gov.br\/images\/pdf\/2020\/April\/07\/20200407-FAST-TRACK-ver07.pdf",
+        "date": "Tue, 07 Apr 2020 22:27:52 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1586298473.319.21631.412484; Path=\/; Secure; HttpOnly",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 c3fb36940fb36cf227975bfb7c09ea6d.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "L0MCQnmlPGmwiK3SHCGjLy5wgW9-D4S2cMpQQraae6TXRuomd6rKdQ==",
+        "content-length": "184952",
+        "connection": "keep-alive",
+        "last-modified": "Tue, 07 Apr 2020 20:53:05 GMT",
+        "etag": "\"2d278-5a2b992026a42\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "content-security-policy": "upgrade-insecure-requests"
+    },
+    "lang": "pt",
+    "size": 184952,
+    "modified": 1586292785
+}

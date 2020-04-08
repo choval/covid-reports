@@ -1,0 +1,26 @@
+{
+    "filename": "Nota-Informativa-uso-de-mascara.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/Nota-Informativa-uso-de-mascara.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298450,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "178151",
+        "date": "Tue, 07 Apr 2020 22:27:30 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_35E61F60312EAE9F5E2E9E03B5915B88_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 22:03:53 GMT",
+        "etag": "\"2b7e7-5a2ba8f30d9f8\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e451d8e60ee9588b9f519a910d9157a9.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "1dHIAJmASLymQUj58tW8tXveZE8gbT7mE50EzRtqja18FGNBi_berQ=="
+    },
+    "lang": "pt",
+    "size": 178151,
+    "modified": 1586297033
+}

@@ -8,6 +8,7 @@
 
 ## 2020-04-07
 
+* [informe-situacion-relacion-coronavirus-covid-19-2](4b77e3d37e830c5c8dbf23c4b673e8585dec4252/file.pdf) @23:10 GMT
 * [informe-situacion-relacion-coronavirus-covid-19-1](f8edb6f0a82c02c1a303dfc555206ce2d4f8f63d/file.pdf) @00:28 GMT
 
 ## 2020-04-06

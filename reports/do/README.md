@@ -8,6 +8,10 @@
 * [https://www.msp.gob.do/web/?page_id=6547](https://www.msp.gob.do/web/?page_id=6547)
 
 
+## 2020-04-07
+
+* [Boletin-especial-19-COVID-19.pdf](0aeaaf0c7148c2818ac41c155c98c6d8c11846f5/file.pdf) @22:46 GMT
+
 ## 2020-04-06
 
 * [Boletin-especial-18-COVID-19.pdf](f608aab786bc35d2b329fb97ba707d782b3ba2b1/file.pdf) @21:41 GMT

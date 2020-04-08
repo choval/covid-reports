@@ -1,0 +1,26 @@
+{
+    "filename": "20200407-FLUXOGRAMA-ver07.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/20200407-FLUXOGRAMA-ver07.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586298443,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "309984",
+        "date": "Tue, 07 Apr 2020 22:27:22 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_FB345E3206B76630011AC899255296DD_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 20:53:34 GMT",
+        "etag": "\"4bae0-5a2b993b56a3f\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 53e7d5540d02f579ad97fd6ddc7756a8.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "aQapdNz-_mric4vWnTIImtCfPeZ5uDIF0FnMqwvvQ9zm1I-4Rm8Phw=="
+    },
+    "lang": "pt",
+    "size": 309984,
+    "modified": 1586292814
+}

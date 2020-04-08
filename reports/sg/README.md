@@ -7,10 +7,14 @@
 * [https://www.gov.sg/article/covid-19-resources](https://www.gov.sg/article/covid-19-resources)
 
 
+## 2020-04-07
+
+* [CN\_Infographic\_STAY AT HOME V2\_1.pdf](d487faa4849cd6bbf84227ddd2f42bb11020db42/file.pdf) @08:53 GMT
+
 ## 2020-04-06
 
-* [EN\_Infographic\_STAY AT HOME V2.pdf](608b126acedab1abba785800eb69ed4093fc71d0/file.pdf) @16:49 GMT
 * [ML\_Infographic\_STAY AT HOME V2.pdf](0e16bb2144791ea9b9175b910b1d6c71542272d1/file.pdf) @16:49 GMT
+* [EN\_Infographic\_STAY AT HOME V2.pdf](608b126acedab1abba785800eb69ed4093fc71d0/file.pdf) @16:49 GMT
 * [CN\_Infographic\_STAY AT HOME V2.pdf](dd104d4fb76c1ddaff3271b94c99d9667233a25a/file.pdf) @16:49 GMT
 * [TM\_Infographic\_STAY AT HOME V2.pdf](3113284b4aae2bbe02aca34007c7457e087197f7/file.pdf) @16:49 GMT
 * [situation-report---6-apr-2020.pdf](b211ed81de33a8bc4f739d9f3154f9af97f1fc64/file.pdf) @14:34 GMT
@@ -81,8 +85,8 @@
 * [annex23-3.pdf](b7b546795c577aa250eae78900a2b916c908bb58/file.pdf) @04:41 GMT
 * [annex18-3.pdf](b1b5e457f0b6ef256f1eb9c1fdc5e8f1eb163bdd/file.pdf) @04:41 GMT
 * [19-3annex2.pdf](ecfff6de78d16689e7f2166e3e9ed5b1cbfe8d64/file.pdf) @04:41 GMT
-* [TM\_Infographic-Safe Distancing at Eating Places.pdf](36784ba72fd978b68a6b4f0df03e6990359d3e93/file.pdf) @03:19 GMT
 * [CN\_Infographic-Safe Distancing at Eating Places.pdf](437c666dd7e25af6dfe156026a9788c5c31c7168/file.pdf) @03:19 GMT
+* [TM\_Infographic-Safe Distancing at Eating Places.pdf](36784ba72fd978b68a6b4f0df03e6990359d3e93/file.pdf) @03:19 GMT
 * [ML\_Infographic-Safe Distancing at Eating Places.pdf](325f6c4a3278c3d699d7f66a1813d41b5e66ac55/file.pdf) @03:19 GMT
 * [EN\_Infographic-Safe Distancing at Eating Places.pdf](7c11589a0e388e476f81c03d9c6be96ab5f80a7a/file.pdf) @03:19 GMT
 

@@ -6,6 +6,15 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-07
+
+* [7738e0-EquipamientosambulanciasalimentacinyotrosCOVID1907042020.pdf](7ed86acc685bb1aab68f7c0a9877b07bed2b53bf/file.pdf) @19:15 GMT
+* [30740b-EPIgasesmedicinalesreactivoseinsumosCOVID1907042020.pdf](c0ed19f1aac5734ed46974b6baee62ebf92c0620/file.pdf) @19:15 GMT
+* [241b25-Tablero07.04.pdf](7f92a4d6bfcced1c82df31b2e22d3cfa33feacbc/file.pdf) @15:57 GMT
+* [219a49-EquipamientosambulanciasalimentacinyotrosCOVID1906042020.pdf](43e9c88128d7eb49cae542ace1d911e4bcf9fa24/file.pdf) @01:16 GMT
+* [4d76d3-EPIgasesmedicnialesreactivoseinsumosCOVID1906042020.pdf](093c4708ef374b745278e7fc782ef9f276fdc94c/file.pdf) @01:15 GMT
+* [07c8fe-ResolucionSGN127COERegional.pdf](d9f252de6841e67ff205c67b6ff9ca8ada7173e3/file.pdf) @00:41 GMT
+
 ## 2020-04-06
 
 * [0deafc-Tablero06.04.pdf](8c36a2483383af2205bd4d88428cef2e5daf34a2/file.pdf) @16:02 GMT
