@@ -7,6 +7,10 @@
 * [https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
 
 
+## 2020-04-08
+
+* [sars-cov-2-survey-rsa-rapporto-2.pdf](fe0866eedd822a4b544450568149e2a319024146/file.pdf) @07:13 GMT
+
 ## 2020-04-07
 
 * [C\_17\_notizie\_4417\_1\_file.pdf](b937a4e922934360299de0ea99130e1bd2b89643/file.pdf) @22:58 GMT
@@ -37,8 +41,8 @@
 
 ## 2020-04-04
 
-* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ENG.pdf](5054175f81881782bbd98e7ef7307fcb3c878293/file.pdf) @18:09 GMT
+* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ITA.pdf](7881f2225bfb7e07af7e3b25f9ffcda3e0d95fe8/file.pdf) @18:08 GMT
 * [C\_17\_notizie\_4399\_1\_file.pdf](8f1dc784d978f7f725feef4cd2439f1be51db591/file.pdf) @18:01 GMT
 * [C\_17\_notizie\_4399\_0\_file.pdf](5312e4146209a88022f397834bec38c7fc4261f7/file.pdf) @18:01 GMT

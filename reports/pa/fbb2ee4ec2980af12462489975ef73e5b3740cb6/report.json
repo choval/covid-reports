@@ -1,0 +1,20 @@
+{
+    "filename": "direccion_insumos_med034.pdf",
+    "uri": "http:\/\/minsa.gob.pa\/sites\/default\/files\/publicaciones\/direccion_insumos_med034.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586349332,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx\/1.10.3 (Ubuntu)",
+        "date": "Wed, 08 Apr 2020 12:35:32 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "4609403",
+        "last-modified": "Tue, 07 Apr 2020 19:35:42 GMT",
+        "connection": "keep-alive",
+        "etag": "\"5e8cd60e-46557b\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 4609403,
+    "modified": 1586288142
+}

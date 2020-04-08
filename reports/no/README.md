@@ -5,6 +5,11 @@
 * [https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/](https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/)
 
 
+## 2020-04-08
+
+* [2020-04-08\_daglig\_rapport\_ny-2.pdf](805da6cd11cfb8698d55085ef03f939dc79a0c42/file.pdf) @11:31 GMT
+* [07.04.20---ukerapport-14-covid-192.pdf](4e774c0e483b298042fa708738806567facee60c/file.pdf) @09:13 GMT
+
 ## 2020-04-07
 
 * [07.04.20---ukerapport-14-covid-19.pdf](363b7436f0aa1f86937af5c006f9c3ce1df1a325/file.pdf) @16:49 GMT
@@ -47,10 +52,10 @@
 
 ## 2020-03-29
 
-* [2020.03.29-dagsrapport-covid-19.pdf](6f7b95eaf1a5a6df3957417c4e9541c643e037b6/file.pdf) @11:29 GMT
 * [2020.03.29-dagsrapport-covid-19.pdf](daa0d4191869b939c3461cdd598852aa511b9a9c/file.pdf) @11:29 GMT
-* [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](9b4b343eb15516ef6dd42b94f1a00d20a35fd572/file.pdf) @08:27 GMT
+* [2020.03.29-dagsrapport-covid-19.pdf](6f7b95eaf1a5a6df3957417c4e9541c643e037b6/file.pdf) @11:29 GMT
 * [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](1df677529193d8e2432d8b115d84064528622b38/file.pdf) @08:27 GMT
+* [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](9b4b343eb15516ef6dd42b94f1a00d20a35fd572/file.pdf) @08:27 GMT
 
 ## 2020-03-28
 

@@ -1,0 +1,19 @@
+{
+    "filename": "5efbda-MedicamentoseinsumosCOVID19070420202.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/5efbda-MedicamentoseinsumosCOVID19070420202.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586349433,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Wed, 08 Apr 2020 12:37:12 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "424608",
+        "last-modified": "Wed, 08 Apr 2020 00:30:35 GMT",
+        "etag": "\"67aa0-5a2bc9bce544e\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 424608,
+    "modified": 1586305835
+}

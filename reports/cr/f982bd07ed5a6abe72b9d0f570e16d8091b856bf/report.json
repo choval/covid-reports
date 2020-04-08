@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_servicios_brindan_terapia_renal_sustitutiva_v1_07042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_servicios_brindan_terapia_renal_sustitutiva_v1_07042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586347898,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 08 Apr 2020 12:11:38 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 07 Apr 2020 23:49:31 GMT",
+        "etag": "\"1a1d21-5a2bc08ef38c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "1711393",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1711393,
+    "modified": 1586303371
+}

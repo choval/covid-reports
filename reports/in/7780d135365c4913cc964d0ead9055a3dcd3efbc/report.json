@@ -1,0 +1,29 @@
+{
+    "filename": "AddressingSocialStigmaAssociatedwithCOVID19.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/AddressingSocialStigmaAssociatedwithCOVID19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586348960,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Wed, 08 Apr 2020 10:47:34 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "172558",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2586731",
+        "expires": "Fri, 08 May 2020 11:01:31 GMT",
+        "date": "Wed, 08 Apr 2020 12:29:20 GMT"
+    },
+    "lang": "en,hi",
+    "size": 172558,
+    "modified": 1586342854
+}

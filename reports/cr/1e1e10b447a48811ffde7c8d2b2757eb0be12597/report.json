@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_trasplante_organos_v2_07042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_trasplante_organos_v2_07042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586347893,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 08 Apr 2020 12:11:33 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Tue, 07 Apr 2020 23:48:34 GMT",
+        "etag": "\"1c94bc-5a2bc05897880\"",
+        "accept-ranges": "bytes",
+        "content-length": "1873084",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1873084,
+    "modified": 1586303314
+}

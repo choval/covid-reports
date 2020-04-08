@@ -8,6 +8,8 @@
 
 ## 2020-04-07
 
+* [07-04-20-reporte-vespertino-covid-19.pdf](26ba78d8184220c951ac9de3134294820dbf93d8/file.pdf) @23:56 GMT
+* [2020040701NS.pdf](e08318390445909b5e3f1b6a9b783af103c3465e/file.pdf) @22:51 GMT
 * [07-04-20-reporte-matutino-covid-19.pdf](ddebde30f8629fabb6e81cec8705e350cf1cb82f/file.pdf) @14:47 GMT
 * [06-04-20-reporte-matutino-covid-19.pdf](5b82587c3600f4e5054bcc1454e37bf150c79443/file.pdf) @14:45 GMT
 * [06-04-20-reporte-vespertino-covid-19.pdf](fa96dca98e2fe67261422bf9f898c3767f999927/file.pdf) @00:32 GMT

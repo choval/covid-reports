@@ -5,6 +5,11 @@
 * [https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0](https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0)
 
 
+## 2020-04-08
+
+* [covid-19-guidance-discharge-and-ending-isolation-first update.pdf](51ef080bea3447120176d6dbeaab30ccf29682de/file.pdf) @12:10 GMT
+* [COVID-19-use-face-masks-community.pdf](efd84c0e57095bef6407b30a2d53134e5f54d3f0/file.pdf) @09:10 GMT
+
 ## 2020-04-01
 
 * [Overview-rapid-test-situation-for-COVID-19-diagnosis-EU-EEA.pdf](978a07aa8a56260d847d2309b9b5a28296a45cda/file.pdf) @12:57 GMT

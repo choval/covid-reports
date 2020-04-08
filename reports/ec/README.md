@@ -5,6 +5,11 @@
 * [https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/](https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/)
 
 
+## 2020-04-08
+
+* [Resoluciones-COE-Nacional-07-de-abril-2020.pdf](a6d7fa38585527f0ea0945b82c2d07837e2a561c/file.pdf) @02:30 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-07042020-17h00.pdf](36a524421cc43e0ccfbb7649f75d1457013e288e/file.pdf) @00:18 GMT
+
 ## 2020-04-06
 
 * [Informe-de-Situación-No029-Casos-Coronavirus-Ecuador-06042020.pdf](e30ecffa45f2467e226c42cb50287849ef6616f7/file.pdf) @22:11 GMT

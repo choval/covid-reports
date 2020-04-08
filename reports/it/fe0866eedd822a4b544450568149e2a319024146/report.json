@@ -1,0 +1,20 @@
+{
+    "filename": "sars-cov-2-survey-rsa-rapporto-2.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/pdf\/sars-cov-2-survey-rsa-rapporto-2.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586348969,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1849861",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 08 Apr 2020 07:13:33 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"932ce63675dd61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Wed, 08 Apr 2020 12:29:29 GMT"
+    },
+    "lang": "it,en",
+    "size": 1849861,
+    "modified": 1586330013
+}

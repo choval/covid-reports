@@ -1,0 +1,27 @@
+{
+    "filename": "2020-04-08_daglig_rapport_ny-2.pdf",
+    "uri": "https:\/\/www.fhi.no\/contentassets\/ca5914bd0aa14e15a17f8a7d48fa306a\/vedlegg\/koronavirus---dagsrapporter\/2020-04-08_daglig_rapport_ny-2.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586349315,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 08 Apr 2020 12:35:15 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1581797",
+        "set-cookie": "__cfduid=dd762614e738ccde2270016fb624999d21586349314; expires=Fri, 08-May-20 12:35:14 GMT; path=\/; domain=.www.fhi.no; HttpOnly; SameSite=Lax",
+        "cache-control": "public, max-age=43200",
+        "expires": "Thu, 09 Apr 2020 00:35:15 GMT",
+        "last-modified": "Wed, 08 Apr 2020 11:31:43 GMT",
+        "etag": "\"1D60D994737B980\"",
+        "request-context": "appId=cid-v1:afda6def-0de1-4764-90ec-fb72e90cbcc7",
+        "access-control-expose-headers": "Request-Context",
+        "cf-cache-status": "MISS",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "580c06efbd0e74ef-EZE"
+    },
+    "size": 1581797,
+    "modified": 1586345503
+}

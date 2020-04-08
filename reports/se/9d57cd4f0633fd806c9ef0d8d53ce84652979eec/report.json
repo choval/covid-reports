@@ -1,0 +1,26 @@
+{
+    "filename": "hslf-fs-2020-12-allmanna-rad-om-allas-ansvar-covid-19-tf.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/a1350246356042fb9ff3c515129e8baf\/hslf-fs-2020-12-allmanna-rad-om-allas-ansvar-covid-19-tf.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586349471,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "17",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Wed, 08 Apr 2020 12:37:51 GMT",
+        "etag": "\"1D60D8AE30DF900\"",
+        "expires": "Wed, 08 Apr 2020 12:37:50 GMT",
+        "last-modified": "Wed, 08 Apr 2020 09:48:42 GMT",
+        "server": "ECAcc (sto\/3AD7)",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "185116"
+    },
+    "lang": "sv",
+    "size": 185116,
+    "modified": 1586339322
+}

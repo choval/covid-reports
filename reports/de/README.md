@@ -8,6 +8,10 @@
 * [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
 
 
+## 2020-04-08
+
+* [2020-04-07-en.pdf](ebccbcac5de335cde23c43790767443185acca09/file.pdf) @06:12 GMT
+
 ## 2020-04-07
 
 * [2020-04-07-de.pdf](eb35cee1f3ec610d056ccb0738d40f1b7c585274/file.pdf) @19:09 GMT
@@ -134,8 +138,8 @@
 
 ## 2020-03-16
 
-* [BMG\_C-19\_200315\_info\_VT\_Krankenhaus.pdf](4e9956a6351bb888c60d57e03a057b86d7ecbcac/file.pdf) @14:26 GMT
 * [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
+* [BMG\_C-19\_200315\_info\_VT\_Krankenhaus.pdf](4e9956a6351bb888c60d57e03a057b86d7ecbcac/file.pdf) @14:26 GMT
 * [2020-03-15-en.pdf](ed7447aaeef86b94fc307537e99157190cc9217b/file.pdf) @07:30 GMT
 
 ## 2020-03-14
@@ -163,8 +167,8 @@
 * [Coronavirus\_Handzettel\_barrierefrei\_tu\_\_rkisch\_barr.pdf](b98cd96edece38dd5430149567e667c5534f5a58/file.pdf) @15:21 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_DE.pdf](03c676043c8b7073b16ee7ae3193d43ddeb8aa27/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_\_EN.pdf](abfcf6f14cbec32215f3d8b770977fca9af659fb/file.pdf) @08:13 GMT
-* [Merkblatt-Bildungseinrichtungen-Coronavirus\_RU.pdf](8adf4f98c357d48776641c59527c63126322f938/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_TR.pdf](aa2a228c9a629d5408ebb3350c4e8db408a46f84/file.pdf) @08:13 GMT
+* [Merkblatt-Bildungseinrichtungen-Coronavirus\_RU.pdf](8adf4f98c357d48776641c59527c63126322f938/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_AR.pdf](1aa78906c4e83149bf5d121eda00a16d3093d7ea/file.pdf) @08:13 GMT
 
 ## 2020-03-10
@@ -193,8 +197,8 @@
 
 * [2020-03-05-en.pdf](2833a7d3c56e33137fdc1a491037ea70565f95fd/file.pdf) @21:11 GMT
 * [2020-03-05-de.pdf](f1bf5fd10b0e92211e7edcdc58d046390f87bf95/file.pdf) @21:09 GMT
-* [2020-03-04-de.pdf](e602cde778067c78818ef77f48b826584c5ff309/file.pdf) @18:06 GMT
 * [2020-03-04-en.pdf](16781e1fba03512ea3dfec4d3567124c6df86522/file.pdf) @18:06 GMT
+* [2020-03-04-de.pdf](e602cde778067c78818ef77f48b826584c5ff309/file.pdf) @18:06 GMT
 
 ## 2020-02-13
 

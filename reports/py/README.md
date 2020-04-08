@@ -6,6 +6,11 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-08
+
+* [5efbda-MedicamentoseinsumosCOVID19070420202.pdf](352da522d37aabb6b8796be83e3355e5ddaea3bc/file.pdf) @00:30 GMT
+* [b1e14f-EquipamientosambulanciasalimentacinyotrosCOVID1907042020.pdf](6e1b7e81334f7a9942978ef02be34fa3d61f8c1e/file.pdf) @00:24 GMT
+
 ## 2020-04-07
 
 * [7738e0-EquipamientosambulanciasalimentacinyotrosCOVID1907042020.pdf](7ed86acc685bb1aab68f7c0a9877b07bed2b53bf/file.pdf) @19:15 GMT

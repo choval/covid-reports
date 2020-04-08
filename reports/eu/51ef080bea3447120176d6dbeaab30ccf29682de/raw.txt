@@ -1,0 +1,535 @@
+Suggested citation: European Centre for Disease Prevention and Control. Guidance for discharge and ending isolation in the
+context of widespread community transmission of COVID-19, 8 April 2020. Stockholm: ECDC; 2020.
+© European Centre for Disease Prevention and Control. Stockholm, 2020.
+TECHNICAL REPORT
+Guidance for discharge and ending isolation in
+the context of widespread community
+transmission of COVID-19 – first update
+8 April 2020
+Scope of this document
+This document provides guidance for planning discharge and ending isolation for COVID-19 patients in the
+context of the phase of ongoing widespread community transmission.
+Target audience
+Public health institutes in the EU/EEA countries and the UK
+Background
+Since the publication of the first version of ECDC advice on discharge criteria for COVID-19 cases [1] and as of
+the end of March 2020, all EU/EEA Member States and the UK report numerous cases and are experiencing
+varying degrees of widespread community transmission of SARS-CoV-2.
+In the context of widespread community transmission, with ongoing shortages of laboratory consumables and
+reagents that affect diagnostic capacity, and with significant pressure on the health systems as a whole, the
+former discharge criteria developed for the early stages of SARS-CoV-2 spread with no apparent sustained
+community transmission, no pressure on healthcare facilities and optimal laboratory testing capacity are no
+longer applicable at a large scale. In addition, almost all Member States have in place a stay-at-home strategy
+for mild cases. Nonetheless, there is an increasing need to discharge patients from hospitals early after clinical
+symptom improvement in order to maintain healthcare capacity for severe and critically ill patients.
+Therefore, there is an urgent need for updated discharge criteria. The current update reflects the information
+available at the time of publication and may change if more information on the incubation period of SARS-CoV-2
+infection and viral shedding becomes available.
+TECHNICAL REPORT Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19
+2
+Scientific evidence on SARS-CoV-2 shedding
+Incubation period: The median incubation period is considered to be five to six days for COVID-19, with a
+range from one to 14 days. According to modelling data it remains prudent to consider a period of at least 14
+days as an upper limit of the incubation period [2,3].
+Viral shedding: Over the course of the infection, viral RNA has been identified in respiratory tract specimens up
+to 1–2 days before the onset of symptoms. Viral load persists up to eight days after the onset of symptoms in
+mild cases and peaks in day 11 in more severe cases[4-5]. The current update reflects these findings. However,
+more research is needed on the level and duration of viral shedding in the various patient groups and in the
+context of asymptomatic and pre-symptomatic infections. There is no evidence on the duration of viral shedding
+after resolution of fever.
+In terms of viral load profile, SARS-CoV-2 is similar to that of influenza, which peaks at around the time of
+symptom onset, but contrasts with that of SARS-CoV-1 and MERS-CoV, which peak in the second week after
+symptom onset. Older age and more severe infections have been associated with higher viral loads [5,6]. Viral
+RNA has been detected in faeces from day five after symptom onset and up to four to five weeks in moderate
+cases, as well as in whole blood [7], serum [8,9], saliva [3,6] and urine [6,10].
+Prolonged viral RNA shedding has been reported from nasopharyngeal swabs (up to 37 days after onset of
+symptoms among adult patients) [11] and in faeces (more than one month after infection in paediatric patients)
+[12]. The viral load can be a potentially useful marker for assessing disease severity and prognosis: a recent
+study indicated that viral loads in severe cases were up to 60 times higher than in mild cases [5]. Although there
+is no specific evidence for COVID-19, immunocompromised patients may shed SARS-CoV-2 virus for prolonged
+periods similar to other respiratory viruses.
+Viral RNA shedding of SARS-CoV-2 does not equate with infectivity, unless there is proof that the virus can be
+isolated and cultured from the particular samples. On the other hand, the infectious dose has not been
+determined; therefore, it is unclear how much virus is needed to infect humans.
+Infection in asymptomatic individuals: Asymptomatic infection at time of laboratory confirmation has been
+reported from many settings, with a large proportion of these cases experiencing some symptoms at a later
+stage of infection [6]. There are, however, also reports of cases remaining asymptomatic throughout the whole
+duration of laboratory and clinical monitoring. Viral RNA, as well as infectious virus has been detected in
+asymptomatic patients [13-15].
+Transmission in pre-symptomatic stage of infection: In symptomatic patients, the high viral load close to
+symptom onset suggests that SARS-CoV-2 can be easily transmissible at an early stage of infection [6,15-18].
+Uncertainties remain with regards to the influence of pre-symptomatic transmission on the overall transmission
+dynamics of the pandemic because of the suboptimal level of evidence on transmission from asymptomatic cases
+mostly originating from case reports. Comparable viral loads in asymptomatic and symptomatic patients also
+indicate the potential of virus transmission from asymptomatic patients.
+Pre-symptomatic transmission has been inferred through modelling, and the proportion of pre-symptomatic
+transmission was estimated between 48% and 62% [19]. Pre-symptomatic transmission was deemed likely
+based on a shorter serial interval of COVID-19 (4.0 to 4.6 days) than the mean incubation period (five days). The
+authors indicated that many secondary transmissions would have already occurred at the time when
+symptomatic cases are detected and isolated [18,20,21].
+Immunity: Based on the currently available data, the IgM and IgG antibodies to SARS-CoV-2 develop between
+6-15 days post-disease onset [4,22-26]. However, clinically validated laboratory assays for detection of
+antibodies are still lacking and therefore these results need to be considered cautiously. In addition, correlates of
+protection are still to be defined which is necessary to be able to comment on the possibility of re-infection and
+the duration of immunity.
+In summary, and based on limited evidence from one study indicating that viral load persists up to eight days
+after the onset of symptoms in mild cases and longer in more severe cases (peaking in the second week),
+patients should continue self-isolation at home or in a safe place if they are discharged from hospital before this
+period. Immunocompromised and patients with severe illness, as well as healthcare workers, should be
+prioritised for testing to exclude the possibility of prolonged shedding.
+TECHNICAL REPORT Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19
+3
+Overview of current practice
+An overview of recommendations for discharge and ending isolation of COVID-19 patients from national bodies in
+several EU/EEA Member States, other countries that experienced large numbers of COVID-19 cases and WHO is
+presented in Annex 1.
+Discharge and ending isolation criteria
+When deciding on criteria for hospital discharge of COVID-19 patients, guidance for ending home isolation of
+mild cases and guidance for critical infrastructure responders (e.g. healthcare workers, law enforcement etc.)
+returning to work after COVID-19 illness, health authorities should take into account several factors such as the
+existing capacity of the healthcare system, laboratory diagnostic resources, and the current epidemiological
+situation.
+COVID-19 patients may be discharged based on: a) clinical resolution of symptoms, and b) evidence for viral
+RNA clearance from the upper respiratory tract, where testing capacity permits. In order to protect the
+healthcare system capacity, in the context of widespread community transmission and limited testing capacity,
+clinical criteria will gain priority (Table 1).
+Discharge and ending isolation criteria may be adapted for specific groups of patients.
+Table 1. Guidance on discharge and ending isolation in the context of widespread community
+transmission
+COVID-19 case status Description Guidance
+Hospitalised suspected or
+confirmed COVID-19 cases
+This category refers to:
+ Patients who are
+hospitalised with
+suspected or laboratory
+confirmed COVID-19
+(mild, severe and critically
+ill) [27]
+ Confirmed COVID-19
+patients discharged early,
+due to clinical
+improvement
+If testing and hospitalisation capacity allows,
+ For a clinically recovered patient, two negative RT-PCR
+tests from respiratory specimens at 24 hours interval at
+least eight days after onset of symptoms [4]
+If limited/no testing capacity,
+ Patient can be discharged based on clinical criteria, per
+evaluation of the treating physician, AND
+ the discharged patient should self-isolate at home or in a
+safe place until resolution of fever for at least three days
+and clinical improvement of other symptoms AND
+ until eight days after the onset of symptoms for mild
+cases or for 14 days (severe cases) if these criteria have
+not been fulfilled in hospital.
+ Follow-up visits, or monitoring via phone or other
+electronic device can be considered.
+ These patients should be prioritised for testing.
+Discharged to closed
+population environment
+(long-term care facility,
+prison, children with special
+needs etc.)
+The patient should be placed in a single room until eight
+days after the onset of symptoms have passed AND
+resolution of fever for at least for three days AND clinical
+improvement of other symptoms.
+Immunocompromised
+patients
+Self-isolation should last until all of the following criteria are
+fulfilled: at least 14 days after symptom onset AND
+resolution of fever for at least three days AND clinical
+improvement of symptoms other than fever.
+Mild suspected or
+confirmed COVID-19 cases
+This category refers to:
+ Confirmed COVID-19
+patients never hospitalised
+due to mild symptoms or
+asymptomatic presentation
+ Suspected or probable
+COVID-19 patients in the
+community, who adhered
+to the stay-at-home advice
+by the national authorities
+ These patients can end self-isolation eight days after the
+onset of symptoms AND resolution of fever AND clinical
+improvement of other symptoms for at least for three
+days.
+TECHNICAL REPORT Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19
+4
+COVID-19 case status Description Guidance
+Critical infrastructure
+responders (e.g. heathcare
+workers, law enforcement,
+firefighters etc.)
+ End isolation after resolution of fever for at least three
+days AND after eight days from the onset of symptoms
+have passed. Healthcare workers can return to work
+immediately after that, using a surgical mask during work
+hours until 14 days after the onset of symptoms have
+passed*.
+ If testing capacity allows, for a clinically recovered
+patient, two negative RT-PCR tests from respiratory
+specimens at 24 hours interval, at least eight days after
+onset of symptoms. Critical infrastructure responders,
+especially HCWs, should be considered a priority group
+for testing during the pandemic.
+Family members and other
+categories of contacts of
+COVID-19 patients
+This category refers to:
+ Partners and spouses
+ Family members and other
+persons sharing housing
+or taking care of COVID-
+19 patients
+For guidance on household care of a COVID-19 case, refer
+to the relevant ECDC guidance [28].
+Caretakers of COVID-19 patients should self-quarantine for
+14 days after last contact with sick spouse/relative.
+Caretakers or family members that develop symptoms in the
+14-day quarantine period, should stay in home isolation for
+eight days after onset of symptoms AND until resolution of
+fever for at least three days AND clinical improvement of
+other symptoms, or seek medical care, if symptoms worsen.
+*Healthcare workers and other critical infrastructure responders are advised to wear a facemask for14 days after the onset of
+their symptoms, to cover the possibility of prolonged viral shedding in order to protect vulnerable patients in their care from
+being infected.
+Although the oral-faecal route does not appear to be a driver of transmission, its significance remains to be
+determined. Discharged patients should be advised to strictly follow personal hygiene precautions in order to
+protect household contacts. This applies to all convalescing patients, but particularly to convalescent children
+[28].
+For persons in voluntary or mandatory quarantine as a traveller or contact of a confirmed case, they should
+follow the instructions of the national public health authorities. Usually the duration of quarantine in the context
+of the COVID-19 epidemic is 14 days.
+Contributing ECDC experts (in alphabetical
+order)
+Cornelia Adlhoch, Agoritsa Baka, Eeva Broberg, Sergio Brusin, Orlando Cenciarelli, Otilia Mårdh, Angeliki Melidou,
+Anastasia Pharris, Diamantis Plachouras
+TECHNICAL REPORT Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19
+5
+References
+1. European Centre for Disease Prevention and Control (ECDC). Novel coronavirus (SARS-CoV-2). Discharge criteria for
+confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end home isolation?
+2020 [01 April 2020]. Available from: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-
+Discharge-criteria.pdf.
+2. Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel Coronavirus
+2020 [updated 29 January 202001 April 2020]. Available from:
+http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf.
+3. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among
+travellers from Wuhan, China, 20–28 January 2020. Eurosurveillance. 2020;25(5).
+4. Wölfel R, Corman VM, Guggemos W, Seilmaier M, Zange S, Müller MA, et al. Virological assessment of hospitalized
+patients with COVID-2019. Nature. 2020 2020/04/01.
+5. Pan X, Chen D, Xia Y, Wu X, Li T, Ou X, et al. Asymptomatic cases in a family cluster with SARS-CoV-2 infection. The
+Lancet Infectious Diseases. 2020 2020/02/19/.
+6. To KK-W, Tsang OT-Y, Leung W-S, Tam AR, Wu T-C, Lung DC, et al. Temporal profiles of viral load in posterior
+oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational
+cohort study. The Lancet Infectious Diseases. 2020 2020/03/23/.
+7. Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, et al. Epidemiologic Features and Clinical Course of
+Patients Infected With SARS-CoV-2 in Singapore. JAMA. 2020.
+8. Chang L, Yan Y, Wang L. Coronavirus Disease 2019: Coronaviruses and Blood Safety. Transfusion Medicine Reviews.
+2020 2020/02/21/.
+9. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with 2019 novel coronavirus
+in Wuhan, China. The Lancet. 2020 2020/02/15/;395(10223):497-506.
+10. Peng L, Liu J, Xu W, Luo Q, Deng K, Lin B, et al. 2019 Novel Coronavirus can be detected in urine, blood, anal swabs
+and oropharyngeal swabs samples. medRxiv. 2020:2020.02.21.20026179.
+11. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for mortality of adult inpatients with
+COVID-19 in Wuhan, China: a retrospective cohort study. The Lancet. 2020.
+12. Cai J, Xu J, Lin D, Yang Z, Xu L, Qu Z, et al. A Case Series of children with 2019 novel coronavirus infection: clinical
+and epidemiological features. Clinical Infectious Diseases. 2020.
+13. Hoehl S, Rabenau H, Berger A, Kortenbusch M, Cinatl J, Bojkova D, et al. Evidence of SARS-CoV-2 Infection in
+Returning Travelers from Wuhan, China. New England Journal of Medicine. 2020.
+14. Luo SH, Liu W, Liu ZJ, Zheng XY, Hong CX, Liu ZR, et al. A confirmed asymptomatic carrier of 2019 novel coronavirus
+(SARS-CoV-2). Chinese medical journal. 2020.
+15. Cereda D, Tirani M, Rovida F, Demicheli V, Ajelli M, Poletti P, et al. The early phase of the COVID-19 outbreak in
+Lombardy, Italy 2020. Available from: https://arxiv.org/abs/2003.09320v1.
+16. Han Y, Yang H. The transmission and diagnosis of 2019 novel coronavirus infection disease (COVID-19): A Chinese
+perspective. Journal of Medical Virology. 2020;n/a(n/a).
+17. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. SARS-CoV-2 Viral Load in Upper Respiratory Specimens of
+Infected Patients. New England Journal of Medicine. 2020.
+18. Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic Transmission of SARS-CoV-2 — Singapore,
+January 23–March 16, 2020. MMWR Morb Mortal Wkly Rep 2020.
+19. Ganyani T, Kremer C, Chen D, Torneri A, Faes C, Wallinga J, et al. Estimating the generation interval for COVID-19
+based on symptom onset data. medRxiv. 2020:2020.03.05.20031815.
+20. Nishiura H, Linton NM, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. International
+Journal of Infectious Diseases. 2020 2020/03/04/.
+21. McMichael TM. COVID-19 in a long-term care facility—King County, Washington, February 27–March 9, 2020. MMWR
+Morbidity and Mortality Weekly Report. 2020;69.
+22. Zhao J, Yuan Q, Wang H, Liu W, Liao X, Su Y, et al. Antibody responses to SARS-CoV-2 in patients of novel
+coronavirus disease 2019. 2020.
+23. Okba NMA, Muller MA, Li W, Wang C, GeurtsvanKessel CH, Corman VM, et al. SARS-CoV-2 specific antibody
+responses in COVID-19 patients. medRxiv. 2020.
+24. Liu W, Liu L, Kou G, Zheng Y, Ding Y, Ni W, et al. Evaluation of Nucleocapsid and Spike Protein-based ELISAs for
+detecting antibodies against SARS-CoV-2. medRxiv. 2020.
+25. Long Q-x, Deng H-j, Chen J, Hu J, Liu Bz, Liao P, et al. Antibody responses to SARS-CoV-2 in COVID-19 patients: the
+perspective application of serological tests in clinical practice. medRxiv. 2020.
+26. Wan WY, Lim SH, Seng EH. Cross-reaction of sera from COVID-19 patients with SARS-CoV assays. medRxiv. 2020.
+27. World Health Organization (WHO). Clinical management of severe acute respiratory infection when COVID-19 is
+suspected 2020 [updated 13 March 202001 April 2020]. Available from: https://www.who.int/publications-
+detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-
+suspected.
+28. European Centre for Disease Prevention and Control (ECDC). Infection prevention and control in the household
+management of people with suspected or confirmed coronavirus disease (COVID-19) 2020 [01 April 2020]. Available
+from: https://www.ecdc.europa.eu/sites/default/files/documents/Home-care-of-COVID-19-patients-2020-03-31.pdf.
+29. Robert Koch Institut (RKI). COVID-19: Kriterien zur Entlassung aus dem Krankenhaus bzw. aus der häuslichen
+Isolierung 2020 [updated 16 March 202001 April 2020]. Available from:
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Entlassmanagement.html?nn=13490888.
+30. Εθνικός Οργανισμός Δημόσιας Υγείας (ΕΟΔΥ). Οδηγίες για την έξοδο από το νοσοκομείο και για τη διακοπή των
+προφυλάξεων έναντι μετάδοσης ασθενών με COVID-19 που νοσηλεύονται ή παραμένουν για φροντίδα κατ’ οίκον
+2020 [updated 30 March 202001 April 2020]. Available from: https://eody.gov.gr/odigies-gia-tin-exodo-apo-to-
+nosokomeio-kai-gia-ti-diakopi-ton-profylaxeon-enanti-metadosis-asthenon-me-covid-19-poy-nosileyontai-i-
+paramenoyn-gia-frontida-kat-oikon/.
+TECHNICAL REPORT Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19
+6
+31. Ministero della Salute. Comunicazione del Cts sulla definizione di paziente guarito 2020 [updated 19 March 202001
+April 2020]. Available from:
+http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=noti
+zie&p=dalministero&id=4274.
+32. Centro de Coordinación de Alertas y Emergencias Sanitarias. Dirección General de Salud Pública CeI. Manejo clínico
+del COVID-19: atención hospitalaria 2020 [01 April 2020]. Available from:
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-
+China/documentos/Protocolo_manejo_clinico_ah_COVID-19.pdf.
+33. National Health Service (NHS). COVID-19 Hospital Discharge Service Requirements 2020 [updated 19 March 202006
+April 2020]. Available from: https://www.england.nhs.uk/coronavirus/wp-content/uploads/sites/52/2020/03/covid-
+19-discharge-guidance-hmg-format-v4-18.pdf.
+34. Public Health England (PHE). Stay at home: guidance for households with possible coronavirus (COVID-19) infection
+2020 [updated 24 March 202001 April 2020]. Available from: https://www.gov.uk/government/publications/covid-19-
+stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection#ending-
+isolation.
+35. Chinese Center for Disease Control and Prevention. Partie du diagnostic et traitement [01 April 2020]. Available from:
+http://www.chinacdc.cn/en/COVID19/202003/P020200306452812922389.pdf.
+36. Tay J-Y, Lim PL, Marimuthu K, Sadarangani SP, Ling LM, Ang BSP, et al. De-isolating Coronavirus Disease 2019
+Suspected Cases: A Continuing Challenge. Clinical Infectious Diseases. 2020.
+37. Korea Centers for Disease Control and Prevention (KCDC). Patient Treatment & Management 2020 [updated 15
+March 202001 April 2020]. Available from:
+http://ncov.mohw.go.kr/en/baroView.do?brdId=11&brdGubun=112&dataGubun=&ncvContSeq=&contSeq=&board_i
+d=&gubun=.
+38. Centers for Disease Control and Prevention (CDC). Discontinuation of Transmission-Based Precautions and
+Disposition of Patients with COVID-19 in Healthcare Settings (Interim Guidance) 2020 [updated 23 March 202001
+April 2020]. Available from: https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-hospitalized-patients.html.
+39. Centers for Disease Control and Prevention (CDC). Discontinuation of Home Isolation for Persons with COVID-19
+(Interim Guidance) 2020 [01 April 2020]. Available from: https://www.cdc.gov/coronavirus/2019-
+ncov/hcp/disposition-in-home-patients.html.
+TECHNICAL REPORT Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19
+7
+Annex 1.
+Comparison of current guidelines on ending isolation of COVID-19 cases, a desk review of
+recommendations from national bodies in several EU/EEA Member States, other countries that
+experienced large numbers of COVID-19 cases and WHO.
+Country Discharge from hospital Ending home isolation
+Clinical Lab (negative SARS-CoV-
+2 RNA test)
+Clinical Lab (negative
+SARS-CoV-2 RNA
+test)
+Estonia Case specific; ≥48 hours
+without fever AND ≥24
+hours without acute
+respiratory symptoms
+≥14 days after onset AND ≥48 hours
+with no fever AND ≥24 hours with no
+acute respiratory symptoms
+Germany
+[29]
+After clinical improvement,
+based on medical
+assessment.
+Note: a COVID19 patient is
+considered ‘fully discharged’
+if no symptoms related to
+acute COVID-19 for ≥48
+hours AND two negative
+tests at 24-hour intervals
+from naso-, oropharyngeal
+swabs
+If previously hospitalised: ≥14 days
+after hospital discharge AND free of
+symptoms related to acute COVID-19-
+for ≥48 hours (as per medical
+consultation)
+If no prior hospitalisation: ≥14 days
+after onset AND no acute COVID-19-
+symptoms for ≥48 hours (as per
+medical consultation)
+Greece [30] No fever ≥ three days
+without use of antipyretics
+Two negative tests at 24
+hours interval
+At least three days without fever AND
+At least 14 days after symptom onset
+Ireland 14 days after onset,
+including five days without
+fever
+For severe illness (prolonged
+virus shedding possible): 2
+negative tests at 24 hours
+interval
+No fever for five days AND at least 14
+days since symptom onset
+Italy [31] Resolution of symptoms Two negative tests at 24
+hours interval
+At 14 days after first
+test
+Netherlands NA NA For discharged hospitalised patients:
+home isolation until all symptoms have
+resolved for at least 24 hours.
+For persons with mild symptoms (no
+fever): home-isolation ends when
+symptom free ≥ 24 hours.
+Note: If one of the persons in a
+household develops fever (> 38 C), all
+have to stay at home. This isolation is
+lifted 24 hours after all persons in the
+household are free of any symptoms
+for at least 24 hours.
+Spain [32] Probable and confirmed
+cases: if their clinical
+situation allows it,
+although their PCR
+remains positive
+If negative laboratory result
+at discharge from hospital:
+go home without isolation
+People discharged from hospital: ≥14
+days of home isolation with clinical
+monitoring
+UK [33,34] Patients to be discharged
+when clinically safe and
+with health and social care
+support packages as
+needed.
+Symptomatic people: 7 days after
+onset.
+Note: They can return to normal
+routine if they feel better, have no
+fever.
+Family members: after 14 days of
+isolation, if have not become unwell.
+Family member that becomes unwell
+during the 14-day household-isolation:
+same advice like the first person,
+seven days from symptoms onset;
+may return to normal routine if feeling
+better, no fever.
+If household member develops COVID-
+19 symptoms late in the 14-day
+isolation period (e.g., on day 13 or day
+14): stay at home for 7 days.
+Note: the isolation period does not
+need to be extended (see footnote *)
+TECHNICAL REPORT Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19
+8
+Country Discharge from hospital Ending home isolation
+Clinical Lab (negative SARS-CoV-
+2 RNA test)
+Clinical Lab (negative
+SARS-CoV-2 RNA
+test)
+China [35] Afebrile for >3 days,
+improved respiratory
+symptoms, pulmonary
+imaging shows obvious
+absorption of inflammation,
+AND
+PCR negative for respiratory
+tract twice consecutively, at
+≥ 24 hours interval.
+Discharged patients in
+home isolation: 14
+days isolation with
+health monitoring
+(follow-up visits after
+two and four weeks).
+Singapore
+[36]
+≥ 24 hours with no fever
+and ≥6 days from illness
+onset
+Two respiratory samples
+negative for SARS-CoV-2 by
+PCR in ≥24 hours
+After 14 days of place of residence
+isolation
+South Korea
+[37]
+NA NA People with symptoms can be releases
+from quarantine if: no fever, clinical
+symptoms have improved,
+AND 2 PCR negative
+tests at 24-hour
+interval
+Asymptomatic persons (non-test-
+based): after three weeks from the
+date of confirmation
+Asymptomatic persons
+(test-based): two tests
+at 24 hours interval,
+seven days after first
+positive test.
+If they test positive,
+two more tests at 24
+hour intervals at dates
+to be determined by
+physicians (e.g. day
+10, day 14 after
+testing positive)
+USA [38,39] Non-test-based strategy:
+≥ three days (72 hours)
+since recovery (no fever
+and improvement in
+respiratory symptoms)
+AND,
+≥ seven days since
+symptoms onset
+Test-based strategy:
+resolution of fever,
+improvement in respiratory
+symptoms AND
+two negative
+nasopharyngeal swabs, ≥24
+hours apart
+Note: this strategy preferred
+for patients who are:
+hospitalised OR severely
+immunocompromised OR
+being transferred to long-
+term care or assisted living
+facility
+Non-test-based strategy:
+≥ three days (72 hours) since recovery
+(no fever and improvement in
+respiratory symptoms) AND,
+≥ seven days since symptoms onset
+Test-based strategy:
+resolution of fever,
+improvement in
+respiratory symptoms
+AND
+two negative
+nasopharyngeal
+swabs, ≥24 hours
+apart
+(see footnote **)
+Asymptomatic individuals: ≥ seven
+days since the date of their first
+COVID-19 positive test AND have had
+no subsequent illness.
+WHO [27] If clinically recovered AND
+two negative tests, at least
+24 hours apart.
+(see footnote ***)
+Note: Green boxes indicate the policy in use (e.g. Estonia, clinical criteria for both hospital discharge and end of home-
+isolation). NA: not reported/not identified through the desk review.
+*UK: The 14-day household-isolation period will have greatly reduced the overall amount of infection the rest of the household
+could pass on, and it is not necessary to restart 14 days of isolation for the whole household. This will have provided a high
+level of community protection. Further isolation of members of this household will provide very little additional community
+protection.
+**USA: Still valid (contingent on the availability of ample testing supplies and laboratory capacity as well as convenient access
+to testing): at least two consecutive sets of nasopharyngeal and throat swabs collected ≥ 24 hours apart from a patient with
+COVID-19 (a total of four negative specimens); and resolution of fever, without use of antipyretic medication, improvement in
+illness signs and symptoms.
+***WHO: In hospitalised patients with confirmed COVID-19, repeat URT and LRT samples can be collected to demonstrate
+viral clearance. The frequency of specimen collection will depend on local epidemic characteristics and resources.
+

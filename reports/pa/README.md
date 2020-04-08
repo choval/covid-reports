@@ -6,6 +6,10 @@
 * [http://minsa.gob.pa/publicaciones?title=&date%5Bvalue%5D%5Byear%5D=2020&type=25](http://minsa.gob.pa/publicaciones?title=&date%5Bvalue%5D%5Byear%5D=2020&type=25)
 
 
+## 2020-04-07
+
+* [direccion\_insumos\_med034.pdf](fbb2ee4ec2980af12462489975ef73e5b3740cb6/file.pdf) @19:35 GMT
+
 ## 2020-04-01
 
 * [comunicado\_dndm-rotado\_0.pdf](e4a4139ff7dfafbb741daf73b9ead37fb3dea041/file.pdf) @12:43 GMT

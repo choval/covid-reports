@@ -5,6 +5,10 @@
 * [https://www.folkhalsomyndigheten.se/publicerat-material/publikationer/?so=&ph=&fv=75&q=covid-19](https://www.folkhalsomyndigheten.se/publicerat-material/publikationer/?so=&ph=&fv=75&q=covid-19)
 
 
+## 2020-04-08
+
+* [hslf-fs-2020-12-allmanna-rad-om-allas-ansvar-covid-19-tf.pdf](9d57cd4f0633fd806c9ef0d8d53ce84652979eec/file.pdf) @09:48 GMT
+
 ## 2020-04-01
 
 * [faktablad-covid-19-70-ar-sydsamiska.pdf](e5e74d37095e5506beb8f2c4cd69d90c33489ea0/file.pdf) @14:45 GMT

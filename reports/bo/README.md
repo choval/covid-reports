@@ -6,6 +6,10 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-08
+
+* [4035-cruz-anuncia-que-bolivia-tendra-la-capacidad-de-procesar-1-342-pruebas-diarias-de-covid-19](598175f423d00a91efae9cf2eaf20aa16c6efad5/file.pdf) @12:10 GMT
+
 ## 2020-04-07
 
 * [4033-bolivia-acumula-194-casos-de-coronavirus-ministro-de-salud-pide-a-jovenes-y-adultos-cuidar-su-salud-ante-la-pandemia](57c2d2d6de15e63a21e40c7137771d1fd3bdf646/file.pdf) @13:37 GMT

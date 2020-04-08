@@ -1,0 +1,26 @@
+{
+    "filename": "TELESUS-OUTDOOR-SOCIAL.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/07\/TELESUS-OUTDOOR-SOCIAL.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586347854,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "650567",
+        "date": "Wed, 08 Apr 2020 12:10:54 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_68CA2AA5FCA9C9D573C6018454B98C93_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 07 Apr 2020 22:43:06 GMT",
+        "etag": "\"9ed47-5a2bb1b70601b\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 c9d6b51ebc8404a78538d827229419e9.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "gwAVvL2eHZ83msi8O5g5EkLjSvCBCHCUT3qaHwGWRVhrKOxGV7O30A=="
+    },
+    "lang": "pt",
+    "size": 650567,
+    "modified": 1586299386
+}
