@@ -8,6 +8,7 @@
 
 ## 2020-04-09
 
+* [Algoritmo Infección SARS CoV-2 Version 2.0 - 8-4-20 - VERSIÓN FINAL.pdf](0daadb895938f995c1a7814fe76ebbdae086c7e9/file.pdf) @17:18 GMT
 * [informacion-interes-actualizada-sobre-coronavirus-covid-19-1](d4a167fce353db83cfe6cded0f528bf3ba10763d/file.pdf) @13:57 GMT
 
 ## 2020-04-08

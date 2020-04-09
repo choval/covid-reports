@@ -1,0 +1,24 @@
+{
+    "filename": "Algoritmo%20Infecci%C3%B3n%20SARS%20CoV-2%20Version%202.0%20-%208-4-20%20-%20VERSI%C3%93N%20FINAL.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/Algoritmo%20Infecci%C3%B3n%20SARS%20CoV-2%20Version%202.0%20-%208-4-20%20-%20VERSI%C3%93N%20FINAL.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586457078,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 09 Apr 2020 18:31:18 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Thu, 09 Apr 2020 17:18:41 GMT",
+        "etag": "\"84684-5a2decee35e40\"",
+        "accept-ranges": "bytes",
+        "content-length": "542340",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Thu, 23 Apr 2020 18:31:18 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 542340,
+    "modified": 1586452721
+}

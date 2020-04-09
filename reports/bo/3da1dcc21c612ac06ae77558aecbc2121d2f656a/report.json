@@ -1,0 +1,22 @@
+{
+    "filename": "4039-gobierno-reporta-54-nuevos-casos-de-coronavirus-en-el-pais",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4039-gobierno-reporta-54-nuevos-casos-de-coronavirus-en-el-pais",
+    "output": "file.pdf",
+    "downloaded": 1586455695,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 09 Apr 2020 18:12:36 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=6ggpv1mv04ourv4c87u1c09sp2; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Thu, 09 Apr 2020 18:12:36 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 704187,
+    "modified": 1586455701
+}

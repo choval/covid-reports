@@ -1,0 +1,26 @@
+{
+    "filename": "be-covid-08-final-2.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/09\/be-covid-08-final-2.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586455721,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "5310934",
+        "date": "Thu, 09 Apr 2020 18:08:41 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_19C87258047074C53A67FF80C18436EF_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 09 Apr 2020 17:44:43 GMT",
+        "etag": "\"5109d6-5a2df2c07f55b\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 f9c5e5b9a4e739792ecd46afc5cf785d.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "ued3r16k7JahKXFKsV5Er7QUEqSlNl7eQdZkDD3Jyrf811fq3LjGuQ=="
+    },
+    "lang": "pt",
+    "size": 5310934,
+    "modified": 1586454283
+}

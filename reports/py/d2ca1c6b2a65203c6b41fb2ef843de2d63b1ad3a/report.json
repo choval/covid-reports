@@ -1,0 +1,19 @@
+{
+    "filename": "e441ac-COVID19PY1.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/e441ac-COVID19PY1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586456940,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 09 Apr 2020 18:28:55 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "397725",
+        "last-modified": "Thu, 09 Apr 2020 15:55:17 GMT",
+        "etag": "\"6119d-5a2dda4a6e49f\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 397725,
+    "modified": 1586447717
+}

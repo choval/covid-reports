@@ -7,6 +7,7 @@
 
 ## 2020-04-09
 
+* [2020-04-9-tha-sitrep-47-covid19-final.pdf](99e8922e18c01f9de9ce58b4a2f83d8e9c30faf0/file.pdf) @16:06 GMT
 * [2020-04-8-tha-sitrep-46-covid19-th-finale16ef322b6184a80ad43181ed63367f7.pdf](c4831479cd31417f35fd97460e171f23c612e348/file.pdf) @06:34 GMT
 
 ## 2020-04-08

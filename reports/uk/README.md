@@ -9,6 +9,7 @@
 
 ## 2020-04-09
 
+* [Guidance\_for\_Laboratories\_offering\_support\_for\_COVID-19\_testing\_\_for\_publication\_\_2\_.pdf](fcfe5aaa2bc608f0268a3484c6824c419c276e89/file.pdf) @17:43 GMT
 * [guidance-for-stepdown-of-infection-control-precautions-and-discharging-covid-19-patients](c1c747a86528eab1e9241299925a22ce6409dbd4/file.pdf) @13:55 GMT
 * [Covid-19\_fact\_sheet.pdf](da833790107bb8f28b1734ce1795dfd14692956d/file.pdf) @13:21 GMT
 

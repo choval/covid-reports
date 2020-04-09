@@ -1,0 +1,20 @@
+{
+    "filename": "uso_del_epp_para_atencion_de_casos_sospechosos_o_confirmados_para_coronavirusdef31-03-20_0.pdf",
+    "uri": "http:\/\/minsa.gob.pa\/sites\/default\/files\/publicaciones\/uso_del_epp_para_atencion_de_casos_sospechosos_o_confirmados_para_coronavirusdef31-03-20_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586456894,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx\/1.10.3 (Ubuntu)",
+        "date": "Thu, 09 Apr 2020 18:28:14 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "13273600",
+        "last-modified": "Mon, 06 Apr 2020 20:17:16 GMT",
+        "connection": "keep-alive",
+        "etag": "\"5e8b8e4c-ca8a00\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 13273600,
+    "modified": 1586204236
+}

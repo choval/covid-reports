@@ -7,6 +7,14 @@
 * [https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
 
 
+## 2020-04-09
+
+* [C\_17\_notizie\_4431\_1\_file.pdf](3089c2dc1cdd2d2a42e4d4c1d0ec2630d94f2a18/file.pdf) @18:24 GMT
+* [C\_17\_notizie\_4431\_0\_file.pdf](7e7e1087cb5531a689bfc08fa211ee20ae132566/file.pdf) @18:24 GMT
+* [Infografica\_9aprile ITA.pdf](3dc89ee66e19648bed8dd608bb7bc01f8f2729f1/file.pdf) @17:40 GMT
+* [Infografica\_9aprile ENG.pdf](57f45a73ae7e1a14a271539471616b87c51fa49d/file.pdf) @17:38 GMT
+* [Infografica\_9aprile ENG.pdf](1c33f840c439324c70532cb5548fa18587bcc77a/file.pdf) @17:38 GMT
+
 ## 2020-04-08
 
 * [C\_17\_opuscoliPoster\_457\_allegato.pdf](2d84e0aebef490c1a792e2a0d4ab042b57390821/file.pdf) @21:24 GMT
@@ -42,13 +50,13 @@
 * [C\_17\_notizie\_4403\_1\_file.pdf](4d08b792159444e88389ba3095edade75eb04dc8/file.pdf) @21:36 GMT
 * [C\_17\_notizie\_4403\_0\_file.pdf](13fb065709c1c885f705df381a536c773ee9f4a2/file.pdf) @21:36 GMT
 * [Infografica\_5aprile ITA.pdf](be01e49068c57d7987060aa0b09aca3ecb5a3003/file.pdf) @14:48 GMT
-* [Infografica\_5aprile ENG.pdf](d40faa5a444c26cca9d56ce20cca15632a36ea10/file.pdf) @14:46 GMT
 * [Infografica\_5aprile ENG.pdf](59778628211ad4c30c4357eafbd7cd29f69386ff/file.pdf) @14:46 GMT
+* [Infografica\_5aprile ENG.pdf](d40faa5a444c26cca9d56ce20cca15632a36ea10/file.pdf) @14:46 GMT
 
 ## 2020-04-04
 
-* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ENG.pdf](5054175f81881782bbd98e7ef7307fcb3c878293/file.pdf) @18:09 GMT
+* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ITA.pdf](7881f2225bfb7e07af7e3b25f9ffcda3e0d95fe8/file.pdf) @18:08 GMT
 * [C\_17\_notizie\_4399\_1\_file.pdf](8f1dc784d978f7f725feef4cd2439f1be51db591/file.pdf) @18:01 GMT
 * [C\_17\_notizie\_4399\_0\_file.pdf](5312e4146209a88022f397834bec38c7fc4261f7/file.pdf) @18:01 GMT
@@ -60,8 +68,8 @@
 * [C\_17\_notizie\_4390\_0\_file.pdf](4e5356f67580220c853994ab4969073925172e75/file.pdf) @20:26 GMT
 * [C\_17\_notizie\_4392\_1\_file.pdf](31a0f476f687ab37c10df41674c9b8ac1d825375/file.pdf) @20:26 GMT
 * [C\_17\_notizie\_4392\_0\_file.pdf](84d75b101c49c76ee8d05009891ec671baac8ef7/file.pdf) @20:25 GMT
-* [Infografica\_3aprile ENG.pdf](3f20989071b9df0cac974325c3c0e88e483f0496/file.pdf) @17:44 GMT
 * [Infografica\_3aprile ENG.pdf](608b6045282d742d2188417bd583b9658f202b40/file.pdf) @17:44 GMT
+* [Infografica\_3aprile ENG.pdf](3f20989071b9df0cac974325c3c0e88e483f0496/file.pdf) @17:44 GMT
 * [Report-COVID-2019\_2\_april\_2020.pdf](9af2a292e9743415615a42b6ec1ddeec4fccac4f/file.pdf) @17:44 GMT
 * [Bolletino-sorveglianza-integrata-COVID-19\_2-aprile-2020\_appendix.pdf](da13a899ec5d935375eb6ad57cec229fd5ee17c3/file.pdf) @17:40 GMT
 * [Infografica\_3aprile ITA.pdf](26c23e04d5f97400c51959c898dc4b6027481ea0/file.pdf) @17:40 GMT
