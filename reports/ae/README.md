@@ -5,6 +5,10 @@
 * [https://doh.gov.ae/covid-19](https://doh.gov.ae/covid-19)
 
 
+## 2020-04-09
+
+* [News32](8070804a513663a76dea8048590c3c69a823fa97/file.pdf) @13:44 GMT
+
 ## 2020-04-08
 
 * [News31](4d2383fa3a610f5f9304047cc60a58ac0d2f293e/file.pdf) @12:10 GMT

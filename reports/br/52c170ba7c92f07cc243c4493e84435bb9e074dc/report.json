@@ -1,0 +1,28 @@
+{
+    "filename": "CT-19-2020-INTEGRAL.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/09\/CT-19-2020-INTEGRAL.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586439866,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "606825",
+        "date": "Thu, 09 Apr 2020 13:44:25 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_011A782D52428992860F42E4D70F13DC_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 09 Apr 2020 12:13:38 GMT",
+        "etag": "\"94269-5a2da8c007f23\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e180310aa2bd73460387710f5b74da16.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "6LWueEa2USWDA2p2QWN_zcofiAtYuy-d651WTJ4mpsialvFq2MreaA=="
+    },
+    "lang": "pt",
+    "size": 606825,
+    "modified": 1586434418
+}

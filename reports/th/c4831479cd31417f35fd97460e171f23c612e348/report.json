@@ -1,0 +1,26 @@
+{
+    "filename": "2020-04-8-tha-sitrep-46-covid19-th-finale16ef322b6184a80ad43181ed63367f7.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/searo\/thailand\/2020-04-8-tha-sitrep-46-covid19-th-finale16ef322b6184a80ad43181ed63367f7.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586440487,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "296133",
+        "date": "Thu, 09 Apr 2020 13:54:46 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Wed, 08 Jul 2020 13:54:46 GMT",
+        "last-modified": "Thu, 09 Apr 2020 06:34:33 GMT",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=2020-04-8-tha-sitrep-46-covid19-th-finale16ef322b6184a80ad43181ed63367f7.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "access-control-allow-origin": "*",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 1d70b90303ff56b86662db87683a2a04.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C1",
+        "x-amz-cf-id": "x8fa1wZbqKzrlSZEshtglDPNfdOlD6aomQP0ovc2JOZPEc7_sKeVRQ=="
+    },
+    "lang": "en,th",
+    "size": 296133,
+    "modified": 1586414073
+}

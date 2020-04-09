@@ -7,8 +7,26 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-09
+
+* [guidance-for-stepdown-of-infection-control-precautions-and-discharging-covid-19-patients](c1c747a86528eab1e9241299925a22ce6409dbd4/file.pdf) @13:55 GMT
+* [Covid-19\_fact\_sheet.pdf](da833790107bb8f28b1734ce1795dfd14692956d/file.pdf) @13:21 GMT
+
 ## 2020-04-08
 
+* [on-entry-hospital-discharge-patient-leaflet-urdu.pdf](cfea730a00a02558057a768f22d5ccde1aa93833/file.pdf) @16:52 GMT
+* [on-entry-hospital-discharge-patient-leaflet-spanish.pdf](bbe7b16167d0b18b4d9d42cd2e81db39752d2773/file.pdf) @16:52 GMT
+* [on-entry-hospital-discharge-patient-leaflet-punjabi.pdf](d34a95592c293242b62f2b5510cc8275f4d10147/file.pdf) @16:51 GMT
+* [on-entry-hospital-discharge-patient-leaflet-portuguese.pdf](1e150efd14016c6fa1ca2971fdd8b21b33935f7a/file.pdf) @16:50 GMT
+* [on-entry-hospital-discharge-patient-leaflet-polish.pdf](0a4ce36bced031608dae964d48dc2617983e3088/file.pdf) @16:49 GMT
+* [on-entry-hospital-discharge-patient-leaflet-mandarin.pdf](92a36d0da6000789344d909aa70b5db0babd37eb/file.pdf) @16:48 GMT
+* [on-entry-hospital-discharge-patient-leaflet-gujarati.pdf](a82e055e5567e3788f36c0188ceec7dcdb8d84f2/file.pdf) @16:47 GMT
+* [on-entry-hospital-discharge-patient-leaflet-french.pdf](2f87908a87e00afd621a7f1e08c58f06a8aaac8d/file.pdf) @16:47 GMT
+* [on-entry-hospital-discharge-patient-leaflet-cantonese.pdf](dbd23b5108eeb539c4e2473459f06d5b585a5f33/file.pdf) @16:46 GMT
+* [on-entry-hospital-discharge-patient-leaflet-bengali.pdf](75c1663203b0b40a4bf997bd7afa4beaa94d27da/file.pdf) @16:45 GMT
+* [on-entry-hospital-discharge-patient-leaflet-arabic.pdf](2ed24e9445e39dac7e5037c0e975545f371974f5/file.pdf) @16:44 GMT
+* [PHE\_11606\_Taking\_off\_PPE\_064\_revised\_8\_April.pdf](395728c813fdf457c0db6bf8e095af2b3359c922/file.pdf) @14:17 GMT
+* [PHE\_11606\_Putting\_on\_PPE\_062\_revised\_8\_April.pdf](2a820b4db78129b28d6144b29f799bfe37f3cd24/file.pdf) @14:17 GMT
 * [guidance-for-those-who-provide-unpaid-care-to-friends-or-family](f69793b84e651fb754348ab84a67bc26e65d0dd6/file.pdf) @12:39 GMT
 
 ## 2020-04-07

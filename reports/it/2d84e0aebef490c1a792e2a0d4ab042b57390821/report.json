@@ -1,0 +1,20 @@
+{
+    "filename": "C_17_opuscoliPoster_457_allegato.pdf",
+    "uri": "http:\/\/www.salute.gov.it\/imgs\/C_17_opuscoliPoster_457_allegato.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586381064,
+    "headers": {
+        "http-status": 200,
+        "server": "XXXXXXXXXXXXX",
+        "content-type": "application\/pdf",
+        "content-length": "489741",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "expires": "Wed, 08 Apr 2020 21:29:24 GMT",
+        "date": "Wed, 08 Apr 2020 21:24:24 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "it",
+    "size": 489741,
+    "modified": 1586381066
+}

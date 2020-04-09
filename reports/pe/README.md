@@ -5,6 +5,10 @@
 * [https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678](https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678)
 
 
+## 2020-04-09
+
+* [coronavirus070420.pdf](559453dd92bb434089f3b5f1f003a02120c6fc30/file.pdf) @01:18 GMT
+
 ## 2020-04-07
 
 * [coronavirus060420.pdf](78ba8a8293d5d2c169d15c2b13f22c359a5e1119/file.pdf) @21:39 GMT

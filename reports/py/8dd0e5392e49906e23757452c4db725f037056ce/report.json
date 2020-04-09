@@ -1,0 +1,19 @@
+{
+    "filename": "fb47c7-COVID19PY.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/fb47c7-COVID19PY.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586381367,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Wed, 08 Apr 2020 21:29:23 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "398408",
+        "last-modified": "Wed, 08 Apr 2020 16:29:43 GMT",
+        "etag": "\"61448-5a2ca01efa14b\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 398408,
+    "modified": 1586363383
+}

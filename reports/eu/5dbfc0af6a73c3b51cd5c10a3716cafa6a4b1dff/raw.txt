@@ -1,0 +1,362 @@
+Suggested citation: European Centre for Disease Prevention and Control. Strategies for the surveillance of COVID-19.
+Stockholm: ECDC; 2020
+Stockholm, April 2020
+© European Centre for Disease Prevention and Control, 2020. Reproduction is authorised, provided the source is acknowledged.
+TECHNICAL REPORT
+Strategies for the surveillance of
+COVID-19
+9 April 2020
+Background
+All EU/EEA Member States and the United Kingdom are seeing widespread community transmission of coronavirus
+disease (COVID-19) and have implemented extensive public health, societal and economic measures to flatten the
+epidemic curve and avert overload or collapse of their healthcare systems. This document proposes an updated
+strategy for COVID-19 surveillance at national and EU/EEA level that specifically aims to reconcile the data needs
+for effective pandemic response with what is still feasible in countries and within healthcare systems under siege,
+while taking into account guidance issued by the World Health Organization [1,2].
+Surveillance objectives
+The objectives of COVID-19 surveillance at national and EU/EEA level are as follows:
+ Monitor the intensity, geographic spread and severity of COVID-19 in the population in order to estimate
+the burden of disease, assess the direction of recent time trends, and inform appropriate mitigation
+measures.
+ Monitor viral changes to inform drug and vaccine development, and to identify markers of severe infection.
+ Monitor changes in which risk groups are most affected in order to better target prevention efforts.
+ Monitor the epidemic’s impact on the healthcare system to predict the trajectory of the epidemic curve and
+inform resource allocation and mobilisation of surge capacity as well as external emergency support.
+ Monitor the impact of any mitigation measures to inform authorities so they can adjust the choice of
+measures, as well as their timing and intensity.
+Additional objectives at national level are as follows:
+ Detect and contain nosocomial outbreaks to protect healthcare workers and patients.
+ Detect and contain outbreaks in long-term care facilities and other closed communities to protect those
+most at risk of severe disease and poor outcomes.
+TECHNICAL REPORT Strategies for the surveillance of COVID-19
+2
+Routine surveillance systems
+Objective 1. Intensity, geographic spread, severity
+Intensity
+Comprehensive surveillance. In countries comprehensively testing suspected cases for COVID-19, the most
+accurate indicators of intensity will be the absolute number of newly confirmed cases and their notification rate per
+100 000 population. They provide a solid basis for monitoring trends over time and for intra-country (probably to a
+lesser extent: inter-country) comparison. Countries only testing severe cases for COVID-19 could use the number
+and notification rate of severe cases as a proxy of intensity for trend monitoring, taking into account changes in
+testing policy over time.
+Sentinel syndromic surveillance. Countries no longer testing mild suspected cases for COVID-19, but still
+encouraging such cases to consult their primary healthcare providers (including telephone consultations), should
+integrate COVID-19 surveillance with sentinel surveillance of influenza-like illness (ILI) or acute respiratory
+infection (ARI), which is in place in most EU/EEA Member States. The naso-pharyngeal swabs obtained by sentinel
+physicians from a systematic sample of patients presenting with ILI/ARI should also be tested for severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) in addition to influenza virus and other respiratory viruses. In
+countries where sentinel physicians are not able to swab their patients, other approaches can be considered, such
+as self-swabbing and shipping of specimens using dedicated channels. The intensity of COVID-19 could then be
+derived from the weekly number of positive specimens over specimens tested and/or the weekly number of
+confirmed cases over the number of ILI/ARI consultations. In countries/areas where the proportion of positive
+sentinel specimens is high, the incidence of ARI/ILI over time is a good proxy of the incidence of COVID-19. The
+denominator for calculating incidences is the number of individuals registered with the sentinel physicians, or the
+population under their catchment area, or the total number of consultations per week. Where feasible, these
+sentinel surveillance systems should be expanded to include more physicians and thus improve their population
+coverage. In all countries, these systems would need to be maintained beyond the end of the influenza
+surveillance season in week 20 because surveillance of COVID-19 would need to continue.
+Helplines, surveys, participatory surveillance. Countries not systematically testing most suspected cases
+while limiting physical access to primary healthcare (for example by encouraging people to call specific COVID-19
+helplines, or when people are placed in in lockdown) should consider analysing data from alternative sources.
+These could include phone consultations of sentinel physicians, calls to regional/national healthcare telephone
+helplines, consultations of online healthcare apps or self-assessment tools for advice on COVID-19 testing, or
+population-based participatory syndromic surveillance schemes for influenza that exist in a number of Member
+States. Resources permitting, countries can also conduct their own regular telephone surveys. Numbers of ILI/ARI
+over the respective denominator in each of these approaches would offer at least a rough indication of the
+intensity of mild respiratory symptoms compatible with COVID-19, especially outside the influenza season.
+Geographic spread
+Comprehensive or sentinel syndromic surveillance. In countries comprehensively testing suspected cases for
+COVID-19, any first confirmed case with no known epidemiological link in a region signifies spread to this region.
+With decreasing certainty, geographic spread could also be inferred from sentinel syndromic surveillance or any of
+the alternative data sources described for intensity. Unlike intensity, however, geographic spread requires
+categorisation, for example based on the proportion of affected subnational jurisdictions, to be meaningful at
+national and EU/EEA level.
+Severity
+Comprehensive surveillance. Countries comprehensively testing suspected cases for COVID-19 should monitor
+the number and proportion of hospitalised cases, cases admitted to intensive care units (ICU) or high-dependency
+units (HDU), and cases with fatal outcome among the number of confirmed cases.
+Hospital-based SARI surveillance. Countries no longer testing mild suspected cases for COVID-19 should at
+least test all severe acute respiratory infection (SARI) cases admitted to hospital and ICU/HDU, and monitor the
+proportion of confirmed COVID-19 cases among all SARI. This type of surveillance system can be comprehensive
+or based on a number of representative sentinel hospitals or areas. Sentinel hospitals should be selected if their
+catchment population is known and stable. A suitable alternative is to select all hospitals in a given area/region and
+use the population of that area/region as denominator.
+Mortality surveillance. While the surveillance of fatal outcome among hospitalised confirmed COVID-19 cases
+remains important and will be relatively feasible, it may not reflect the true magnitude of COVID-19-related
+TECHNICAL REPORT Strategies for the surveillance of COVID-19
+3
+mortality in a population. Elderly people may die outside of hospital settings, e.g. in long-term care facilities
+(LTCF), as already observed in a number of Member States. Specific LTCF-based surveillance data, or mortality
+data from national statistics offices may be considered if frequently updated and readily available. Alternatively,
+EuroMOMO supplies weekly age-specific all-cause excess mortality data for the majority of Member States.
+Qualitative indicators: In the context of influenza pandemics, WHO has suggested a set of qualitative indicators
+to assess severity (pandemic influenza severity assessment, PISA) which might also lend themselves to COVID-19
+[3]. In the PISA framework, severity is composed of transmissibility, seriousness and impact. Transmissibility
+can be measured, for example through the indicators obtained from sentinel ILI/ARI surveillance while seriousness
+and impact derive, for example, from indicators obtained from SARI surveillance, mortality surveillance or COVID-
+19-related bed occupancy in hospitals. According to agreed definitions, transmissibility, seriousness and impact are
+reported as qualitative categories (e.g. no activity, low, moderate, high, extraordinary) and may support public
+health decisions which would need to be taken in the context of large pressures on health services.
+Objective 2. Virological surveillance
+Virological sentinel surveillance of COVID-19 should be based on the clinical specimens obtained through
+national sentinel surveillance of ILI/ARI/SARI. The recommended diagnostic test uses nucleic acid amplification,
+such as RT-PCR, to detect SARS-CoV-2 RNA in oropharyngeal and nasopharyngeal swabs [2]1
+. Furthermore,
+integrated epidemiological and virological surveillance will play a significant role – once vaccines and antivirals
+become available – to monitor virus/vaccine match and the possible emergence of antiviral resistance.
+Representative stains of virus from different geographic locations and time points, as well as from patients of both
+genders, and across the age and severity spectrum should be selected for sequencing in order to monitor virus
+evolution and changes in the virus genome. Particular attention should be paid to any changes reducing the
+sensitivity of detection assays and mutations in surface proteins that may affect the antigenicity of circulating
+viruses. Any RT-PCR with a Ct value less than 30 is considered a good source of sequencing material. Countries
+without sequencing capacity are encouraged to send samples to WHO referral laboratories for COVID-19 testing,
+following WHO guidance for laboratories shipping specimens or request sequencing support from ECDC (email to
+influenza@ecdc.europa.eu). Further details are available on the ECDC laboratory support webpage. Sequencing
+results should be deposited in the Global Initiative on Sharing All Influenza Data (GISAID) database.
+Laboratories involved in the COVID-19 national response are encouraged to participate in the ECDC and WHO
+external quality assessments to evaluate the reliability of their testing assays and resulting data quality.
+As per WHO biosafety guideline, non-propagative diagnostic laboratory work (for example, sequencing, nucleic acid
+amplification) should be conducted at a facility using procedures equivalent to biosafety level 2 (BSL-2).
+Propagative work (for example, virus culture, isolation or neutralisation assays) should be conducted at a
+containment laboratory with inward directional airflow (BSL-3). Patient specimens from suspected or confirmed
+cases should be transported as UN3373, ‘biological substance category B’. Viral cultures or isolates should be
+transported as category A, UN2814, ‘infectious substance, affecting humans’ [2].
+Objective 3. Changes in risk groups
+Enhanced surveillance of hospitalised cases. Risk groups should be identified and monitored by enhanced
+comprehensive or sentinel surveillance of hospitalised cases of COVID-19 with a focus on patient age, gender,
+medication, underlying conditions, smoking and healthcare worker status, as well as ICU/HDU admission and
+clinical outcome. Regular descriptive and multivariable analysis should inform targeted preventative measures and
+messages.
+1
+Various other commercial assays (molecular point-of-care tests, SARS-CoV-2 rapid antigen detection and antibody detection
+tests) are available or under development. Although some of these tests have a CE/IVD mark, clinical validation of their
+diagnostic performance under real-life conditions is pending. These assays should be carried out in a sufficiently large number of
+target population subjects and compared with a gold standard test before introducing them into the routine. ECDC is working in
+close cooperation with the European Commission, Member State authorities, the Foundation for Innovative New Diagnostics
+(FIND) (https://www.finddx.org/) and WHO on the validation of these tests.
+TECHNICAL REPORT Strategies for the surveillance of COVID-19
+4
+Objective 4. Impact on healthcare system
+Operational healthcare system data. Possible quantitative indicators to monitor the impact of the COVID-19
+pandemic on national healthcare systems are:
+ the number of confirmed cases and deaths among healthcare workers and their proportion among
+healthcare workers overall and among those working in dedicated COVID-19 hospitals/treatment centres;
+ sick-leave numbers among healthcare workers overall and in dedicated centres;
+ the COVID-19-related bed occupancy in hospitals overall, dedicated centres, ICUs and HDUs, beds with
+ventilators;
+ the mean number of days’ worth of personal protective equipment left before depletion of stock; and
+ the proportion of long-term care facilities with at last one case of COVID-19 among staff or residents or
+with increased mortality.
+A possible qualitative indicator is whether healthcare systems, at regional or national levels, are still largely
+coping. In reality, the definition of this qualitative indicator would probably be at least vaguely based on
+operational healthcare system data (see above).
+Objective 5. Impact of mitigation measures
+Escalation and maintenance of mitigation measures
+Intensity, geographic spread, impact on healthcare system. While escalating and maintaining mitigation
+measures, their effectiveness should be assessed at regular short intervals to ensure the desired reduction or
+interruption of COVID-19 transmission in the population. This is best accomplished by monitoring intensity,
+geographic spread, and the impact on the healthcare system. At this stage, perhaps more than any other, it is
+imperative to frequently, publicly and comprehensibly communicate and explain the latest figures if the population
+are to accept and comply with the chosen mitigation measures over an extended period of time.
+Data from contact tracing, especially changing transmission patterns, can also be analysed to assess the
+effectiveness of mitigation measures. Such data may include number of contacts, type of contacts most affected,
+or common settings of transmission and may ultimately inform de-escalation planning.
+De-escalation of mitigation measures
+De-escalation of mitigation should be considered as soon as intensity, severity and healthcare system impact
+indicators justify the conclusion that the incidence of COVID-19 has decreased to a level where systematic case
+finding and isolation, contact tracing and quarantine are sufficient to control, and ultimately contain, the pandemic
+within a country.
+If de-escalation of mitigation measures leads to an increase of COVID-19 cases, requiring fast re-escalation,
+surveillance and monitoring needs will not differ from the initial escalation phase. If de-escalation results in
+(seemingly) nationwide lasting absence of COVID-19 cases, the surveillance systems and indicators informing the
+escalation phase might be too crude to detect persisting low-level community transmission. The following elements
+could alleviate this:
+ Temporarily enhanced sentinel ILI/ARI surveillance at regional or national level: for a limited period
+of time, such as two weeks, the number of sentinel physicians could be increased, each of them sampling a
+higher-than-usual proportion of ARI/ILI cases for COVID-19 testing.
+ Telephone helplines: calls to regional/national healthcare telephone helplines could be used to sample a
+proportion of cases meeting the ILI/ARI case definition for COVID-19 testing.
+ Population-based seroprevalence studies could provide valuable additional information regarding age-
+specific population immunity against COVID-19 in the different phases of the pandemic at the
+local/regional/national level. In addition, prevalence studies using RT-PCR can provide information on the
+extent of community transmission.
+ Contact tracing following each detected case is crucial during de-escalation to ensure containment. Data
+from contact tracing will help understand transmission patterns and guide further action.
+Objectives 6 and 7. Detection of nosocomial outbreaks and
+outbreaks in long-term care facilities
+Routine surveillance of outbreaks. Nosocomial outbreaks of COVID-19 and outbreaks in long-term care
+facilities should be notifiable to local public health authorities within 24 hours of detection. Given the potential dire
+consequences, the threshold for testing should be low. The rationale would be to rapidly contain the event,
+TECHNICAL REPORT Strategies for the surveillance of COVID-19
+5
+improving infection prevention and control measures and tracing contacts, protecting healthcare workers and
+patients/residents at high risk of severe disease and poor outcome, and preserving vital healthcare infrastructure.
+At national level, the number of such outbreaks of COVID-19 and the proportion of affected facilities might serve
+as additional indicators of intensity, geographic spread and impact on the healthcare system.
+Minimum reporting to ECDC
+ECDC appreciates the enormous efforts of some Member States to report detailed data for each confirmed case of
+COVID-19. Many Member States, however, can no longer keep up with the reporting and their reporting burden
+should be eased. To reduce the reporting burden, Member States should, as a minimum, once per week report a
+basic aggregate dataset on all cases, a reduced case-based dataset on all severe cases, viral sequence data to
+GISAID, qualitative indicators for geographic spread, and qualitative indicators for pandemic impact on the
+healthcare system. A detailed description can be found in the COVID-19 reporting protocol. If no cases of COVID-
+19 are detected, e.g. after de-escalating mitigation measures, zero reporting is expected. Table 1 shows how each
+indicator relates to the relevant surveillance objective.
+ECDC and WHO will use these data to compile and publish a weekly COVID-19 report.
+Table 1. Minimum COVID-19 surveillance data to be reported to ECDC/GISAID
+Objective
+Indicator
+Quantitative/
+qualitative
+Numerator Denominator Format Database Frequency
+1 Intensity
+Quantitative
+Total confirmed
+(n)
+Total tested (n) Aggregate TESSy Weekly
+Intensity
+Quantitative
+Confirmed
+cases by age
+(n)
+Aggregate TESSy Weekly
+Intensity
+Quantitative
+Positive ILI/ARI
+total (n)
+ILI/ARI total
+tested (n)
+Aggregate TESSy Weekly
+Intensity
+Quantitative Total ILI/ARI
+Individuals
+registered with
+the sentinel
+physicians (n)
+OR
+population under
+sentinel physician
+catchment area
+OR
+total number of
+consultations per
+week
+Aggregate TESSy Weekly
+Geogr. spread Qualitative TESSy Weekly
+Severity
+Quantitative
+Total
+hospitalised (n)
+Aggregate TESSy Weekly
+Severity
+Quantitative
+Total ICU /HDU
+(n)
+Aggregate TESSy Weekly
+Severity
+Quantitative
+Total SARI
+positive (n)
+Total SARI tested
+(n)
+Aggregate TESSy Weekly
+Severity
+Quantitative
+Positive SARI by
+age (n)
+SARI tested, by
+age (n)
+Aggregate TESSy Weekly
+Severity
+Quantitative
+Positive SARI by
+age (n)
+Hospital
+catchment area
+Aggregate TESSy Weekly
+Severity
+Quantitative
+Total confirmed
+deaths (n)
+Aggregate TESSy Weekly
+Severity
+Quantitative
+Confirmed
+deaths by age
+(n)
+Confirmed cases
+by age (n)
+Aggregate TESSy Weekly
+TECHNICAL REPORT Strategies for the surveillance of COVID-19
+6
+Objective
+Indicator
+Quantitative/
+qualitative
+Numerator Denominator Format Database Frequency
+2 Viral changes
+Quantitative
+Genetic
+mutations
+Sequence-based GISAID Weekly
+3 Risk groups Quantitative Case-based TESSy Weekly
+4 Impact on
+healthcare
+system
+Qualitative TESSy Weekly
+In addition, ECDC and WHO are piloting the PISA indicators: transmissibility, severity and impact (Table 2).
+Table 2. PISA indicators currently piloted
+Objective
+Indicator
+Quantitative/ qualitative Numerator Denominator Format Database Frequency
+1 Transmissibility Qualitative TESSy Weekly
+Seriousness Qualitative TESSy Weekly
+Impact Qualitative TESSy Weekly
+Testing priorities in case of limited resources
+In situations where testing capacities are available and primary care services are accessible, all patients presenting
+to the healthcare system with symptoms of acute respiratory infection should be considered suspected cases of
+COVID-19 according to the EU case definition and should be tested for SARS-CoV-2 virus as part of active case
+finding. If the number of suspected cases exceeds the available testing capacity in a country or an area, testing of
+the following groups should be considered a priority (in decreasing order of importance):
+ Healthcare workers visiting patients (regardless of setting) in order to:
+ reduce the risk of transmission to their patients;
+ reduce the impact on the healthcare workforce.
+ Elderly people and those with underlying chronic medical conditions such as lung disease, cancer, heart
+failure, cerebrovascular disease, renal disease, liver disease, hypertension, diabetes, and
+immunocompromising conditions who show signs of acute respiratory illness, because they may need
+respiratory support sooner than people who are not in a risk group.
+ Hospitalised patients with SARI in order to inform appropriate clinical management, including isolation and
+wearing of PPE, as well as for surveillance purposes.
+ All cases, even those with mild symptoms, developing acute respiratory infection in hospitals, long-term
+care facilities or other vulnerable communities (or, as a minimum, the first cases to confirm an outbreak in a
+closed setting) in order to guide:
+ infection control and PPE use and protect vulnerable persons and healthcare workers;
+ isolation and early treatment to prevent severe disease and fatal outcome in risk groups;
+ decisions on healthcare workers’ exclusion from, and return to, work to ensure continued health and
+social care services.
+ subsets of patients with ARI or ILI in sentinel outpatient settings.
+Further information on laboratory testing guidelines is available from the ECDC webpage on laboratory support for
+COVID-19 in the EU/EEA and WHO documents [4].
+Additional data sources
+ECDC is liaising with major clinical networks and EU-Commission-funded projects (Recover, I-MOVE+, ISARIC) to
+explore ways of collaborating and data sharing.
+ECDC is also looking into alternative data sources for surveillance such as online self-assessment tools and
+healthcare apps including ways in which ECDC can help collate information from such tools.
+TECHNICAL REPORT Strategies for the surveillance of COVID-19
+7
+References
+1. World Health Organization. Operational considerations for COVID-19 surveillance using GISRS: interim
+guidance, 26 March 2020. Geneva: WHO; 2020. Available from:
+https://extranet.who.int/iris/restricted/handle/10665/331589.
+2. World Health Organization. Global surveillance for COVID-19 caused by human infection with COVID-19
+virus: interim guidance, 20 March 2020. Geneva: WHO; 2020. Available from:
+https://extranet.who.int/iris/restricted/handle/10665/331506.
+3. World Health Organization. Pandemic Influenza Severity Assessment (PISA): A WHO guide to assess the
+severity of influenza epidemics and pandemics. Geneva: WHO; 2017. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/259392/WHO-WHE-IHM-GIP-2017.2-
+eng.pdf;jsessionid=614D77C9474EFF4ECBE33EE0886261D8?sequence=1.
+4. World Health Organization. Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected
+human cases: Interim guidance, 19 March 2020. Geneva: WHO; 2020. Available from:
+https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-in-suspected-
+human-cases-20200117.
+

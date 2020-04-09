@@ -1,0 +1,22 @@
+{
+    "filename": "4036-210-casos-de-covid-19-en-el-pais-ministro-cruz-pide-reflexion-y-recogimiento",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4036-210-casos-de-covid-19-en-el-pais-ministro-cruz-pide-reflexion-y-recogimiento",
+    "output": "file.pdf",
+    "downloaded": 1586380692,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 08 Apr 2020 21:22:33 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=baulljb07r7dhc3aam2hmlddf0; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Wed, 08 Apr 2020 21:22:33 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 640159,
+    "modified": 1586380701
+}

@@ -8,6 +8,7 @@
 
 ## 2020-04-08
 
+* [4036-210-casos-de-covid-19-en-el-pais-ministro-cruz-pide-reflexion-y-recogimiento](523da6e95186e4a2771b2f3a4d7315b82b011fd9/file.pdf) @21:18 GMT
 * [4035-cruz-anuncia-que-bolivia-tendra-la-capacidad-de-procesar-1-342-pruebas-diarias-de-covid-19](598175f423d00a91efae9cf2eaf20aa16c6efad5/file.pdf) @12:10 GMT
 
 ## 2020-04-07

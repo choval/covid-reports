@@ -1,0 +1,26 @@
+{
+    "filename": "20200408-ProtocoloManejo-ver07.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/08\/20200408-ProtocoloManejo-ver07.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586388109,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1201454",
+        "date": "Wed, 08 Apr 2020 23:21:49 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_28E3192CF3073DA139BC5C2C6682F37C_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 08 Apr 2020 13:56:12 GMT",
+        "etag": "\"12552e-5a2c7dcf11500\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 06d992a9667d893da83cf32bbe78f8b9.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "LH5-bG2EfQdvtkEg0mCNtENDaZhDhx29GQrctb65QGrP74pycg4kiw=="
+    },
+    "lang": "pt",
+    "size": 1201454,
+    "modified": 1586354172
+}

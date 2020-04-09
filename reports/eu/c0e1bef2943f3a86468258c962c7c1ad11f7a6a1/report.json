@@ -1,0 +1,26 @@
+{
+    "filename": "covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586380899,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1402849",
+        "date": "Wed, 08 Apr 2020 21:21:39 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"1567e1-5a2c85cdfe810\"",
+        "last-modified": "Wed, 08 Apr 2020 14:31:58 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "345354803 343204295",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 df26103dc140569d7032449c70c3b141.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "FRA2-C2",
+        "x-amz-cf-id": "6WVgNshtU1UsdXjvA8g2LIusT0XRyZsgidD_lbTFXAsxyxAfvLIDVg==",
+        "age": "215"
+    },
+    "lang": "en",
+    "size": 1402849,
+    "modified": 1586356318
+}

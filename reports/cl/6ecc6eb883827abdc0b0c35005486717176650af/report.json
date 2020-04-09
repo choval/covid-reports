@@ -1,0 +1,24 @@
+{
+    "filename": "1749205.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/1749205.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586380730,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 08 Apr 2020 21:18:34 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Wed, 08 Apr 2020 21:05:27 GMT",
+        "etag": "\"29fe6-5a2cddc0713c0\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_168_1958315=l9uXfDwwdVa\/+\/S7PNtUArk\/jl4AAAAA54pDBXpPRdSS2cVJjTqq1g==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "6-8453559-8453600 NNNY CT(0 0 0) RT(1586380729304 337) q(0 0 0 0) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 172006,
+    "modified": 1586379927
+}

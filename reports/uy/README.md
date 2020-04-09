@@ -6,6 +6,14 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-09
+
+* [informacion-interes-actualizada-sobre-coronavirus-covid-19-1](d4a167fce353db83cfe6cded0f528bf3ba10763d/file.pdf) @13:57 GMT
+
+## 2020-04-08
+
+* [complementacion-servicios-publicos-frente-pandemia-covid-19](a132d63ad0089b22c0866bb7bbc5f57888acfc68/file.pdf) @21:32 GMT
+
 ## 2020-04-07
 
 * [informe-situacion-relacion-coronavirus-covid-19-2](4b77e3d37e830c5c8dbf23c4b673e8585dec4252/file.pdf) @23:10 GMT

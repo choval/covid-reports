@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-surveillance-strategy-9-Apr-2020.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-surveillance-strategy-9-Apr-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586439961,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "363292",
+        "date": "Thu, 09 Apr 2020 13:46:01 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"58b1c-5a2d617ce5708\"",
+        "last-modified": "Thu, 09 Apr 2020 06:54:49 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "350925580 348913107",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 189ad47cf7c6f3a8b745cb053efec004.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "MIA3-C1",
+        "x-amz-cf-id": "L4nH4OVH1dFJGUQrmzTRPEKUymJU3xIgOTC1Rfb5nQHAWloLamdYcg==",
+        "age": "284"
+    },
+    "lang": "en",
+    "size": 363292,
+    "modified": 1586415289
+}

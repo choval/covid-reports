@@ -10,6 +10,8 @@
 
 ## 2020-04-08
 
+* [2020-04-08-en.pdf](dccc8e29f8042dd389b1a361946f5d0529070bf5/file.pdf) @18:11 GMT
+* [2020-04-08-de.pdf](cda6741332cae290c83af1a2a19f28fd0284df51/file.pdf) @18:04 GMT
 * [2020-04-07-en.pdf](ebccbcac5de335cde23c43790767443185acca09/file.pdf) @06:12 GMT
 
 ## 2020-04-07
@@ -162,13 +164,13 @@
 
 ## 2020-03-11
 
-* [Coronavirus\_Handzettel\_barrierefrei\_DE\_barr.pdf](1f7ea7c2a9420a018db0aa3693dd04ab7d54d905/file.pdf) @15:21 GMT
 * [Coronavirus\_Handzettel\_barrierefrei\_ENG\_barr.pdf](af1bb854e03c8afb229817e5d81bbe789614ff19/file.pdf) @15:21 GMT
 * [Coronavirus\_Handzettel\_barrierefrei\_tu\_\_rkisch\_barr.pdf](b98cd96edece38dd5430149567e667c5534f5a58/file.pdf) @15:21 GMT
+* [Coronavirus\_Handzettel\_barrierefrei\_DE\_barr.pdf](1f7ea7c2a9420a018db0aa3693dd04ab7d54d905/file.pdf) @15:21 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_DE.pdf](03c676043c8b7073b16ee7ae3193d43ddeb8aa27/file.pdf) @08:13 GMT
-* [Merkblatt-Bildungseinrichtungen-Coronavirus\_\_EN.pdf](abfcf6f14cbec32215f3d8b770977fca9af659fb/file.pdf) @08:13 GMT
-* [Merkblatt-Bildungseinrichtungen-Coronavirus\_TR.pdf](aa2a228c9a629d5408ebb3350c4e8db408a46f84/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_RU.pdf](8adf4f98c357d48776641c59527c63126322f938/file.pdf) @08:13 GMT
+* [Merkblatt-Bildungseinrichtungen-Coronavirus\_TR.pdf](aa2a228c9a629d5408ebb3350c4e8db408a46f84/file.pdf) @08:13 GMT
+* [Merkblatt-Bildungseinrichtungen-Coronavirus\_\_EN.pdf](abfcf6f14cbec32215f3d8b770977fca9af659fb/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_AR.pdf](1aa78906c4e83149bf5d121eda00a16d3093d7ea/file.pdf) @08:13 GMT
 
 ## 2020-03-10

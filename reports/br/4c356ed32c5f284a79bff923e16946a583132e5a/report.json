@@ -1,0 +1,26 @@
+{
+    "filename": "Nota-Informativa-campanhas-vacina----o-antirr--bica.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/08\/Nota-Informativa-campanhas-vacina----o-antirr--bica.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586388121,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "101320",
+        "date": "Wed, 08 Apr 2020 23:22:00 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_8B2699D88ED41CEE999EE2D0CEE7132D_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 08 Apr 2020 22:56:54 GMT",
+        "etag": "\"18bc8-5a2cf6aa7e547\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 3553b0fd7e74e2b8ad09f7eb3c954e5a.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL56-C3",
+        "x-amz-cf-id": "h3b9Nq-O57ywnYE7YAfDMv75PwJI5ZJiR6n1XbVsl2vr4-Pjb3Rgeg=="
+    },
+    "lang": "pt",
+    "size": 101320,
+    "modified": 1586386614
+}

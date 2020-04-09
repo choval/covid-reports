@@ -5,8 +5,13 @@
 * [https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0](https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0)
 
 
+## 2020-04-09
+
+* [COVID-19-surveillance-strategy-9-Apr-2020.pdf](5dbfc0af6a73c3b51cd5c10a3716cafa6a4b1dff/file.pdf) @06:54 GMT
+
 ## 2020-04-08
 
+* [covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf](c0e1bef2943f3a86468258c962c7c1ad11f7a6a1/file.pdf) @14:31 GMT
 * [covid-19-guidance-discharge-and-ending-isolation-first update.pdf](51ef080bea3447120176d6dbeaab30ccf29682de/file.pdf) @12:10 GMT
 * [COVID-19-use-face-masks-community.pdf](efd84c0e57095bef6407b30a2d53134e5f54d3f0/file.pdf) @09:10 GMT
 

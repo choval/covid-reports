@@ -8,6 +8,7 @@
 
 ## 2020-04-08
 
+* [fb47c7-COVID19PY.pdf](8dd0e5392e49906e23757452c4db725f037056ce/file.pdf) @16:29 GMT
 * [5efbda-MedicamentoseinsumosCOVID19070420202.pdf](352da522d37aabb6b8796be83e3355e5ddaea3bc/file.pdf) @00:30 GMT
 * [b1e14f-EquipamientosambulanciasalimentacinyotrosCOVID1907042020.pdf](6e1b7e81334f7a9942978ef02be34fa3d61f8c1e/file.pdf) @00:24 GMT
 

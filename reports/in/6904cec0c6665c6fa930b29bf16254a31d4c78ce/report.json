@@ -1,0 +1,29 @@
+{
+    "filename": "NBTCGUIDANCEFORCOVID19.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/NBTCGUIDANCEFORCOVID19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586439990,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Thu, 09 Apr 2020 08:36:07 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "5815400",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2573926",
+        "expires": "Sat, 09 May 2020 08:45:15 GMT",
+        "date": "Thu, 09 Apr 2020 13:46:29 GMT"
+    },
+    "lang": "en,hi",
+    "size": 5815400,
+    "modified": 1586421367
+}

@@ -5,6 +5,10 @@
 * [https://coronavirus.gob.mx/noticias/](https://coronavirus.gob.mx/noticias/)
 
 
+## 2020-04-09
+
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.08.pdf](3a584f7ab5dd6e9b1ab2926859a4cc670cf00470/file.pdf) @00:26 GMT
+
 ## 2020-04-08
 
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.07.pdf](0052e707db884d665f986d6fc13a0762b1c9184f/file.pdf) @00:18 GMT

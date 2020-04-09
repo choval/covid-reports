@@ -6,6 +6,11 @@
 * [https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030)
 
 
+## 2020-04-09
+
+* [Press\_Release\_(April09)\_Afternoon.pdf](69b7a2239d71eaa17c4924cec46156e994c16493/file.pdf) @19:26 GMT
+* [Press\_Release\_(April09)\_morning.pdf](ba96cb93d73bc6ffa44802f0e3113ecfd749abf4/file.pdf) @14:44 GMT
+
 ## 2020-04-08
 
 * [Press Release (April8)\_Afternoon.pdf](7b6a53d577bf4b753f103b559812160ac8a2262f/file.pdf) @21:06 GMT
