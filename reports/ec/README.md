@@ -7,6 +7,8 @@
 
 ## 2020-04-09
 
+* [Informe-de-Situación-No031-Casos-Coronavirus-Ecuador-09042020.pdf](6e1ac8cfa876dfd92f914265c3798a4092f3b212/file.pdf) @23:08 GMT
+* [Resoluciones-COE-Nacional-09-de-abril-2020.pdf](10efef4e0a655cf75a82b16e7d2dc39c3dba40e5/file.pdf) @21:20 GMT
 * [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-09042020-07h00.pdf](04f8c9f26f32840ed472ccb32b6f0b49197f4f3c/file.pdf) @15:54 GMT
 
 ## 2020-04-08

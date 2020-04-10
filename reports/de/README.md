@@ -10,6 +10,7 @@
 
 ## 2020-04-09
 
+* [2020-04-09-en.pdf](af23caa15f6228805d3da71915f6add2d4d6c522/file.pdf) @18:13 GMT
 * [Orientierungshilfe\_Buerger.pdf](1afed4a22b6c4520b0f0dcbd9688a0abd68c79d2/file.pdf) @17:35 GMT
 * [Stellungnahme-Covid-19\_Therapie\_Diagnose.pdf](8e5cb8d35a218574ea32e2e6844c0eeb9713ae05/file.pdf) @17:09 GMT
 * [2020-04-09-de.pdf](8a797a53650e2554bdb0c66c1245ce4aec81126a/file.pdf) @16:51 GMT

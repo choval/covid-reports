@@ -1,0 +1,30 @@
+{
+    "filename": "2020-04-09-guidance-for-provision-of-midwife-led-settings-and-home-birth-in-the-evolving-coronavirus-covid-19-pandemic.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-04-09-guidance-for-provision-of-midwife-led-settings-and-home-birth-in-the-evolving-coronavirus-covid-19-pandemic.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586488458,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "167716",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 10 Apr 2020 15:17:28 GMT",
+        "last-modified": "Thu, 09 Apr 2020 18:53:41 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D60EA02FEA9FB0\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=gMmQZ3hF1gEkAAAAZDg2NDhhZGItNDhlNi00MjE3LTk1NWYtZDczYjBiN2Q5ZWIztpjgK0Txh0l6XUXZizsP_ViP-J41; expires=Thu, 18-Jun-2020 13:57:28 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Fri, 10 Apr 2020 03:17:28 GMT"
+    },
+    "lang": "en",
+    "size": 167716,
+    "modified": 1586458421
+}

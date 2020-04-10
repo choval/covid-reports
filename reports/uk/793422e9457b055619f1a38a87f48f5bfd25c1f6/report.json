@@ -1,0 +1,30 @@
+{
+    "filename": "2020-04-09-guidance-for-maternal-medicine-services-in-the-evolving-coronavirus-covid-19-pandemic.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-04-09-guidance-for-maternal-medicine-services-in-the-evolving-coronavirus-covid-19-pandemic.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586488452,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "300681",
+        "content-type": "application\/pdf",
+        "expires": "Fri, 10 Apr 2020 15:17:23 GMT",
+        "last-modified": "Thu, 09 Apr 2020 18:53:40 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D60EA02F1882A0\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=Q4gAZHhF1gEkAAAANzU5NDA1NGItNTNkYi00ZTU4LTk3NmEtNzFkMGQ4YTRjOTAyDvsSpG7v1bMpvyIuEctVjIidZcA1; expires=Thu, 18-Jun-2020 13:57:23 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Fri, 10 Apr 2020 03:17:22 GMT"
+    },
+    "lang": "en",
+    "size": 300681,
+    "modified": 1586458420
+}

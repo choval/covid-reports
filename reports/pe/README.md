@@ -7,6 +7,7 @@
 
 ## 2020-04-09
 
+* [coronavirus080420.pdf](5b630817bc2bba0a3eb2d1701f550af715cb234b/file.pdf) @21:44 GMT
 * [coronavirus070420.pdf](559453dd92bb434089f3b5f1f003a02120c6fc30/file.pdf) @01:18 GMT
 
 ## 2020-04-07

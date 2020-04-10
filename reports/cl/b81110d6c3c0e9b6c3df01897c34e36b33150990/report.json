@@ -1,0 +1,24 @@
+{
+    "filename": "Recomendaciones-de-actuacion-en-lugares-de-trabajo.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/Recomendaciones-de-actuacion-en-lugares-de-trabajo.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586480172,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 10 Apr 2020 00:55:58 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Thu, 09 Apr 2020 19:01:41 GMT",
+        "etag": "\"6f41b-5a2e03f43abd7\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_168_1958315=DiY\/CeHH63fumyS9PNtUAivEj14AAAAAz0b5MLJZkIjUbLR5NaQQQw==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "3-29011139-29011201 NNNY CT(0 0 0) RT(1586480171268 373) q(0 0 0 8) r(1 1) U6"
+    },
+    "lang": "es",
+    "size": 455708,
+    "modified": 1586458901
+}

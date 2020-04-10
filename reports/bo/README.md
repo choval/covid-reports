@@ -6,6 +6,10 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-10
+
+* [4040-ministerio-de-salud-reporta-268-casos-de-coronavirus-en-el-pais](0461af5283809e99b8edef140f7445a412a89ce5/file.pdf) @13:06 GMT
+
 ## 2020-04-09
 
 * [4039-gobierno-reporta-54-nuevos-casos-de-coronavirus-en-el-pais](3da1dcc21c612ac06ae77558aecbc2121d2f656a/file.pdf) @18:08 GMT

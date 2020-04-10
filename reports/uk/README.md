@@ -9,6 +9,11 @@
 
 ## 2020-04-09
 
+* [2020-04-09-coronavirus-covid-19-infection-in-pregnancy.pdf](57e3670379eedb5ddb1d677567ce6be956d75fea/file.pdf) @18:53 GMT
+* [2020-04-09-guidance-for-provision-of-midwife-led-settings-and-home-birth-in-the-evolving-coronavirus-covid-19-pandemic.pdf](a290173a0ac360acbc4199e2c08e0340ffe29e12/file.pdf) @18:53 GMT
+* [2020-04-09-guidance-for-maternal-medicine-services-in-the-evolving-coronavirus-covid-19-pandemic.pdf](793422e9457b055619f1a38a87f48f5bfd25c1f6/file.pdf) @18:53 GMT
+* [2020-03-30-guidance-for-antenatal-and-postnatal-services-in-the-evolving-coronavirus-covid-19-pandemic-200409.pdf](2053f3934e47a535ad1e28ecbdaefb0009add8d0/file.pdf) @18:53 GMT
+* [2020-03-30-occupational--health--advice--for--employers-and--pregnant-women-during-the-covid-19-pandemic-200409.pdf](dd3ff544d61aaa73d3c6a8bb4e2f73d1adc1d370/file.pdf) @18:53 GMT
 * [Guidance\_for\_Laboratories\_offering\_support\_for\_COVID-19\_testing\_\_for\_publication\_\_2\_.pdf](fcfe5aaa2bc608f0268a3484c6824c419c276e89/file.pdf) @17:43 GMT
 * [guidance-for-stepdown-of-infection-control-precautions-and-discharging-covid-19-patients](c1c747a86528eab1e9241299925a22ce6409dbd4/file.pdf) @13:55 GMT
 * [Covid-19\_fact\_sheet.pdf](da833790107bb8f28b1734ce1795dfd14692956d/file.pdf) @13:21 GMT
