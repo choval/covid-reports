@@ -1,0 +1,19 @@
+{
+    "filename": "img_datos_marzo_2020_31.jpeg",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/img_cvd\/img_datos_marzo_2020_31.jpeg",
+    "output": "file.jpeg",
+    "downloaded": 1586560936,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 10 Apr 2020 23:22:16 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 10 Apr 2020 19:11:21 GMT",
+        "etag": "\"13f76-5a2f47fa82840\"",
+        "accept-ranges": "bytes",
+        "content-length": "81782",
+        "content-type": "image\/jpeg"
+    },
+    "lang": "es",
+    "size": 81782,
+    "modified": 1586545881
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "Apendice-covid-V9.4.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/10\/Apendice-covid-V9.4.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586560768,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "5062576",
+        "date": "Fri, 10 Apr 2020 23:19:28 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1586560769.273.980.480120; Path=\/; Secure; HttpOnly",
+        "last-modified": "Fri, 10 Apr 2020 22:38:31 GMT",
+        "etag": "\"4d3fb0-5a2f76490193a\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4147caa9bd44f24d893d2277818f3b16.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C2",
+        "x-amz-cf-id": "OG2hy-vIGAbTocWbgpZK7T9jcXEDdON_2hNq0Pu8Vf4pD0zJgpwZQg=="
+    },
+    "lang": "pt",
+    "size": 5062576,
+    "modified": 1586558311
+}

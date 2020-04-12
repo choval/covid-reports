@@ -6,6 +6,10 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-11
+
+* [4041-bolivia-acumula-275-casos-confirmados-de-coronavirus-y-20-fallecidos-en-un-mes](6489f537ba9f784eb27ce450a0016067482f503c/file.pdf) @13:40 GMT
+
 ## 2020-04-10
 
 * [4040-ministerio-de-salud-reporta-268-casos-de-coronavirus-en-el-pais](0461af5283809e99b8edef140f7445a412a89ce5/file.pdf) @13:06 GMT

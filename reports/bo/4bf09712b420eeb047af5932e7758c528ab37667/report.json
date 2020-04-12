@@ -1,0 +1,22 @@
+{
+    "filename": "4042-el-pais-suma-300-casos-de-coronavirus-y-casi-la-mitad-estan-en-santa-cruz",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4042-el-pais-suma-300-casos-de-coronavirus-y-casi-la-mitad-estan-en-santa-cruz",
+    "output": "file.pdf",
+    "downloaded": 1586694711,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 12 Apr 2020 12:36:13 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=8s1ckcl7ef2vbhfe3rqo27l7q6; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Sun, 12 Apr 2020 12:36:13 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 684635,
+    "modified": 1586694719
+}

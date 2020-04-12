@@ -1,0 +1,30 @@
+{
+    "filename": "situation-report---10-apr-2020-(amended).pdf",
+    "uri": "https:\/\/www.moh.gov.sg\/docs\/librariesprovider5\/local-situation-report\/situation-report---10-apr-2020-(amended).pdf",
+    "output": "file.pdf",
+    "downloaded": 1586561994,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "date": "Fri, 10 Apr 2020 23:39:54 GMT",
+        "content-disposition": "inline; filename=situation-report---10-apr-2020-(amended).pdf",
+        "content-security-policy": "default-src 'unsafe-inline' 'unsafe-eval' 'self' https:\/\/cse.google.com http:\/\/cse.google.com https:\/\/clients1.google.com http:\/\/clients1.google.com https:\/\/va.ecitizen.gov.sg http:\/\/assets.adobedtm.com http:\/\/dpm.demdex.net http:\/\/wogadobeanalytics.sc.omtrdc.net http:\/\/va.ecitizen.gov.sg https:\/\/www.google.com https:\/\/s3-us-west-2.amazonaws.com http:\/\/fonts.googleapis.com http:\/\/ajax.googleapis.com https:\/\/fonts.gstatic.com http:\/\/cm.everesttech.net http:\/\/fast.wogaa.demdex.net https:\/\/tools.onemap.sg https:\/\/www.gstatic.com https:\/\/forms.cwp.gov.sg https:\/\/www.google-analytics.com https:\/\/wogadobeanalytics.sc.omtrdc.net https:\/\/assets.juicer.io https:\/\/connect.facebook.net https:\/\/www.facebook.com https:\/\/www.juicer.io https:\/\/graph.facebook.com https:\/\/static.juicer.io https:\/\/i.imgur.com https:\/\/scontent.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/twitter.com https:\/\/wogaa.demdex.net https:\/\/www.googleapis.com https:\/\/stats.g.doubleclick.net https:\/\/www.googletagmanager.com https:\/\/www.onemap.sg http:\/\/www.moh.gov.sg http:\/\/www.youtube.com https:\/\/www.youtube.com https:\/\/static.pigeonhole.at https:\/\/pigeonhole.at *.hotjar.com:* *.hotjar.io wss:\/\/*.hotjar.com form.gov.sg https:\/\/www.googleadservices.com\/pagead\/conversion_async.js https:\/\/googleads.g.doubleclick.net https:\/\/www.google.com.sg assets.dcube.cloud assets.wogaa.sg assets.adobedtm.com https:\/\/snowplow-web.wogaa.sg https:\/\/youtu.be; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: *;",
+        "last-modified": "Fri, 10 Apr 2020 17:48:23 GMT",
+        "set-cookie": "ASP.NET_SessionId=3ijktiu4jvi2gvl44fhwbwhx; path=\/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "cache-control": "max-age=86400, public",
+        "x-xss-protection": "1; mode=block",
+        "x-access-control-allow-origin": "*",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 eb083428a00073810c04a8eb17b6bb24.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-C3",
+        "x-amz-cf-id": "6oklF_wdp1fS7uT1H_ZIqgxYZehkLBPGXY9A4zrWKMxok7V25PsNnw=="
+    },
+    "lang": "en",
+    "size": 1052855,
+    "modified": 1586540903
+}

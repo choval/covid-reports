@@ -1,0 +1,20 @@
+{
+    "filename": "circolare_controlli_festivita_di_pasqua_9.4.2020.pdf",
+    "uri": "https:\/\/www.interno.gov.it\/sites\/default\/files\/circolare_controlli_festivita_di_pasqua_9.4.2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586561424,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 09 Apr 2020 14:45:26 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"71797d817ded61:0\"",
+        "content-length": "72188",
+        "date": "Fri, 10 Apr 2020 23:30:24 GMT",
+        "connection": "keep-alive",
+        "server": "Microsoft-IIS\/10.0"
+    },
+    "lang": "it",
+    "size": 72188,
+    "modified": 1586443526
+}

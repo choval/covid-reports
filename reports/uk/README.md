@@ -7,6 +7,10 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-10
+
+* [Coronavirus\_\_COVID-19\_\_-\_personal\_protective\_equipment\_\_PPE\_\_plan.pdf](6bfbca19dd0166ba7706e4d31a9896f69d156d33/file.pdf) @20:03 GMT
+
 ## 2020-04-09
 
 * [2020-04-09-coronavirus-covid-19-infection-in-pregnancy.pdf](57e3670379eedb5ddb1d677567ce6be956d75fea/file.pdf) @18:53 GMT

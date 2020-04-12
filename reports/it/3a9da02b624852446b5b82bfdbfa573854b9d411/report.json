@@ -1,0 +1,20 @@
+{
+    "filename": "Bollettino-sorveglianza-integrata-COVID-19_9-aprile-2020.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Bollettino-sorveglianza-integrata-COVID-19_9-aprile-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586561222,
+    "headers": {
+        "http-status": 200,
+        "content-length": "13905327",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 10 Apr 2020 14:42:39 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"137b24846fd61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Fri, 10 Apr 2020 23:27:02 GMT"
+    },
+    "lang": "it,en",
+    "size": 13905327,
+    "modified": 1586529759
+}

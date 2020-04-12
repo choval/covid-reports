@@ -6,6 +6,10 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-11
+
+* [informacion-actualizada-sobre-coronavirus-sobre-casos-covid-19-0](80f324e0aca907a425f5bc513687dcff266d80c8/file.pdf) @13:53 GMT
+
 ## 2020-04-10
 
 * [informacion-interes-actualizada-sobre-coronavirus-covid-19-2](50ebc5b7b046adc68171fde6da89ac53030e5afb/file.pdf) @03:14 GMT

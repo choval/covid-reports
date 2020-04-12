@@ -1,0 +1,19 @@
+{
+    "filename": "f3c9f3-GuaMSPBSAislamientoDomiciliarioenCasosLevesdeCOVID19.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/f3c9f3-GuaMSPBSAislamientoDomiciliarioenCasosLevesdeCOVID19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586695284,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 12 Apr 2020 12:41:21 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "14890624",
+        "last-modified": "Sat, 11 Apr 2020 19:57:30 GMT",
+        "etag": "\"e33680-5a309428f50a4\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 14890624,
+    "modified": 1586635050
+}

@@ -5,6 +5,10 @@
 * [https://coronavirus.gob.mx/noticias/](https://coronavirus.gob.mx/noticias/)
 
 
+## 2020-04-11
+
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.10.pdf](83159b7eef2c8fe22bc42329e920304db3e8a652/file.pdf) @00:14 GMT
+
 ## 2020-04-10
 
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.09.pdf](16a623fc07694c133f77eb2fdf09b2fa2d693b68/file.pdf) @02:14 GMT
@@ -107,8 +111,8 @@
 
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.14.pdf](ab41859cbc5b744c17b05f2785852e48bc1c8850/file.pdf) @02:15 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.11.pdf](6c9b2cc3519aafdd0a14757c92ac42c06d354f47/file.pdf) @01:12 GMT
-* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.13.pdf](88a61960da841bbd79be4ddea3f5b1dba9fa83f0/file.pdf) @01:12 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.12.pdf](c6848ab401d2600967812d5fe9d82bb7c936e123/file.pdf) @01:12 GMT
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.13.pdf](88a61960da841bbd79be4ddea3f5b1dba9fa83f0/file.pdf) @01:12 GMT
 
 ## 2020-03-11
 

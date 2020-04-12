@@ -1,0 +1,31 @@
+{
+    "filename": "informacion-interes-actualizada-sobre-coronavirus-covid-19-3",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informacion-interes-actualizada-sobre-coronavirus-covid-19-3",
+    "output": "file.pdf",
+    "downloaded": 1586695468,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 12 Apr 2020 12:43:07 GMT",
+        "server": "Apache",
+        "x-frame-options": "ALLOW-FROM",
+        "x-powered-by": "PHP\/7.3.11",
+        "cache-control": "max-age=0, no-store",
+        "x-drupal-dynamic-cache": "MISS",
+        "link": "<https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informacion-interes-actualizada-sobre-coronavirus-covid-19-3>; rel=\"canonical\", <https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informacion-interes-actualizada-sobre-coronavirus-covid-19-3>; rel=\"revision\"",
+        "x-ua-compatible": "IE=edge",
+        "content-language": "es",
+        "x-content-type-options": "nosniff",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "vary": "Cookie",
+        "x-generator": "Drupal 8 (https:\/\/www.drupal.org)",
+        "content-security-policy": "frame-ancestors",
+        "x-drupal-cache": "HIT",
+        "last-modified": "Sun, 12 Apr 2020 12:43:06 GMT",
+        "etag": "\"1586695386\"",
+        "content-type": "text\/html; charset=UTF-8",
+        "set-cookie": "ruta.msp=.prod-punif-geote-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 87880,
+    "modified": 1586695472
+}

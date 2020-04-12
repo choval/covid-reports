@@ -1,0 +1,31 @@
+{
+    "filename": "MHAOrderDated1042020alongwith5thAddendumgivingexemptiontoFishingMarineandAquacultureIndustry.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/MHAOrderDated1042020alongwith5thAddendumgivingexemptiontoFishingMarineandAquacultureIndustry.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586612655,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sat, 11 Apr 2020 09:02:31 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "1052568",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "mpulse_origin_time": "88",
+        "mpulse_cdn_cache": "MISS",
+        "cache-control": "max-age=2583633",
+        "expires": "Mon, 11 May 2020 11:24:48 GMT",
+        "date": "Sat, 11 Apr 2020 13:44:15 GMT"
+    },
+    "lang": "en,hi",
+    "size": 1052568,
+    "modified": 1586595751
+}

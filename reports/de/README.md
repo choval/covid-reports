@@ -8,6 +8,16 @@
 * [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
 
 
+## 2020-04-11
+
+* [2020-04-11-en.pdf](b6f40be45fb4e68376bb226eac733baf8f25e68b/file.pdf) @17:18 GMT
+* [2020-04-11-de.pdf](2be19e3dc9d50e70129592a280c8aed4207b6c3d/file.pdf) @15:38 GMT
+
+## 2020-04-10
+
+* [2020-04-10-en.pdf](ba567df130bae67b37e2be3636a8f9e925ec19b8/file.pdf) @14:19 GMT
+* [2020-04-10-de.pdf](ba68baca462719890eea6b00afe9a086898daca8/file.pdf) @14:14 GMT
+
 ## 2020-04-09
 
 * [2020-04-09-en.pdf](af23caa15f6228805d3da71915f6add2d4d6c522/file.pdf) @18:13 GMT
@@ -138,8 +148,8 @@
 
 ## 2020-03-17
 
-* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [COVID-19\_Tipps\_bei\_haeuslicher\_Quarantaene.pdf](8408a50591ab330b28f1015dae6ee0c7ae20b5ef/file.pdf) @11:55 GMT
+* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [BMG\_C-19\_200316\_info\_BW\_Pflegeheim.pdf](0afe20a3730a82d6332eab0a96254e5ec5d48315/file.pdf) @10:55 GMT
 * [2020-03-16-en.pdf](8f0dc96a7bbe27d96f0b67085e74c87a1bbd24a0/file.pdf) @08:18 GMT
 * [2020-03-16-de.pdf](93b43ff3f586cb325a829dec8f52c243e6d9d8aa/file.pdf) @08:16 GMT
@@ -147,8 +157,8 @@
 
 ## 2020-03-16
 
-* [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
 * [BMG\_C-19\_200315\_info\_VT\_Krankenhaus.pdf](4e9956a6351bb888c60d57e03a057b86d7ecbcac/file.pdf) @14:26 GMT
+* [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
 * [2020-03-15-en.pdf](ed7447aaeef86b94fc307537e99157190cc9217b/file.pdf) @07:30 GMT
 
 ## 2020-03-14
@@ -171,8 +181,8 @@
 
 ## 2020-03-11
 
-* [Coronavirus\_Handzettel\_barrierefrei\_ENG\_barr.pdf](af1bb854e03c8afb229817e5d81bbe789614ff19/file.pdf) @15:21 GMT
 * [Coronavirus\_Handzettel\_barrierefrei\_tu\_\_rkisch\_barr.pdf](b98cd96edece38dd5430149567e667c5534f5a58/file.pdf) @15:21 GMT
+* [Coronavirus\_Handzettel\_barrierefrei\_ENG\_barr.pdf](af1bb854e03c8afb229817e5d81bbe789614ff19/file.pdf) @15:21 GMT
 * [Coronavirus\_Handzettel\_barrierefrei\_DE\_barr.pdf](1f7ea7c2a9420a018db0aa3693dd04ab7d54d905/file.pdf) @15:21 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_DE.pdf](03c676043c8b7073b16ee7ae3193d43ddeb8aa27/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_RU.pdf](8adf4f98c357d48776641c59527c63126322f938/file.pdf) @08:13 GMT

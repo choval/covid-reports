@@ -1,0 +1,19 @@
+{
+    "filename": "medidas_administ_temp_aten_activ_concent_masiva_v15_11042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/medidas_administ_temp_aten_activ_concent_masiva_v15_11042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586694763,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 12 Apr 2020 12:32:43 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Sat, 11 Apr 2020 23:03:01 GMT",
+        "etag": "\"2bdec-5a30bda00b340\"",
+        "accept-ranges": "bytes",
+        "content-length": "179692",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 179692,
+    "modified": 1586646181
+}

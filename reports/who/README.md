@@ -5,6 +5,10 @@
 * [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 
 
+## 2020-04-10
+
+* [20200410-sitrep-81-covid-19.pdf](2c87c08295937932af9f255c117b09284fd79f8b/file.pdf) @18:57 GMT
+
 ## 2020-04-09
 
 * [20200409-sitrep-80-covid-19.pdf](a09adf095aa9e3c99fb625dd60dd8a0de8aabf73/file.pdf) @19:41 GMT

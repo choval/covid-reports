@@ -7,6 +7,7 @@
 
 ## 2020-04-10
 
+* [1606-558-casos-confirmados-por-covid-19](4fcca1337ebda381cb23259fcff44547d9b8ad01/file.pdf) @23:22 GMT
 * [1604-costa-rica-registra-su-tercer-fallecimiento-de-paciente-covid-19](200be591c11e9ba20de0c3bd9971f0d278fc78a0/file.pdf) @00:57 GMT
 * [1605-539-casos-confirmados-por-covid-19](7cc446cfa34671633eceb4e66f8ee4975d51407a/file.pdf) @00:56 GMT
 

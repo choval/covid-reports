@@ -6,6 +6,16 @@
 * [https://www.argentina.gob.ar/coronavirus/informe-diario](https://www.argentina.gob.ar/coronavirus/informe-diario)
 
 
+## 2020-04-11
+
+* [10-04-20\_reporte\_vespertino\_covid\_19\_0.pdf](4ef109557785c6f1fb15e752b126724fb932a3ec/file.pdf) @00:02 GMT
+
+## 2020-04-10
+
+* [10-04-20\_reporte-matutino-covid-19\_0.pdf](a3660e8a045eab3f59d2af1fedce9bd9b302b150/file.pdf) @14:52 GMT
+* [10-04-20\_reporte-matutino-covid-19.pdf](cb489834ea0394998b2779ebd036709716e5374b/file.pdf) @14:47 GMT
+* [09-04-20\_reporte-vespertino-covid-19.pdf](9b5e62d6e9e9f04dd393404757e98eb527874d80/file.pdf) @14:32 GMT
+
 ## 2020-04-09
 
 * [09-04-20-reporte-matutino-covid-19.pdf](c65324cb51038c1d6140ff059fd2c4f3d6e1a76e/file.pdf) @18:05 GMT

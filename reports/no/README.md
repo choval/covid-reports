@@ -5,6 +5,10 @@
 * [https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/](https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/)
 
 
+## 2020-04-11
+
+* [2020.04.11---dagsrapport-covid-19.pdf](b564f1d3ebe8cf70478f28db3a3e71655de5ae91/file.pdf) @10:58 GMT
+
 ## 2020-04-10
 
 * [2020-04-10\_daglig\_rapport\_v2.pdf](b7bbc4a3a8de153affbf8a700a031ad3a135a3d1/file.pdf) @12:12 GMT
@@ -60,17 +64,17 @@
 
 ## 2020-03-29
 
-* [2020.03.29-dagsrapport-covid-19.pdf](6f7b95eaf1a5a6df3957417c4e9541c643e037b6/file.pdf) @11:29 GMT
 * [2020.03.29-dagsrapport-covid-19.pdf](daa0d4191869b939c3461cdd598852aa511b9a9c/file.pdf) @11:29 GMT
-* [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](9b4b343eb15516ef6dd42b94f1a00d20a35fd572/file.pdf) @08:27 GMT
+* [2020.03.29-dagsrapport-covid-19.pdf](6f7b95eaf1a5a6df3957417c4e9541c643e037b6/file.pdf) @11:29 GMT
 * [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](1df677529193d8e2432d8b115d84064528622b38/file.pdf) @08:27 GMT
+* [2020.03.26---dagsrapport-covid-19\_v4\_til-publisering.pdf](9b4b343eb15516ef6dd42b94f1a00d20a35fd572/file.pdf) @08:27 GMT
 
 ## 2020-03-28
 
 * [2020.03.28---dagsrapport-covid-19-v2.pdf](2daabd1b572de4367e8f98037117e98c4cdc2909/file.pdf) @14:31 GMT
 * [2020.03.28---dagsrapport-covid-19-v2.pdf](f5a812e112bf18a8271dc5a3343c71a7dab62045/file.pdf) @14:31 GMT
-* [2020.03.28---dagsrapport-covid19.pdf](e3554ab060f42098c06eed4cb78e1bcd553a5440/file.pdf) @11:59 GMT
 * [2020.03.28---dagsrapport-covid19.pdf](138e2d1e359e56a42b7e7f83a3f1aecbd7bb937e/file.pdf) @11:59 GMT
+* [2020.03.28---dagsrapport-covid19.pdf](e3554ab060f42098c06eed4cb78e1bcd553a5440/file.pdf) @11:59 GMT
 
 ## 2020-03-27
 
@@ -89,8 +93,8 @@
 
 ## 2020-03-24
 
-* [2020.03.24---dagsrapport-covid-19-korrigert.pdf](ccc48459c2b4ed6654750cb0e78ec0432b8557ba/file.pdf) @21:22 GMT
 * [2020.03.24---dagsrapport-covid-19-korrigert.pdf](e91754b32f5f67cd31aee9d3d7cdf30f1f753fc4/file.pdf) @21:22 GMT
+* [2020.03.24---dagsrapport-covid-19-korrigert.pdf](ccc48459c2b4ed6654750cb0e78ec0432b8557ba/file.pdf) @21:22 GMT
 
 ## 2020-03-23
 

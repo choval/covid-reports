@@ -1,0 +1,206 @@
+Characteristics of COVID-19 patients dying in Italy
+Report based on available data on April 9th
+, 2020
+1. Sample
+The present report describes characteristics of 16,654 COVID-19 patients dying in Italy.* Geographic
+distribution across the 19 regions and 2 autonomous provinces of Trento and Bozen is presented in the
+table below. Data are update to April 9th
+, 2020.
+Tabel 1. Geographic distribution of deceased patients COVID-2019 positive
+REGION N %
+Lombardia 9,731 58.4
+Emilia-Romagna 2,221 13.3
+Piemonte 1,210 7.3
+Veneto 756 4.5
+Liguria 510 3.1
+Marche 361 2.2
+Toscana 269 1.6
+Trento 255 1.5
+Lazio 230 1.4
+Puglia 224 1.3
+Bolzano 184 1.1
+Friuli-Venezia Giulia 172 1.0
+Campania 122 0.7
+Sicilia 105 0.6
+Valle d'Aosta 89 0.5
+Sardegna 57 0.3
+Umbria 50 0.3
+Calabria 46 0.3
+Abruzzo 33 0.2
+Basilicata 16 0.1
+Molise 13 0.1
+Total 16,654 100.0
+* COVID-19 related deaths presented in this report are those occurring in patients who test positive for
+SARSCoV-2 RT by PCR, independently from pre-existing diseases.
+2. Demographics
+Mean age of patients dying for COVID-2019 infection was 78 (median 80, range 5-100, IQR 73 -85). Women
+were 5,478 (32.9%). Figure 1 shows that median age of patients dying for COVID-2019 infection was more
+than 15 years higher as compared with the national sample diagnosed with COVID-2019 infection (median
+age 62 years). Figure 2 shows the absolute number of deaths by age group. Women dying for COVID-2019
+infection had an older age than men (median age women 83 - median age men 78).
+Figure 1. Median age of patients with COVID-2019 infection and COVID-19 positive deceased patients
+Figure 2. Absolute number of deaths by age group
+Note: For 1 deceased person age was not possible to be evaluated
+0 20 40 60 80 100 120
+Median age (years)
+COVID19-Diagnosed
+COVID19-Deaths
+1 0 2 11 39 134
+424
+1394
+2451
+1022
+0 0 5 25 114
+504
+1533
+3972
+4260
+762
+1 0 7 36 153
+638
+1957
+5366
+6711
+1784
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+<=9 10-19 20-29 30-39 40-49 50-59 60-69 70-79 80-89 90+
+Age-groups
+Women
+Men
+All
+Min Max
+3. Pre-existing conditions
+Table 1 presents most common comorbidities diagnosed before COVID-2019 infection. Data on diseases
+were based on chart review and was available on 1,453 patients dying in-hospital for whom it was possible
+to analyse clinic charts. Mean number of diseases was 3.3 (median 3, SD 1.9). Overall, 3.5% of the sample
+presented with a no comorbidities, 14.8% with a single comorbidity, 20.7% with 2, and 61.0% with 3 or
+more.
+Before hospitalization, 25% of COVID-19 positive deceased patients followed ACE-inhibitor therapy and 15%
+angiotensin receptor blockers-ARBs therapy. This information can be underestimated because data on drug
+treatment before admission were not always described in the chart.
+Table 1. Most common comorbidities observed in COVID-19 positive deceased patients
+Diseases N %
+Ischemic heart disease 407 28.0
+Atrial Fibrillation 328 22.6
+Heart failure 228 15.7
+Stroke 159 10.9
+Hypertension 1015 69.9
+Type 2-Diabetes 462 31.8
+Dementia 219 15.1
+COPD 256 17.6
+Active cancer in the past 5 years 236 16.2
+Chronic liver disease 54 3.7
+Chronic renal failure 335 23.1
+HIV 3 0.2
+Autoimmune diseases 46 3.2
+Obesity 156 10.7
+Number of comorbidities
+0 comorbidities 51 3.5
+1 comorbidity 215 14.8
+2 comorbidities 301 20.7
+3 comorbidities and over 886 61.0
+Table 3 presents the most common pre-existing chronic pathologies in patients who died, separately in men
+(n = 1,005) and women (n = 448). The average number of pathologies observed in women is 3.3 (median 3,
+Standard Deviation 1.9). In men the average number of pathologies observed is 3.2 (median 3, Standard
+Deviation 1.9).
+Tabella 3. Most common comorbidities observed in COVID-19 positive deceased patients by gender
+Women Men
+Diseases N % N %
+Ischemic heart disease 90 20.1 317 31.5
+Atrial Fibrillation 105 23.4 223 22.2
+Heart Failure 95 20.3 133 13.0
+Stroke 44 9.8 115 11.4
+Hypertension 330 73.7 685 68.2
+Type 2-Diabetes 133 29.7 329 32.7
+Dementia 88 19.6 131 13.0
+COPD 59 13.2 197 19.6
+Active cancer in the past 5 years 68 15.2 168 16.7
+Chronic liver disease 12 2.7 42 4.2
+Chronic renal failure 90 20.1 245 24.4
+HIV 0 0.0 3 0.3
+Autoimmune diseases 22 4.9 24 2.4
+Obesity 59 13.2 97 9.7
+Number of comorbidities
+0 comorbidities 9 2.0 42 4.2
+1 comorbidity 63 14.1 152 15.1
+2 comorbidities 100 22.3 201 20.0
+3 comorbidities and over 276 61.6 610 60.7
+4. Diagnosis of hospitalization
+In 93.5% of hospitalizations, conditions (e.g. pneumonia, respiratory failure) or symptoms (e.g. fever,
+dyspnoea, cough) compatible with COVID-19 were mentioned. In 91 cases (6.5% of cases) the diagnosis of
+hospitalization was not related to the infection. In 8 cases the diagnosis of hospitalization concerned
+exclusively neoplastic pathologies, in 40 cases cardiovascular pathologies (for example IMA, heart failure,
+stroke), in 13 cases gastrointestinal pathologies (for example cholecystitis, perforation of the intestine,
+intestinal obstruction, cirrhosis), in 30 cases other pathologies.
+5. Symptoms
+Figure 3 shows symptoms most commonly observed at hospital admission. Fever, dyspnoea and cough
+were the most commonly observed symptoms, while diarrhoea and haemoptysis were less commonly
+observed. Overall, 5.7% of patients did not present any symptoms at hospital admission.
+Figure 3. Most common symptoms observed in COVID-19 positive deceased patients
+6. Acute conditions
+Acute Respiratory Distress syndrome was observed in the majority of patients (96.7% of cases),
+followed by acute renal failure (23.5%). Superinfection was observed in 11.0% and acute cardiac injury in
+9.8% of cases.
+7. Treatments
+Antibiotics were used by 84% of patients during hospital stay, while less used were antivirals (55%) and
+corticosteroids (33%). Concomitant use of these 3 treatments was observed in 18.6% of cases.
+Out of COVID-19 positive deceased patients, 2.7% were treated with Tocilizumab during hospitalization.
+1
+6
+38
+72
+76
+0 20 40 60 80 100
+Fever
+Dyspnoea
+Cough
+Diarrhea
+Hemoptysis
+(%)
+8. Time-line
+Figure 4 shows, for COVID-19 positive deceased patients, the median times, in days, from the onset of
+symptoms to death (10 days), from the onset of symptoms to hospitalization (5 days) and from
+hospitalization to death (5 days). The time from hospitalization to death was 3 days longer in those who
+were transferred to intensive care than those who were not transferred (7 days vs. 4 days).
+Figure 4. Median hospitalization times (in days) in COVID-19 positive deceased patients
+9. Deaths under the age of 50 years
+As of April 9th
+, 197 out of the 16,654 (1.2%) positive COVID-19 patients under the age of 50 died. In
+particular, 44 of these were less than 40 years, 30 men and 14 women (age range between 5 and 39
+years). For 7 patients under the age of 40 years no clinical information is available; the remaining 29 had
+serious pre-existing pathologies (cardiovascular, renal, psychiatric pathologies, diabetes, obesity) and 8
+had no major pathologies.
+This report was produced by COVID-19 Surveillance Group
+Members of the COVID-19 Surveillance Group
+Luigi Palmieri, Xanthi Andrianou, Pierfrancesco Barbariol, Antonino Bella, Stefania Bellino, Eva Benelli,
+Luigi Bertinato, Stefano Boros, Gianfranco Brambilla, Giovanni Calcagnini, Marco Canevelli, Maria Rita
+Castrucci, Federica Censi, Alessandra Ciervo, Elisa Colaizzo, Fortunato D'Ancona, Martina Del Manso,
+Chiara Donfrancesco, Massimo Fabiani, Antonietta Filia, Marco Floridia, Marina Giuliano, Tiziana Grisetti,
+Martin Langer, Ilaria Lega, Cinzia Lo Noce, Pietro Maiozzi, Fiorella Malchiodi Albedi, Valerio Manno,
+Margherita Martini, Alberto Mateo Urdiales, Eugenio Mattei, Claudia Meduri, Paola Meli, Giada Minelli,
+Manuela Nebuloni, Lorenza Nisticò, Marino Nonis, Graziano Onder, Lucia Palmisano, Nicola Petrosillo,
+Patrizio Pezzotti, Flavia Pricci, Ornella Punzo, Vincenzo Puro, Valeria Raparelli, Giovanni Rezza, Flavia
+Riccardo, Maria Cristina Rota, Paolo Salerno, Debora Serra, Andrea Siddu, Paola Stefanelli, Manuela
+Tamburo De Bella, Dorina Tiple, Brigid Unim, Luana Vaianella, Nicola Vanacore, Monica Vichi, Emanuele
+Rocco Villani, Silvio Brusaferro.
+7
+4
+5
+5
+10
+0 5 10 15
+Onset of symptoms --> Death
+Onset of symptoms --> Hospitalization
+Hospitalization --> Death
+Hospitalization --> Death (NO ICU)
+Hospitalization --> Death (YES ICU)
+Median number of days
+
