@@ -1,0 +1,22 @@
+{
+    "filename": "4043-sube-a-27-las-muertes-y-a-330-los-casos-confirmados-de-covid-19-en-bolivia",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4043-sube-a-27-las-muertes-y-a-330-los-casos-confirmados-de-covid-19-en-bolivia",
+    "output": "file.pdf",
+    "downloaded": 1586783392,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 13 Apr 2020 13:14:13 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=4kt4225hce1vunfeu2vhcgou35; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Mon, 13 Apr 2020 13:14:13 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 672459,
+    "modified": 1586783401
+}
