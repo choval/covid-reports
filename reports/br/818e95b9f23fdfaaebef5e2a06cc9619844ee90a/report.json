@@ -1,0 +1,26 @@
+{
+    "filename": "Protocolo-de-Manejo-Cl--nico-para-o-Covid-19.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/14\/Protocolo-de-Manejo-Cl--nico-para-o-Covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586868667,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "665614",
+        "date": "Tue, 14 Apr 2020 12:51:06 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_13C3BD505EC95D20E9904885CDFC9E01_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Tue, 14 Apr 2020 10:52:43 GMT",
+        "etag": "\"a280e-5a33dffcab01a\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 33c513921d74e5997b0cef91e65c4c9e.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "ATL50-C1",
+        "x-amz-cf-id": "Xk6I9XGL0vR_fiAEHcHmtjXnt-c9lMFoHw2_U9PySFymoDQtCdsh3w=="
+    },
+    "lang": "pt",
+    "size": 665614,
+    "modified": 1586861563
+}

@@ -1,0 +1,336 @@
+Suggested citation: European Centre for Disease Prevention and Control. Contact tracing: public health management of
+persons, including healthcare workers, having had contact with COVID-19 cases in the European Union – second update, 8
+April 2020. Stockholm: ECDC; 2020.
+© European Centre for Disease Prevention and Control, Stockholm, 2020
+si
+TECHNICAL REPORT
+Contact tracing: public health management of
+persons, including healthcare workers, having
+had contact with COVID-19 cases in the European
+Union – second update
+8 April 2020
+Background
+This document outlines the key steps of contact tracing, including contact identification, listing and follow-up, in
+the context of the COVID-19 response.
+Contact management is based on the latest available evidence, as outlined below.
+• Current estimates suggest a median incubation period from five to six days, with a range from 1 to 14
+days. A recent modelling study confirmed that it remains prudent to consider an incubation period of up
+to 14 days [1,2].
+• A case may already be infectious up to 48 hours before the onset of symptoms. A recent study reported
+that 12.6% of case reports indicated pre-symptomatic transmission [3]. In addition, the proportion of pre-
+symptomatic transmission has been inferred through modelling and was estimated to be – in the presence
+of control measures – at around 48% and 62% in Singapore and China (Tianjin data), respectively [4].
+Other studies have shown no significant difference in viral load in asymptomatic and symptomatic
+patients, indicating the potential of virus transmission from asymptomatic patients [5-7].
+• Transmission is believed to be mainly via respiratory droplets and direct contact with infected people, and
+indirect contact with surfaces or objects in the immediate environment [8]. Recent experimental studies
+carried out under highly controlled conditions have demonstrated the survival of SARS-CoV-2 on different
+surfaces as well as in aerosol. Different levels of environmental contamination have been described in
+rooms of COVID-19 patients [9-11].
+• Up to 10% of reported cases in China [12] and up to 9% of cases in Italy were among healthcare workers
+[13]. It is likely that nosocomial outbreaks play an important role in amplifying local outbreaks, and they
+disproportionately affect elderly and vulnerable populations.
+Scope of this document
+This document aims to help EU/EEA public health authorities in the tracing and management of persons,
+including healthcare workers, who had contact with COVID-19 cases. It should be implemented in combination
+with non-pharmaceutical measures as appropriate [14].
+ECDC TECHNICAL REPORT Public health management of persons having had contact with cases of COVID-19 in the EU
+2
+Purpose of contact tracing
+The purpose of identifying and managing the contacts of probable or confirmed COVID-19 cases is to rapidly
+identify secondary cases that may arise after transmission from the primary known cases in order to intervene
+and interrupt further onward transmission. This is achieved through:
+• the prompt identification of contacts of a probable or confirmed case of COVID-19;
+• providing contacts with information on self-quarantine, proper hand hygiene and respiratory etiquette
+measures, and advice around what to do if they develop symptoms;
+• timely laboratory testing for all those with symptoms.
+Contact tracing is an essential measure to fight the ongoing epidemic of COVID-19, in conjunction with active
+case finding and testing, and in synergy with other measures such as physical distancing. Each country will need
+to adapt their response to the local epidemiological situation and according to available resources. The rigorous
+application of contact tracing measures during the period when only sporadic cases are being observed can
+reduce further transmission and have a major impact on the spread of the outbreak. However, if resources allow,
+it should also be considered for application in geographical locations of more widespread transmission. Even if
+not all contacts of each case are identified and traced, contact tracing can still contribute to reducing
+transmission in combination with other measures such as physical distancing [15-17].
+Emerging evidence from the response in China and Singapore has indicated that efficient contact tracing helped
+reduce the time from symptom onset to isolation, and may have substantially reduced the likelihood of ongoing
+transmission [18,19]. Contact tracing and quarantine have also been used during periods of widespread
+transmission in Wuhan and South Korea, together with a range of other measures [12,20]. Contact tracing also
+contributes to better understanding of the epidemiology of COVID-19.
+Countries in the EU/EEA that still have a limited number of cases should focus their public health efforts on
+identifying cases and tracing their contacts.
+In countries with widespread transmission in some regions but limited transmission in others, contact tracing
+plays a key role in containing the outbreak in these lesser affected areas and within closed settings (e.g. prisons,
+nursing homes). Contact tracing should still be considered in areas of more widespread transmission, wherever
+possible, and in conjunction with physical distancing measures. If resources are limited, high-risk exposure
+contacts of each case (close contacts) and contacts who are healthcare workers or work with vulnerable
+populations should be traced first, followed by as many low-risk exposure contacts as possible [21]. In areas with
+widespread virus circulation, contact tracing should include at least cases appearing in specific settings such as
+long-term care facilities, prisons, refugee camps, etc., to reduce transmission and mitigate the impact on
+vulnerable populations. Furthermore, contact tracing should be performed if the case is a HCW, and it should
+focus on hospital or general practice contacts, to rapidly identify potentially vulnerable exposed individuals.
+However, even if not implemented for all cases when widespread transmission is observed, contact tracing has to
+be implemented extensively as soon as community transmission decreases.
+For countries that have had enforced strict physical distancing measures for a period of time in order to
+attempt to interrupt the chain of transmission of the virus, case finding measures, including contact tracing, are a
+priority once the physical distancing measures are lifted, in order to reduce the risk of further escalation.
+During lockdown periods, countries should aim to review existing public health systems to determine the optimal
+implementation and timing of reinforced contact tracing measures.
+ECDC has published a technical report on the resources required for contact tracing, quarantine and monitoring
+activities [21]. At the end of this document some resource-saving measures are outlined.
+Definition of the term ‘contact person’
+A contact of a COVID-19 case is any person who has had contact with a COVID-19 case (Table 1) within a
+timeframe ranging from 48 hours before the onset of symptoms of the case to 14 days after the onset of
+symptoms.
+If the case had no symptoms, a contact person is defined as someone who has had contact with the case within
+a timeframe ranging from 48 hours before the sample which led to confirmation was taken, to 14 days after the
+sample was taken.
+The associated risk of infection depends on the level of exposure, which will, in turn, determine the type of
+management and monitoring (Table 1) [22].
+ECDC TECHNICAL REPORT Public health management of persons having had contact with cases of COVID-19 in the EU
+3
+Table 1. Classification of contact based on level of exposure
+High-risk exposure
+(close contact)
+Low-risk exposure
+A person:
+ having had face-to-face contact with a COVID-19 case within two metres for
+more than 15 minutes;
+ having had physical contact with a COVID-19 case;
+ having unprotected direct contact with infectious secretions of a COVID-19
+case (e.g. being coughed on);
+ who was in a closed environment (e.g. household, classroom, meeting room,
+hospital waiting room, etc.) with a COVID-19 case for more than 15 minutes;
+ in an aircraft, sitting within two seats (in any direction) of the COVID-19
+case, travel companions or persons providing care, and crew members
+serving in the section of the aircraft where the index case was seated [23] (if
+severity of symptoms or movement of the case indicate more extensive
+exposure, passengers seated in the entire section or all passengers on the
+aircraft may be considered close contacts);
+ A healthcare worker or other person providing care to a COVID-19 case, or
+laboratory workers handling specimens from a COVID-19 case, without
+recommended PPE or with a possible breach of PPE [24].
+A person:
+ having had face-to-face contact with a
+COVID-19 case within two metres for less
+than 15 minutes;
+ who was in a closed environment with a
+COVID-19 case for less than 15 minutes;
+ travelling together with a COVID-19 case
+in any mode of transport*;
+ A healthcare worker or other person
+providing care to a COVID-19 case, or
+laboratory workers handling specimens
+from a COVID-19 case, wearing the
+recommended PPE [24].
+* Except if sitting in an aircraft as specified in the relevant point in the left column.
+Longer duration of contact is assumed to increase the risk of transmission; the 15-minute limit is arbitrarily
+selected for practical purposes. Public health authorities may consider some persons who had a shorter duration
+of contact with the case as having had high-risk exposure, based on individual risk assessments.
+Using only part of the recommended set of PPE increases the exposure of healthcare workers thus increasing the
+risk.
+Key steps after a case is identified
+Contact identification and listing
+Immediately after a confirmed or probable case has been identified, the next steps regarding contact tracing for
+the public health authorities include:
+• Interviewing the case to collect information on clinical history and possible contacts that occurred from 48
+hours before symptom onset until the case was isolated. This should be undertaken through a phone call
+where possible. Cases may be hospitalised and possibly be in a poor condition; in such instances, hospital
+staff or the treating physician may be able to assist in collecting information either directly from the case
+or close family members.
+• Tracing the contacts and classifying them into high-risk exposure (‘close contact’) or low-risk exposure, as
+described in Table 1 above. Information should also be collected on whether the contact belongs to one
+of the risk groups for severe COVID-19, or works with vulnerable populations (e.g. providing care to the
+elderly or to immunocompromised people).
+• Arranging for testing of symptomatic contacts for SARS-CoV-2 (see ECDC webpage on laboratory support
+for COVID-19 and WHO recommendations for testing strategy).
+• Tracing, and communicating with, the identified contacts and providing information about suitable
+infection control measures, symptom monitoring and other precautionary measures such as the need for
+quarantine.
+Contact follow-up
+Depending on the exposure risk level, individuals and public health authorities should consider several actions
+(Table 2).
+High-risk exposure contacts should be actively monitored by public health authorities, whereas low-risk exposure
+contacts could self-monitor for symptoms while observing physical distancing measures and avoiding travel.
+Quarantine should be considered for high-risk exposure contacts [14]. If symptoms of illness occur, contacts
+should immediately self-isolate and seek medical advice, preferably by phone first, always following
+recommendations of the national/local authorities.
+ECDC TECHNICAL REPORT Public health management of persons having had contact with cases of COVID-19 in the EU
+4
+Table 2. Key actions for management of contacts
+Actions
+High-risk exposure
+(close contact)
+Low-risk exposure
+Individual For a period of 14 days after the last exposure to a
+COVID-19 case, high-risk contacts should be advised to:
+ quarantine at home if possible*. If not possible,
+respect physical distancing measures and avoid
+travel;
+ daily self-monitoring for COVID-19-compatible
+symptoms, including fever of any grade, cough,
+fatigue or difficulty breathing;
+ take and record temperature daily (contacts should
+avoid the use of fever-reducing medication a few
+hours before they take their temperature);
+ remain contactable by public health authorities;
+ implement rigorous hand hygiene and respiratory
+etiquette;
+ self-isolate immediately should symptoms develop
+and seek medical advice, preferably by phone first,
+following recommendations of the national/local
+authorities.
+For a period of 14 days after the last exposure, low-
+risk contacts should be advised to:
+ daily self-monitoring for COVID-19-compatible
+symptoms, including fever of any grade, cough,
+fatigue or difficulty breathing;
+ respect physical distancing measures and avoid
+travel;
+ implement rigorous hand hygiene and
+respiratory etiquette measures;
+ self-isolate immediately should symptoms
+develop and seek medical advice, preferably by
+phone first, following recommendations of the
+national/local authorities.
+Public health
+authorities
+For a period of 14 days after the last exposure to a
+COVID-19 case:
+ Active follow-up of the contacts (e.g. daily phone
+calls, e-mails, text messages). Contacts can be
+encouraged to also proactively contact public health
+authorities as soon as they develop any compatible
+symptoms, outside of the scheduled follow-up;
+ testing of contacts that develop COVID-19-
+compatible symptoms if possible**
+ if test is negative, continue individual actions
+for a period of 14 days after the last exposure;
+ if the test is positive, notify the case and
+initiate contact tracing.
+For a period of 14 days after the last low-risk
+exposure to a COVID-19 case:
+ Encourage low-risk contacts to proactively
+contact public health authorities if they develop
+any compatible symptoms;
+ If the contact develops COVID-19-compatible
+symptoms, follow steps as for high-risk
+contacts.
+Based on individual risk assessments, public health
+authorities may consider excluding low-risk exposure
+contacts from work if they work with vulnerable
+populations (e.g. those who provide care to elderly).
+* See ECDC technical report on ’Infection prevention and control in the household management of people with suspected or
+confirmed coronavirus disease (COVID-19)’ [25].
+**See ECDC ‘Guidance for discharge and ending isolation in the context of widespread community transmission of COVID-19 -
+first update’ [26].
+Resource considerations
+Contact tracing can be resource intensive. Each country will need to adapt their contact tracing intensity to the
+local epidemiological situation and according to available resources. These resources may be strengthened by
+recruiting non-medical staff, including volunteers, if sufficient data protection safeguards, training, and
+supervision can be provided. Other available resources, such as recruiting call centres set up for other purposes,
+can also be considered. Measures that may help save resources include switching to self-monitoring for close
+contacts instead of daily calls, or introducing an app or other online tool to assist with monitoring [27,28]. To
+enable scaling up contact tracing, contacts could also be contacted and informed through text messages instead
+of phone calls [28]. WHO has developed the Go.Data tool which enables more efficient and effective contact
+tracing; the tool makes it possible to quickly follow up contacts, visualise chains of transmission, and share data.
+If resources become too limited to test symptomatic contacts, all symptomatic contacts should be advised to self-
+isolate and should be managed as a case [26].
+Using contact tracing data to inform response
+Data on contact tracing investigations should be collated and analysed at the local and/or national level in order
+to learn from investigations and inform the response. Examples include gaining an understanding of transmission
+and attack rates, identifying and documenting settings where transmission takes place, and understanding the
+effectiveness of different mitigation measures such as physical distancing.
+An algorithm for the management of contacts of probable or confirmed COVID-19 cases can be found in the
+Annex.
+ECDC TECHNICAL REPORT Public health management of persons having had contact with cases of COVID-19 in the EU
+5
+Contributing ECDC experts (in alphabetical
+order)
+Cornelia Adlhoch, Andrew J Amato-Gauci, Agoritsa Baka, Orlando Cenciarelli, Bruno Ciancio, Stefania De Angelis,
+Tarik Derrough, Erika Duffell, Lina Nerlander, Pasi Penttinen, Daniel Palm, Diamantis Plachouras, Emmanuel
+Robesyn, Ettore Severi, Gianfranco Spiteri, Bertrand Sudre, Carl Suetens, Phillip Zucs.
+References
+1. Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 novel coronavirus.
+Beijing: CCDC; 2020. Available from: http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf.
+2. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among
+travellers from Wuhan, China, 20–28 January 2020. Eurosurveillance. 2020;25(5).
+3. Du Z, Xu X, Wu Y, Wang L, Cowling BJ, Meyers LA. Serial interval of COVID-19 among publicly reported confirmed
+cases. Emerging infectious diseases. 2020;26(6).
+4. Ganyani T, Kremer C, Chen D, Torneri A, Faes C, Wallinga J, et al. Estimating the generation interval for COVID-19
+based on symptom onset data. medRxiv. 2020:2020.03.05.20031815.
+5. Han Y, Yang H. The transmission and diagnosis of 2019 novel coronavirus infection disease (COVID-19): A Chinese
+perspective. Journal of Medical Virology.n/a(n/a).
+6. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. SARS-CoV-2 viral load in upper respiratory specimens of
+infected patients. New England Journal of Medicine. 2020;382(12):1177-9.
+7. Cereda D, Tirani M, Rovida F, Demicheli V, Ajelli M, Poletti P, et al. The early phase of the COVID-19 outbreak in
+Lombardy, Italy 2020. Available from: https://arxiv.org/abs/2003.09320v1.
+8. World Health Organization (WHO). Modes of transmission of virus causing COVID-19:implications for IPC precaution
+recommendations. Geneva: WHO; 2020 [accessed 27 March 2020]. Available from: https://www.who.int/publications-
+detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations.
+9. van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, et al. Aerosol and surface stability
+of SARS-CoV-2 as compared with SARS-CoV-1. New England Journal of Medicine. 2020.
+10. Cheng VCC, Wong S-C, Chen JHK, Yip CCY, Chuang VWM, Tsang OTY, et al. Escalating infection control response to
+the rapidly evolving epidemiology of the coronavirus disease 2019 (COVID-19) due to SARS-CoV-2 in Hong Kong.
+Infection Control & Hospital Epidemiology. 2020:1-24.
+11. Santarpia JL, Rivera DN, Herrera V, Morwitzer MJ, Creager H, Santarpia GW, et al. Transmission potential of SARS-CoV-
+2 in viral shedding observed at the University of Nebraska Medical Center. medRxiv. 2020:2020.03.23.20039446.
+12. World Health Organization (WHO). Report of the WHO–China Joint Mission on Coronavirus Disease 2019 (COVID-19).
+Geneva: WHO; 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-
+on-covid-19-final-report.pdf.
+13. Istituto superiore di sanità. Sorveglianza integrata COVID-19 in Italia: Aggiornamento 22 marzo 2020. Rome: Istituto
+superiore di sanità; 2020. Available from:
+https://www.epicentro.iss.it/coronavirus/bollettino/Infografica_22marzo%20ITA.pdf.
+14. European Centre for Disease Prevention and Control (ECDC). Guidelines for the use of non-pharmaceutical measures to
+delay and mitigate the impact of 2019-nCoV. Stockholm: ECDC; 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/novel-coronavirus-guidelines-non-pharmaceutical-
+measures_0.pdf.
+15. Hellewell J, Abbott S, Gimma A, Bosse NI, Jarvis CI, Russell TW, et al. Feasibility of controlling 2019-nCoV outbreaks by
+isolation of cases and contacts. medRxiv. 2020.
+16. Keeling MJ, Hollingsworth TD, Read JM. The efficacy of contact tracing for the containment of the 2019 novel
+coronavirus (COVID-19). medRxiv. 2020.
+17. Peak CM, Kahn R, Grad YH, Childs LM, Li R, Lipsitch M, et al. Modeling the comparative impact of individual quarantine
+vs. active monitoring of contacts for the mitigation of COVID-19. medRxiv. 2020.
+18. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical characteristics of 99 cases of 2019
+novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet. 2020 2020/02/15/;395(10223):507-13.
+19. Bi Q, Wu Y, Mei S, Ye C, Zou X, Zhang Z, et al. Epidemiology and transmission of COVID-19 in Shenzhen China:
+Analysis of 391 cases and 1 286 of their close contacts. medRxiv. 2020.
+20. Choe YJ. Coronavirus disease-19: Summary of 2 370 contact investigations of the first 30 cases in the Republic of
+Korea. medRxiv. 2020.
+21. European Centre for Disease Prevention and Control (ECDC). Resource estimation for contact tracing, quarantine and
+monitoring activities in the EU/EEA [internet]. Stockholm: ECDC; 2020 [accessed 11 March 2020]. Available from:
+https://www.ecdc.europa.eu/en/publications-data/resource-estimation-contact-tracing-quarantine-and-monitoring-
+activities-covid-19.
+ECDC TECHNICAL REPORT Public health management of persons having had contact with cases of COVID-19 in the EU
+6
+22. World Health Organization (WHO). Home care for patients with suspected novel coronavirus (nCoV) infection
+presenting with mild symptoms and management of contacts [internet]. Geneva: WHO; 2020 [accessed 4 February
+2020]. Available from: https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-
+coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts.
+23. European Centre for Disease Prevention and Control (ECDC). Risk assessment guidelines for infectious diseases
+transmitted on aircraft (RAGIDA) – Middle east respiratory syndrome coronavirus (MERS-CoV). Stockholm: ECDC;
+2020. Available from: https://www.ecdc.europa.eu/sites/default/files/documents/infectious-diseases-transmitted-on-
+aircrafts-ragida-risk-assessment-guidelines.pdf.
+24. European Centre for Disease Prevention and Control (ECDC). Infection prevention and control for the care of patients
+with 2019-nCoV in healthcare settings 2020 [accessed 20 February 2020]. Stockholm: ECDC; 2020. Available from:
+https://www.ecdc.europa.eu/en/publications-data/infection-prevention-and-control-care-patients-2019-ncov-
+healthcare-settings.
+25. European Centre for Disease Prevention and Control (ECDC). Infection prevention and control in the household
+management of people with suspected or confirmed coronavirus disease (COVID-19) [accessed 31 March 2020].
+Stockholm: ECDC; 2020. Available from: https://www.ecdc.europa.eu/en/publications-data/infection-prevention-
+control-household-management-covid-19.
+26. European Centre for Disease Prevention and Control (ECDC). Guidance for discharge and ending isolation in the
+context of widespread community transmission of COVID-19 - first update) [accessed 8 April 2020]. Stockholm: ECDC;
+2020. Available from: https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-guidance-discharge-and-
+ending-isolation-first%20update.pdf.
+27. TheJournal.ie. 80 defence forces cadets are being trained in Covid-19 contact tracing [internet]. Dublin: TheJournal.ie;
+13 March 2020 [accessed 23 March 2020]. Available from: https://www.thejournal.ie/defence-forces-cadets-trained-in-
+coronavirus-contact-tracing-5046020-Mar2020/.
+28. Personal communication, 23 March 2020: Greg Martin, specialist in public health medicine, Health Service Executive,
+Ireland.
+ECDC TECHNICAL REPORT Public health management of persons having had contact with cases of COVID-19 in the EU
+7
+Annex
+Algorithm for the management of contacts of probable or
+confirmed COVID-19 cases
+

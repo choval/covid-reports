@@ -7,6 +7,11 @@
 * [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/)
 
 
+## 2020-04-13
+
+* [DS11.pdf](b845b3f3ce13b6c0b5c3d8b926101d3e298a6d7f/file.pdf) @16:56 GMT
+* [2020.04.12\_GUIA-PRACTICA-CUARENTENA-EN-TIEMPOS-DE-COVID19\_final.pdf](d087ce42a40b9657449f4b223b0f74d78f48c603/file.pdf) @15:36 GMT
+
 ## 2020-04-09
 
 * [Recomendaciones-de-actuacion-en-lugares-de-trabajo.pdf](b81110d6c3c0e9b6c3df01897c34e36b33150990/file.pdf) @19:01 GMT

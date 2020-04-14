@@ -1,0 +1,19 @@
+{
+    "filename": "recomendaciones_covid_19_afrodescendientes_13042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/recomendaciones_covid_19_afrodescendientes_13042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586814196,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 13 Apr 2020 21:43:16 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 13 Apr 2020 17:52:03 GMT",
+        "etag": "\"18f769-5a32fbd94f6c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "1636201",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1636201,
+    "modified": 1586800323
+}

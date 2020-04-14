@@ -1,0 +1,19 @@
+{
+    "filename": "lineamiento_covid19_plantas_procesadoras_alimentos_v1_13042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamiento_covid19_plantas_procesadoras_alimentos_v1_13042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586814269,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 13 Apr 2020 21:44:29 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 13 Apr 2020 19:22:27 GMT",
+        "etag": "\"da98e-5a33100e0a2c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "895374",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 895374,
+    "modified": 1586805747
+}

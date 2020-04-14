@@ -6,6 +6,18 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-14
+
+* [4044-gobierno-ejecuta-estrategia-nacional-de-respuesta-al-covid-19](04407603efbb2f74f3288d7cc1e9740a57d8ad7b/file.pdf) @03:16 GMT
+
+## 2020-04-13
+
+* [4043-sube-a-27-las-muertes-y-a-330-los-casos-confirmados-de-covid-19-en-bolivia](36e6c91fc388d3cfdf4c233f77cf89e39d07a622/file.pdf) @13:10 GMT
+
+## 2020-04-12
+
+* [4042-el-pais-suma-300-casos-de-coronavirus-y-casi-la-mitad-estan-en-santa-cruz](4bf09712b420eeb047af5932e7758c528ab37667/file.pdf) @12:31 GMT
+
 ## 2020-04-11
 
 * [4041-bolivia-acumula-275-casos-confirmados-de-coronavirus-y-20-fallecidos-en-un-mes](6489f537ba9f784eb27ce450a0016067482f503c/file.pdf) @13:40 GMT

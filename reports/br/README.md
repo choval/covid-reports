@@ -9,6 +9,22 @@
 * [https://www.saude.gov.br/boletins-epidemiologicos](https://www.saude.gov.br/boletins-epidemiologicos)
 
 
+## 2020-04-14
+
+* [Protocolo-de-Manejo-Cl--nico-para-o-Covid-19.pdf](818e95b9f23fdfaaebef5e2a06cc9619844ee90a/file.pdf) @10:52 GMT
+
+## 2020-04-13
+
+* [Diretrizes-COVID-13-4.pdf](d932efbb49b737202e0b24901b63551ad34095bb/file.pdf) @21:44 GMT
+
+## 2020-04-12
+
+* [2020-04-11-BE9-Boletim-do-COE.pdf](9de44ee8ed2b8e732a04f16f0c703e3775fc9070/file.pdf) @14:24 GMT
+
+## 2020-04-11
+
+* [NOTA-OFICIAL-TETO-MAC.pdf](0f92298d5100f59967888e94e9fd4f51ba8ef043/file.pdf) @21:26 GMT
+
 ## 2020-04-10
 
 * [Apendice-covid-V9.4.pdf](dc90550a688e6bf9684e10d09d3a2ecfffe9a9fb/file.pdf) @22:38 GMT
@@ -17,8 +33,8 @@
 ## 2020-04-09
 
 * [Contrato-55-2020.pdf](2c6feefad57dc52fc56fceae5c13ee0370347eda/file.pdf) @22:38 GMT
-* [be-covid-08-final-2.pdf](6b8908584d17f54985a3d4113b108d7964681032/file.pdf) @17:44 GMT
 * [be-covid-08-final-2.pdf](92aa53db9ea5c4b7e6a6530097dacea811a1751b/file.pdf) @17:44 GMT
+* [be-covid-08-final-2.pdf](6b8908584d17f54985a3d4113b108d7964681032/file.pdf) @17:44 GMT
 * [CT-20-2020---INTEGRAL.pdf](76c85d1428d460cf5e27b53e88a455a3d55e6922/file.pdf) @12:14 GMT
 * [CT-19-2020-INTEGRAL.pdf](52c170ba7c92f07cc243c4493e84435bb9e074dc/file.pdf) @12:13 GMT
 
@@ -44,14 +60,14 @@
 
 ## 2020-04-06
 
-* [2020-04-06-BE7-Boletim-Especial-do-COE-Atualizacao-da-Avaliacao-de-Risco.pdf](424582621130b1569b2e99f4b7d33a2152342c9b/file.pdf) @22:53 GMT
 * [2020-04-06-BE7-Boletim-Especial-do-COE-Atualizacao-da-Avaliacao-de-Risco.pdf](47d0635afbc1c84bcaa51afed73f653bd69d40da/file.pdf) @22:53 GMT
+* [2020-04-06-BE7-Boletim-Especial-do-COE-Atualizacao-da-Avaliacao-de-Risco.pdf](424582621130b1569b2e99f4b7d33a2152342c9b/file.pdf) @22:53 GMT
 * [Contrato-105-2020.pdf](62a20c776e752d6ba4e66f7812ca3eaf28bfb369/file.pdf) @22:20 GMT
 * [Contrato-102-2020.pdf](52160db9872524c929ffe608a790521417a96f8d/file.pdf) @22:19 GMT
 * [Contrato-101-2020.pdf](ef3f24539d7326b34e42c673526a60d2771ead0d/file.pdf) @22:19 GMT
 * [Contrato-96-2020.pdf](e871c923c820bc83e9d87b3fa1dadbf0e2f328d9/file.pdf) @22:18 GMT
-* [2020-04-06---BE7---Boletim-Especial-do-COE---Atualizacao-da-Avaliacao-de-Risco.pdf](37aa9f2aa39b03202f2fd42b4c15afe8805ccde3/file.pdf) @20:30 GMT
 * [2020-04-06---BE7---Boletim-Especial-do-COE---Atualizacao-da-Avaliacao-de-Risco.pdf](41c1b8ebd6ae70b1a2bf5dbf81fafca122af2faf/file.pdf) @20:30 GMT
+* [2020-04-06---BE7---Boletim-Especial-do-COE---Atualizacao-da-Avaliacao-de-Risco.pdf](37aa9f2aa39b03202f2fd42b4c15afe8805ccde3/file.pdf) @20:30 GMT
 * [GuiaDeVigiEp-final.pdf](b4daae5e0dc648ede6f0dde6cd46a4e5927f3d4f/file.pdf) @17:35 GMT
 * [Protocolo-de-Manejo-Cl--nico-para-o-Covid-19.pdf](ed2b738e087267c5f95d799dbc10595e1e35de5c/file.pdf) @15:09 GMT
 * [Cartilha--Crian--as-Coronavirus.pdf](d3c6f326a268651793e4fefd1e01ecd227ab40f9/file.pdf) @13:21 GMT
@@ -86,14 +102,14 @@
 
 ## 2020-03-30
 
-* [20200330-POP-EPI-ver002-Final.pdf](31bb3b934ad8da3ba84822d5597b3d06c683eb77/file.pdf) @19:52 GMT
 * [20200330-POP-EPI-ver002-Final.pdf](0fa1a0e718b3f12b64544773bb45e3fe0c837eba/file.pdf) @19:52 GMT
-* [20200330-Formula--rio-Identificac--a--oTeleatendimento-002-verFinal.pdf](a3e93ad8c37ef669db496ce4aa25369572930503/file.pdf) @19:52 GMT
+* [20200330-POP-EPI-ver002-Final.pdf](31bb3b934ad8da3ba84822d5597b3d06c683eb77/file.pdf) @19:52 GMT
 * [20200330-Formula--rio-Identificac--a--oTeleatendimento-002-verFinal.pdf](1b263120228ca9874d08311c2b0e46fd2086f044/file.pdf) @19:52 GMT
+* [20200330-Formula--rio-Identificac--a--oTeleatendimento-002-verFinal.pdf](a3e93ad8c37ef669db496ce4aa25369572930503/file.pdf) @19:52 GMT
 * [20200330-FLUXO-Teleatendimento-ver06-verFinal.pdf](814ce27d0d0c7af905427b4aeb531bc0590d18ce/file.pdf) @19:50 GMT
 * [20200330-FLUXO-Teleatendimento-ver06-verFinal.pdf](13bcaddc484575b1fb2977c582ae071058eb95d8/file.pdf) @19:50 GMT
-* [20200330-FAST-TRACK-ver06-verFinal.pdf](e864b43af777180afc0c46b54917c49961cf53b7/file.pdf) @19:50 GMT
 * [20200330-FAST-TRACK-ver06-verFinal.pdf](e4e57ee9d9fa80dbed6f27893b07983ffd912f82/file.pdf) @19:50 GMT
+* [20200330-FAST-TRACK-ver06-verFinal.pdf](e864b43af777180afc0c46b54917c49961cf53b7/file.pdf) @19:50 GMT
 * [20200330-BOLSO-ver06-verFinal.pdf](bb183eb2708dc527f3d1616df3d7f29d61b55d50/file.pdf) @19:49 GMT
 * [20200330-BOLSO-ver06-verFinal.pdf](2945c0594865036aaa61625de6137fbe4a8dd09e/file.pdf) @19:49 GMT
 * [20200330-AtendimentoOdontologico-Fluxo-ver002-Final.pdf](62adf88ae68b1f190a1deeb72e5d47e2f1054567/file.pdf) @19:44 GMT
@@ -105,23 +121,23 @@
 
 ## 2020-03-26
 
-* [Recomendacoes-para-acompanhantes-e-ou-visitantes-nos-servi--os.pdf](e19209466568bba70eba86f8988ee87808b4c217/file.pdf) @23:49 GMT
 * [Recomendacoes-para-acompanhantes-e-ou-visitantes-nos-servi--os.pdf](4bccbb5494d798af432f888d3d44d493e431917b/file.pdf) @23:49 GMT
+* [Recomendacoes-para-acompanhantes-e-ou-visitantes-nos-servi--os.pdf](e19209466568bba70eba86f8988ee87808b4c217/file.pdf) @23:49 GMT
 * [Cartaz-Geral-64x46cm.pdf](ac36b169b915bce2e0ede4ab2ae75e17352058e7/file.pdf) @14:00 GMT
 * [Cartaz-Eventos-64x46cm.pdf](9b7c5135402ee794ebcb87d1d66edab82877340e/file.pdf) @13:58 GMT
 
 ## 2020-03-25
 
-* [manejo-corpos-coronavirus-versao1-25mar20-rev5.pdf](b83668b209c5b33dc90c1baf4d11294b6991b1b8/file.pdf) @22:56 GMT
 * [manejo-corpos-coronavirus-versao1-25mar20-rev5.pdf](342302155bd07b96c89120951d7267e578765456/file.pdf) @22:56 GMT
-* [Livreto-Plano-de-Contingencia-5-Corona2020-210x297-16mar.pdf](e366c590383529d582cbf16af2e9ba5f982f6966/file.pdf) @17:10 GMT
+* [manejo-corpos-coronavirus-versao1-25mar20-rev5.pdf](b83668b209c5b33dc90c1baf4d11294b6991b1b8/file.pdf) @22:56 GMT
 * [Livreto-Plano-de-Contingencia-5-Corona2020-210x297-16mar.pdf](cee7ebbd91ebff373d98c2b51c5e6245a71f6951/file.pdf) @17:10 GMT
+* [Livreto-Plano-de-Contingencia-5-Corona2020-210x297-16mar.pdf](e366c590383529d582cbf16af2e9ba5f982f6966/file.pdf) @17:10 GMT
 * [Fluxo-de-manejo-cl--nico-de-gestantes.pdf](747873594c5f7c0bd195c53cbeff87bfd1c03fb7/file.pdf) @15:29 GMT
 * [Fluxo-de-manejo-cl--nico-de-gestantes.pdf](452f57eecc7c8536532a7476fbc5b7b3222271e6/file.pdf) @15:29 GMT
 * [Fluxo-de-manejo-cli--nico-pedia--trico.pdf](f4dc5d83fdb1f3b7767c389dedd8627092dbf72c/file.pdf) @15:28 GMT
 * [Fluxo-de-manejo-cli--nico-pedia--trico.pdf](e54da92d34bc7f17374505aab8a7f241dfe2dd29/file.pdf) @15:28 GMT
-* [Fluxo-de-Manejo-cl--nico-do-adulto-e-idoso.pdf](e2bb0293551cd9e521c6e19b7f109004e43b0b4b/file.pdf) @15:27 GMT
 * [Fluxo-de-Manejo-cl--nico-do-adulto-e-idoso.pdf](b2afabc0baf2e14a8af24c0aa9fb7588ea57853a/file.pdf) @15:27 GMT
+* [Fluxo-de-Manejo-cl--nico-do-adulto-e-idoso.pdf](e2bb0293551cd9e521c6e19b7f109004e43b0b4b/file.pdf) @15:27 GMT
 
 ## 2020-03-24
 
@@ -129,8 +145,8 @@
 * [Contrato-80-2020.pdf](11ff90824d368aac5e9a5fcc1e9d5234a9f7a282/file.pdf) @22:58 GMT
 * [Contrato-78-2020.pdf](59d945e548bdda742ebb5c19c22e70dab67d3c6d/file.pdf) @22:58 GMT
 * [Contrato-73-2020.pdf](8d728991f0dd5fdc6679d84cc2c894b77d7c3a82/file.pdf) @22:57 GMT
-* [03--ERRATA---Boletim-Epidemiologico-05.pdf](e50de18594922aedb896573e27cb4b52e4e7792c/file.pdf) @17:47 GMT
 * [03--ERRATA---Boletim-Epidemiologico-05.pdf](a8503c71ba64cc24009744fce17471f355a1d15b/file.pdf) @17:47 GMT
+* [03--ERRATA---Boletim-Epidemiologico-05.pdf](e50de18594922aedb896573e27cb4b52e4e7792c/file.pdf) @17:47 GMT
 * [Coronavirus--Isolamento-Domiciliar.pdf](a3cb3a4d983329874ceb5991adba5bbbbb755743/file.pdf) @15:18 GMT
 
 ## 2020-03-23
@@ -139,8 +155,8 @@
 
 ## 2020-03-20
 
-* [2-Etapa-Fluxogramas-COVID-19-SAES-Z.pdf](de3f23c3a4292b2a48eee4c7725c61123b3018f9/file.pdf) @22:39 GMT
 * [2-Etapa-Fluxogramas-COVID-19-SAES-Z.pdf](de038fe63ec5657aff1f802b73c0fc4173fad9de/file.pdf) @22:39 GMT
+* [2-Etapa-Fluxogramas-COVID-19-SAES-Z.pdf](de3f23c3a4292b2a48eee4c7725c61123b3018f9/file.pdf) @22:39 GMT
 
 ## 2020-03-19
 
@@ -164,29 +180,29 @@
 * [Contrato-42-2020.pdf](a3e168a7a65586a6024f11e42dc4959a22c39bf6/file.pdf) @20:48 GMT
 * [Contrato-41-2020.pdf](81373796c23089806490a84c1d938462809d269c/file.pdf) @20:48 GMT
 * [Contrato-40-2020.pdf](235adf64d9a0ed6af41b695fd3e1fd3c01aeb8de/file.pdf) @20:47 GMT
-* [Fluxogramas-COVID-19-SAES-3.pdf](973cda79d1a4182302ccd6e238ef4d544a69d2e4/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-3.pdf](7c43f1cd84e287a00b245f8acbdc9b2c4555a3a1/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-1.pdf](e899e3fe03e290067f9852c825cabca1a53d5e81/file.pdf) @03:00 GMT
 * [Fluxogramas-COVID-19-SAES-5.pdf](12da41965296446327cb768a46ebbe326eeba17f/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-4.pdf](6f588147b422a897fff75061144662c8fd64ce36/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-4.pdf](51f14d70c73698d8cc37b74cca3c3610c19ce4d5/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-5.pdf](4ebbd1f77553579b7213e517f0fd45283bcc59a5/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-1.pdf](5d305c37420781df84ad2ae3df8eac9e0e9ea872/file.pdf) @03:00 GMT
-* [Fluxogramas-COVID-19-SAES-2.pdf](53ad952c40de6e9baee1759b218b9ffa6e1c8d4b/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-1.pdf](e899e3fe03e290067f9852c825cabca1a53d5e81/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-3.pdf](7c43f1cd84e287a00b245f8acbdc9b2c4555a3a1/file.pdf) @03:00 GMT
 * [Fluxogramas-COVID-19-SAES-2.pdf](ddce4ff65a73fbbbcc37740d59c6a6c2a30ce038/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-5.pdf](4ebbd1f77553579b7213e517f0fd45283bcc59a5/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-4.pdf](6f588147b422a897fff75061144662c8fd64ce36/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-3.pdf](973cda79d1a4182302ccd6e238ef4d544a69d2e4/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-2.pdf](53ad952c40de6e9baee1759b218b9ffa6e1c8d4b/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-4.pdf](51f14d70c73698d8cc37b74cca3c3610c19ce4d5/file.pdf) @03:00 GMT
+* [Fluxogramas-COVID-19-SAES-1.pdf](5d305c37420781df84ad2ae3df8eac9e0e9ea872/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](a0fd35eac4c8644a93c2dfc3204d31c6d1668e02/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](d8885b9255f53d428c424e146ef92d4e2575acaa/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04-corrigido.pdf](117c7b372827c6ae2d9a84c6b7b319ea8a75739f/file.pdf) @03:00 GMT
 * [2020-03-02-Boletim-Epidemiol--gico-04---COE-COVID-19.pdf](7145ee40d26397e6f0645f1a811ac1fd087caece/file.pdf) @03:00 GMT
 * [Boletim\_epidemiologico\_SVS\_04.pdf](e1c551602e050c806b6febf0ee083954e6104556/file.pdf) @03:00 GMT
-* [2020-02-21-Boletim-Epidemiologico03.pdf](f03ac436240c5bb014e0016178a5b4ee3960c498/file.pdf) @03:00 GMT
 * [2020-02-21-Boletim-Epidemiologico03.pdf](2fb028a10a3cbc069fda3209c787c05ae1081448/file.pdf) @03:00 GMT
 * [2020-02-21-Boletim-Epidemiologico03.pdf](63725efead7c880cb3d3d9c642ccc7b0e5c8b42f/file.pdf) @03:00 GMT
+* [2020-02-21-Boletim-Epidemiologico03.pdf](f03ac436240c5bb014e0016178a5b4ee3960c498/file.pdf) @03:00 GMT
 * [Boletim-epidemiologico-COEcorona-SVS-13fev20.pdf](ea34fdfb40c665f6e3387d7515c2a8866a2af2a4/file.pdf) @02:59 GMT
 * [Boletim-epidemiologico-COEcorona-SVS-13fev20.pdf](7e45519211b46185f7ef3e2a3b9ffd0ef5adcfec/file.pdf) @02:59 GMT
 * [protocolo-manejo-coronavirus.pdf](9e46e4b3a33c4ee91a3c65d3304587e7022b2806/file.pdf) @02:59 GMT
 * [operacao-regresso-11fev-b.pdf](2920849d5c379414d14bcf2e78235afdd3dff40b/file.pdf) @02:59 GMT
 * [operacao-regresso-11fev-b.pdf](446edb4158dff06af53209e6c80f4449082c40d3/file.pdf) @02:59 GMT
 * [plano-contingencia-coronavirus-preliminar.pdf](2ee7501857fc8a524a2425ed0037b9750e6b1410/file.pdf) @02:59 GMT
-* [Boletim-epidemiologico-SVS-04fev20.pdf](73a2b51f2440daa938f189fe9b819180a19bb5a8/file.pdf) @02:59 GMT
 * [Boletim-epidemiologico-SVS-04fev20.pdf](cbf4252a1323b3f7b790102897741fafc8f5211b/file.pdf) @02:59 GMT
+* [Boletim-epidemiologico-SVS-04fev20.pdf](73a2b51f2440daa938f189fe9b819180a19bb5a8/file.pdf) @02:59 GMT

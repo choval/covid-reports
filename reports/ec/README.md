@@ -5,6 +5,20 @@
 * [https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/](https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/)
 
 
+## 2020-04-13
+
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-13042020-08h00.pdf](ef5d88a7cf7d8310f78de3c211bd3f78cf5c1e87/file.pdf) @16:17 GMT
+
+## 2020-04-12
+
+* [2.\_protocolo\_para\_el\_procedimiento\_de\_limpieza\_y\_desinfección\_de\_espacio\_público\_y\_vías.pdf](a45d7440dcf296b3136240d911426e71b632be32/file.pdf) @21:58 GMT
+* [5.\_protocolo\_de\_acciones\_preventivas\_para\_establecimientos\_distribuidores\_y\_almacenes\_de\_expendio\_de\_insumos\_agropecuarios..pdf](d6affb95e30a2abfa1eb212ba5741667b88f9992/file.pdf) @21:57 GMT
+* [3.\_sngre-sngre-2020-0758-e-2\_Remisión-de-Protocolo-para-la-Higiene-de-Alimentos-en-Establecimientos-de-Expendio-MTT-6.pdf](44104bd196149ed36b1d7ee46ceeeb5ad012dee9/file.pdf) @21:57 GMT
+* [1.\_protocolo\_de\_limpieza\_de\_desinfecciones\_de\_transportes\_publicos.pdf](f0051ce9a3ad559d807d8c0a057174fa1676635a/file.pdf) @21:57 GMT
+* [4.\_sngre-sngre-2020-0740-e-1\_Resolución-Mesa-Técnica-De-Trabajo-2-MTT-2-Desinfección.pdf](e49e7ca2268ae1f9dd7de47696be9df62cbcb793/file.pdf) @21:56 GMT
+* [3.\_protocolo\_para\_la\_higiene\_de\_alimentos\_en\_establecimientos\_de\_expendio..pdf](0ce29ae07734f176697a681f902f529b24f3c38a/file.pdf) @21:56 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-12042020-08h00.pdf](fcff9de4749f9c1379bdfb8f10cf1585fe47673b/file.pdf) @16:23 GMT
+
 ## 2020-04-11
 
 * [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-11042020-07h00.pdf](28c9b084bf746958c4160996b8796b06f2268463/file.pdf) @16:17 GMT

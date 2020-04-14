@@ -6,6 +6,21 @@
 * [https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030)
 
 
+## 2020-04-14
+
+* [Press Release (April14)\_Afternoon.pdf](1012f9e781a0d0b6112f976ebc5b982a752f4228/file.pdf) @19:22 GMT
+* [Press Release (April14)\_morning.pdf](c5f1849ef272ea99d4a1c577a2da856c12077474/file.pdf) @13:51 GMT
+
+## 2020-04-13
+
+* [Press\_Release\_(April13)\_Afternoon.pdf](a473dd4e9e97737845e25e63f4c7d16b98a873ea/file.pdf) @19:34 GMT
+* [Press\_Release\_(April13)\_morning.pdf](34945af254e575cf49db917d617abe1f87614291/file.pdf) @11:19 GMT
+
+## 2020-04-12
+
+* [Press Release (April12)\_afternoon.pdf](7e5010e14564b2a3bfe504c91d210f637bac5c54/file.pdf) @15:31 GMT
+* [Press Release (April12)\_morning.pdf](881fcd53c4717e98f832777e918c1843b80c34f2/file.pdf) @11:39 GMT
+
 ## 2020-04-11
 
 * [Press\_Release\_(April11)\_Afternoon.pdf](8360209284d103ef94211f06216810cc7e313da7/file.pdf) @17:15 GMT

@@ -1,0 +1,22 @@
+{
+    "filename": "4044-gobierno-ejecuta-estrategia-nacional-de-respuesta-al-covid-19",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4044-gobierno-ejecuta-estrategia-nacional-de-respuesta-al-covid-19",
+    "output": "file.pdf",
+    "downloaded": 1586834178,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 14 Apr 2020 03:20:40 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=vf3a2r1b53b3t3pr59r623e2ao; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Tue, 14 Apr 2020 03:20:40 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 715922,
+    "modified": 1586834185
+}

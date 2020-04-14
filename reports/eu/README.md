@@ -7,6 +7,7 @@
 
 ## 2020-04-09
 
+* [Contact-tracing-Public-health-management-persons-including-healthcare-workers-having-had-contact-with-COVID-19-cases-in-the-European-Union–second-update\_0.pdf](8468ba07564703d9660487b60dca96685651af4a/file.pdf) @11:39 GMT
 * [COVID-19-surveillance-strategy-9-Apr-2020.pdf](5dbfc0af6a73c3b51cd5c10a3716cafa6a4b1dff/file.pdf) @06:54 GMT
 
 ## 2020-04-08

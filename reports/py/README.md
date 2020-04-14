@@ -6,8 +6,21 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-13
+
+* [f88b10-Categorizacinderiesgoymanejodelpersonaldesalud.pdf](268801b5102670319d68923ee89be7488eded6bf/file.pdf) @19:51 GMT
+* [44a4c0-Proteccindelpersonalsanitario.pdf](2cb6183c9330cb746d3c078d5df956193957a47c/file.pdf) @19:51 GMT
+* [b95c3e-FichadeMonitoreo.pdf](f3e1bda5cf1b71ac3a306d034fd712539b99c646/file.pdf) @19:50 GMT
+* [7060a6-COVID19PY.pdf](a7eb48346217b09973c7ad88f1662a9c4fc831ea/file.pdf) @16:19 GMT
+* [1c8572-RESOLUCIONSG.N166.pdf](ab79b2bef5dca33c9a1dcc6e65998afc114404a8/file.pdf) @13:10 GMT
+
+## 2020-04-12
+
+* [f2a1a1-COVID19PY.pdf](9547ad130d513a608d39b2ff1a60eae7f64dc72f/file.pdf) @16:05 GMT
+
 ## 2020-04-11
 
+* [f3c9f3-GuaMSPBSAislamientoDomiciliarioenCasosLevesdeCOVID19.pdf](40ae0798b7aa0c45742acfaa39d13074bbeb3232/file.pdf) @19:57 GMT
 * [75ce61-COVID19PY1.pdf](0bac04f365d935edf724a89fa7e2ba224c748f60/file.pdf) @16:01 GMT
 
 ## 2020-04-10

@@ -5,6 +5,28 @@
 * [https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov](https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov)
 
 
+## 2020-04-14
+
+* [med\_admin\_temp\_atenc\_activid\_concent\_masiva\_v16\_13042020.pdf](f2986fe1f50f3f562847288ee315dfef68ceb96f/file.pdf) @01:01 GMT
+
+## 2020-04-13
+
+* [1609-semana-inicia-con-612-casos-por-covid-19](5c2e428c22dc26ec03f3c4a19c83d5fdb39280c7/file.pdf) @21:46 GMT
+* [lineamiento\_covid19\_plantas\_procesadoras\_alimentos\_v1\_13042020.pdf](59bbe9bfa25b7bfab8e906d747877719912cab44/file.pdf) @19:22 GMT
+* [lineam\_gene\_recolec\_resid\_sol\_trabaj\_municipales\_v3\_13042020.pdf](0302d10f9857096342f9f347f1bd16fe5fd8bab0/file.pdf) @18:47 GMT
+* [recomendaciones\_covid\_19\_afrodescendientes\_13042020.pdf](85bd5d3ce8c3db9fc9c87669f09064c41a38310d/file.pdf) @17:52 GMT
+* [1608-semana-santa-cierra-con-595-casos-confirmados-de-covid-19](f18c5ae3e55095af23627145dbf5ace95165da60/file.pdf) @00:44 GMT
+
+## 2020-04-12
+
+* [1607-nuevas-medidas-de-restriccion-aplicaran-del-13-al-30-de-abril](9575e2ae1bdc418779b84c8b03ef81fa4e5998e0/file.pdf) @12:33 GMT
+
+## 2020-04-11
+
+* [ms\_dm\_2658\_2020\_resolucion\_establecimientos\_11042020.pdf](9dfe39da75fb9cdb0580419bb8683117c19cb3cc/file.pdf) @23:04 GMT
+* [medidas\_administ\_temp\_aten\_activ\_concent\_masiva\_v15\_11042020.pdf](c2aad2a799c55434fe1d31aeb442e2dc332f47e8/file.pdf) @23:03 GMT
+* [lineamientos\_equipo\_de\_proteccion\_personal\_v4\_11042020.pdf](72c54940de44fe3f14104bb0abf61bdbb452c3cc/file.pdf) @20:04 GMT
+
 ## 2020-04-10
 
 * [1606-558-casos-confirmados-por-covid-19](4fcca1337ebda381cb23259fcff44547d9b8ad01/file.pdf) @23:22 GMT
@@ -139,14 +161,14 @@
 * [lineamiento\_general\_condominios\_v3\_27032020.pdf](d09ec39f3dc46ed9ed0c241e15182e9f79fc92d3/file.pdf) @21:28 GMT
 * [lineamientos\_odontologos\_v2\_27032020.pdf](0854065e8d5791b42d36988b951129a5cca1b339/file.pdf) @21:08 GMT
 * [lineamientos\_generales\_empleados\_sector\_construccion\_v1\_27032020.pdf](802008ccea952d9c87571fdc480f7ac9808d5f3e/file.pdf) @21:07 GMT
-* [decreto\_ejecutivo\_42248\_suspension\_contratos\_trabajo.pdf](ebca2d541e85286ac72f65b36867cafbdd88509b/file.pdf) @04:00 GMT
 * [decreto\_42221\_S\_concentracion\_actividades\_masivas.pdf](cae75bdc191237484dc5a7f30f15a78009b18e6e/file.pdf) @04:00 GMT
-* [decreto\_42238\_mgp\_s\_medidas\_sanitarias\_materia\_migratoria.pdf](09b9b501a413fcd564ae8fc12885e18a22f91a70/file.pdf) @04:00 GMT
-* [directriz\_073\_s\_mtss\_medidas\_coordinación\_interinstitucional.pdf](6ced6cf531ccdeb080e09f2eccc6382f66ab5c8b/file.pdf) @04:00 GMT
 * [decreto\_ejecutivo\_42253\_mopt\_s\_restriccion\_vehicular\_sanitaria.pdf](3366029fe5f3b82213a850d655a8c8d9b3707ac6/file.pdf) @04:00 GMT
-* [decreto\_ejecutivo\_42227\_mp\_s\_declaratoria\_emergencia\_nacional.pdf](794770b76ea0aa8251d3938ba1523dc35027e44c/file.pdf) @04:00 GMT
 * [directriz\_076\_s\_suministro\_agua\_potable.pdf](7bf695f190402c44f114e08d5137581166c73690/file.pdf) @04:00 GMT
+* [decreto\_42238\_mgp\_s\_medidas\_sanitarias\_materia\_migratoria.pdf](09b9b501a413fcd564ae8fc12885e18a22f91a70/file.pdf) @04:00 GMT
+* [decreto\_ejecutivo\_42227\_mp\_s\_declaratoria\_emergencia\_nacional.pdf](794770b76ea0aa8251d3938ba1523dc35027e44c/file.pdf) @04:00 GMT
+* [directriz\_073\_s\_mtss\_medidas\_coordinación\_interinstitucional.pdf](6ced6cf531ccdeb080e09f2eccc6382f66ab5c8b/file.pdf) @04:00 GMT
 * [directriz\_077\_s\_mtss\_mideplan\_funcionamiento\_instituciones\_publicas.pdf](b0c6c4280ce0ca32e3c5d8e1f06b676ddb73bb3e/file.pdf) @04:00 GMT
+* [decreto\_ejecutivo\_42248\_suspension\_contratos\_trabajo.pdf](ebca2d541e85286ac72f65b36867cafbdd88509b/file.pdf) @04:00 GMT
 
 ## 2020-03-26
 
