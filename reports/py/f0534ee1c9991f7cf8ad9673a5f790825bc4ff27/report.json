@@ -1,0 +1,19 @@
+{
+    "filename": "3aac8e-FichadeAutopsiaVerbal.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/3aac8e-FichadeAutopsiaVerbal.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587000931,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 16 Apr 2020 01:35:23 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "168776",
+        "last-modified": "Wed, 15 Apr 2020 19:58:51 GMT",
+        "etag": "\"29348-5a359beca5e93\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 168776,
+    "modified": 1586980731
+}

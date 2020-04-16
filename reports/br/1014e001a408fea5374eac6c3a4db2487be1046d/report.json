@@ -1,0 +1,28 @@
+{
+    "filename": "CT137-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/15\/CT137-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586977519,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "165603",
+        "date": "Wed, 15 Apr 2020 19:05:19 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1586977520.094.11053.930093; Path=\/; Secure; HttpOnly",
+        "last-modified": "Wed, 15 Apr 2020 18:33:03 GMT",
+        "etag": "\"286e3-5a3588beebe2f\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 5ba7f49b65e9f291b70710c9f41c48d1.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "siBXPMm5lIgL0JN8DpSripNLou41OsmoHhj-lYZPHVNZdUSUracgPg=="
+    },
+    "lang": "pt",
+    "size": 165603,
+    "modified": 1586975583
+}

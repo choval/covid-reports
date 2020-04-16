@@ -1,0 +1,32 @@
+{
+    "filename": "Elementos%20Ba%cc%81sicos%20PCE%20COVID-19%20para%20Patronos.pdf",
+    "uri": "http:\/\/www.salud.gov.pr\/Documents\/Elementos%20Ba%cc%81sicos%20PCE%20COVID-19%20para%20Patronos.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586978151,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private,max-age=0",
+        "content-length": "257719",
+        "content-type": "application\/pdf",
+        "expires": "Tue, 31 Mar 2020 19:15:50 GMT",
+        "last-modified": "Wed, 15 Apr 2020 16:27:43 GMT",
+        "etag": "\"{A1F8A019-0E8B-49FE-BDA2-5C8CC923000E},2\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-sharepointhealthscore": "0",
+        "resourcetag": "rt:A1F8A019-0E8B-49FE-BDA2-5C8CC923000E@00000000002",
+        "public-extension": "http:\/\/schemas.microsoft.com\/repl-2",
+        "sprequestguid": "1b17499f-cf1a-a001-aaf9-3774604b349a",
+        "request-id": "1b17499f-cf1a-a001-aaf9-3774604b349a",
+        "x-frame-options": "SAMEORIGIN",
+        "sprequestduration": "6",
+        "spiislatency": "0",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "15.0.0.4420",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "date": "Wed, 15 Apr 2020 19:15:50 GMT"
+    },
+    "lang": "es",
+    "size": 257719,
+    "modified": 1586968063
+}

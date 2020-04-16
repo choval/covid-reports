@@ -1,0 +1,26 @@
+{
+    "filename": "EN_Infographic-Seniors Should Stay Home-A.pdf",
+    "uri": "https:\/\/www.gov.sg\/-\/media\/gov\/covid-19\/stay-home-seniors\/pdf\/en_infographic-seniors-should-stay-home-a.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586978299,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1165825",
+        "content-type": "application\/pdf",
+        "last-modified": "Wed, 15 Apr 2020 03:16:13 GMT",
+        "accept-ranges": "bytes",
+        "server": "Gov.sg",
+        "content-disposition": "attachment; filename=\"EN_Infographic-Seniors Should Stay Home-A.pdf\"",
+        "strict-transport-security": "max-age=480",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "frame-ancestors 'self'",
+        "cache-control": "private, max-age=14378",
+        "date": "Wed, 15 Apr 2020 19:18:19 GMT",
+        "connection": "keep-alive",
+        "set-cookie": "ARRAffinity=0ac9bce649c45e7967e35a9af818b7ca2e33342c80af9690acae9cd95bdb1278;Path=\/;Domain=www.gov.sg"
+    },
+    "lang": "en,zh,ms,ta",
+    "size": 1165825,
+    "modified": 1586920573
+}

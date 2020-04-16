@@ -1,0 +1,24 @@
+{
+    "filename": "MSP_RECOMENDACIONES_PERSONAS_MAYORES_COVID_19_0.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_RECOMENDACIONES_PERSONAS_MAYORES_COVID_19_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587001007,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 16 Apr 2020 01:36:47 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Wed, 15 Apr 2020 19:30:46 GMT",
+        "etag": "\"1db0cb-5a3595a4e5e8c\"",
+        "accept-ranges": "bytes",
+        "content-length": "1945803",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Thu, 30 Apr 2020 01:36:47 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geote-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 1945803,
+    "modified": 1586979046
+}

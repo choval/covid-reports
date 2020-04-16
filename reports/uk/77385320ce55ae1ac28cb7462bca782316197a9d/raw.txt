@@ -1,0 +1,200 @@
+Tell us whether you accept cookies
+We use cookies to collect informationabout how you use GOV.UK. We use this information to make the website work as
+well as possible and improve government services.
+Coronavirus (COVID-19): what you need to do
+Hide message
+Guidance
+COVID-19 transport data: methodology note
+Published 15 April 2020
+Accept all cookies
+Set cookie preferences
+GOV.UK
+Stay at home
+Only go outside for food, health reasons or work (but only if you cannot work from home)
+If you go out, stay 2 metres (6ft) away from other people at all times
+Wash your hands as soon as you get home
+Do not meet others, even friends or family.
+You can spread the virus even if you don’t have symptoms.
+Home Coronavirus (COVID-19) transport data: methodology note
+Department
+for Transport
+The Department for Transport provides daily updates to the Cabinet Office for use in the government’s daily media
+briefings on changes in:
+1. road traffic in Great Britain;
+Contents
+1. Road traffic
+2. Rail passenger journeys
+3. Rail station concourse footfall
+4. Transport for London tube and bus routes
+5. Non-TfL buses
+Annex: data periodicity and baseline by mode
+2. rail passenger journeys in the UK;
+3. rail station concourse footfall at a set of monitored stations;
+4. Transport for London’s (TfL) tube and bus routes; and
+5. bus travel in Great Britain (excluding London)
+The data is sent as near to real time as possible. This document sets out information on the data sources and
+methodology used to generate each of these headline measures. To find the latest data, please see the slides and
+datasets to accompany coronavirus press conferences.
+Reminder on days of the week differences
+Although daily data is being reported, direct comparisons of change should not be made between weekdays and
+weekends/bank holidays. For public transport there are typically different levels of service/timetable in place on weekends
+and bank holidays than on weekdays; and for road traffic, there is a different profile on weekend days compared to
+weekdays.
+1. Road traffic
+Coverage
+The National Road traffic estimates include change in traffic on all road types in Great Britain and all motor vehicle types
+at GB level.
+Data source
+The analysis is based on around 275 automatic traffic count sites across Great Britain. These sites are used for DfT’s
+Quarterly Road Traffic National Statistics series to estimate traffic change and as such the samples of automatic traffic
+counters are stratified by area, road type, and traffic flow levels and have been designed to be representative of national
+traffic.
+Methodology
+The daily road traffic estimates are suitable as an indication of traffic change rather than actual traffic volumes. The data
+provided is indexed to the first week of February and the comparison is to the same day of the week, i.e., 100 would mean
+that traffic is the same as the equivalent day in the first week of February. Over the course of the year, normal traffic can
+vary by +/– 20%.”
+Quality
+In order to achieve a daily estimate of traffic change, lower levels of validation have been applied compared to normal
+statistical outputs. However, the data series is being verified against other sources and similar trends have been seen.
+Further statistics
+More information about DfT’s statistics on road traffic can be found on ourRoad Traffic Statistics pages.
+2. Rail passenger journeys
+Coverage
+Passenger journeys across the whole UK rail network.
+Data source
+Information on journeys comes from the Latest Earnings Networked Nationally Overnight (LENNON) data source.
+LENNON is the revenue settlement service for the train operating companies for UK passenger rail ticket sales and is the
+main source of data for UK rail fares revenue. The system processes information from the majority of UK train ticket sales,
+it then allocates daily revenue to each of the train operators within 24 hours of the ticket being purchased.
+Methodology
+Data labelled ‘National Rail’ on the CCS graph is calculated by summing the number of journeys for the week-to-date for
+2020 and expressing this as a percentage of the equivalent week in 2019.
+The number of journeys is calculated from LENNON by taking the number of ticket sales on that day and uplifting each
+sale by the number of likely journeys that would be taken with that ticket. For example: The purchase of an annual season
+ticket would be counted as 480 journeys, and an advanced return would be counted as two journeys.
+Quality
+Whilst fit for purpose for monitoring overall change in usage trends, there are a few quality issues with the LENNON
+journey data when using it for this purpose that should be borne in mind. These are mitigated to some extent by reporting
+the 2020 data as a percentage of 2019 rather than reporting journey numbers themselves:
+Data delay: The latest daily data covers ticket sales received up to the previous day, and generally includes 75–90% of
+the eventual sales receipts that will be included for that day (which will also reflect adjustments such as refunds). Data
+updates may therefore subsequently be made to previous days’ data from the start of each month. After 7 days the
+data is about 95% complete for a given date. Therefore, we recommend looking at trends rather than interpreting the
+exact figures.
+Journeys using annual season tickets are allocated an uplift of around 480 journeys (the estimated use over the course
+of the ticket’s validity, i.e., 240 return journeys) while a weekly ticket’s weighting is 10 journeys (5 return journeys). This
+could be an over or underestimate of usage, especially in the current climate.
+Journeys in LENNON are recorded based on the date of ticket sale, rather than the date of intended travel. There is
+therefore a risk of overestimating the number of journeys for season tickets and advanced tickets on a given day.
+LENNON does not cover some Passenger Transport Executives, local government bodies responsible for public
+transport in their areas.
+Daily passenger journey estimates and ticket sales are sensitive to occasional lump sum adjustments in LENNON. For
+example, TfL issue zonal season tickets which allow travel on National Rail. Earnings from these journeys are passed
+from TfL to train operating companies via LENNON. When these earnings are reported and dropped into LENNON, this
+could look like a considerable change in journeys or sales on a given day. Again, this supports looking at rolling weekly
+totals and comparing to the equivalent week in 2019.
+Further statistics
+More information about DfT’s rail passenger statistics can be found on ourRail Statistics pages.
+3. Rail station concourse footfall
+Coverage
+Network Rail’s station footfall data covers 17 of the 20 Network Rail managed stations, including 8 central London termini.
+This covers a very small proportion of the approximately 2,500 stations in Great Britain, though they are some of the
+busiest stations in the country. Data is not currently collected at Clapham Junction, London Bridge and St Pancras
+International. While footfall data for Guildford is being collected, it is currently excluded from the totals provided by DfT as
+there is no comparable data from a year ago.
+Data source
+Footfall data is collected on a daily basis from a network of sensors that count how many people enter and exit the stations
+for all purposes, including those who do not use the train services e.g. for shopping, food and drink, use of the
+tube/taxis/buses, and people who are just passing through the station or waiting to meet others.
+Methodology
+As well as counting people entering and exiting the stations, the sensors count people using the stations’ retail facilities
+separately (except at Guildford). This provides separate ‘concourse’ and ‘retail’ footfall counts, which allow us to see the
+number of stations users who are also using retail facilities, i.e., the retail penetration for each station.
+Quality
+Data accuracy of the footfall counts is +/- 5%. Due to a lag in data processing from Network Rail’s Digital Footfall System,
+there are often revisions made to the daily data back-series, e.g., to include new data from an individual station. This has
+a minor impact on footfall totals for the following day, and by the following week the data is broadly finalised.
+Further statistics
+More information about rail station concourse footfall can be found onNetwork Rail’s information pages.
+4. Transport for London tube and bus routes
+Coverage
+Transport for London bus and tube routes
+Data source
+Operational data from Transport for London
+Methodology
+Usage is measured by entry/exit data from tube stations and bus boarding taps. This is then compared to equivalent data
+from 1 year ago and to other trends to gauge the extent to which travel has been reduced.
+Quality
+This is operational data considered fit for purpose for reporting changes in trends in usage
+Further statistics
+More information about TfL’s tube and bus routes can be found on ourLight Rail and Tram Statistics and Bus Statistics
+pages.
+5. Non-TfL buses
+Coverage
+Passenger boardings on around half of bus services in Great Britain outside London.
+Data source
+This data has been provided by Ticketer, based on operators which were using Ticketer in the January reference week
+(3rd week of January). Data from other sources (including non-Ticketer operators) has been used to validate these figures
+and is generally consistent with the trends presented.
+Methodology
+A figure of 100 means the same level as that seen on the same day in the third week of January. A figure higher than 100
+shows an increase. A figure less than 100 shows a decrease.
+Passenger boardings will include physical ticket sales, where money changes hands, as well as smart cards (commercial
+or concessionary), QR tickets, and where the driver counts passengers (such as school runs).
+As a measure of comparability to “business as usual”, data for Easter and other bank holidays has been adjusted to
+compare against typical usage for those dates. This is because it is known that operators offer a different service level for
+those dates when compared with the typical service levels for those days of the week.
+Quality
+This is operational data considered fit for purpose for reporting changes in trends in usage. It is not necessarily equivalent
+to existing National Statistics on buses. Its precise comparability will only be truly known once National Statistics for the
+period have also been collected and validated.
+Further statistics
+More information about non-TfL bus travel can be found on ourBus Statistics pages.
+Coronavirus (COVID-19)
+Coronavirus (COVID-19): what you need to do
+Transition period
+Transition period: check how to get ready
+Services and information
+Benefits
+Births, deaths, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Annex: data periodicity and baseline by mode
+Mode Periodicity Baseline
+Roads Daily figure Equivalent day from first week of February 2020
+Rail: passenger journeys Rolling weekly total for week ending today Equivalent week in 2019
+Rail: station footfall Daily figure Equivalent day in 2019
+Non-TfL bus Daily figure Equivalent day from third week of January 2020
+TfL: tube and bus Daily figure Equivalent day in 2019
+Is this page
+useful? Yes No
+Is there anything wrong with this
+page?
+Departments and policy
+How government works
+Departments
+Worldwide
+Services
+Guidance and regulation
+News and communications
+Research and statistics
+Policy papers and consultations
+Transparency and freedom of information releases
+Help Privacy Cookies Contact Accessibility statement Terms and conditions Rhestr o Wasanaethau Cymraeg
+Built by the Government Digital Service
+© Crown copyright
+All content is available under the Open Government Licence v3.0, except where otherwise stated
+

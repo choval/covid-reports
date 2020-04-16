@@ -1,0 +1,24 @@
+{
+    "filename": "2020.04.13_CRITERIOS-PACIENTES-SIN-CONTAGIO-COVID-19_02.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/2020.04.13_CRITERIOS-PACIENTES-SIN-CONTAGIO-COVID-19_02.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587000432,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 16 Apr 2020 01:26:55 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Wed, 15 Apr 2020 21:24:18 GMT",
+        "etag": "\"191d5-5a35af0546480\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_1233_1958315=5aSPVGBgyiZpioHTOH8cEXC0l14AAAAA91zbi1kIj+Q9EvRhaGxhdg==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "2-21755043-21754648 pNNN RT(1587000431865 53) q(0 0 0 0) r(2 2) U6"
+    },
+    "lang": "es",
+    "size": 102869,
+    "modified": 1586985858
+}

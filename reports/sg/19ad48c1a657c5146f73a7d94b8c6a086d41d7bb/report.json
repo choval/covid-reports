@@ -1,0 +1,30 @@
+{
+    "filename": "situation-report---15-apr-2020.pdf",
+    "uri": "https:\/\/www.moh.gov.sg\/docs\/librariesprovider5\/local-situation-report\/situation-report---15-apr-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586978289,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "date": "Wed, 15 Apr 2020 19:18:09 GMT",
+        "content-disposition": "inline; filename=situation-report---15-apr-2020.pdf",
+        "content-security-policy": "default-src 'unsafe-inline' 'unsafe-eval' 'self' https:\/\/cse.google.com http:\/\/cse.google.com https:\/\/clients1.google.com http:\/\/clients1.google.com https:\/\/va.ecitizen.gov.sg http:\/\/assets.adobedtm.com http:\/\/dpm.demdex.net http:\/\/wogadobeanalytics.sc.omtrdc.net http:\/\/va.ecitizen.gov.sg https:\/\/www.google.com https:\/\/s3-us-west-2.amazonaws.com http:\/\/fonts.googleapis.com http:\/\/ajax.googleapis.com https:\/\/fonts.gstatic.com http:\/\/cm.everesttech.net http:\/\/fast.wogaa.demdex.net https:\/\/tools.onemap.sg https:\/\/www.gstatic.com https:\/\/forms.cwp.gov.sg https:\/\/www.google-analytics.com https:\/\/wogadobeanalytics.sc.omtrdc.net https:\/\/assets.juicer.io https:\/\/connect.facebook.net https:\/\/www.facebook.com https:\/\/www.juicer.io https:\/\/graph.facebook.com https:\/\/static.juicer.io https:\/\/i.imgur.com https:\/\/scontent.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/twitter.com https:\/\/wogaa.demdex.net https:\/\/www.googleapis.com https:\/\/stats.g.doubleclick.net https:\/\/www.googletagmanager.com https:\/\/www.onemap.sg http:\/\/www.moh.gov.sg http:\/\/www.youtube.com https:\/\/www.youtube.com https:\/\/static.pigeonhole.at https:\/\/pigeonhole.at *.hotjar.com:* *.hotjar.io wss:\/\/*.hotjar.com form.gov.sg https:\/\/www.googleadservices.com\/pagead\/conversion_async.js https:\/\/googleads.g.doubleclick.net https:\/\/www.google.com.sg assets.dcube.cloud assets.wogaa.sg assets.adobedtm.com https:\/\/snowplow-web.wogaa.sg https:\/\/youtu.be; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: *;",
+        "last-modified": "Wed, 15 Apr 2020 15:25:33 GMT",
+        "set-cookie": "ASP.NET_SessionId=bfmwohcedzkz4czwz4in1v15; path=\/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "cache-control": "max-age=86400, public",
+        "x-xss-protection": "1; mode=block",
+        "x-access-control-allow-origin": "*",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 ddbb445bfb4f50cdf7c8b96d2be519d4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "V4dOrQetT3AEyZTcXqMopkUy5kLalIxY1SIBcP7c6CsCnfxkukDj-A=="
+    },
+    "lang": "en",
+    "size": 1187384,
+    "modified": 1586964333
+}

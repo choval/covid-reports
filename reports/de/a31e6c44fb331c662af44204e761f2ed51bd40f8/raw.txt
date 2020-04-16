@@ -1,0 +1,642 @@
+1
+Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen
+und Einrichtungen für Menschen mit Beeinträchtigungen
+Empfehlungen für Alten- und Pflegeeinrichtungen und Einrichtungen für Menschen mit
+Beeinträchtigungen sowie für den öffentlichen Gesundheitsdienst
+2
+Inhaltsangabe
+Vorbemerkung............................................................................................................................................... 4
+1 Vorbereitung und Management für Alten- und Pflegeeinrichtungen und Einrichtungen für
+Menschen mit Beeinträchtigungen........................................................................................... 4
+2 Hygiene- und Infektionskontrollmaßnahmen für Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen.............................................................. 6
+2.1 Kernpunkte Basismaßnahmen für Alten- und Pflegeeinrichtungen und Einrichtungen für
+Menschen mit Beeinträchtigungen........................................................................................... 6
+2.2 Erweiterte Hygiene- und Infektionskontrollmaßnahmen ......................................................... 7
+2.2.1 Räumliche und personelle Maßnahmen ................................................................................... 7
+2.2.2 Personalschutz bei der Versorgung von COVID-19-infizierten Heimbewohnern und
+krankheitsverdächtigen Personen............................................................................................. 7
+2.3 Desinfektion und Reinigung ...................................................................................................... 9
+2.3.1 Desinfektionsmittel ................................................................................................................... 9
+2.3.2 Umgebungsdesinfektion............................................................................................................ 9
+2.3.3 Medizinprodukte....................................................................................................................... 9
+2.3.4 Geschirr ..................................................................................................................................... 9
+2.3.5 Wäsche, Betten und Matratzen ................................................................................................ 9
+2.4 Abfallentsorgung ....................................................................................................................... 9
+2.5 Dauer der besonderen Maßnahmen für COVID-19 Erkrankte................................................ 10
+2.6 Schlussdesinfektion................................................................................................................. 10
+2.7 Transport eines COVID-19 Erkrankten innerhalb der Einrichtung .......................................... 10
+2.8 Transport eines COVID-19 Erkrankten außerhalb der Einrichtung ......................................... 10
+2.9 Besucherregelungen................................................................................................................ 11
+3 Identifizierung und Management von Kontaktpersonen........................................................ 11
+4 Aktive Surveillance von respiratorischen Symptomen für Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen............................................................ 13
+4.1 Vorbemerkung......................................................................................................................... 13
+4.2 Durchführung des klinischen Monitorings auf COVID-19 der in den Einrichtungen Betreuten
+................................................................................................................................................. 13
+4.2.1 Organisation ............................................................................................................................ 13
+4.2.2 Erhebung der Symptome......................................................................................................... 14
+4.2.3 Medizinische Versorgung ....................................................................................................... 15
+4.2.4 Diagnostische Testung auf SARS CoV-2................................................................................... 15
+4.2.4.1 Szenario 1: Testergebnis steht noch aus und keine bekannten COVID-19-Fälle in der
+Einrichtung............................................................................................................................... 16
+3
+4.2.4.2 Szenario 2: Bestätigung einer COVID-19 Infektion oder bereits bekannte COVID-19-Infektion
+bei anderen Heimbewohnern/betreuten Personen ............................................................... 17
+4.3 Durchführung klinisches Monitoring des Personals auf COVID-19 ....................................... 18
+4.3.1 Organisation ............................................................................................................................ 18
+4.3.2 Erhebung von Symptomen und Abwesenheiten..................................................................... 18
+4.3.3 Diagnostische Testung............................................................................................................. 19
+4.3.4 Vorgehen ................................................................................................................................. 19
+5 Ausbruchsmanagement........................................................................................................... 20
+6 Umgang mit Verstorbenen...................................................................................................... 20
+7 Referenzen und Links .............................................................................................................. 20
+4
+Vorbemerkung
+Bewohner von Alten- und Pflegeeinrichtungen, und Bewohner sowie Betreute von Einrichtungen für
+Menschen mit Beeinträchtigungen (z.B. Schulen und Werkstätten) gehören aufgrund ihres Alters
+und/oder des Vorliegens von Vorerkrankungen (z.B. Diabetes, Herz- Kreislauferkrankungen) zu dem
+Personenkreis mit erhöhtem Risiko für einen schweren Krankheitsverlauf. Darüber hinaus besteht bei
+Auftreten einer COVID-19-Erkrankung in der Einrichtung aufgrund der gemeinsamen räumlichen
+Unterbringung, der Teilnahme an gemeinsamen Aktivitäten und z.T. nahem physischen Kontakt bei
+pflegerischen Tätigkeiten ein erhöhtes Risiko für den Erwerb einer Infektion. Diese Situation erfordert
+den Einsatz breitgefächerter Strategien für die Prävention des Auftretens und der Weiterverbreitung
+einer COVID-19-Erkrankung innerhalb der Einrichtung sowie nach extern. In den folgenden Ausführungen
+wird ein Interims-Leitfaden für Prävention und Management von COVID-19 in Alten- und
+Pflegeeinrichtungen und Einrichtungen für Menschen mit Beeinträchtigungen bereitgestellt, der auf
+bestehenden Empfehlungen für die Prävention der Übertragung von Infektionskrankheiten in Alten- und
+Pflegeeinrichtungen und andere bereits vorhandene Dokumente zu COVID-19 Bezug nimmt und in seiner
+Umsetzung auf den bereits implementierten diesbezüglichen Maßnahmen der Einrichtungen (z.B.
+Hygienepläne) basiert. Das Dokument wird kontinuierlich an neu gewonnene Kenntnisse und sich
+ändernde Bedingungen angepasst.
+Die Gesundheitsämter unterstützen die Umsetzung der Maßnahmen in den Einrichtungen, in denen kein
+Hygienefachpersonal zur Verfügung steht.
+1 Vorbereitung und Management für Alten- und Pflegeeinrichtungen und Einrichtungen für
+Menschen mit Beeinträchtigungen
+Falls nicht bereits geschehen, sollte vom Management der Einrichtung möglichst in Zusammenarbeit mit
+den Gesundheitsbehörden ein COVID-19-Plan erarbeitet werden. Dabei sollten entsprechende
+Bestimmungen der jeweiligen Landesregierung umgesetzt werden.
+Neben den Hygiene- und Infektionskontrollmaßnahmen können organisatorische Maßnahmen
+entscheidend dazu beitragen, dass SARS-CoV-2 nicht in die Einrichtung hineingetragen und ggf. innerhalb
+der Einrichtung weiterverbreitet wird.
+Ausgewählte Aspekte, die hier berücksichtigt werden müssen:
+• Bildung eines Teams mit klarer Zuordnung von Verantwortlichkeiten für die verschiedenen Bereiche
+wie z. B. Hygiene/ Infektionskontrolle, Kommunikation, Beschaffung von notwendigen Material
+• Information der Heimbewohner, der Menschen mit Beeinträchtigungen, des Personals und der
+Angehörigen zu COVID-19 und zu den erforderlichen Maßnahmen zu deren Schutz.
+• Information und Schulung des Pflegepersonals (z.B. in Bezug auf die praktische Umsetzung von
+Hygienemaßnahmen wie dem korrekten Anlegen und Ausziehen der persönlichen Schutzausrüstung
+5
+(PSA))
+• Schulung des übrigen Personals mit und ohne direkten Risikopersonenkontakt (z.B. hinsichtlich der
+Einhaltung der Abstandsregelung auch unter dem Personal, Händehygiene, Tragen von MNS im
+Bereich der Heimbewohner (insbesondere Reinigungspersonal!)) bei allen Tätigkeiten im
+Bewohnerbereich.
+• Organisatorische Maßnahmen zur Kontaktreduzierung innerhalb der Einrichtung (z.B. keine oder
+zeitlich gestaffelte gemeinsame Mahlzeiten).
+• Implementierung und Durchsetzung von Zugangsregelungen für Besucher, externe Dienstleister (z.B.
+Friseure, Fußpfleger, Physiotherapeuten) und anderen Personen wie z.B. ehrenamtliche Mitarbeiter
+und Seelsorger. Falls Zugang zur Einrichtung gewährt wird, sollte dies nur unter Einhaltung
+bestimmter Bedingungen erfolgen (siehe unten 2.9 Besucherregelungen)
+Kontakte von Heimbewohnern und Angehörigen außerhalb der Einrichtung sollten aufgrund des
+Übertragungsrisikos vermieden werden.
+• Falls möglich, Bereitstellung alternativer Kommunikationsmöglichkeiten.
+• Implementierung und Durchsetzung von Abwesenheitsregelungen für das Personal z.B. bei Auftreten
+von respiratorischen Symptomen.
+• Kompensation bei Ausfall von Personal bzw. ggf. Mehrbedarf an Personal z.B. in einer
+Ausbruchssituation (z.B. Reservepool).
+• Unter bestimmten Umständen können in Abstimmung mit den Gesundheitsbehörden Maßnahmen
+wie die Verhängung eines Aufnahme-/Verlegungsstopps erfolgen; Rehabilitationseinrichtungen
+können ggf. als Ersatzeinrichtungen dienen. Definition von Regelungen für Neuaufnahmen, z.B. nur
+mit negativem Testergebnis bzw. vorsorgliche Umsetzung einer Quarantäne.
+Kriterien zur Entlassung aus dem Krankenhaus bzw. der häuslichen Isolierung
+• Es sollten feste Kleingruppen unter den Bewohnern / Betreuten gebildet werden, die alle kollektiven
+Tätigkeiten gemeinsam verrichten, damit bei Nachweis von SARS-CoV-2 nur eine kleine Gruppe von
+Personen als Kontakte entsteht.
+• Das Personal sollte, wenn möglich, in festen voneinander unabhängigen Teams arbeiten.
+6
+2 Hygiene- und Infektionskontrollmaßnahmen für Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen
+Die Implementierung und Einhaltung von Hygiene- und Infektionskontrollmaßnahmen sind essentieller
+Bestandteil der Bemühungen zur Prävention einer Verbreitung von COVID-19-Erkrankungen in der
+Einrichtung und sind detailliert in den Dokumenten KRINKO-Empfehlungen zur Infektionsprävention in
+Heimen und Hygienemaßnahmen in der Pflege von COVID-19 Patienten und Infektionsprävention im
+Rahmen der Pflege und Behandlung von Patienten mit übertragbaren Krankheiten beschrieben. Siehe
+auch die Empfehlungen des paritätischen Gesamtverbandes zu COVID-19.
+Im Folgenden werden für Alten- und Pflegeeinrichtungen und Einrichtungen für Menschen mit
+Beeinträchtigungen adaptierte Auszüge aus dem Dokument Empfehlungen des RKI zu
+Hygienemaßnahmen im Rahmen der Behandlung und Pflege von Patienten mit einer Infektion durch
+SARS-CoV-2 bereitgestellt.
+2.1 Kernpunkte Basismaßnahmen für Alten- und Pflegeeinrichtungen und Einrichtungen für
+Menschen mit Beeinträchtigungen
+• Strikte Einhaltung der Basishygiene einschließlich der Händehygiene und die konsequente
+Umsetzung der Vorgaben des Hygieneplans der Einrichtung.
+• Darüber hinaus wird im Rahmen der COVID-19-Pandemie auch außerhalb der direkten Versorgung
+von COVID-19-Patienten das generelle Tragen von Mund-Nasen-Schutz (MNS) durch sämtliches
+Personal mit direktem Kontakt zu allen Risikogruppen aus Gründen des Risikopersonenschutzes
+während der Pandemie empfohlen. Weiterhin dient dies auch dem Personalschutz, da
+Übertragungen zwischen Mitarbeitern vorgebeugt wird. Hintergrund ist, dass eine COVID-19-
+Erkrankung auch sehr milde oder asymptomatisch verlaufen kann und von den Mitarbeitern gar
+nicht bemerkt wird. Darüber hinaus wurde nachgewiesen, dass bereits 2 Tage vor Auftreten der
+ersten Krankheitssymptome das Virus ausgeschieden und übertragen werden kann.
+• Bei der Versorgung von Risikopersonen mit respiratorischen Symptomen sollte, soweit dies toleriert
+wird, auch von den Risikopersonen selbst ein MNS getragen werden bis zum Vorliegen des
+Testergebnisses. Bei positivem Test siehe unten (Abschnitt 4.2.4.2).
+• Allgemeine Hygienemaßnahmen für Risikopersonen, Personal (auch Reinigungskräfte), Besucher:
+o Einhaltung von Husten- und Nieß-Regeln: Husten und Nießen in die Ellenbeuge oder in ein
+Einmaltaschentuch, nicht in die Hand; Entsorgung der Einmaltaschentücher in
+geschlossenem Abfalleimer mit Müllbeutel
+o Vermeidung der Berührung des Gesichts, insbesondere von Mund und Nase
+o Händehygiene: Händewaschen vor und nach der Zubereitung von Speisen, vor dem Essen,
+nach dem Toilettengang, nach einem Aufenthalt im Freien, nach Berührung von gemeinsam
+genutzten Gegenständen (Türgriffe) usw.
+o Beachtung der Abstandsregelung (1,5 - 2 m)
+o Kontaktreduzierung (Mitbewohner, Mitschüler, Besucher)
+• Einmaltaschentücher sollten in allen Bereichen, auch den Wohnbereichen der Bewohner, sowie beim
+Betreten der Einrichtung bereitgestellt werden.
+7
+• Mülleimer mit Müllbeutel zur Entsorgung von Einmalartikeln (z.B. Taschentücher, Masken) sollten im
+Innenbereich der Zimmer vor der Tür aufgestellt werden.
+• Zur Desinfektion sind Mittel mit nachgewiesener Wirksamkeit, mit dem Wirkungsbereich "begrenzt
+viruzid" (wirksam gegen behüllte Viren) anzuwenden.
+• Tägliche Wischdesinfektion von häufig berührten (Handkontakt-) Flächen (z.B. Türklinken) bzw.
+sensiblen Räumlichkeiten (z.B. Nassbereich)
+• Alle Medizinprodukte mit direktem Kontakt zu Heimbewohnern bzw. Menschen, die in Einrichtungen
+für Menschen mit Beeinträchtigung betreut werden (z.B. Fieberthermometer, Stethoskope,
+Blutdruckmanschetten etc.) sind personenbezogen zu verwenden.
+2.2 Erweiterte Hygiene- und Infektionskontrollmaßnahmen
+Erweiterte Hygiene- und Infektionskontrollmaßnahmen finden Anwendung bei Risikopersonen mit
+bestätigter Covid-19-Erkrankung, bei Kontaktpersonen sowie bei symptomatischen Risikopersonen, für
+die noch kein Testergebnis vorliegt.
+In nicht-stationären Einrichtungen für Menschen mit Beeinträchtigungen sollten keine Personen mit
+positivem Direktnachweis von SARS-COV-2 betreut werden.
+2.2.1 Räumliche und personelle Maßnahmen
+• Unterbringung und Versorgung von SARS-CoV-2-positiven Heimbewohnern, von Kontaktpersonen
+sowie symptomatischen Heimbewohnern noch vor dem Vorliegen eines Testergebnisses in einem
+Einzelzimmer möglichst mit eigener Nasszelle. Die Teilnahme an Gemeinschaftsaktivitäten mit SARS-
+CoV-2-negativen Bewohnern ist nicht möglich.
+• Kohortierung
+Bei SARS-CoV-2-Nachweisen in der Einrichtung sollten 3 Bereiche räumlich und personell
+voneinander abgegrenzt werden:
+1. für Nicht-Fälle (Bewohner ohne Symptome bzw. Kontakt; mit großer Wahrscheinlichkeit negativ)
+2. für Verdachtsfälle (z. B: Kontakte oder symptomatische Bewohnerinnen und Bewohnern, für die noch
+kein Testergebnis vorliegt)
+3. für COVID-19-Fälle (SARS-COV-2 positiv getestet)
+Im Falle des Vorhandenseins einer anderen Infektionskrankheit wie z. B. Influenza müsste ggf. ein
+weiterer separater Bereich eingerichtet werden.
+Die drei Bereiche sollten fest zugeordnetes Personal haben, das im Falle einer Kohortierung auch nur in
+diesem Bereich eingesetzt wird.
+2.2.2 Personalschutz bei der Versorgung von COVID-19-infizierten Heimbewohnern und
+krankheitsverdächtigen Personen
+8
+• Es soll für die Versorgung von COVID-19-Erkrankten und krankheitsverdächtigen Heimbewohnern
+geschultes Personal eingesetzt werden, welches von der Versorgung anderer Patienten freigestellt
+wird.
+• Zur Pflege von infizierten und krankheitsverdächtigen Heimbewohnern sollte persönliche
+Schutzkleidung (PSA) bestehend aus Mund-Nasen-Schutz (MNS) bzw. Atemschutz, Schutzkittel und
+Schutzbrille sowie Einweghandschuhe getragen werden. Bei der direkten Versorgung von
+Bewohnern mit bestätigter oder wahrscheinlicher COVID-19-Erkrankung sollten bevorzugt FFP2-
+Masken getragen werden (Schutz vor Aerosolen und Tröpfchen). Wenn FFP2-Masken nicht zur
+Verfügung stehen, soll MNS getragen werden (Schutz gegen Tröpfchen). Bei allen Tätigkeiten, die mit
+Aerosolproduktion einhergehen können (z.B. Absaugen über Trachealtubus), sollen
+Atemschutzmasken (FFP2 oder darüber hinausgehender Atemschutz) getragen werden.
+Hygienemaßnahmen in der Pflege von COVID-19 Patienten
+• Im Ausbruchsfall sollte erwogen werden, bei der Betreuung der gesamten betroffenen Station eine
+PSA anzulegen. Bisherige Erfahrungen aus Ausbrüchen in Alten- und Pflegeheimen haben gezeigt,
+dass es einen nicht unerheblichen Anteil an asymptomatischen bzw. noch nicht symptomatischen
+aber infizierten Heimbewohnern gibt, die zur Weiterverbreitung beitragen können. Daher wird
+empfohlen, frühzeitig die Hygienemaßnahmen auf die gesamte Station auszuweiten.
+• Die Anforderungen an die persönliche Schutzausrüstung werden in der TRBA250 bzw. in der KRINKO-
+Empfehlung Infektionsprävention im Rahmen der Pflege und Behandlung von Patienten mit
+übertragbaren Krankheiten spezifiziert.
+• Persönliche Schutzausrüstung (s. oben) soll vor Betreten des Zimmers des Heimbewohners anlegt,
+und vor Verlassen der Schleuse/des Zimmers dort belassen werden.
+• Schutzausrüstung und Hinweise zu deren Benutzung sollten unmittelbar vor den Wohnbereichen
+platziert werden und Mülleimer zur Entsorgung von Einmalartikeln sollten im Innenbereich vor der
+Tür aufgestellt werden
+• Händehygiene: Die bekannten Indikationen für die Händehygiene (Händedesinfektion bzw. in
+Handschuhwechsel) gemäß den 5 Momenten der Händehygiene müssen beachtet werden.
+• Zur Händedesinfektion sollen Desinfektionsmittel mit nachgewiesener, mindestens begrenzt
+viruzider Wirksamkeit nach Ausziehen der Handschuhe und vor Verlassen des Zimmers eingesetzt
+werden.
+• Einweghandschuhe bzw. -kittel vor Verlassen des Zimmers sollen in einem geschlossenen Behältnis
+entsorgen werden (siehe Abschnitt 2.4 Abfallentsorgung).
+• Beobachtung des Gesundheitszustandes des eingesetzten Personals (siehe 4. Aktive Surveillance)
+Informationen zu Mund-Nasen-Schutz-, Atem- und Behelfsmasken sowie Informationen zum
+ressourcenschonenden Einsatz von Masken finden Sie hier Hinweise zur Verwendung von Masken
+(MNS- FFP- sowie Behelfsmasken)
+9
+2.3 Desinfektion und Reinigung
+2.3.1 Desinfektionsmittel
+Zur Desinfektion sind Mittel mit nachgewiesener Wirksamkeit, mit dem Wirkungsbereich "begrenzt
+viruzid" (wirksam gegen behüllte Viren) anzuwenden. Mittel mit erweitertem Wirkbereich gegen Viren
+wie "begrenzt viruzid PLUS" oder "viruzid" können ebenfalls verwendet werden.
+Geeignete Mittel enthalten die Liste der vom RKI geprüften und anerkannten Desinfektionsmittel und -
+verfahren (RKI-Liste) und die Desinfektionsmittel-Liste des Verbundes für Angewandte Hygiene (VAH-
+Liste). Bei behördlich angeordneten Desinfektionsmaßnahmen ist die RKI-Liste heranzuziehen.
+2.3.2 Umgebungsdesinfektion
+Tägliche Wischdesinfektion der patientennahen (Handkontakt-) Flächen (z.B. Nachttisch, Nassbereich,
+Türgriffe) mit einem Flächendesinfektionsmittel mit nachgewiesener, mindestens begrenzt viruzider
+Wirksamkeit (s. oben). Bei Bedarf sind die Desinfektionsmaßnahmen auf weitere
+kontaminationsgefährdete bzw. kontaminierte Flächen auszudehnen.
+2.3.3 Medizinprodukte
+Alle Medizinprodukte mit direktem Kontakt zu dem Heimbewohner (z.B. Fieberthermometer,
+Stethoskope, Blutdruckmanschetten etc.) sind bewohnerbezogen zu verwenden und müssen nach
+Gebrauch desinfiziert werden. Anforderungen an die Hygiene bei der Aufbereitung von
+Medizinprodukten
+2.3.4 Geschirr
+Geschirr kann in einem geschlossenen Behältnis zur Spülmaschine transportiert und wie in der
+Einrichtung üblich gereinigt werden.
+2.3.5 Wäsche, Betten und Matratzen
+• Wäsche/Textilien können einem desinfizierenden Waschverfahren gemäß RKI-Liste zugeführt
+werden. Als Taschentücher sollen Einwegtücher Verwendung finden.
+• Für Betten und Matratzen werden wischdesinfizierbare Überzüge empfohlen.
+2.4 Abfallentsorgung
+Die Grundlage für die Entsorgung von Abfällen aus Einrichtungen des Gesundheitswesens stellt die
+Richtlinie der LAGA Nr. 18 dar.
+• Nicht flüssige Abfälle aus der Behandlung von COVID-19-Patienten stellen unter Einhaltung der
+üblichen Maßnahmen des Arbeitsschutzes und des Tragens geeigneter persönlicher
+Schutzausrüstung kein besonderes Infektionsrisiko dar und sind in aller Regel der
+Abfallschlüsselnummer ASN 18 01 04 (Abfälle, an deren Sammlung und Entsorgung aus
+infektionspräventiver Sicht keine besonderen Anforderungen gestellt werden) zuzuordnen. Die
+10
+Abfälle sind dabei stets in verschlossenen und reißfesten Plastiksäcken der Abfallsammlung
+zuzuführen. Spitze und scharfe Gegenstände sind wie üblich in bruch- und durchstichsicheren
+Einwegbehältnissen zu sammeln und zu verpacken.
+Abfälle aus Haushalten sind Restabfall (ASN 20 03 01).
+2.5 Dauer der besonderen Maßnahmen für COVID-19 Erkrankte
+Zurzeit gibt es noch keine sicheren Kenntnisse über die Dauer der Virusausscheidung. Das RKI hat in
+Abstimmung mit der Arbeitsgruppe Infektionsschutz der AOLG mögliche Kriterien zur Aufhebung der
+Isolierung bzw. Entlassung erarbeitet, die auch Empfehlungen für das Vorgehen bei Bewohnern von
+Alten- und Pflegeheimen enthalten.
+Kriterien zur Entlassung aus dem Krankenhaus bzw. der häuslichen Isolierung
+Kriterien zur Entlassung von Bewohnern von Altenpflegeheimen unabhängig von der
+Krankheitsschwere und dem Ort der Isolierung
+• Symptomfreiheit seit mind. 48 Stunden bezogen auf die akute COVID-19-Erkrankung
+• 2 negative SARS-CoV-2-PCR-Untersuchungen gewonnen aus oro- und nasopharyngealen Abstrichen
+(zeitgleiche Abnahme möglich, bei Bedarf mit demselben Abstrichtupfer)
+Im Einzelfall kann in enger Absprache von Klinik, Labor und Gesundheitsamt von diesen Kriterien
+abgewichen werden.
+2.6 Schlussdesinfektion
+Die Schlussdesinfektion erfolgt mit mindestens begrenzt viruziden Mitteln gemäß der Empfehlung
+Anforderungen an die Hygiene bei der Reinigung und Desinfektion von Flächen.
+2.7 Transport eines COVID-19 Erkrankten innerhalb der Einrichtung
+• Ist ein Transport innerhalb der Einrichtung unvermeidbar, soll der Zielbereich vorab informiert
+werden.
+• Der Transport soll als Einzeltransport erfolgen, dabei trägt der Patient einen Mund-Nasen-Schutz
+sofern es der Gesundheitszustand des Patienten zulässt.
+• Zur persönlichen Schutzausrüstung des Personals siehe Abschnitt 2.2.2 Personalschutz
+• Der Kontakt zu anderen Bewohnern oder Besuchern ist zu vermeiden.
+• Unmittelbar nach den Maßnahmen in der Zieleinrichtung sind die Kontaktflächen und das
+Transportmittel vor erneuter Nutzung wie oben beschrieben zu desinfizieren (siehe Abschnitt 2.3
+Desinfektion und Reinigung).
+2.8 Transport eines COVID-19 Erkrankten außerhalb der Einrichtung
+11
+• Vor Beginn des Transportes ist die/das aufnehmende Einrichtung/Krankenhaus über die Einweisung
+des Bewohners und über seine Verdachtsdiagnose / Erkrankung zu informieren.
+• Falls es der Gesundheitszustand des Patienten zulässt, sollte er mit einem Mund-Nasen-Schutz
+versorgt werden.
+• Zur persönlichen Schutzausrüstung des Personals (siehe Abschnitt 2.2.2 Personalschutz)
+• Unmittelbar nach Transport ist eine Wischdesinfektion sämtlicher zugänglicher Flächen und
+Gegenstände mit einem Flächendesinfektionsmittel (siehe Abschnitt 2.3 Desinfektion und Reinigung)
+durchzuführen.
+2.9 Besucherregelungen
+Die Entscheidung, ob und unter welchen Bedingungen (z.B. Sterbesituation) Besuchern der Zutritt
+gestattet wird, hängt von der lokalen Situation ab und sollte von der Einrichtung ggf. in Abstimmung mit
+dem Gesundheitsamt getroffen werden.
+• Generell sollten soziale Kontakte möglichst über Telekommunikation anstatt über persönliche
+Besuche erfolgen.
+• Besucher mit Erkältungssymptomen sowie Kontaktpersonen von COVID-19-Infizierten sollen der
+Einrichtung fern bleiben.
+• Für den Fall, dass Besuche zugelassen werden
+o jeder Besuch muss registriert werden (Name des Besuchers, Datum des Besuchs, besuchter
+Heimbewohner)
+o die Besuche sollen auf ein Minimum beschränkt und zeitlich begrenzt werden
+o die Besucher müssen in den erforderlichen Schutzmaßnahmen unterwiesen werden.
+Diese beinhalten:
+ das Einhalten von mindestens 1,5 - 2 m Abstand zum Bewohner
+ das Tragen von Schutzkittel und Mund-Nasen-Schutz
+ die Händedesinfektion beim Verlassen des Bewohnerzimmers.
+3 Identifizierung und Management von Kontaktpersonen
+Eine wichtige Maßnahme zur Verhinderung der weiteren Ausbreitung von COVID-19 innerhalb einer
+Einrichtung sowie nach extern ist die Identifizierung der Personen mit Kontakt zu einem COVID-19-
+Erkrankten. Kontaktpersonen sind Personen mit einem definierten Kontakt zu einem bestätigten Fall von
+COVID-19 ab dem 2. Tag vor Auftreten der ersten Symptome des Falles. Das Ende der infektiösen Periode
+(Dauer der Virusausscheidung) ist momentan nicht sicher anzugeben.
+Kontaktpersonen können andere Heimbewohner, Betreute, das Personal (Pflegekräfte, Heimärzte,
+Hausärzte und ggf. deren Angestellte, Service-/Küchenpersonal, Handwerker usw.), Dienstleister (z.B.
+Fußpfleger, Physiotherapeuten), Besucher sowie andere Personen sein, die zu der Einrichtung Zugang
+haben wie z.B. ehrenamtliche Mitarbeiter.
+Die Kontaktpersonennachverfolgung sollte in Abstimmung mit dem Gesundheitsamt erfolgen.
+12
+Ziele der Kontaktnachverfolgung
+• Unterbrechung von Infektketten ausgehend von einer SARS-CoV-2-infizierten Person
+• Frühzeitige Erkennung der Erkrankung einer Kontaktperson und rechtzeitige Einleitung von
+medizinischen Maßnahmen.
+Kontaktkategorien
+Aufgrund der Art, Nähe, Dauer des Kontaktes sowie der Nutzung von adäquater Schutzkleidung werden
+Kontakte in 3 verschiedene Risikokategorien eingeteilt:
+• Kategorie I – enger Kontakt und höheres Infektionsrisiko
+• Kategorie II – geringeres Infektionsrisiko
+• Kategorie III
+Aufgrund des unterschiedlichen Infektionsrisikos werden für das Management der Kontaktpersonen
+verschiedene Vorgehensweisen empfohlen.
+Eine detaillierte Beschreibung der Kontaktkategorien sowie der empfohlenen Vorgehensweisen findet
+sich in dem Dokument Kontaktpersonennachverfolgung bei respiratorischen Erkrankungen durch das
+Coronavirus SARS-CoV-2
+Eine anschauliche Darstellung zeigt die Infographik Kontaktpersonennachverfolgung
+Das Management des Pflegepersonals mit Kontakt zu SARS-CoV-2-infizierten Personen kann unter
+bestimmten Bedingungen der gegebenen Personalsituation in der jeweiligen Einrichtung angepasst
+werden. Informationen zum Management des Pflegepersonals wird in dem Dokument Optionen zum
+Management von Kontaktpersonen unter Personal von Alten- und Pflegeeinrichtungen bei
+Personalmangel beschrieben.
+Eine anschauliche Darstellung zeigt die Infographik Kontaktpersonennachverfolgung bei SARS-CoV-2-
+Infektionenbei Personal von Alten- und Pflegeheimen
+13
+4 Aktive Surveillance von respiratorischen Symptomen für Alten- und Pflegeeinrichtungen
+und Einrichtungen für Menschen mit Beeinträchtigungen
+4.1 Vorbemerkung
+Durch ein aktives Monitoring des Auftretens von respiratorischen Symptomen bei Bewohnern von Alten-
+und Pflegeeinrichtungen und Betreuten in Einrichtungen für Menschen mit Beeinträchtigungen und beim
+Personal dieser Einrichtungen sollen mögliche COVID-19-Erkrankungen frühzeitig detektiert werden, um
+unverzüglich die erforderlichen Maßnahmen zur Verhinderung einer Weiterverbreitung innerhalb der
+Einrichtung einleiten zu können. Dies erfordert eine permanente Wachsamkeit des Personals sowie ein
+systematisches Vorgehen hinsichtlich der Erfassung von Symptomen, die auf eine Covid-19-Erkrankung
+hinweisen können (Neuauftreten oder akute Verschlechterung bei bestehender Vorerkrankung der
+Atemwege). In den folgenden Ausführungen wird ein Interims-Leitfaden für die Durchführung einer
+aktiven Surveillance in den Einrichtungen vorgestellt, der kontinuierlich an neu gewonnene Kenntnisse
+und sich ändernde Bedingungen angepasst werden soll.
+Ziele:
+- Frühzeitige Detektion des Auftretens von Symptomen und Durchführung diagnostischer Tests
+- Zeitgerechte Einleitung der notwendigen medizinischen Maßnahmen
+- Unverzügliche Implementierung der erforderlichen Hygienemaßnahmen und anderer
+Maßnahmen, um eine weitere Verbreitung innerhalb der Einrichtung und nach Extern zu
+vermeiden.
+- Frühzeitige Information und Kooperation mit den örtlichen Gesundheitsbehörden
+- Bereitstellung einer Übersicht (z.B. in Form einer Excel-Tabelle) mit relevanten Informationen zu
+Heimbewohnern, Betreuten und Personal (z.B. Symptome, diagnostische Testung, betroffene
+Organisationseinheit), die einen Überblick gibt über die Entwicklung der Situation in der
+Einrichtung und als Grundlage zur weiteren Planung (z.B. Kohortierung) dienen soll.
+4.2 Durchführung des klinischen Monitorings auf COVID-19 der in den Einrichtungen Betreuten
+4.2.1 Organisation
+Die Leitung der Einrichtung/Pflegedienstleitung bestimmt eine Person (und Vertretung), die
+verantwortlich ist für die Durchführung des klinischen Monitorings. Die betreffende Person sollte
+geschult sein hinsichtlich der in Zusammenhang mit Covid-19 auftretenden Symptome unter
+Berücksichtigung eines möglicherweise atypischen klinischen Erscheinungsbildes bei diesen
+Personengruppen. Dies könnte z.B. ein Hygiene-beauftrager Mitarbeiter sein.
+Aufgaben
+• Mindestens 1 x tägliche Erfassung und Dokumentation der entsprechenden klinischen Symptome bei
+Heimbewohnern, Betreuten und Personal.
+14
+• Zusammenführen bzw. Dokumentation der klinischen Symptomatik und anderer relevanter
+Informationen zu den Bewohnern/Betreuten und dem Personal in jeweils einer Gesamtübersicht in
+Form einer Excel-Tabelle.
+4.2.2 Erhebung der Symptome
+Bei allen Betreuten in den Einrichtungen soll mindestens 1 x täglich der Status bezüglich des Auftretens
+von Symptomen, die mit COVID-19 vereinbar sind, erhoben werden. Dies beinhaltet die
+Abfrage/Feststellung des Neuauftretens von Symptomen einschließlich der Messung der
+Körpertemperatur (möglichst zu Beginn der Frühschicht).
+Symptome:
+- Fieber (>37,8°C, oral)*#
+- Husten*
+- Kurzatmigkeit*
+- Halsschmerzen*
+- Schnupfen*
+- Weitere Symptome: Halsschmerzen, Muskel- und Gelenkschmerzen, verstopfte Nase,
+Kopfschmerzen, Übelkeit/Erbrechen, Durchfall, Appetitlosigkeit, Gewichtsverlust,
+Konjunktivitis, Hautausschlag, Apathie, Somnolenz
+*Minimum an Symptomen, die abgefragt bzw. erfasst werden sollten
+Die häufigsten Symptome sind Fieber und Husten, bei Personen aus Risikogruppen kann es jedoch
+vorkommen, dass sie kein Fieber entwickeln und eher unspezifische Symptome wie z.B.
+Verschlechterung des Allgemeinzustandes, Müdigkeit und zunehmende Verwirrtheit auftreten. Bei
+Personen mit vorbestehender Lungenerkrankung kann es zu einer akuten Verschlechterung der
+vorbestehenden Symptomatik kommen.
+Informationen zur klinischen Symptomatik finden Sie im Steckbrief zu Covid-19
+#
+Anmerkung zur Definition von Fieber beim alten Menschen:
+Da wie oben erwähnt Fieber kein zuverlässiges Symptom ist, wurde von Stone et al. eine an diese
+Situation adaptierte Definition von Fieber zur Verwendung in Alten- und Pflegeheimen vorgeschlagen:
+>37,8°C oral als Einzelwert oder wiederholte orale Temperaturen von 37,2°C oder rektale Temperaturen
+> 37.5°C oder eine Einzelmessung mit 1.1°C über der „Normaltemperatur“ (1).
+Aktive Erfassung
+Die Erfassung der Symptome kann erfolgen durch direktes Ansprechen der Betreuten in den
+Einrichtungen oder durch Befragung der betreuenden Pflegekraft /betreuendes Personal (insbesondere
+bei dementen oder anderweitig in ihren verbalen Äußerungen eingeschränkten Personen) durch die für
+das Monitoring verantwortliche Person.
+Falls es eine feste Zuordnung von Pflegekräften / Personal zu einzelnen Betreuten der Einrichtung gibt,
+könnten alternativ die entsprechenden Informationen von der jeweiligen betreuenden Person erhoben
+15
+und dokumentiert werden. Dies hätte den Vorteil, dass Verschlechterungen des Gesundheitszustandes
+sensitiver wahrgenommen und erkannt werden.
+Neu aufgenommene Betreute in den Einrichtungen sollen umgehend hinsichtlich Symptomen, die mit
+COVID-19 vereinbar sind befragt/untersucht werden. Falls solche Symptome angegeben werden, sollte
+umgehend eine weiterführende Abklärung (ärztliche Konsultation) und Einleitung entsprechender
+Hygienemaßnahmen erfolgen sowie Kontaktaufnahme mit verlegender Einrichtung.
+Durch die benannte verantwortliche Person sollte sichergestellt werden, dass die entsprechenden
+Angaben vollständig sind und für alle Heimbewohner vorliegen.
+Selbstbeobachtung
+Bewohner/Betreute in Einrichtungen sollten auch dazu aufgefordert werden sich zu melden, wenn
+respiratorische Symptome auftreten oder sie sich fiebrig fühlen.
+Dokumentation
+Die Ergebnisse sollen in einem Formblatt dokumentiert werden.
+Musterformblätter werden in Kürze bereitgestellt
+Um einen Überblick über die Gesamtsituation zu gewinnen können die Ergebnisse der
+Symptomerhebung bei Bewohnern/Betreuten sowie Informationen zu den ggf. daraus resultierenden
+Maßnahmen (z.B. Durchführung einer Testung, Testergebnisse, Isolierung, Kohortierung) in einer Liste
+zusammengeführt werden.
+Musterformblätter werden in Kürze bereitgestellt
+4.2.3 Medizinische Versorgung
+Die für den Bereich/Station verantwortliche Pflegekraft / Betreuer veranlasst zur weiteren Abklärung
+und zum Festlegen des weiteren Vorgehens (Verbleib in der Einrichtung oder Hospitalisierung) die
+Konsultation durch einen Arzt (betreuender Heimarzt oder Hausarzt) und leitet die verordneten
+medizinischen Maßnahmen und ggf. eine Verlegung in ein Krankenhaus ein.
+4.2.4 Diagnostische Testung auf SARS CoV-2
+Indikationsstellung
+Da es sich um eine Risikopopulation handelt, sollte die Veranlassung von diagnostischen Tests auf SARS-
+CoV-2 sehr niederschwellig und ohne Zeitverzug erfolgen. Je nach Setting sollte dies durch einen
+ärztlichen Mitarbeiter vor Ort oder den betreuenden Hausarzt erfolgen. Falls dies nicht zeitnah möglich
+ist, sollte die verantwortliche Pflegekraft (z.B. Stations-/Bereichsleitung, Pflegedienstleitung) / Betreuerin
+die entsprechenden Schritte unverzüglich in die Wege leiten.
+Orientierungshilfe: COVID-19: Verdachtsabklärung und Maßnahmen - Orientierungshilfe für Ärzte
+Probenmaterial
+Geeignet sind Probenmaterialien aus dem oberen Respirationstrakt (oropharyngeale Abstriche oder
+16
+nasopharyngeale Abstriche oder Spülungen) und ggf. aus dem unteren Respirationstrakt (z.B. Sputum,
+Trachealsekret). Detaillierte Informationen sind unter dem Link Hinweise zur Testung von Patienten auf
+Infektion mit dem neuartigen Coronavirus SARS-CoV-2 zu finden.
+Materialien zur Probenentnahme, Verpackung und Transport
+Um eine zeitnahe diagnostische Testung zu gewährleisten sollten die entsprechenden
+Probengefässe/Abstrichsets und das erforderliche Verpackungsmaterial vorrätig sein. Die Beschaffung
+der Materialien sowie der Probentransport sollte mit dem jeweiligen Labor oder ggf. dem örtlichen
+Gesundheitsamt abgestimmt werden. Detaillierte Informationen zu Verpackung, Lagerung und Versand
+sind unter dem Link Hinweise zur Testung von Patienten auf Infektion mit dem neuartigen Coronavirus
+SARS-CoV-2 zu finden.
+Probenentnahme
+Die Entnahme von Proben wie z.B. Abstrichen sollte nur von in der Abstrichtechnik und den damit
+verbundenen Schutzmaßnahmen (PSA) geschultem Personal durchgeführt werden.
+Weiteres Vorgehen
+Das weitere Vorgehen ist abhängig von der Situation Vorort
+4.2.4.1 Szenario 1: Testergebnis steht noch aus und keine bekannten COVID-19-Fälle in der
+Einrichtung
+Implementierung von Hygienemaßnahmen
+• Es sollten umgehend, noch vor Vorliegen der Testergebnisse, die erforderlichen Hygienemaßnahmen
+(PSA bzw. organisatorische Maßnahmen) implementiert und die Heimbewohner, falls diese
+weiterhin in der Einrichtung betreut werden, in ihrem Zimmer versorgt und die Teilnahme an
+Gemeinschaftsaktivitäten eingeschränkt werden.
+• Das Vorgehen entspricht im Wesentlichen den Hygiene- und Infektionskontrollmaßnahmen wie bei
+Vorliegen von COVID-19-infektionen (Abschnitt 2.2-2.4).
+• Bei Verlegung in ein Krankenhaus, sollten darüber hinaus der Transportdienst und das Krankenhaus
+darüber informiert werden, dass es sich um einen Verdachtsfall für eine COVID-19-Erkrankung
+handelt (Transport siehe Abschnitte 2.7 u. 2.8).
+Meldung an das Gesundheitsamt
+Gemäß § 6 IfSG muss der Verdacht, die Erkrankung sowie der Tod in Bezug auf COVID-19 gemeldet
+werden.
+Laut Empfehlungen des RKI gelten als begründete Verdachtsfälle:
+• Personen mit akuten respiratorischen Symptomen jeder Schwere UND Kontakt mit einem
+bestätigten Fall von COVID-19
+17
+• Auftreten von zwei oder mehr Lungenentzündungen (Pneumonien) in einer medizinischen
+Einrichtung, einem Pflege- oder Altenheim, bei denen ein epidemischer Zusammenhang
+wahrscheinlich ist oder vermutet wird, auch ohne Vorliegen eines Erregernachweises.
+Detaillierte Hinweise finden Sie unter dem Link Empfehlungen des Robert Koch-Instituts zur Meldung
+von Verdachtsfällen von COVID-19
+Bei begründetem Verdacht auf eine COVID-19-Infektion soll das weitere Vorgehen in Abstimmung mit
+der örtlichen Gesundheitsbehörde erfolgen.
+4.2.4.2 Szenario 2: Bestätigung einer COVID-19 Infektion oder bereits bekannte COVID-19-Infektion
+bei anderen Heimbewohnern/betreuten Personen
+Bei Vorliegen eines bestätigten COVID-19-Falles soll das weitere Vorgehen in Abstimmung mit der
+örtlichen Gesundheitsbehörde erfolgen.
+Gemäß § 6 IfSG muss bei positivem Testergebnis die Erkrankung in Bezug auf COVID-19 gemeldet
+werden.
+• Implementierung erweiterter Hygienemaßnahmen sowie der Testung auf SARS-CoV-2
+Die Implementierung der erweiterten Hygiene- und Infektionskontrollmaßnahmen (siehe Abschnitt 2.2-
+2.4) sowie der Testung auf SARS-CoV-2 soll in Abstimmung mit dem Gesundheitsamt erfolgen.
+• Testung auf SARS-CoV-2
+Da COVID-19-Infektionen auch bei alten Menschen und anderen Risikogruppen asymptomatisch
+verlaufen können und um Infizierte, die sich noch in der Inkubationsphase befinden, frühzeitig zu
+detektieren, sollte möglichst in Absprache mit dem Gesundheitsamt ein umfassendes Screening auf
+SARS-CoV-2 in Erwägung gezogen werden. Dies sollte idealerweise in regelmäßigen Zeitintervallen (z.B. 2
+x wöchentlich) durchgeführt werden, da ein einzelner Test nur den Momentzustand widerspiegelt (z.B.
+Heimbewohner/Pflegepersonal noch in der Inkubationsphase) und jederzeit eine Infektion stattfinden
+kann. Dieses Vorgehen kann je nach vorliegender Situation auf einzelne Stationen beschränkt oder ggf.
+die gesamte Einrichtung ausgedehnt werden. In einer Ausbruchssituation wird dadurch die
+Zusammenstellung von Kohorten (Fälle/Nicht-Fälle) erleichtert.
+• Identifizierung und Management der Kontaktpersonen (siehe Abschnitt 3 Identifizierung und
+Management von Kontaktpersonen)
+• Organisatorische Maßnahmen
+Auch nicht-medizinische organisatorische Maßnahmen sind von großer Bedeutung zur Prävention einer
+Verbreitung innerhalb der Einrichtung sowie zur Vermeidung eines Exportes nach außen und sollten
+sofern nicht schon implementiert ggf. mit dem Gesundheitsamt abgestimmt werden (z.B.
+Zugangsbeschränkungen) (siehe auch Abschnitt 1 Vorbereitung und Management).
+18
+Der Kurzleitfaden „Management von COVID-19 Ausbrüchen im Gesundheitswesen“ soll den
+koordinierten Einsatz entsprechender Maßnahmen unterstützen. Das Dokument wird in Kürze verfügbar
+sein.
+Weitere hilfreicher Link: Checkliste von Maßnahmen zum Management von respiratorischen
+Ausbrüchen in Pflegeheimen
+4.3 Durchführung klinisches Monitoring des Personals auf COVID-19
+Das Personal in Alten- und Pflegeeinrichtungen und Einrichtungen für Menschen mit Beeinträchtigungen
+ist bei Auftreten einer COVID-19-Erkrankung bei einem Bewohner oder Betreutem aufgrund ihrer
+Aufgaben, die insbesondere bei den Pflegekräften einen nahen physischen Kontakt mit den
+Heimbewohnern erfordern, besonders gefährdet für die Akquirierung und Weiterverbreitung einer
+COVID-19-Erkrankung. Eine Übertragung kann ebenso zwischen den Mitarbeitern erfolgen, wenn eine
+unerkannte COVID-19-Erkrankung bei einem der Mitarbeiter vorliegt. Andererseits kann das Personal
+auch unwissentlich eine extern erworbene COVID-19-Erkrankung in die Einrichtung hineintragen. Um
+frühzeitig eine COVID-19-Erkrankung beim Personal zu detektieren, sollte ein regelmäßiger Check auf das
+Auftreten von Symptomen, die mit einer COVID-19-Erkrankung vereinbar sind, erfolgen sowie eine
+Dokumentation von Abwesenheiten aufgrund von respiratorischen Symptomen bzw. einer
+nachgewiesenen COVID-19-Erkrankung oder aufgrund von Quarantänemaßnahmen.
+4.3.1 Organisation
+Siehe oben Durchführung eines klinischen Monitorings der Bewohner / Betreuten auf COVID-19
+Abschnitt 4.2.1
+4.3.2 Erhebung von Symptomen und Abwesenheiten
+Aktive Erfassung
+Beim Personal soll täglich der Status bezüglich des Auftretens von Symptomen, die mit COVID-
+19 vereinbaren sind, erhoben werden. Dies kann durch die Abfrage/Feststellung des Neuauftretens von
+respiratorischen Symptomen einschließlich der Messung der Körpertemperatur oder durch den
+Selbstbericht des Personals bei Dienstantritt erfolgen.
+Selbstbeobachtung des Personals
+Das Personal sollte auch während der Dienstzeit aufmerksam sein in Bezug auf das Auftreten von
+respiratorischen Symptomen/Fieber o. erhöhter Temperatur und sich ggf. bei der Stations-
+/Pflegedienstleitung melden.
+Erfassung von Abwesenheiten
+Abwesenheiten des Personals aufgrund des Auftretens von respiratorischen Symptomen oder einer
+nachgewiesenen COVID-19-Erkrankung oder aufgrund einer Quarantäne/freiwillige (häusliche) Isolierung
+19
+nach Kontakt mit einem COVID-19-Fall sollten erfasst werden.
+Dokumentation
+Die Ergebnisse sollen in einem Formblatt dokumentiert werden.
+Musterformblätter werden in Kürze bereitgestellt
+Um einen Überblick über die Gesamtsituation zu gewinnen können die Ergebnisse der
+Symptomerhebung beim Personal sowie Informationen zu den ggf. daraus resultierenden Maßnahmen
+(z.B. Durchführung einer Testung, Testergebnisse, häusliche Absonderung) in einer Liste
+zusammengeführt werden.
+Musterformblätter werden in Kürze bereitgestellt.
+4.3.3 Diagnostische Testung
+Die diagnostische Testung auf SARS-COV-2 beim Personal von Alten-/Pflegeheimen bzw. Einrichtungen
+für Menschen mit Beeinträchtigung sollte sehr niederschwellig und ohne Zeitverzug erfolgen. Je nach
+Setting sollte dies durch den betriebsärztlichen Dienst vor Ort, die Stations-/Pflegedienstleitung oder den
+betreuenden Hausarzt / Corona Abklärungsstellen veranlasst werden.
+In besonderen Situationen wie Hoch-Risiko Einrichtungen (z.B. sehr große Einrichtungen mit einer sehr
+dichten Belegung oder Einrichtungen in Regionen mit einer hohen Inzidenz von Covid-19-Erkrankten)
+sollte jedoch die Möglichkeit zum wöchentlichen (oder häufigeren) Testen vor Arbeitsbeginn
+möglicherweise als "point of care" Diagnostik auf Umsetzbarkeit geprüft werden.
+4.3.4 Vorgehen
+Die Heimleitung sollte ein Vorgehen festlegen wie zu verfahren ist, wenn Mitarbeiter akute Symptome
+entwickeln bzw. aufweisen.
+• Allgemeine präventive Maßnahmen
+o Mitarbeiter mit akuten respiratorischen Symptomen/Fieber sollen zu Hause bleiben
+o Mitarbeiter, die am Arbeitsplatz Symptome entwickeln müssen sich bei Ihrem Vorgesetzten
+und dem betriebsärztlichen Dienst melden und den Arbeitsplatz unverzüglich verlassen (mit
+Mund-Nasen-Schutz).
+• Bei begründetem COVID-19-Verdachtsfall sowie bei bestätigter COVID-19-Infektion sollte das
+Kontaktpersonenmanagement in Abstimmung mit dem Gesundheitsamt erfolgen. In dem Dokument
+Optionen zum Management von Kontaktpersonen unter Personal von Alten- und
+Pflegeeinrichtungen bei Personalmangel werden Empfehlungen für das
+Kontaktpersonenmanagement unter Berücksichtigung der Personalsituation gegeben.
+20
+5 Ausbruchsmanagement
+Wenn in der Einrichtung bei den Heimbewohnern, den Betreuten oder dem Personal COVID-19-
+Erkrankungen nachgewiesen werden, müssen zur Vermeidung einer weiteren Ausbreitung in
+Abstimmung mit dem Gesundheitsamt umgehend Maßnahmen ergriffen werden. Da SARS-CoV-2 leicht
+übertragen werden kann und in Alten- und Pflegeeinrichtungen und Einrichtungen für Menschen mit
+Beeinträchtigungen auf eine Population mit einem hohen Risiko für einen schweren Verlauf trifft, ist ein
+zeitnahes, koordiniertes und effektives Vorgehen unabdingbar, um schwerwiegende Folgen für die in der
+Einrichtung lebenden Menschen abzuwenden. Für das Management des Ausbruchs sollte ein
+Ausbruchsteam etabliert werden in dem möglichst alle relevanten Bereiche vertreten sind wie z.B.
+Pflegedienstleitung, Hygiene-Beauftragte(r), Heimleitung, Personalleitung, kaufmännische Leitung etc.
+Essentielle Maßnahmen zum Management von Ausbruchssituationen beinhalten neben der
+Implementierung von erweiterten Hygiene- und Infektionskontrollmaßnahmen die Identifizierung der
+infizierten Personen durch zeitnahe Diagnostik von symptomatisch Erkrankten und durch ein Screening
+von asymptomatischen Personen mit und ohne direkten Kontakt zu Infizierten und konsequente
+Nachverfolgung und Management von Kontakten mit dem übergeordneten Ziel Infektketten zu erkennen
+und zu unterbrechen.
+Der Kurzleitfaden „Management von COVID-19 Ausbrüchen im Gesundheitswesen“ soll den
+koordinierten Einsatz entsprechender Maßnahmen unterstützen. Das Dokument wird in Kürze verfügbar
+sein.
+6 Umgang mit Verstorbenen
+Bei Versterben aufgrund einer COVID-19-Erkrankung ist der Leichnam als kontagiös zu betrachten.
+Empfehlungen zum Umgang mit an COVID-19 Verstorbenen im Hinblick auf die Basishygiene, erweiterte
+Hygienemaßnahmen bei besonderen Maßnahmen, die mit einer Aerosolproduktion einhergehen,
+Bestattung und Transport sind in dem Dokument Empfehlungen zum Umgang mit COVID-19-
+Verstorbenen niedergelegt.
+Der Tod an COVID-19 ist nach § 6 Infektionsschutzgesetz (IfSG) zu melden.
+7 Referenzen und Links
+1. Stone ND, Ashraf MS, Calder J, Crnich CJ, Crossley K, Drinka PJ, Gould CV, Juthani-Mehta M,
+Lautenbach E, Loeb M, Maccannell T, Malani PN, Mody L, Mylotte JM, Nicolle LE, Roghmann MC,
+Schweon SJ, Simor AE, Smith PW, Stevenson KB, Bradley SF; Society for Healthcare Epidemiology Long-
+Term Care Special Interest Group. Surveillance definitions of infections in long-term care facilities:
+revisiting the McGeer criteria. Infect Control Hosp Epidemiol. 2012 Oct;33(10):965-77. doi:
+10.1086/667743.
+„Aktion Saubere Hände in Alten- und Pflegeheimen; die 5 Indikationen zur Händedesinfektion“
+https://www.aktion-sauberehaende.de/ash/module/alten-und-pflegeheime/5-indikationen/
+21
+An- und Ablegen von Schutzkleidung , Uniklinik Düsseldorf
+https://www.uniklinikduesseldorf.de/fileadmin/Presse/CORONA_Dateien/2020-02-
+20__Persoenliche_Schutzausruestung_bei_COVID-19.pdf
+European Centre for Disease Prevention and Control (ECDC). Guidance for wearing and removing
+personal protective equipment in healthcare settings for the care of patients with suspected or
+confirmed COVID-19 2020 [cited 2020 8 March]. Available from:
+https://www.ecdc.europa.eu/en/publications-data/guidance-wearing-and-removing-personal-
+protective-equipment-healthcare-settings
+

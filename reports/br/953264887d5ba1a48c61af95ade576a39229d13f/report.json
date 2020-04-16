@@ -1,0 +1,26 @@
+{
+    "filename": "SARS-CoV-2-antibodytest.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/14\/SARS-CoV-2-antibodytest.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586895320,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1066555",
+        "date": "Tue, 14 Apr 2020 20:15:20 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1586895321.477.8799.850204; Path=\/; Secure; HttpOnly",
+        "last-modified": "Tue, 14 Apr 2020 15:31:09 GMT",
+        "etag": "\"10463b-5a341e388ae15\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 46293c8f7848e2378b777a1f48183615.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "AMS54-C1",
+        "x-amz-cf-id": "cdjnKAwIJCVVcuOJzXhCFFR6oSDmXMYPvCupCO6-GfwJpVbg_vF4HQ=="
+    },
+    "lang": "pt",
+    "size": 1066555,
+    "modified": 1586878269
+}

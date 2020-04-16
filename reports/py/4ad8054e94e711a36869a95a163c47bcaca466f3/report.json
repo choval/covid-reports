@@ -1,0 +1,19 @@
+{
+    "filename": "a91160-ProtocoloManejodeCadveres.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/a91160-ProtocoloManejodeCadveres.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587000928,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Thu, 16 Apr 2020 01:35:20 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "711995",
+        "last-modified": "Wed, 15 Apr 2020 19:59:05 GMT",
+        "etag": "\"add3b-5a359bf9e19b2\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 711995,
+    "modified": 1586980745
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "13-04-20_reporte_vespertino_covid_19.pdf",
+    "uri": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/13-04-20_reporte_vespertino_covid_19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586895272,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 14 Apr 2020 20:14:32 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "75403",
+        "set-cookie": "__cfduid=d3481f9bd5bb1ec8bb46ae61bb346cb391586895272; expires=Thu, 14-May-20 20:14:32 GMT; path=\/; domain=.argentina.gob.ar; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Tue, 14 Apr 2020 13:54:17 GMT",
+        "etag": "\"5e95c089-1268b\"",
+        "cf-cache-status": "HIT",
+        "age": "321",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "584017fcc8a1d7f5-EZE"
+    },
+    "lang": "es",
+    "size": 75403,
+    "modified": 1586872457
+}

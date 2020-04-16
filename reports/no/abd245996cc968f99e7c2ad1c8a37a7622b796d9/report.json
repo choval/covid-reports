@@ -1,0 +1,29 @@
+{
+    "filename": "2020.04.15---dagsrapport-covid-19.pdf",
+    "uri": "https:\/\/www.fhi.no\/contentassets\/ca5914bd0aa14e15a17f8a7d48fa306a\/vedlegg\/koronavirus---dagsrapporter\/2020.04.15---dagsrapport-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586978133,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 15 Apr 2020 19:15:33 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1446813",
+        "set-cookie": "__cfduid=db266f6146e4c9ce25f8d348bf19c6faa1586978133; expires=Fri, 15-May-20 19:15:33 GMT; path=\/; domain=.www.fhi.no; HttpOnly; SameSite=Lax",
+        "cache-control": "public, max-age=40418",
+        "expires": "Thu, 16 Apr 2020 06:29:11 GMT",
+        "last-modified": "Wed, 15 Apr 2020 10:52:24 GMT",
+        "etag": "\"1D61313F2092400\"",
+        "request-context": "appId=cid-v1:afda6def-0de1-4764-90ec-fb72e90cbcc7",
+        "access-control-expose-headers": "Request-Context",
+        "cf-cache-status": "HIT",
+        "age": "2781",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "5847fef6ad4074d7-EZE",
+        "cf-request-id": "0220ddae2d000074d73e106200000001"
+    },
+    "size": 1446813,
+    "modified": 1586947944
+}

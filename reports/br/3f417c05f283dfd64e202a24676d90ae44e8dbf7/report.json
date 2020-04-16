@@ -1,0 +1,26 @@
+{
+    "filename": "InformeDiario-referente-a-15-04.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/15\/InformeDiario-referente-a-15-04.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587000415,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "667867",
+        "date": "Thu, 16 Apr 2020 01:26:55 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587000416.689.11087.236234; Path=\/; Secure; HttpOnly",
+        "last-modified": "Wed, 15 Apr 2020 21:16:13 GMT",
+        "etag": "\"a30db-5a35ad3755a5e\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 2948d9a27a84204b2bc36934485844b4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "dOM6EuBXowvgsTptYtwA2mx6qeeDVaU72SXNEU5W2PnMhZk7mttGdw=="
+    },
+    "lang": "pt",
+    "size": 667867,
+    "modified": 1586985373
+}

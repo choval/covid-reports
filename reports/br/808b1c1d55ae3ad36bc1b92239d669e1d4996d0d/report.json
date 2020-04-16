@@ -1,0 +1,28 @@
+{
+    "filename": "CT120-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/15\/CT120-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586977517,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "161222",
+        "date": "Wed, 15 Apr 2020 19:05:17 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1586977518.541.10981.327568; Path=\/; Secure; HttpOnly",
+        "last-modified": "Wed, 15 Apr 2020 18:32:48 GMT",
+        "etag": "\"275c6-5a3588b0e704b\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 a8051f15f8fb632defb578cd89b94050.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "m8PUECb5NJXSrw_3vAbEN338VIUGGvd0ISGROWniK-EkUOkcwmh-iQ=="
+    },
+    "lang": "pt",
+    "size": 161222,
+    "modified": 1586975568
+}

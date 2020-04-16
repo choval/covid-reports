@@ -1,0 +1,26 @@
+{
+    "filename": "SARS-CoV.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/14\/SARS-CoV.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586895332,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1066555",
+        "date": "Tue, 14 Apr 2020 20:15:31 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1586895332.835.8803.975023; Path=\/; Secure; HttpOnly",
+        "last-modified": "Tue, 14 Apr 2020 15:32:11 GMT",
+        "etag": "\"10463b-5a341e740d21b\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 2dc050ab05a5052054de7d000d6c5f50.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "AMS54-C1",
+        "x-amz-cf-id": "EnraqueFnizvkleKpbGOTEtOv0Krz8ojKQzDJ2Cs4yv-jQ41GtutKg=="
+    },
+    "lang": "pt",
+    "size": 1066555,
+    "modified": 1586878331
+}

@@ -1,0 +1,32 @@
+{
+    "filename": "My%20Hero%20is%20You%2C%20Storybook%20for%20Children%20on%20COVID-19%20%28Italian%29.pdf",
+    "uri": "https:\/\/interagencystandingcommittee.org\/system\/files\/2020-04\/My%20Hero%20is%20You%2C%20Storybook%20for%20Children%20on%20COVID-19%20%28Italian%29.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586977696,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "content-type": "application\/pdf",
+        "content-length": "3926786",
+        "date": "Wed, 15 Apr 2020 19:08:16 GMT",
+        "last-modified": "Wed, 15 Apr 2020 10:47:54 GMT",
+        "x-ua-compatible": "IE=edge",
+        "content-language": "en",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "accept-ranges": "bytes",
+        "x-xss-protection": "1; mode=block",
+        "x-content-options": "nosniff",
+        "x-varnish-ttl": "0.000",
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "x-varnish": "16063741",
+        "age": "0",
+        "via": "1.1 varnish-v4",
+        "x-varnish-server": "iasc8-prod-varnish",
+        "set-cookie": "__bm-hap_hKBcutrqRn9rEZDW=S2; path=\/; HttpOnly; Secure"
+    },
+    "lang": "it",
+    "size": 3926786,
+    "modified": 1586947674
+}

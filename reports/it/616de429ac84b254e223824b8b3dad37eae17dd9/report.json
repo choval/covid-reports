@@ -1,0 +1,21 @@
+{
+    "filename": "Tesserino-stampa-1.pdf",
+    "uri": "https:\/\/www.diamoilmegliodinoi.it\/wp-content\/uploads\/2020\/04\/Tesserino-stampa-1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586895594,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 14 Apr 2020 20:19:54 GMT",
+        "server": "Apache",
+        "last-modified": "Thu, 09 Apr 2020 15:33:06 GMT",
+        "etag": "\"3167-3058e-5a2dd5551a927\"",
+        "accept-ranges": "bytes",
+        "content-length": "198030",
+        "x-powered-by": "PleskLin",
+        "connection": "close",
+        "content-type": "application\/pdf"
+    },
+    "lang": "it",
+    "size": 198030,
+    "modified": 1586446386
+}

@@ -1,0 +1,28 @@
+{
+    "filename": "CT106-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/15\/CT106-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586977520,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "177117",
+        "date": "Wed, 15 Apr 2020 19:05:20 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1586977521.51.10980.11534; Path=\/; Secure; HttpOnly",
+        "last-modified": "Wed, 15 Apr 2020 18:31:54 GMT",
+        "etag": "\"2b3dd-5a35887ce971c\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 a76f7802383ed39980bd6be3c254b34c.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "kQUAJqz5o1otoeEhkdEJHhLizMndpaV937flAsWzsVvoSWQxmJ_yvA=="
+    },
+    "lang": "pt",
+    "size": 177117,
+    "modified": 1586975514
+}

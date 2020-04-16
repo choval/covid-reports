@@ -1,0 +1,24 @@
+{
+    "filename": "2020.04.13_ALTA-DE-CUARENTENA.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/2020.04.13_ALTA-DE-CUARENTENA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1586895352,
+    "headers": {
+        "http-status": 200,
+        "date": "Tue, 14 Apr 2020 20:15:39 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Tue, 14 Apr 2020 13:27:05 GMT",
+        "etag": "\"191e0-5a34027ddcdac\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_996_1958315=bES9dLoLBHy4R17O7Y3SDfgZll4AAAAADv6F9ytC0tLi7o7EBUD20Q==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "4-64312630-64312711 NNNY CT(0 0 0) RT(1586895351518 379) q(0 0 0 0) r(2 2) U6"
+    },
+    "lang": "es",
+    "size": 102880,
+    "modified": 1586870825
+}
