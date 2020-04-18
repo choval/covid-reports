@@ -1,0 +1,24 @@
+{
+    "filename": "20200417_DIPTICO-PERSONAS-MAYORES-EN-AISLAMIENTO.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/20200417_DIPTICO-PERSONAS-MAYORES-EN-AISLAMIENTO.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587214530,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 18 Apr 2020 12:55:12 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Sat, 18 Apr 2020 00:21:27 GMT",
+        "etag": "\"4f63d-5a385a58ccfc0\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_1233_1958315=dDHeQbV5jQXmehHUOH8cEcH4ml4AAAAA05xz8QiL0EzAdxlDMwTCWA==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "13-37592401-37592402 nNNN RT(1587214529383 66) q(0 0 3 0) r(4 5) U6"
+    },
+    "lang": "es",
+    "size": 325181,
+    "modified": 1587169287
+}

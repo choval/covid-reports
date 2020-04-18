@@ -1,0 +1,26 @@
+{
+    "filename": "16-04-20_reporte_matutino_covid_19.pdf",
+    "uri": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/16-04-20_reporte_matutino_covid_19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133019,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 14:16:59 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "70520",
+        "set-cookie": "__cfduid=dec61d601676be5e21b82a4482c1482d21587133019; expires=Sun, 17-May-20 14:16:59 GMT; path=\/; domain=.argentina.gob.ar; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Thu, 16 Apr 2020 12:24:30 GMT",
+        "etag": "\"5e984e7e-11378\"",
+        "cf-cache-status": "HIT",
+        "age": "1834",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "5856c45d5d1cf7ce-EZE",
+        "cf-request-id": "022a190e560000f7ce8f139200000001"
+    },
+    "lang": "es",
+    "size": 70520,
+    "modified": 1587039870
+}

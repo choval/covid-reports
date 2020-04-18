@@ -1,0 +1,20 @@
+{
+    "filename": "Bolletino-sorveglianza-integrata-COVID-19_16-aprile-2020_appendix.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Bolletino-sorveglianza-integrata-COVID-19_16-aprile-2020_appendix.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133894,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1142642",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 17 Apr 2020 10:11:16 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"3c1f887a014d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Fri, 17 Apr 2020 14:31:35 GMT"
+    },
+    "lang": "it,en",
+    "size": 1142642,
+    "modified": 1587118276
+}

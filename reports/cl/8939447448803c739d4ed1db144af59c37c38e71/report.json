@@ -1,0 +1,24 @@
+{
+    "filename": "20200415_ADUANAS-SANITARIAS_ubicacion.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/20200415_ADUANAS-SANITARIAS_ubicacion.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133284,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 14:21:08 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Thu, 16 Apr 2020 13:38:29 GMT",
+        "etag": "\"19c35b-5a3688c47df40\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_1233_1958315=U4qACjaKrjEzj+DTOH8cEWS7mV4AAAAAOpXL1si9frvNzWzX5txYRw==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "3-40240774-40240783 nNNN RT(1587133283410 61) q(0 0 3 -1) r(4 9) U6"
+    },
+    "lang": "es",
+    "size": 1688411,
+    "modified": 1587044309
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "MSP_PROTOCOLO_TRABAJADORES_17_04_0.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_PROTOCOLO_TRABAJADORES_17_04_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587164731,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 23:05:31 GMT",
+        "server": "Apache",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Fri, 17 Apr 2020 22:31:08 GMT",
+        "etag": "\"38f2ff-5a3841b1503d9\"",
+        "accept-ranges": "bytes",
+        "content-length": "3732223",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Fri, 01 May 2020 23:05:31 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 3732223,
+    "modified": 1587162668
+}

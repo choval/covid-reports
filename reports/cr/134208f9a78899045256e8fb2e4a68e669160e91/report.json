@@ -1,0 +1,22 @@
+{
+    "filename": "1616-ministerio-de-salud-busca-notificar-ordenes-sanitarias-de-forma-digital",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/index.php\/centro-de-prensa\/noticias\/741-noticias-2020\/1616-ministerio-de-salud-busca-notificar-ordenes-sanitarias-de-forma-digital",
+    "output": "file.pdf",
+    "downloaded": 1587133300,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 14:21:39 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "x-powered-by": "PHP\/7.1.8",
+        "set-cookie": "8cd12c6ad39b41813d2d8929fe5e4c82=2ltfj82b47oa03pr9t7hvd0t66; path=\/; HttpOnly",
+        "p3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Fri, 17 Apr 2020 14:21:40 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 186670,
+    "modified": 1587133313
+}

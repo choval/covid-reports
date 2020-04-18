@@ -1,0 +1,22 @@
+{
+    "filename": "4062-ministerio-de-salud-reporta-24-nuevos-casos-de-coronavirus-y-ya-son-26-los-pacientes-recuperados",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4062-ministerio-de-salud-reporta-24-nuevos-casos-de-coronavirus-y-ya-son-26-los-pacientes-recuperados",
+    "output": "file.pdf",
+    "downloaded": 1587133076,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 14:22:19 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=lv5vllt7khbvampnesd4el1p8u; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Fri, 17 Apr 2020 14:22:19 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 661309,
+    "modified": 1587133084
+}

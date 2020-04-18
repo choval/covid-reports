@@ -1,0 +1,20 @@
+{
+    "filename": "Report-COVID-2019_16_april_2020.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/en\/coronavirus\/bollettino\/Report-COVID-2019_16_april_2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133912,
+    "headers": {
+        "http-status": 200,
+        "content-length": "190008",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 17 Apr 2020 11:07:18 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"25a1e45ba814d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Fri, 17 Apr 2020 14:31:52 GMT"
+    },
+    "lang": "it,en",
+    "size": 190008,
+    "modified": 1587121638
+}

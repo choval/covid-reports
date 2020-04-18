@@ -6,6 +6,32 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-17
+
+* [c4401e-GestindonacionesEPPMSPBSCOVID190420.pdf](7fb7b548c1cc4bd71f756258f6296039fec6ec2e/file.pdf) @15:17 GMT
+
+## 2020-04-16
+
+* [691e24-DecretoN3506ReglamentacindelaLey6524EstadodeEmergencia.pdf](4a443ae4b468ed73db6ef724c087c975b0cb8e51/file.pdf) @16:42 GMT
+* [3af92e-DecretoN3532ModificacindelDecretoN3525.pdf](f1c17785625a6f5a1d9d1c93d94d6eab0f7a218b/file.pdf) @16:38 GMT
+* [08b70a-LeyN6524DeclaracinEstadodeEmergencia.pdf](e6154fcb3fed297453efa367eeb634efb96c49e9/file.pdf) @16:27 GMT
+* [7349ad-Tablero15.04.pdf](c44b88fd17f6cbc8ffcdc4cafb5e01d4a0e8c44e/file.pdf) @16:11 GMT
+* [10b6df-COVID19ProtocoloparaAislamientoporCOVID19.pdf](ebbb888b7ab674fa2bb206655f7fbee7043fdcdc/file.pdf) @14:27 GMT
+
+## 2020-04-15
+
+* [b9a871-LISTADODEINCUMPLIMIENTODEPROVEEDORES.pdf](0084381005c75d3a5d9b585331946246f7494c66/file.pdf) @21:48 GMT
+* [515742-Protocolodeatencinodontolgicadurantelapandemia.pdf](402743ab29985ec6e58462c08e7000e316d967f0/file.pdf) @21:06 GMT
+* [a91160-ProtocoloManejodeCadveres.pdf](4ad8054e94e711a36869a95a163c47bcaca466f3/file.pdf) @19:59 GMT
+* [d791e1-Tablero14.04.2020.pdf](eaf993681f31517fec9b0e42fbcd3aaa1e602078/file.pdf) @15:14 GMT
+
+## 2020-04-14
+
+* [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](c661239723208a9f8457f090c80457109b2e6884/file.pdf) @20:31 GMT
+* [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](1cfc35b42e3d558519d0448a0271b9f7d6b56da0/file.pdf) @20:31 GMT
+* [a2dd5f-COVID19PY1.pdf](aa4bd2fad6db34f2457c1b1523e2c8cb01987f8b/file.pdf) @18:30 GMT
+* [ede18b-Protocolodistribucindeinsumos.pdf](9b80623ca2684da06542ee20bf66d2bcfa92e3f5/file.pdf) @17:53 GMT
+
 ## 2020-04-13
 
 * [f88b10-Categorizacinderiesgoymanejodelpersonaldesalud.pdf](268801b5102670319d68923ee89be7488eded6bf/file.pdf) @19:51 GMT

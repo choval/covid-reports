@@ -1,0 +1,24 @@
+{
+    "filename": "02-04-GUIA-PRACTICA-PARA-EL-AUTOCUIDADO-DE-LA-SALUD.pdf",
+    "uri": "https:\/\/www.minsal.cl\/wp-content\/uploads\/2020\/04\/02-04-GUIA-PRACTICA-PARA-EL-AUTOCUIDADO-DE-LA-SALUD.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587214533,
+    "headers": {
+        "http-status": 200,
+        "date": "Sat, 18 Apr 2020 12:55:20 GMT",
+        "server": "Apache",
+        "upgrade": "h2",
+        "connection": "Upgrade, close",
+        "last-modified": "Sat, 18 Apr 2020 04:24:21 GMT",
+        "etag": "\"127520-5a3890a4057b2\"",
+        "accept-ranges": "bytes",
+        "content-type": "application\/pdf",
+        "transfer-encoding": "chunked",
+        "set-cookie": "incap_ses_1233_1958315=UbrUFAVBujjmehHUOH8cEcT4ml4AAAAAfr40NefleMxdX8Gsul\/j2A==; path=\/; Domain=.minsal.cl",
+        "x-cdn": "Incapsula",
+        "x-iinfo": "10-14409815-14409817 nNNN RT(1587214532437 59) q(0 0 3 0) r(4 5) U6"
+    },
+    "lang": "es",
+    "size": 1209632,
+    "modified": 1587183861
+}

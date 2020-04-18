@@ -1,0 +1,25 @@
+{
+    "filename": "Faktenpapier_Therapie.PDF",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/Faktenpapier_Therapie.PDF",
+    "output": "file.pdf",
+    "downloaded": 1587133340,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Fri, 17 Apr 2020 14:22:20 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "376566",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Fri, 17 Apr 2020 11:09:28 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Sun, 17 May 2020 11:39:33 GMT",
+        "x-ua-compatible": "IE=edge",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 376566,
+    "modified": 1587121768
+}

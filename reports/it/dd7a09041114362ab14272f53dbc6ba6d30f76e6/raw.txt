@@ -1,0 +1,211 @@
+Characteristics of SARS-CoV-2 patients dying in Italy
+Report based on available data on April 16th
+, 2020
+1. Sample
+The present report describes characteristics of 19,996 SARS-CoV-2 patients dying in Italy.* Geographic
+distribution across the 19 regions and 2 autonomous provinces of Trento and Bozen is presented in the
+table below. Data are update to April 166h
+, 2020.
+Tabel 1. Geographic distribution of deceased patients SARS-CoV-2 positive
+REGION N %
+Lombardia 11,384 56.9
+Emilia Romagna 2,775 13.9
+Piemonte 1,523 7.6
+Veneto 982 4.9
+Liguria 531 2.7
+Marche 427 2.1
+Toscana 375 1.9
+Trento 318 1.6
+Puglia 294 1.5
+Lazio 259 1.3
+Bolzano 228 1.1
+Friuli Venezia Giulia 209 1.0
+Campania 145 0.7
+Sicilia 144 0.7
+Valle d'Aosta 137 0.7
+Sardegna 82 0.4
+Umbria 58 0.3
+Calabria 51 0.3
+Abruzzo 37 0.2
+Basilicata 21 0.1
+Molise 16 0.1
+Total 19,996 100.0
+* SARS-CoV-2 related deaths presented in this report are those occurring in patients who test positive for
+SARS-CoV-2RT by PCR, independently from pre-existing diseases.
+2. Demographics
+Mean age of patients dying for SARS-CoV-2 infection was 79 years (median 80, range 0-100, IQR 73 -86).
+Women were 6,935 (34.7%). Figure 1 shows that median age of patients dying for SARS-CoV-2 infection was
+more than 15 years higher as compared with the national sample diagnosed with SARS-CoV-2 infection
+(median age 62 years). Figure 2 shows the absolute number of deaths by age group. Women dying for
+SARS-CoV-2 infection had an older age than men (median age women 83 - median age men 79).
+Figure 1. Median age of patients with SARS-CoV-2 infection and SARS-CoV-2 positive deceased patients
+Figure 2. Absolute number of deaths by age group
+Note: For 1 deceased person age was not possible to be evaluated
+0 20 40 60 80 100 120
+Median age (years)
+SARS-CoV-2 Diagnosed
+SARS-CoV-2 Deaths
+1 0 2 12 45 150
+505
+1665
+3072
+1483
+1 0 5 28 133
+606
+1779
+4538
+4998
+972
+2 0 7 40 178
+756
+2284
+6203
+8070
+2455
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+<=9 10-19 20-29 30-39 40-49 50-59 60-69 70-79 80-89 90+
+Age-groups
+Women
+Men
+All
+Min Max
+3. Pre-existing conditions
+Table 1 presents most common comorbidities diagnosed before SARS-CoV-2 infection. Data on diseases
+were based on chart review and was available on 1,738 patients dying in-hospital for whom it was possible
+to analyse clinic charts. Mean number of diseases was 3.3 (median 3, SD 1.9). Overall, 3.6% of the sample
+presented with a no comorbidities, 14.4% with a single comorbidity, 20.7% with 2, and 61.3% with 3 or
+more.
+Before hospitalization, 24% of SARS-CoV-2 positive deceased patients followed ACE-inhibitor therapy and
+16% angiotensin receptor blockers-ARBs therapy. This information can be underestimated because data on
+drug treatment before admission were not always described in the chart.
+Table 1. Most common comorbidities observed in SARS-CoV-2 positive deceased patients
+Diseases N %
+Ischemic heart disease 482 27.7
+Atrial Fibrillation 380 21.9
+Heart failure 270 15.5
+Stroke 189 10.9
+Hypertension 1211 69.7
+Type 2-Diabetes 557 32.0
+Dementia 254 14.6
+COPD (Chronic Obstructive
+Pulmonary Disease)
+309 17.8
+Active cancer in the past 5 years 281 16.2
+Chronic liver disease 69 4.0
+Chronic renal failure 383 22.0
+HIV Infection 5 0.3
+Autoimmune diseases 59 3.4
+Obesity 205 11.8
+Number of comorbidities
+0 comorbidities 62 3.6
+1 comorbidity 251 14.4
+2 comorbidities 360 20.7
+3 comorbidities and over 1065 61.3
+Table 3 presents the most common pre-existing chronic pathologies in patients who died, separately in men
+(n = 1,191) and women (n = 547). The average number of pathologies observed in women is 3.4 (median 3,
+Standard Deviation 1.9). In men the average number of pathologies observed is 3.2 (median 3, Standard
+Deviation 1.9).
+Tabella 3. Most common comorbidities observed in SARS-CoV-2 positive deceased patients by gender
+Women Men
+Diseases N % N %
+Ischemic heart disease 113 20.7 369 31.0
+Atrial Fibrillation 128 23.4 252 21.2
+Heart Failure 107 18.9 163 13.4
+Stroke 57 10.4 132 11.1
+Hypertension 406 74.2 805 67.6
+Type 2-Diabetes 168 30.7 389 32.7
+Dementia 106 19.4 148 12.4
+COPD (Chronic Obstructive
+Pulmonary Disease)
+72 13.2 237 19.9
+Active cancer in the past 5 years 89 16.3 192 16.1
+Chronic liver disease 14 2.6 55 4.6
+Chronic renal failure 104 19.0 279 23.4
+HIV Infection 0 0.0 5 0.4
+Autoimmune diseases 27 4.9 32 2.7
+Obesity 76 13.9 129 10.8
+Number of comorbidities
+0 comorbidities 9 1.6 53 4.5
+1 comorbidity 74 13.5 177 14.9
+2 comorbidities 123 22.5 237 19.9
+3 comorbidities and over 341 62.3 724 60.8
+4. Diagnosis of hospitalization
+In 92.7% of hospitalizations, conditions (e.g. pneumonia, respiratory failure) or symptoms (e.g. fever,
+dyspnoea, cough) compatible with SARS-CoV-2 were mentioned. In 121 cases (7.3% of cases) the diagnosis
+of hospitalization was not related to the infection. In 13 cases the diagnosis of hospitalization concerned
+exclusively neoplastic pathologies, in 52 cases cardiovascular pathologies (for example Acute Myocardial
+Infarction-AMI, heart failure, stroke), in 18 cases gastrointestinal pathologies (for example cholecystitis,
+perforation of the intestine, intestinal obstruction, cirrhosis), in 38 cases other pathologies.
+5. Symptoms
+Figure 3 shows symptoms most commonly observed at hospital admission. Fever, dyspnoea and cough
+were the most commonly observed symptoms, while diarrhoea and haemoptysis were less commonly
+observed. Overall, 5.9% of patients did not present any symptoms at hospital admission.
+Figure 3. Most common symptoms observed in SARS-CoV-2 positive deceased patients
+6. Acute conditions
+Acute Respiratory Distress syndrome was observed in the majority of patients (96.7% of cases),
+followed by acute renal failure (22.9%). Superinfection was observed in 12.4% and acute cardiac injury in
+9.5% of cases.
+7. Treatments
+Antibiotics were used by 84% of patients during hospital stay, while less used were antivirals (56%) and
+corticosteroids (35%). Concomitant use of these 3 treatments was observed in 19.6% of cases.
+Out of SARS-CoV-2 positive deceased patients, 3.6% were treated with Tocilizumab during hospitalization.
+1
+6
+38
+72
+76
+0 20 40 60 80 100
+Fever
+Dyspnoea
+Cough
+Diarrhea
+Hemoptysis
+(%)
+8. Time-line
+Figure 4 shows, for SARS-CoV-2 positive deceased patients, the median times, in days, from the onset of
+symptoms to death (10 days), from the onset of symptoms to hospitalization (5 days) and from
+hospitalization to death (5 days). The time from hospitalization to death was 4 days longer in those who
+were transferred to intensive care than those who were not transferred (8 days vs. 4 days).
+Figure 4. Median hospitalization times (in days) in SARS-CoV-2 positive deceased patients
+9. Deaths under the age of 50 years
+As of April 16th
+, 217 out of the 19,996 (1.1%) positive SARS-CoV-2 patients under the age of 50 died. In
+particular, 49 of these were less than 40 years (34 men and 15 women), age range between 0 and 39
+years. For 6 patients under the age of 40 years no clinical information is available; the remaining 35 had
+serious pre-existing pathologies (cardiovascular, renal, psychiatric pathologies, diabetes, obesity) and 8
+had no major pathologies.
+This report was produced by SARS-CoV-2 Surveillance Group
+Members of the SARS-CoV-2 Surveillance Group
+Luigi Palmieri, Xanthi Andrianou, Pierfrancesco Barbariol, Antonino Bella, Stefania Bellino, Eva Benelli,
+Luigi Bertinato, Stefano Boros, Gianfranco Brambilla, Giovanni Calcagnini, Marco Canevelli, Maria Rita
+Castrucci, Federica Censi, Alessandra Ciervo, Elisa Colaizzo, Fortunato D'Ancona, Martina Del Manso,
+Chiara Donfrancesco, Massimo Fabiani, Antonietta Filia, Marco Floridia, Marina Giuliano, Tiziana Grisetti,
+Martin Langer, Ilaria Lega, Cinzia Lo Noce, Pietro Maiozzi, Fiorella Malchiodi Albedi, Valerio Manno,
+Margherita Martini, Alberto Mateo Urdiales, Eugenio Mattei, Claudia Meduri, Paola Meli, Giada Minelli,
+Manuela Nebuloni, Lorenza Nisticò, Marino Nonis, Graziano Onder, Lucia Palmisano, Nicola Petrosillo,
+Patrizio Pezzotti, Flavia Pricci, Ornella Punzo, Vincenzo Puro, Valeria Raparelli, Giovanni Rezza, Flavia
+Riccardo, Maria Cristina Rota, Paolo Salerno, Debora Serra, Andrea Siddu, Paola Stefanelli, Manuela
+Tamburo De Bella, Dorina Tiple, Brigid Unim, Luana Vaianella, Nicola Vanacore, Monica Vichi, Emanuele
+Rocco Villani, Silvio Brusaferro.
+8
+4
+5
+5
+10
+0 5 10 15
+Onset of symptoms --> Death
+Onset of symptoms --> Hospitalization
+Hospitalization --> Death
+Hospitalization --> Death (NO ICU)
+Hospitalization --> Death (YES ICU)
+Median number of
+

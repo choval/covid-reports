@@ -1,0 +1,26 @@
+{
+    "filename": "vagledning-diagnostik-covid-19-20045.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/8f14f032912f48adb7739c4e746c6884\/vagledning-diagnostik-covid-19-20045.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587216470,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Sat, 18 Apr 2020 13:27:49 GMT",
+        "etag": "\"1D614D4A3EF4E80\"",
+        "expires": "Sat, 18 Apr 2020 13:27:49 GMT",
+        "last-modified": "Fri, 17 Apr 2020 16:24:17 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=820658389.1.985520280.2159999488; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "525035"
+    },
+    "lang": "sv",
+    "size": 525035,
+    "modified": 1587140657
+}

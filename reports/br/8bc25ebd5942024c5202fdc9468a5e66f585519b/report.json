@@ -1,0 +1,28 @@
+{
+    "filename": "Nota-Informativa-diagnostico-malaria.pdf",
+    "uri": "https:\/\/saude.gov.br\/images\/pdf\/2020\/April\/16\/Nota-Informativa-diagnostico-malaria.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133261,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "111719",
+        "date": "Fri, 17 Apr 2020 14:21:01 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587133262.569.15355.646781; Path=\/; Secure; HttpOnly",
+        "last-modified": "Thu, 16 Apr 2020 20:59:31 GMT",
+        "etag": "\"1b467-5a36eb59345d0\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 c67eb79dbb5052fa8ea197696551cc5b.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "CsiULVh2C16LUeB50o7uyQzmwPlD_d2pYcTce7OwrGzEX6WbQlDMIw=="
+    },
+    "lang": "pt",
+    "size": 111719,
+    "modified": 1587070771
+}

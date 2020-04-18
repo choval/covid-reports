@@ -1,0 +1,26 @@
+{
+    "filename": "01-recomendacoes-de-protecao.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/16\/01-recomendacoes-de-protecao.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133182,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1835208",
+        "date": "Fri, 17 Apr 2020 14:19:42 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587133183.539.15354.985244; Path=\/; Secure; HttpOnly",
+        "last-modified": "Fri, 17 Apr 2020 00:00:41 GMT",
+        "etag": "\"1c00c8-5a3713d732a72\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 bf1e69d85e8944fe5ebef366af48a17b.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "_j9Uc6FZzlzZ5-bsB3EJ4szkdtfmr98lr4wb9zhdhiq8ZMqgwsCKdQ=="
+    },
+    "lang": "pt",
+    "size": 1835208,
+    "modified": 1587081641
+}

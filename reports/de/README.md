@@ -8,10 +8,34 @@
 * [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
 
 
+## 2020-04-17
+
+* [2020-04-17-en.pdf](498b3913495d35be37ff45cdc68f78e4ab22bb84/file.pdf) @18:28 GMT
+* [2020-04-17-de.pdf](4be5822cf6725ca102b4991ebfe1fa199b4ec4a6/file.pdf) @17:55 GMT
+* [Faktenpapier\_Testen.PDF](df96e8d8c735a2bc3fb845e9cfe6443a80c65d57/file.pdf) @11:32 GMT
+* [Faktenpapier\_Therapie.PDF](5826b4c0881bed910c8854197a0f02088a002ce0/file.pdf) @11:09 GMT
+* [Faktenpapier\_Impfen.pdf](54e533b8e88f8d902cf76358f30fd26a9731a1ef/file.pdf) @11:09 GMT
+
+## 2020-04-16
+
+* [2020-04-16-de.pdf](e020d77d6f450b486eabcfa206dedca201d8bd64/file.pdf) @19:26 GMT
+* [2020-04-16-en.pdf](869b27650ae0c39b1a7b40284f8e82fefbe77d73/file.pdf) @19:26 GMT
+
+## 2020-04-15
+
+* [2020-04-15-en.pdf](d8befc8dde6518938d0f39964e474af2d329fba0/file.pdf) @20:01 GMT
+* [2020-04-15-de.pdf](f2c94d69b5a60cb583f52666a9cf8ccb72fbf731/file.pdf) @17:28 GMT
+* [2020-04-14-en.pdf](65c21517236b4a5d96e1458e5997c124fb697ef2/file.pdf) @05:29 GMT
+
+## 2020-04-14
+
+* [2020-04-14-de.pdf](bfd403cba953145b487f221d11153008b79d80c6/file.pdf) @17:42 GMT
+* [Alten\_Pflegeeinrichtung\_Empfehlung.pdf](a31e6c44fb331c662af44204e761f2ed51bd40f8/file.pdf) @13:55 GMT
+
 ## 2020-04-13
 
-* [2020-04-13-de.pdf](ae0174cb3cb323f0d2e0d1519efd32c33b269aa9/file.pdf) @12:51 GMT
 * [2020-04-13-en.pdf](b3054d206eee7962d2b8599e2eab9ff48ae690de/file.pdf) @12:51 GMT
+* [2020-04-13-de.pdf](ae0174cb3cb323f0d2e0d1519efd32c33b269aa9/file.pdf) @12:51 GMT
 
 ## 2020-04-12
 
@@ -158,8 +182,8 @@
 
 ## 2020-03-17
 
-* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [COVID-19\_Tipps\_bei\_haeuslicher\_Quarantaene.pdf](8408a50591ab330b28f1015dae6ee0c7ae20b5ef/file.pdf) @11:55 GMT
+* [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
 * [BMG\_C-19\_200316\_info\_BW\_Pflegeheim.pdf](0afe20a3730a82d6332eab0a96254e5ec5d48315/file.pdf) @10:55 GMT
 * [2020-03-16-en.pdf](8f0dc96a7bbe27d96f0b67085e74c87a1bbd24a0/file.pdf) @08:18 GMT
 * [2020-03-16-de.pdf](93b43ff3f586cb325a829dec8f52c243e6d9d8aa/file.pdf) @08:16 GMT

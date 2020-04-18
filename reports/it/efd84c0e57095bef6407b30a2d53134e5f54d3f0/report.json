@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-use-face-masks-community.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-use-face-masks-community.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587215288,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "373465",
+        "date": "Sat, 18 Apr 2020 13:08:08 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"5b2d9-5a2c3de6147a8\"",
+        "last-modified": "Wed, 08 Apr 2020 09:10:16 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "372235048 398082517",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 7d0818f5e2b5623322879d69bc60f299.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "2-zobPW6i1y8X8TbkDYTOEQ_nPd82xvXRiGOnoi63U8StS0_ZrWxDw==",
+        "age": "114"
+    },
+    "lang": "it",
+    "size": 373465,
+    "modified": 1586337016
+}

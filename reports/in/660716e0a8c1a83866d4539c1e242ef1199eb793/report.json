@@ -1,0 +1,29 @@
+{
+    "filename": "UpdatedContainmentPlanforLargeOutbreaksofCOVID19Version2.0.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/UpdatedContainmentPlanforLargeOutbreaksofCOVID19Version2.0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133747,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 17 Apr 2020 05:23:39 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "342874",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2559940",
+        "expires": "Sun, 17 May 2020 05:34:47 GMT",
+        "date": "Fri, 17 Apr 2020 14:29:07 GMT"
+    },
+    "lang": "en,hi",
+    "size": 342874,
+    "modified": 1587101019
+}

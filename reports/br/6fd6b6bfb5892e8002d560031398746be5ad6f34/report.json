@@ -1,0 +1,26 @@
+{
+    "filename": "Diretrizes-Covid19.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/18\/Diretrizes-Covid19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587214183,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1749900",
+        "date": "Sat, 18 Apr 2020 12:49:42 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_396F5536744EC02A371BE83CC2B1208C_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Sat, 18 Apr 2020 11:01:54 GMT",
+        "etag": "\"1ab38c-5a38e9806495e\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 50422b3362db24ccd4a7fbc2662ef6d2.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "uiQ-UksSc6HC7bSZq7kf8mncVYcNd3yhp2047Ue0sLmLG1av-wEtkg=="
+    },
+    "lang": "pt",
+    "size": 1749900,
+    "modified": 1587207714
+}

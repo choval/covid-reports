@@ -1,0 +1,1547 @@
+1
+Information for healthcare professionals
+Version 8: Published Friday 17 April 2020
+Coronavirus (COVID-19) Infection in
+Pregnancy
+2
+Contents
+Summary of updates 3
+1. Introduction 4-8
+2.  Advice for health professionals to share with pregnant women 9-12
+3.  Advice for all midwifery and obstetric services caring for
+pregnant women
+13-19
+4.  Advice for services caring for women with suspected or
+confirmed COVID-19
+20-35
+5. Advice for services caring for women following recovery from
+confirmed COVID-19
+36-38
+Acknowledgements 39
+Appendix 1:Flow chart to assess COVID-19 risk in maternity unit
+attendees
+40
+Appendix 2: Appendix 2: Key considerations when caring for
+women with suspected/confirmed COVID-19 during labour and
+birth
+41-47
+Appendix 3: Previous updates 48-55
+References 56-60
+3
+Summary of updates
+Previous updates have been summarised in Appendix 2. New updates for this version of the guideline are
+summarised here.
+Version Date Summary of changes
+8 17.4.20 1: New paragraph on the quality of the available evidence and resultant classification of
+the advice.
+8 17.4.20 1.4: New evidence included on the risk of COVID-19 in the woman, including a case
+series of pregnant women attending two maternity units in NewYork, who were
+screened for COVID-19 on arrival, the inclusion of the first report of maternal death
+directly attributed to COVID-19 in scientific literature and an update to the ICNARC
+data.
+8 17.4.20 4.2, 4.5.2 & 4.6.2: Restructured, including some new subtitles to organise and break up
+the text.
+8 17.4.20 4.3.1: Renamed ‘risk of venous thromboembolism’.
+8 17.4.20 4.6: Section restructured for clarity
+8 17.4.20 4.7 and 4.8: Re-ordered the two sections within the text so that considerations for birth
+are written before considerations for neonatal and postnatal care.
+8 17.4.20 5.3: Section re-structured.Also includes clarification that the recommendation for 10
+days postnatal LMWH is regardless of mode of birth.
+8 17.4.20 Appendix 2: Table of previous updates moved to appendix 3
+8 17.4.20 Appendix 3: New information on considerations when caring for women with
+suspected/confirmed COVID-19 during labour and birth
+4
+1. Introduction
+5
+1. Introduction
+The following advice is provided as a resource for UK healthcare professionals based on a combination of
+available evidence, good practice and expert advice.The priorities are:
+(i) The reduction of transmission of COVID-19 to pregnant women.
+(ii) The provision of safe care to pregnant women with suspected/confirmed COVID-19.
+Please be aware that this is very much an evolving situation and this guidance is a living document that is being
+updated as new information becomes available.We therefore suggest that you visit this page regularly for
+current advice.
+SARS-CoV-2 is a new coronavirus, and therefore the evidence currently available to guide clinical management
+in this specific situation is of low quality. Using a conventional grading system for guideline development, such as
+SIGN, many of the studies would be classed as level 3 or 4 (non-analytical studies e.g. case series/reports and
+expert opinion).1
+The advice based on this evidence would therefore be graded D, and in some cases, graded
+as good practice points. Clinicians and patients are advised to be aware of the low quality evidence on which
+the advice is made, when using this guidance to assist decision-making. We are currently updating this guidance
+weekly in line with newly available evidence.
+On Friday 20 March 2020, the UK Obstetric Surveillance System (UKOSS) launched a registry for all women
+admitted to UK hospitals with confirmed COVID-19 infection in pregnancy. Further information can be found
+here.
+This guidance will be kept under regular review as new evidence emerges. If you would like to suggest
+additional areas for this guidance to cover, any clarifications required or to submit new evidence for
+consideration, please email COVID-19@rcog.org.uk. Please note, we will not be able to give individual clinical
+advice or information for specific organisational requirements via this email address.
+1.1 The virus
+Novel coronavirus (SARS-COV-2) is a new strain of coronavirus causing COVID-19, first identified in Wuhan
+City, China. Other human coronavirus (HCoV) infections include HCoV 229E, NL63, OC43 and HKU1, which
+usually cause mild to moderate upper-respiratory tract illnesses like the common cold, Middle East Respiratory
+Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).
+6
+1.2 Epidemiology
+The virus appears to have originated in Hubei province in China towards the end of 2019.Within Europe, Italy
+and Spain are the countries currently most affected. The World Health Organization (WHO) publishes a daily
+international situation report with an additional Situation Dashboard illustrating information by individual
+countries. The total number of confirmed cases in the UK is published by the Department of Health and
+Social Care, and is available in a visual dashboard.
+This situation however is changing rapidly. For the most up-to-date advice please consult local health protection
+agencies. Health protection in the United Kingdom is a devolved matter and links to local guidance are available
+for England, Wales, Scotland and Northern Ireland. Public Health England (PHE) and Public Health Scotland
+(PHS) have been cited throughout this document; specific guidance from the other areas of the UK will be
+updated as they become available. At the time of writing, Public Health Wales are aligning with PHE on case
+definitions, assessment, infection prevention and control and testing. We will update the RCOG guidance if this
+changes.
+1.3 Transmission
+Most cases of COVID-19 globally have evidence of human to human transmission.This virus can be readily
+isolated from respiratory secretions, faeces and fomites.There are two routes by which COVID-19 can be
+spread.The first is directly through close contact with an infected person (within 2 metres) where respiratory
+secretions can enter the eyes, mouth, nose or airways.This risk increases the longer someone has close contact
+with an infected person who has symptoms.The second route is indirectly via the touching of a surface, object
+or the hand of an infected person contaminated with respiratory secretions and subsequently touching one’s
+own mouth, nose or eyes. Healthcare providers are recommended to employ strict infection prevention and
+control (IPC) measures, as per local Health Protection guidance.
+Pregnant women do not appear more likely to contract the infection than the general population. Pregnancy
+itself alters the body’s immune system and response to viral infections in general, which can occasionally cause
+more severe symptoms.This will be the same for COVID-19.
+With regard to vertical transmission (transmission from woman to her baby antenatally or intrapartum),
+emerging evidence now suggests that vertical transmission is probable, although the proportion of pregnancies
+affected and the significance to the neonate has yet to be determined.Two reports have published evidence
+of IgM for SARS-COV-2 in neonatal serum at birth.2,3
+Since IgM does not cross the placenta, this is likely to
+represent a neonatal immune response to in utero infection. Previous case reports from China suggested that
+there was no evidence for this and amniotic fluid, cord blood, neonatal throat swabs, placenta swabs, genital
+fluid and breastmilk samples from COVID-19 infected women and their babies have so far all tested negative
+for the virus.4-7
+The evidence above is all based on small numbers of cases.The situation may change and we will continue
+to monitor outcomes. MBRRACE-UK have recently commenced centralised, real-time monitoring of affected
+women admitted to hospital, and their babies, through UKOSS.The data from these reports will be included in
+future versions of this guideline.
+1.4 Effect on pregnant women
+There is evolving evidence within the general population that there could be a cohort of asymptomatic
+individuals or those with very minor symptoms that are carrying the virus, although the incidence is unknown.
+Most women will experience only mild or moderate cold/flu like symptoms. Cough, fever, shortness of breath,
+headache and anosmia are other relevant symptoms.
+It has long been known that, whilst pregnant women are not necessarily more susceptible to viral illness,
+changes to their immune system in pregnancy can be associated with more severe symptoms.This is particularly
+true towards the end of pregnancy.The absolute risks are, however, small.8
+More severe symptoms such as
+pneumonia and marked hypoxia are widely described with COVID-19 in older people, the immunosuppressed
+and those with long-term conditions such as diabetes, cancer and chronic lung disease.9
+These same severe
+symptoms could occur in pregnant women and so should be identified and treated promptly.
+There have been case reports of women with severe COVID at the time of birth who have required
+ventilation and extracorporeal membrane oxygenation.10
+A single case report has been published in scientific
+literature of a maternal death and intrauterine fetal death at 30 weeks’ gestation.These deaths, which occurred
+in Iran, were directly attributed to COVID-19.11
+Two cases series have recently been published by clinicians in NewYork.The first describes 43 women who
+tested positive for COVID-19 and showed a similar pattern of disease severity to non-pregnant adults: 86%
+mild, 9% severe and 5% critical, although the sample size was too small to draw a definitive conclusion and the
+comparison not made to age, sex or co-morbidity-matched individuals.12
+The second describes the results of
+screening all 215 women who attended two paired maternity units for labour and birth over a 2 week period.
+Of these, 15.4% of women tested positive for SARS-CoV-2 from naso-pharyngeal swabs on attendance to the
+7
+hospital. Most were asymptomatic; only 4 (1.9%) had symptoms of COVID-19 on attendance and 3 others
+developed fever or possible symptoms during their inpatient stay. In the UK, the Intensive Care National Audit
+and Research Centre weekly report on individuals admitted to critical care with COVID-19 was updated on 10
+April 2020, describing the first 3,883 patients admitted to critical care settings with a diagnosis of COVID-19,
+ten were pregnant and 13 recently pregnant (within the last six weeks).The rate of current/recent pregnancy
+amongst all individuals admitted to critical care (2.3%) remains similar to the reported rate for non-COVID viral
+pneumonia during 2017-19 (3.3%), although the number of people admitted is higher for all groups.13
+Other
+reported cases of COVID-19 pneumonia in pregnancy are milder and with good recovery.14
+Individual responses to viral infection are different for different pregnant women and for different viruses.
+However, influenza and pregnancy provides a useful comparator: data from Australia, examining critical illness
+in pregnancy and the postpartum period due to the infection H1N1, identified significant increases in critical
+illness in later pregnancy, compared with early pregnancy.15
+In other types of coronavirus infection (SARS,
+MERS), the risks to pregnant women appear to increase in particular during the last trimester of pregnancy. In at
+least one study, there was an increased risk of preterm birth being indicated for maternal medical reasons after
+28 weeks’ gestation.16
+Given that pregnancy is known to be a hypercoagulable state, and emerging evidence suggests that individuals
+admitted to hospital with COVID-19 are also hypercoagulable,17
+it follows that infection with COVID-19 is likely
+to be associated with an increased risk of maternal venous-thromboembolism.18
+Reduced mobility resulting
+from self-isolation at home, or hospital admission, is likely to increase the risk further.
+1.5 Effect on the fetus
+There are currently no data suggesting an increased risk of miscarriage or early pregnancy loss in relation to
+COVID-19. Case reports from early pregnancy studies with SARS and MERS do not demonstrate a convincing
+relationship between infection and increased risk of miscarriage or second trimester loss.19
+There is no evidence currently that the virus is teratogenic.Very recent evidence has, however, suggested that it
+is probable that the virus can be vertically transmitted, although the proportion of pregnancies affected and the
+significance to the neonate has yet to be determined.2.3
+There are case reports of preterm birth in women with COVID-19, but it is unclear whether this was
+iatrogenic in every case, or whether some were spontaneous. Iatrogenic birth was predominantly for maternal
+indications related to the viral infection, although there was evidence of fetal compromise and prelabour
+preterm rupture of the membranes in at least one report.4.20
+8
+9
+2. Advice for health
+professionals
+to share with
+pregnant women
+10
+2. 
+Advice for health professionals to share with
+pregnant women
+2.1 General advice
+As a pregnant woman the news that you were placed in a ‘vulnerable group’ by the UK Government on
+Monday 16 March 2020 may have caused you concern.
+The evidence to date is that pregnant women are still no more likely to contract the infection than the general
+population.What is known is that pregnancy, in a small proportion of women, can alter the body’s response to
+severe viral infections.This is something that midwives and obstetricians have known for many years and are
+used to dealing with.
+What has driven the decisions made by officials is the need to restrict spread of illness.This is because if the
+number of infections were to rise sharply, the number of severely infected pregnant women could also rise,
+potentially putting them in danger.
+Our general advice is that:
+•	
+If you are infected with COVID-19 you are still most likely to have no symptoms or a mild illness from
+which you will make a full recovery.
+•	
+If you develop more severe symptoms or your recovery is delayed, this may be a sign that you are
+developing a more significant chest infection that requires enhanced care. Our advice remains that
+if you feel your symptoms are worsening or if you are not getting better, you are recommended to
+contact the NHS on 111 (or a local alternative), or your maternity unit, or in an emergency 999,
+straight away for further information and advice.
+2.2 Advice regarding social distancing and self-isolation
+The UK Government has decided that, given the limited information currently available about how COVID-19
+could affect pregnancy, it would be prudent for pregnant women to stringently engage with social distancing
+measures to reduce the risk of infection.
+All pregnant women, regardless of gestation, should observe the social distancing and self-isolation guidance
+available on the Government website.Advice includes the avoidance of contact with people who are known to
+have COVID-19 or those who exhibit possible symptoms:
+• For all vulnerable people including pregnant women 21
+• For individuals and households of individuals with symptoms of new continuous cough or fever 22
+• 
+Major measures for people at highest risk from coronavirus.This includes pregnant women with
+significant heart disease (congenital or acquired) or any individuals with specific cancers, severe
+respiratory conditions (such as cystic fibrosis and severe asthma) and those with rare diseases
+and inborn errors of metabolism that significantly increase the risk of infections (such as sickle cell
+disease).23
+Women above 28 weeks’ gestation are recommended to be particularly attentive to social distancing and
+minimising contact with others.
+Specific recommendations regarding going to work have been published separately on the RCOG website.
+2.3 Advice regarding your appointments or urgent visits to clinics and hospitals
+If you are well at the moment and have had no complications in your previous pregnancies, the following
+practical advice may be helpful:
+o 
+If you have a routine scan or visit due in the coming days, please contact your maternity unit for
+advice and to agree a plan.You may still be advised to attend for a visit, but this appointment may
+change due to staffing requirements.
+o If you are between appointments, please wait to hear from your maternity team.
+o 
+If you are advised to attend for a scan or an appointment by your local maternity team, this is
+because the need for the appointment is greater than your risk of being exposed to COVID-19.
+Antenatal care is essential to support you in having a healthy pregnancy and so we strongly advise
+you do attend if asked to do so. If you have any concerns about this, please discuss with your
+maternity unit.
+If you are attending more regularly in pregnancy, then your maternity team will be in touch with plans for
+further appointments, as required.
+11
+Whatever your personal situation please consider the following:
+o 
+Maternity care is essential and has been developed over many years to reduce complications in
+pregnant women and babies.The risks of not attending antenatal care include harm to you, your
+baby or both of you, even in the context of coronavirus. It is important that you keep in contact
+with your maternity team and continue to attend your scheduled routine care when you are well.
+o 
+If you are concerned about your or your baby’s wellbeing, including the baby’s movements, it
+remains of critical importance that you seek advice and care from maternity services without delay.
+This is a very challenging time, particularly if you have concerns about your pregnancy and are
+worried about entering a hospital. Maternity units are doing everything they can to minimise the
+spread of coronavirus infection to healthy women and their babies, including restricting access to
+visitors, using appropriate protection equipment and infection control measures. It is very important
+not to be deterred from coming into hospital when you or your baby need care. If you have an
+urgent problem related to your pregnancy but not related to coronavirus, get in touch using the
+same emergency contact details you already have.
+o 
+If you or anyone in your household has symptoms of COVID-19, please contact your maternity
+team and they will arrange the right place and time to come for your visits.You should not attend a
+routine clinic, unless specific arrangements have been made.
+o	 
+You will be asked to come alone to clinical appointments, or keep the number of people with you
+to one (including midwifery visits in your home). This will include being asked not to bring your
+children with you to appointments.This is important in order to protect maternity staff, other
+women and babies, and you and your family from the risk of infection.
+o	 
+There may be a need to reduce the number of antenatal visits you have.This will be communicated
+with you, and will be done as safely as possible, taking into account available evidence on the safe
+number of visits required. Please attend all your scheduled appointments, and if you have concerns
+about this please discuss with your maternity team.
+At this time, it is particularly important that you help your maternity team take care of you. If you have had an
+appointment cancelled or delayed and are not sure of your next contact with your maternity team, please let
+them know by using the contact numbers provided to you at booking.
+12
+13
+3. Advice for all
+midwifery and
+obstetric services
+caring for pregnant
+women
+3. 
+Advice for all midwifery and obstetric services
+caring for pregnant women
+3.1 Reducing the transmission of COVID-19 in maternity settings
+Most women attending maternity services are healthy and are advised to maintain stringent social distancing.
+It is recognised that women may have significant anxiety about the possibility of contracting COVID-19 by
+attending maternity services, particularly where located in hospitals. It is important that maternity services
+do all they can to protect women from contracting COVID-19 during their maternity care by following PHE
+infection prevention and control guidance stringently and using appropriate PPE.
+Particular consideration should be given to the care of pregnant women with comorbidities who are ‘shielded’.
+These women should be provided with a mask during hospital visits. Their status should be clearly noted at any
+handover; shared waiting areas should be avoided; and if admitted they should be in a side room.
+3.2 
+General advice regarding the continued provision of antenatal and
+postnatal services
+The situation is currently moving very fast and reconfiguration of services is likely to be necessary. At present,
+the following is recommended:
+•	
+Antenatal and postnatal care is based on years of evidence to keep women and babies safe in
+pregnancy and birth. Antenatal and postnatal care should therefore be regarded as essential care
+and women should be encouraged to attend, despite being advised to otherwise engage with social
+distancing measures.
+•	
+Women should be advised to attend routine antenatal care unless they meet current self-isolation
+guidance for individuals and households of individuals with symptoms of new continuous cough
+or fever.22
+Maternity care has been shown repeatedly to be essential, and studies in the UK and
+internationally have shown that if women do not attend antenatal services they are at increased risk of
+maternal death, stillbirth, and other adverse perinatal outcomes. 24,25
+•	
+Units should rapidly seek to adopt teleconferencing and videoconferencing capability and consider
+what appointments can be conducted remotely. We hope to issue further guidance on this soon.
+14
+The NHS has provided guidance on the relaxation of information governance requirements for video
+calling.
+• Record keeping remains paramount.
+•	
+Electronic record systems should be used and, where remote access for staff or women is an available
+function, this should be expedited. When seeing women face-to- face, simultaneous electronic
+documentation will facilitate future remote consultation.
+•	
+Units should appoint a group of clinicians to coordinate care for women forced to miss appointments
+due to self-isolation. Women should be able to notify the unit of their self-isolation through telephone
+numbers that are already available to them. Appointments should then be reviewed for urgency and
+either converted to remote appointments, attendance appropriately advised or deferred.
+o	 
+For women who have had symptoms, appointments can be deferred until 7 days after the start
+of symptoms, unless symptoms (aside from persistent cough) persevere.
+o	 
+For women who are self-isolating because someone in their household has possible symptoms
+of COVID-19, appointments should be deferred for 14 days.
+•	
+Units should have a system to flag women who have missed serial appointments, which is a particular
+risk for women with small children who may become sequentially unwell.
+• 
+Any woman who has a routine appointment delayed for more than 3 weeks should be contacted and
+an appointment scheduled urgently.
+•	
+Pregnant women will continue to need at least as much support, advice, care and guidance in relation
+to pregnancy, childbirth and early parenthood as before the pandemic. It is important that care is
+available to ensure continued support for women with multiple complex needs.Women living with
+adversity including poverty, homelessness, substance misuse, being an asylum seeker, experiencing
+domestic abuse and mental health problems will continue to require timely expert support.
+• Individualised plans for women requiring frequent review may be necessary.
+•	
+Visitor restrictions, including for women admitted to maternity services for antenatal and postnatal care,
+are in place in most settings across the UK. Midwifery, obstetric and support staff should be aware,
+as they normally are, of the support needs for all women and the practical challenges of caring for
+newborns after birth.
+15
+16
+3.3 General advice regarding possible service modifications during COVID-19
+Service modifications may be required to assist women practising social distancing measures, to reduce the risk
+of transmission between women, staff and other clinic/hospital visitors and to provide care to women who are
+self-isolating for suspected/confirmed COVID-19.
+Units should identify areas where there are clear possibilities for rationalisation of services.
+Particular possibilities include:
+• Reducing induction of labour for indications that are not strictly necessary.26 27
+• Improving outpatient provision of induction of labour, depending on availability of transport to hospital.
+•	
+Reducing routine growth scans where this is not for a strict guidance-based indication. Additional
+modified guidance is available for services in England in the Saving Babies’ Lives Care Bundle, appendix
+G.
+We are developing, together with a wide range of co-authors, a series of guidance documents to assist
+maternity units with changes to services that they provide, which may occur during the COVID-19 pandemic.
+These are available on the RCOG website and include:
+• Guidance for early pregnancy services.
+• Guidance for antenatal and postnatal services.
+• Guidance for antenatal screening (including screening ultrasound).
+• Guidance for fetal medicine services.
+• Guidance for maternal medicine clinics.
+•	
+Guidance for self-monitoring of blood pressure in pregnancy (for women with hypertensive disorders
+of pregnancy).
+•	
+Guidance for midwifery-led birth settings.
+17
+3.4 General advice regarding intrapartum services
+• 
+Intrapartum services should be provided in a way that is safe, with reference to minimum staffing
+requirements and the ability to provide emergency obstetric, anaesthetic and neonatal care where
+needed.
+•	
+Women should be permitted and encouraged to have a birth partner present with them during their
+labour and birth.A single, asymptomatic birth partner should be permitted to stay with the woman,
+at a minimum, through labour and birth, unless the birth occurs under general anaesthetic. Having a
+trusted birth partner present throughout labour is known to make a significant difference to the safety
+and well-being of women in childbirth.28-30
+o	  
+When a woman contacts the maternity unit in early labour, she should be asked about whether
+she or her birth partner have had any symptoms which could suggest COVID-19 in the preceding
+seven days. If her partner has had onset of symptoms in the last seven days, the woman should
+be advised that her partner should not attend the unit with her and she should consider bringing
+another birth partner who is symptom free. Explain the need to protect maternity staff and other
+women and families from the risk of infection.
+o	  
+On attendance to the maternity unit, all birth partners should also be asked whether they have had
+any symptoms which could suggest COVID-19 in the preceding seven days. If the onset of these
+symptoms was seven days or less ago, or they still have symptoms (other than persistent cough),
+they should be asked to leave the maternity unit immediately and self-isolate at home.
+o  
+The symptoms to ask about are: fever, acute persistent cough, hoarseness, nasal discharge/
+congestion, shortness of breath, sore throat, wheezing or sneezing.31
+o  
+Birth partners who are not symptomatic of COVID-19 should be asked to remain by the woman’s
+bedside and to not walk around the ward/hospital.We recommend they be given clear advance
+guidance on what is expected of them should they need to accompany the woman to the
+operating theatre (e.g. for caesarean birth).This is particularly important given the challenges of staff
+communication when wearing full PPE.
+• 
+Restrictions on other visitors should follow hospital policy.This might include limiting the number
+of birth partners to one, restricting any or all visitors to antenatal or postnatal wards (to ensure
+compliance with social distancing measures), and preventing swapping of postnatal visitors.We support
+visitor restrictions across all hospital wards, including maternity units, to comply with government
+18
+recommendations for social distancing and to reduce the risk of transmission to women, their babies,
+staff and visitors themselves.
+3.5 Smoking cessation and carbon monoxide monitoring in pregnancy
+Smoking is very likely to be associated with more severe disease in COVID-19, although current evidence does
+not accurately estimate the effect. This risk should be included when counselling women about the need to
+stop smoking as soon as possible during pregnancy.33
+The National Centre for Smoking Cessation andTraining (NCSCT) has recommended that carbon monoxide
+monitoring during pregnancy be paused, as a precautionary measure following concern about the risk of
+coronavirus transmission.
+All women should still be asked about their smoking status at antenatal appointments, and if smoking, be
+referred to (telephone-based) stop smoking services on an opt out basis. Nicotine replacement therapy should
+be offered and household members who smoke can also be signposted to support. Further guidance is
+available, including in Appendix H of the Saving Babies’ Lives Care Bundle for England.
+3.6 Maternal mental wellbeing
+This pandemic will inevitably result in an increased amount of anxiety in the general population, and this is
+likely to be even more so for pregnant women as pregnancy represents an additional period of uncertainty.
+Specifically, these anxieties are likely to revolve around:
+• COVID-19 itself,
+• The impact of social isolation resulting in reduced support from wider family and friends,
+•	
+The potential of reduced household finances,
+•	
+Major changes in antenatal and other NHS care, including appointments being changed from face-to-
+face to telephone contact.
+Isolation, bereavement, financial difficulties, insecurity and inability to access support systems are all widely
+recognised risk factors for mental ill-health.The coronavirus epidemic also increases the risk of domestic
+violence.34
+Additional advice regarding support for victims of domestic violence during the COVID-19
+pandemic is available here.
+19
+The change in appointment style will also make assessment for women experiencing domestic violence, women
+with safeguarding concerns, women who are misusing substances and women with complex mental health
+difficulties more challenging. If identified, the usual referrals should still be made to appropriate services.
+Simply by acknowledging these difficulties, healthcare professionals can help to contain some of these anxieties.
+Women should be asked about mental health at every contact.Women who require support should be
+signposted to resources which can be remotely provided, where possible.This includes accessing:
+•	
+Sources of self-help for anxiety and stress
+•	
+When necessary, women in England can self-refer to local IAPT (Improving Access to Psychological
+Therapies) services.
+•	
+In Scotland, advice is available from Parentclub and NHS Inform. Further information from the
+RCPsych website.
+20
+4. Advice for
+services caring
+for women
+with suspected
+or confirmed
+COVID-19
+4. 
+Advice for services caring for women with
+suspected or confirmed COVID-19
+The following advice refers mostly to the care of women in the second or third trimesters of pregnancy.
+Specific advice regarding the acute care of pregnant women admitted with moderate or severe symptoms of
+COVID-19 can be found in section 4.6.
+Care of women in the first trimester should include attention to the same infection prevention and
+investigation/diagnostic guidance as for the general population with COVID-19. Separate RCOG guidance is
+available for modifications to early pregnancy services during the pandemic.
+4.1 
+General advice for services providing care to pregnant women with
+suspected or confirmed COVID-19, where hospital attendance is necessary
+The following suggestions apply to all hospital/clinic attendances for women with suspected or confirmed
+COVID-19:
+• Women should be advised to attend via private transport where possible.
+•	
+If an ambulance is required, the woman should alert the call handler that she is currently in self-isolation
+for possible or confirmed COVID-19 affecting either her or her household contact.
+•	
+Women should be asked to alert a member of maternity staff to their attendance when on the
+hospital premises, by telephone, prior to entering the hospital.
+•	
+Staff providing care should take personal protective equipment (PPE) precautions as per local health
+protection guidance.35
+•	
+Women should be met at the maternity unit entrance by staff wearing appropriate PPE and be
+provided with a fluid-resistant surgical mask.The face mask should not be removed until the woman is
+isolated in a suitable room or cohort bay.
+•	
+Women should immediately be escorted to an isolation room or cohort bay/ward, suitable for the
+majority of care during their hospital visit or stay.
+21
+o	
+Isolation rooms or ward bays should ideally have a defined area for staff to put on and remove
+PPE, and suitable bathroom facilities.
+o Further advice on care in isolation rooms and COVID-19 cohort bays is available from PHE.
+• Only essential staff should enter the room and visitors should be kept to a minimum.
+• All non-essential items from the clinic/scan room should be removed prior to the woman’s arrival.
+• All clinical areas used must be cleaned after use, as per health protection guidance.35
+4.2 
+Women with unconfirmed COVID-19 but symptoms suggestive of possible
+infection
+For women who phone maternity services:
+Women may attend maternity units in person, or call maternity services by telephone, to report symptoms
+which are suggestive of COVID-19.
+When women phone maternity services for advice regarding symptoms which may be attributed to
+COVID-19, consider differential diagnoses which could otherwise explain fever, cough, shortness of breath or
+similar. This includes, but is not limited to: urinary tract infection, chorioamnionitis, pulmonary embolism etc.
+For women who attend maternity units in person:
+Maternity departments with direct entry for women and the public should have a system in place for identifying
+potential cases at first point of contact.This should be before the woman or accompanying visitors take a seat
+in the waiting area.
+Women may attend hospital for reasons directly related to pregnancy and also have coincidental symptoms
+meeting the COVID-19 case definition. In cases of uncertainty, seek additional advice or in case of emergency,
+investigate and treat as suspected COVID-19 until advice can be sought. Suspected COVID-19 should not
+delay administration of therapy that would be usually given (for example, IV antibiotics in woman with fever and
+prolonged rupture of membranes).
+22
+Women should be tested for COVID-19 if they meet PHE criteria. Current criteria (correct at the time of
+publishing this update) are:
+Women who are being/are admitted to hospital with one of the following:
+• Clinical/radiological evidence of pneumonia,
+• Acute Respiratory Distress Syndrome (ARDS),
+•	Fever ≥37.8 AND at least one of acute persistent cough, hoarseness, nasal discharge/congestion,
+shortness of breath, sore throat, wheezing or sneezing.
+Furthermore, we recommend that women with an isolated fever should be investigated and treated according
+to the unit protocol.This will include sending a full blood count. If lymphopenia is identified on the full blood
+count, testing for COVID-19 should also be arranged.
+In the event of a pregnant woman attending with an obstetric emergency and being suspected or confirmed
+to have COVID-19, maternity staff must first follow IPC guidance.This includes transferring the woman to an
+isolation room and donning appropriate PPE.This can be time consuming and stressful for women, their birth
+partner and health professionals. Once IPC measures are in place, the obstetric emergency should be dealt
+with as the priority. Do not delay obstetric management in order to test for COVID-19.
+Until test results are available, the woman with suspected COVID-19 should be treated as though it is
+confirmed .The full Public Health England guidance has been summarised in a flowchart (Appendix 1).31
+4.3 Antenatal care in women who are self-isolating at home
+Women with mild-moderate symptoms of suspected COVID-19 are advised to self-isolate at home, according
+to government guidelines.
+The guidance in this section can also be applied to antenatal care for women who are self-isolating at home
+because they live with another person who has symptoms indicative of possible COVID-19.
+4.3.1 Risk of venous-thromboembolism
+For women who are self-isolating at home, ensure they stay well hydrated and are mobile throughout this
+period.Women who have thromboprophylaxis already prescribed should continue taking this.
+23
+If women are concerned about the development of venous thromboembolism (VTE) during a period
+of self-isolation, a clinical review (in person or remotely) should be attempted to assessVTE risk, and
+thromboprophylaxis considered and prescribed on a case-by-case basis. If theirVTE risk score at booking is 3
+or more then commencement of prophylactic LMWH should be recommended.A prescription can be sent
+through the post along with a video link of how to self-inject, or a video appointment following receipt.
+Local procedures should be followed in ensuring the supply of low molecular weight heparin (LMWH).
+4.3.2 Managing planned appointments during the self-isolation period
+Routine appointments for women who are self-isolating at home (growth scans, oral glucose tolerance test,
+antenatal community or secondary care appointments) should be delayed until after the recommended period
+of self-isolation. Advice to attend more urgent pre-arranged appointments (fetal medicine surveillance, high risk
+maternal secondary care) will require a senior decision on urgency and potential risks/benefits.
+Trusts/boards are advised to arrange local, robust communication pathways for senior maternity staff members
+to screen and coordinate appointments missed due to periods of self-isolation at home.
+If it is deemed that obstetric or midwifery care cannot be delayed until after the recommended period of
+isolation, infection prevention and control measures should be arranged locally to facilitate care. Pregnant
+women in self-isolation who need to attend should be contacted by a local care coordinator to re-book urgent
+appointments / scans, preferably at the end of the working day.
+If ultrasound equipment is used, this should be decontaminated after use in line with guidance.
+4.3.3 Attendance for unscheduled/urgent antenatal care in women with suspected or confirmed COVID-19
+When possible, early pregnancy units (EPUs) or maternity triage units should provide advice over the
+telephone. If this requires discussion with a senior member of staff who is not immediately available, a return
+call should be arranged as soon as possible.
+Local protocols are required to ensure women currently self-isolating are also isolated on arrival to EPUs or
+maternity triage units and full PPE measures are in place for staff (see Section 4.1).
+Medical, midwifery or obstetric care should otherwise be provided as per routine.
+24
+4.4 
+Women who develop new symptoms of COVID-19 during admission
+(antenatal, intrapartum or postnatal).
+There is an estimated incubation period for COVID-19 of 0-14 days (mean 5-6 days); an infected woman
+may therefore initially present asymptomatically, developing symptoms later during an admission.36
+Health
+professionals should be aware of this possibility, particularly those who regularly measure patient vital signs (e.g.
+healthcare assistants).
+Women with new onset respiratory symptoms, which meet the PHE case-definition for suspected COVID-19
+(section 2), should be isolated with appropriate infection control precautions and investigated for possible
+SARS-COV-2 infection, amongst other differential diagnoses.The local Infection Prevention and Control team
+should be notified.
+Furthermore, we recommend that women with an isolated fever should be investigated and treated according
+to the unit’s protocol.This will include sending a full blood count. If lymphopenia is identified on the full
+blood count, or the woman has other symptoms suggestive of COVID-19, testing for COVID-19 should be
+considered.
+Suspected COVID-19 should not delay administration of therapy that would otherwise usually be given (for
+example, IV antibiotics in woman with fever and prolonged rupture of membranes).
+Recommended care for women who have moderate to severe symptoms of COVID-19 during pregnancy is
+covered in section 4.6.
+4.5 
+Women attending for intrapartum care with suspected or confirmed
+COVID-19
+4.5.1 Attendance in labour
+All women should be encouraged to call the maternity unit for advice in early labour.Women with mild
+COVID-19 symptoms can be encouraged to remain at home (self-isolating) in early (latent phase) labour as
+per standard practice.
+If homebirth or birth in a midwifery-led unit is planned, a discussion should be initiated with the woman
+regarding the potentially increased risk of fetal compromise in active phase of labour if infected with
+COVID-19.4
+Attending an obstetric unit, where the baby can be monitored using continuous electronic fetal
+25
+monitoring (EFM), should be recommended for birth.When a woman attends the maternity unit, general
+recommendations about hospital attendance apply (see section 4.1).
+Once settled in an isolation room, a full maternal and fetal assessment should include:
+• Assessment of the severity of COVID-19 symptoms by the most senior available clinician.
+•	
+Discussion with a multidisciplinary team (MDT), including an infectious diseases or general medical
+specialist.
+• Maternal observations including temperature, respiratory rate and oxygen saturations.
+• Confirmation of the onset of labour, as per standard care.
+• EFM using cardiotocograph (CTG).
+o	
+In two Chinese case series, including a total of 18 pregnant women infected with COVID-19
+and 19 babies (one set of twins), there were eight reported cases of fetal compromise.4,7
+Given this relatively high rate of fetal compromise, continuous EFM in labour is currently
+recommended for all women with COVID-19.
+•	
+If the woman attends with a fever, investigate and treat as per RCOG guidance on sepsis in pregnancy,
+but also consider active COVID-19 as a cause of sepsis and investigate according to PHE guidance (see
+section 2 for COVID-19 case definition).
+If there are no concerns regarding the condition of either the woman or baby, women who would usually be
+advised to return home until labour is more established, can still be advised to do so, if appropriate transport is
+available.
+Women should be given the usual advice regarding signs and symptoms to look out for, but in addition should
+be told about symptoms that might suggest deterioration related to COVID-19 following consultation with the
+medical team (e.g. difficulty in breathing).
+If labour is confirmed, then care in labour should ideally continue in the same isolation room.
+26
+4.5.2 Care in labour
+Considerations when caring for women in spontaneous or induced labour:
+•	
+When a woman with confirmed or suspected COVID-19 is admitted to the maternity suite, the
+following members of the MDT should be informed: consultant obstetrician, consultant anaesthetist,
+midwife-in-charge, consultant neonatologist, neonatal nurse in charge and infection control team.
+•	
+Efforts should be made to minimise the number of staff members entering the room and units should
+develop a local policy specifying essential personnel for emergency scenarios.
+•	
+Asymptomatic birth partners should be asked to wash their hands frequently. If symptomatic, birth
+partners should remain in self-isolation at home and not attend the unit. Women should be advised in
+advance, to identify an alternative birth partner, should the need arise.
+•	
+Maternal observations and assessment should be continued as per standard practice, with the addition
+of hourly oxygen saturations.
+o Aim to keep oxygen saturation more than 94%, titrating oxygen therapy accordingly.
+•	
+If the woman develops a fever, investigate and treat as per RCOG guidance on sepsis in pregnancy,
+but also consider active COVID-19 as a cause of sepsis and investigate according to PHE guidance (see
+section 2 for COVID-19 case definition).
+•	
+Given the rate of fetal compromise reported in the two Chinese case series,4,7
+the current
+recommendation is for continuous electronic fetal monitoring in labour.
+•	
+In case of deterioration in the woman’s symptoms, refer to Section 4.6 for additional considerations,
+and make an individual assessment regarding the risks and benefits of continuing the labour versus
+proceeding to emergency caesarean birth if this is likely to assist efforts to resuscitate the woman.
+•	
+The neonatal team should be given sufficient notice at the time of birth, to allow them to attend and
+don PPE before entering the room/theatre.
+•	
+Given a lack of evidence to the contrary, delayed cord clamping is still recommended following birth,
+provided there are no other contraindications.The baby can be cleaned and dried as normal, while the
+cord is still intact.
+27
+Regarding mode of birth:
+•	
+There is currently no evidence to favour one mode of birth over another and therefore mode of
+birth should be discussed with the woman, taking into consideration her preferences and any obstetric
+indications for intervention.
+•	
+Mode of birth should not be influenced by the presence of COVID-19, unless the woman’s respiratory
+condition demands urgent intervention for birth.
+• Where vaginal secretions have been tested for COVID-19, the results have been negative.
+•	
+The use of birthing pools in hospital should be avoided in suspected or confirmed cases, given the risk
+of infection via faeces.
+• When caesarean birth or other operative procedure is advised, follow guidance from Section 4.7.2.
+o	
+For emergency caesarean births, donning PPE is time-consuming.This may impact on the
+decision to delivery interval but it must be done.Women and their families should be told
+about this possible delay.
+•	
+An individualised informed discussion and decision should be made regarding shortening the length of
+the second stage of labour with elective instrumental birth in a symptomatic woman who is becoming
+exhausted or hypoxic.
+Regarding analgesia:
+•	
+There is no evidence that epidural or spinal analgesia or anaesthesia is contraindicated in the presence
+of coronaviruses. Epidural analgesia should therefore be recommended in labour, to women with
+suspected or confirmed COVID-19 to minimise the need for general anaesthesia if urgent intervention
+for birth is needed.
+•	
+Entonox should be used with a single-patient microbiological filter. This is standard issue throughout
+maternity units in the UK.
+o There is no evidence that the use of Entonox is an aerosol-generating procedure (AGP).
+28
+
+Risk of venous-thromboembolism
+• Following birth, women should be risk assessed for venous thromboembolism.
+•	
+The first dose of LMWH should be administered as soon as possible after birth, provided there is no
+postpartum haemorrhage and regional analgesia has not been used.
+o	
+Where regional analgesia has been used, LMWH can be administered 4 hours after the last
+spinal injection or removal of the epidural catheter.17
+4.5.3 Personal protective equipment for labour
+General advice from PHE on type and specification of PPE is available here. Particular advice from Public
+Health England on type and specification of PPE for different maternity settings is available as part of the table
+here.
+Caesarean birth: specific advice on PPE when caring for pregnant women with suspected/confirmed COVID-19
+requiring Caesarean birth is detailed in section 4.7.
+4.5.4 Elective (planned) caesarean birth
+Where women who are currently in a period of self-isolation because of suspected COVID-19 in themselves
+or a household contact, an individual assessment should be made to determine whether it is safe to delay
+scheduled appointments for pre-operative care and elective caesarean birth.The individualised assessment
+should consider the urgency of the birth, and the risk of infectious transmission to other women, healthcare
+workers and, postnatally, to her baby.
+In cases where elective caesarean birth cannot safely be delayed, the general advice for services providing care
+to women admitted when affected by suspected/confirmed COVID-19 should be followed (see Section 4.1), as
+should the advice on PPE for caesarean birth (see section 4.7).
+Obstetric management of elective caesarean birth should be according to usual practice.
+4.5.5 Planned induction of labour
+As for elective caesarean birth, an individual assessment should be made regarding the urgency of planned
+induction of labour for women currently in self-isolation because of suspected COVID-19 affecting either
+29
+themselves or a household contact. If induction of labour cannot safely be delayed, the general advice for
+services providing care to women admitted to hospital when affected by suspected/confirmed COVID-19
+should be followed (see Section 4.1).Women should be admitted into an isolation room; in which they should
+ideally be cared for the entirety of their hospital stay.
+4.6 
+Additional considerations for women with confirmed COVID-19 and
+moderate/severe symptoms
+When pregnant women with moderate or severe signs and symptoms of suspected or confirmed COVID-19
+infection are being cared for in any hospital setting, the following recommendations apply in addition to those
+specified for women with no or mild symptoms:
+•	
+A MDT planning meeting ideally involving a consultant physician (infectious disease specialist where
+available), consultant obstetrician, midwife-in-charge and consultant anaesthetist responsible for
+obstetric care should be arranged urgently.The discussion should be shared with the woman.The
+following should be included:
+o Key priorities for medical care of the woman and her baby, and her birth preferences.
+o	
+Most appropriate location of care (e.g. intensive care unit, isolation room in infectious disease
+ward or other suitable isolation room) and lead specialty.
+o	
+Concerns among the team regarding special considerations in pregnancy, particularly the
+condition of the baby.
+• The priority for medical care should be to stabilise the woman’s condition with standard therapies.
+o	
+A useful summary on supportive care for adults diagnosed with COVID-19 has been published
+by the World Health Organisation (WHO).38
+o	
+Specific guidance on the management of patients with COVID-19 who are admitted to
+critical care has now been published by NICE.39
+•	
+Hourly observations should include respiratory rate and oxygen saturations, looking for the number
+and trends.
+o	
+Young fit women can compensate during a deterioration in respiratory function and are able
+to maintain normal oxygen saturations before sudden clinical decompensation.
+30
+o	
+Signs of decompensation include an increase in oxygen requirements or FiO2 > 40%, a
+respiratory rate of greater than 30, reduction in urine output, or drowsiness, even if the
+saturations are normal.
+o	
+Escalate urgently if any signs of decompensation develop in a woman who is pregnant or has
+recently given birth.
+o Titrate oxygen to keep saturations >94%.
+•	
+Radiographic investigations should be performed as for the non-pregnant adult; this includes chest
+X-ray and computerised tomography (CT) of the chest.
+o	
+Chest imaging, especially CT chest, is essential for the evaluation of the unwell patient with
+COVID-19 and should be performed when indicated, and not delayed because of fetal
+concerns.40-42
+o Abdominal shielding can be used to protect the fetus as per normal protocols.
+•	
+Consider additional investigations to rule out differential diagnoses e.g. ECG, CTPA, echocardiogram.
+• Do not assume all pyrexia is due to COVID-19 and also perform full sepsis-six screening.
+o	
+Consider bacterial infection if the white blood cell count is raised (lymphocytes usually normal
+or low with COVID-19) and commence antibiotics.
+• Apply caution with IV fluid management.
+o	
+Given the association of COVID-19 with acute respiratory distress syndrome,43
+women with
+moderate to severe symptoms of COVID-19 should be monitored using hourly fluid input/
+output charts.
+o	
+Efforts should be targeted towards achieving neutral fluid balance in labour, in order to avoid
+the risk of fluid overload.
+o 
+Try boluses in volumes of 250-500mls and then assess for fluid overload before proceeding
+with further fluid resuscitation.38
+31
+•	
+All pregnant women admitted with COVID-19 infection (or suspected COVID-19 infection) should
+receive prophylactic low molecular weight heparin (LMWH), unless birth is expected within 12 hours
+(e.g. for a woman with increasing oxygen requirements).17
+o	
+Where women with complications of COVID-19 are under the care of other teams, such as
+intensivists or acute physicians, the appropriate dosing regimen of LMWH should be discussed
+in an MDT that includes a senior obstetrician and a localVTE expert.
+o	
+The diagnosis of PE should be considered in women with chest pain, worsening hypoxia
+(particularly if there is a sudden increase in oxygen requirements) or in women whose
+breathlessness persists or worsens after expected recovery from COVID-19.
+•	
+The frequency and suitability of fetal heart rate monitoring should be considered on an individual
+basis, taking into consideration the gestational age of the fetus and the maternal condition. If urgent
+intervention for birth is indicated for fetal reasons, birth should be expedited as normal, as long as the
+maternal condition is stable.
+•	
+An individualised assessment of the woman should be made by the MDT to decide whether
+emergency caesarean birth or induction of labour is indicated, either to assist efforts in maternal
+resuscitation or where there are serious concerns regarding the fetal condition.
+o	
+Individual assessment should consider: the maternal condition, the fetal condition, the potential
+for improvement following elective birth and the gestation of the pregnancy.The priority must
+always be the wellbeing of the woman.
+o	
+If maternal stabilisation is required before intervention for birth, this is the priority, as it is in
+other maternity emergencies, e.g. severe pre-eclampsia.
+• Steroids should be given when indicated by NICE guidance.
+o	
+As per standard practice, urgent intervention for birth should not be delayed for their
+administration.44
+o	
+There is no evidence to suggest that steroids for fetal lung maturation, when they would
+usually be offered, cause any harm in the context of COVID-19.
+32
+There are some reports that even after a period of improvement there can be a rapid deterioration. Following
+improvement in a woman’s condition, consider an ongoing period of observation, where possible, for a further
+24-48 hours. On discharge, advise the woman to return immediately if she becomes more unwell.
+4.7 
+Specific peri-operative advice for healthcare professionals caring for
+pregnant women with suspected/confirmed COVID-19 who require
+surgical intervention
+4.7.1 General advice for obstetric/emergency gynaecology theatre
+•	
+Elective/planned obstetric procedures (e.g. cervical cerclage or caesarean) should be scheduled at the
+end of the operating list.
+•	
+Non-elective or emergency procedures should be carried out in a second obstetric theatre, where
+available, allowing time for a full postoperative theatre clean as per local health protection guidance.35
+•	
+The number of staff in the operating theatre should be kept to a minimum, and all must wear
+appropriate PPE.
+•	
+All staff (including maternity, neonatal and domestic) should have been trained in the use of PPE so that
+24-hour emergency theatres are available and possible delays reduced.
+•	
+Anaesthetic management for women with symptoms or confirmed COVID-19 should be with
+reference to anaesthetic guidance.
+•	
+Departments should consider organising dry-run simulation exercises to prepare staff, build confidence
+and identify areas of concern to prepare for emergency transfers to the operating theatre.
+4.7.2 Advice regarding Personal Protective Equipment for Caesarean birth
+Caesarean birth: the level of PPE required by healthcare professionals caring for a woman with COVID-19
+who is undergoing a caesarean birth should be determined based on the risk of requiring a general anaesthetic
+(GA). Intubation is an AGP. This significantly increases the risk of transmission of coronavirus to the attending
+staff. Siting regional anaesthesia (spinal, epidural or CSE) is not an AGP.
+For the minority of caesarean births, where GA is planned from the outset, all staff in theatre should wear PPE,
+with a FFP3 mask.The scrub team should scrub and don PPE before the GA is commenced.
+33
+For a non-urgent caesarean birth where regional anaesthesia is planned, the risk of requiring a GA is very small,
+as there is no time pressure.
+The chance of requiring conversion to a GA during a caesarean birth commenced under regional anaesthesia
+is small, but this chance increases with the urgency of caesarean birth. In situations where there are risk factors
+that make conversion to a GA more likely, the decision on what type of PPE to wear should be judged based
+on the individual circumstances. If the risk of requiring conversion to a GA is considered significant (e.g.‘top-up’
+of a suboptimal epidural from labour), the theatre team should wear PPE appropriate to a GA in readiness.
+These recommendations will be updated as required as further evidence and advice becomes available.
+4.8 Postnatal care
+4.8.1 Neonatal care
+There are limited data to guide the postnatal care of babies of women who tested positive for COVID-19 in
+the third trimester of pregnancy. Literature from China has advised separate isolation of the infected woman
+and her baby for 14 days. However, routine precautionary separation of a woman and a healthy baby should
+not be undertaken lightly, given the potential detrimental effects on feeding and bonding. Given the current
+limited evidence, we advise that women and healthy babies, not otherwise requiring neonatal care, are kept
+together in the immediate postpartum period.
+A risk and benefits discussion with neonatologists and families to individualise care in babies that may be
+more susceptible is recommended. All babies born to COVID-19 positive women should be cared for as per
+RCPCH guidance.45
+4.8.2 Infant feeding
+It is reassuring that in six Chinese cases, breastmilk tested negative for COVID-19;4
+however, given the small
+number of cases, this evidence should be interpreted with caution. The main risk of breastfeeding is the close
+contact between the baby and the woman, who is likely to share infective droplets.
+In the light of the current evidence, we advise that the benefits of breastfeeding outweigh any potential risks
+of transmission of the virus through breastmilk.The risks and benefits of feeding choices, including the risk of
+holding the baby in close proximity where women may be infected, should be discussed with the parents.
+34
+The following precautions should be taken to limit viral spread to the baby:
+• Considering asking someone who is well to feed the baby.
+• Wash hands before touching the baby, breast pump or bottles.
+• Avoid coughing or sneezing on the baby while feeding.
+• Consider wearing a fluid-resistant surgical face mask, if available, while feeding or caring for the baby.
+• Where women are expressing breastmilk in hospital, a dedicated breast pump should be used.
+o Where a breast pump is used, follow recommendations for pump cleaning after each use.
+•	
+For babies who are bottle fed with formula or expressed milk, strict adherence to sterilisation
+guidelines is recommended.
+4.8.3 Discharge and readmission to hospital
+Any women or babies requiring readmission for postnatal obstetric or neonatal care during a period of self-
+isolation for suspected or confirmed COVID-19 are advised to telephone their local unit ahead of arrival and
+follow the attendance protocol as described in Section 4.1.
+35
+36
+5. Advice for services
+caring for women
+following isolation for
+symptoms, or recovery
+from confirmed
+COVID-19
+5. 
+Advice for services caring for women following
+isolation for symptoms, or recovery from
+confirmed COVID-19
+5.1 
+Antenatal care for pregnant women following self-isolation for symptoms
+suggestive of COVID-19
+Scheduled antenatal care that falls within the self-isolation period should be rearranged for post-isolation.
+No additional tests, including ultrasound assessment of fetal growth, are necessary for women who have not
+requiried hospitalisation for COVID-19.
+If a woman has previously tested negative for COVID-19, and she re-presents with symptoms that meet the
+case definition (section 2), COVID-19 should still be suspected (due to the rate of false negative results from
+COVID-19 naso-pharyngeal swabs).
+5.2 Antenatal care for pregnant women following hospitalisation for confirmed
+COVID-19 illness
+At the time of discharge from hospital following a period of care for confirmed COVID-19 infection, all women
+should be prescribed at least 10 days of prophylactic LMWH.
+For those recovering after acute illness, further antenatal care should be arranged for after the period of self-
+isolation.
+Referral to antenatal ultrasound services for fetal growth surveillance is recommended 14 days after resolution
+of acute illness. Although there is no evidence yet that fetal growth restriction (FGR) is a risk of COVID-19,
+two-thirds of pregnancies with SARS were affected by FGR and a placental abruption occurred in a MERS case,
+so ultrasound follow-up seems prudent.46,47
+37
+5.3 Postnatal care for pregnant women immediately following hospitalisation
+for confirmed COVID-19 illness
+At the time of discharge from hospital following a period of care for confirmed COVID-19, which includes
+the birth of their baby, all women should be prescribed at least 10 days of prophylactic LMWH.This should be
+offered regardless of the mode of birth.A longer course of LMWH should be prescribed if indicated by existing
+guidance.17
+Families should be provided with guidance about how to identify signs of illness in their newborn or worsening
+of the woman’s symptoms and provided with appropriate contact details if they have concerns or questions
+about their baby’s wellbeing.
+Usual advice about safe sleeping and a smoke free environment should be emphasised, along with provision of
+clear advice about careful hand hygiene and infection control measures when caring for and feeding the baby.
+RCPCH guidance recommends that all families self-isolate at home for 14 days after birth of a baby to a
+woman with active COVID-19 infection.
+Postnatal care should continue according to the recommended schedule, where safe to do so. Maternity
+services should offer a combination of face-to-face and remote postnatal follow-up, according to the woman
+and baby’s needs. For example, women with hypertensive diseases of pregnancy may require face-to-face
+reviews, particularly if they don’t have access to home blood pressure monitoring. If the baby is of low birth
+weight, premature or where there any concerns about feeding, face to face appointments will be needed in
+order to weigh and examine the baby fully.
+Where is it essential that women receive a face-to-face review in the community, midwives are advised to wear
+appropriate PPE and follow social distancing and infection control guidance. In order to reduce the exposure
+of midwives to risk of infection, for home visits other members of the household should be asked not to be
+present in the room when the midwife is examining the woman and her baby.
+38
+39
+Acknowledgments
+We wish to thank the following people and teams for expert input and review:The Royal College of
+Midwives; the Royal College of Anaesthetists; the Royal College of Paediatrics and Child Health; the
+Obstetric Anaesthetists’Association; Public Health England; Public Health Scotland; NHS England; Scottish
+Government; NHS Improvement Infection, Prevention and ControlTeam; Dr Benjamin Black, Professor Asma
+Khalil, Dr Maggie Blott, Dr Giles Berrisford (on behalf of RCPsych), Dr Christine Ekechi, Dr Jahnavi Daru,
+Dr Peter MacCallum, Dr Shohreh Beski, Dr Louise Bowles, Dr Lucy Mackillop, Professor Beverley Hunt,
+Professor Cathy Nelson-Piercy, Zeenath Uddin and Emma Crookes.
+Authors
+Edward Morris, President RCOG
+Pat O’Brien,Vice President, Membership, RCOG
+Gemma Goodyear, Obstetric Fellow, RCOG
+Sophie Relph, Obstetric Fellow, RCOG
+Jennifer Jardine, Obstetric Fellow, RCOG
+Anita Powell, Senior Director Clinical Quality, RCOG
+Emma Gilgunn-Jones, Director of Media and Public Relations, RCOG
+Ed Mullins, Clinical Advisor to the CMO
+RussellViner, President, RCPCH
+David Evans, Consultant Neonatologist, North Bristol NHSTrust
+Mary Ross-Davie, Director for Scotland, RCM
+40
+Appendix
+41
+Appendix 1: Flow chart to assess COVID-19 risk in
+maternity unit attendees
+Does the woman either have known COVID-19, or symptoms of cough,
+fever of or above 37.8 degrees
+No symptoms
+No further action -
+usual care
+Symptoms present
+•	
+Give the woman surgical (non FFP3) face mask and ask to put on
+•	
+Accompany to designated isolation room or area for initial
+assessment
+•	
+Use full PPE and infection control measures
+Does the women have an emergency obstetric issue, or is she in labour?
+Emergency obstetric issue/in labour
+• 
+Alert designated local team, midwife co-ordinator, obstetric consultant on call and neonatal team
+•	
+MW and Obstetric Dr review within 30 minutes
+Does she require admission to hospital?
+Yes
+• 
+Discuss with local designated COVID-19 team regarding best
+place of care
+•	
+Test woman for COVID-19
+• Treat as though confirmed case until results of swabs available
+No
+•	
+Advise to take own personal
+transport home immediately
+and self-isolate for seven
+days, or attend the hospital’s
+designated containment area
+for next action
+•	
+Rebook any appointment
+after seven days and send by
+post
+No emergency obstetric issue and not in labour
+42
+Appendix 2: Key considerations when caring for
+women with suspected/confirmed COVID-19 during
+labour and birth
+Setting for birth
+• 
+If homebirth or birth in a midwifery-led unit is planned, a discussion should be initiated with the woman
+regarding the potentially increased risk of fetal compromise in active phase of labour if infected with
+COVID-19.
+• Attending an obstetric unit, where the baby can be monitored using continuous electronic fetal
+monitoring (EFM), should be recommended for birth.
+Timing of birth
+• 
+A positive COVID-19 result in an otherwise well woman, where there is also no evidence of fetal
+compromise, is not an indication to expedite birth.
+• 
+Induction of labour (IOL) is associated with longer periods of inpatient stay than for spontaneous onset
+of labour.
+o	
+Review the indication for induction of labour and consider whether the likely benefits
+outweigh possible risks.Where possible review the provision of out-patient induction of labour,
+and consider whether this can be extended safely.
+• 
+For women who are currently in a period of self-isolation because of suspected COVID-19 in themselves
+or a household contact, an individual assessment should be made to determine whether it is safe to delay
+scheduled appointments for pre-operative care and elective caesarean birth, or induction of labour if
+planned to occur during their period of self-isolation.
+43
+o The individualised assessment should consider the urgency of the birth, and the risk of
+infectious transmission to other women, healthcare workers and, postnatally, to her baby.
+Mode of birth
+
+• 
+There is currently no evidence to favour one mode of birth over another and therefore mode of
+birth should be discussed with the woman, taking into consideration her preferences and any obstetric
+indications for intervention.
+• 
+Mode of birth should not be influenced by the presence of COVID-19, unless the woman’s respiratory
+condition demands urgent intervention for birth.
+• 
+The use of birthing pools in hospital should be avoided in suspected or confirmed cases, given that SARS-
+COV-2 has been identified in faeces and that commonly available PPE is not waterproof.
+• 
+An individualised informed discussion and decision should be made regarding shortening the length of
+the second stage of labour with elective instrumental birth in a symptomatic woman who is becoming
+exhausted or hypoxic.
+
+• 
+In case of deterioration in the woman’s symptoms, make an individual assessment regarding the risks and
+benefits of continuing the labour versus proceeding to emergency caesarean birth if this is likely to assist
+efforts to resuscitate the woman.
+• 
+For emergency caesarean births, donning PPE is time-consuming.This may impact on the decision to
+delivery interval but it must be done.Women and their families should be told about this possible delay.
+Birth partners
+• 
+Women should be permitted and encouraged to have a birth partner present with them during their
+labour and birth. Having a trusted birth partner present throughout labour is known to make a significant
+difference to the safety and well-being of women in childbirth.
+• 
+When a woman contacts the maternity unit in early labour, she should be asked about whether she or her
+birth partner have had any symptoms which could suggest COVID-19 in the preceding seven days. If her
+partner has had onset of symptoms in the last seven days, the woman should be advised that her partner
+44
+should not attend the unit with her and she should be consider bringing another birth partner who is
+symptom free. Explain the need to protect maternity staff and other women and families from the risk of
+infection.
+• 
+On attendance to the maternity unit, all birth partners should also be asked whether they have had any
+symptoms which could suggest COVID-19 in the preceding seven days. If the onset of these symptoms
+was seven days or less ago, or they still have symptoms (other than persistent cough), they should be
+asked to leave the maternity unit immediately and self-isolate at home.
+• 
+A single, asymptomatic birth partner should be permitted to stay with the woman, at a minimum, through
+labour and birth, unless the birth occurs under general anaesthetic.
+• 
+Birth partners who are not symptomatic of COVID-19 should be asked to remain by the woman’s
+bedside, to not walk around the ward/hospital and to wash their hands frequently.
+• 
+We recommend that birth partners be given clear advance guidance on what is expected of them should
+they need to accompany the woman to the operating theatre (e.g. for caesarean birth).This is particularly
+important given the challenges of staff communication when wearing full PPE.
+• 
+Restrictions on other visitors should follow hospital policy.This might include limiting the number of birth
+partners to one, restricting any or all visitors to antenatal or postnatal wards (to ensure compliance with
+social distancing measures), and preventing swapping of postnatal visitors.
+Respect and consent
+• 
+Women must still be able to make decisions about the care they receive in line with the principles of
+informed consent.
+Fetal surveillance
+• 
+Discuss with women the options for fetal surveillance in labour
+• 
+Recommend continuous electronic fetal monitoring as fetal compromise has been reported as the
+indication for emergency birth in early case series of pregnant women with COVID-19.
+45
+Pain relief
+• 
+There is no evidence that epidural or spinal analgesia or anaesthesia is contraindicated in the presence of
+coronaviruses.
+• 
+Epidural analgesia should therefore be recommended in labour, to women with suspected or confirmed
+COVID-19 to minimise the need for general anaesthesia if urgent intervention for birth is needed.
+• 
+Entonox should be used with a single-patient microbiological filter. This is standard issue throughout
+maternity units in the UK.
+• 
+There is no evidence that the use of Entonox is an aerosol-generating procedure (AGP).
+Intrapartum care
+• 
+When a woman with confirmed or suspected COVID-19 is admitted to the maternity suite, the following
+members of the MDT should be informed: consultant obstetrician, consultant anaesthetist, midwife-in-
+charge, consultant neonatologist, neonatal nurse in charge and infection control team.
+• 
+Maternal observations and assessment should be continued as per standard practice, with the addition of
+hourly oxygen saturations.
+• Aim to keep oxygen saturation more than 94%, titrating oxygen therapy accordingly.
+• 
+If the woman develops a fever, investigate and treat as per RCOG guidance on sepsis in pregnancy, but
+also consider active COVID-19 as a cause of sepsis and investigate according to PHE guidance.
+• Apply caution with IV fluid management. Given the association of COVID-19 with acute respiratory
+distress syndrome, women with moderate to severe symptoms of COVID-19 should be monitored using
+hourly fluid input/output charts.
+o	
+Efforts should be targeted towards achieving neutral fluid balance in labour, in order to avoid
+the risk of fluid overload.
+46
+Immediate neonatal care
+• 
+The neonatal team should be given sufficient notice at the time of birth, to allow them to attend and don
+PPE before entering the room/theatre.
+• 
+Given a lack of evidence to the contrary, delayed cord clamping is still recommended following birth,
+provided there are no other contraindications.The baby can be cleaned and dried as normal, while the
+cord is still intact.
+Infection control
+• 
+On arrival to hospital, women with suspected/confirmed COVID-19 should immediately be escorted to
+an isolation room or cohort bay/ward, suitable for the majority of care during their hospital visit or stay
+• 
+Isolation rooms or ward bays should ideally have a defined area for staff to put on and remove PPE, and
+suitable bathroom facilities.
+o Further advice on care in isolation rooms and COVID-19 cohort bays is available from PHE.
+• Only essential staff should enter the room and visitors should be kept to a minimum.
+• All non-essential items from the clinic/scan room should be removed prior to the woman’s arrival.
+• General advice from PHE on type and specification of PPE is available here.
+o 
+Particular advice from Public Health England on type and specification of PPE for different
+maternity settings is available as part of the table here.
+• All clinical areas used must be cleaned after use, as per health protection guidance.
+47
+Potential risk factors to consider
+• 
+This pandemic will inevitably result in an increased amount of anxiety in the general population, and
+this is likely to be even more so for pregnant women as pregnancy represents an additional period of
+uncertainty. Specifically, these anxieties are likely to revolve around:
+o COVID-19 itself,
+o The impact of social isolation resulting in reduced support from wider family and friends,
+o	
+The potential of reduced household finances, major changes in antenatal and other NHS care,
+including appointments being changed from face-to-face to telephone contact.
+Isolation, bereavement, financial difficulties, insecurity and inability to access support systems are all widely
+recognised risk factors for mental ill-health.The coronavirus epidemic also increases the risk of domestic
+violence.
+48
+Appendix 3: Summary of updates
+Version Date Summary of changes
+2 12.3.20 1.2: At the time of writing, Public Health Wales are aligning with Public Health
+England on case definitions, assessment, infection prevention and control and testing.
+We will update this guidance if this changes.
+2 13.3.20 2.2: Updated to reflect PHE and health protection advice as per 13.03.20, in particular
+to use online symptom checkers and to treat all individuals with symptoms as possibly
+having COVID-19
+2 13.3.20 3.2: Sentence on who to test updated to reflect advice to test women with symptoms
+suggestive of COVID-19 who require admission
+2 13.3.20 3.6.4 and 3.6.5: Updated to suggest considering delay of elective caesarean birth or
+induction for women with symptoms suggestive of COVID-19 as well as those with
+confirmed COVID-19
+2 13.3.20 3.8: Infant feeding modified from recommendation to wear a face mask to try and
+avoid coughing or sneezing on the baby, and consider wearing face mask where
+available
+2 13.3.20 4: New section added for antenatal care for pregnant women following self-isolation
+for symptoms suggestive of COVID-19
+2 13.3.20 5 (new). New section - Advice for pregnant healthcare professionals
+2 13.3.20 Appendix 1: Flow chart amended to reflect modified PHE guidance
+2 13.3.20 References: 19. NHS Staff Council Statement on Covid-19 2020 [Available
+from: https://www.nhsemployers.org/-/media/Employers/Documents/
+Pay-and-reward/NHS-Staff-Council---Guidance-for-Covid-19-Feb-20.
+pdf?la=en&hash=70C909DA995280B9FAE4BF6AF291F4340890445C] accessed 12
+March 2020
+3 17.3.20 2: Advice for Health Professionals to share with Pregnant Women updated to reflect
+current guidelines
+3 17.3.20 3: New section added on Advice for all midwifery and obstetric services
+3 17.3.20 4.1: General advice to services providing care to pregnant women updated to reflect
+advice from chief medical officer on 16/3/20
+3 14.3.20 4.1: Advice on cleaning ultrasound equipment added, and reference added
+3 17.3.20 4.5: Linked to new national guidance on the actions required when a COVID-19 case
+was not diagnosed on admission
+3 17.3.20 4.6.2: Recommendations added: There is evidence of household clustering and
+household co-infection.Asymptomatic birth partners should be treated as possibly
+infected and asked to wear a mask and wash their hands frequently. If symptomatic,
+birth partners should remain in isolation and not attend the unit.
+The use of birthing pools in hospital should be avoided in suspected or confirmed
+cases, given evidence of transmission in faeces and the inability to use adequate
+protection equipment for healthcare staff during water birth.
+49
+3 17.3.20 4.6.2: Advice about Entonox changed to
+There is no evidence that the use of Entonox is an aerosol-prone procedure
+Entonox should be used with a single-patient microbiological filter. This is standard
+issue throughout maternity units in the UK.
+3 17.3.20 4.6.4: Anaesthetic management for women with symptoms or confirmed COVID-19,
+which was previously in this guidance, has been removed and external links provided
+3 17.3.20 4.7.1: Statement inserted ‘Chest imaging, especially CT chest, is essential for the
+evaluation of the unwell patient with COVID-19 and should be performed when
+indicated and not delayed due to fetal concerns.’
+3 17.3.20 Updated to reflect current public health guidance on self-isolation and social
+distancing
+3 17.3.20 4.7.1: Advice on neonatal management and testing has been removed. Please refer to
+RCPCH guidance
+3 17.3.20 6: Advice for healthcare professionals updated in line with Chief Medical Officer
+statement on Monday 16 March.
+4 21.3.20 6: Section on ‘Occupational health advice for employers and pregnant women during
+the COVID-19 pandemic’ added, replacing the previous section 6 on ‘Information for
+Healthcare Professionals’. Section includes specific recommendations for healthcare
+professionals.
+50
+4 21.3.20 1.3-1.4: Additional information added on the susceptibility of pregnant women to
+COVID-19 infection.
+4 21.3.20 2: Additional information on social distancing for pregnant women added, particularly
+specifying stringent adherence to recommendations for women >28 weeks gestation.
+4 21.3.20 4.7: New section added on specific recommendations for PPE during labour and birth
+4 21.3.20 1: Addition of information and links for the UKOSS reporting system
+4 21.3.20 All: General proofread and editorial changes
+4 21.3.20 6: Page 36 title changed to ‘Occupational health advice for employers and pregnant
+women during the COVID-19 pandemic’
+4.1 26.3.20 Chapter 6: ‘Occupational health advice for employees and pregnant women during
+the COVID-19 pandemic’ has been removed from this general guidance on pregnancy
+and COVID-19 infection, and published as a separate document given the distinct
+audience for the occupational health advice.
+4.1 26.3.20 4.7.3: On Personal Protective Equipment updated in line with NHS England guidance
+51
+5 28.3.20 1.3: Section updated to include new evidence on possible vertical transmission
+5 28.3.20 2.2: Sentence added on the major new measures announced by government for
+pregnant women with co-existing significant congenital or acquired heart disease.
+5 28.3.20 2.3: Section updated to emphasise the need to attend maternity care
+5 28.3.20 3: General advice for antenatal care extended to include considerations for vulnerable
+women. Section also added on general advice regarding intrapartum services
+5 28.3.20 3.1: Specific advice added regarding the cessation of carbon monoxide monitoring
+in pregnancy, following advice from the National Centre for Smoking Cessation and
+Training.
+5 28.3.20 4: Scotland specific links to Health Protection Scotland removed after confirmation
+from the Scottish government that National links from gov.uk should be used.
+5 28.3.20 4.3.6: Scotland specific links to Health Protection Scotland removed after confirmation
+from the Scottish government that National links from gov.uk should be used.
+5 28.3.20 4.7.3 and 4.76: Advice on PPE considerations for caesarean birth and general
+advice for obstetric theatres moved to new section ‘Specific peri-operative advice
+for pregnant women with suspected/confirmed COVID-19 requiring surgical
+intervention’.
+5 28.3.20 4.8.1: Reference made to new guidance published by NICE on the management of
+patients with COVID-19 in critical care.
+5 28.3.20 4.8.1: Additional recommendations made for the management of women admitted
+during pregnancy with suspected/confirmed COVID-19.
+5 28.3.20 4.9.2: Section edited to make infant feeding recommendations to any caregiver, not
+just to the mother.
+5 28.3.20 4.10: New section on ‘Specific peri-operative advice for pregnant women with
+suspected/confirmed COVID-19 requiring surgical intervention’
+52
+5 28.3.20 5.1: Correction of an error in the title to clarify that this section refers to the
+care of women recovering from suspected (not confirmed) COVID-19 for which
+hospitalisation was not required.
+6 3.4.20 Throughout: References to the new RCOG guidance on (1) antenatal and postnatal
+services (2) antenatal screening (3) fetal medicine services (4) maternal medicine
+services and (5) self-monitoring of blood pressure, have been added throughout the
+document.
+6 3.4.20 1.2: New resources signposted on current UK and international disease incidence.
+6 3.4.20 1.4: Sentence reporting that there are ‘no reported maternal deaths from COVID-19’
+removed because there was recently a possible maternal death reported in
+tabloid media.There is not any robust evidence to amend this statement or report
+confidently in the guideline.
+6 3.4.20 3.2: Addition of new advice on screening birth partners for recent possible symptoms
+of COVID-19 when they attend the maternity unit. In addition, suggestion of
+information to give the birth partner about what is expected of them whilst they are
+in the hospital, to assist staff in reducing the risk of infection transmission and to assist
+with communication when birth partners accompany women into operating theatres.
+6 3.4.20 3.4: Moved to section 3.2
+6 3.4.20 3.5: New section on maternal mental wellbeing during the pandemic
+6 3.4.20 4.1 The previous section 4.2 was repetitive of section 3.1 and so has been removed.
+Sections 4.2 onwards have been re-numbered.
+6 3.4.20 4.3: Inclusion of the PHE case definition for COVID-19 testing, rather than referring
+readers to this through the link.
+6 3.4.20 4.9: Updates to advice on PPE for caesarean birth, to ensure that these are consistent
+with new PHE advice
+53
+54
+7 9.4.20 1.4: Update to data from ICNARC and inclusion of a report of 43 pregnant women
+with COVID-19 from NewYork.
+7 9.4.20 1.4: New comment on risk of venous thromboembolism from COVID-19.
+7 9.4.20 2.3: Advice for pregnant women added – if they are advised to attend a face-to-
+face antenatal appointment, this is because the appointment is important and the
+benefit of attending is perceived to be greater than the possible risk of infection
+with COVID-19 caused by leaving home.Added also emphasised advice to contact
+maternity services if concerns during pregnancy.
+7 9.4.20 3.1: New section of reducing the risk to women of new infection caused by attending
+maternity settings.All other subsections in section 3 have been re-numbered.
+7 9.4.20 3.2: New comment on visitor restrictions in maternity settings.
+7 9.4.20 3.2: List of risk factors which contribute to mental ill health in pregnant women, and
+acknowledgement of the risk of increasing domestic violence with policy for social
+distancing, moved to section 3.6 on maternal mental wellbeing.
+7 9.4.20 3.3: Advice about induction of labour changed to reference update to Saving Babies’
+Lives Care Bundle.
+7 9.4.20 4.2 Section 4.2 renamed ‘Women with unconfirmed COVID-19 but symptoms
+suggestive of possible infection’ to allow for inclusion of new recommendations on
+women who call the maternity unit with possible COVID-19 infection (not just attend
+in person).
+7 9.4.20 4.2: Additional recommendations made to consider usual differential diagnoses
+in women who call the maternity unit to report a new fever/cough/respiratory
+symptoms.
+7 9.4.20 4.3.1: New subsection added on the care of pregnant women who are self-isolating at
+home with suspected COVID-19.
+7 9.4.20 4.4: Changed to subsection 4.3.3 (subsequent subsections re-numbered).
+55
+7 9.4.20 4.6.1: New recommendations re. prophylactic low molecular weight heparin to reduce
+risk of venous thromboembolism with COVID-19 infection in pregnancy, and to
+consider pulmonary embolism if women with COVID-19 suddenly deteriorate.
+7 9.4.20 4.7.2: Statement on calling neonatal team early to inform them of imminent birth of a
+baby to a woman with COVID-19 moved to section 4.5, because it applies to all cases
+of COVID-19, not just in women with severe disease.
+56
+References
+1. 
+Implementation Support [Available from: https://www.sign.ac.uk/implementation-support.html accessed 15
+July 2019.
+2. 
+Dong L,Tian J, He S, et al. PossibleVerticalTransmission of SARS-CoV-2 From an Infected Mother to Her
+Newborn. JAMA 2020 doi: 10.1001/jama.2020.4621
+3. 
+Zeng H, Xu C, Fan J, et al.Antibodies in Infants Born to Mothers With COVID-19 Pneumonia. JAMA 2020
+doi: 10.1001/jama.2020.4861
+4. 
+Chen H, Guo J,Wang C, et al. Clinical characteristics and intrauterine vertical transmission potential of
+COVID-19 infection in nine pregnant women: a retrospective review of medical records. Lancet 2020 doi:
+https://doi.org/10.1016/S0140-6736(20)30360-3
+5. 
+ChenY, Peng H,Wang L, et al. Infants Born to Mothers With a New Coronavirus (COVID-19). Frontiers in
+Pediatrics 2020;8(104) doi: 10.3389/fped.2020.00104
+6. 
+Li N, Han L, Peng M, et al. Maternal and neonatal outcomes of pregnant women with COVID-19 pneumonia:
+a case-control study. . Pre-print doi: 10.1101/2020.03.10.20033605
+7. 
+Zhu H,Wang L, Fang C, et al. Clinical analysis of 10 neonates born to mothers with 2019-nCoV pneumonia.
+Transl Pediatr 2020;9(1):51-60. doi: http://dx.doi.org/10.21037/tp.2020.02.06
+8. 
+Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). World Health
+Organisation, 2020.
+9. 
+Guan W-j, Ni Z-y, HuY, et al. Clinical Characteristics of Coronavirus Disease 2019 in China. New England
+Journal of Medicine 2020 doi: 10.1056/NEJMoa2002032
+10. 
+LiuY, Chen H,Tang K, et al. Clinical manifestations and outcome of SARS-CoV-2 infection during pregnancy.
+Journal of Infection 2020;Online doi: https://doi.org/10.1016/j.jinf.2020.02.028
+11. 
+Karami P, Naghavi M, Feyzi A, et al. Mortality of a pregnant patient diagnosed with COVID-19:A case report
+with clinical, radiological, and histopathological findings.Travel Medicine and Infectious Disease 2020:101665.
+doi: https://doi.org/10.1016/j.tmaid.2020.101665
+12. 
+Breslin N, Baptiste C, Gyamfi-Bannerman C, et al. COVID-19 infection among asymptomatic and
+symptomatic pregnant women:Two weeks of confirmed presentations to an affiliated pair of NewYork City
+hospitals.AJOG MFM, 2020.
+57
+13. ICNARC report on COVID-19 in critical care. 2020.
+14. 
+Liu D, Li L,Wu X, et al. Pregnancy and Perinatal Outcomes of Women With Coronavirus Disease
+(COVID-19) Pneumonia:A Preliminary Analysis.American Journal of Roentgenology 2020:1-6. doi: 10.2214/
+AJR.20.23072
+15. 
+Critical illness due to 2009 A/H1N1 influenza in pregnant and postpartum women: population based cohort
+study. BMJ 2010;340:c1279. doi: 10.1136/bmj.c1279
+16. 
+Mullins E, Evans D,Viner R, et al. Coronavirus in pregnancy and delivery: rapid review. Ultrasound in
+Obstetrics and Gynaecology (In press) doi: doi: 10.1002/uog.22014
+17. 
+Reducing the Risk ofVenousThromboembolism during Pregnancy and the Puerperium. In: Royal College of
+Obstetricians & Gynaecologists, ed. Green-top guidelines, 2015.
+18. 
+Practical guidance for the prevention of thrombosis and management of coagulopathy and disseminated
+intravascular coagulation of patients infected with COVID-19. 2020 [Available from: https://thrombosisuk.
+org/covid-19-thrombosis.php] accessed 07 April 2020.
+19. 
+Zhang J,WangY, Chen L, et al. Clinical analysis of pregnancy in second and third trimesters complicated
+severe acute respiratory syndrome. Zhonghua Fu Chan Ke Za Zhi 2003;38:516-20.
+20. 
+Di Mascio D, Khalil A, Saccone G, et al. Outcome of Coronavirus spectrum infections (SARS, MERS,
+COVID 1 -19) during pregnancy: a systematic review and meta-analysis.American Journal of Obstetrics &
+Gynecology MFM 2020 doi: https://doi.org/10.1016/j.ajogmf.2020.100107
+21. 
+COVID-19: guidance on social distancing and for vulnerable people 2020 [Available from: https://www.gov.
+uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people] accessed 17
+March 2020.
+22. 
+Stay at home: guidance for households with possible coronavirus (COVID-19) infection 2020 [Available
+from: https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-
+for-households-with-possible-coronavirus-covid-19-infection] accessed 17 March 2020.
+23. 
+Major new measures to protect people at highest risk from coronavirus 2020 [Available from: https://www.
+gov.uk/government/news/major-new-measures-to-protect-people-at-highest-risk-from-coronavirus] accessed
+26 March 2020.
+58
+24. 
+DowswellT, Carroli G, Duley L, et al.Alternative versus standard packages of antenatal care for low-risk
+pregnancy. Cochrane Database of Systematic Reviews 2015(7) doi: 10.1002/14651858.CD000934.pub3
+25. 
+Knight M, Bunch K,Tuffnell D, et al. Saving Lives, Improving Mothers’ Care. Lessons learned to inform
+maternity care from the UK and Ireland Confidential Enquiries into Maternal Deaths and Morbidity 2014–
+16. MBRRACE-UK, 2018.
+26. 
+Norman JE, Heazell AEP, Rodriguez A, et al.Awareness of fetal movements and care package to reduce
+fetal mortality (AFFIRM): a stepped wedge, cluster-randomised trial. Lancet 2018;392(10158):1629-38. doi:
+10.1016/S0140-6736(18)31543-5 [published Online First: 2018/10/03]
+27. 
+National Institute for Health and Care Excellence. Inducing Labour, 2008.
+28. 
+Bohren M, Hofmeyr G, Sakala C, et al. Continuous support for women during childbirth. . Cochrane
+Database of Systematic Reviews 2017(7) doi: 10.1002/14651858.CD003766.pub6
+29. 
+Bohren MA, Berger BO, Munthe-Kaas H, et al. Perceptions and experiences of labour companionship: a
+qualitative evidence synthesis. Cochrane Database of Systematic Reviews 2019(3) doi: 10.1002/14651858.
+CD012449.pub2
+30. 
+Shakibazadeh E, Namadian M, Bohren MA, et al. Respectful care during childbirth in health facilities globally: a
+qualitative evidence synthesis. BJOG 2018;125(8):932-42. doi: 10.1111/1471-0528.15015 [published Online
+First: 2017/11/09]
+31. 
+COVID-19: investigation and initial clinical management of possible cases 2020 [Available from: https://www.
+gov.uk/government/publications/wuhan-novel-coronavirus-initial-investigation-of-possible-cases/investigation-
+and-initial-clinical-management-of-possible-cases-of-wuhan-novel-coronavirus-wn-cov-infection] accessed 05
+March 2020.
+32. 
+Birthplace in England Collaborative G, Brocklehurst P, Hardy P, et al. Perinatal and maternal outcomes by
+planned place of birth for healthy women with low risk pregnancies: the Birthplace in England national
+prospective cohort study. BMJ 2011;343:d7400. doi: 10.1136/bmj.d7400 [published Online First: 2011/11/26]
+33.
+Vardavas CI, Nikitara K. COVID-19 and smoking:A systematic review of the evidence.Tobacco Induced
+Diseases 2020;18(March) doi: 10.18332/tid/119324
+34. 
+Fraser E. Impact of COVID-19 Pandemic onViolence against Women and Girls. 2020.
+59
+35. 
+COVID-19: Infection, prevention and control guidance 2020 [Available from: https://www.gov.uk/
+government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/wuhan-novel-
+coronavirus-wn-cov-infection-prevention-and-control-guidance] accessed 05 January 2020.
+36. 
+Coronavirus disease 2019 (COVID-19) Situation Report – 29. 2020 [Available from: https://www.who.int/
+docs/default-source/coronaviruse/situation-reports/20200219-sitrep-30-covid-19.pdf?sfvrsn=6e50645_2]
+accessed 08 March 2020.
+37. 
+Pung R, Chiew CJ,Young BE, et al. Investigation of three clusters of COVID-19 in Singapore: implications for
+surveillance and response measures.The Lancet doi: 10.1016/S0140-6736(20)30528-6
+38. 
+Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is
+suspected 2020 [Available from: https://www.who.int/publications-detail/clinical-management-of-severe-
+acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected] accessed 05 March 2020.
+39. COVID-19 rapid guideline: critical care in adults. National Institute for Health and Care Excellence
+40. 
+Li X, Xia L. Coronavirus Disease 2019 (COVID-19): Role of Chest CT in Diagnosis and Management.AJR
+Am J Roentgenol 2020(4):1-7. doi: 10.2214/AJR.20.22954
+41. 
+Zhao W, Zhong Z, Xie X, et al. Relation Between Chest CT Findings and Clinical Conditions of Coronavirus
+Disease (COVID-19) Pneumonia:A Multicenter Study. .AJR Am J Roentgenol (3):1-6. doi: 10.2214/
+AJR.20.22976.
+42.
+AiT,Yang Z, Hou H, et al. Correlation of chest CT and RT-PCR testing in coronavirus disease 2019
+(COVID-19) in China: a report of 1014 cases. . Radiology 2020 doi: 10.1148/radiol.2020200642.
+43. 
+Huang C,WangY, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan,
+China.The Lancet 2020;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5
+44. Preterm labour and birth. National Institute for Health and Care Excellence, 2019.
+45. COVID-19 - guidance for paediatric services. Royal College of Paediatrics and Child Health, 2020.
+46. 
+Swartz D, Graham A. Potential Maternal and Infant Outcomes from Coronavirus 2019-nCoV (SARS-CoV-2)
+Infecting Pregnant Women: Lessons from SARS, MERS, and Other Human Coronavirus Infections.Viruses
+2020:1-16.
+47.
+Alserehi H,Wali G,Alshukairi A, et al. Impact of Middle East Respiratory Syndrome coronavirus ( MERS -
+CoV ) on pregnancy and perinatal outcome. BMC Infect Dis 2016:1-4. doi: http://dx.doi.org/10.1186/s12879-
+016-1437-y
+60
+61
+Royal College of Obstetricians and Gynaecologists, 10-18 Union Street, London, SE1 1SZ
+T: +44 (0) 20 7772 6200 E: covid-19@rcog.org.uk W: rcog.org.uk Registered Charity No. 213280
+@RCObsGyn @rcobsgyn @RCObsGyn
+DISCLAIMER: The Royal College of Obstetricians and Gynaecologists (RCOG) has produced this
+guidance as an aid to good clinical practice and clinical decision-making.This guidance is based on
+the best evidence available at the time of writing, and the guidance will be kept under regular review
+as new evidence emerges.This guidance is not intended to replace clinical diagnostics, procedures
+or treatment plans made by a clinician or other healthcare professional and RCOG accepts no
+liability for the use of its guidance in a clinical setting. Please be aware that the evidence base for
+COVID-19 and its impact on pregnancy and related healthcare services is developing rapidly and the
+latest data or best practice may not yet be incorporated into the current version of this document.
+RCOG recommends that any departures from local clinical protocols or guidelines should be fully
+documented in the patient’s case notes at the time the relevant decision is taken.
+

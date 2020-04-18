@@ -1,0 +1,660 @@
+Vägledning för
+diagnostik av covid-19
+Version 3, 2020-04-17
+2
+Denna titel kan laddas ner från: www.folkhalsomyndigheten.se/publicerat-material/. En del av våra titlar
+går även att beställa som ett tryckt exemplar från Folkhälsomyndighetens publikationsservice,
+publikationsservice@folkhalsomyndigheten.se.
+Citera gärna Folkhälsomyndighetens texter, men glöm inte att uppge källan. Bilder, fotografier och
+illustrationer är skyddade av upphovsrätten. Det innebär att du måste ha upphovsmannens tillstånd att
+använda dem.
+© Folkhälsomyndigheten, 2020.
+Artikelnummer: 20045
+3
+Om publikationen
+Folkhälsomyndigheten fick den 30 mars 2020 ett regeringsuppdrag; Uppdrag om
+att skyndsamt utöka antalet tester för covid-19, S2020/02681/FS. I uppdraget ingår
+att stödja aktörer som kan vara del i kedjan att öka provtagning med bland annat
+underlag om diagnostikkedjan och gällande regelverk för sådan verksamhet.
+Vägledningen ska fungera som ett stöd till framförallt de aktörer som i dagsläget
+inte är del av den kliniska mikrobiologiska diagnostikkedjan för att underlätta
+orienteringen kring de olika ingående stegen och vilka legala krav som kan vara
+aktuella att beakta.
+Folkhälsomyndigheten
+Karin Tegmark Wisell
+Avdelningschef, avdelningen för mikrobiologi
+4
+Innehåll
+Syfte och upplägg......................................................................................................... 5
+1. Steg i diagnostikkedjan ............................................................................................. 6
+2. Legala krav .............................................................................................................. 7
+A. Bedömning av behov och ordination av provtagning – Vårdgivaren/läkaren .............. 7
+Krav på hälso- och sjukvården och dess personal .................................................... 7
+B. Provtagning och provtransport – Patienten, läkaren/vårdgivaren eller
+provtagningsenhet.................................................................................................. 10
+Provtagning ....................................................................................................... 10
+Egenvård........................................................................................................... 10
+Provtransport..................................................................................................... 11
+C. Provanalys – Kliniska laboratoriet......................................................................... 11
+Krav på verksamheten ........................................................................................ 11
+D. Provsvar – Vårdgivaren/läkaren och det kliniska laboratoriet ................................. 14
+Vid positivt provsvar av covid-19 gäller följande krav för behandlande läkare och
+laboratorium ...................................................................................................... 14
+3. Legala krav på behandling av personuppgifter, journalföring och tystnadsplikt ........... 17
+Behandling av personuppgifter inom hälso- och sjukvården och det kliniska laboratoriet17
+Vårdgivarens behandling av personuppgifter......................................................... 17
+Det kliniska laboratoriets behandling av persouppgifter.......................................... 18
+Laglig grund för behandling av personuppgifter..................................................... 18
+Personuppgiftsansvarig ....................................................................................... 18
+Personuppgiftsbiträde ......................................................................................... 18
+Anmälan av personuppgiftsincident (artikel 33 dataskyddsförordningen).................. 18
+Informationsplikten enligt artikel 13 och 14 dataskyddsförordningen....................... 18
+Informationsplikten för vårdgivaren...................................................................... 19
+Journalföring.......................................................................................................... 19
+Syftet med en patientjournal ............................................................................... 19
+Tystnadsplikt för hälso- och sjukvårdpersonal i den enskilda hälso- och sjukvården . 20
+4. Kvalitetssäkring vid provhantering och diagnostik vid laboratorier .............................. 21
+CE-märkning .......................................................................................................... 21
+5
+Syfte och upplägg
+Dokumentet är framförallt riktat till intressenter som i dagsläget inte arbetar med
+uppdrag inom hälso- och sjukvården. Syftet är att fungera som ett stöd om man
+önskar starta upp en verksamhet för diagnostik av covid-19. Innehållet är
+övergripande och syftar framförallt till att uppmärksamma vilka som enligt
+Folkhälsomyndighetens bedömning är de viktigaste legala kraven samt även ge en
+kortfattad introduktion till aktuell författning (lag, förordning eller föreskrift). Det
+kan vara nödvändigt för enskilda aktörer att närmare ta del av respektive
+författning för att få en mer heltäckande blid. Det är också just ett urval och det kan
+finnas ytterligare aspekter att beakta.
+Dokumentet är uppdelat i fyra sektioner, 1-4. Den första sektionen anger
+övergripande vilka olika steg som ingår i processen från bedömning att
+provtagning ska ske till hantering av ett positivt svar. Den andra sektionen hanterar
+vilka legala krav som gäller för de olika stegen. Den tredje sektionen hanterar vilka
+legala krav som gäller för behandling av personuppgifter, journalföring och
+tystnadsplikt. Den fjärde sektionen slutligen, hanterar aspekter kring
+kvalitetssäkring vid provhantering och diagnostik vid laboratorier.
+6
+1. Steg i diagnostikkedjan
+De olika stegen i diagnostikkedjan syftar till att beskriva processen från
+bedömningen att en patient anses uppfylla kraven för provtagning för förekomst av
+covid-19 till att ett provsvar har lämnats till läkare och patient samt de efterföljande
+åtgärder som ska vidtas med anledning av ett positivt provsvar. I figur 1 nedan ges
+en schematisk bild över de olika stegen i diagnostikkedjan samt de involverade
+aktörerna. De olika stegen kommer att beröras i vägledningens övriga sektioner.
+A. Bedömning av behov och ordination av provtagning – Vårdgivaren/läkaren
+B. Provtagning och provtransport – Patienten, Vårdgivaren/läkaren eller
+provtagningsenhet
+C. Provanalys – Kliniska laboratoriet
+D. Provsvar – Vårdgivaren/läkaren och det kliniska laboratoriet
+Figur 1. Schematisk bild över de olika stegen i diagnostikkedjan och involverade aktörer.
+Provtagning
+Provtransport
+Bedömning Provsvar
+Provanalys
+Vårdgivare/läkare
+ordinerar provtagning
+Provtagning inom
+vården eller annan enhet
+Provtransport Laboratorieanalys
+Provtagning
+Anmälan av positivt
+fynd
+Vårdgivare/läkare mottar svar
+Ev anmälan av positivt fynd
+Förhållningsregler till patient
+Remiss för provtagning
+till patient
+Provtagning i hemmet
+Provtransport
+Patient mottar svar och
+förhållningsregler
+7
+2. Legala krav
+A. Bedömning av behov
+och ordination av provtagning – Vårdgivaren/läkaren
+En vårdgivare/läkare ansvarar för bedömning av behov och ordination av
+provtagning.
+Krav på hälso- och sjukvården och dess personal
+Bestämmelser om hälso- och sjukvården och dess personal finns bl.a. i hälso- och
+sjukvårdslagen (2017:300), HSL, och patientsäkerhetslagen (2010:659), PSL.
+Vårdivarens ansvar för att det finns ett ledningssystem för verksamheten
+Enligt 3 kap. 1 § Socialstyrelsens föreskrifter och allmänna råd (SOSFS 2011:9)
+om ledningssystem för systematiskt kvalitetsarbete ska vårdgivaren ansvara för att
+det finns ett ledningssystem för verksamheten. Ledningssystemet ska användas för
+att systematiskt och fortlöpande utveckla och säkra verksamhetens kvalitet.
+Föreskrifterna finns på följande länk:
+https://www.socialstyrelsen.se/regler-och-riktlinjer/foreskrifter-och-allmanna-
+rad/konsoliderade-foreskrifter/20119-om-ledningssystem-for-systematiskt-
+kvalitetsarbete/
+Vårdgivarens skyldighet att bedriva ett systematiskt patientsäkerhetsarbete
+Vårdgivaren ska planera, leda och kontrollera verksamheten på ett sätt som leder
+till att kravet på god vård i hälso- och sjukvårdslagen (2017:30) respektive
+tandvårdslagen (1985:125) upprätthålls (3 kap. 1 § PSL).
+Som ett led i det systematiska patientsäkerhetsarbetet ska vårdgivarna utreda
+händelser i verksamheten som har medfört eller hade kunnat medföra en vårdskada.
+Syftet med utredningen ska vara att
+1. så långt som möjligt klarlägga händelseförloppet och vilka faktorer som har
+påverkat det, samt
+2. ge underlag för beslut om åtgärder som ska ha till ändamål att hindra att
+liknande händelser inträffar på nytt, eller att begränsa effekterna av sådana
+händelser om de inte helt går att förhindra. (3 kap. 3 § PSL).
+Kommentar
+Kompletterande bestämmelser till ovan angivna bestämmelse finns i
+Socialstyrelsens föreskrifter och allmänna råd (HSLF-FS 2017:40) om vårdgivares
+systematiska patientsäkerhetsarbete på följande länk:
+https://www.socialstyrelsen.se/globalassets/sharepoint-
+dokument/artikelkatalog/foreskrifter-och-allmanna-rad/2017-5-24.pdf
+8
+Krav på digitala vårdgivare
+En vårdgivare får utifrån reglerna på hälso- och sjukvårdens område ta ställning till
+om och hur hälso- och sjukvård kan bedrivas på distans. Vård på distans kan till
+exempel innebära att vården ges via en app, telefonsamtal eller videolänk.
+Alla vårdgivare ska uppfylla krav och mål i reglerna på hälso- och sjukvårdens
+område. Det innebär att vård på distans måste leva upp till samma regler som gäller
+för hälso- och sjukvård som bedrivs på annat sätt. Hälso- och sjukvårdsverksamhet
+ska bedrivas så att kraven på god vård uppfylls. Vården ska till exempel tillgodose
+patientens behov av trygghet, kontinuitet och säkerhet. Vårdgivaren ska planera,
+leda och kontrollera verksamheten så att kravet på god vård upprätthålls.
+Anmälan av verksamhet till IVO
+Vårdgivare är enligt patientsäkerhetslagen skyldiga att anmäla ny hälso- och
+sjukvårdsverksamhet till IVO. Den som avser starta en verksamhet som står under
+IVO:s tillsyn ska anmäla verksamheten till IVO senast en månad innan
+verksamheten startar. (2 kap. 1 § PSL).
+Om verksamheten helt eller till väsentlig del förändras eller flyttas, ska detta
+anmälas till Inspektionen för vård och omsorg inom en månad efter genomförandet.
+Om verksamheten läggs ned, ska det snarast anmälas till inspektionen (2 kap. 2 §
+PSL).
+Kommentar
+Enligt en överenskommelse mellan Folkhälsomyndigheten och IVO kommer IVO,
+vad gäller de aktörer som avser att starta upp en ny verksamhet inom ramen för den
+nationella strategin för diagnostik av covid- 19, att acceptera att verksamheten
+startas upp kortare tid efter anmälan än vad som anges i 2 kap. 1 § PSL.
+Information om anmälan till IVO samt blankett finns på följande länk:
+https://www.ivo.se/anmala-och-rapportera/anmala-och-rapportera-som-
+yrkesverksam/anmal-ny-halso--och-sjukvardsverksamhet/
+Anmälningsskyldighet till IVO, (lex Maria)
+Vårdgivaren ska till Inspektionen för vård och omsorg anmäla händelser som har
+medfört eller hade kunnat medföra en allvarlig vårdskada. Anmälan ska göras
+snarast efter det att händelsen har inträffat. (3 kap. 5 § PSL).
+Kommentar
+Kompletterande bestämmelser till vårdgivarens anmälningsskyldighet till IVO
+finns i Inspektionens föreskrifter (HSLF-FS 2017:41) om anmälan som har medfört
+eller hade kunnat medföra en allvarlig vårdskada på följande länk:
+https://www.ivo.se/publicerat-material/foreskrifter/hslf-fs-2017-41/
+Information om anmälan samt blankett finns på följande länk:
+https://www.ivo.se/publicerat-material/blanketter/lex-maria/
+9
+Krav på hälso- och sjukvårdspersonal
+• Hälso- och sjukvårdspersonalen ska utföra sitt arbete i överensstämmelse med
+vetenskap och beprövad erfarenhet.
+En patient ska ges sakkunnig och omsorgsfull hälso- och sjukvård som
+uppfyller dessa krav.
+• Vården ska så långt som möjligt utformas och genomföras i samråd med
+patienten.
+• Patienten ska visas omtanke och respekt.
+(6 kap. 1 § PSL).
+Med hälso- och sjukvårdspersonal avses:
+• den som har legitimation för ett yrke inom hälso- och sjukvården
+• personal som är verksam vid sjukhus och andra vårdinrättningar och som
+medverkar i hälso- och sjukvård av patienter
+• den som i annat fall vid hälso- och sjukvård av patienter biträder en
+legitimerad yrkesutövare.
+(1 kap. 4 § PSL).
+Krav på hälso- och sjukvården
+Hälso- och sjukvårdsverksamhet ska bedrivas så att kraven på en god vård
+uppfylls. Det innebär att vården särskilt ska
+1. vara av god kvalitet med en god hygienisk standard,
+2. tillgodose patientens behov av trygghet, kontinuitet och säkerhet,
+3. bygga på respekt för patientens självbestämmande och integritet,
+främja goda kontakter mellan patienten och hälso- och sjukvårdspersonalen,
+och
+4. vara lätt tillgänglig. (5 kap. 1 § HSL)
+Där det bedrivs hälso- och sjukvårdsverksamhet ska det finnas den personal, de
+lokaler och den utrustning som behövs för att god vård ska kunna ges. (5 kap. 2 §
+HSL)
+IVOs tillsyn
+Hälso- och sjukvården och dess personal står under tillsyn av Inspektionen för vård
+och omsorg (7 kap. 1 § PSL).
+Tillsyn enligt patientsäkerhetslagen innebär granskning av att hälso- och
+sjukvården och dess personal uppfyller krav och mål enligt lagar och andra
+föreskrifter samt beslut som har meddelats med stöd av sådana föreskrifter.
+(7 kap. 3 § PSL).
+10
+Begränsningar i rätten för andra än hälso- och sjukvårdpersonal att vidta vissa hälso-
+och sjukvårdande åtgärder
+I patientsäkerhetslagen (5 kap. 1 § PSL) finns bestämmelser som reglerar att vissa
+hälso- och sjukvårdande åtgärder endast får utföras av hälso- och
+sjukvårdspersonal. En av dessa åtgärder innefattar att behandla sådana smittsamma
+sjukdomar som enligt smittskyddslagen (2004:168) är anmälningspliktiga
+sjukdomar.
+B. Provtagning och provtransport – Patienten,
+läkaren/vårdgivaren eller provtagningsenhet
+Provtagning
+Provtagning sker antingen i patientens hem, hos en vårdgivare eller på en särskild
+provtagningsenhet. För vårdgivaren gäller de legala kraven under avsnitt A.
+Provtagningsenheter som inte samtidigt är vårdgivare omfattas i likhet med det
+kliniska laboratoriet av 7 kap. 2 § PSL och lyder därmed under IVO:s tillsyn. Det
+betyder att flertalet av de legala krav som gäller för det kliniska laboratoriet även
+gäller för provaningsenheter som inte är vårdgivare (se avsnitt C och D).
+Vid hemprovtagning skickar patienten provet till ett anvisat klinikst laboratorium.
+Egenvård
+Ibland kan vårdgivaren besluta att en patient kan utföra en hälso- och
+sjukvårdsåtgärd som egenvård. Bestämmelser om detta finns i Socialstyrelsens
+föreskrifter (SOSFS 2009:6) om bedömningen av om en hälso- och sjukvårdsåtgärd
+kan utföras som egenvård.
+Föreskrifterna ska enligt 1 kap. 1 § SOSFS 2009:6 tillämpas i samband med att en
+legitimerad yrkesutövare
+1. gör en bedömning av, om en hälso- och sjukvårdsåtgärd kan utföras som
+egenvård,
+2. planerar egenvården, samt
+3. följer upp och omprövar bedömningen.
+Behandling av covid-19
+Covid-19 omfattas av förbudet i 5 kap. 1 § PSL. Åtgärder som
+innefattar analys av covid-19 får utföras av annan än hälso- och
+sjukvårdspersonal. Åtgärder som innefattar bedömning av behov,
+ordination av provtagning samt uppföljning av provsvar får dock
+endast utföras av hälso- och sjukvårdspersonal.
+11
+Kommentar
+Hemprovtagning för covid-19 ligger inom ramen för de hälso- och
+sjukvårdsåtgärder som kan utföras enligt ovan angivna föreskrifter.
+Provtransport
+Transport av prover räknas som smittförande ämnen enligt bestämmelserna för
+transport av farligt gods. Bestämmelserna baseras på internationella och
+multilaterala överenskommelser och är utfärdade för vart och ett av de fyra
+transportslagen; på väg och i terräng (ADR-S), på järnväg (RID-S), i luft (IATA-
+DGR) och till sjöss (IMDG-koden). Bestämmelserna är implementerade i svensk
+rätt genom lagen (2006:263) om transport av farligt gods. Samtliga aktörer; den
+som tillhandahåller provtagningsmaterial, provtagningsenheter och kliniska
+laboratorier ska iaktta lagens bestämmelser.
+Prover med misstanke om covid-19-smitta ska skickas som UN 3373 - Biologiskt
+ämne, Kategori B. Det är avsändarens ansvar att provet är förpackat och märkt på
+rätt sätt. Stöd för hur man packar provet korrekt kan man hitta i
+Folkhälsomyndighetens folder ”packa prover rätt”:
+https://www.folkhalsomyndigheten.se/globalassets/laboratorieanalys/information-
+for-bestallare/packa-provet-ratt.pdf
+För att underlätta och säkerställa att transport sker på ett riskfritt sätt är det enligt
+Folkhälsomyndighetens mening viktigt att den som tillhandahåller
+provtagningsmaterial även tillhandahåller lämplig emballering och kärl som
+patienten kan använda för att returnera provet i.
+C. Provanalys – Kliniska laboratoriet
+Ett kliniskt laboratorium utför provanalys samt ansvarar för hantering av prov och
+provsvar.
+Krav på verksamheten
+Det kliniska laboratoriets ansvar för att det finns ett ledningssystem för verksamheten
+För att säkerställa patientsäkerheten behöver ett kliniskt laboratorium ha ett
+etablerat kvalitetsledningssystem där alla relevanta aspekter för att upprätthålla ett
+kvalitetssäkert arbetssätt ska vara beaktade. Stöd för innehållet i detta
+ledningssystem kan hämtas från t.ex. standarden ISO 15189 (Medicinska
+laboratorier – Krav på kvalitet och kompetens).
+Anmälan av verksamhet till IVO
+Den som avser starta en verksamhet som står under IVO:s tillsyn ska anmäla
+verksamheten till IVO senast en månad innan verksamheten startar (2 kap. 1 §
+PSL).
+12
+Om verksamheten helt eller till väsentlig del förändras eller flyttas, ska detta
+anmälas till Inspektionen för vård och omsorg inom en månad efter genomförandet.
+Om verksamheten läggs ned, ska det snarast anmälas till inspektionen (2 kap. 2 §
+PSL).
+Kommentar
+Även verksamheter som tar emot uppdrag från hälso- och sjukvården avseende
+provtagning, analys eller annan utredning som utgör ett led i bedömningen av en
+patients hälsotillstånd eller behandling ska anmäla sin verksamhet till IVO.
+Enligt en överenskommelse mellan Folkhälsomyndigheten och IVO kommer IVO,
+vad gäller de aktörer som avser att starta upp en ny verksamhet inom ramen för den
+nationella strategin för diagnostik av covid- 19, att acceptera att verksamheten
+startas upp kortare tid efter anmälan än vad som anges i 2 kap. 1 § PSL.
+Information om anmälan till IVO samt blankett finns på följande länk:
+https://www.ivo.se/anmala-och-rapportera/anmala-och-rapportera-som-
+yrkesverksam/anmal-ny-halso--och-sjukvardsverksamhet/
+IVO:s tillsyn
+Även den som, utan att bedriva hälso- och sjukvård, tar emot uppdrag från hälso-
+och sjukvården avseende provtagning, analys eller annan utredning som utgör ett
+led i bedömningen av en patients hälsotillstånd eller behandling, står under tillsyn
+av Inspektionen för vård och omsorg. (7 kap. 2 § PSL).
+Anmälningsskyldighet till IVO, lex Maria
+Den som utan att bedriva hälso- och sjukvård tar emot uppdrag från hälso- och
+sjukvården avseende provtagning, analys eller annan utredning som utgör ett led i
+bedömningen av en patients hälsotillstånd eller behandling, ska till Inspektionen
+för vård och omsorg anmäla händelser som har medfört eller hade kunnat medföra
+en allvarlig vårdskada.
+Det kliniska laboratoriet ska samtidigt med anmälan eller snarast därefter till
+Inspektionen för vård och omsorg ge in en utredning av händelsen (3 kap. 5 §
+PSL).
+Kommentar
+Kompletterande bestämmelser till anmälningsskyldigheten enligt ovan finns i
+Inspektionen för vård och omsorgs föreskrifter (2017:41) om anmälan av händelser
+som har medfört eller hade kunnat medföra en allvarlig vårdskada på följande länk:
+https://www.ivo.se/publicerat-material/foreskrifter/hslf-fs-2017-41/
+Information om anmälan samt blankett finns på följande länk:
+https://www.ivo.se/publicerat-material/blanketter/lex-maria/
+13
+Anmälan till Arbetsmiljöverket avseende hantering av smittämnen inom riskklass 2, 3
+och 4 agens
+Enligt 29 § Arbetsmiljöverkets föreskrifter och allmänna råd (2018:4) om
+smittrisker, ska en arbetsgivare första gången denne avser att arbeta med, eller
+förvara, koncentrerade smittämnen i riskklass 2, 3 eller 4 anmäla verksamheten till
+Arbetsmiljöverket, senast 30 dagar innan arbetet påbörjas. Även när en sådan
+verksamhet ska flyttas till en annan adress, ska arbetsgivaren anmäla det senast 30
+dagar före flytt.
+Anmälan behövs inte för verksamheter där arbetet med smittämnen enbart omfattar
+primär odling eller koncentrering direkt ur ett prov från människa eller djur, utan
+ytterligare odling.
+Anmälan behövs inte för verksamheter som omfattar arbete med genetiskt
+modifierade smittämnen där verksamheten är anmäld eller har tillstånd enligt
+bestämmelserna i förordning (2000:271) om genetiskt modifierade organismer och
+Arbetsmiljöverkets föreskrifter om innesluten användning av genetiskt modifierade
+mikroorganismer.
+För mer information kring anmälningsskyldigheten se Arbetsmiljöverkets
+föreskrifter och allmänna råd (2018:4) om smittrisker på följande länk:
+https://www.av.se/globalassets/filer/publikationer/foreskrifter/smittrisker_afs_2018
+_4.pdf
+Kommentar
+Anmälan behövs inte för verksamheter där arbetet med smittämnen enbart omfattar
+primär odling eller koncentrering direkt ur ett prov från människa eller djur, utan
+ytterligare odling.
+Det betyder i praktiken att det endast är odling med syfte att erhålla levande virus
+som behöver anmälas till Arbetsmiljöverket.
+Arbetsgivarens/det kliniska laboratoriets arbetsmiljöansvar- riskbedömning
+All hantering av biologiska agens ska riskbedömas enligt AFS2018:4 vid
+arbetsmoment med smittrisk.
+Det är den som är ansvarig för det kliniska laboratoriet som är ansvarig för att en
+dokumentation av riskbedömningen görs i samråd med personal (se AFS 2018:4).
+En riskbedömning bygger på den aktuella mikroorganismens egenskaper, arbetets
+beskaffenhet och vilka möjligheter det finns att skydda personalen genom
+preventiva åtgärder.
+För mer information om riskbedömning se Arbetsmiljöverkets föreskrifter och
+allmänna råd (2018:4) om smittrisker på följande länk:
+https://www.av.se/globalassets/filer/publikationer/foreskrifter/smittrisker_afs_2018
+_4.pdf
+14
+Krav på legitimerad personal
+Legitimerad hälso- och sjukvårdspersonal som arbetar på kliniska laboratorier har
+att följa bestämmelserna i 6 kap. patientsäkerhetslagen (se ovan under p. 1
+Bedömning av behov och ordination av provtagning) såsom att utföra sitt arbete i
+överensstämmelse med vetenskap och beprövad erfarenhet. Övrig personal är inte
+att betrakta som hälso- och sjukvårdspersonal och omfattas således inte av
+bestämmelsen.
+Sparande av prov – Biobankslagen
+Lagen är inte tillämplig på prover som rutinmässigt tas i vården för analys och som
+uteslutande är avsedda som underlag för diagnos och löpande vård och behandling
+av provgivaren och som inte sparas en längre tid (1 kap. 3 § lagen (2002:297) om
+biobanker i hälso- och sjukvården m.m., biobankslagen).
+För att biobankslagen inte ska vara tillämplig får ett prov inte sparas längre tid än
+två månader efter avslutad analys.
+D. Provsvar
+– Vårdgivaren/läkaren och det kliniska laboratoriet
+Laboratoriet skickar utsvar till beställande läkare och läkaren meddelar provresultat
+till patienten.
+Vid positivt provsvar av covid-19 gäller följande krav för behandlande
+läkare och laboratorium
+Anmälan till smittskyddsläkaren
+En behandlande läkare som misstänker eller konstaterar fall av allmänfarlig
+sjukdom eller annan anmälningspliktig sjukdom, ska utan dröjsmål anmäla detta
+till smittskyddsläkaren i den region där den anmälande läkaren har sin
+yrkesverksamhet och till Folkhälsomyndigheten. Anmälan ska göras även
+beträffande annan sjukdom som är eller som misstänks vara smittsam, om
+sjukdomen har fått en anmärkningsvärd utbredning inom ett område eller uppträder
+i en elakartad form.
+15
+Anmälningsskyldigheten enligt första stycket första meningen gäller även
+läkare vid laboratorium som utför mikrobiologisk diagnostik eller
+den som är ansvarig för ett sådant laboratorium enligt 2 kap. 5 § smittskyddslagen
+(2004:168).
+Kommentar
+Anmälan ska göras elektroniskt via inloggning på SmiNet eller på
+anmälningsblankett för utskrift. Behandlande läkare eller laboratorium som
+behöver inloggning till SmiNet kontaktar sin regionala SME som gör en
+bedömning om behandlande läkaren eller laboratoriet ska anslutas till SmiNet.
+SME kontaktar därefter Folkhälsomyndigheten för att skapa en inloggning till
+behandlande läkare eller laboratorium.
+Mer information om anmälan finns på följande länk:
+https://www.folkhalsomyndigheten.se/smittskydd-beredskap/overvakning-och-
+rapportering/sminet/
+Krav på smittspårning och förhållningsregler
+Förutom kravet på anmälan till smittskyddsläkaren enligt 2 kap. 5 § SmL ska, för
+en allmänfarlig eller annan anmälningspliktig sjukdom, även kravet på
+smittspårning enligt 3 kap. 4-6 §§ SmL samt kraven på förhållningsregler enligt 4
+kap. 2 § SmL enligt nedan.
+Förhållningsregler
+Den behandlande läkaren ska besluta om individuellt utformade förhållningsregler
+i syfte att hindra smittspridning för den som bär på eller misstänks bära på en
+allmänfarlig sjukdom. Förhållningsreglerna får endast avse
+1. inskränkningar som gäller arbete, skolgång eller deltagande i viss annan
+verksamhet,
+Undantag från anmälningsskyldigheten enligt 2 kap. 5 § SmL
+Enligt en ny bestämmelse i 4 § Folkhälsomyndighetens föreskrifter
+(HSLF-FS 2015:7) om anmälan av anmälningspliktig sjukdom i vissa
+fall, ska anmälningsskyldigheten endast gälla behandlande läkare som
+misstänker eller konstaterar att en patient som läggs in eller vårdas på
+sjukhus eller en äldre person som bor i en särskild boendeform för
+service och omvårdnad för äldre människor har drabbats av covid-19.
+Behandlande läkare som mottar ett positivt provsvar för covid -19
+inom öppenvården behöver därför inte uppfylla
+anmälningsskyldigheten i 2 kap. 5 § SmL. För det kliniska laboratoriet
+gäller fortfarande att en läkare på laboratoriet eller den som är
+ansvarig för laboratoriet är anmälningsskyldig enligt ovan angivna lag.
+16
+2. förbud mot att donera blod och organ,
+3. förbud mot att låna ut eller på annat sätt överlåta begagnade injektionsverktyg,
+4. skyldighet att informera vårdgivare och sådana som utför icke-medicinska
+ingrepp om smittbärarskap,
+5. skyldighet att informera sexualpartner om smittbärarskap,
+6. skyldighet att vid sexuella kontakter iaktta ett beteende som minimerar risken
+för smittspridning,
+7. skyldighet att iaktta särskilda hygienrutiner, eller
+8. skyldighet att hålla regelbunden kontakt med behandlande läkare.
+Förhållningsreglerna ska meddelas skriftligt så snart det är möjligt samt tas in i den
+undersöktes patientjournal. Läkaren ska så långt det är möjligt se till att
+förhållningsreglerna följs.
+Kommentar
+I prop. 2003/04:30 Ny smittskyddslag m.m. anges följande på s. 108. ”I vilka fall
+skyldigheten att smittspåra bör gälla måste bedömas med hänsyn till det
+epidemiologiska behovet av vidare åtgärder”.
+Med tanke på hur spridd covid- 19 nu är i Sverige är det enligt Folkhälso-
+myndighetens bedömning inte längre praktiskt genomförbart med smittspårning i
+varje enskilt fall vad gäller denna sjukdom. Viss smittspårning ska ändå göras, t.ex.
+för att utreda smittkällan i vissa fall av vårdrelaterad covid-19.
+17
+3. Legala krav på behandling
+av personuppgifter, journalföring
+och tystnadsplikt
+Behandling av personuppgifter inom hälso- och sjukvården
+och det kliniska laboratoriet
+Vårdgivarens behandling av personuppgifter
+Vårdgivaren ska tillämpa patientdatalagen vid behandling av personuppgifter inom
+hälso- och sjukvården (1 kap. 1 § patientdatalagen (2008:355), PDL).
+Patientdatalagen innehåller bestämmelser som kompletterar EU:s
+dataskyddsförordning, vid sådan behandling av personuppgifter inom hälso- och
+sjukvården som är helt eller delvis automatiserad eller där uppgifterna ingår i eller
+är avsedda att ingå i en strukturerad samling av personuppgifter som är tillgängliga
+för sökning eller sammanställning enligt särskilda kriterier.
+Vid behandling av personuppgifter som avses i första stycket gäller lagen
+(2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och
+föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av
+denna lag eller föreskrifter som har meddelats i anslutning till lagen (1 kap. 4 §
+PDL).
+Kommentar
+Vid behandling av personuppgifter ska vårdgivaren enligt ovan angivna
+bestämmelser tillämpa både patientdatalagen och dataskyddsförordningen. Lagen
+med kompletterande bestämmelser till dataskyddsförordningen ska endast
+tillämpas om det inte finns några bestämmelser i patientdatalagen eller i
+föreskrifter som har meddelats i anslutning till patientdatalagen.
+Kompletterande bestämmelser till patientdatalagen vid behandling av
+personuppgifter finns i Socialstyrelsens föreskrifter och allmänna råd (HSLF-FS
+2016:40) om journalföring och behandling av personuppgifter i hälso- och
+sjukvården på följande länk:
+https://www.socialstyrelsen.se/globalassets/sharepoint-
+dokument/artikelkatalog/foreskrifter-och-allmanna-rad/2016-4-44.pdf
+18
+Det kliniska laboratoriets behandling av persouppgifter
+Det kliniska laboratoriet ska vid behandling av personuppgifter tillämpa
+dataskyddsförordningen samt lagen med kompletterande bestämmelser till EU:s
+dataskyddsförordning.
+Laglig grund för behandling av personuppgifter
+Den lagliga grunden för vårdgivaren och det kliniska laboratoriet för att få
+behandla patientens personuppgifter finns i artikel 6.1.e dataskyddsförordningen
+(d.v.s. behandlingen är nödvändig för att utföra en uppgift av allmänt intresse) samt
+i kombination med undantaget för behandling av känsliga personuppgifter i artikel
+9.2 h) dataskyddsförordningen (d.v.s. behandlingen är nödvändig av skäl som hör
+samman med medicinska diagnoser).
+Personuppgiftsansvarig
+Vårdgivaren är personuppgiftsansvarig för behandlingen av patientens
+personuppgifter.
+Personuppgiftsbiträde
+Laboratoriet är personuppgiftsbiträde i förhållande till vårdgivaren vad gäller
+behandlingen av patientens personuppgifter.
+Anmälan av personuppgiftsincident (artikel 33 dataskyddsförordningen)
+1. Vid en personuppgiftsincident ska vårdgivaren utan onödigt dröjsmål och, om
+så är möjligt, inte senare än 72 timmar efter att ha fått vetskap om den, anmäla
+personuppgiftsincidenten till den tillsynsmyndighet som är behörig i enlighet
+med artikel 55, såvida det inte är osannolikt att personuppgiftsincidenten
+medför en risk för fysiska personers rättigheter och friheter. Om anmälan till
+tillsynsmyndigheten inte görs inom 72 timmar ska den åtföljas av en
+motivering till förseningen.
+2. Det kliniska laboratoriet ska underrätta vårdgivaren utan onödigt dröjsmål efter
+att ha fått vetskap om en personuppgiftsincident.
+Informationsplikten enligt artikel 13 och 14 dataskyddsförordningen
+Patienten har rätt att vid första kontakten med vårdgivaren få information när hans
+eller hennes personuppgifter behandlas. Information om
+personuppgiftsbehandlingen ska lämnas av vårdgivaren både när uppgifterna
+samlas in och när patienten annars begär det. Därutöver finns det vissa tillfällen när
+särskild information ska ges till den registrerade, till exempel om det inträffar ett
+dataintrång eller liknande (en personuppgiftsincident) hos den
+personuppgiftsansvarige och det finns risk för till exempel identitetsstöld eller
+bedrägeri.
+19
+Informationen ska tillhandahållas patienten kostnadsfritt i en lättillgänglig, skriftlig
+form (vilket kan vara i elektronisk form) och med ett tydligt och enkelt språk. I
+dataskyddsförordningen anges utförligt vilken information som ska ges. Bland
+annat ska information lämnas om kontaktuppgifter till vårdgivaren, den rättsliga
+grunden för behandlingen och ändamålet med behandlingen.
+Informationsplikten för vårdgivaren
+Utöver vad som framgår av artiklarna 13 och 14 i EU:s dataskyddsförordning ska
+vårdgivaren enligt patientdatalagen lämna information till patienten om
+1. den uppgiftsskyldighet som kan följa av lag eller förordning,
+2. de sekretess- och säkerhetsbestämmelser som gäller för uppgifterna och
+behandlingen,
+3. rätten enligt 4 kap. 4 § att i vissa fall begära att uppgifter spärras,
+4. rätten enligt 5 § att få information om den direktåtkomst och elektroniska
+åtkomst som förekommit,
+5. rätten enligt artikel 82 i EU:s dataskyddsförordning och 7 kap. 1 § lagen
+(2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning
+till skadestånd vid behandling av personuppgifter i strid med denna lag, och
+6. vad som gäller i fråga om sökbegrepp, direktåtkomst och utlämnande av
+uppgifter på medium för automatiserad behandling (8 kap. 6 § PDL).
+Enligt 3 kap. 1 § PDL ska det vid vård av patienter föras patientjournal.
+Journalföring
+Syftet med en patientjournal
+Syftet med att föra en patientjournal är i första hand att bidra till en god och säker
+vård av patienten (3 kap. 2 § PDL)
+Personer som är skyldiga att föra en patientjournal
+Skyldig att föra en patientjournal är
+1. den som enligt 4 kap. patientsäkerhetslagen (2010:659) har legitimation eller
+särskilt förordnande att utöva ett visst yrke,
+2. den som, utan att ha legitimation för yrket, utför arbetsuppgifter som annars
+bara ska utföras av logoped, psykolog eller psykoterapeut inom den allmänna
+hälso- och sjukvården eller utför sådana arbetsuppgifter inom den enskilda
+hälso- och sjukvården som biträde åt legitimerad yrkesutövare,
+3. den som, utan att ha legitimation för yrket, utför samma slags arbetsuppgifter
+inom den allmänna hälso- och sjukvården som en hälso- och sjukvårdskurator,
+och
+20
+4. den som utför insatser enligt lagen (2019:1297) om koordineringsinsatser för
+sjukskrivna patienter (3 kap. 3 § PDL).
+Kommentar
+Enligt första punkten i ovan angivna bestämmelse är den som enligt 4 kap.
+patientsäkerhetslagen har legitimation eller särskilt förordnande att utöva ett visst
+yrke skyldig att föra patientjournal. Det betyder att om det finns legitimerad
+personal anställd på det kliniska laboratoriet så är dessa skyldiga att dokumentera
+de åtgärde de vidtar i samband med analys och hantering av prov i
+laboratoriejournalen. Övrig personal på det kliniska laboratoriet är skyldiga att
+dokumentera de åtgärder de vidtar för att uppfylla kraven på spårbarhet och
+kvalitetssäkring.
+Kompletterande bestämmelser till skyldigheten att föra patientjournal finns i
+Socialstyrelsens föreskrifter och allmänna råd (HSLF-FS 2016:40) om
+journalföring och behandling av personuppgifter i hälso- och sjukvården på
+följande länk:
+https://www.socialstyrelsen.se/globalassets/sharepoint-
+dokument/artikelkatalog/foreskrifter-och-allmanna-rad/2016-4-44.pdf
+Tystnadsplikt för hälso- och sjukvårdpersonal
+i den enskilda hälso- och sjukvården
+Den som tillhör eller har tillhört hälso- och sjukvårdspersonalen får inte obehörigen
+röja vad han eller hon i sin verksamhet har fått veta om en enskilds hälsotillstånd
+eller andra personliga förhållanden. Som obehörigt röjande anses inte att någon
+fullgör sådan uppgiftsskyldighet som följer av lag eller förordning (6 kap. 12 §
+PSL).
+Den som, utan att höra till hälso- och sjukvårdspersonalen, till följd av anställning
+eller uppdrag eller på annan liknande grund deltar eller har deltagit i enskilt
+bedriven hälso- och sjukvård får inte obehörigen röja vad han eller hon därvid fått
+veta om en enskilds hälsotillstånd eller andra personliga förhållanden. Som
+obehörigt röjande anses inte att någon fullgör uppgiftsskyldighet som följer av lag
+eller förordning (6 kap. 16 § PSL).
+Kommentar
+Tystnadsplikten enligt ovan angivna bestämmelser gäller all personal som arbetar
+inom enskilt bedriven hälso- och sjukvård. På det kliniska laboratoriet gäller
+tystnadsplikten endast för legitimerad personal. För övrig personal gäller att dessa
+tecknar sekretessförbindelser med arbetsgivaren.
+21
+4. Kvalitetssäkring vid provhantering
+och diagnostik vid laboratorier
+Laboratorier som är en del av vårdkedjan och tillhandahåller patientsvar till vården
+behöver vara anmälda till IVO. Utöver detta kan laboratorier frivilligt ansöka om
+ackreditering från Swedac. Den vanligaste standarden för klinisk laborativ
+verksamhet är ISO 15189 Medicinska laboratorier – Krav på kvalitet och
+kompetens. Denna kan köpas via SIS hemsida. ISO-standardern ger bra stöd till
+laboratorier för att upprätthålla en kvalitetssäker verksamhet även om man väljer
+att inte ansöka om ackrediteraring.
+För att säkerställa patientsäkerheten behöver ett kliniskt laboratorium ha ett
+etablerat kvalitetsledningssystem där alla relevanta aspekter för att upprätthålla ett
+kvalitetssäkert arbetssätt ska vara beaktade.
+I kvalitetsledningssystem kan det bland annat ingå rutiner för dokumenthantering,
+hantering av personuppgifter, remissregistrering, loggning av aktiviteter,
+avvikelsehantering, kalibrering av utrustning, intern och extern kvalitetskontroll av
+metoder, provsvarshantering och rapportering av anmälningspliktiga sjukdomar.
+Spårbarhet krävs så att det går att följa vad som har hänt med provet i varje steg.
+Det krävs även riskbedömningar för att hantera provmaterial och smittämnen,
+liksom system som säkerställer att personalen har kompetens för de arbetsuppgifter
+som utförs.
+Om laboratoriet använder en egentutvecklad in-house-testerbehöver analysens
+prestanda utvärderas bland annat med avseende på specificitet och sensitivitet. Om
+analysen är baserad på en CE-märkt produkt som validerats av tillverkaren ställs
+inom ISO 15189 krav på att analysen har verifierats för deras avsedda användning,
+det vill säga under de förutsättningar som finns på laboratoriet med avseende på till
+exempel personal, utrustning och material. För egenutvecklade analyer ingår
+verifiering i valideringen. På Swedacs hemsida finns ett dokument som beskriver
+kraven på validering och verifiering av analyser som gäller för ackrediterade
+medicinska laboratorier: https://www.swedac.se/dokument/validering-verifiering-
+av-kvantitativa-och-kvalitativa-metoder/
+CE-märkning
+För CE-märkta produkter ligger hela ansvaret för utvärdering av produkternas
+prestanda på tillverkaren. Detta ska vara gjort innan produkterna får CE-märkas
+och släppas ut på marknaden.
+För tillfället släpps många olika kommersiella tester för diagnostik av covid-19 ut
+på marknaden och alla uppfyller inte kravet för CE-märkning och får då inte
+användas inom klinisk diagnostik.
+De produkter som kan användas för diagnostik av covid-19 kan vara in-house-
+analyser, eller kommersiella kit såsom olika snabbtester. I motsats till självtester
+22
+måste sådana analyser utföras vid ett kliniskt laboratorium. Tillverkaren får CE-
+märka kommersiella produkter utan att ta hjälp av ett anmält organ och det finns ett
+antal av dessa produkter på marknaden. Produkterna tillhandahålls endast för
+yrkesmässig användning inom bl.a. hälso- och sjukvården och kliniska laboratorier.
+Självtester för diagnostik av covid-19, d.v.s. test för självprovtagning där
+provtagaren både provtar och läser av testet uppfyller ännu inte kravet för CE-
+märkning. Vad gäller dessa tester måste tillverkaren för att kunna CE-märka sina
+produkter vända sig till ett anmält organ, ett oberoende företag som säkerställer och
+verifierar att tillverkaren följer EU:s medicintekniska regelverk.
+Kommentar
+Om laboratoriet är ackrediterat mot ISO 15189 ska en oberoende verifiering av
+analyser som baseras på en CE-märkt produkt utföras före rutinmässig användning.
+Detta gäller om leverantörens metod inte modifierats. Om leverantörens metod
+modifieras ska laboratoriet utföra en mer omfattande validering.
+Folkhälsomyndigheten rekommenderar alla laboratorier, oavsett
+ackrediteringsstatus, att verifiera analyser där CE-märkta produkter ingår innan
+dessa tas i bruk inom diagnostiken för att säkerställa att analysen fungerar som
+förväntat under de förhållanden som finns med avseende på personal, utrustning,
+material och liknande.
+Solna Nobels väg 18, 171 82 Solna. Östersund Forskarens väg 3. Box 505, 831 26 Östersund.
+www.folkhalsomyndigheten.se
+

@@ -1,0 +1,30 @@
+{
+    "filename": "2020-04-17-guidance-for-antenatal-and-postnatal-services.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-04-17-guidance-for-antenatal-and-postnatal-services.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587138967,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "188146",
+        "content-type": "application\/pdf",
+        "expires": "Sat, 18 Apr 2020 03:59:37 GMT",
+        "last-modified": "Fri, 17 Apr 2020 15:30:37 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D614CD24C4B250\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=asWnCGNL1gEkAAAAZDRjNWI5MzktZTQ1YS00N2M2LWE2YTUtZWFmNzU1Mzg0MjhjlWljqE66sbfpy5ECHPCIzMZYZbk1; expires=Fri, 26-Jun-2020 02:39:37 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Fri, 17 Apr 2020 15:59:36 GMT"
+    },
+    "lang": "en",
+    "size": 188146,
+    "modified": 1587137437
+}

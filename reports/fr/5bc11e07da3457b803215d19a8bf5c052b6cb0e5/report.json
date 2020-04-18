@@ -1,0 +1,28 @@
+{
+    "filename": "point_de_situation_15_avril_2020.pdf",
+    "uri": "https:\/\/solidarites-sante.gouv.fr\/IMG\/pdf\/point_de_situation_15_avril_2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133717,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 14:28:37 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "89039",
+        "set-cookie": "__cfduid=d8b80e9c005cb979f090c7ef7d950af331587133716; expires=Sun, 17-May-20 14:28:36 GMT; path=\/; domain=.solidarites-sante.gouv.fr; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Thu, 16 Apr 2020 13:56:43 GMT",
+        "etag": "\"15bcf-5a368cd8bc337\"",
+        "cache-control": "public, max-age=3600",
+        "vary": "Accept-Encoding",
+        "cf-cache-status": "HIT",
+        "expires": "Fri, 17 Apr 2020 15:28:37 GMT",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "5856d55fce37683d-EZE",
+        "alt-svc": "h3-27=\":443\"; ma=86400, h3-25=\":443\"; ma=86400, h3-24=\":443\"; ma=86400, h3-23=\":443\"; ma=86400",
+        "cf-request-id": "022a23afd90000683dfb3b9200000001"
+    },
+    "lang": "fr",
+    "size": 89039,
+    "modified": 1587045403
+}

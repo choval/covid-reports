@@ -6,8 +6,25 @@
 * [https://www.who.int/india/emergencies/india-situation-report](https://www.who.int/india/emergencies/india-situation-report)
 
 
+## 2020-04-18
+
+* [MedicalOxygenCylinder.pdf](21b3d5b69c470e913bf3376af249e773d5395534/file.pdf) @07:27 GMT
+* [HCQPosterFinal.pdf](35c607c217711a245241103f8f08746f9a1d9270/file.pdf) @07:23 GMT
+* [ProtocolRapidAntibodytest.pdf](61b217e34adeb3f6eb08d8d53441d65517c85b30/file.pdf) @02:26 GMT
+
+## 2020-04-17
+
+* [Districtreporting408.pdf](ef78607e0491508194b2f68ec57fdcc25094afe1/file.pdf) @15:54 GMT
+* [UpdatedContainmentPlanforLargeOutbreaksofCOVID19Version2.0.pdf](660716e0a8c1a83866d4539c1e242ef1199eb793/file.pdf) @05:23 GMT
+
+## 2020-04-16
+
+* [MechanicalVentilationWebinarAIIMSNewDelhi.pdf](2acd93a2eb5c2d0243e4ad19ea1d49a3ff989796/file.pdf) @16:20 GMT
+
 ## 2020-04-14
 
+* [advisorydrinkingwaterpdf.pdf](e60610074634978636f452a9cc5ebb8c477de0fb/file.pdf) @13:34 GMT
+* [letterregguidanceonpoolingsamplesfortesting001.pdf](107809fb14330793abdd9dde3d8f8cf9903dff65/file.pdf) @13:23 GMT
 * [EssentialservicesduringCOVID19updated0411201.pdf](a9ed8e2245181e5cc3065a6489b3d12366dbc6f3/file.pdf) @09:06 GMT
 
 ## 2020-04-13
@@ -228,21 +245,21 @@
 * [LabTestingAdvisory.pdf](eae32dacb8346010e026ec58accc41a617cec5f0/file.pdf) @11:48 GMT
 * [PreventivemeasuresDOPT.pdf](82c147ba6f7233d0d37f53ff56c1aa867316dc63/file.pdf) @10:25 GMT
 * [VisarestrictionsrelatedtoCOVID19Ministries.pdf](5f38958fd85aa71f640a86e2381f90870fa6ab8b/file.pdf) @09:41 GMT
+* [TravelAdvisory17thMarch.pdf](e2640a654786dcdd06615ad1bea964098a236993/file.pdf) @09:41 GMT
 * [TravelAdvisory16thMarch.pdf](a4a52339e4ae0f3fc2e52a85cf871470de7285c6/file.pdf) @09:41 GMT
 * [Useofmaskbypublic.pdf](84057f6f89a4fa22d06415fb2e6ab541b4554759/file.pdf) @09:41 GMT
-* [TravelAdvisory17thMarch.pdf](e2640a654786dcdd06615ad1bea964098a236993/file.pdf) @09:41 GMT
 * [TravelAdvisory5thMarch.pdf](4737ea756b6e8e00f0254d5c84637dd9c1f51bc3/file.pdf) @09:41 GMT
-* [RevisedItem&NormsforutilisationofSDRFdt14032020.pdf](ccdd773bc4d20ca539db5bdb6e7143a78140b832/file.pdf) @09:41 GMT
 * [SocialDistancingAdvisorybyMOHFW.pdf](c0d199d69f13269b999b9b9d8dab881fc1f17866/file.pdf) @09:41 GMT
 * [Poster\_Corona\_ad\_Eng.pdf](91150ac1d62c95cc34ac826769dc3b8a56f3ce84/file.pdf) @09:41 GMT
 * [Poster\_Corona\_ad\_Hin.pdf](6639cc211860bfccb639f61d60832c9168cbb342/file.pdf) @09:41 GMT
+* [RevisedItem&NormsforutilisationofSDRFdt14032020.pdf](ccdd773bc4d20ca539db5bdb6e7143a78140b832/file.pdf) @09:41 GMT
 * [National Guidelines for IPC in HCF - final(1).pdf](c3df1764149f5909c06bb0187548a2dbc57362f4/file.pdf) @09:41 GMT
 * [NewinstructionsDt14032020Restirctiononinternationalpassengertraffic.pdf](8740a93c987ba4998290ca96d5c6e78f08f3e2db/file.pdf) @09:41 GMT
 * [Orderdated1332020.pdf](73bbe25c5ec0cc7f4fb9b109283876d439d977b6/file.pdf) @09:41 GMT
 * [InternationalCruiseShipsSOPforCovid19.pdf](b37fbfd024acbd90f93cb45261b3a31e66b25499/file.pdf) @09:41 GMT
-* [GuidelinesDT13032020.pdf](028e7df044d8733cd1ba3e4bdf0f4dbc3e830710/file.pdf) @09:41 GMT
 * [HFWnCoVGoM11March2020II.pdf](9acbda427b25b3ba5b49d14821f3b5791cd6c085/file.pdf) @09:41 GMT
 * [Guidelinesforhomequarantine.pdf](59041248a65e10197a54d05d11b326d4eb53749f/file.pdf) @09:41 GMT
+* [GuidelinesDT13032020.pdf](028e7df044d8733cd1ba3e4bdf0f4dbc3e830710/file.pdf) @09:41 GMT
 * [Guidance document - 2019-nCoV.pdf](99888c51b61a3588de8255fec1d781f8094d9ea7/file.pdf) @09:41 GMT
 * [DraftTraveladvisorytotravelersUpdated06032020.pdf](3f9babd400cbaa30d3b3f0868e9d9189f62c376a/file.pdf) @09:41 GMT
 * [Corona\_comic\_PGI.pdf](7febf96739f7318bfdf350b7c8123e33dd4f0803/file.pdf) @09:41 GMT
@@ -250,15 +267,15 @@
 * [COVIDCabSecLetterGuidelines.pdf](651bea2cc27f6929d6ecbaa422ec323036c2f1d8/file.pdf) @09:41 GMT
 * [Corona Discharge-Policy.pdf](0b846de7bdb9880ffb14972cccc569acdf266bf1/file.pdf) @09:41 GMT
 * [ConsolidatedTraveladvisoryUpdated11032020.pdf](ca65dbd541fde9bda0698a5b46c4a76aa4a3a2df/file.pdf) @09:41 GMT
-* [Consolidated Travel advisory to travelers Updated 02032020.pdf](b6248516cd0e6191f8af416d2dda3dd22eb57c4d/file.pdf) @09:41 GMT
 * [Consolidated Travel advisory to travelers Updated 26-02-2020.pdf](ea08c313d74a1842633cf856becf4db91378695e/file.pdf) @09:41 GMT
-* [AdditionalTravelAdvisory1homeisolation.pdf](02309828a81f75a32605403a62560844c069d43b/file.pdf) @09:41 GMT
-* [advisoryforbiometricattendance.pdf](7390e85eec90b1a7b3cb2a3f543826a1087c9c40/file.pdf) @09:41 GMT
-* [advisoryformassgathering.pdf](c6e49b1a9b78bd4f10c8095c9fc732ce5e7c21bd/file.pdf) @09:41 GMT
-* [AdditionalTravelAdvisory10032020.pdf](c6588f2ec0e110d956baf619b510f7d991da1700/file.pdf) @09:41 GMT
+* [Consolidated Travel advisory to travelers Updated 02032020.pdf](b6248516cd0e6191f8af416d2dda3dd22eb57c4d/file.pdf) @09:41 GMT
 * [5Sample collection\_packaging  2019-nCoV.pdf](8737b80e7e80d8d425d40478e66d304154dcb192/file.pdf) @09:41 GMT
-* [218645.pdf](db34a6d52a8ddddcb0d80b98e0b7cf4daf7dbc35/file.pdf) @09:41 GMT
+* [advisoryformassgathering.pdf](c6e49b1a9b78bd4f10c8095c9fc732ce5e7c21bd/file.pdf) @09:41 GMT
+* [advisoryforbiometricattendance.pdf](7390e85eec90b1a7b3cb2a3f543826a1087c9c40/file.pdf) @09:41 GMT
+* [AdditionalTravelAdvisory10032020.pdf](c6588f2ec0e110d956baf619b510f7d991da1700/file.pdf) @09:41 GMT
+* [AdditionalTravelAdvisory1homeisolation.pdf](02309828a81f75a32605403a62560844c069d43b/file.pdf) @09:41 GMT
 * [1584423700568\_COVID19GuidelinesonDeadbodymanagement.pdf](7acd135fc99aa873b56296cabe649ed7ef4f1c64/file.pdf) @09:41 GMT
+* [218645.pdf](db34a6d52a8ddddcb0d80b98e0b7cf4daf7dbc35/file.pdf) @09:41 GMT
 
 ## 2020-03-15
 

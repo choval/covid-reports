@@ -1,0 +1,26 @@
+{
+    "filename": "Sumario-Covid19.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/18\/Sumario-Covid19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587214192,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "572688",
+        "date": "Sat, 18 Apr 2020 12:49:52 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_3_sn_3734BC300FD9C35C4DAFE24C9FD7635D_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Sat, 18 Apr 2020 11:02:44 GMT",
+        "etag": "\"8bd10-5a38e9afdce81\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4e6914a651880fafa65640c6561ae2a8.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "zatgIKf9CIQAvftSwJniN2gXBVKltv4YOxzmybarVOT8IzEx3AuN0g=="
+    },
+    "lang": "pt",
+    "size": 572688,
+    "modified": 1587207764
+}

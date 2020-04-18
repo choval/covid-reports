@@ -1,0 +1,388 @@
+1
+3
+5
+7
+9
+2
+4
+6
+8
+10
+11 12
+13 14
+PADRE HURTADO
+CURACAVÍ
+MARÍA PINTO
+LAMPA
+QUILICURA HUECHURABA
+VITACURA
+RENCA
+PUDAHUEL
+LAS CONDES
+PEÑALOLÉN
+LA FLORIDA
+MACUL
+MAIPÚ
+LA
+PINTANA
+EL
+BOSQUE
+PUENTE ALTO
+SAN BERNARDO
+CALERA DE TANGO
+SANTIAGO
+PROVIDENCIA
+ÑUÑOA
+COLINA
+LO BARNECHEA
+PEÑAFLOR
+EL MONTE
+TALAGANTE
+ISLA DE MAIPO BUIN
+TILTIL
+PIRQUE
+PAINE
+ALHUÉ
+SAN PEDRO
+MELIPILLA
+SAN JOSÉ DE MAIPO
+15 16
+17 18
+19
+20
+ADUANAS
+
+ADUANAS SANITARIAS
+1
+3
+3
+1
+1
+3 5
+6
+4
+1
+2
+1
+3
+2
+1
+1
+1
+2 3 4
+5
+6
+1
+1
+1
+1
+2
+3
+2
+2
+3
+4
+1
+5
+7 6
+4
+4
+3
+3
+4
+2
+1
+5
+6
+2
+5
+3
+6
+7
+9
+4
+2
+4
+5
+7
+8 9
+11
+2
+2
+6
+3
+5
+6
+4
+4
+2
+7
+1 8 10
+11
+14
+13
+12
+15
+16
+5
+8
+7
+9
+1
+2
+3
+4
+5
+6
+Aeropuerto de Chacalluta
+Paso Cuya - Camarones
+Paso Chacalluta
+Paso Chungará
+Puerto de Arica
+Terminal de Buses Municipal
+Región de Arica
+y Parinacota
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Ollagüe
+Paso de Jama
+Aeropuerto Andrés Sabella
+Paso de Sico
+Aeropuerto El Loa
+Puerto de Antofagasta
+Puerto de Tocopilla
+Puerto de Mejillones
+Terminal de Buses
+Oviedo Clavado
+Región de Antofagasta
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Aduana Colina
+Aduana Lampa
+Aduana TilTil
+Aduana Pangue
+Aduana Curacaví
+Aduana Boyenar
+Aduana Ruta 78 Melipilla
+Aduana San Pedro
+Aduana G 84 Melipilla
+Aduana Retén Central Rapel
+Aduana Retén Loica
+Aduana Villa Alhué
+Aduana Paine
+Aduana Huelquén
+Aeropuerto Arturo Merino Benítez
+Terminal de Buses San Borja
+Terminal de Buses Estación Central
+Terminal de Buses Alameda
+Terminal de Buses Pajaritos
+Terminal de Buses Bellavista
+Región Metropolitana
+1
+2
+3
+4
+5
+6
+Aeropuerto General
+Diego Aracena
+El Loa
+Quillahua
+Paso Colchane
+Puerto de Iquique
+Terminal Público de Iquique
+Región de Tarapacá
+1
+2
+3
+Aeródromo de Atacama
+Incahuasi
+Aduana de Chañaral
+Región de Atacama
+1
+2
+3
+4
+Aeropuerto La Florida
+Pichidangui
+Paso de Agua Negra
+Puerto de Coquimbo
+Región de Coquimbo
+1
+2
+3
+4
+5
+6
+7
+Paso Los Libertadores
+Puerto Valparaíso
+Puerto San Antonio
+Puerto de Quinteros
+y Ventanas
+Terminal de Buses de Valparaíso
+Terminal de Buses de Viña
+Terminal de Buses de Calera
+Región de Valparaíso
+1
+2
+3
+4
+5
+6
+Paso Pehuenche
+Terminal de Buses Curicó
+Terminal de Buses Talca
+Terminal de Buses Linares
+Terminal de Buses Cauquenes
+Terminal de Buses Constitución
+Región del Maule
+1 Aduana Ñiquén (norte)
+Región de Ñuble
+1
+2
+3
+Puerto de Talcahuano
+Puerto de Coronel
+Aeropuerto Carriel Sur
+Región del Biobío
+1
+2
+Paso Pino Hachado
+Aeropuerto Temuco
+Región de La Araucanía
+1
+2
+3
+4
+Paso de HuaHum
+Aeropuerto Pichoy
+Puerto de Corral
+Terminal de Buses
+de Valdivia
+Región de Los Ríos
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Región de Los Lagos
+San Juan de la Costa
+San Pablo
+Aeródromo Marcel Marchant
+(La Paloma)
+Aeropuerto Tepual
+Caleta La Arena – Puelche
+Avellanal
+Quellón
+Chacao
+Canal Dalcahue-Quinchao
+Caleta Gonzalo
+Ayacara
+Muelle Chaitén
+Puerto Ramírez
+Villa Vanguardia
+Caleta Buill
+Terminal de Buses de Puerto Montt
+Terminal de Buses de Osorno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Región de Aysén
+Paso de Huemules
+Paso Chile Chico (Barcaza)
+Aduana La Junta
+Aeropuerto Balmaceda
+Puerto Chacabuco
+Puerto Cisnes
+Puerto Melinka
+Puerto Yungay
+Puerto Aguirre
+Puerto Tortel
+Puerto Ibáñez
+Cochrane
+Chile Chico KM 253
+Aeródromo Teniente Vidal
+Cruce Ibáñez - Cerro Castillo
+Terminal de Buses Municipal
+1
+2
+3
+4
+5
+6
+7
+8
+Región de Magallanes
+Paso Monte Aymond
+Paso San Sebastián
+Paso Casas Viejas
+Aeropuerto de Punta Arenas
+Aeropuerto de Puerto Natales
+Puerto de Punta Arenas
+Puerto de Puerto Natales
+Terminal de Buses Puerto Natales
+10 12
+13
+14
+15
+15
+Al 15 DE ABRIL 2020
+1 Terminal de Buses Rancagua
+Región de O’Higgins
+8
+2
+3
+16
+17
+

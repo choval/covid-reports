@@ -6,8 +6,30 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-17
+
+* [4063-laboratorios-covid-19-en-tarija-y-chuquisaca-estan-casi-listos-y-se-garantiza-la-implementacion-en-otros-departamentos](d908643ecff3f63aed8a589fd17e198333e2d468/file.pdf) @21:25 GMT
+* [4065-ministro-de-salud-pide-unidad-contra-el-coronavirus-y-para-resolver-las-falencias-sanitarias](384e4acdbd8f59a9ea88a8cb7482c60e20bcfe9b/file.pdf) @21:25 GMT
+* [4059-navajas-destaca-labor-de-medicos-ante-el-covid-19-y-asegura-que-el-gobierno-hace-esfuerzos-para-protegerlos](e8856eea6354e6e788c5ae44d3af40e13ac5c05a/file.pdf) @14:19 GMT
+* [4060-ministro-de-salud-afirma-que-bolivia-se-fortalece-para-enfrentar-al-covid-19-y-pide-responsabilidad-a-la-poblacion](e75f34a2b1dcdbce298c8dd8d61e264bee0e17c9/file.pdf) @14:19 GMT
+* [4061-sedes-la-paz-pasa-a-depender-del-ministerio-de-salud-mientras-dure-la-emergencia-por-covid-19](2a1e8a6b0d37faf9d60deb0f948a5276ac6de059/file.pdf) @14:19 GMT
+* [4062-ministerio-de-salud-reporta-24-nuevos-casos-de-coronavirus-y-ya-son-26-los-pacientes-recuperados](52f9b961d0827a8450a66f15e1af5d7b4a451a27/file.pdf) @14:18 GMT
+
+## 2020-04-16
+
+* [4055-bolivia-registra-44-nuevos-casos-de-covid-19-y-hay-169-sospechosos](7aedb5e0258ca1660aa2673120c26980d7f9be9a/file.pdf) @11:42 GMT
+* [4054-gobierno-concreto-seguro-de-vida-por-bs-100-000-para-personal-en-salud-afectado-por-covid-19](f709b318475129e7219a241c292a177bbfc546e7/file.pdf) @01:26 GMT
+
+## 2020-04-15
+
+* [4049-en-bolivia-se-reportan-397-casos-de-coronavirus-la-mayoria-son-mujeres](df1e31605b5c18dd2b3bcc1b58ac1a1ff90b625b/file.pdf) @19:05 GMT
+* [4050-ministerio-de-salud-instruye-a-los-sedes-revision-exhaustiva-en-aplicacion-de-pruebas-covid-19](bcbe6e7402c7ea90f5da1c824352ec46334d6d48/file.pdf) @19:05 GMT
+* [4051-uso-general-de-barbijo-y-cuarentena-consciente-son-claves-para-prevenir-el-contagio-de-covid-19](80022589d24690cadd647d84cab7d0aacd5f3895/file.pdf) @19:04 GMT
+
 ## 2020-04-14
 
+* [4046-ministro-de-salud-afirma-que-bolivia-no-paso-a-la-fase-de-transmision-comunitaria-del-coronavirus](254d053a49f2751eeebbe2ce050b144d0b41d465/file.pdf) @20:15 GMT
+* [4047-plan-de-aislamiento-garantiza-hospitales-libres-de-covid-19-navajas](2495c27c934de8fe215bacc72f6b6709d62beff0/file.pdf) @20:14 GMT
 * [4044-gobierno-ejecuta-estrategia-nacional-de-respuesta-al-covid-19](04407603efbb2f74f3288d7cc1e9740a57d8ad7b/file.pdf) @03:16 GMT
 
 ## 2020-04-13

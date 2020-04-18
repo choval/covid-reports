@@ -1,0 +1,30 @@
+{
+    "filename": "2020-04-17-coronavirus-covid-19-infection-in-pregnancy.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-04-17-coronavirus-covid-19-infection-in-pregnancy.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587164726,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "521035",
+        "content-type": "application\/pdf",
+        "expires": "Sat, 18 Apr 2020 11:08:56 GMT",
+        "last-modified": "Fri, 17 Apr 2020 17:06:24 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D614DA865A4FE0\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=H3I9Ap9L1gEkAAAANTAyYTk4OWUtYzFkMi00Mzg4LWFlZTktMDc2YzA0ZGQzMWMwd14D8LcN5KcDbH2zN-owB7xvF0c1; expires=Fri, 26-Jun-2020 09:48:56 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Fri, 17 Apr 2020 23:08:56 GMT"
+    },
+    "lang": "en",
+    "size": 521035,
+    "modified": 1587143184
+}

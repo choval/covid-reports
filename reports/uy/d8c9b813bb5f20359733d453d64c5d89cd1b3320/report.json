@@ -1,0 +1,31 @@
+{
+    "filename": "informe-situacion-relacion-coronavirus-covid-19-uruguay-3",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-situacion-relacion-coronavirus-covid-19-uruguay-3",
+    "output": "file.pdf",
+    "downloaded": 1587138976,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 15:53:53 GMT",
+        "server": "Apache",
+        "x-frame-options": "ALLOW-FROM",
+        "x-powered-by": "PHP\/7.3.11",
+        "cache-control": "max-age=0, no-store",
+        "x-drupal-dynamic-cache": "MISS",
+        "link": "<https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-situacion-relacion-coronavirus-covid-19-uruguay-3>; rel=\"canonical\", <https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/informe-situacion-relacion-coronavirus-covid-19-uruguay-3>; rel=\"revision\"",
+        "x-ua-compatible": "IE=edge",
+        "content-language": "es",
+        "x-content-type-options": "nosniff",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "vary": "Cookie",
+        "x-generator": "Drupal 8 (https:\/\/www.drupal.org)",
+        "content-security-policy": "frame-ancestors",
+        "x-drupal-cache": "HIT",
+        "last-modified": "Fri, 17 Apr 2020 15:53:52 GMT",
+        "etag": "\"1587138832\"",
+        "content-type": "text\/html; charset=UTF-8",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 123318,
+    "modified": 1587138983
+}

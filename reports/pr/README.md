@@ -7,6 +7,10 @@
 * [http://www.salud.gov.pr/Pages/coronavirus.aspx](http://www.salud.gov.pr/Pages/coronavirus.aspx)
 
 
+## 2020-04-15
+
+* [Elementos Básicos PCE COVID-19 para Patronos.pdf](ab4471c3cb803b4506dfc580fc42f2963d1e7b66/file.pdf) @16:27 GMT
+
 ## 2020-04-05
 
 * [DIY-cloth-face-covering-instructions.pdf](232dafde694cb90e5194d209ec5eae826b387c02/file.pdf) @13:45 GMT

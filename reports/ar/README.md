@@ -6,6 +6,28 @@
 * [https://www.argentina.gob.ar/coronavirus/informe-diario](https://www.argentina.gob.ar/coronavirus/informe-diario)
 
 
+## 2020-04-17
+
+* [16-04-20-reporte-vespertino-covid-19.pdf](55a9e2f812f573b44a18c3e9780351efb0601776/file.pdf) @17:23 GMT
+* [17-04-20-reporte-matutino-covid-19\_0.pdf](1c8334c6c9f65d454db645378ee84b19cf194428/file.pdf) @15:21 GMT
+
+## 2020-04-16
+
+* [16-04-20\_reporte\_matutino\_covid\_19.pdf](90994ba07c6fed1119330f0491c21eb0081d0422/file.pdf) @12:24 GMT
+* [15-04-20\_reporte\_vespertino\_covid\_19.pdf](8367f9f96243e4a50d93f6e452c46199664811ca/file.pdf) @12:19 GMT
+
+## 2020-04-15
+
+* [15-04-20\_reporte-matutino-covid-19.pdf](cc3736a22e99d709c968dda2d2153439812b9891/file.pdf) @13:42 GMT
+* [14-04-20-reporte-vespertino-covid-19.pdf](1fee0a6fdd3233370d183fba60d478c79099609e/file.pdf) @00:18 GMT
+
+## 2020-04-14
+
+* [14-04-20\_reporte\_matutino\_covid\_19.pdf](c41ebc9bbac3965d7c4b1162c19ba22eea324722/file.pdf) @13:54 GMT
+* [13-04-20\_reporte\_vespertino\_covid\_19.pdf](1bea399ee300151742da94e5e4e9c0bba29a368b/file.pdf) @13:54 GMT
+* [13-04-20\_reporte\_matutino\_covid\_19.pdf](e33715bf5678a0ae074e839c4c43ca015a57d1dc/file.pdf) @13:54 GMT
+* [12-04-20\_reporte\_vespertino\_covid\_19.pdf](9cde3d5610b00e53e54ca2b60b5bcbfe48f21c88/file.pdf) @13:53 GMT
+
 ## 2020-04-12
 
 * [12-04-20\_reporte\_matutino\_covid\_19.pdf](949153e99d9ac029fad617e33a9f503ced3b8693/file.pdf) @22:24 GMT

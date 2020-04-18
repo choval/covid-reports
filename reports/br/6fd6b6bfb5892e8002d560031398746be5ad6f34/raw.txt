@@ -1,0 +1,3202 @@
+DIRETRIZES PARA
+DIAGNÓSTICO E
+TRATAMENTO DA
+COVID-19
+17 de abril de 2020
+Secretaria de Ciência, Tecnologia, Inovação e
+Insumos Estratégicos em Saúde - SCTIE
+| Versão 3
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E INSUMOS ESTRATÉGICOS EM SAÚDE
+DEPARTAMENTO DE GESTÃO E INCORPORAÇÃO DE TECNOLOGIAS E INOVAÇÃO EM SAÚDE
+COORDENAÇÃO-GERAL DE GESTÃO DE TECNOLOGIAS EM SAÚDE
+COORDENAÇÃO DE GESTÃO DE PROTOCOLOS CLÍNICOS E DIRETRIZES TERAPÊUTICAS
+Brasília – DF
+17 de abril de 2020
+DIRETRIZES PARA
+DIAGNÓSTICO E
+TRATAMENTO DA
+COVID-19
+2020 Ministério da Saúde.
+É permitida a reprodução parcial ou total desta obra, desde que citada a fonte e que não seja para venda
+ou qualquer fim comercial. A responsabilidade pelos direitos autorais de textos e imagens desta obra é do
+Ministério da Saúde.
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE
+Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde - SCTIE
+Departamento de Gestão e Incorporação de Tecnologias e Inovações em Saúde - DGITIS
+Coordenação-Geral de Gestão de Tecnologias em Saúde - CGGTS
+Coordenação de Gestão de Protocolos Clínicos e Diretrizes Terapêuticas - CPCDT
+Esplanada dos Ministérios, bloco G, Edifício Sede, 8º andar, CEP: 70058-900 – Brasília/DF
+Tel.: (61) 3315-2848
+Site: saude.gov.br
+Elaboração
+COORDENAÇÃO DE GESTÃO DE PROTOCOLOS CLÍNICOS E DIRETRIZES TERAPÊUTICAS –
+CPCDT/CGGTS/DGITIS/SCTIE/MS
+Organização
+Hospital Alemão Oswaldo Cruz - HAOC
+Ana Paula Marques de Pinho - Diretora Executiva
+da Sustentabilidade Social
+Álvaro Avezum Junior - Diretor do Centro
+Internacional de Pesquisa
+Haliton Alves de Oliveira Junior - Coordenação
+de Pesquisa
+Elaboração de texto
+Ângela Maria Bagattini - HSL
+Bruno de Melo Tavares – HAOC
+Cassia Garcia Moraes Pagano - HMV
+Cinara Stein - HMV
+Daniela Vianna Pachito - HSL
+Felipe Dal Pizzol- AMIB
+Flávia Cordeiro de Medeiros- HAOC
+Gabriela Vilela de Brito - HAOC
+Hugo Urbano - AMIB
+Jessica YumiMatuoka - HAOC
+Lays Pires Marra - HAOC
+Maicon Falavigna - HMV
+Patrícia do Carmo Silva Parreira - HAOC
+Rachel Riera - HSL
+Suzana Margareth Ajeje Lobo - AMIB
+Verônica Colpani - HMV
+Colaboração Externa
+Associação de Medicina Intensiva Brasileira -
+AMIB
+Hospital Moinhos de Vento - HMV
+Hospital Sírio Libanês - HSL
+Revisão Técnica
+Gustavo Campello Rodrigues - CPCDT/DGITIS
+Jorgiany Souza Emerick Ebeidalla- CPCDT/DGITIS
+Nayara Castelano Brito - CMATS/DGITIS
+Nicole Freitas de Mello - CPCDT/DGITIS
+Raissa Allan Santos Domingues - CPCDT/DGITIS
+Rosângela Maria Gomes - CPCDT/DGITIS
+Sarah Nascimento Silva- CPCDT/DGITIS
+Colaboração Interna
+Departamento de Assistência Farmacêutica e
+Insumos Estratégicos - DAF/SCTIE/MS
+Departamento de Ciência e Tecnologia -
+DECIT/SCTIE/MS
+Secretaria de Atenção Primária em Saúde -
+SAPS/MS
+Secretaria de Vigilância em Saúde - SVS/MS
+Bruna Cabral de Pina Viana - CITEC/DGITIS
+Clarice Moreira Portugal - CITEC/DGITIS
+Fabiana Raynal Floriano - CITEC/DGITIS
+José Octávio Beutel - CITEC/DGITIS
+Patricia Mandetta Gandara - CITEC/DGITIS
+Getulio Cassemiro Souza - CITEC/DGITIS
+Layout e diagramação
+Leonard Lemos Galvão - DGITIS/SCTIE/MS
+Supervisão
+Denizar Vianna Araújo - Secretaria de Ciência,
+Tecnologia, Inovação e Insumos Estratégicos em
+Saúde - SCTIE/MS
+Vania Cristina Canuto Santos -
+DGITIS/SCTIE/MS
+Clementina Corah Lucas Prado -
+CGGTS/DGITIS/SCTIE/MS
+3
+Apresentação
+A elaboração das Diretrizes para Diagnóstico e Tratamento da COVID-19 é
+uma resposta rápida para o enfrentamento da COVID-19, diante da declaração
+de pandemia pela Organização Mundial de Saúde (OMS) e das iniciativas do
+Ministério da Saúde para enfrentamento dessa nova situação no Brasil.
+A intensa produção de evidência sobre o assunto nos últimos meses faz
+destas diretrizes um documento dinâmico que terá versões provisórias e
+atualizações periódicas, acompanhando a produção de novas evidências para
+assim estabelecer recomendações.
+A elaboração dessa versão das diretrizes baseou-se nas evidências
+científicas relativas às 21 perguntas de pesquisa elegidas. A consulta às etapas
+metodológicas e ao sumário dos dados está disponível no Apêndice das
+Diretrizes para Diagnóstico e Tratamento da COVID 19, resultado da busca e
+atualização das evidências.
+Esse trabalho é o resultado da parceria entre Hospital Alemão Oswaldo
+Cruz (HAOC) e Ministério da Saúde, via Programa de Apoio ao Desenvolvimento
+do SUS (PROADI-SUS). O trabalho conta com a colaboração dos Núcleos de
+Avaliação de Tecnologias em Saúde (NATS) do Hospital Sírio Libanês (HSL) e do
+Hospital Moinhos de Vento (HMV) e apoio da Associação de Medicina Intensiva
+Brasileira (AMIB).
+Atualização da versão 3 e direcionamentos futuros
+A cada versão desta diretriz novas informações serão inseridas e parte
+da evidência será atualizada. Atualmente, o volume de publicações é vasto e
+aumenta a cada dia, o que acrescenta dificuldade ao processo de atualização. O
+objetivo será fornecer um documento o mais completo possível, com robustez
+metodológica e que segue as recomendações das prinicpais instituições
+nacionais e internacionais.
+Nesta edição foram atualizadas as seguintes informações:
+ Informações quanto ao isolamento e quarentena;
+ Definição de casos elegíveis e não elegíveis;
+ Informações quanto ao uso de máscaras;
+ Contraindicação de ventilação não invasiva, conforme Nota Técnica da
+ANVISA;
+ Atualização das recomendações e apêndices quanto ao tratamento
+(cloroquina e hidroxicloroquina; corticosteroides; antivirais; ECMO);
+4
+ Informações sobre a realização de cirurgias;
+ Inserção de evidências e apêndices para outras tecnologias
+(Tocilizumabe; antagonistas do receptor de endotelina; utilização de
+máscaras; antibioticoterapia; ivermectina; terapia com plasma de
+convalescente; atazanavir; e inibidores de Janus Associated Kinases).
+As seguintes sessões serão atualizadas nas próximas versões:
+ Utilização de inibidores da enzima conversora de angiotensina (iECA) e
+Bloqueadores do Receptor de Angiotensina II (BRAs);
+ Anticoagulantes como terapia para COVID-19;
+ Transmissão vertical de COVID-19;
+ Caracteristicas da COVID-19 em populações específicas;
+ Recomendações para a prática cirúrgica em diferentes áreas (oncologia;
+otorrinolaringologia; obstetrícia; cardiologia; urologia; neurologia; entre
+outras), bem como em diferentes modalidades (minimamente invasiva,
+laparoscópica, endoscópica, robótica, etc).
+Por ser um documento técnico e vasto, foi inserido sumário das
+recomendações contidas no documento, para que este possa ser utilizado com
+maior praticidade.
+5
+SUMÁRIO DAS RECOMENDAÇÕES
+A seguir inserimos as principais recomendações realizadas nesta diretriz
+(versão 3 de 17 de abril de 2020), conforme cada seção do documento. Maiores
+informações estão disponíveis no corpo da Diretriz.
+Classificação da COVID-19
+CIDs para
+notificação
+As notificações de COVID-19 devem ser feitas, preferencialmente, pelos
+CIDs U07.1 ou 07.2. Na falta destes na base de registro, o CID B34.2
+pode ser utilizado. No contexto da AP, pode ser utilizado CIAP-2 R74.
+A notificação de COVID-19 é compulsória.
+Prevenção e precauções
+Critérios de
+Elegibilidade
+Critérios de inclusão
+Pacientes com suspeita diagnóstica de COVID-19 ou com doença
+confirmada por meio de exames bioquímicos.
+Critérios de exclusão
+1. Pacientes com infecções virais por outros agentes etiológicos que
+não são SARS-CoV-2;
+2. Pacientes com outras doenças de acometimento do trato respiratório
+com testagem negativa para COVID-19;
+3. Caso suspeito de síndrome gripal ou síndrome respiratória aguda
+grave com resultado laboratorial negativo para coronavírus (SARS-
+COV-2 não detectável pelo método de RT-PCR em tempo real),
+considerando a oportunidade da coleta OU confirmação laboratorial
+para outro agente etiológico.
+Medidas gerais, uso
+de máscaras,
+Isolamento, vacina,
+desinfecção
+1. Medidas gerais: Lavagens das mãos, distanciamento social, etiqueta
+respiratória e segurança alimentar.
+2. Máscaras:
+ O uso de máscara cirúrgica está recomendado para profissionais
+da área da saúde durante o atendimento a casos suspeitos de
+COVID-19 e pacientes sintomáticos.
+ Pessoas saudáveis apenas devem utilizar máscaras caso estejam
+cuidando de algum caso suspeito de COVID-19. Pessoas com
+síndrome gripal, casos confirmados e suspeitos de COVID-19
+devem utilizar máscaras.
+ No contexto da pandemia de COVID-19 e falta de EPIs, sugere-se
+o uso de máscaras de pano pela população como um método de
+barreira importante quando combinado aos demais cuidados de
+higiene já preconizados. Essa é uma estratégia que tem o intuito
+de proteger o outro, ou seja, minimizar a disseminação de
+gotículas ainda na fase assintomática, uma vez que essa via de
+transmissão ainda não está totalmente elucidada.
+3. Isolamento:
+População geral - Diagnóstico de Síndrome Gripal isolamento domiciliar
+por 14 dias e demais familiares (Atestado aos familiares - CID 10 -
+6
+Z20.9).
+Profissionais de saúde - Afastamento 14 dias para contactante familiar
+com diagnóstico confirmado ou 7 dias se familiar não realizar teste e
+apresentar assintomático após este período. Profissional com suspeita
+de síndrome gripal (teste indisponível) retorna ao trabalho se estiver com
+um mínimo de 72 horas assintomático e mínimo de 7 dias após o início
+dos sintomas. Profissionais em grupo de risco devem ser afastados ou
+mantidos em atividades de gestão e suporte sem contato com pacientes.
+A evidência científica pontua que a quarentena é uma medida de
+controle da pandemia.
+4. Vacina – Calendário vacinal em dia, especialmente para a vacina da
+influenza nos grupos preconizados.
+5. Desinfecção – Limpeza das superfícies com detergente neutro
+seguida do uso de soluções desinfetantes.
+Diagnóstico
+História Recomenda-se uma investigação detalhada do histórico do paciente para
+determinar o nível de risco da COVID-19 e avaliar a possibilidade de
+outras causas.
+Diagnóstico CASOS SUPEITOS
+DEFINIÇÃO 1 - SÍNDROME GRIPAL (SG): indivíduo com quadro
+respiratório agudo, caracterizado por sensação febril ou febre, mesmo
+que relatada, acompanhada de tosse OU dor de garganta OU coriza OU
+dificuldade respiratória.
+1. EM CRIANÇAS: considera-se também obstrução nasal, na
+ausência de outro diagnóstico específico.
+2. EM IDOSOS: a febre pode estar ausente. Deve-se considerar
+também critérios específicos de agravamento como sincope, confusão
+mental, sonolência excessiva, irritabilidade e inapetência.
+DEFINIÇÃO 2 - SÍNDROME RESPIRATÓRIA AGUDA GRAVE (SRAG):
+Síndrome Gripal que apresente: dispneia/desconforto respiratório OU
+Pressão persistente no tórax OU saturação de O2 menor que 95% em ar
+ambiente OU coloração azulada dos lábios ou rosto.
+1. EM CRIANÇAS: além dos itens anteriores, observar os batimentos
+de asa de nariz, cianose, tiragem intercostal, desidratação e
+inapetência.
+CASOS CONFIRMADOS
+POR CRITÉRIO LABORATORIAL - caso suspeito de SG ou SRAG com
+teste de:
+1. Biologia molecular (RT-PCR em tempo real, detecção do vírus SARS-
+CoV2, Influenza ou VSR):
+ Doença pelo Coronavírus 2019: com resultado detectável para
+SARS-CoV2.
+ Influenza: com resultado detectável para Influenza.
+ Vírus Sincicial Respiratório: com resultado detectável para VSR.
+2. Imunológico (teste rápido ou sorologia clássica para detecção de
+anticorpos):
+7
+ Doença pelo Coronavírus 2019: com resultado positivo para
+anticorpos IgM e/ou IgG. Em amostra coletada após o sétimo dia
+de início dos sintomas.
+POR CRITÉRIO CLÍNICO-EPIDEMIOLÓGICO - caso suspeito de SG ou
+SRAG com:
+Histórico de contato próximo ou domiciliar, nos últimos 7 dias antes do
+aparecimento dos sintomas, com caso confirmado laboratorialmente para
+COVID-19 e para o qual não foi possível realizar a investigação
+laboratorial específica.
+CASO DESCARTADO DE DOENÇA PELO CORONAVÍRUS 2019 (COVID-
+2019) - caso suspeito de SG ou SRAG com resultado laboratorial
+negativo para CORONAVÍRUS (SARS-COV-2 não detectável pelo método
+de RT-PCR em tempo real), considerando a oportunidade da
+coleta OU confirmação laboratorial para outro agente etiológico.
+Exame físico Recomenda-se que o exame físico seja composto de: Avaliação do
+padrão respiratório: tosse e/ou dispneia; aferição de temperatura axilar;
+frequência cardíaca, frequência respiratória e oximetria de pulso;
+ausculta pulmonar: presença de estertores inspiratórios, expiratórios,
+respiração brônquica ou dificuldade respiratória em pacientes com
+pneumonia e avaliação de sinais de cianose e hipóxia.
+Investigações
+clínico-laboratoriais
+em pacientes graves
+Recomenda-se as seguintes investigações em pacientes graves (ver texto
+do documento para definição de gravidade):
+• Oximetria de pulso;
+• Gasometria arterial (avaliar presença de hipercarbia ou acidose);
+• TC de tórax;
+• Teste rápido para a influenza;
+• RT-PCR – SARS-CoV-2;
+• Glicemia;
+• Ureia;
+• Bilirrubina total e frações;
+• D-dímero;
+• Hemograma completo;
+• Coagulograma (TAP e TTPa);
+• Marcadores inflamatórios (procalcitonina sérica e/ou proteína C-
+reativa, dependendo da disponibilidade);
+• Troponina sérica; e lactato desidrogenase sérica.
+Testes diagnósticos
+e outros exames
+Testes moleculares de amplificação de ácido nucleico de SARS-CoV-2:
+» RT-PCR em tempo real (RT-PCR).
+» Teste rápido molecular SARS-CoV-2.
+• Sequenciamento parcial ou total do genoma viral.
+• Testes sorológicos.
+ Cultura de sangue para descartar outras causas de infecção do
+trato respiratório inferior;
+Exames de imagem:
+ Raio X do tórax- pacientes com suspeita de pneumonia
+ Tomografia computadorizada (TC) do tórax - pacientes com
+acometimento do trato respiratório inferior.
+8
+Tratamento
+Triagem Recomenda-se uma estratificação de risco que norteie a conduta clínica,
+direcionando o paciente conforme a sua situação clínica e otimizando a
+logística hospitalar (UTI vs. Enfermaria). Recomenda-se estratificar
+sintomas no trato respiratório inferior e superior associados os seguintes
+fatores de risco para agravamento (Figura 1: Fluxograma para
+atendimento de paciente com sintomas respiratórios).
+Internação,
+oxigenoterapia e
+técnicas de
+ventilação
+ O paciente deve estar acamado, sendo monitorado quanto a sinais
+vitais e recebendo tratamento de suporte.
+ O paciente deve ser monitorado por hemograma, PCR, procalcitonina,
+função orgânica (enzima hepática, bilirrubina, enzima do miocárdio,
+creatinina, nitrogênio, ureia, volume da urina etc.), coagulação e
+imagem torácica.
+ Nos casos indicados, o paciente deve receber oxigenoterapia eficaz;
+ A oxigenação por membrana extracorpórea (ECMO) pode ser
+considerada nos pacientes com hipoxemia refratária difícil de ser
+corrigida pela ventilação pulmonar.
+Intubação A intubação deve ser oportuna e pode ser considerada nos casos: i)
+pacientes graves, sem alívio dos sintomas (desconforto respiratório
+persistente e/ou hipoxemia) após oxigenoterapia padrão; ii) quando os
+sintomas (dificuldade respiratória, frequência respiratória >30/min, índice
+de oxigenação PaO2/FiO2 <150 mmHg) persistem ou exacerbam após
+oxigenação nasal de alto fluxo (HFNO) por 2 horas.
+Infecção cruzada Recomendam-se estratégias para diminuir o risco de infecção cruzada
+para os profissionais da saúde: cuidados com o fornecimento de oxigênio
+suplementar; evitar a nebulização de medicamentos; evitar, sempre que
+possível, a utilização de HFNC, CiPAP e BiPAP; adotar melhores cuidados
+para a intubação (ver texto da seção para maiores detalhes).
+Tratamento
+sintomático
+Sugere-se a utilização de antipiréticos, analgésicos,
+antitussígenos/expectorantes e antieméticos, sempre que haja indicação
+clínica, respeitando o quadro do paciente e as contraindicações
+adjacentes.
+ No caso específico da analgesia e controle da febre, recomenda-se,
+preferencialmente, dipirona ou paracetamol.
+ Recomenda-se a ingestão de dieta balanceada ou adaptada às
+necessidades do paciente. Nutrição enteral pode ser introduzida
+quando o paciente não puder ingerir alimentos na rotina oral.
+ São indicados inibidores da bomba de próton (ex: omeprazol)
+naqueles pacientes com risco de sangramento gastrintestinal.
+ Sugere-se o uso de anticolinérgicos (ex. brometo de ipratrópio)
+naqueles que apresentam dispneia, tosse, sibilo, SARS e dificuldade
+respiratória devido ao aumento da secreção das vias respiratórias.
+ Naqueles pacientes com disfunção de coagulação, para reduzir o risco
+de tromboembolismo, pode-se utilizar um anticoagulante, como a
+heparina.
+Tratamento farmacológico específico
+9
+Até o momento, não existem evidências robustas de alta qualidade que possibilitem
+a indicação de uma terapia farmacológica específica para a COVID-19. Desde o final
+de 2019 vários estudos estão sendo realizados na busca de alternativas terapêuticas
+para o tratamento da COVID-19, os quais são descritos abaixo.
+Hidroxicloroquina e
+cloroquina
+(Tratamento
+experimental)
+ As evidências identificadas ainda são incipientes para definir uma
+recomendação. A literatura apresenta três estudos clínicos, com
+resultados divergentes, sobre o uso de hidroxicloroquina. Os três
+estudos apresentam um pequeno número de participantes e
+apresentam vieses importantes.
+ Conforme NOTA INFORMATIVA Nº 6/2020-DAF/SCTIE/MS, de
+primeiro de abril de 2020, estes medicamentos poderão ser utilizados
+em casos confirmados e a critério médico, como terapia
+adjuvante no tratamento de formas graves, em pacientes
+hospitalizados, sem que outras medidas de suporte sejam
+preteridas. Ressalta-se que essa iniciativa corrobora com a inserção
+de instituições brasileiras nos estudos clínicos em curso.
+Antibioticoterapia  O uso inadequado de drogas bacterianas deve ser evitado. As
+evidências encontradas até o momento não suportam a utilização de
+antibioticoterapia em pacientes com COVID-19 sem evidência de
+infecção bacteriana.
+ De acordo com as manifestações clínicas dos pacientes, se a infecção
+bacteriana associada não puder ser descartada, pacientes com
+quadros leves podem receber medicamentos antibacterianos contra
+pneumonia adquirida, como amoxicilina, azitromicina ou
+fluoroquinolonas.
+ As evidências encontradas até o momento relatam benefícios muito
+limitados para a associação de azitromicina associada à cloroquina ou
+hidroxicloroquina. Sugere-se cautela no uso dessa associação, pois
+pode haver um aumento do risco de complicações cardi ́acas, muito
+provavelmente pelo efeito sinérgico de prolongar o intervalo QT.
+Corticosteroides
+(Tratamento
+experimental)
+ A utilização de corticosteroides no tratamento da COVID-19 ainda é
+controversa. Não foram encontrados ensaios clínicos que avaliem
+especificamente o uso de corticoides em pacientes com COVID-19.
+ Enquanto alguns estudos sugerem benefícios em subpopulações
+específicas, outros sugerem piora com aumento de carga viral,
+aumento do tempo de internação e aumento do risco de infecção
+secundária.
+ Corticosteroides poderão ser considerados no tratamento de
+pacientes graves, com SRAG, internados e dentro de num contexto de
+pesquisa clínica.
+Lopinavir/ritonavir
+(Tratamento
+experimental)
+ As evidências recentes sugerem não haver benefício com o uso desta
+associação em pacientes com pneumonia por COVID-19.
+ A associação de Lopinavir/ritonavir poderá ser considerada para o
+tratamento de pacientes internados num contexto de pesquisa clínica.
+iECAs e BRAs (anti-
+hipertensivos)
+(Tratamento
+ A utilização de iECA e BRAs no tratamento da COVID-19 ainda é
+controversa. Desta forma, com base na evidência disponível até o
+momento, sugere-se não considerar o uso de iECA (como o captopril
+10
+experimental) ou maleato de enalapril) e BRA (como a losartana potássica) como
+opções terapêuticas para a COVID-19.
+ Pacientes hipertensos ou com outras comorbidades que já utilizam
+iECAs (ex. captopril, enalapril) ou BRAs (ex. losartana), conforme
+orientação médica, não devem interromper o tratamento, a não ser
+por recomendação do médico.
+Tocilizumabe
+(Tratamento
+experimental)
+ As evidências disponíveis até o momento não suportam uma
+recomendação favorável ao uso tocilizumabe.
+ Seu uso poderá ser considerado em pacientes internados com COVID-
+19 em um contexto de pesquisa clínica.
+Ivermectina
+(Tratamento
+experimental)
+ Ainda não existem evidências clínicas suficientes que permitam tecer
+qualquer recomendação quanto ao uso de ivermectina em pacientes
+com COVID-19
+Antagonistas do
+receptor de
+endotelina
+(Tratamento
+experimental)
+ Ainda não existem evidências publicadas quanto ao uso de
+antagonistas do receptor de endotelina (ex. bosentana) em pacientes
+com COVID-19.
+Terapia com plasma
+de convalescentes
+(Tratamento
+experimental)
+ As evidências disponíveis até o momento não suportam uma
+recomendação favorável a terapia com plasma de convalescentes.
+ Seu uso poderá ser considerado em pacientes internados com COVID-
+19, e dentro de um contexto de pesquisa clínica.
+Atazanavir
+(Tratamento
+experimental)
+ Ainda não existem evidências clínicas suficientes que permitam tecer
+qualquer recomendação quanto ao uso do atazanavir em pacientes
+com COVID-19.
+Inibidores de JAK 1
+e 2
+(Tratamento
+experimental)
+ Ainda não existem evidências clínicas suficientes que permitam tecer
+qualquer recomendação quanto ao uso de inibidores de JAK (ex.
+baricitinibe) em pacientes com COVID-19.
+Casos especiais
+Gestantes Os dados sobre a apresentação clínica da COVID-19 e os resultados
+perinatais após a infecção pela COVID-19 durante a gravidez e/ou
+puerpério, bem como os resultados perinatais devido a exposição à
+doença após a infecção pela COVID-19 ainda são limitados. Não há
+evidências que comprovem transmissão vertical do SARS-CoV-2.
+Considerando que a transmissão assintomática de COVID-19 pode ser
+possível em mulheres grávidas, todas as mulheres com histórico
+epidemiológico de contato devem ser cuidadosamente monitoradas. Até
+o momento, não há evidências de que as mulheres grávidas apresentem
+sinais e/ou sintomas diferentes ou maior gravidade de doença.
+As gestantes com suspeita ou confirmação de COVID-19 devem ser
+tratadas com terapias de suporte, levando em consideração as
+adaptações fisiológicas da gravidez (Quadro 5: Orientações para o
+Manejo de COVID-19 em gestantes).
+Pacientes com Recomenda-se que pacientes com doença cardiovascular e infecção por
+11
+doença
+cardiovascular
+SARS-CoV-2 sejam monitorados com eletrocardiograma, ecocardiograma
+e estudos de hemodinâmica, a depender da indicação clínica, em
+associação à dosagem seriada de troponinas e dímero D (marcadores de
+mau prognóstico) e ao acompanhamento das possíveis complicações.
+Principais complicações cardíacas identificadas nos pacientes com
+COVID-19:
+ Lesão cardíaca aguda
+ Arritmias*
+ Miocardite
+*Pacientes com doenças cardiovasculares devem ser rotineiramente
+monitorados caso tenham indicação para uso experimental de
+Hidroxicloroquina/cloroquina, medicamentos que podem levar a um
+prolongamento do intervalo QT.
+Pacientes
+oncológicos
+As decisões do sobre o tratamento devem ser acordadas com o
+paciente, abordando as consequências do adiamento (ou não) do
+tratamento.
+Em paciente com tumor sólido, a terapia adjuvante com intenção
+curativa não deve ser adiada mesmo com a possibilidade de infecção por
+SARS-CoV-2 durante o tratamento.
+A intervenção cirúrgica também precisa de priorização naqueles casos,
+nos quais existe benefício terapêutico imediato.
+Realização de
+cirurgias, eletivas e
+de emergência,
+durante a pandemia
+de COVID-19
+ Recomenda-se priorizar apenas casos agudos.
+ Qualquer procedimento eletivo que não traga dano imediato para o
+paciente deve ser postergado.
+ Sugere-se cuidado especial com procedimentos endoscópicos,
+laparoscópicos haja vista o risco de contaminação da equipe.
+Outras populações
+(imunossuprimidos,
+pessoas vivendo
+com HIV/Aids e
+pessoas com
+tuberculose)
+O SARS-CoV-2 se tornou uma ameaça para pessoas imunossuprimidas,
+por apresentarem diminuição de atividade do sistema imunológico e,
+consequentemente, uma menor capacidade orgânica de reagir a vírus e
+bactérias. Estes pacientes precisam de cuidados especiais.
+A mesma recomendação se aplica a pessoas vivendo com HIV e
+tuberculose, ainda que não exista evidências que sugerem que pessoas
+vivendo com HIV/Aids (PVHIV) apresentem maior risco de adquirir ou
+desenvolver formas mais graves de COVID-19 ou que apresentem
+diferentes cursos clínicos.
+12
+1 INTRODUÇÃO
+Em dezembro de 2019, diversos casos de pneumonia por causa
+desconhecida surgiram na cidade de Wuhan, província de Hubei, China. A partir
+da análise do material genético isolado do vírus, constatou-se que se trata de
+um novo betacoronavírus, inicialmente denominado 2019-nCoV pela
+Organização Mundial da Saúde (OMS). Mais recentemente, esse passou a ser
+chamado de SARS-CoV-2 (do inglês Severe Acute Respiratory Syndrome
+Coronavirus 2) (1–3).
+Por meio de simulação molecular, cientistas chineses observaram que o
+vírus SARS-CoV-2 tem estrutura semelhante à do SARS-CoV, sendo quase
+totalmente sobreponíveis. Os vírus se diferenciam por uma pequena alteração
+estrutural em um de seus loops, que confere maior afinidade de ligação entre o
+SARS-Cov-2 e a enzima conversora de angiotensina 2 (ECA-2), receptores
+funcionais dos SARS-CoV(1).
+Embora as infecções por coronavírus geralmente sejam leves, nas
+epidemias por SARS-CoV em 2002 (4–6) e MERS-CoV (do inglês, Middle East
+Respiratory Syndrome) em 2012 (7,8),mais de 10.000 pessoas foram
+infectadas, com taxas de mortalidade de 10% e 37%, respectivamente (9).
+A infecção pelo vírus SARS-CoV-2 causa a COVID-19 (do inglês,
+Coronavirus Disease 2019), cujos principais sintomas são febre, fadiga e tosse
+seca, podendo evoluir para dispneia ou, em casos mais graves, Síndrome
+Respiratória Aguda Grave (SRAG) (2,3,10).
+A doença se espalhou rapidamente pelo território chinês e,
+posteriormente, pacientes infectados por SARS-CoV-2 foram identificados em
+outros países, principalmente na Europa (tendo como epicentros a Itália e a
+Espanha), nos Estados Unidos, no Canadá e no Brasil. Em 30 de janeiro de
+2020, a OMS declarou a doença como uma emergência de saúde pública global
+e, em 11 de março de 2020, ela passou a ser considerada uma pandemia
+(3,11,12).
+Em 16 de abril de 2020, a OMS apontou que existem 1.991.562 casos
+confirmados de COVID-19 e 130.885 mortes pela doença no mundo, sendo que
+76.647 casos novos e 7.875 mortes foram identificadas nas 24 horas
+anteriores(13).
+No Brasil em 22 de janeiro de 2020, foi ativado o Centro de Operações
+de Emergências em Saúde Pública para o novo Coronavírus (COE – nCoV),
+estratégia prevista no Plano Nacional de Resposta às Emergências em Saúde
+Pública do Ministério da Saúde. O primeiro caso de COVID-19 no Brasil foi
+registrado em 26 de fevereiro em São Paulo. Em 20 de março de 2020 a
+Portaria GM/MS n.º 454, declarou, em todo o território nacional, o estado de
+transmissão comunitária do novo coronavírus, recomendando que todos os
+estabelecimentos de saúde estabeleçam diagnóstico sindrômico para o
+13
+atendimento de casos suspeitos de COVID-19 independentemente do fator
+etiológico da doença.
+Segundo o relatório situacional do Ministério da Saúde de 16 de abril de
+2020, no Brasil existem 30.425 casos confirmados de COVID-19 e 1.924 óbitos
+pela doença, tendo o estado de São Paulo como epicentro. Esses dados
+colocam o Brasil como o terceiro país da Região das Américas com maior
+número de casos e de óbitos pela doença, atrás dos Estados Unidos e do
+Canadá (14).
+No Brasil, diferentes medidas têm sido adotadas para tentar conter o
+aumento do número de infecções por SARS-CoV-2. O Ministério da Saúde, por
+meio de diferentes departamentos, tem reunido esforços no sentido de
+organizar os serviços de saúde para o atendimento de pacientes com suspeita
+ou diagnóstico confirmado de COVID-19, bem como de qualificar esse
+atendimento. Entre essas medidas estão o Plano de Contingência Nacional para
+Infecção Humana pelo novo Coronavírus, coordenado pela Secretaria de
+Vigilância em Saúde (SVS) (15); o Protocolo de Manejo Clínico do Coronavírus
+(COVID-19) na Atenção Primária à Saúde, da Secretaria de Atenção Primária à
+Saúde (SAPS) (15); a Nota Informativa nº 6/2020 - DAF/SCTIE/MS (16), entre
+outros documentos.
+Em consonância com outras iniciativas do Ministério da Saúde, o
+presente documento tem como objetivo apresentar as diretrizes de prevenção,
+diagnóstico, tratamento e monitoramento da COVID-19.
+14
+2 CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E
+PROBLEMAS RELACIONADOS À SAÚDE (CID-10)
+A OMS determinou que o código U07, reservado para casos
+emergenciais, deve ser utilizado para a COVID-19 (17). Desse modo, serão
+considerados neste documento os subtipos deste código, segundo o Quadro 1
+a seguir.
+Quadro 1: Códigos de CID-10 contemplados nas
+Diretrizes de COVID-19.
+CID-10 Descrição
+U07.1 Diagnóstico de COVID-19 confirmado por exames laboratoriais
+U07.2
+Diagnóstico clínico ou epidemiológico de COVID-19, quando a
+confirmação laboratorial é inconclusiva ou não está disponível
+Fonte: OMS, 2020 (17).
+Na falta do CID U07.1 na base de registro, o CID B34.2 — Infecção por
+coronavírus de localização não especificada — pode ser utilizado. Os
+trabalhadores da Atenção Primária poderão utilizar também a Classificação
+Internacional de Atenção Primária (CIAP-2) pelo código CIAP-2 R74 (Infecção
+Aguda de Aparelho Respiratório Superior).
+Os casos de COVID-19 são de notificação compulsória e devem ser
+realizadas via formulário doe_SUS VE por meio do endereço eletrônico:
+https://notifica.saude.gov.br/.
+Fonte: Secretaria de Vigilância em Saúde. Coordenação Geral de Informações e Análises
+Epidemiológicas (CGIAE). Departamento de Análise de Saúde e Vigilância de Doenças Não
+Transmissíveis (DASNT). Nota Técnica Doença respiratória aguda devido ao novo coronavírus.
+Brasília, março de 2020.
+Lançamentos no Sistema de Informação sobre Mortalidade (SIM)
+O Ministério da Saúde orienta que os lançamentos no Sistema de Informação sobre
+Mortalidade (SIM) devem inserir o código CID-10 B34.2 (Infecção por coronavírus de
+localização não especificada) e como marcador, o código U04.9 (Síndrome Respiratória
+Aguda Grave –SARS). Essa orientação será mantida até que as tabelas com os novos
+códigos definidos pela OMS sejam atualizadas nos sistemas de informação e que seja
+publicada a edição atualizada da 10ª Classificação Internacional de Doenças em língua
+portuguesa que, no momento, encontra-se em fase de revisão.
+15
+3 ELEGIBILIDADE
+3.1 Critérios de Inclusão
+Pacientes com suspeita diagnóstica de COVID-19 ou com doença
+confirmada por meio de exames bioquímicos.
+3.2 Critérios de Exclusão
+1. Pacientes com infecções virais por outros agentes etiológicos que não
+são SARS-CoV-2;
+2. Pacientes com outras doenças de acometimento do trato respiratório
+com testagem negativa para COVID-19;
+3. Caso suspeito de síndrome gripal ou síndrome repiratória aguda
+grave com resultado laboratorial negativo para coronavírus (SARS-
+COV-2 não detectável pelo método de RT-PCR em tempo real),
+considerando a oportunidade da coleta OU confirmação laboratorial
+para outro agente etiológico(18).
+16
+4 PREVENÇÃO E PRECAUÇÕES
+4.1 Medidas gerais:
+A única estratégia reconhecida até o momento para prevenir a infecção é
+evitar a exposição ao vírus e as pessoas devem ser aconselhadas a (19)(20):
+• Lavar as mãos frequentemente com água e sabão ou com um
+desinfetante para as mãos à base de álcool 70% e evitar tocar os olhos,
+o nariz e a boca com as mãos não lavadas (21).
+• Evitar contato próximo com as pessoas (ou seja, manter uma distância
+de pelo menos 1 metro [3 pés]), principalmente daqueles que têm febre,
+tosse ou espirros (19).
+• Praticar etiqueta respiratória (ou seja, cobrir a boca e o nariz com o
+antebraço ou lenços descartáveis ao tossir ou espirrar, desprezando os
+lenços imediatamente após o uso em uma lixeira fechada e higienizar as
+mãos em seguida) (21).
+• Procurar atendimento médico precocemente se tiver febre, tosse e
+dificuldade em respirar;
+• Evitar o consumo de produtos animais crus ou mal cozidos e manusear
+carne crua ou leite com cuidado, de acordo com as boas práticas usuais
+de segurança alimentar (19).
+4.2. Máscaras
+O benefício do uso da máscara pela população assintomática ainda não
+está bem definido e apresenta divergências na literatura (22). No entanto, as
+máscaras podem ser usadas em alguns países de acordo com orientações da
+administração da saúde pública nacional (22).
+A OMS recomenda que pessoas saudáveis apenas utilizem máscaras se
+estiverem cuidando de pessoas com suspeita de COVID-19. Além disso, a OMS
+recomenda que pessoas tossindo ou espirrando também utilizem máscaras. O
+uso indiscriminado de máscara pode resultar em custos adicionais e criar uma
+falsa sensação de segurança, levando a população em geral a negligenciar as
+medidas básicas de prevenção, como a higiene das mãos. O uso de máscara
+cirúrgica está recomendado para profissionais da área da saúde durante o
+atendimento a casos suspeitos de COVID-19 e pacientes sintomáticos (23)(19).
+Os indivíduos com febre e/ou sintomas respiratórios são aconselhados a
+usar a máscara. É importante lavar as mãos com água e sabão ou utilizar álcool
+em gel a 70% antes de colocar a máscara facial. Além disso, deve-se substituir
+a máscara por uma nova limpa e seca, assim que ela se tornar úmida.
+Em determinados países tem sido obrigatório o uso da máscara médica
+em público; as orientações locais devem ser consultadas para obter maiores
+informações (24–26).
+17
+A busca de evidências sobre o uso de máscaras (APENDICE 1)
+identificou apenas evidência indireta sobre eficácia e segurança no uso de
+máscaras faciais como prevenção para o COVID-19 (27–31). Três (28,29,32)
+revisões sistemáticas publicadas recentemente investigaram se o uso de
+máscara facial poderia impedir a transmissão de doenças respiratórias, como
+coronavírus, rinovírus, tuberculose ou gripe. Os autores descobriram que, em
+geral, o uso de máscaras, tanto para população geral quanto por membros
+infectados, parecia produzir reduções pequenas, mas estatisticamente não
+significativas, nas taxas de infecção. Os autores concluíram que as evidências
+não são suficientemente fortes para apoiar o uso generalizado de máscaras
+faciais como uma medida protetora contra a COVID-19 e recomendaram a
+realização de estudos mais robustos.
+Apesar da recomendação do CDC para a utilização de máscaras de
+tecido, até o momento, não existem estudos robustos mostrando a eficácia e
+segurança de máscaras de tecido para o público em geral. Um estudo (33) de
+três braços avaliou o uso de máscara cirúrgica versus máscara de tecido versus
+“prática padrão de higiene” na prevenção de doenças semelhantes à gripe em
+uma equipe de saúde. O resultado mostrou que as máscaras eram menos
+eficazes do que os cuidados regulares de higiene, como lavar as mãos.
+Considerando a necessidade de encontrar formas eficazes para prevenir
+a COVID-19, diversos estudos (3,34–38) de opinião foram publicados. A grande
+maioria destes estudos não recomendam a utilização de máscaras para
+indivíduos saudáveis. De acordo com estes estudos, as máscaras protegem
+apenas o nariz e a boca, deixando a área dos olhos sem proteção, funcionando
+como porta de entrada para o coronavirus. O ideal, segundo os autores, seria a
+associação das máscaras com óculos para uma proteção eficaz. Contudo, esta
+hipótese ainda não foi avaliada por estudos robustos.
+Outra questão relevante é que as pessoas podem usar a máscara de
+forma inadequada ou tocar em uma parte contaminada da máscara ao removê-
+la, e dessa forma transferir o vírus para as mãos, olhos e nariz. O uso de
+máscaras médicas também pode dar uma falsa sensação de segurança que
+pode levar à negligência de outras medidas essenciais, como as práticas de
+higiene das mãos (23,39–41).
+No entanto, a OMS também reconhece que o uso de máscaras pelo
+público em geral tem lugar em pandemias, pois mesmo um efeito protetor
+parcial pode ter uma grande influência na transmissão (38). Alguns autores
+sugerem que indivíduos vulneráveis evitem áreas lotadas e usem máscaras
+cirúrgicas racionalmente quando expostas a áreas de alto risco para evitar uma
+possível transmissão assintomática ou pré-sintomática. Deve-se considerar
+também as variações nos paradigmas sociais e culturais do uso de máscaras. O
+contraste entre o uso de máscaras faciais como prática higiênica (em muitos
+países asiáticos) ou como algo que apenas as pessoas que não estão bem (em
+18
+países europeus e norte-americanos) induziu estigmatização e agravamentos
+raciais, para os quais é necessária uma educação pública adicional (38,42,43).
+Paralelamente, devem ser incentivadas pesquisas sobre a duração da proteção
+das máscaras faciais e as medidas para prolongar a vida útil das máscaras
+descartáveis, incluindo a invenção sobre máscaras reutilizáveis (APÊNDICE 1).
+Considerando o número crescente de casos de COVID-19, o Ministério da
+Saúde divulgou que o uso de máscaras de pano pela população pode ser um
+método de barreira importante quando combinado aos demais cuidados de
+higiene já preconizados. Essa é uma estratégia que tem o intuito de proteger o
+outro, ou seja, minimizar a disseminação de gotículas ainda na fase
+assintomática, uma vez que essa via de transmissão ainda não está totalmente
+elucidada (44). As pessoas que usarem máscaras devem seguir as boas práticas
+de uso, remoção e descarte, assim como higienizar adequadamente as mãos
+antes e após a remoção (45).
+4.3. Isolamento
+Conforme a recomendação da Secretaria de Atenção Primária à Saúde
+(SAPS) em seu Protocolo de Manejo Clínico do Coronavírus (COVID-19) na
+Atenção Primária (Versão 7), todas as pessoas com diagnóstico de Síndrome
+Gripal deverão realizar isolamento domiciliar, portanto faz-se necessário o
+fornecimento de atestado médico até o fim do período de isolamento, isto é, 14
+dias a partir do início dos sintomas. Quanto ao cuidado doméstico do paciente,
+deverão ser seguidas as recomendações estabelecidas pela SAPS em seu
+protocolo (15). Em referência à Portaria nº 454 de 20 de março de 2020, que
+define as condições de isolamento domiciliar, é importante esclarecer que o
+documento recomenda o isolamento das pessoas com qualquer sintoma
+respiratório, com ou sem febre, buscando a adoção das medidas de isolamento
+de maneira mais precoce possível (15).
+Contudo, para diagnóstico e notificação de Síndrome Gripal (SG) - e
+demais medidas correspondentes previstas no Protocolo de Manejo Clínico do
+Coronavírus (COVID-19) na Atenção Primária, a serem adotadas pelos serviços
+de saúde, é necessário seguir critérios atuais que exigem a presença de febre.
+Os contatos domiciliares de paciente com SG confirmada também deverão
+realizar isolamento domiciliar por 14 dias seguindo as condutas estabelecidas
+pela SAPS em seu protocolo (Tabela 11 - Precauções do cuidador). Caso
+seja necessário, os contatos deverão receber atestado médico pelo período dos
+14 dias, com o CID 10 - Z20.9 - Contato com exposição a doença transmissível
+não especificada. O médico deverá fornecer atestado mesmo para as pessoas
+do domicilio que não estiverem presentes na consulta da pessoa com sintomas
+(15).
+19
+Nos casos hospitalizados, em caso de alta hospitalar antes do período
+recomendado de isolamento (14 dias do início dos sintomas), estes deverão
+manter isolamento domiciliar até que se complete o período (18).
+A pessoa sintomática ou responsável deverá informar ao profissional
+médico o nome completo das demais pessoas que residam no mesmo
+endereço, assinando um termo de declaração contendo a relação dos contatos
+domiciliares, sujeitando-se à responsabilização civil e criminal pela prestação de
+informações falsas. Caso o contato inicie com sintomas e seja confirmada SG,
+deverão ser iniciadas as precações de isolamento para paciente, o caso
+notificado e o período de 14 dias deve ser reiniciado (15).
+Atualmente, a evidência indica que casos não documentados também
+são responsáveis pela transmissão de SARS-CoV-2 (44). Ademais, destaca-se
+que estratégias de contenção e mitigação poderão ser adotadas com vistas a
+minimizar a propagação exponencial da doença, diminuir a sobrecarga sobre os
+sistemas de saúde e evitar mortes, conforme projeções recentes (46–48)
+(APÊNDICE 2). Estudo recente indica que a quarentena é importante na
+redução da incidência e mortalidade durante a pandemia do COVID-19. A
+implementação inicial da quarentena e a combinação da quarentena com outras
+medidas de saúde pública e de controle (fechamento de escolas, restrições de
+viagens e distanciamento físico) são importantes para controlar a pandemia e
+evitar a sua disseminação (49).
+Em relação ao afastamento e retorno às atividades de profissionais de
+saúde, o Protocolo de Manejo Clínico do Coronavírus (COVID-19) na Atenção
+Primária (Versão 7), prevê as seguintes situações:
+a) Profissionais contactantes domiciliares assintomáticos de pacientes
+suspeitos ou confirmados de Síndrome Gripal.
+ Contactante domiciliar, seguir as seguintes recomendações:
+o caso do domicílio realizou teste (RT-PCR ou sorológico) e o
+teste foi positivo: o profissional de saúde mantém 14 dias de
+afastamento, a contar do início dos sintomas do caso (15).
+o caso do domicílio realizou teste (RT-PCR ou sorológico) e o
+teste foi negativo: retorno imediato ao trabalho, desde que
+assintomático.
+o caso do domicílio não realizou teste (RT-PCR ou sorológico):
+Afastamento do profissional por 7 dias, a contar do início dos
+sintomas do caso. Retorna ao trabalho após 7 dias, se
+permanecer assintomático (15).
+ Contactante não domiciliar: sem recomendação de afastamento.
+20
+b) Profissional de saúde com suspeita de Síndrome Gripal (febre
+acompanhada de tosse ou dor de garganta ou dificuldade respiratória).
+Deve afastar-se do trabalho imediatamente (15).O retorno ao trabalho deve
+atender a uma das condições a seguir:
+ Teste disponível (RT-PCR ou sorológico): retorna ao trabalho se o
+teste for negativo.
+ Teste indisponível (RT-PCR ou sorológico): retorna ao trabalho se
+estiver com um mínimo de 72 horas assintomático E mínimo de 7
+dias após o início dos sintomas.
+Para maiores detalhes ver a Tabela 13, do Protocolo de Manejo Clínico do
+Coronavírus (COVID-19) na Atenção Primária (Versão 7) (15).
+c) Afastamento de profissional de saúde em grupo de risco.
+Recomenda-se afastamento laboral para as consideradas condições de
+risco:
+ Idade igual ou superior a 60 anos;
+ Cardiopatias graves ou descompensados (insuficiência cardíaca,
+cardiopatia isquêmica);
+ Pneumopatias graves ou descompensados (asma moderada/ grave,
+DPOC);
+ Imunodepressão;
+ Doenças renais crônicas em estágio avançado (graus 3, 4 e 5);
+ Diabetes mellitus, conforme juízo clínico;
+ Doenças cromossômicas com estado de fragilidade imunológica;
+ Gestação de alto risco (15).
+Em caso de impossibilidade de afastamento desses profissionais, estes
+não deverão realizar atividades de assistência a pacientes suspeitos ou
+confirmados de Síndrome Gripal. Preferencialmente deverão ser mantidos em
+atividades de gestão, suporte, assistência nas áreas onde NÃO são atendidos
+pacientes suspeitos ou confirmados de Síndrome Gripal (15).
+4.4. Vacina
+Atualmente não há vacina disponível. As vacinas estão em
+desenvolvimento, mas podem ser necessários de 12 a 18 meses para que
+estejam disponíveis.
+Embora não haja vacina específica para SARS-CoV-2, até o momento,
+recomenda-se que a população mantenha o calendário vacinal em dia, em
+especial a vacina da influenza para os respectivos grupos de risco contra
+21
+influenza, de forma a evitar infecções que poderiam ser confundidas com a
+COVID-19 ou mesmo que poderiam debilitar o organismo e agravar uma
+possível infecção por esse agente causador da doença.
+4.5. Desinfecção de superfícies
+Existem evidências de que o vírus permanece ativo em alguns tipos de
+superfícies por longos períodos de tempo (50,51), favorecendo a contaminação
+de pacientes e profissionais envolvidos no cuidado (51). Um estudo sugere que
+vírus como o SARS-CoV-2, o SARS-CoV e o MERS-CoV podem permanecer por
+até nove dias em superfícies (52).
+Os desinfetantes com potencial para desinfecção de superfícies incluem
+aqueles à base de cloro, álcoois, alguns fenóis e alguns iodóforos e o
+quaternário de amônio. Sabe-se que os vírus são inativados pelo álcool 70% e
+pelo cloro. Assim na desinfecção de superfícies, pode-se utilizar preparações à
+base de etanol (entre 62-71%), 0,5% de peróxido de hidrogênio (água
+oxigenada) ou 0,1% de hipoclorito de sódio (equivalente a uma colher de sopa
+de água sanitária/L de água). Outros agentes biocidas, como cloreto de
+benzalcônio a 0,05-0,2% ou digluconato de clorexidina a 0,02%, são menos
+eficazes (52).
+A limpeza das superfícies do isolamento deve ser feita com detergente
+neutro, seguida da desinfecção com uma dessas soluções desinfetantes ou
+outro desinfetante padronizado pelo serviço de saúde, desde que seja
+regularizado junto à ANVISA (53).
+Deve-se atentar para a compatibilidade dos agentes de limpeza com o
+material dos equipamentos para evitar danos ou mal funcionamento (54).
+Em áreas em que o contato das superfícies com as mãos é maior,
+recomenda-se que seja feita limpeza seguida de desinfecção frequentemente
+(55). No caso de quartos e alas de pacientes com COVID-19, sempre que
+possível, o conjunto de materiais utilizados para limpeza e desinfecção deve ser
+exclusivo. Preferencialmente, o pano de limpeza deve ser descartável (55).
+4.6. Outros cuidados
+Equipamentos utilizados no cuidado de pacientes com COVID-19 (como
+termômetros, estetoscópios e manguitos de esfigmomanômetros) devem ser,
+preferencialmente, de uso único. Caso seja necessário usar o mesmo material
+para diferentes pacientes, recomenda-se proceder rigorosamente à limpeza e à
+desinfecção com álcool 70%, desde que os equipamentos não sejam de tecido
+(53,54,56).
+Deve-se evitar o transporte desses pacientes para outras alas
+hospitalares. Em caso de necessidade, deve-se utilizar rotas pré-estabelecidas
+para evitar o contato com pessoas não infectadas (56). O paciente também
+22
+deverá utilizar máscara cirúrgica durante o período que permanecer fora de seu
+quarto (56,57).
+Durante o recolhimento dos resíduos, recomenda-se que o profissional
+responsável utilize os EPIs adequados, como aventais não permeáveis, luvas,
+óculos de proteção e máscaras (54).
+23
+5 TRANSMISSIBILIDADE
+De acordo com a rede global de especialistas da OMS respaldada por
+estudos de epidemiologia e virologia publicados recentemente, o SARS-COV-2 é
+transmitido principalmente por gotículas respiratórias de pessoas sintomáticas
+para outras pessoas que estão em contato próximo, pelo contato direto com a
+pessoa infectada ou por contato com objetos e superfícies contaminados (9,58–
+63).
+Dados de estudos clínicos que coletaram repetidas amostras biológicas
+de pacientes confirmados fornecem evidências de que o vírus da COVID-19 se
+concentra mais no trato respiratório superior (nariz e garganta) e durante o
+início da doença, ou seja, nos primeiros três dias a partir do início dos sintomas.
+Dados preliminares sugerem que as pessoas podem ser mais contagiosas
+durante o início dos sintomas comparadas a fase tardia da doença (64–67).
+Alguns estudos relatam sobre a transmissão pré-sintomática, investigada
+pelo rastreamento e investigação entre casos confirmados, sugerindo que
+algumas pessoas podem testar positivo para COVID-19 de 1 a 3 dias antes do
+aparecimento dos sintomas. Desta forma, é possível que pessoas infectadas
+com a COVID-19 possam transmitir o vírus antes que sintomas significativos se
+desenvolvam. É importante ressaltar que a transmissão pré-sintomática ainda
+ocorre pela disseminação do vírus por gotículas infecciosas ou por contato com
+superfícies contaminadas (68–73).
+Em geral o período de incubação da COVID-19, que é o tempo entre a
+exposição ao vírus ou infecção e o início dos sintomas, é em média de 5 a 6
+dias, no entanto, pode chegar até 14 dias (74).
+Existem alguns relatos de casos confirmados em laboratório que são
+verdadeiramente assintomáticos e, até o momento, não houve transmissão
+assintomática documentada, o que não exclui a possibilidade de que possa
+ocorrer. Casos assintomáticos foram relatados como parte dos esforços de
+rastreamento de contatos em alguns países (74).
+24
+6 DIAGNÓSTICO DA COVID-19
+O reconhecimento precoce e o diagnóstico rápido são essenciais para
+impedir a transmissão e fornecer cuidados de suporte em tempo hábil. O
+quadro clínico inicial da doença é caracterizado como Síndrome Gripal, na qual
+o paciente pode apresentar febre e/ou sintomas respiratórios. O diagnóstico
+sindrômico depende da investigação clínico-epidemiológica e do exame física
+(15). A avaliação deve ser realizada de acordo com os índices de gravidade da
+pneumonia e as diretrizes de sepse (se houver suspeita de sepse) em todos os
+pacientes com doença crítica.
+Há informações limitadas disponíveis para caracterizar o espectro da
+doença clínica. Muitas das informações são baseadas em evidências precoces,
+na análise de séries de casos e relatórios e em dados de infecções anteriores
+por coronavírus, como a Síndrome Respiratória Aguda Grave (SRAG) e
+Síndrome Respiratória do Oriente Médio (MERS).
+6.1 História
+Recomenda-se uma investigação detalhada do histórico do paciente para
+determinar o nível de risco da COVID-19 e avaliar a possibilidade de outras
+causas. A investigação clínico-epidemiológica é crucial para o diagnóstico
+oportuno e para impedir a transmissão.
+Deve-se suspeitar do diagnóstico em pacientes com febre e/ou
+sinais/sintomas de doença respiratória baixa (por exemplo, tosse, dispneia) que
+residam ou que tenham estado em território com transmissão sustentada
+(comunitária) de COVID-19.
+Conforme recomendações do Ministério da Saúde, as definições de caso
+(suspeito, confirmado e curado) são apresentadas abaixo (75):
+CASOS SUSPEITOS
+DEFINIÇÃO 1 - SÍNDROME GRIPAL (SG): indivíduo com quadro
+respiratório agudo, caracterizado por sensação febril ou febre1, mesmo que
+relatada, acompanhada de tosse OU dor de garganta OU coriza OU dificuldade
+respiratória.
+1. EM CRIANÇAS: considera-se também obstrução nasal, na ausência de
+outro diagnóstico específico.
+2. EM IDOSOS: a febre pode estar ausente. Deve-se considerar também
+critérios específicos de agravamento como sincope, confusão mental,
+sonolência excessiva, irritabilidade e inapetência.
+1Na suspeita de COVID-19, a febre pode não estar presente.
+25
+DEFINIÇÃO 2 - SÍNDROME RESPIRATÓRIA AGUDA GRAVE
+(SRAG): Síndrome Gripal que apresente: dispneia/desconforto
+respiratório OU Pressão persistente no tórax OU saturação de O2 menor que
+95% em ar ambiente OU coloração azulada dos lábios ou rosto.
+1. EM CRIANÇAS: além dos itens anteriores, observar os batimentos de asa
+de nariz, cianose, tiragem intercostal, desidratação e inapetência.
+CASOS CONFIRMADOS
+POR CRITÉRIO LABORATORIAL: caso suspeito de SG ou SRAG com
+teste de:
+ Biologia molecular (RT-PCR em tempo real, detecção do vírus
+SARS-CoV2, Influenza ou VSR):
+o Doença pelo Coronavírus 2019: com resultado detectável
+para SARS-CoV2.
+o Influenza: com resultado detectável para Influenza.
+o Vírus Sincicial Respiratório: com resultado detectável para
+VSR.
+ Imunológico (teste rápido ou sorologia clássica para detecção de
+anticorpos):
+o Doença pelo Coronavírus 2019: com resultado positivo para
+anticorpos IgM e/ou IgG. Em amostra coletada após o
+sétimo dia de início dos sintomas.
+POR CRITÉRIO CLÍNICO-EPIDEMIOLÓGICO: caso suspeito de SG ou
+SRAG com:
+Histórico de contato próximo ou domiciliar, nos últimos 7 dias antes do
+aparecimento dos sintomas, com caso confirmado laboratorialmente para
+COVID-19 e para o qual não foi possível realizar a investigação laboratorial
+específica.
+CASO DESCARTADO DE DOENÇA PELO CORONAVÍRUS 2019 (COVID-
+2019)
+Caso suspeito de SG ou SRAG com resultado laboratorial negativo para
+CORONAVÍRUS (SARS-COV-2 não detectável pelo método de RT-PCR em tempo
+real), considerando a oportunidade da coleta OU confirmação laboratorial para
+outro agente etiológico.
+26
+6.2 Apresentação clínica
+A apresentação clínica se assemelha a sintomas leves de pneumonia viral
+e a gravidade da doença varia de leve a grave. Aproximadamente 80% dos
+pacientes apresentam doença leve, 14% apresentam doença grave e 5%
+apresentam doença crítica. Relatórios iniciais sugerem que a gravidade da
+doença está associada à idade avançada e à presença de condições de saúde
+subjacentes.
+Alguns pacientes podem ser minimamente sintomáticos ou
+assintomáticos. A triagem em larga escala em áreas não endêmicas pode captar
+mais desses tipos de pacientes. Foi relatado um curso clínico mais moderado
+em casos identificados fora da China, com a maioria dos pacientes sendo
+adultos saudáveis. Com base em uma análise precoce de séries de casos, os
+sintomas mais comuns e menos comuns são (10,76,77):
+Quadro 2. Sintomas dos pacientes diagnosticados com
+COVID-19.
+Sintomas mais comuns Sintomas menos comuns
+• Febre (>=37,8ºC) • Anorexia
+• Tosse • Produção de escarro
+• Dispneia • Dor de garganta
+• Mialgia • Confusão
+• Fadiga • Tonturas
+• Dor de cabeça
+• Dor no peito
+• Hemoptise
+• Diarreia
+• Náusea/vômito
+• Dor abdominal
+• Congestão conjuntival
+• Anosmia súbita ou hiposmia
+Aproximadamente 90% dos pacientes apresentam mais de um sintoma,
+sendo que 15% dos pacientes apresentam febre, tosse e dispneia (77). Alguns
+pacientes podem apresentar náusea ou diarreia 1 a 2 dias antes do início da
+febre e dificuldades respiratórias.
+6.3 Crianças
+A maioria das crianças apresenta sintomas leves, sem febre ou
+pneumonia. No entanto, podem manifestar sinais de pneumonia na imagem do
+tórax, apesar de apresentarem sintomas mínimos ou inexistentes (78,79).
+27
+6.4 Grávidas
+Revisões retrospectivas de grávidas com COVID-19 descobriram que as
+características clínicas em mulheres grávidas eram semelhantes às relatadas
+para adultas não grávidas (80–82).
+6.5 Exame Físico
+Os pacientes podem apresentar febre (com ou sem calafrio), tosse e/ou
+dificuldade para respirar. A auscultação pulmonar pode revelar estertores
+inspiratórios ou expiratórios, respiração brônquica ou dificuldade respiratória na
+presença de pneumonia. Pacientes com dificuldade respiratória podem
+apresentar taquicardia, taquipneia ou cianose acompanhada de hipóxia (19,83–
+85).
+Dessa forma, recomenda-se que o exame físico seja composto de:
+ Avaliação do padrão respiratório: tosse e/ou dispneia;
+ Aferição de temperatura axilar, frequência cardíaca, frequência
+respiratória e oximetria de pulso;
+ Ausculta pulmonar: presença de estertores inspiratórios ou
+expiratórios; respiração brônquica ou dificuldade respiratória em
+pacientes com pneumonia; e
+ Avaliação de sinais de cianose e hipóxia.
+6.6 Abordagem clínica inicial
+Recomenda-se realizar as seguintes investigações iniciais em todos os
+pacientes com doença grave2 (19,83–85) (Figura 1):
+• Oximetria de pulso;
+• Gasometria arterial (avaliar presença de hipercarbia ou acidose);
+• TC de tórax;
+• Teste rápido para a influenza;
+• RT-PCR – SARS-CoV-2;
+• Glicemia;
+• Ureia;
+• Bilirrubina total e frações;
+• D-dímero;
+• Hemograma completo;
+• Coagulograma (TAP e TTPa);
+2
+São definidos como casos graves aqueles que apresentam febre alta, pneumonia ou dificuldade de
+respirar. Fonte: https://www.paho.org/bra/index.php?option=com_content&view=article&id=6101:
+covid19&Itemid=875
+28
+• Marcadores inflamatórios (procalcitonina sérica e/ou proteína C-
+reativa, dependendo da disponibilidade);
+• Troponina sérica; e
+• Lactato desidrogenase sérica.
+As anormalidades laboratoriais mais comuns em pacientes com doença
+grave são: leucopenia, linfopenia, leucocitose e transaminases hepáticas
+elevadas. Outras anormalidades incluem neutrofilia, trombocitopenia e elevação
+de creatinina sérica.
+6.7 Testes diagnósticos
+Atualmente, o diagnóstico laboratorial para COVID-19 inclui as técnicas
+de: testes moleculares de amplificação de ácido nucleico de SARS-CoV-2 por
+PCR em tempo real (RT-PCR); testes imunológicos (teste rápido ou sorologia
+clássica para detecção de anticorpos); e confirmação por sequenciamento
+parcial ou total do genoma viral, quando necessário (18).
+O teste recomendado para o diagnóstico laboratorial de COVID-19 é o
+teste RT-PCR (Real time - Polymerase Chain Reaction), que amplifica
+sequências de RNA do vírus, possibilitando sua identificação (86). Entretanto,
+deve-se observar que a sensibilidade do PCR é reduzida, quando são utilizadas
+amostras com baixa carga viral, e que esse teste possui algumas desvantagens,
+tais como o tempo necessário entre a coleta e a disponibilização do resultado, a
+necessidade de estrutura física especializada e de equipe técnica qualificada
+(87).
+A acurácia diagnóstica do PCR para o diagnóstico laboratorial de COVID-
+19 parece ser influenciada pelo tipo de amostra coletada para a realização do
+teste e do tempo de evolução do quadro (88,89). A amostra clínica preferencial
+para investigação laboratorial é a secreção da nasofaringe (SNF). Considerando
+a sazonalidade dos vírus respiratórios, esta coleta deve ser realizada até o 7º
+dia após o aparecimento dos primeiros sinais ou sintomas (18). Deve-se
+ressaltar que as técnicas empregadas na realização dos testes de RT-PCR
+também podem influenciar na acurácia diagnóstica do teste (90).
+Os testes sorológicos com identificação de anticorpos IgM e IgG ao
+SARS-CoV-2, aplicados como testes rápidos ou processados em laboratório, não
+são recomendados para a confirmação diagnóstica de pacientes com sintomas
+de início recente, mas apenas para finalidade de vigilância por meio de estudos
+de inquéritos populacionais e também como auxílio diagnóstico(18). Embora
+esses testes apresentem boa acurácia diagnóstica em pacientes com tempo de
+evolução do quadro superior a oito dias, o tempo de janela imunológica reduz a
+sensibilidade do teste, quando aplicado em fases mais precoces (91,92). O
+papel dos testes rápidos no rastreio de pessoas assintomáticas ou na
+29
+identificação de pessoas com anticorpos IgM com o intuito de presumir
+imunidade adquirida permanece incerto (93,94).
+Deve-se observar que o número de testes rápidos com aprovação pela
+ANVISA vem aumentando rapidamente. A aprovação de novos testes para
+diagnóstico da COVID-19 segue a Resolução RDC nº 348, de março de 2020,
+que define critérios e procedimentos extraordinários e temporários, em virtude
+da emergência de saúde pública. Os testes rápidos estão divididos em duas
+categorias: i) testes para detecção de anticorpos de SARS-CoV-2 em amostras
+de sangue total, soro e plasma; e ii) testes de swab de nasofaringe e/ou
+orofaringe para detecção do antígeno viral por técnicas de imunofluorescência.
+Os registros dos testes apresentam resultados de acurácia diagnóstica,
+realizados pelos próprios fabricantes. Os valores altos de acurácia devem ser
+interpretados com cautela, já que não foram apresentadas as características
+clínicas dos pacientes testados, em termos de tempo de evolução dos sintomas
+e em relação à gravidade da doença. O papel dos testes rápidos com detecção
+de antígenos virais permanece incerto, devido à ausência de estudos avaliando
+a sua acurácia, e às variações do seu desempenho em função do tempo de
+evolução do quadro.
+Considerando as limitações acima, a exclusão do diagnóstico de COVID-
+19 não deve ser feita apenas por avaliação isolada de resultados dos exames
+laboratoriais, pois no caso de um estágio inicial da infecção, falsos negativos
+são esperados, em razão da ausência ou de baixos níveis dos anticorpos e dos
+antígenos de SARS-CoV-2 na amostra. Essa possibilidade justifica a testagem
+sequencial em pacientes com quadro clínico compatível (95).
+6.8 Culturas de sangue e escarro
+Recomenda-se coletar amostras de sangue e escarro para cultura em
+todos os pacientes para descartar outras causas de infecção do trato
+respiratório inferior, especialmente em pacientes com histórico epidemiológico
+atípico. Estudo recente, desenvolvido na China, indicou que amostras de
+escarro geralmente apresentaram cargas virais mais altas do que aquelas
+obtidas por swab de garganta (96). Esta informação ainda precisa ser
+confirmada em outros estudos mais robustos, mas indica possíveis alterações
+em futuras recomendações sobre as coletas de amostra (96). As amostras
+devem ser coletadas antes do início dos antimicrobianos empíricos, se possível
+(19,83–85).
+6.9 Exames de imagem
+Todos os exames de imagem devem ser realizados de acordo com os
+procedimentos locais de prevenção e controle de infecções para impedir a
+transmissão (19,83–85).
+30
+6.9.1. Raio-X do tórax
+Recomenda-se solicitar radiografia de tórax em todos os pacientes com
+suspeita de pneumonia. Infiltrados pulmonares unilaterais são encontrados em
+25% dos pacientes e infiltrados pulmonares bilaterais em 75% dos pacientes
+(19,97).
+6.9.2. Tomografia computadorizada (TC) do tórax
+• Recomenda-se solicitar uma tomografia computadorizada do tórax em
+todos aqueles pacientes com acometimento do trato respiratório inferior
+(Figura 1). Achados anormais de tomografia computadorizada do tórax
+foram relatados em até 97% dos pacientes (19,83–85).
+• A tomografia computadorizada geralmente mostra múltiplas áreas
+lobulares e subsegmentares bilaterais de opacidade ou consolidação em
+vidro fosco na maioria dos pacientes (83–85).
+• Pequenas opacidades nodulares em vidro fosco são o achado mais
+comum em crianças. A consolidação com sinais de halo circundantes é
+um achado típico em crianças (19,83–85).
+• A evidência de pneumonia viral na TC pode preceder um resultado
+positivo de RT-PCR para SARS-CoV-2 em alguns pacientes. No entanto,
+anormalidades na imagem da TC podem estar presentes em pacientes
+assintomáticos. Alguns pacientes podem apresentar um achado normal
+em TC de tórax, apesar de um RT-PCR positivo (83–85).
+31
+7 TRATAMENTO
+7.1 Triagem e identificação de fatores de risco
+Inicialmente, é imprescindível elencar as características clínicas dos
+pacientes que procuram os serviços de saúde. Conforme os parâmetros
+estabelecidos na seção “diagnóstico”, os casos suspeitos e confirmados
+precisam ser avaliados e tratados conforme o quadro clínico; os que necessitam
+de internação devem ser direcionados para hospitais designados com condições
+efetivas de isolamento e proteção. É necessário estabelecer grupos de
+gravidade, com critérios que permitam direcionar adequadamente o paciente,
+otimizando a utilização de leitos e evitando a superlotação hospitalar e o
+aumento da propagação da infecção. A decisão de admissão e alta na UTI deve
+ser discutida diariamente em colaboração com médicos infectologistas. Nos
+casos de suspeita de COVID-19, o paciente deve ser colocado em um quarto
+isolado e todos os princípios de prevenção e controle de infecção devem ser
+tomados, tal como nos casos confirmados (39,98).
+Algumas séries de caso mostraram que a presença de fatores e
+comorbidades como diabetes mellitus, hipertensão arterial e doença
+coronariana estão relacionados ao maior risco de morte por COVID-19
+(99,100). Além disso, idade avançada, linfopenia, leucocitose e elevados níveis
+séricos de ALT, lactato desidrogenase, troponina I cardíaca de alta
+sensibilidade, creatina quinase, dímero d, ferritina sérica, IL-6, creatinina,
+procalcitonina e tempo de protrombina também foram preditores para morte.
+Em uma análise por regressão múltipla, a idade avançada, o aumento de D-
+dímero e o aumento no score Sequential Organ Failure Assessment (SOFA),
+foram preditores independentes de morte (99). Adicionalmente, um estudo
+mostra que aqueles pacientes que progrediram de síndrome de angústia
+respiratória aguda (SRAG) para morte eram mais idosos, minoritariamente
+apresentavam febre alta (≥39) e elevação de bilirrubina, ureia, proteína C
+reativa e D-dímero (100).
+Sendo assim, recomenda-se uma estratificação de risco que norteie a
+conduta clínica, direcionando o paciente conforme a sua situação clínica e
+otimizando a logística hospitalar (APÊNDICE 3).
+Sugere-se a estratificação de fatores de risco para complicações clínicas
+(101–103) e as condutas e direcionamento de leito/alta, conforme a Figura 1 a
+seguir.
+Figura 1: Fluxograma para atendimento de paciente com
+sintomas respiratórios (Adaptado de Hospital Alemão Oswaldo
+Cruz).
+32
+No atendimento inicial, os pacientes devem ser estratificados de acordo
+com sintomas respiratórios relacionados ao trato respiratório superior ou
+inferior e fatores de risco para a COVID-19. Estratificar todo paciente no
+primeiro atendimento de acordo com:
+33
+1) Sintomas Respiratórios
+a) Trato respiratório superior.
+i) Tosse, coriza, dor de
+garganta ou febre.
+ii) Ausência dos critérios
+atribuídos ao trato
+respiratório.
+b) Trato respiratório inferior.
+i) SatO2< 92% e/ou FR >22.
+2) Fatores de risco para
+complicações clínicas
+i) Idade ≥ 65 anos.
+ii) Presença de comorbidades
+(hipertensão, diabetes, doença
+pulmonar prévia, doença
+cardiovascular, doença
+cerebrovascular,
+imunossupressão, câncer).
+iii) Uso de corticoide ou
+imunossupressores.
+A) Baixo risco: ausência dos
+fatores acima.
+B) Alto risco: presença de um ou
+mais dos fatores de risco acima.
+Em relação à internação hospitalar ou em UTI, o quadro 3 apresenta os
+critérios, utilizando-se inclusive do score qSOFA, em que se avalia e pontua os
+seguintes sinais:
+Quadro 3 - Critérios de internação UTI versus Unidade de
+internação (Elaboração: Hospital Alemão Oswaldo Cruz).
+Critérios de internação em UTI Critérios de internação em unidade
+de internação
+• qSOFA 2 • qSOFA= 1
+• qSOFA= 1 e sO2  92% • Saturação< 92% em ar ambiente
+• Insuficiência respiratória aguda com
+necessidade de ventilação mecânica
+invasiva
+• Paciente com acometimento
+pulmonar extenso no exame de
+imagem
+• Necessidade de oxigênio suplementar
+acima de 2L/min para saturação acima
+de 92%
+• Hipotensão arterial (PAM< 65 mmhg
+ou PAS< 90 mmhg)
+• Frequência respiratória acima de 30
+ipm persistente
+• Rebaixamento do nível de consciência.
+Necessário a presença de apenas um dos critérios relatados para a internação em UTI
+Critérios avaliados para calcular qSOFA:
+Frequência respiratória> 22 irpm = 1 ponto
+Pressão arterial sistólica< 100 mmHg = 1 ponto
+Alteração do nível de consciência =1 ponto
+34
+7.2 Internação, oxigenoterapia e técnicas de ventilação3
+Para aqueles pacientes admitidos em unidade de internação ou Unidade
+de Terapia Intensiva (UTI), são apresentadas as seguintes sugestões (39):
+ O paciente deve estar acamado, sendo monitorado quanto a sinais vitais
+(frequência cardíaca, saturação de oxigênio no pulso, frequência
+respiratória, pressão arterial) e recebendo tratamento de suporte.
+ O paciente deve ser monitorado por exames laboratoriais, tais como
+hemograma, PCR, procalcitonina, função orgânica (enzima hepática,
+bilirrubina, enzima do miocárdio, creatinina, nitrogênio, ureia, volume da
+urina etc.), provas de coagulação e imagem torácica.
+ Nos casos indicados, o paciente deve receber oxigenoterapia eficaz,
+incluindo cateter nasal, oxigênio com máscara, oxigenoterapia nasal de
+alto fluxo (HFNO) ou ventilação mecânica invasiva.
+ A oxigenação por membrana extracorpórea (ECMO) pode ser
+considerada nos pacientes com hipoxemia refratária difícil de ser
+corrigida pela ventilação pulmonar.
+Para os pacientes com leve desconforto respiratório, é recomendado o
+uso de cateter nasal de oxigênio com 2 L/min. A opção de oxigenoterapia para
+pacientes com infecções respiratórias graves, dificuldade respiratória, hipoxemia
+ou choque é recomendada com uma taxa de fluxo inicial de 5 L/min e a taxa de
+fluxo de titulação deve atingir a saturação de oxigênio alvo (adultos: SpO2 ≥
+90% em pacientes não grávidas, SpO2 ≥ 92-95% em pacientes grávidas;
+crianças: SpO2 ≥ 94% na presença de dispneia obstrutiva, apneia, dificuldade
+respiratória grave, cianose central, choque, coma ou convulsões e ≥ 90% em
+outras crianças) (39). Todo neonato sintomático ou com confirmação
+laboratorial deve ser direcionado para UTI neonatal (104,105) (APÊNDICE 3).
+Sobre o uso da ECMO, até o momento não existem evidências claras de
+seu benefício em pacientes com COVID-19. As diretrizes provisórias da OMS
+recomendam oferecer ECMO a pacientes elegíveis com síndrome do
+desconforto respiratório agudo (SRAG) relacionada à doença por coronavírus
+2019 (COVID-19), em casos de hipoxemia refratária, apenas em centros
+especializados que contem com uma equipe capacitada para a utilização do
+equipamento (15,16). A Organização de Suporte Extracorpóreo à Vida (ELSO -
+The Extracorporeal Life Support Organization) orienta que o uso de ECMO em
+pacientes com COVID-19 irá depender do caso e deve ser reavaliado
+regularmente com base no estado clínico do paciente, na capacitação da equipe
+e em outros recursos. A Associação Americana para o Cuidado Respiratório
+3
+Conforme Nota Técnica N.4 de 31 de março de 2020, está contraindicada a ventilação não
+invasiva, devido ao alto risco de formação de aerossóis e contaminação. Nota Técnica
+GVIMS/GGTES/ANVISA No 04/2020.
+35
+(AARC- American Association for Respiratory Care) também recomenda o uso
+de ECMO apenas em adultos ventilados mecanicamente e com hipoxemia
+refratária em pacientes cuidadosamente selecionados com COVID-19 e SRAG
+grave. As evidências disponíveis para populações semelhantes de pacientes
+sugerem que pacientes cuidadosamente selecionados com SRAG grave que não
+se beneficiam do tratamento convencional podem ser bem-sucedidos com a
+ECMO veno-venosa (APÊNDICE 4).
+7.2.1. Critérios para intubação
+O momento de intubação - levando-se em consideração as
+consequências desta - ainda é uma decisão que carece de evidências de alta
+qualidade para orientação em pacientes diagnosticados com COVID-19.
+Recomenda-se que a intubação endotraqueal deve ser realizada (39,106–108):
+i) no caso de pacientes graves, sem alívio dos sintomas (desconforto
+respiratório persistente e/ou hipoxemia) após oxigenoterapia
+padrão;
+ii) ii) quando os sintomas (dificuldade respiratória, frequência
+respiratória>30/min, índice de oxigenação PaO2/FiO2<150 mmHg)
+persistem ou exacerbam após oxigenação nasal de alto fluxo
+(HFNO) por 2 horas.
+Adicionalmente, sugere-se considerar a intubação em pacientes cujos
+sintomas persistem ou exacerbam a dificuldade respiratória após oxigenação
+nasal de alto fluxo (HFNO) por 2 horas. A decisão de intubação deve ser
+oportuna, considerando a avaliação pelo médico assistente (39,106–108)
+(APÊNDICE 5).
+O suporte respiratório deve ser oferecido a pacientes com insuficiência
+respiratória hipoxêmica e SRAG. A HFNO pode ser selecionada quando a cânula
+nasal ou a oxigenoterapia com máscara forem ineficazes (39).
+7.2.2. Cuidados na utilização de instrumentos de auxílio respiratório
+A intubação de pacientes críticos com o vírus SARS-CoV-2 foi associada a
+episódios de transmissão do vírus aos profissionais de saúde. Assim, as equipes
+de cuidados intensivos e anestesiologia devem estar preparadas para a chegada
+de pacientes infectados com SARS-CoV-2 e devem apresentar estratégias para
+diminuir o risco de infecção cruzada para os profissionais da saúde (106,109).
+Nesse sentido, são feitas algumas recomendações acerca do uso de
+instrumentos de auxílio respiratório:
+ Oxigênio suplementar: cabe fornecer a pacientes com doença
+respiratória leve. Considerar como possível fonte geradora de aerossóis a
+36
+oferta de oxigênio suplementar. O isolamento respiratório apropriado
+pode minimizar essa preocupação (110,111).
+ Cânulas nasais de alto fluxo (HFNC): devem ser limitadas a
+pacientes em isolamento respiratório apropriado porque podem causar
+um aumento no risco de propagação viral através da geração de
+aerossóis (110).
+ Nebulização de medicamentos: deve ser evitada, principalmente fora
+do isolamento respiratório, devido ao risco de aerossolização e
+propagação viral.
+ Broncodilatadores: devem ser administrados com inaladores de dose
+calibrada (110).
+ Intubação (110):
+1) Todos os profissionais da sala devem estar usando EPI adequado
+(máscaras N95/PFF2, luvas, proteção ocular e avental impermeável
+ou capote) (3,56,20).
+2) O procedimento deve usar uma técnica de intubação de sequência
+rápida para otimizar o sucesso da primeira tentativa.
+3) Todo o equipamento e medicamentos necessários devem estar
+disponíveis na sala no momento da tentativa de intubação.
+4) O número de pessoas na sala no momento da intubação deve ser
+minimizado apenas para membros essenciais da equipe.
+5) A videolaringoscopia deve ser usada, quando disponível, idealmente
+com uma tela separada da lâmina, para evitar colocar a face do
+profissional que está realizando o procedimento perto do paciente.
+6) Se uma via aérea difícil for prevista, uma intubação broncoscópica
+flexível pode ser realizada usando um vídeo broncoscópio com a tela
+afastada do paciente, caso disponível.
+7) Uma vez feita a intubação, todo o gás expirado no ventilador deve
+ser filtrado.
+8) Os médicos devem considerar fortemente o pneumotórax em
+qualquer paciente ventilado com deterioração respiratória súbita.
+9) O uso de pinças retas fortes é importante para clampear o tubo
+quando houver necessidade de mudança de circuitos/ ventiladores,
+com o objetivo de minimizar a aerossolização. Pelo mesmo motivo,
+deve-se considerar a conexão direta ao ventilador de transporte, que
+deve utilizar o mesmo circuito dos ventiladores da unidade de terapia
+intensiva de referência.
+10) A preferência pelo uso de materiais de transporte é para sempre
+lembrar a necessidade do transporte rápido ao destino definitivo do
+caso, além de evitar a contaminação de outros materiais, deixando o
+setor pronto para receber outros pacientes.
+37
+11) Para confirmar a intubação orotraqueal é imprescindível a
+capnografia, principalmente no contexto de visualização difícil
+causada pelo uso do EPI, seguida de radiografia de tórax (sem
+ausculta).
+7.3 Tratamento Sintomático e medidas de suporte
+O tratamento sintomático compreende opções para o controle da febre,
+dor, tosse seca e náusea (112–114). Dessa forma, sugere-se a utilização de
+antipiréticos, analgésicos, antitussígenos/expectorantes e antieméticos, sempre
+que haja indicação clínica, respeitando o quadro do paciente e as
+contraindicações adjacentes.
+No caso específico da analgesia e controle da febre, recomenda-se,
+preferencialmente, dipirona ou paracetamol. A OMS, a partir do
+pronunciamento de autoridades sanitárias francesas e do estudo de Fang et al.
+(2020) (115), recomendou, inicialmente, que fosse evitado o uso de ibuprofeno
+em pacientes com COVID-19, com base no mecanismo de replicação do SARS-
+CoV-2. Posteriormente, no dia 19 de março de 2020, a OMS voltou atrás nessa
+recomendação (116). Sendo assim, amparada nas evidências e incertezas sobre
+a utilização de ibuprofeno, a recomendação é preferencial ao paracetamol e à
+dipirona. Pacientes que fazem uso continuado de ibuprofeno não devem
+interromper o tratamento sem que haja recomendação médica expressa
+(115,117) (APÊNDICE 6).
+Ademais, é importante garantir a adequada suplementação energética
+com estímulo à ingestão de dieta balanceada ou adaptada às necessidades do
+paciente. Nutrição enteral pode ser introduzida quando o paciente não puder
+ingerir alimentos na rotina oral (39).
+É importante que seja feito o manejo adequado do paciente, de forma a
+evitar úlceras por pressão. São indicados inibidores da bomba de próton (ex:
+omeprazol) naqueles pacientes com risco de sangramento gastrintestinal
+(ventilação mecânica ≥48h, disfunção da coagulação, terapia de substituição
+renal, doença hepática, e maior pontuação de falência de órgãos [SOFA score])
+(39).
+Para pacientes com dispneia, tosse, sibilo, SRAG e dificuldade
+respiratória devido ao aumento da secreção das vias respiratórias, sugere-se o
+uso de anticolinérgicos (ex. brometo de ipratrópio). Naqueles pacientes com
+disfunção de coagulação, para reduzir o risco de tromboembolismo, pode-se
+utilizar um anticoagulante, como a heparina (39).
+A indicação de terapias farmacológicas de suporte deve seguir as
+orientações em bula e respeitar as eventuais contraindicações presentes.
+38
+7.4 Tratamento farmacológico específico
+Até o momento, não existem evidências robustas de alta qualidade que
+possibilitem a indicação de uma terapia farmacológica específica para a COVID-
+19.
+Desde o final de 2019 vários estudos estão sendo realizados na busca de
+alternativas terapêuticas para o tratamento da COVID-19. Alguns estudos
+avaliaram antivirais (112,114,118–122), corticosteroides (76,100,123–129),
+antimaláricos (130,131) e até anti-hipertensivos (inibidores da enzima
+conversora de angiotensina [iECA] e bloqueadores do receptor de angiotensina
+[BRA]) (1,33,115,132,133) para o tratamento da pneumonia por COVID-19 ou
+seus efeitos na doença. No entanto, cabe ressaltar que a grande maioria das
+terapias não possui registro em bula para uso em COVID-19 (uso off-label).
+Adicionalmente, muitos dos estudos são baseados no mecanismo de
+funcionamento dos fármacos, sendo essencialmente teóricos. Exceto em caso
+particular (118), a evidência disponível até o momento é de muito baixa
+qualidade.
+No momento existem vários estudos em elaboração ou ainda sendo
+registrados, no intuito de identificar potenciais tratamentos da COVID-19. O
+constante acompanhamento dos resultados dos ensaios em curso e novas
+publicações são de extrema relevância para compor a literatura científica que
+poderá embasar, em breve, recomendações sobre o tratamento da COVID-19.
+No dia 23 de março de 2020, o diretor geral da OMS, Dr. Tedros
+Adhanom Ghebreyesus, anunciou a realização de um grande estudo clínico para
+testar medicamentos com atividade antiviral contra SARS-CoV-2 (134). Esse
+estudo já possui registro de protocolo (NCT04321616) e se propõe a avaliar os
+medicamentos remdesivir, lopinavir/ritonavir, cloroquina/hidroxicloroquina e
+interferon beta. No Brasil, a Fiocruz é uma parceira nessa iniciativa da OMS.
+Ademais, outros ensaios clínicos estão sendo alinhados no país, como o
+estudo Alliance (NCT04321278) e o estudo clínico de coalizão entre os hospitais
+de excelência, ambos objetivando avaliar a eficácia de alguns regimes
+terapêuticos.
+7.4.1. Antimaláricos (cloroquina e hidroxicloroquina)
+Até o dia 09 de abril de 2020, foram identificados três estudos clínicos,
+com resultados divergentes, sobre o uso de hidroxicloroquina (131,135,136).
+Os três estudos são pequenos e apresentam vieses importantes. O estudo de
+Gautret et al. (131) mostrou que a administração de 600 mg/dia de
+hidroxicloroquina levou à remissão viral de 70% dos pacientes (n= 22), no
+sexto dia de tratamento, enquanto o grupo controle obteve o percentual de
+12,5% (n= 20) (p= 0,001). Adicionalmente, no dia 6 após a inclusão, 100%
+dos seis pacientes tratados com combinação de hidroxicloroquina e azitromicina
+tiveram remissão viral (131). No entanto, o estudo de Chen et al. (136) não
+39
+encontrou diferença na taxa de negativação da carga viral após sete dias
+(86,7% versus 93,3%, p> 0,05), ao comparar o grupo que recebeu
+hidroxicloroquina 400mg/1x dia por 5 dias (n= 15) com o grupo controle
+(tratamento convencional, n= 15). Após 14 dias, todos os 30 pacientes
+apresentaram o exame negativo (136). Outro estudo randomizado (135), que
+também utilizou a hidroxicloroquina na dose de 400 mg/1x dia, mostrou que o
+grupo que recebeu a hidroxicloroquina apresentou maior proporção de melhora
+radiográfica e menores tem,pos para melhora da tosse e da febre. Este estudo
+é um preprint e não passou por avaliação por pares de nenhuma revista
+científica. (APÊNDICE 7).
+Considerando iniciativas de pesquisa com o uso da substância cloroquina
+(131,137,138) e a disponibilidade deste medicamento no âmbito do Sistema
+Único de Saúde (SUS), foi publicada a NOTA INFORMATIVA Nº 6/2020 -
+DAF/SCTIE/MS, de 1º de abril de 2020, orientando sobre a possibilidade de uso
+do medicamento, em casos confirmados e a critério médico, como terapia
+adjuvante no tratamento de formas graves, em pacientes hospitalizados, sem
+que outras medidas de suporte sejam preteridas.
+Ressalta-se que essa iniciativa corrobora com a inserção de instituições
+brasileiras nos estudos clínicos em curso, como, por exemplo, o Solidarity trial
+da OMS (134). No entanto, a sugestão de uso da cloroquina e
+respectivas doses pode ser modificada a qualquer momento, a
+depender de novas evidências científicas (16).
+As formas e posologia sugeridas para uso da cloroquina estão descritas
+no Quadro 4 a seguir, conforme Nota Informativa nº 6/2020 -
+DAF/SCTIE/MS(16).
+Quadro 4. Recomendação de uso da cloroquina -
+Indicações na terapia adjuvante nas formas graves.
+Situação clínica Recomendação Considerações
+Pacientes hospitalizados
+com formas graves da
+COVID-19*
+Casos críticos da COVID-
+19**
+cloroquina (***):
+3 comprimidos de 150 mg
+2x/dia no primeiro dia
+(900 mg de dose de
+ataque), seguidos de 3
+comprimidos de 150 mg
+1x/dia no segundo,
+terceiro, quarto e quinto
+dias (450 mg/dia).
+OU
+hidroxicloroquina:
+1 comprimido de 400 mg
+2x/dia no primeiro dia
+(800 mg de dose de
+ataque), seguido de 1
+Verifique o
+eletrocardiograma (ECG)
+antes do início da terapia,
+pois há risco de
+prolongamento do
+intervalo QT. O risco é
+maior em pacientes em
+uso de outros agentes que
+prolongam o intervalo QT.
+Manter monitoramento do
+ECG nos dias
+subsequentes.
+40
+Situação clínica Recomendação Considerações
+comprimido 400 mg 1x/dia
+no segundo, terceiro,
+quarto e quinto dias (400
+mg/dia).
+*Dispneia, frequência respiratória > 30/min, SpO2 ≤ 93%, PaO2/FiO2< 300 e/ou
+infiltração pulmonar > 50% dentro das 24 a 48 h.
+**Falência respiratória, choque séptico e/ou disfunção de múltiplos órgãos.
+***Para pacientes abaixo de 60 Kg, fazer ajuste de 7,5 mg/Kg peso.
+A escolha de antibioticoterapia, associada aos regimes descritos acima,
+ficará a critério da equipe médica do hospital, de acordo com as
+recomendações do Serviço de Controle de Infecção Hospitalar (SCIH) local.
+Por meio desta Nota Informativa, é recomendado (16):
+ Realizar ECG antes do início da droga e acompanhar durante toda a
+internação o intervalo QT, pois a cloroquina pode aumentar esse
+intervalo, especialmente se utilizada com outras drogas que prolongam o
+QT. A suspensão se dará por avaliação clínica individualizada.
+ Na presença de insuficiência renal ou insuficiência hepática graves,
+reduzir a dose de cloroquina para 50%.
+Estudos sobre o uso da cloroquina estão em curso e as
+evidências publicadas serão alvo de atualização nestas diretrizes.
+Ressalta-se que uma publicação recente apresentou que o uso da cloroquina
+reduziu o tempo para recuperação clínica e promoveu a remissão da pneumonia
+em pacientes com COVID-19 que participaram desse estudo (135). No entanto,
+cabe aqui enfatizar que existe um alto risco de viés atrelado aos resultados dos
+estudos publicados até o momento. Sendo assim, os resultados desses estudos
+devem ser interpretados com cautela.
+O Ministério da Saúde está monitorando os estudos de eficácia e
+segurança da cloroquina/hidroxicloroquina em pacientes com COVID-
+19 e, em qualquer momento, poderá modificar sua recomendação
+quanto ao uso destes fármacos, baseado na melhor evidência
+disponível.
+7.4.2. Antibioticoterapia
+Dentre as modalidades de terapia de suporte empregadas, os
+antibióticos estão presentes com certa frequência nos regimes terapêuticos
+testados em pacientes com COVID-19. Alguns exemplos são a azitromicina,
+41
+vancomicina, ceftriaxona, cefepima e levofloxacino (112–114,120,121,139–
+141).
+Deve-se evitar o uso inadequado de drogas antibacterianas,
+especialmente a combinação de drogas antibacterianas de amplo espectro. O
+aprimoramento da vigilância bacteriológica deve ser realizado e prontamente
+administrados os medicamentos antibacterianos apropriados quando ocorrer
+infecção bacteriana secundária (39).
+De acordo com as manifestações clínicas dos pacientes, se a infecção
+bacteriana associada não puder ser descartada, pacientes com quadros leves
+podem receber medicamentos antibacterianos contra pneumonia adquirida na
+comunidade, como amoxicilina, azitromicina ou fluoroquinolonas (39).
+Quanto ao uso da azitromicina, alguns estudos com resultados
+publicados até o momento avaliaram a sua associação
+comhidroxicloroquina/cloroquina. A associação desses medicamentos mostrou
+negativação de detecção viral (131,142), redução da mortalidade (142,143), e
+piora nos desfechos cardiovasculares (intervalo QTc prolongado, aumento no
+risco de angina e insuficiência cardíaca) (142–144). Uma análise restrospectiva
+com 130 mil pacientes com artrite reumatóide mostrou um risco de morte
+cardiovascular 119% maior em 30 dias (HR 2,19 [1,22-3,94] com associação de
+hidroxicloroquina + azitromicina versus hidroxicloroquina + amoxicilina (144).
+No entanto, trata-se de evidência fraca para a tomada de decisão (APÊNDICE
+7). O benefício documentado da hidroxicloroquina com ou sem azitromicina é
+bastante limitado. Deve-se ter cautela ao usar cloroquina ou hidroxicloroquina
+em associação com azitromicina, pois pode aumentar o risco de complicações
+cardi ́acas, provavelmente pelo efeito sinérgico de prolongar o intervalo QT.
+Apenas dois relatos de caso avaliaram a antibioticoterapia no paciente
+com COVID-19 sem evidência de infecção bacteriana (145,146). Dessa maneira,
+até o presente momento, não há dados clínicos suficientes que demonstrem
+benefícios ou riscos na utilização da antibioticoterapia no paciente com COVID-
+19 sem evidência de infecção bacteriana (APÊNDICE 8).
+7.4.3 Corticosteroides
+A utilização de corticosteroides ainda é controversa e não foram
+encontrados ensaios clínicos avaliando especificamente o uso em pacientes com
+COVID-19. Enquanto alguns estudos sugerem benefícios em subpopulações
+específicas (10,100,128,147), outros sugerem piora, aumento de carga viral e
+aumento do tempo de internaçãoe aumento do risco de infecção secundária
+(125). Estudos sugerem que pacientes em quadros mais graves de pneumonia
+por COVID-19, com SRAG ou choque utilizam corticosteroides em maior
+proporção que pacientes em quadros leves e moderados (10,76,100,147). m
+estudo observacional com cerca de 200 pacientes mostrou que em pacientes
+com SRAG e uso de corticosteroides, houve a redução do risco de morte
+42
+(HR=0,38, IC95%: (0,20 – 0,72), (p=0,003) em relação a quem não utilizou
+corticosteroides(100).
+A OMS e o Center for Disease Control and Prevention (CDC) dos EUA,
+recomendam que os corticosteroides não sejam utilizados no tratamento de
+SRAG por COVID-19, a menos que haja outra indicação em que seu uso é
+preconizado, como em episódios de exacerbação de asma e Doença Pulmonar
+Obstrutiva Crônica (DPOC) ou em casos de choque séptico (123,129)
+(APÊNDICE 9).
+7.4.4. Antivirais
+Estudos com resultados publicados até o momento avaliaram os
+antivirais lopinavir/ritonavir, remdesivir e umifenovir. Cabe ressaltar que o
+remdesivir ainda está em teste/uso compassivo e não possui registro na
+ANVISA. O umifenovir também não possui registro para uso no Brasil.
+A melhor evidência encontrada até o momento mostra que não houve
+superioridade do uso add-on da terapia combinada de lopinavir/ritonavir
+(800/200 mg/dia) para o tratamento de pacientes com pneumonia por COVID-
+19 (118). Ademais, um estudo observacional mostrou que a combinação de
+lopinavir/ritonavir é inferior à sua associação com umifenovir (119). No entanto,
+trata-se ainda de uma evidência fraca para subsidiar a tomada de decisão.
+Estudos de séries de casos pequenos mostraram resultados positivos
+para carga viral, não necessidade de ventilação invasiva e alta em pacientes
+que utilizaram lopinavir, lopinavir/ritonavir ou remdesivir (112–
+114,120,121,139–141). Vale ressaltar, contudo, que esses estudos não
+apresentavam comparadores, continham muitos vieses e, como a inserção do
+tratamento antiviral usualmente não foi precoce, a melhora pode estar
+associada ao curso clínico da doença e não à intervenção.
+Existem registros de ensaios clínicos com os seguintes antivirais:
+darunavircobicistate, lopinavir/ritonavir, umifenovir, favipravir, remdesivir,
+danoprevir/ritonavir, interferon, oseltamivir, ASC09F e ribavirina. No entanto,
+esses estudos ainda não possuem resultados (Ver seção MHT a seguir).
+Sendo assim, a não ser em um contexto de uso compassivo ou de
+pesquisa clínica devidamente registrada no país, o uso rotineiro de antivirais
+não é indicado para o manejo de pacientes com COVID-19 (APÊNDICE 10).
+7.4.5. Inibidores da Enzima Conversora de Angiotensina (iECA) e
+Bloqueadores do Receptor de Angiotensina (BRA)
+Estudos ressaltam o fato de o SARS-CoV-2 se ligar aos receptores da
+Enzima Conversora de Angiotensina (ECA2) e, com isso, aumentar a sua
+capacidade de disseminação e patogenecidade (1,115,133). Devido a esse
+mecanismo os pacientes com comorbidades cardiovasculares e/ou em uso de
+43
+medicamentos da classe iECA e BRA podem ter maior risco de agravamento
+com COVID-19.
+Por outro lado, dois estudos (132,148) sugerem que pacientes infectados
+por SARS-CoV-2 apresentam elevação da concentração de angiotensina II,
+aumentando a permeabilidade pulmonar e, consequentemente, a
+patogenicidade da COVID-19. Sendo assim, esses autores propõem que os
+iECAs e BRAs podem ser opções terapêuticas para SARS-CoV-2, pois levam à
+diminuição da concentração de angiotensina II e redução da permeabilidade
+pulmonar.
+Essa incerteza advinda das evidências insuficientes e conflitantes até o
+momento gerou alarde quanto à manutenção desses tratamentos em pacientes
+de risco para COVID-19, como hipertensos, cardiopatas e diabéticos.
+As sociedades americana, europeia e brasileira de cardiologia (149–151)
+— esta última endossada pelo Ministério da Saúde (152) — publicaram cartas
+de esclarecimento, nas quais ressaltaram a fraca evidência disponível até o
+momento e assinalaram que qualquer decisão quanto ao abandono das terapias
+de iECA e BRA era precipitada. As sociedades ainda recomendaram que as
+melhores práticas de cuidado sejam seguidas para garantir a eficácia dos
+tratamentos, até que outros estudos mais robustos possam provar o verdadeiro
+efeito do SARS-CoV-2 no mecanismo do receptor ECA2, bem como o papel dos
+iECAs e BRAs na patogenia do SARS-CoV-2.
+Dessa forma, com base na evidência disponível até o momento, não é
+recomendado o uso de iECA (como o captopril ou maleato de enalapril) e BRA
+(como a losartana potássica) como opções terapêuticas para a COVID-19.
+Pacientes hipertensos, com doenças cardiovasculares ou diabéticos que já
+utilizam estas classes medicamentosas como terapia, não devem abandoná-las,
+a não ser quando expressamente indicado por médico assistente (APÊNDICE
+11).
+7.4.6. Tocilizumabe
+Até o dia 05 de abril de 2020, foram identificados 23 estudos que
+avaliaram o uso de tocilizumabe (TOC) em pacientes com COVID-19. Destes 23
+estudos, nove eram estudos originais (153–161) e 14 eram registros de ensaios
+clínicos.
+Três relatos de caso (153,156,159) mostraram pacientes específicos com
+comorbidades bem distintas. No estudo de Ferrey et al., 2020 (153), o paciente
+era um homem de 56 anos com doença renal em estágio final, diálise-
+dependente, com outras comorbidades cardíacas, que foi diagnosticado com
+COVID-19. Esse paciente iniciou antibioticoterapia, não foi elegível para uso
+compassivo de remdesivir e recebeu hidroxicloroquina e tocilizumabe. Segundo
+os autores, a introdução de tocilizumabe deveu-se ao aumento de citocinas
+inflamatórias, inclusive IL-6. O paciente apresentou piora clínica nos dias
+44
+seguintes e nenhum resultado finalístico de eficácia do tocilizumabe é relatado.
+Mihai et al., 2020 (156) exibiram o caso de uma mulher de 57 anos com
+esclerose sistêmica (ES), diabetes mellitus e obesidade. Ela possuía doença
+pulmonar intersticial associada a ES e foi diagnosticada com COVID-19. Essa
+paciente já fazia uso de tocilizumabe quando foi diagnosticada com COVID-19,
+e, durante o tratamento da COVID-19, a próxima dose de TOC foi postergada.
+A paciente se manteve estável por 10 dias e foi considerada curada. O estudo
+sugere que o uso prévio/precoce de TOC pode suavizar a COVID-19. Zhang et
+al., 2020 (159) mostra o caso de um homem de 60 anos com mieloma múltiplo
+(MM) e que foi diagnosticado com COVID-19. Este paciente recebeu
+quimioterapia para MM (bortezomibe, dexametasona e talidomida),
+metilprednisolona para sintomas respiratórios e tocilizumabe devido a aumento
+em IL-6. Os níveis séricos de IL-6 reduziram-se nos dias subsequentes; depois
+atingiram um pico de elevação, após a aplicação de TOC. De acordo com os
+autores, isto não necessariamente indica uma retomada da COVID-19, mas sim
+uma recuperação da resposta imune com aumento de células T.
+A série de casos de Xu et al., 2020 (158) compreendeu 21 pacientes com
+COVID-19 e com média de idade de 57 anos. Destes, 17 eram graves e 4 eram
+críticos. O estudo objetivou mostrar a efetividade do TOC para a redução da
+necessidade de oxigenoterapia, melhora do exame radiográfico e normalização
+de células sanguíneas/citocinas inflamatórias. O tratamento padrão protocolado
+no hospital foi lopinavir, metilprednisolona, outros analgésicos, oxigenoterapia e
+tocilizumabe (400 mg/IV uma dose). Os autores relataram normalização da
+temperatura corporal no dia seguinte à administração de tocilizumabe. Houve
+grande redução da necessidade de oxigenoterapia. As lesões foram absorvidas
+em 19/21 pacientes, com normalização de linfócitos e proteína C reativa cinco
+dias após a aplicação de TOC. Os autores relataram a não ocorrência de
+eventos adversos e não houve morte associada ao tratamento com TOC.
+Outra série de caso não avaliou o uso de tocilizumabe, mas investigou o
+comportamento da concentração de células T e citocinas inflamatórias em
+pacientes com COVID-19 (160). Este estudo mostrou que pacientes em UTI
+têm menor número de células T que aqueles com mais leves. Mostrou também
+que, dentre os casos não internados em UTI, a contagem de células T era
+menor quanto maior fosse a gravidade. Na mesma proporção, os autores
+mostraram que pacientes em UTI ou mais graves apresentavam maiores
+concentrações de TNF-alfa, IL-6 e IL-10, em comparação com os casos menos
+graves e população sem COVID-19. Os autores sugerem que terapias alvo
+anticitocinas poderiam ser aplicadas.
+Alguns estudos teóricos sugerem cautela quanto ao uso do tocilizumabe e
+outras drogas biológicas na COVID-19. Autores relatam que há informações
+contraditórias em relação aos seus benefícios: pode haver mediação da
+45
+resposta imune, com diminuição de marcadores inflamatórios ou, por outro
+lado, pode haver superestímulo à infecção viral (154).
+Alguns estudos enfatizam que respostas imunes excessivas podem
+desencadear tempestades de citocinas e causar danos a vários órgãos-alvo
+(155,161). Diretrizes recentes também apontam que um aumento progressivo
+da IL-6 pode ser um indicador de alerta clínico para a deterioração do paciente
+com COVID-19. Sendo assim, os autores especulam que o tocilizumabe pode
+reduzir IL-6 e mediar a resposta inflamatória em COVID-19 (155).
+Mehta et al., 2020 relatam que há um perfil de citocinas associado à
+gravidade da doença COVID-19, caracterizado por aumento da interleucina (IL)
+-2, IL-7, fator estimulante de colônias de granulócitos, proteína induzível por
+interferon-γ 10, proteína induzível por interferon-γ 10, proteína quimioatraente
+de monócitos 1, proteína inflamatória de macrófagos 1-α e fator de necrose
+tumoral-α. Os autores sugerem que em casos de hiperinflamação, o
+tocilizumabe, por ter atuação anti-IL-6, pode ser útil (157).
+É importante ressaltar que estas conclusões são obtidas de estudos não
+comparativos e de baixíssimo rigor metodológico. Não houve nenhuma
+tentativa de controlar confundidores o que faz com que os achados possam ser
+meramente ao acaso. Dessa forma, devido ao elevado risco de viés, os
+resultados precisam ser interpretados com cautela.
+Foram encontrados 14 registros de ensaios clínicos, sendo todos eles
+para tratar pneumonia por COVID-19. Nenhum resultado ainda está disponível.
+Maiores informações quanto a dose, comparações, número de pacientes e
+status podem ser visualizados no APÊNDICE 12.
+Os estudos avaliados apresentam resultados que devem ser interpretados
+com cautela, devido ao baixo rigor metodológico (estudos sobre mecanismo,
+relatos e séries de casos). Dessa forma, não é recomendada a aplicação
+rotineira de tocilizumabe a pacientes com COVID-19. O seu uso em protocolos
+de pesquisa, devidamente registrados nos órgãos competentes (ANVISA,
+CONEP) deve ser avaliado individualmente.
+7.4.7. Ivermectina
+Foi conduzida uma busca por literatura científica no dia 07 de abril de
+2020, quanto a estudos que avaliassem a ivermectina em pacientes com
+COVID-19, não sendo identificado nenhum estudo clínico para o tratamento da
+doença. O única publicação encontrada foi um estudo in vitro, no qual a
+ivermectina mostrou reduzir 93% do material genético do vírus em 24 horas e
+uma redução de 99,8% após 48 horas (162). Sendo assim, até o momento, não
+se sabe se a eficácia "in vitro” está presente também in vivo. Não é possível
+obter qualquer conclusão clínica, com base na evidência disponível até o
+momento APÊNDICE 13.
+46
+7.4.8. Antagonistas do receptor de endotelina
+Por inibirem os receptores de endotelina (um neuro hormônio de
+concentração elevada no tecido pulmonar), localizados principalmente nas
+células do músculo liso vascular pulmonar e nas células endoteliais vasculares
+pulmonares, estes agentes (ex. bosentana, ambrisentana, etc) bloqueiam a
+vasoconstrição e a proliferação celular local, diminuindo o remodelamento
+tecidual, a resistência pulmonar e aumentando o débito cardíaco (163).
+Não foram identificados estudos finalizados ou em andamento que
+pesquisassem a classe como um possível alvo para o tratamento da COVID-19
+(APÊNDICE 14). Dessa forma, nenhuma conclusão acerca do uso de
+antagonistas do receptor de endotelina em pacientes com COVID-19 é possível.
+7.4.9. Terapia com plasma de convalescentes de COVID-19
+Estudos que avaliaram o uso do plasma para tratamento de pacientes
+em estado crítico e em risco de vida por infecções por coronavírus evidenciaram
+que o plasma de convalescentes resultou em redução de mortalidade, carga
+viral, tempo de internação hospitalar e melhora dos sintomas, além de terem
+sido relativamente seguros (164–171). Eventos adversos foram pouco
+frequentes, tendo sido relatada possível lesão pulmonar aguda relacionada à
+transfusão (TRALI, do inglês Transfusion Related Acute Injury) (172) e reação
+anafilática (173). Entretanto, eram estudos pequenos, sem braço comparador,
+em que os pacientes apresentavam características clínicas variadas e recebiam
+diferentes terapias (antivirais, antibióticos e corticosteroides, por exemplo), de
+modo que não se sabe se os efeitos podem ser atribuídos somente ao plasma
+de convalescentes. Somado ao risco de viés moderado a alto inerente a estes
+estudos, a certeza nas evidências é muito baixa. Deste modo, com base na
+evidência disponível, não é possível recomendar o uso rotineiro desta terapia no
+tratamento de infecções por SARS-CoV-2. Seu uso pode ser condicionado a
+protocolos de pesquisa clínica devidamente registrados em órgãos competentes
+(APÊNDICE 15). Sobre o tema, o MS emitiu a NT nº 21/2020 -
+CGSH/DAET/SAES/MS que trata da coleta e transfusão de plasma de
+convalescentes para o uso experimental no tratamento de pacientes com
+COVID-19. Entre outras questões, orienta a coleta em serviço de hemoterapia,
+devidamente regularizado junto a Vigilância Sanitária e que cumpram os
+devidos requisitos técnicos e regulatórios, e alerta sobre as medidas de
+precaução sobre a coleta que ocorra no período de 15 a 30 dias ou após 30
+dias da completa recuperação, entre outras orientações (174).
+7.4.10. Terapia com atazanavir
+Até o momento não há nenhum estudo clínico publicado ou em
+andamento que avalie o perfil de eficácia e segurança do uso do atazanavir no
+tratamento da COVID-19. Os resultados dos estudos in vitro divergem quanto a
+47
+capacidade do atazanavir de inibir a replicação do SARS CoV-2 (175–177). Em
+um dos estudos os autores relataram que não foi observada atividade antiviral
+do atazanavir contra a SARS CoV-2 (175). Em outro estudo, tanto o atazanavir
+isolado quanto o associado ao ritonavir apresentaram inibição da replicação
+viral de SARS-CoV-2 em diferentes linhagens celulares. A associação de
+ritonavir ao atazanavir demostrou ser ainda mais potente na inibição da
+replicação de SARS-CoV-2 comparado com atazanavir isolado e com cloroquina
+(176). A ação inibitória de atazanavir isolado e associado ao ritonavir também
+foi comprovada em células epiteliais pulmonares humanas (176). Tendo em
+vista que os estudos apresentam diferenças metodológicas e avaliaram
+desfechos diferentes, o atazanavir continua sendo um medicamento em
+potencial a ser avaliado em ensaios clínicos quanto a eficácia no tratamento da
+COVID-19. Até o momento, o uso de atazanavir no tratamento da COVID-19
+permanece não comprovado e depende de testes clínicos para que haja avanço
+no reconhecimento de sua eficácia (APÊNDICE 16).
+7.4.11. Terapia com inibidores das Janus Associated Kinases (JAK)
+Até a presente data, não foram identificados estudos clínicos
+investigando os medicamentos da classe de inibidores das Janus Associated
+Kinases (JAKs) com resultados disponíveis. Foram identificados sete estudos
+clínicos em andamento, investigando os efeitos do ruxolitinibe, jakotinibe,
+baricitinibe e do tofacitinibe sobre (i) desfechos clínicos, como mortalidade,
+melhora clínica, qualidade de vida, eventos adversos; (ii) desfechos
+laboratoriais, como carga viral, provas de função pulmonar, nível de proteína C
+reativa e dímeros D; e (iii) desfechos relacionados à utilização de recursos em
+saúde, como tempo de internação hospitalar (178–184). Em dois estudos, a
+intervenção de interesse envolve a associação entre os inibidores das JAKs e
+outros tratamentos (uso de células tronco e ritonavir). Braços comparadores
+serão empregados em apenas dois estudos, envolvendo melhor cuidado de
+suporte em um estudo e a utilização de hidroxicloroquina e/ou antivirais.
+Considerados conjuntamente, estes estudos incluirão 480 participantes. As
+datas de conclusão destes estudos estão previstas entre 30/04/2020 e
+31/01/2021.
+Em virtude da ausência de resultados sobre a eficácia e segurança dos
+inibidores das JAKs no momento, estes agentes não devem ser utilizados
+rotineiramente no tratamento da COVID-19. Estas recomendações poderão
+sofrer modificações, caso os estudos em andamento evidenciem benefícios
+clínicos associados ao tratamento com os inibidores das JAKs (APÊNDICE 17).
+48
+8 CASOS ESPECIAIS
+8.1 Gestantes
+Os dados sobre a apresentação clínica da COVID-19 durante a gravidez
+e/ou puerpério,bem como resultados perinatais devido a exposição à doença
+ainda são limitados (185). As consequências que a infecção pelo SARS-CoV-2
+pode trazer à gestação ainda são incertas (sem evidências) até o momento, no
+que concerne às consequencias graves para mães e bebês. Contudo, a
+possibilidade de agravamento em gestantes não pode ser descartada (186).
+Sabe-se que a família de vírus SARS pode causar aborto, ruptura prematura de
+membranas, parto prematuro, restrição de crescimento intrauterino e morte
+materna (187)(188).
+Até o momento, não há evidências que comprovem transmissão vertical
+do SARS-CoV-2 (isto é, da mãe para o bebê). Uma revisão de casos mostrou
+que quando a infecção se manifestou no terceiro trimestre de gestação, as
+amostras de líquido amniótico, sangue do cordão umbilical, secreção vaginal e
+leite materno foram negativas (189–191). Contudo, suspeita-se de transmissão
+perinatal, baseada em um caso (80,191). Informações sobre o efeito da COVID-
+19 no curso e no resultado da gravidez no primeiro e segundo trimestres ainda
+não estão disponíveis (189).
+Considerando que a transmissão assintomática de COVID-19 pode ser
+possível em mulheres grávidas, todas as mulheres com histórico epidemiológico
+de contato devem ser cuidadosamente monitoradas. Até o momento, não há
+evidências de que as mulheres grávidas apresentem sinais e/ou sintomas
+diferentes ou de maior gravidade de doença somente por estarem grávidas
+(185).
+As gestantes com suspeita ou confirmação de COVID-19 devem ser
+tratadas com terapias de suporte, levando em consideração as adaptações
+fisiológicas da gravidez. O uso de agentes terapêuticos em investigação fora de
+um protocolo de pesquisa deve ser guiado por uma análise de risco-benefício
+individual baseada no benefício potencial para a mãe e a segurança do feto,
+com consulta de um especialista em obstetrícia (192).
+Todas as mulheres grávidas com ou em recuperação da COVID-19
+devem receber aconselhamento e informações necessárias relacionadas ao
+risco potencial de eventos adversos na gravidez. Logo, consultas
+multidisciplinares de especialistas em obstetrícia, neonatologia e terapia
+intensiva são essenciais, para que as gestantes sejam capacitadas e
+incentivadas a participar de cuidados pré-natais, pós-parto ou pós-aborto,
+conforme apropriado. Cuidados adicionais devem ser fornecidos se houver
+alguma complicação (185).
+O parto deve ser individualizado com base em indicações obstétricas e
+nas preferências da gestante. A OMS recomenda que a cesariana seja realizada
+49
+apenas quando justificada clinicamente. As decisões sobre o parto de
+emergência e a interrupção da gravidez são desafiadoras e baseadas em muitos
+fatores, como idade gestacional, gravidade da condição materna, viabilidade e
+bem-estar fetal (185)(192).
+Para mulheres com risco de parto prematuro, a OMS recomenda
+administração de corticosteroides da 24ª à 34ª semana de gestação quando
+não houver evidências de infecção materna, bem como a disponibilidade de
+cuidados adequados durante o parto e ao recém-nascido. No caso de COVID-19
+leve, os benefícios clínicos dos corticosteroides no período antenatal podem
+superar os riscos de danos à mãe. Nesses casos, deve-se discutir com a mulher
+os potenciais riscos e benefícios a ela e ao neonato pré-termo (129).
+Um resumo dos principais aspectos relacionados ao manejo da COVID-19
+em gestantes é exibido a seguir:
+Quadro 5: Manejo de COVID-19 em gestantes.
+Manejo de COVID-19 em gestantes
+ Procedimentos para controle de infecções e isolamento precoce: limitar o
+acesso de visitantes e profissionais de saúde a quartos de pacientes com
+uma confirmação ou caso suspeito.
+ Considerar oxigenoterapia precoce (saturações alvo de O2 ≥95% e/ou
+pO2 ≥70mmHg).
+ Considerar ventilação mecânica precoce quando houver evidência de
+avanço da insuficiência respiratória. Técnicas de ventilação não invasiva
+podem ter um pequeno aumento do risco de aspiração em gravidez.
+ Prevenção de sobrecarga de fluidos: utilizar fluidos intravenosos de
+maneira conservadora, a menos que haja instabilidade cardiovascular.
+ Controle empírico de antibióticos: considerar terapia antimicrobiana
+devido ao risco de infecções bacterianas sobrepostas.
+ Rastreio de outras infecções respiratórias virais e infecções bacterianas
+(devido ao risco de coinfecções).
+ Considerar o tratamento empírico para a influenza, enquanto se aguarda
+o teste diagnóstico.
+ Se houver suspeita de choque séptico, instituir um tratamento imediato e
+direcionado.
+ Não utilizar rotineiramente corticosteroides. Entretanto o uso de
+esteroides para promover a maturidade fetal em parto prematuro
+antecipado pode ser considerado individualmente.
+ Monitoramento da frequência cardíaca fetal.
+ Monitoramento da contração uterina.
+ Planejamento individualizado do parto.
+ Abordagem baseada em equipe multidisciplinar.
+ Alterações no padrão da frequência cardíaca fetal podem ser um
+indicador precoce da piora da respiração materna.
+ Deve-se avaliar com cautela se o parto fornece benefícios a uma
+gestante gravemente doente.
+50
+ A decisão quanto ao parto deve considerar a idade gestacional do feto e
+deve ser feita em conjunto com o neonatologista.
+Fonte: Fiocruz (193).
+8.2 Pacientes com Doença Cardiovascular (DCV)
+Pacientes com doença cardiovascular são especialmente vulneráveis a
+infecções respiratórias e estão entre os indivíduos com maior risco para
+desenvolver as complicações da COVID-19.
+Recomenda-se que pacientes com doença cardiovascular e infecção por
+SARS-CoV-2 sejam monitorados com eletrocardiograma, ecocardiograma e
+estudos hemodinâmicos, em associação à dosagem seriada de troponinas e
+dímero D (marcadores de mau prognóstico) e ao acompanhamento das
+possíveis complicações (APÊNDICE 18).
+Abaixo são descritas as principais complicações cardíacas identificadas
+nos pacientes com COVID-19.
+Lesão cardíaca aguda
+A lesão cardíaca aguda é definida nos estudos de Zhou et al. (2020) e
+Wang et al. (2020) como a elevação nos níveis séricos de biomarcadores
+cardíacos (como a troponina I cardíaca) acima do limite superior de referência
+do percentil 99, ou se novas anormalidades forem evidenciadas na
+eletrocardiografia e na ecocardiografia(194,195).
+A incidência de lesão cardíaca aguda nos pacientes com COVID-19
+hospitalizados variou entre 7%, 8%, 12%, 17% e 22% nos estudos de Ruan et
+al. (2020), Li et al. (2020), Huang et al. (2020), Zhou et al. (2020) e Wang et
+al. (2020), respectivamente (194–198).
+As taxas de insuficiência coronariana foram mais altas nos pacientes não
+sobreviventes (59%, n= 32) em comparação com aqueles que sobreviveram
+(1%, n= 1) e mais altas nos pacientes internados em UTI (22%, n= 22)
+quando comparados aos que não estavam em UTI (2%, n= 2) (194,195).
+Arritmias
+A ocorrência de arritmias foi relatada em alguns estudos, chegando ao
+quantitativo de 17% dos pacientes hospitalizados com COVID-19 (n= 23 de
+138) e 44% dos pacientes em UTI (n= 16) no estudo de Wang et al.
+(2020)(195). A incidência de arritmias foi de 3,6% em 140 pacientes com
+COVID-19, sendo significativamente maior nos casos mais graves (6,9%), se
+comparada aos pacientes não graves (1,2%), (p= 0,160), tal como relatado no
+estudo de Zhang et al. (2020) (199).
+Pacientes com COVID-19 e doença cardiovascular podem experimentar
+prolongamento do intervalo QT. Sendo assim, os cuidados estabelecidos no
+51
+Quadro 4 devem ser seguidos rigorosamente em pacientes com risco
+aumentado.
+Miocardite
+Casos e séries de casos publicadas relataram a ocorrência de miocardite,
+no entanto, esses achados não foram comprovados por biópsia ou ressonância
+magnética. Tais relatos, entretanto, são sinais de alerta para a possibilidade de
+lesão cardíaca aguda (196,200,201).
+Síndromes Coronarianas Agudas
+Nos estudos avaliados não há relato de síndrome coronariana aguda nos
+pacientes com COVID-19.
+8.3 Pacientes oncológicos
+As tomadas de decisão mais difíceis, em se tratando de pacientes
+oncológicos, são pertinentes ao atraso/adiamento no tratamento. Até o
+momento, a literatura sugere que qualquer decisão seja baseada no estado de
+saúde (quadro estável) do paciente. Para paciente com tumor sólido, a terapia
+adjuvante com intenção curativa não deve ser adiada mesmo com a
+possibilidade de infecção por SARS-CoV-2 durante o tratamento. Para pacientes
+com doença metastática, os atrasos no tratamento podem levar à piora do
+status e perda do desempenho da janela para tratar. A intervenção cirúrgica
+também precisa de priorização naqueles casos, nos quais existe benefício
+terapêutico imediato. A recomendação é que as decisões sobre o tratamento
+sejam acordadas com o paciente, abordando as consequências do adiamento
+(ou não) do tratamento (202–205) (APÊNDICE 19).
+8.4 Cirurgias em tempos de COVID-19
+Várias sociedades/órgãos nacionais e internacionais têm se manifestado
+quanto à realização de cirurgias durante a pandemia de COVID-19 (206–216).
+Aparentemente, existe um consenso em algumas recomendações, e essas
+sociedades preconizam o atendimento cirúrgico ao paciente agudo,
+reagendando cirurgias eletivas ou procedimentos que podem ser postergados
+sem maiores danos aos pacientes. Sociedades de gastroenterologia
+recomendam cuidados especiais quanto à realização de procedimentos
+endoscópicos (endoscopia digestiva alta e colonoscopia), haja vista que pode
+haver contaminação dos profissionais da saúde envolvidos (206–210,215,216).
+Existe literatura diversa nas mais variadas áreas da cirurgia e espera-se, em
+breve, atualizar-se este documento com recomendações específicas para:
+partos, procedimentos como endoscopia, traqueostomia, colonoscopia,
+laparoscopia e de anestesiologia, cirurgias ortopédicas, do trato genitourinário,
+neurológicas, oftálmicas, cardíacas, e por robóticas, etc.
+52
+No tocante às cirurgias, os principais pontos a serem destacados são:
+ Pacientes com quadros cirúrgicos agudos são prioridade. A avaliação
+para a presença de COVID-19 deve ser realizada em paciente
+encaminhado agudamente ou necessitando de cirurgia de emergência.
+Nesse sentido, essa avaliação inclui histórico clínico, teste para COVID-
+19, caso realizado por outro motivo, e RX de tórax. Pacientes que forem
+submetidos a uma tomografia computadorizada, para diagnóstico de
+outras doenças, devem ter uma TC do tórax solicitada, ao mesmo
+tempo, a menos que essa tenha sido realizada nas últimas 24 horas. Os
+testes atuais para COVID-19, incluindo radiografia torácica e tomografia
+computadorizada do tórax, podem ser falsos negativos (207,209).
+ Qualquer paciente com agendamento para cirurgia de urgência deve ser
+avaliado quanto à COVID-19, conforme descrito acima. Deve-se
+considerar a formação de estoma em vez da anastomose para reduzir a
+necessidade de cuidados críticos pós-operatórios não planejados para
+complicações (209).
+ As salas de cirurgia, nas quais os Procedimentos de Geração de
+Aerossóis (PGA) são realizados regularmente, são consideradas área
+clínica de maior risco e o uso de EPI completo pelos profissionais de
+saúde é recomendado, quando forem atendidos casos suspeitos ou
+confirmados de COVID-19. A anestesia geral é considerada um PGA
+(206,210).
+ Na realização da laparoscopia há riscos de formação de formação de
+aerossóis, não claramente definidos, por isso, o uso de de EPI pode ser
+importante. Deve-se considerar a realização de laparoscopia apenas em
+casos selecionados, ou seja, naqueles casos em que o benefício clínico
+para o paciente exceda substancialmente o risco de possível transmissão
+viral nessa situação (209). Nesses casos, a incisão deve ser a menor
+possível para evitar a formação de aerossois, a partir da hiperinsuflação
+peritoneal com CO2 (206).
+ Não deverá ocorrer a postergação de procedimentos obstétricos e
+ginecológicos que possam impactar negativamente na saúde do
+paciente. Isso inclui procedimentos ginecológicos e procedimentos
+relacionados à gravidez, cuja demora prejudicaria a saúde da paciente e
+do bebê (215).
+ Há pouquíssima evidência a respeito dos riscos relativos à Cirurgia
+Minimamente Invasiva versus a abordagem aberta convencional,
+específica para COVID-19. Recomenda-se, no entanto, que seja
+considerada a possibilidade de contaminação viral da equipe durante a
+cirurgia, seja ela aberta, laparoscópica ou robótica, e que medidas de
+proteção sejam estritamente empregadas para a segurança da equipe da
+53
+sala cirúrgica, a fim de manter ativa a força de trabalho em
+funcionamento (206,217).
+ Em cada caso, deve-se empregar um número mínimo de funcionários na
+sala de cirurgia, sendo que todos devem utilizar EPI apropriado,
+dependendo da função e do risco (206,210).
+ Nos casos em que o manejo não operatório é possível, isso deve ser
+implementado (206,207,209,210,214).
+ Somente procedimentos endoscópicos de emergência devem ser
+realizados. Diagnósticos por via endoscópica devem ser evitados (209). A
+avaliação de riscos e a estratificação dos pacientes devem ocorrer antes
+de qualquer procedimento endoscópico (206,208,216).
+8.5 Pacientes imunossuprimidos
+Por se tratar de um vírus, o SARS-CoV-2 se tornou uma ameaça para
+pessoas imunossuprimidas, por apresentarem diminuição de atividade do
+sistema imunológico e, consequentemente, uma menor capacidade orgânica de
+reagir a vírus e bactérias. Apesar disso, até o presente momento, não há dados
+clínicos suficientes que demonstrem que o prognóstico de pacientes
+imunossuprimidos, diagnosticados com COVID-19, seja pior do que qualquer
+outro indivíduo também diagnosticado com COVID-19 (218). Entretanto,
+recomenda-se cuidados especiais com pacientes imunossuprimidos (219)
+(APÊNDICE 20).
+8.5.1. Pacientes transplantados
+Enquanto os pacientes na lista de espera precisam de transplante para
+resolver sua doença primária, os pacientes pós-transplante apresentam alto
+risco de infecções. Neste momento, recomenda-se equilibrar cuidadosamente
+os custos e benefícios envolvidos na realização um transplante em uma região
+epidêmica da COVID-19 ou durante um surto de COVID-19, bem como ampliar
+o cuidado para prevenção em centros de transplante e hemodiálise (219).
+Três crianças foram diagnosticadas com COVID-19, enquanto estavam
+internadas com doença hepática autoimune em um Hospital infantil, localizado
+na Lombardia (zona crítica de casos de COVID-19, atualmente). As crianças
+foram mantidas em isolamento, receberam o tratamento padrão e todas
+melhoraram da COVID-19 sem apresentar nenhuma complicação respiratória
+(220).
+Há dois relatos de casos de adultos, homens com doença renal crônica,
+que tinham histórico de transplante renal prévio (entre 6 a 10 anos atrás), que
+também foram infectados e apresentaram bons resultados finais (127,221).
+Em relação aos pacientes em hemodiálise, uma série de casos
+acompanhou 37 adultos que estavam internados realizando hemodiálise e
+foram diagnosticados com COVID-19. A maioria dos pacientes foi acometida por
+54
+infecção leve e não houve casos admitidos na UTI. Durante a epidemia em
+Wuhan, 7 pacientes em hemodiálise morreram com COVID-19 e 1 sem COVID-
+19. As causas presumidas de morte não estavam diretamente relacionadas à
+pneumonia, mas a doenças cardiovasculares e cerebrovasculares, hipercalemia
+etc (222).
+As recomendações para centros de hemodiálise são as seguintes:
+ A prioridade para os prestadores de serviços de diálise é o
+reconhecimento e isolamento precoce de indivíduos com infecção
+respiratória e o uso de equipamentos de proteção individual.
+ Sugere-se manter as medidas mais conservadoras possíveis em relação
+ao uso de esteroides.
+ Alguns resultados mostram que a substituição de imunossupressores por
+medicamentos antivirais pode promover melhores resultados de
+recuperação em pacientes imunodeprimidos e com COVID-19. No
+entanto, dada a falta de dados robustos da eficácia de antivirais para
+essa situação, não é recomendada a substituição de imunossupressores,
+pois o benefício limitado dos antivirais no tratamento da COVID-19 não
+compensa o risco de rejeição do enxerto.
+8.5.2. Pessoas vivendo com HIV/Aids
+Até o momento não existem evidências que sugerem que pessoas
+vivendo com HIV/Aids (PVHIV) apresentem maior risco de adquirir ou
+desenvolver formas mais graves de COVID-19 ou que apresentem diferentes
+cursos clínicos. Porém, cabe atenção e condução enquanto caso especial para
+PVHIV sem tratamento, e/ou com carga viral detectável e/ou imunossupressão,
+com relação ao SARS-CoV-2. Além disso, PVHIV podem desenvolver mais
+precocemente comorbidades (devido a imunossupressão e/ou ao
+antirretrovirais) como insuficiência renal, hipertensão arterial sistêmica e
+diabetes mellitus tipo 2, condições que podem se configurar como fator de risco
+para complicações do COVID-19. Nas PVHIV com contagem de LT-CD4 baixa
+(>200 céls/mm3), é necessário avaliar indicação de profilaxias para infecções
+oportunistas conforme capítulo infecções oportunistas do protocolo clínico e
+diretrizes terapêuticas para manejo da infecção pelo HIV em adultos (223).
+A prevenção da COVID-19 para PVHIV devem deve seguir as
+recomendações da população geral e a manutenção da terapia antirretroviral
+(TARV), conforme orientado no Ofício Circular nº
+8/2020/CGAHV/.DCCI/SVS/MS(224). PVHIV devem ser vacinadas para Influenza
+e aquelas que não foram vacinadas para doenças pneumocócicas devem ser
+vacinadas conforme as recomendações para PVHIV.
+55
+8.6 Pessoa com Tuberculose
+A tuberculose (TB) apresenta incidência de 34,8 casos/100 mil
+habitantes, com taxa de mortalidade de 2,2 óbitos/100 mil habitantes, no
+Brasil, chegando a mais de 3 óbitos/100mil habitantes em Pernambuco, Rio de
+Janeiro, Amazonas e Pará (225). A doença é causada pelo Mycobacterium
+tuberculosis ou bacilo de Koch e afeta prioritariamente os pulmões. Pacientes
+que apresentam comorbidades como HIV, diabetes mellitus e etilismo, assim
+como imunossuprimidos em geral, pessoas em situação de rua e a população
+privada de liberdade, têm um risco aumentado para a infecção por tuberculose
+(225).
+Um estudo observacional caso-controle chinês realizado em 2020, no
+Hospital Shenyang Chest, com apenas 36 participantes, sugere que a infecção
+latente ou ativa por tuberculose pode aumentar a suscetibilidade à coinfecção
+entre TB e COVID-19, a rapidez da evolução dos sintomas e a gravidade do
+quadro. Os dados mostraram variações importantes entre o grupo com TB e o
+grupo controle. Porém, novos e mais amplos estudos serão necessários para
+confirmar essa associação potencialmente grave entre as infecções por
+tuberculose e por COVID-19 (226).
+A Infectious Diseases Society of Southern Africa (IDSSA) publicou em
+março de 2020 um guia operacional para apoiar o atendimento ao paciente
+com tuberculose. O documento recomenda que seja feito o menor número de
+visitas possível pelo paciente ao serviço de saúde, otimizando, assim, a
+frequência das consultas, principalmente durante as trocas de fases do
+tratamento. Recomenda ainda que sejam realizados testes de COVID-19 em
+pacientes com TB ativa, latente ou em contatos, sempre que estes buscarem o
+serviço de saúde, devido ao risco de coinfecção. Outra medida sugerida é que
+se proceda à investigação de TB em pacientes que apresentem tosse
+prolongada e não apresentem resultado positivo de COVID-19 (227).
+O documento publicado em 25 de março de 2020 pelo Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis e a
+Coordenação-Geral de Vigilância das Doenças de Transmissão Respiratória de
+Condições Crônicas do Ministério da Saúde faz orientações sobre as ações de
+manejo e controle da tuberculose durante a epidemia de COVID-19 no Brasil,
+para além das condutas gerais sobre hábitos de higiene e isolamento social
+(228). São elas:
+ Organizar as redes de atenção à saúde para garantir acesso da pessoa
+com sinais e sintomas característicos de infecção por TB aos exames
+necessários para o diagnóstico, considerando que alguns sintomas
+podem ser comuns às duas doenças.
+ Orientar as pessoas com TB sobre as formas de prevenção e recomendar
+que permaneçam em casa o máximo de tempo possível, evitando a
+exposição.
+56
+ Diminuir o número de visitas aos pacientes com TB ativa ou TB latente e
+utilizar estratégias locais, como teleconsulta, quando possível,
+dependendo da situação.
+ Reavaliar a realização do Tratamento Diretamente Observado (TDO) no
+serviço de saúde para pessoas com tuberculose, considerando a menor
+exposição possível do usuário e também as necessidades do indivíduo.
+ Realizar a dispensação dos medicamentos para tratamento da
+tuberculose ou da ILTB no máximo mensalmente, sempre considerando
+os estoques disponíveis e a mínima permanência dos indivíduos nos
+serviços de saúde.
+ Postergar a investigação e o tratamento da ILTB em contatos
+assintomáticos adultos e adolescentes.
+ Organizar os processos de trabalho ao nível local para melhor atender a
+demanda, de modo a evitar expor as pessoas em situação de maior
+vulnerabilidade ao vírus causador da COVID-19 e garantir acesso às
+ações de manejo da tuberculose.
+8.7 Resistência antimicrobiana
+De acordo com o Plano de Ação Nacional de Prevenção e Controle da
+Resistência aos Antimicrobianos no Âmbito da Saúde Única 2018-2022 (PAN-
+BR), o monitoramento da suscetibilidade de microrganismos aos
+antimicrobianos no âmbito da saúde humana é imprescindível para orientar
+protocolos clínicos e avaliar tendências epidemiológicas (225).
+O uso de antimicrobianos não é recomendado no tratamento de viroses,
+no entanto, esses medicamentos podem ser utilizados no manejo de
+coinfecções nos pacientes em tratamento da COVID-19 (116). Assim, embora o
+paciente possa estar com suspeita de COVID-19, deve-se considerar a
+administração de antimicrobianos empíricos apropriados dentro de 1 hora após
+a identificação de um quadro de sepse e coleta de hemocultura deve ser
+realizada antes da administração da primeira dose de antibiótico. O tratamento
+empírico com antibiótico empírico deve ser baseado no diagnóstico clínico
+(pneumonia adquirida na comunidade, pneumonia associada a cuidados de
+saúde [se a infecção foi adquirida em ambiente de saúde] ou sepse), em dados
+epidemiológicos locais e de suscetibilidade, e nas diretrizes nacionais de
+tratamento (229).
+O cenário de poucas evidências sobre o controle e tratamento dos
+doentes exige cautela na proposição de esquemas de antimicrobianos e grande
+controle para minimizar a exposição da população em tratamento aos
+microrganismos resistentes nos ambientes hospitalares.
+57
+9 MONITORAMENTO
+Caso tenha sido indicada terapia com corticosteroides, o paciente deve
+ser monitorado quanto a eventos adversos durante o tratamento e por 3 a 6
+meses após o término, devido à possibilidade e ocorrência de eventos adversos
+em médio prazo, como necrose avascular e diabetes mellitus (APÊNDICE 9).
+Pacientes com risco aumentado de agravamento por COVID-19 - como
+hipertensos, diabéticos, com DPOC, coagulopatias, etc. - devem tomar as
+medidas de prevenção estabelecidas acima, para evitar o risco de SRAG,
+internação e morte.
+Já os indivíduos para os quais forem prescritas
+cloroquina/hidroxicloroquina, precisam ser monitorados quanto aos eventos
+adversos cardiovasculares inerentes ao uso desses fármacos.
+O tratamento deverá ser monitorado e, caso sejam identificados
+problemas, é recomendada a avaliação e o acompanhamento do paciente por
+uma equipe multiprofissional, com o objetivo de promover a qualidade do uso
+medicamento e a efetividade clínica do tratamento.
+Pacientes com suspeita de COVID-19 podem ser atendidos nas unidades
+da Atenção Primária à Saúde e pela equipe de Estratégia de Saúde da Família.
+Destaca-se, porém, que neste momento de pandemia, o Ministério da Saúde
+recomenda que pacientes com sintomas leves permaneçam em isolamento
+domiciliar, utilizando os canais de comunicação local para acionar testagem e
+monitoramento (15).
+A fim de aprimorar diagnóstico e realizar o monitoramento dos pacientes
+em isolamento domiciliar, o Ministério da Saúde lançou o TeleSUS, composto de
+duas ferramentas para orientação da população e monitoramento de casos:
+1- Aplicativo Coronavírus SUS - que fornece informações sobre a doença
+e permite a resposta de um questionário para avaliação da saúde, informando
+sobre medidas a serem seguidas.
+2- Chat online - que pode ser acessado por meio do endereço eletrônico
+www.saude.gov.br/coronavirus. No chat, o paciente pode informar seus
+sintomas e receber orientações para permanecer em isolamento domiciliar ou
+procurar um serviço de saúde.
+Com o atendimento remoto, as pessoas poderão receber a indicação do
+tratamento adequado sem sair de casa, evitando o risco de contágio local entre
+os pacientes e profissionais nas unidades de saúde.
+Os casos graves de COVID-19 devem ser preferencialmente tratados e
+acompanhados em ambiente hospitalar, por uma equipe multiprofissional
+constituída por infectologistas, cardiologistas, pneumologistas e demais
+58
+profissionais especializados para o acompanhamento e tratamento das
+complicações geradas pela COVID-19.
+Estas diretrizes serão atualizadas periodicamente, dado o volume de
+publicações e as possíveis mudanças das evidências disponíveis sobre o manejo
+dos pacientes com COVID-19.
+Informamos que o Ministério da Saúde, no intuito de combater as
+fakenews sobre saúde, disponibiliza um número de WhatsApp para envio de
+mensagens. Não se trata de um SAC ou canal de dúvidas, mas sim de um
+espaço exclusivo para receber informações virais, que são apuradas por uma
+equipe técnica e respondidas oficialmente quanto à sua veracidade. Para mais
+informações, consulte o link: https://www.saude.gov.br/fakenews.
+59
+10 MONITORAMENTO DO HORIZONTE TECNOLÓGICO
+O surgimento do SARS-CoV-2, e, consequentemente, da COVID-19,
+resultou em diferentes iniciativas para identificar medidas preventivas e
+profiláticas, exames diagnósticos e tratamentos adequados para essa condição.
+No intuito de identificar as tecnologias em estudo atualmente, realizou-se uma
+busca no sítio eletrônico do ClinicalTrials.Gov. Os principais resultados estão
+expostos a seguir. A metodologia pode ser vista em detalhes no APÊNDICE
+21.
+Até o dia 23 de março de 2020, existiam 117 tecnologias em avaliação
+no contexto da COVID-19, sendo que a maioria dos estudos está sendo
+desenvolvida na China, nos Estados Unidos e na Itália. Até a mesma data, o
+Brasil tinha dois estudos registrados com o objetivo de avaliar a segurança e a
+eficácia da hidroxicloroquina associada à azitromicina, com previsão de término
+em agosto de 2020 (NCT04321278 e NCT04322123).
+Com finalidade preventiva, existiam 10 estudos registrados, sendo que
+quatro são relativos ao desenvolvimento de vacinas. Dois deles, de fase I, estão
+em estágio mais avançado, de modo que a avaliação inicial acontecerá no final
+de 2020 (NCT04313127) e no primeiro semestre de 2021 (NCT04283461).
+Entretanto, as estimativas de término desses estudos são em dezembro de
+2022 e junho de 2021, respectivamente. Outros estudos nessa modalidade
+incluem o uso de soluções inalatórias previamente à exposição a pacientes com
+COVID-19, com previsão de finalização em julho e outubro de 2020
+(NCT04320238 e NCT04313023). Os demais estudos que avaliam outras
+medidas preventivas têm previsão de avaliação primária e término entre 2021 e
+2024.
+Seis estudos estão avaliando o uso de antivirais ou hidroxicloroquina em
+indivíduos ou profissionais da saúde que foram expostos ao SARS-CoV-2. Tais
+estudos estão em diferentes fases de desenvolvimento. Entretanto, um estudo
+de fase III que busca comparar a profilaxia do darunavir e cobicistate associado
+à hidroxicloroquina comparado com a combinação da hidroxicloroquina com as
+medidas gerais de saúde pública, tem previsão de finalização em 2020
+(NCT04304053). Outro estudo, que avaliará o uso de hidroxicloroquina
+associado à azitromicina em pacientes com sintomas gripais sem diagnóstico
+confirmado de COVID-19, terá uma avaliação primária em outubro de 2020, de
+modo que é possível que sejam publicados seus resultados preliminares mais
+brevemente (NCT04322396). Os demais estudos, em um horizonte temporal,
+estão um pouco mais distantes de terem seus resultados divulgados, com
+previsão de finalização em 2021 e 2022.
+Os estudos que avaliaram testes diagnósticos têm previsão de término
+em 2020 e diferentes tecnologias estão sendo avaliadas: aplicativos de
+60
+celulares para autodiagnóstico (NCT04275947, NCT04256395), algoritmos de
+inteligência artificial para distinguir lesões pulmonares por influenza e por
+SARS-CoV-2 (NCT04313946), exames bioquímicos para otimizar o
+processamento das amostras (NCT04245631, NCT04311398, NCT04281693),
+teste rápido de IgG/IgM (NCT04316728) e o uso de ultrassom de pulmão para
+avaliar evolução da doença (NCT04322487). Também estão sendo alvo de
+pesquisas a criação de um sistema de classificação de pneumonite por SARS-
+CoV-2 (NCT04302688) e a avaliação do impacto do local de coleta do swab e
+do coletador na acurácia diagnóstica (NCT04321369). Estes dois últimos já
+foram finalizados, embora os resultados ainda não estejam disponíveis.
+Um estudo buscou avaliar um equipamento de endoscopia sem contato
+com o paciente por meio de cápsula endoscópica magnética. Incluiu um
+paciente com SARS-CoV-2 e avaliou o sucesso técnico do equipamento em
+termos de manuseio adequado do sistema. O referido estudo foi finalizado em
+março de 2020, mas os resultados ainda não estão disponíveis.
+A maioria dos estudos registrados avaliará algum tipo de tratamento
+para COVID-19 (76,9%). Eles incluem os antivirais, sendo os principais
+remdesivir, lopinavir/ritonavir, umifenovir, favipiravir; os biológicos, como
+interferontocilizumabe, bevacizumabe, entre outros; a hidroxicloroquina e
+cloroquina; iECA e BRA; colchicina; talidomida; corticosteroides; entre outros.
+Outras terapias incluem o transplante de células-tronco mesenquimais para
+casos graves da doença, óxido nítrico inalatório, ácido ascórbico, plasma
+inativado, líquido amniótico e suplementos nutricionais.
+Em um horizonte temporal mais próximo, ainda no primeiro semestre de
+2020, está prevista a finalização de diferentes estudos com antivirais, de modo
+que em breve devem ser divulgados seus resultados (NCT04273763,
+NCT04319900, NCT04307693, NCT04292899, NCT04252664, NCT04261907,
+NCT04291729, NCT04257656). No segundo semestre outros estudos serão
+finalizados (NCT04260594, NCT04303299, NCT04255017, NCT04261270,
+NCT04276688, NCT04252274, NCT04321616, NCT04252885).
+Quanto ao estudo com biológicos, alguns estudos têm previsão de
+término ainda em 2020, quais sejam: siltuximabe (NCT04322188), baricitinibe
+(NCT04320277), meplazumabe (NCT04275245), bevacizumabe (NCT04305106
+e NCT04275414), tocilizumabe (NCT04310228, NCT04315480, NCT04322773 e
+NCT04306705) e interferon (NCT04293887).
+Quatro estudos com corticosteroides estão em andamento e têm
+previsão de finalização ainda em 2020 (NCT04263402, NCT04244591,
+NCT04273321 e NCT04323592). Dentre os quatro estudos com iECA e BRA,
+apenas dois têm previsão de término em 2020 (NCT04318418 e
+NCT04318301). Dos seis estudos com cloroquina ou hidroxicloroquina, apenas
+quatro têm previsão de término ainda em 2020 (NCT04261517, NCT04323631,
+NCT04323527 e NCT04299152).
+61
+No horizonte tecnológico, existem diversas tecnologias em
+desenvolvimento para melhorar a prevenção, o diagnóstico e o cuidado dos
+indivíduos com risco de se infectarem por SARS-CoV-2 ou com COVID-19. Para
+2020, é esperado que existam resultados parciais ou finais das principais
+classes medicamentosas de interesse atualmente, tais comoos antivirais, os
+corticosteroides, os biológicos e iECA e BRA.
+Esta seção será periodicamente atualizada, de modo a refletir a
+dinamicidade do cenário de inovação nas opções diagnósticas e terapêuticas no
+contexto da COVID-19.
+62
+11 REFERÊNCIAS
+1. Chen Y, Guo Y, Pan Y, Zhao ZJ. Structure analysis of the receptor binding
+of 2019-nCoV. Biochem Biophys Res Commun. 2020 Feb;
+2. Zhang J-J, Dong X, Cao Y-Y, Yuan Y-D, Yang Y-B, Yan Y-Q, et al. Clinical
+characteristics of 140 patients infected with SARS-CoV-2 in Wuhan, China.
+Allergy. 2020 Feb;
+3. Beeching NJ, Fletcher TE, Fowler R. COVID-19. BMJ Best Practice. 2020.
+4. Drosten C, Gunther S, Preiser W, van der Werf S, Brodt H-R, Becker S, et
+al. Identification of a novel coronavirus in patients with severe acute
+respiratory syndrome. N Engl J Med. 2003 May;348(20):1967–76.
+5. Kuiken T, Fouchier RAM, Schutten M, Rimmelzwaan GF, van Amerongen
+G, van Riel D, et al. Newly discovered coronavirus as the primary cause of
+severe acute respiratory syndrome. Lancet (London, England). 2003
+Jul;362(9380):263–70.
+6. Ksiazek TG, Erdman D, Goldsmith CS, Zaki SR, Peret T, Emery S, et al. A
+Novel Coronavirus Associated with Severe Acute Respiratory Syndrome. N
+Engl J Med. 2003 May;348(20):1953–66.
+7. Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus ADME, Fouchier
+RAM. Isolation of a novel coronavirus from a man with pneumonia in
+Saudi Arabia. N Engl J Med. 2012 Nov;367(19):1814–20.
+8. de Groot RJ, Baker SC, Baric RS, Brown CS, Drosten C, Enjuanes L, et al.
+Middle East respiratory syndrome coronavirus (MERS-CoV):
+announcement of the Coronavirus Study Group. J Virol. 2013/05/15. 2013
+Jul;87(14):7790–2.
+9. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of
+patients infected with 2019 novel coronavirus in Wuhan, China. Lancet
+(London, England). 2020 Feb;395(10223):497–506.
+10. Guan W-J, Ni Z-Y, Hu Y, Liang W-H, Ou C-Q, He J-X, et al. Clinical
+Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020
+Feb;
+11. WHO. Statement on the second meeting of the International Health
+Regulations (2005) Emergency Committee regarding the outbreak of
+novel coronavirus (2019-nCoV). WHO. 2020.
+12. WHO. WHO Director-General’s opening remarks at the media briefing on
+COVID-19 - 11 March 2020. WHO. 2020.
+13. World Health Organization (WHO). Coronavirus disease 2019 (COVID-19)
+Situation Report – 87. 2020;87.
+14. BRASIL. Ministério da Saúde. COVID19 Painel Coronavírus Ministério da
+Saúde - Atualizado em 12 abril de 2020 às 18h. Ministério da Saúde;
+2020.
+15. BRASIL. PROTOCOLO DE MANEJO CLÍNICO DO CORONAVÍRUS (COVID-
+19) NA ATENC
+̧ ÃO PRIMÁRIA À SAÚDE. Secr Atenção Primária à Saúde.
+2020;
+16. BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação
+e Insumos Estratégicos em Saúde Departamento de Assistência
+Farmacêuca e Insumos Estratégicos. Nota Informativa No. 5/2020 - DAF/
+63
+SCTIE/MS. 2020.
+17. WHO. Emergency use ICD codes for COVID-19 disease outbreak. 2020.
+18. BRASIL. Ministério da Saúde. Guia de Vigilância Epidemiológica:
+Emergência de Saúde Pública de Importância Nacional pela Doença pelo
+Coronavírus 2019. Vigilância Integrada de Síndromes Respiratórias
+Agudas. Doença pelo Coronavírus 2019, Influenza e outros vírus
+respiratórios 03/04/20. Ministério da Saúde. 2020.
+19. COVID BMJ best practice. 2020;
+20. Report ET. Infection prevention and control for COVID-19 in healthcare
+settings Target audience Healthcare settings. 2020;(March).
+21. Razai MS, Doerholt K, Ladhani S, Oakeshott P. Coronavirus disease 2019
+(covid-19): A guide for UK GPS. BMJ. 2020;368(March):1–5.
+22. World Health Organization (WHO). Coronavirus disease (COVID-19)
+advice for the public: When and how to use masks. WHO site. 2020.
+23. World Health Organization (WHO). Advice on the use of masks in the
+community, during home care and in healthcare settings in the context of
+the novel coronavirus (2019-nCoV) outbreak. Who.
+2020;2020(January):1–2.
+24. Leung CC, Lam TH, Cheng KK. Mass masking in the COVID-19 epidemic:
+people need guidance. Vol. 395, Lancet (London, England). England;
+2020. p. 945.
+25. Feng S, Shen C, Xia N, Song W, Fan M, Cowling BJ. Rational use of face
+masks in the COVID-19 pandemic. Lancet Respir Med. 2020 Mar;
+26. Liu X, Zhang S. COVID-19 : Face Masks and Human-to-human
+Transmission. Influenza and other respiratory viruses. England; 2020.
+27. MacIntyre CR, Wang Q, Cauchemez S, Seale H, Dwyer DE, Yang P, et al.
+A cluster randomized clinical trial comparing fit-tested and non-fit-tested
+N95 respirators to medical masks to prevent respiratory virus infection in
+health care workers. Influenza Other Respi Viruses. 2011;5(3):170–9.
+28. Bartoszko JJ, Farooqi MAM, Alhazzani W, Loeb M. Medical Masks vs N95
+Respirators for Preventing COVID-19 in Health Care Workers A Systematic
+Review and Meta-Analysis of Randomized Trials. Influenza Other Respi
+Viruses. 2020;0–3.
+29. Long Y, Hu T, Liu L, Chen R, Guo Q, Yang L, et al. Effectiveness of N95
+respirators versus surgical masks against influenza: A systematic review
+and meta-analysis. J Evid Based Med. 2020;2(February):1–9.
+30. Wang M-W, Zhou M-Y, Ji G-H, Ye L, Cheng Y-R, Feng Z-H, et al. Mask
+crisis during the COVID-19 outbreak. Eur Rev Med Pharmacol Sci.
+2020;24(6):3397–9.
+31. Abd-Elsayed A, Karri J. Utility of Substandard Face Mask Options for
+Health Care Workers During the COVID-19 Pandemic. Anesth Analg.
+2020;Publish Ah(PG-):1–9.
+32. MacIntyre CR, Chughtai AA. Facemasks for the prevention of infection in
+healthcare and community settings. BMJ. 2015;350:1–12.
+33. A. Z, D.S. H, E.I. A, Z.A. M, M. M. Reducing mortality from 2019-nCoV:
+host-directed therapies should be an option. Lancet.
+2020;395(10224):e35–6.
+34. Javid B, Weekes MP, Matheson NJ. Covid-19 : should the public wear face
+64
+masks ? 2020;1442(April):11–2.
+35. Mahase E. Covid-19: What is the evidence for cloth masks? BMJ.
+2020;369(April):m1422.
+36. Greenhalgh T, Schmid MB, Czypionka T, Bassler D, Gruer L. Face masks
+for the public during the covid-19 crisis. BMJ. 2020;369(April):m1435.
+37. Chang D, Xu H, Rebaza A, Sharma L, Dela Cruz CS. Protecting health-care
+workers from subclinical coronavirus infection. Lancet Respir Med.
+2020;8(3):e13.
+38. Feng S, Shen C, Xia N, Song W, Fan M, Cowling BJ. Rational use of face
+masks in the COVID-19 pandemic. Lancet Respir Med. 2020;2(20):2019–
+20.
+39. Jin Y-H, Cai L, Cheng Z-S, Cheng H, Deng T, Fan Y-P, et al. A rapid advice
+guideline for the diagnosis and treatment of 2019 novel coronavirus
+(2019-nCoV) infected pneumonia (standard version). Mil Med Res. 2020
+Feb;7(1):4.
+40. Jernigan DB. Update: Public Health Response to the Coronavirus Disease
+2019 Outbreak - United States, February 24, 2020. MMWR Morb Mortal
+Wkly Rep. 2020;69(8):216–9.
+41. World Health Organization. Home care for patients with suspected novel
+coronavirus ( nCoV ) infection presenting with mild symptoms and
+management of contacts. Who. 2020;(January):4–6.
+42. Chung JS, Ling ML, Seto WH, Ang BSP, Tambyah PA. Debate on MERS-
+CoV respiratory precautions: Surgical mask or N95 respirators? Singapore
+Med J. 2014;55(6):294–7.
+43. Zhang L, Liu Y. Potential interventions for novel coronavirus in China: A
+systematic review. J Med Virol. 2020 May;92(5):479–90.
+44. Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et al. Substantial
+undocumented infection facilitates the rapid dissemination of novel
+coronavirus (SARS-CoV2). Science. 2020;3221(March):1–9.
+45. Sociedade Brasileira de Infectologia. Nota de Esclarecimento: Uso de
+Máscaras na Pandemia de COVID-19. São Paulo; 2020.
+46. OCDE. Flattening the COVID-19 peak: Containment and mitigation
+policies. 2020.
+47. walker et al. O behalf of the ICC-19 RT. The Global Impact of COVID-19
+and Strategies for Mitigation and Suppression. 2020.
+48. The Lancet T. COVID-19: learning from experience. Lancet. 2020
+Mar;395(10229):1011.
+49. Nussbaumer‐ Streit B, Mayr V, Dobrescu AI, Chapman A, Persad E,
+Klerings I, et al. Quarantine alone or in combination with other public
+health measures to control COVID‐ 19: a rapid review. Cochrane Database
+Syst Rev. 2020;(4).
+50. van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A,
+Williamson BN, et al. Aerosol and Surface Stability of SARS-CoV-2 as
+Compared with SARS-CoV-1. The New England journal of medicine.
+United States; 2020.
+51. G. K. Potential role of inanimate surfaces for the spread of coronaviruses
+and their inactivation with disinfectant agents. Infect Prev Pract.
+2020;2(2).
+65
+52. Kampf G, Todt D, Pfaender S, Steinmann E. Persistence of coronaviruses
+on inanimate surfaces and their inactivation with biocidal agents. J Hosp
+Infect. 2020 Mar;104(3):246–51.
+53. BRASIL. Ministério da Saúde. ANVISA. NOTA TÉCNICA
+GVIMS/GGTES/ANVISA No 04/2020 ORIENTAÇÕES PARA SERVIÇOS DE
+SAÚDE: MEDIDAS DE PREVENÇÃO E CONTROLE QUE DEVEM SER
+ADOTADAS DURANTE A ASSISTÊNCIA AOS CASOS SUSPEITOS OU
+CONFIRMADOS DE INFECÇÃO PELO NOVO CORONAVÍRUS (SARS-CoV-2).
+54. ECDC. ECDC TECHNICAL REPORT Infection prevention and control for
+COVID-19 in healthcare settings. ECDC Tech Reports. 2020;
+55. ANVISA. Segurança do paciente em serviços de saúde: limpeza e
+desinfecção de superfícies. 2012;
+56. WHO. Infection prevention and control during health care when novel
+coronavirus (nCoV) infection is suspected. WHO Interim Guid. 2020;
+57. Brigham and Women’s Hospital. Brigham and Women’s Hospital COVID-
+19 Critical Care Clinical Guidelines. 2020.
+58. S.W.X. O, Y.K. T, P.Y. C, T.H. L, O.T. N, M.S.Y. W, et al. Air, Surface
+Environmental, and Personal Protective Equipment Contamination by
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) from a
+Symptomatic Patient. JAMA - J Am Med Assoc. 2020;
+59. Liu J, Liao X, Qian S, Yuan J, Wang F, Liu Y, et al. Community
+Transmission of Severe Acute Respiratory Syndrome Coronavirus 2,
+Shenzhen, China, 2020. Emerg Infect Dis. 2020;
+60. Chan JFW, Yuan S, Kok KH, To KKW, Chu H, Yang J, et al. A familial
+cluster of pneumonia associated with the 2019 novel coronavirus
+indicating person-to-person transmission: a study of a family cluster.
+Lancet. 2020;
+61. Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early Transmission
+Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N
+Engl J Med. 2020;
+62. Burke RM, Midgley CM, Dratch A, Fenstersheib M, Haupt T, Holshue M, et
+al. Active Monitoring of Persons Exposed to Patients with Confirmed
+COVID-19 - United States, January-February 2020. MMWR Morb Mortal
+Wkly Rep. 2020;
+63. Aylward, Bruce (WHO); Liang W (PRC). Report of the WHO-China Joint
+Mission on Coronavirus Disease 2019 (COVID-19). WHO-China Jt Mission
+Coronavirus Dis 2019. 2020;
+64. Wang W, Xu Y, Gao R, Lu R, Han K, Wu G, et al. Detection of SARS-CoV-
+2 in Different Types of Clinical Specimens. JAMA - Journal of the
+American Medical Association. 2020.
+65. Lauer SA, Grantz KH, Bi Q, Jones FK, Zheng Q, Meredith HR, et al. The
+Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly
+Reported Confirmed Cases: Estimation and Application. Ann Intern Med.
+2020;
+66. Liu Y, Yan LM, Wan L, Xiang TX, Le A, Liu JM, et al. Viral dynamics in mild
+and severe cases of COVID-19. The Lancet Infectious Diseases. 2020.
+67. Woelfel R, Corman VM, Guggemos W, Seilmaier M, Zange S, Mueller MA,
+et al. Virological assessment of hospitalized cases of coronavirus disease
+66
+2019. medRxiv. 2020;
+68. Yu P, Zhu J, Zhang Z, Han Y, Huang L. A familial cluster of infection
+associated with the 2019 novel coronavirus indicating potential person-
+to-person transmission during the incubation period. J Infect Dis. 2020
+Feb;
+69. Huang R, Xia J, Chen Y, Shan C, Wu C. A family cluster of SARS-CoV-2
+infection involving 11 patients in Nanjing, China. The Lancet Infectious
+Diseases. 2020.
+70. Pan X, Chen D, Xia Y, Wu X, Li T, Ou X, et al. Asymptomatic cases in a
+family cluster with SARS-CoV-2 infection. The Lancet Infectious Diseases.
+2020.
+71. Tong Z-D, Tang A, Li K-F, Li P, Wang H-L, Yi J-P, et al. Potential
+Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China,
+2020. Emerg Infect Dis. 2020;
+72. Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic
+Transmission of SARS-CoV-2 — Singapore, January 23–March 16, 2020.
+MMWR Morb Mortal Wkly Rep. 2020;
+73. Kimball A, Hatfield KM, Arons M, James A, Taylor J, Spicer K, et al.
+Asymptomatic and Presymptomatic SARS-CoV-2 Infections in Residents of
+a Long-Term Care Skilled Nursing Facility —. MMWR Morb Mortal Wkly
+Rep. 2020;
+74. World Health Organization (WHO). Coronavirus disease 2019 (COVID-19).
+Situation Report – 73. 2020;73.
+75. Hospitalar, BRASIL. MINISTÉRIO DA SAÚDE Secretaria de Atenção
+Especializada à Saúde Departamento de Atenção Hospitalar D e de U.
+Protocolo de Tratamento do Novo Coronavi ́rus (2019-nCoV). 2020.
+76. C. H, Y. W, X. L, L. R, J. Z, Y. H, et al. Clinical features of patients
+infected with 2019 novel coronavirus in Wuhan, China. Lancet.
+2020;395(10223):497–506.
+77. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and
+clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia
+in Wuhan, China: a descriptive study. Lancet (London, England). 2020
+Feb;395(10223):507–13.
+78. Li W, Zhou Q, Tang Y, Ren L, Yu X, Li Q, et al. Protocol for the
+development of a rapid advice guideline for prevention, management and
+care of children with 2019 novel coronavirus infection. Ann Palliat Med.
+2020;9(6):1224–1224.
+79. Yang C, Li C, Wang S. Clinical strategies for treating pediatric cancer
+during the outbreak of 2019 novel coronavirus infection. Pediatr Blood
+Cancer. 2020;(February):1–2.
+80. Favre G, Pomar L, Qi X, Nielsen-Saines K, Musso D, Baud D. Guidelines
+for pregnant women with suspected SARS-CoV-2 infection. Lancet Infect
+Dis. 2020;0(0):S1473-3099(20)30157-2.
+81. Liang H, Acharya G. Novel corona virus disease (COVID-19) in pregnancy:
+What clinical recommendations to follow? Vol. 99, Acta obstetricia et
+gynecologica Scandinavica. United States; 2020. p. 439–42.
+82. Saturday P. Coronavirus ( COVID-19 ) Infection in Pregnancy.
+2020;(March).
+67
+83. Chen W, Lan Y, Yuan X, Deng X, Li Y, Cai X, et al. Detectable 2019-nCoV
+viral RNA in blood is a strong indicator for the further clinical severity.
+Emerg Microbes Infect. 2020;9(1):469–73.
+84. Plan R. Laboratory testing strategy recommendations for COVID-19.
+2020;(March).
+85. WHO. Laboratory testing for coronavirus disease 2019 (COVID-19) in
+suspected human cases. 2020;(March):1–7.
+86. National Health Comission. Chinese Clinical Guidance for COVID-19
+Pneumonia Diagnosis and Treatment (7th edition). 2020.
+87. WHO. World Health Organization. Laboratory testing for coronavirus
+disease 2019 (COVID-19) in suspected human cases. Interim Guid. 2020;
+88. Ye G, Li Y, Lu M, Chen S, Luo Y, Wang S, et al. Experience of different
+upper respiratory tract sampling strategies for detection of COVID-19. J
+Hosp Infect. 2020 Mar;
+89. Zhang W, Du R-H, Li B, Zheng X-S, Yang X-L, Hu B, et al. Molecular and
+serological investigation of 2019-nCoV infected patients: implication of
+multiple shedding routes. Emerg Microbes Infect. 2020;9(1):386–9.
+90. Chan JF-W, Yip CC-Y, To KK-W, Tang TH-C, Wong SC-Y, Leung K-H, et al.
+Improved molecular diagnosis of COVID-19 by the novel, highly sensitive
+and specific COVID-19-RdRp/Hel real-time reverse transcription-
+polymerase chain reaction assay validated in vitro and with clinical
+specimens. J Clin Microbiol. 2020 Mar;
+91. Guo L, Ren L, Yang S, Xiao M, Chang D, Yang F, et al. Profiling Early
+Humoral Response to Diagnose Novel Coronavirus Disease (COVID-19).
+Clin Infect Dis. 2020 Mar;
+92. Li Z, Yi Y, Luo X, Xiong N, Liu Y, Li S, et al. Development and Clinical
+Application of A Rapid IgM-IgG Combined Antibody Test for SARS-CoV-2
+Infection Diagnosis. J Med Virol. 2020 Feb;
+93. World Health Organization (WHO). Scientific brief: Advice on the use of
+point-of-care immunodiagnostic tests for COVID-19 in. 2020; Available
+from: https://www.who.int/news-room/commentaries/detail/advice-on-
+the-use-of-point-of-care-immunodiagnostic-tests-for-covid-19
+94. Lou B, Li T, Zheng S, Su Y, Li Z, Liu W, et al. Serology characteristics of
+SARS-CoV-2 infection since the exposure and post symptoms onset.
+medRxiv. 2020;
+95. Udugama B, Kadhiresan P, Kozlowski HN, Malekjahani A, Osborne M, Li
+VYC, et al. Diagnosing COVID-19: The Disease and Tools for Detection.
+ACS Nano. 2020;
+96. Pan Y, Zhang D, Yang P, Poon LLM, Wang Q. Viral load of SARS-CoV-2 in
+clinical samples. Vol. 20, The Lancet. Infectious diseases. United States;
+2020. p. 411–2.
+97. Qu J, Yang R, Song L, Kamel IR. Atypical lung feature on chest CT in a
+lung adenocarcinoma cancer patient infected with COVID-19. Ann Oncol
+Off J Eur Soc Med Oncol. 2020;
+98. Bouadma L, Lescure F-X, Lucet J-C, Yazdanpanah Y, Timsit J-F. Severe
+SARS-CoV-2 infections: practical considerations and management strategy
+for intensivists. Intensive Care Med. 2020 Feb;
+99. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk
+68
+factors for mortality of adult inpatients with COVID-19 in Wuhan, China:
+a retrospective cohort study. Lancet (London, England). 2020 Mar;
+100. Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, et al. Risk Factors Associated
+With Acute Respiratory Distress Syndrome and Death in Patients With
+Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med.
+2020 Mar;
+101. Xie J, Tong Z, Guan X, Du B, Qiu H, Slutsky AS. Critical care crisis and
+some recommendations during the COVID-19 epidemic in China.
+Intensive Care Med. 2020 Mar;
+102. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical Characteristics
+of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected
+Pneumonia in Wuhan, China. JAMA. 2020 Feb;
+103. Li B, Yang J, Zhao F, Zhi L, Wang X, Liu L, et al. Prevalence and impact of
+cardiovascular metabolic diseases on COVID-19 in China. Clin Res Cardiol.
+2020;
+104. Wang L, Shi Y, Xiao T, Fu J, Feng X, Mu D, et al. Chinese expert
+consensus on the perinatal and neonatal management for the prevention
+and control of the 2019 novel coronavirus infection (First edition). Ann
+Transl Med. 2020 Feb;8(3):47.
+105. Wang J, Qi H, Bao L, Li F, Shi Y. A contingency plan for the management
+of the 2019 novel coronavirus outbreak in neonatal intensive care units.
+Lancet Child Adolesc Heal. 2020 Apr;4(4):258–9.
+106. Respiratory care committee of Chinese Thoracic Society. [Expert
+consensus on preventing nosocomial transmission during respiratory care
+for critically ill patients infected by 2019 novel coronavirus pneumonia].
+Zhonghua Jie He He Hu Xi Za Zhi. 2020/02/23. 2020;17(0):E020.
+107. Zuo M-Z, Huang Y-G, Ma W-H, Xue Z-G, Zhang J-Q, Gong Y-H, et al.
+Expert Recommendations for Tracheal Intubation in Critically ill Patients
+with Noval Coronavirus Disease 2019. Chinese Med Sci J = Chung-kuo i
+hsueh k’o hsueh tsa chih. 2020 Feb;
+108. Meng L, Qiu H, Wan L, Ai Y, Xue Z, Guo Q, et al. Intubation and
+Ventilation amid the COVID-19 Outbreak: Wuhan’s Experience.
+Anesthesiology. 2020 Mar;
+109. Cai SJ, Wu LL, Chen DF, Li YX, Liu YJ, Fan YQ, et al. [Analysis of
+bronchoscope-guided tracheal intubation in 12 cases with COVID-19
+under the personal protective equipment with positive pressure protective
+hood]. Zhonghua Jie He He Hu Xi Za Zhi. 2020/03/07. 2020;43(0):E033.
+110. Wax RS, Christian MD. Practical recommendations for critical care and
+anesthesiology teams caring for novel coronavirus (2019-nCoV) patients.
+Can J Anaesth. 2020/02/14. 2020;
+111. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol generating
+procedures and risk of transmission of acute respiratory infections to
+healthcare workers: a systematic review. PLoS One. 2012;7(4):e35797.
+112. Kujawski SA, Wong KK, Collins JP, Epstein L, Killerby ME, Midgley CM, et
+al. First 12 patients with coronavirus disease 2019 (COVID-19) in the
+United States. medRxiv. 2020 Jan;2020.03.09.20032896.
+113. Han W, Quan B, Guo Y, Zhang J, Lu Y, Feng G, et al. The course of
+clinical diagnosis and treatment of a case infected with coronavirus
+69
+disease 2019. Vol. 92, Journal of medical virology. United States; 2020. p.
+461–3.
+114. Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, et al.
+First Case of 2019 Novel Coronavirus in the United States. N Engl J Med.
+2020 Mar;382(10):929–36.
+115. Fang L, Karakiulakis G, Roth M. Are patients with hypertension and
+diabetes mellitus at increased risk for COVID-19 infection? The Lancet.
+Respiratory medicine. England; 2020.
+116. World Health Organization. Clinical management of severe acute
+respiratory infection when novel coronavirus (nCoV) infection is
+suspected. 2020.
+117. Day M. Covid-19: European drugs agency to review safety of ibuprofen.
+BMJ. 2020 Mar;368:m1168.
+118. Cao B, Wang Y, Wen D, Liu W, Wang J, Fan G, et al. A Trial of Lopinavir-
+Ritonavir in Adults Hospitalized with Severe Covid-19. N Engl J Med. 2020
+Mar;
+119. Deng L, Li C, Zeng Q, Liu X, Li X, Zhang H, et al. Arbidol combined with
+LPV/r versus LPV/r alone against Corona Virus Disease 2019: A
+retrospective cohort study. J Infect. 2020 Mar;
+120. Lim J, Jeon S, Shin HY, Kim MJ, Seong YM, Lee WJ, et al. Case of the
+Index Patient Who Caused Tertiary Transmission of COVID-19 Infection
+in Korea: the Application of Lopinavir/Ritonavir for the Treatment of
+COVID-19 Infected Pneumonia Monitored by Quantitative RT-PCR. J
+Korean Med Sci. 2020 Feb;35(6):e79.
+121. Liu F, Xu A, Zhang Y, Xuan W, Yan T, Pan K, et al. Patients of COVID-19
+may benefit from sustained lopinavir-combined regimen and the increase
+of eosinophil may predict the outcome of COVID-19 progression. Int J
+Infect Dis. 2020 Mar;
+122. Yao T-T, Qian J-D, Zhu W-Y, Wang Y, Wang G-Q. A systematic review of
+lopinavir therapy for SARS coronavirus and MERS coronavirus-A possible
+reference for coronavirus disease-19 treatment option. J Med Virol. 2020
+Feb;
+123. CDC. Interim Clinical Guidance for Management of Patients with
+Confirmed Coronavirus Disease (COVID-19). 2020.
+124. Shang L, Zhao J, Hu Y, Du R, Cao B. On the use of corticosteroids for
+2019-nCoV pneumonia. Vol. 395, Lancet (London, England). England;
+2020. p. 683–4.
+125. Russell CD, Millar JE, Baillie JK. Clinical evidence does not support
+corticosteroid treatment for 2019-nCoV lung injury. Lancet (London,
+England). 2020 Feb;395(10223):473–5.
+126. Zhou W, Liu Y, Tian D, Wang C, Wang S, Cheng J, et al. Potential benefits
+of precise corticosteroids therapy for severe 2019-nCoV pneumonia.
+Signal Transduct Target Ther. 2020;5:18.
+127. Zhu L, Xu X, Ma K, Yang J, Guan H, Chen S, et al. Successful recovery of
+COVID-19 pneumonia in a renal transplant recipient with long-term
+immunosuppression. American journal of transplantation : official journal
+of the American Society of Transplantation and the American Society of
+Transplant Surgeons. United States; 2020.
+70
+128. J. Z, L. Z, Y. Y, W. P, W. W, X. C. Therapeutic and triage strategies for
+2019 novel coronavirus disease in fever clinics. Lancet Respir Med.
+2020;8(3):e11–2.
+129. WHO. Clinical management of severe acute respiratory infection (SARI)
+when COVID-19 disease is suspected. 2020.
+130. Cortegiani A, Ingoglia G, Ippolito M, Giarratano A, Einav S. A systematic
+review on the efficacy and safety of chloroquine for the treatment of
+COVID-19. J Crit Care. 2020 Mar;
+131. Gautret P, Lagier J-C, Parola P, Hoang VT, Meddeb L, Mailhe M, et al.
+Hydroxychloroquine and azithromycin as a treatment of COVID-19:
+results of an open-label non-randomized clinical trial. Int J Antimicrob
+Agents. 2020 Mar;105949.
+132. Liu Y, Yang Y, Zhang C, Huang F, Wang F, Yuan J, et al. Clinical and
+biochemical indexes from 2019-nCoV infected patients linked to viral
+loads and lung injury. Sci China Life Sci. 2020 Mar;63(3):364–74.
+133. Diaz JH. Hypothesis: angiotensin-converting enzyme inhibitors and
+angiotensin receptor blockers may increase the risk of severe COVID-19.
+J Travel Med. 2020 Mar;
+134. World Health Organization. WHO Director-General’s opening remarks at
+the media briefing on COVID-19 - 23 March 2020. 2020.
+135. Chen Z, Hu J, Zhang Z, Jiang S, Han S, Yan D, et al. Efficacy of
+hydroxychloroquine in patients with COVID-19: results of a randomized
+clinical trial. medRxiv. 2020 Jan;2020.03.22.20040758.
+136. CHEN Jun LIU Li,LIU Ping,XU Qingnian,XIA Lu,LING Yun,HUANG
+Dan,SONG Shuli,ZHANG Dandan,QIAN Zhiping,LI Tao,SHEN Yinzhong,LU
+Hongzhou LIUD. A pilot study of hydroxychloroquine in treatment of
+patients with common coronavirus disease-19 (COVID-19). Vol. 49,
+Journal of Zhejiang University (Medical Science). p. 0.
+137. Touret F, de Lamballerie X. Of chloroquine and COVID-19. Antiviral Res.
+2020 Mar;177:104762.
+138. Chatre C, Roubille F, Vernhet H, Jorgensen C, Pers Y-M. Cardiac
+Complications Attributed to Chloroquine and Hydroxychloroquine: A
+Systematic Review of the Literature. Drug Saf. 2018 Oct;41(10):919–31.
+139. Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, et al.
+Epidemiologic Features and Clinical Course of Patients Infected With
+SARS-CoV-2 in Singapore. JAMA. 2020 Mar;
+140. Wang Z, Yang B, Li Q, Wen L, Zhang R. Clinical Features of 69 Cases with
+Coronavirus Disease 2019 in Wuhan, China. Clin Infect Dis. 2020 Mar;
+141. Wang Z, Chen X, Lu Y, Chen F, Zhang W. Clinical characteristics and
+therapeutic procedure for four cases with 2019 novel coronavirus
+pneumonia receiving combined Chinese and Western medicine treatment.
+Biosci Trends. 2020 Mar;14(1):64–8.
+142. Raolut. abstract - hydroxychloroquine. Mediteranee-infection. 2020.
+143. Borba M, Val F de A, Sampaio VS, Alexandre MA, Melo GC, Brito M, et al.
+Chloroquine diphosphate in two different dosages as adjunctive therapy
+of hospitalized patients with severe respiratory syndrome in the context
+of coronavirus (SARS-CoV-2) infection: Preliminary safety results of a
+randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study).
+71
+medRxiv. 2020 Jan;2020.04.07.20056424.
+144. Lane JCE, Weaver J, Kostka K, Duarte-Salles T, Abrahao MTF, Alghoul H,
+et al. Safety of hydroxychloroquine, alone and in combination with
+azithromycin, in light of rapid wide-spread use for COVID-19: a
+multinational, network cohort and self-controlled case series study.
+medRxiv. 2020 Jan;2020.04.08.20054551.
+145. Kamali Aghdam M, Jafari N, Eftekhari K. Novel coronavirus in a 15-day-
+old neonate with clinical signs of sepsis, a case report. Infect Dis
+(London, England). 2020 Apr;1–3.
+146. Huang J, Lin H, Wu Y, Fang Y, Kumar R, Chen G, et al. COVID-19 in post-
+transplantation patients- report of two cases. American journal of
+transplantation : official journal of the American Society of
+Transplantation and the American Society of Transplant Surgeons. United
+States; 2020.
+147. Shang J, Du R, Lu Q, Wu J, Ke Z, Cai Z, et al. The treatment and
+outcomes of patients with COVID-19 in Hubei, China: a multicentered,
+retrospective, observational study. Lancet pre prints. 2020;
+148. D. G. Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics.
+Drug Dev Res. 2020;
+149. Sociedade Brasileira de Cardiologia. Infecção pelo Coronavírus 2019
+(COVID-19). 2020.
+150. Cardiology ES of. Position Statement of the ESC Council on Hypertension
+on ACE-Inhibitors and Angiotensin Receptor Blockers. 2020.
+151. American College of Cardiology. HFSA/ACC/AHA Statement Addresses
+Concerns Re: Using RAAS Antagonists in COVID-19. 2020.
+152. Agência Brasil. Ministério da Saúde desaconselha Ibuprofeno para tratar
+Covid-19. 2020.
+153. Ferrey AJ, Choi G, Hanna RM, Chang Y, Tantisattamo E, Ivaturi K, et al. A
+Case of Novel Coronavirus Disease 19 in a Chronic Hemodialysis Patient
+Presenting with Gastroenteritis and Developing Severe Pulmonary
+Disease. Am J Nephrol. 2020 Mar;1–6.
+154. Bersanelli M. Controversies about COVID-19 and anticancer treatment
+with immune checkpoint inhibitors. Immunotherapy. England; 2020.
+155. Zhou M, Zhang X, Qu J. Coronavirus disease 2019 (COVID-19): a clinical
+update. Front Med. 2020 Apr;
+156. Mihai C, Dobrota R, Schroder M, Garaiman A, Jordan S, Becker MO, et al.
+COVID-19 in a patient with systemic sclerosis treated with tocilizumab for
+SSc-ILD. Annals of the rheumatic diseases. England; 2020.
+157. P. M, D.F. M, M. B, E. S, R.S. T, J.J. M. COVID-19: consider cytokine
+storm syndromes and immunosuppression. Lancet.
+2020;395(10229):1033–4.
+158. Xiaoling Xu1, Mingfeng Han, Tiantian Li, Wei Sun Dongsheng Wang,
+Binqing Fu Y, Zhou, Xiaohu Zheng, Yun Yang, Xiuyong Li, Xiaohua Zhang,
+Aijun Pan HW. Effective Treatment of Severe COVID-19 Patients with
+Tocilizumab. ChinaXiv. 2020;chinaXiv:2.
+159. Zhang X, Song K, Tong F, Fei M, Guo H, Lu Z, et al. First case of COVID-
+19 in a patient with multiple myeloma successfully treated with
+tocilizumab. Blood Adv. 2020 Apr;4(7):1307–10.
+72
+160. Diao B, Wang C, Tan Y, Chen X, Liu Y, Ning L, et al. Reduction and
+Functional Exhaustion of T Cells in Patients with Coronavirus Disease
+2019 (COVID-19). medRxiv. 2020 Jan;2020.02.18.20024364.
+161. Zhang C, Wu Z, Li J-W, Zhao H, Wang G-Q. The cytokine release
+syndrome (CRS) of severe COVID-19 and Interleukin-6 receptor (IL-6R)
+antagonist Tocilizumab may be the key to reduce the mortality. Int J
+Antimicrob Agents. 2020 Mar;105954.
+162. Caly L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-approved
+Drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antiviral
+Res. 2020 Apr;104787.
+163. Maguire JJ, Davenport AP. Endothelin receptors and their antagonists.
+Semin Nephrol. 2015 Mar;35(2):125–36.
+164. Yeh K-M, Chiueh T-S, Siu LK, Lin J-C, Chan PKS, Peng M-Y, et al.
+Experience of using convalescent plasma for severe acute respiratory
+syndrome among healthcare workers in a Taiwan hospital. J Antimicrob
+Chemother. 2005 Nov;56(5):919–22.
+165. Wong V, Dai D, Wu A, Sung J. Treatment of severe acute respiratory
+syndrome with convalescent plasma. Hong Kong Med J. 2003;9(3):199–
+201.
+166. Kong L. Severe acute respiratory syndrome (SARS). Vol. 29, Transfusion
+and apheresis science : official journal of the World Apheresis
+Association : official journal of the European Society for Haemapheresis.
+England; 2003. p. 101.
+167. Ko J-H, Seok H, Cho SY, Ha YE, Baek JY, Kim SH, et al. Challenges of
+convalescent plasma infusion therapy in Middle East respiratory
+coronavirus infection: a single centre experience. Antivir Ther.
+2018;23(7):617–22.
+168. Cheng Y, Wong R, Soo YOY, Wong WS, Lee CK, Ng MHL, et al. Use of
+convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin
+Microbiol Infect Dis. 2005 Jan;24(1):44–6.
+169. Duan K, Liu B, Li C, Zhang H, Yu T, Qu J, et al. The feasibility of
+convalescent plasma therapy in severe COVID- 19 patients: a pilot study.
+MedRxiv Preprints. 2020. p. 1–22.
+170. Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, et al. Treatment of 5
+Critically Ill Patients With COVID-19 With Convalescent Plasma. JAMA.
+2020 Mar;
+171. Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw F-M, Lim
+WS, et al. The effectiveness of convalescent plasma and hyperimmune
+immunoglobulin for the treatment of severe acute respiratory infections of
+viral etiology: a systematic review and exploratory meta-analysis. J Infect
+Dis. 2015 Jan;211(1):80–90.
+172. Chun S, Chung CR, Ha YE, Han TH, Ki CS, Kang ES, et al. Possible
+Transfusion-Related Acute Lung Injury Following Convalescent Plasma
+Transfusion in a Patient With Middle East Respiratory Syndrome. Ann Lab
+Med. 2016 Jul;36(4):393–5.
+173. Pei S, Yuan X, Zhang Z, Yao R, Xie Y, Shen M, et al. Convalescent Plasma
+to Treat COVID-19: Chinese Strategy and Experiences. MedRxiv Prepr.
+2020;1–12.
+73
+174. BRASIL. Ministério da Saúde. NOTA TÉCNICA No 21/2020-
+CGSH/DAET/SAES/MS. 2020;
+175. Jeon S, Ko M, Lee J, Choi I, Byun SY, Park S, et al. Identification of
+antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs.
+bioRxiv. 2020 Mar;2020.03.20.999730.
+176. Fintelman-Rodrigues N, Sacramento CQ, Lima CR, Silva FS da, Ferreira
+AC, Mattos M, et al. Atazanavir inhibits SARS-CoV-2 replication and pro-
+inflammatory cytokine production. bioRxiv. 2020 Apr;2020.04.04.020925.
+177. Yamamoto N, Matsuyama S, Hoshino T, Yamamoto N. Nelfinavir inhibits
+replication of severe acute respiratory syndrome coronavirus 2 in vitro.
+bioRxiv. 2020 Apr;2020.04.06.026476.
+178. ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of Medicine
+(US). Identificador NCT04320277, Baricitinib in Symptomatic Patients
+Infected by COVID-19: an Open-label, Pilot Study. (BARI-COVID). 2020.
+179. ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of Medicine
+(US). Identificador NCT04331665, Study of the Efficacy and Safety of
+Ruxolitinib to Treat COVID-19 Pneumonia. 2020.
+180. ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of Medicine
+(US). Identificador NCT04334044, Treatment of SARS Caused by COVID-
+19 With Ruxolitinib. 2020.
+181. ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of Medicine
+(US). Identificador NCT04332042, TOFAcitinib in SARS-CoV2 Pneumonia.
+2020.
+182. ClinicalTrials.gov [Internet]. Bethesda (MD): National Library of Medicine
+(US). Identificador NCT04338958, Ruxolitinib in Covid-19 Patients With
+Defined Hyperinflammation (RuxCoFlam). 2020.
+183. Chinese Clinical Trial Register [Internet]. Chengdu (Sichuan): Ministry of
+Health (China). Identificador ChiCTR2000029580. 2020.
+184. Chinese Clinical Trial Register [Internet]. Chengdu (Sichuan): Ministry of
+Health (China). Identificador ChiCTR2000030170. 2020.
+185. World Health Organization. Clinical management of severe acute
+respiratory infection (SARI) when COVID-19 disease is suspected. Who.
+2020;(March):12.
+186. Favre G, Pomar L, Musso D, Baud D. 2019-nCoV epidemic: what about
+pregnancies? Vol. 395, Lancet (London, England). England; 2020. p. e40.
+187. Alfaraj SH, Al-Tawfiq JA, Memish ZA. Middle East Respiratory Syndrome
+Coronavirus (MERS-CoV) infection during pregnancy: Report of two cases
+& review of the literature. Vol. 52, Journal of microbiology, immunology,
+and infection = Wei mian yu gan ran za zhi. England; 2019. p. 501–3.
+188. Wong SF, Chow KM, Leung TN, Ng WF, Ng TK, Shek CC, et al. Pregnancy
+and perinatal outcomes of women with severe acute respiratory
+syndrome. Am J Obstet Gynecol. 2004 Jul;191(1):292–7.
+189. Liang H, Acharya G. Novel corona virus disease (COVID-19) in pregnancy:
+What clinical recommendations to follow? Acta Obstet Gynecol Scand.
+2020;1–4.
+190. Zhu H, Wang L, Fang C, Peng S, Zhang L, Chang G, et al. Clinical analysis
+of 10 neonates born to mothers with 2019-nCoV pneumonia. Transl
+Pediatr. 2020 Feb;9(1):51–60.
+74
+191. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang W, et al. Clinical
+characteristics and intrauterine vertical transmission potential of COVID-
+19 infection in nine pregnant women: a retrospective review of medical
+records. Lancet (London, England). 2020 Mar;395(10226):809–15.
+192. Ministério da Saúde. de Manejo Clínico para o Protocolo Novo
+Coronavírus. 2020.
+193. FIOCRUZ. Portal de Boas Práticas em Saúde da Mulher, da Criança e do
+Adolescente. Coronavirus e Gestação. 2020.
+194. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk
+factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a
+retrospective cohort study. Lancet. 2020;6736(20):1–9.
+195. Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al. Remdesivir and
+chloroquine effectively inhibit the recently emerged novel coronavirus
+(2019-nCoV) in vitro. Cell Res. 2020;30(3):269–71.
+196. Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality
+due to COVID-19 based on an analysis of data of 150 patients from
+Wuhan, China. Intensive Care Med. 2020;
+197. Li B, Yang J, Zhao F, Zhi L, Wang X, Liu L, et al. Prevalence and impact of
+cardiovascular metabolic diseases on COVID-19 in China. Clin Res Cardiol.
+2020;(0123456789).
+198. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of
+patients infected with 2019 novel coronavirus in Wuhan, China. Lancet.
+2020;395(10223):497–506.
+199. Zhang J jin, Dong X, Cao Y yuan, Yuan Y dong, Yang Y bin, Yan Y qin, et
+al. Clinical characteristics of 140 patients infected with SARS-CoV-2 in
+Wuhan, China. Allergy Eur J Allergy Clin Immunol. 2020;(February):1–12.
+200. Zeng JH, Liu Y-X, Yuan J, Wang F-X, Wu W-B, Li J-X, et al. First Case of
+COVID-19 Infection with Fulminant Myocarditis Complication: Case Report
+and Insights. 2020 Mar;
+201. Hongde Hu, Fenglian Ma, Xin Wei YF. Coronavirus fulminant myocarditis
+saved with glucocorticoid and human immunoglobulin | European Heart
+Journal | Oxford Academic.
+202. Liang W, Guan W, Chen R, Wang W, Li J, Xu K, et al. Cancer patients in
+SARS-CoV-2 infection: a nationwide analysis in China. Lancet Oncol. 2020
+Mar;21(3):335–7.
+203. Wang H, Zhang L. Risk of COVID-19 for patients with cancer. Lancet
+Oncol. 2020;2019(20):S1470-2045(20)30149-2.
+204. Yang C, Li C, Wang S. Clinical strategies for treating pediatric cancer
+during the outbreak of 2019 novel coronavirus infection. Vol. 67, Pediatric
+blood & cancer. United States; 2020. p. e28248.
+205. Ueda M, Martins R, Hendrie PC, McDonnell T, Crews JR, Wong TL, et al.
+Managing Cancer Care During the COVID-19 Pandemic: Agility and
+Collaboration Toward a Common Goal. J Natl Compr Canc Netw. 2020
+Mar;1–4.
+206. SAGES/AES. SAGES AND EAES RECOMMENDATIONS REGARDING
+SURGICAL RESPONSE TO COVID-19 CRISIS. SAGES site. 2020.
+207. AASLD/ACG/AGA/ASGE. Joint GI Society Message on Endoscopy During
+COVID-19: Gastroenterology Professional Society Guidance on Endoscopic
+75
+Procedures during the COVID-19 Pandemic. ACG site. 2020.
+208. ESGE/ESGENA. ESGE and ESGENA Position Statement on gastrointestinal
+endoscopy and the COVID-19 pandemic. ESGE site. 2020.
+209. Association of Surgeons of Great Britain & Ireland; Association of
+Coloproctology of Great Britain & Ireland; Association of Upper
+Gastrointestinal Surgeons; Royal College of Surgeons of Edinburgh; Royal
+College of Surgeons of England; Royal College of Ph. Updated
+Intercollegiate General Surgery Guidance on COVID-19. Royal college of
+Surgeons site. 2020.
+210. American College of Surgeons. COVID-19: Elective Case Triage Guidelines
+for Surgical Care. ACS site. 2020.
+211. AAGL/AUGS/IGCS/SGO/SGS/CAnadian society fo the Advancement of
+Gynecologic Excellence. Joint Statement on Minimally Invasive
+Gynecologic Surgery During the COVID-19 Pandemic. AAGL site. 2020.
+212. RCOG/BSGE. Joint RCOG / BSGE Statement on gynaecological
+laparoscopic procedures and COVID-19. BSGE site. 2020.
+213. ESGE. ESGE Recommendations on Gynaecological Laparoscopic Surgery
+during Covid-19 Outbreak. ESGE site. 2020.
+214. RCOG. RCOG staffing options for obstetrics and gynaecology services
+during COVID-19 pandemic. RCOG site. 2020.
+215. American College of Obstetricians and Gynecologists; American
+Association of Gynecologic Laparoscopists, American Society for
+Reproductive Medicine, the American Urogynecologic Society, the Society
+of Family Planning, the Society of Gynecologic Surgeons, and the S of
+GO. Joint Statement on Elective Surgeries. ACOG site. 2020.
+216. Tse F, Borgaonkar M, Leontiadis GI. COVID-19: Advice from the Canadian
+Association of Gastroenterology for Endoscopy Facilities, as of March 16,
+2020. J Can Assoc Gastroenterol. 2020 Mar;
+217. Zheng MH, Boni L, Fingerhut A. Minimally Invasive Surgery and the Novel
+Coronavirus Outbreak: Lessons Learned in China and Italy. Ann Surg.
+2020 Mar;
+218. Conforti C, Giuffrida R, Dianzani C, Di Meo N, Zalaudek I. COVID-19 and
+psoriasis: Is it time to limit treatment with immunosuppressants? A call
+for action. Dermatol Ther. 2020/03/12. 2020;e13298.
+219. Andrea G, Daniele D, Barbara A, Davide M, Laura A, Paolo R, et al.
+Coronavirus Disease 2019 and Transplantation: a view from the inside.
+Am J Transpl. 2020/03/18. 2020;
+220. D’Antiga L. Coronaviruses and immunosuppressed patients. The facts
+during the third epidemic. Liver Transpl. 2020/03/21. 2020;
+221. Guillen E, Pineiro GJ, Revuelta I, Rodriguez D, Bodro M, Moreno A, et al.
+Case report of COVID-19 in a kidney transplant recipient: Does
+immunosuppression alter the clinical presentation? Am J Transpl.
+2020/03/22. 2020;
+222. Ma Y, Diao B, Lv X, Zhu J, Liang W, Liu L, et al. 2019 novel coronavirus
+disease in hemodialysis (HD) patients: Report from one HD center in
+Wuhan, China. medRxiv. 2020;2020.02.24.20027201.
+223. Brasil. Protocolo Clínico e Diretrizes Terapêuticas para Manejo da Infecção
+pelo HIV em Adultos | Departamento de Vigilância, Prevenção e Controle
+76
+das IST, HIV/Aids e Hepatites Virais. Ministério da Saúde-Secretaria
+Vigilância em Saúde. 2018;
+224. BRASIL. Ministério da Saúde. OFÍCIO CIRCULAR No
+8/2020/CGAHV/.DCCI/SVS/MS. 2020;
+225. BRASIL. Secretaria de Vigilância à Saúde. Boletim Epidemiológico 9: Brasil
+Livre da Tuberculose: evolução dos cenários epidemiológicos e
+operacionais da doença. Boletim epidemiológico. 2020.
+226. Liu Y, Bi L, Chen Y, Wang Y, Fleming J, Yu Y, et al. Active or latent
+tuberculosis increases susceptibility to COVID-19 and disease severity.
+medRxiv. 2020 Jan;2020.03.10.20033795.
+227. Infectious Diseases Society of Southern Africa (IDSSA). Operational
+guidance on service delivery to TB patients (drugsusceptible and drug-
+resistant) during the COVID-19 pandemic. 2020.
+228. BRASIL. Ministério da Saúde - Secretaria de Vigilância em Saúde
+Departamento de Doenças de Condições Crônicas e Infecções
+Sexualmente Transmissíveis Coordenação-Geral de Vigilância das
+Doenças de Transmissão Respiratória. Orientações sobre as ações de
+manejo e controle da tuberculose durante a epidemia do COVID-19.
+Ofício circular no 5/2020/CGDR/.DCCI/SVS/MS. Brasília, 25 de Março de
+2020. Brasília, DF.: Ministério da Saúde; 2020.
+229. Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R, et al.
+Surviving Sepsis Campaign: International Guidelines for Management of
+Sepsis and Septic Shock: 2016. Intensive Care Med. 2017
+Mar;43(3):304–77.
+230. Akl EA, Meerpohl JJ, Elliott J, Kahale LA, Schunemann HJ. Living
+systematic reviews: 4. Living guideline recommendations. J Clin
+Epidemiol. 2017 Nov;91:47–53.
+231. Elliott JH, Turner T, Clavisi O, Thomas J, Higgins JPT, Mavergames C, et
+al. Living systematic reviews: an emerging opportunity to narrow the
+evidence-practice gap. PLoS Med. 2014 Feb;11(2):e1001603.
+232. Julian PT Higgins DGA and JAS on behalf of the CSMG and the CBMG.
+Chapter 8: Assessing risk of bias in included studies. The Cochrane
+Collaboration.
+233. GA Wells, B Shea, D O’Connell, J Peterson, V Welch, M Losos PT. The
+Newcastle-Ottawa Scale (NOS) for assessing the quality of
+nonrandomised studies in meta-analyses. The Ottawa Hospital.
+234. Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, et al. AMSTAR
+2: A critical appraisal tool for systematic reviews that include randomised
+or non-randomised studies of healthcare interventions, or both. BMJ.
+2017;
+235. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, et
+al. GRADE: an emerging consensus on rating quality of evidence and
+strength of recommendations. BMJ. 2008 Apr;336(7650):924–6.
+77
+12 APÊNDICE METODOLÓGICO
+Contexto
+A partir da formação de um grupo elaborador que compreendeu
+infectologistas, Diretoria Clínica, Diretoria de Pesquisa e metodologistas do
+Hospital Alemão Oswaldo Cruz, foram levantadas dúvidas e formuladas
+questões de pesquisa para o subsídio à tomada de decisão clínica no hospital e
+a elaboração das Diretrizes para Diagnóstico e Tratamento da COVID-19 para o
+Ministério da Saúde.
+Métodos
+Conceito e perguntas de pesquisa
+Devido ao elevado potencial de inovação, o volume e a qualidade das
+evidências relacionadas a pandemia de COVID-19 crescem diariamente. Dessa
+forma, esse documento segue o conceito de diretriz viva (living guidelines)
+(230,231), na qual as informações, das mais variadas fontes (artigos,
+documentos governamentais, recomendações de sociedades, protocolos
+[guidelines] já publicados, entre outros) serão buscadas de forma, rápida e
+sistemática semanalmente. No cenário recente de incertezas quanto à COVID-
+19, acreditamos que essa é uma maneira de produzir um documento robusto e
+atualizado.
+Essas Diretrizes foram atualizadas com base em 21 perguntas de
+pesquisa a seguir estruturadas:
+1) Qual a eficácia e a segurança do uso de máscaras (qualquer material)
+pela população geral, profissionais da saúde e pessoas com COVID-
+19?
+2) Quais os fatores relacionados à transmissão, infecção e contágio no
+contexto de SARS-CoV-2 e COVID-19?
+3) Quais as características ou fatores clínicos de agravamento que
+podem servir como indicadores de piora e consequente
+direcionamento do paciente com COVID-19 para a Unidade de Terapia
+Intensiva?
+4) Qual a eficácia e a segurança da oxigenação por membrana
+extracorpórea (ECMO) em pacientes com COVID-19?
+5) Quais os fatores relacionados à intubação ou quando intubar?
+6) Eficácia, segurança e informações do uso de ibuprofeno em pacientes
+com COVID-19?
+7) Eficácia, segurança e informações de uso dos antimaláricos
+(cloroquina e hidroxicloroquina) em pacientes com COVID-19?
+78
+8) Qual a eficácia e a segurança do uso de azitromicina em pacientes
+com COVID-19?
+9) Qual a eficácia da antibioticoterapia em pacientes com COVID-19 sem
+infecção bacteriana?
+10) Eficácia, segurança e informações de uso dos corticosteroides em
+pacientes com COVID-19?
+11) Eficácia, segurança e informações de uso dos antivirais em pacientes
+com COVID-19?
+12) Eficácia, segurança e informações de uso dos inibidores da enzima
+conversora de angiotensina (iECA) e dos bloqueadores do receptor de
+angiotensina (BRA) em pacientes com COVID-19?
+13) Qual a eficácia e a segurança do uso de tocilizumabe em pacientes
+com COVID-19?
+14) Qual a eficácia e a segurança da utilização de ivermectina em
+pacientes com COVID-19?
+15) Qual a eficácia e a segurança dos antagonistas do receptor de
+endotelina em pacientes com COVID-19?
+16) Qual a eficácia e a segurança da utilização de terapia com plasma de
+pacientes curados naqueles com COVID-19?
+17) Qual a eficácia e a segurança do uso de atazanavir em pacientes com
+COVID-19?
+18) Qual a eficácia e a segurança da utilização de inibidores de Janus
+Associated Kinase 1 e 2 em pacientes com COVID-19?
+19) Quais as estratégias de manejo do paciente com doença
+cardiovascular com COVID-19?
+20) Quais as estratégias de manejo do paciente oncológico com COVID-
+19?
+21) Quais são as características e manejo do paciente imunodeprimido,
+diagnosticado com COVID-19?
+Além das perguntas mencionadas acima, foi pesquizado o potencial de
+inovação terapêutico e as modalidades terapêuticas que estâo sendo testadas
+para COVID-19. Vide APÊNDICE 21.
+Evidência científica
+As questões formuladas foram respondidas por meio de revisões rápidas
+da literatura, nas quais as etapas de seleção, extração e avaliação da qualidade
+metodológica foram feitas por um revisor e checadas por outro.
+Neste momento, as bases de dados Medline (via Pubmed), Embase e
+clinicaltrials.gov foram pesquisadas.
+O risco de viés dos estudos foi avaliado por ferramenta adequada,
+conforme desenho de estudo: Cochrane Risk of Bias tool (232) para ensaios
+clínicos randomizados, Newcastle-Ottawa (233) para estudos observacionais
+79
+comparativos e AMSTAR-2 (234) para revisões sistemáticas. Séries e relatos de
+casos foram considerados como sendo de alto risco de viés. Devido ao caráter
+incipiente do avanço científico em COVID-19, estudos in vitro, letters,
+correspondências e opiniões, desde que trouxessem discussões mecanísticas e
+clínicas importantes, seriam incluídos. Estes estudos também considerados
+como sendo de alto risco de viés.
+No caso de haver uma revisão sistemática com qualidade que
+compreendesse o todo da evidência, essa seria selecionada. Caso uma revisão
+esteja desatualizada e estudos novos existam fora dela, optou-se por conduzir
+nova revisão. No caso de haver mais de uma revisão sistemática elegível, a
+mais recente e completa seria selecionada, desde que metodologicamente
+correta.
+Qualidade da evidência
+Sempre que possível, a qualidade da evidência foi avaliada conforme
+Gradings of Recommendation, Assessment, Development and Evaluation
+(GRADE) e sumarizada em tabela SoF (Summary of Findings) (235).
+Sumário das evidências avaliadas
+Confira a evidência científica relativa às perguntas de pesquisa que
+nortearam a elaboração dessas diretrizes, clique aqui.
+80
+

@@ -7,6 +7,28 @@
 * [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/)
 
 
+## 2020-04-18
+
+* [02-04-GUIA-PRACTICA-PARA-EL-AUTOCUIDADO-DE-LA-SALUD.pdf](dbb0a7c7546ff38fb2001fe51d3664b0168cfe92/file.pdf) @04:24 GMT
+* [20200417\_DIPTICO-PERSONAS-MAYORES-EN-AISLAMIENTO.pdf](41f7c03bdbef16b68cdb54a26dd6be04bb387f85/file.pdf) @00:21 GMT
+
+## 2020-04-17
+
+* [1752570.pdf](a4179d5e448d86eeb74640d6aa2085fee2a73a3e/file.pdf) @11:48 GMT
+
+## 2020-04-16
+
+* [20200415\_ADUANAS-SANITARIAS\_ubicacion.pdf](8939447448803c739d4ed1db144af59c37c38e71/file.pdf) @13:38 GMT
+
+## 2020-04-15
+
+* [2020.04.13\_CRITERIOS-PACIENTES-SIN-CONTAGIO-COVID-19\_02.pdf](70a9dc9805325c2f90592e609d115206363915ca/file.pdf) @21:24 GMT
+* [DO\_1751692.pdf](47d76c293494df4d9239b301aa878b1be9dc6f89/file.pdf) @13:26 GMT
+
+## 2020-04-14
+
+* [2020.04.13\_ALTA-DE-CUARENTENA.pdf](09e782432d9fb0a09e2615ba50337c935553aeb9/file.pdf) @13:27 GMT
+
 ## 2020-04-13
 
 * [DS11.pdf](b845b3f3ce13b6c0b5c3d8b926101d3e298a6d7f/file.pdf) @16:56 GMT

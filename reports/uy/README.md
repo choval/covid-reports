@@ -6,6 +6,17 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-17
+
+* [MSP\_PROTOCOLO\_TRABAJADORES\_17\_04\_0.pdf](850c8774f7aba84a1cdd4489f7a27d29e37807f9/file.pdf) @22:31 GMT
+* [informe-situacion-relacion-coronavirus-covid-19-uruguay-3](d8c9b813bb5f20359733d453d64c5d89cd1b3320/file.pdf) @15:56 GMT
+* [0800-1920-linea-gratuita-apoyo-emocional-frente-covid-19](488300a0f39488377200997d5fe1b7b50ef6e733/file.pdf) @14:49 GMT
+
+## 2020-04-15
+
+* [MSP\_RECOMENDACIONES\_PERSONAS\_MAYORES\_COVID\_19\_0.pdf](19b003b4181434ee27237c3f539e6792e332f487/file.pdf) @19:30 GMT
+* [informacion-interes-actualizada-sobre-coronavirus-covid-19-5](20204815fac6179770130a72f2bd0923272d4fa3/file.pdf) @02:07 GMT
+
 ## 2020-04-14
 
 * [informacion-interes-actualizada-sobre-coronavirus](134bae449aba3da2f7ba0eed31c0b867e094f3a0/file.pdf) @03:25 GMT

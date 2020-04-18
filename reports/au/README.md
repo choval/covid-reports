@@ -5,6 +5,10 @@
 * [https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
 
 
+## 2020-04-17
+
+* [covid\_19\_australia\_epidemiology\_report\_11\_\_reporting\_week\_ending\_23\_59\_aest\_12\_april\_2020.pdf](6dd29269d57a3c851af2058aea5d2399ab868627/file.pdf) @14:15 GMT
+
 ## 2020-04-09
 
 * [covid\_19\_australia\_epidemiology\_report\_10\_\_reporting\_week\_ending\_23\_59\_aest\_5\_april\_2020.pdf](fd3f91785c0327b9931b3cdf3714f63acec85a69/file.pdf) @14:36 GMT

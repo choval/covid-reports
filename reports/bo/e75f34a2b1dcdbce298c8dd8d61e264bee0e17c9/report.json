@@ -1,0 +1,22 @@
+{
+    "filename": "4060-ministro-de-salud-afirma-que-bolivia-se-fortalece-para-enfrentar-al-covid-19-y-pide-responsabilidad-a-la-poblacion",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4060-ministro-de-salud-afirma-que-bolivia-se-fortalece-para-enfrentar-al-covid-19-y-pide-responsabilidad-a-la-poblacion",
+    "output": "file.pdf",
+    "downloaded": 1587133163,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 17 Apr 2020 14:23:45 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=gmcgucaj33mb88dsdqs1sbcm3g; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Fri, 17 Apr 2020 14:23:45 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 721913,
+    "modified": 1587133168
+}

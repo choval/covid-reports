@@ -1,0 +1,29 @@
+{
+    "filename": "MechanicalVentilationWebinarAIIMSNewDelhi.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/MechanicalVentilationWebinarAIIMSNewDelhi.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587133750,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Thu, 16 Apr 2020 16:20:46 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "145670",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2513244",
+        "expires": "Sat, 16 May 2020 16:36:34 GMT",
+        "date": "Fri, 17 Apr 2020 14:29:10 GMT"
+    },
+    "lang": "en,hi",
+    "size": 145670,
+    "modified": 1587054046
+}

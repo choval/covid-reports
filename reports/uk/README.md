@@ -7,8 +7,38 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-18
+
+* [testing-for-coronavirus-privacy-information](c50d5434d70166d0308ec8d686c15f65d24dc636/file.pdf) @14:01 GMT
+
+## 2020-04-17
+
+* [managing-shortages-in-personal-protective-equipment-ppe](1e35124b0eafce913de56c6a14db7fd132005841/file.pdf) @23:05 GMT
+* [2020-04-17-coronavirus-covid-19-infection-in-pregnancy.pdf](1e63f6df2d5a70fee3c0cc010ccbf4b9120c7b35/file.pdf) @17:06 GMT
+* [2020-04-17-guidance-for-antenatal-and-postnatal-services.pdf](a0f1f9c3a5a47fff5436052c213b612f82ae3e08/file.pdf) @15:30 GMT
+* [2020-04-17-guidance-for-provision-of-midwife-led-settings.pdf](8d22c855415a63f2f59d55195f6a3a0f352d4ad3/file.pdf) @15:30 GMT
+* [storing-treated-sewage-sludge-you-cannot-move-because-of-covid-19-restrictions-rps-c6](358f81888c2848a4f736447acdb4f30d8855dd25/file.pdf) @14:48 GMT
+* [covid-19-our-action-plan-for-adult-social-care](082fe6ff6fde02fece13e2578978c1c652b9db52/file.pdf) @14:48 GMT
+* [guidance-for-consumers-on-coronavirus-covid-19-and-food](6b40f92a6c8352c397c82ff86eb3daf74f85afbc/file.pdf) @14:48 GMT
+
+## 2020-04-16
+
+* [covid-19-guidance-for-alternative-swab-types-and-transport-media](67988d64431ede60fd6cbf3b79dafdaba060ff39/file.pdf) @11:52 GMT
+* [COVID-19\_Suspected\_cases\_samples\_taken\_A3\_poster\_AandE.pdf](c7f880e67a662ce6bcaea375854cc2bc855296b5/file.pdf) @09:39 GMT
+* [Sample\_Packaging\_Instructions\_A3\_poster.pdf](956b4b268efd799bda079d8554ed76ca60c732df/file.pdf) @09:37 GMT
+
+## 2020-04-15
+
+* [covid-19-personal-protective-equipment-ppe-plan](6c0b8aa7668a9503fe4377275a0e8f71815b78d0/file.pdf) @19:19 GMT
+* [covid-19-guidance-for-commissioners-and-providers-of-services-for-people-who-use-drugs-or-alcohol](8fc5084a023a2ca00bcee1c24351f2c8a8415061/file.pdf) @19:19 GMT
+* [ppe-waste-from-home-healthcare-workers-treating-patients-with-covid-19-rps-c5](c666c8297194a24d0d292e0f7b3493938d78bdbd/file.pdf) @19:19 GMT
+* [covid-19-transport-data-methodology-note](77385320ce55ae1ac28cb7462bca782316197a9d/file.pdf) @19:18 GMT
+* [coronavirus-leaflet-easy-read-welsh.pdf](5b921a5288cbb83e22fd2efeb55c958ad33fe9c9/file.pdf) @07:56 GMT
+* [coronavirus-leaflet-easy-read.pdf](9ce3dd0e2ef15bfeaa71c76aa7ab77f79c14ef23/file.pdf) @07:55 GMT
+
 ## 2020-04-14
 
+* [Guidance\_for\_Laboratories\_offering\_support\_for\_COVID-19\_testing\_for\_publication\_v2\_\_2\_.pdf](e0e4f636587cd06d5d99a89eab72eedca9962eea/file.pdf) @17:49 GMT
 * [Coronavirus\_\_COVID-19\_\_-\_personal\_protective\_equipment\_\_PPE\_\_plan.pdf](00b5e3e66849f824d1e8d67326c3094271440221/file.pdf) @11:14 GMT
 
 ## 2020-04-13

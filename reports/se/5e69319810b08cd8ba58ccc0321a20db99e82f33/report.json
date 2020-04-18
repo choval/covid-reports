@@ -1,0 +1,26 @@
+{
+    "filename": "nationell-strategi-diagnostik-covid-19.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/19b6b859352a42c28710fb463af81697\/nationell-strategi-diagnostik-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587216466,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Sat, 18 Apr 2020 13:27:46 GMT",
+        "etag": "\"1D614AE30D2E180\"",
+        "expires": "Sat, 18 Apr 2020 13:27:45 GMT",
+        "last-modified": "Fri, 17 Apr 2020 11:49:03 GMT",
+        "server": "Front2",
+        "set-cookie": "Set_Me=3409592789.1.985520280.2159989248; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "1330768"
+    },
+    "lang": "sv",
+    "size": 1330768,
+    "modified": 1587124143
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "c4401e-GestindonacionesEPPMSPBSCOVID190420.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/c4401e-GestindonacionesEPPMSPBSCOVID190420.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587138884,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Fri, 17 Apr 2020 15:54:40 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "419229",
+        "last-modified": "Fri, 17 Apr 2020 15:17:48 GMT",
+        "etag": "\"6659d-5a37e0d5b754b\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 419229,
+    "modified": 1587136668
+}

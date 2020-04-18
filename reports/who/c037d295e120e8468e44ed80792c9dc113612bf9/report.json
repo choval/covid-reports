@@ -1,0 +1,28 @@
+{
+    "filename": "20200417-sitrep-88-covid-191b6cccd94f8b4f219377bff55719a6ed.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/coronaviruse\/situation-reports\/20200417-sitrep-88-covid-191b6cccd94f8b4f219377bff55719a6ed.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587164751,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "820921",
+        "date": "Fri, 17 Apr 2020 23:05:50 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Thu, 16 Jul 2020 23:05:52 GMT",
+        "last-modified": "Fri, 17 Apr 2020 20:15:43 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=20200417-sitrep-88-covid-191b6cccd94f8b4f219377bff55719a6ed.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "x-powered-by": "ASP.NET",
+        "access-control-allow-origin": "*",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 613e309d3f62a26098eb251efc2e2802.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "EKpqeFf5VgQRqcOLtjrqQlUf7kJ6WTl_8PSu5uduYAFIPknf-iB3nA=="
+    },
+    "lang": "en",
+    "size": 820921,
+    "modified": 1587154543
+}
