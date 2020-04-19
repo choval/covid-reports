@@ -1,0 +1,29 @@
+{
+    "filename": "ModificationinMedicineListinTelemedicinePracticeGuidelines.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/ModificationinMedicineListinTelemedicinePracticeGuidelines.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587300240,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sat, 18 Apr 2020 13:57:47 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "94993",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2511195",
+        "expires": "Mon, 18 May 2020 14:17:15 GMT",
+        "date": "Sun, 19 Apr 2020 12:44:00 GMT"
+    },
+    "lang": "en,hi",
+    "size": 94993,
+    "modified": 1587218267
+}

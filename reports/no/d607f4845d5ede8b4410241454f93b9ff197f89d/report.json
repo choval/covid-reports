@@ -1,0 +1,28 @@
+{
+    "filename": "2020.04.19---norden-og-verden-covid-19.pdf",
+    "uri": "https:\/\/www.fhi.no\/contentassets\/ca5914bd0aa14e15a17f8a7d48fa306a\/vedlegg\/koronavirus---dagsrapporter\/2020.04.19---norden-og-verden-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587300605,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 19 Apr 2020 12:50:05 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "350671",
+        "set-cookie": "__cfduid=de28cb5c9c76740a1122a369c8a11cceb1587300604; expires=Tue, 19-May-20 12:50:04 GMT; path=\/; domain=.www.fhi.no; HttpOnly; SameSite=Lax",
+        "cache-control": "public, max-age=43200",
+        "expires": "Mon, 20 Apr 2020 00:50:05 GMT",
+        "last-modified": "Sun, 19 Apr 2020 10:59:56 GMT",
+        "etag": "\"1D61639A919DE00\"",
+        "request-context": "appId=cid-v1:afda6def-0de1-4764-90ec-fb72e90cbcc7",
+        "access-control-expose-headers": "Request-Context",
+        "cf-cache-status": "MISS",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "5866bfcc8ca3f812-EZE",
+        "cf-request-id": "02341633d20000f8125e9c5200000001"
+    },
+    "size": 350671,
+    "modified": 1587293996
+}

@@ -7,6 +7,11 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-19
+
+* [covid-19-putting-on-and-removing-ppe-a-guide-for-care-homes-video](b8447220bed2467c9ade81ea2d4ae396bee3ce3a/file.pdf) @12:52 GMT
+* [covid-19-guidance-for-managing-a-funeral-during-the-coronavirus-pandemic](fe719ab9a73a997bf7a3e91ab9a886fd2d23b3b3/file.pdf) @12:52 GMT
+
 ## 2020-04-18
 
 * [testing-for-coronavirus-privacy-information](c50d5434d70166d0308ec8d686c15f65d24dc636/file.pdf) @14:01 GMT

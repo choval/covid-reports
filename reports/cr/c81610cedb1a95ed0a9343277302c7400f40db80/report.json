@@ -1,0 +1,19 @@
+{
+    "filename": "med_administ_temp_atenc_activid_concent_v17_17042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/med_administ_temp_atenc_activid_concent_v17_17042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587300013,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 19 Apr 2020 12:40:13 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Sat, 18 Apr 2020 00:28:58 GMT",
+        "etag": "\"2d0fd-5a385c06e8680\"",
+        "accept-ranges": "bytes",
+        "content-length": "184573",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 184573,
+    "modified": 1587169738
+}

@@ -1,0 +1,22 @@
+{
+    "filename": "4066-casos-de-coronavirus-suben-a-493-en-el-pais-y-31-pacientes-estan-en-recuperacion",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4066-casos-de-coronavirus-suben-a-493-en-el-pais-y-31-pacientes-estan-en-recuperacion",
+    "output": "file.pdf",
+    "downloaded": 1587299973,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 19 Apr 2020 12:43:55 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=is5dmorp8h0cfi5mavkn1b0gap; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Sun, 19 Apr 2020 12:43:56 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 737018,
+    "modified": 1587299979
+}

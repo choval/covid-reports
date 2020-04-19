@@ -1,0 +1,19 @@
+{
+    "filename": "protocolo_AAII_covid19_17042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/protocolo_AAII_covid19_17042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587300018,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 19 Apr 2020 12:40:17 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 17 Apr 2020 15:25:41 GMT",
+        "etag": "\"25629d-5a37e297fc740\"",
+        "accept-ranges": "bytes",
+        "content-length": "2450077",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 2450077,
+    "modified": 1587137141
+}

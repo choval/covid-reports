@@ -1,0 +1,28 @@
+{
+    "filename": "m_pi.AOOUFGAB.REGISTRO DECRETI(R).0000197.17-04-2020.pdf",
+    "uri": "https:\/\/www.miur.gov.it\/documents\/20182\/2453773\/m_pi.AOOUFGAB.REGISTRO+DECRETI%28R%29.0000197.17-04-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587300258,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 19 Apr 2020 12:42:13 GMT",
+        "server": "Apache",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "last-modified": "Sat, 18 Apr 2020 09:32:48 GMT",
+        "content-disposition": "inline; filename=\"m_pi.AOOUFGAB.REGISTRO DECRETI(R).0000197.17-04-2020.pdf\"",
+        "content-type": "application\/pdf",
+        "content-length": "437072",
+        "x-cacheable": "YES",
+        "x-backend": "mvlliport012",
+        "x-varnish": "247103286 247185997",
+        "age": "124",
+        "x-cache": "HIT",
+        "x-cache-hits": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "it",
+    "size": 437072,
+    "modified": 1587202368
+}

@@ -6,6 +6,10 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-19
+
+* [informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay-1](c387ae4fc6d68ef96dedcaed20eb41371f1530e4/file.pdf) @12:52 GMT
+
 ## 2020-04-17
 
 * [MSP\_PROTOCOLO\_TRABAJADORES\_17\_04\_0.pdf](850c8774f7aba84a1cdd4489f7a27d29e37807f9/file.pdf) @22:31 GMT

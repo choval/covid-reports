@@ -1,0 +1,21 @@
+{
+    "filename": "2019-nCoV_200416.pdf",
+    "uri": "https:\/\/www.mhlw.go.jp\/content\/2019-nCoV_200416.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587300312,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sun, 19 Apr 2020 05:28:48 GMT",
+        "etag": "\"466d4-5a39e0e8f8400\"",
+        "accept-ranges": "bytes",
+        "content-length": "288468",
+        "content-type": "application\/pdf",
+        "date": "Sun, 19 Apr 2020 12:45:12 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "ja",
+    "size": 288468,
+    "modified": 1587274128
+}

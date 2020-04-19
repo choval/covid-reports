@@ -6,6 +6,12 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-19
+
+* [4066-casos-de-coronavirus-suben-a-493-en-el-pais-y-31-pacientes-estan-en-recuperacion](cd0246e8f1ed5f86b2b50013b6c0c77d8ba161f8/file.pdf) @12:39 GMT
+* [4067-laboratorio-covid-pts](8502c6e42ed9b05a3db4152c734b372bef2aa003/file.pdf) @12:39 GMT
+* [4068-pruebas-de-covid-19-no-son-restringidas-son-prioridad-en-casos-sintomaticos](2837a6d6bc28e7604cd6fe8fbfdc7057482669b4/file.pdf) @12:39 GMT
+
 ## 2020-04-17
 
 * [4063-laboratorios-covid-19-en-tarija-y-chuquisaca-estan-casi-listos-y-se-garantiza-la-implementacion-en-otros-departamentos](d908643ecff3f63aed8a589fd17e198333e2d468/file.pdf) @21:25 GMT

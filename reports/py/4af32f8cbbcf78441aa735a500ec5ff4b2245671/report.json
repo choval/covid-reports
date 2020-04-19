@@ -1,0 +1,19 @@
+{
+    "filename": "bc202c-COVID19Prensa.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/bc202c-COVID19Prensa.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587300641,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 19 Apr 2020 12:50:38 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "391987",
+        "last-modified": "Sat, 18 Apr 2020 16:25:03 GMT",
+        "etag": "\"5fb33-5a3931bad7fba\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 391987,
+    "modified": 1587227103
+}
