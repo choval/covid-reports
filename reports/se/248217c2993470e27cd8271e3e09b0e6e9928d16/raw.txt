@@ -1,0 +1,469 @@
+Förekomsten av covid-19
+i region Stockholm,
+26 mars–3 april 2020
+2
+Denna titel kan laddas ner från: www.folkhalsomyndigheten.se/publicerat-material/. En del av våra titlar
+går även att beställa som ett tryckt exemplar från Folkhälsomyndighetens publikationsservice,
+publikationsservice@folkhalsomyndigheten.se.
+Citera gärna Folkhälsomyndighetens texter, men glöm inte att uppge källan. Bilder, fotografier och
+illustrationer är skyddade av upphovsrätten. Det innebär att du måste ha upphovsmannens tillstånd att
+använda dem.
+© Folkhälsomyndigheten, 2020-04-17.
+Artikelnummer: 20051
+3
+Om publikationen
+Denna rapport redovisar resultaten från vår undersökning av förekomsten av
+covid-19 i region Stockholm. Undersökningen genomfördes i månadsskiftet
+mars–april 2020 och visar omfattningen av smittspridningen under denna
+period.
+Kunskapsunderlaget kommer bland annat användas som ett underlag för de
+modelleringar av smittspridning som vi på Folkhälsomyndigheten gör.
+Rapporten beskriver även de symtom som associeras med covid-19, vilket
+är av vikt för många målgrupper.
+Vi har genomfört undersökningen med stöd av Försvarsmakten. Ramona
+Groenheit har varit projektledare.
+Folkhälsomyndigheten
+Karin Tegmark Wisell
+Avdelningschef, avdelningen för Mikrobiologi
+4
+Innehåll
+Om publikationen ......................................................................................................... 3
+Förkortningar ............................................................................................................... 5
+Ordlista ....................................................................................................................... 6
+Sammanfattning........................................................................................................... 7
+Summary..................................................................................................................... 8
+Bakgrund..................................................................................................................... 9
+Syfte ......................................................................................................................... 10
+Metod........................................................................................................................ 11
+Design................................................................................................................... 11
+Urvalsstorlek .......................................................................................................... 11
+Urval av deltagare .................................................................................................. 11
+Utlämnande och upphämtning av prover .................................................................. 11
+Egenprovtagning .................................................................................................... 12
+Symtomenkät......................................................................................................... 12
+Laboratorieanalys ................................................................................................... 12
+Återkoppling av provsvar till deltagare...................................................................... 12
+Statistiska metoder................................................................................................. 12
+Resultat..................................................................................................................... 14
+Urval och provtagning............................................................................................. 14
+Andel deltagare positiva för SARS-CoV-2 .................................................................. 14
+Resultat per åldersgrupp ..................................................................................... 14
+Resultat per kön................................................................................................. 15
+Symtomenkät......................................................................................................... 15
+Diskussion ................................................................................................................. 18
+Slutord ...................................................................................................................... 20
+Referenser................................................................................................................. 21
+5
+Förkortningar
+KI Konfidensintervall.
+PCR Polymerase chain reaction, en metod för att påvisa närvaro av
+arvsmassan från exempelvis ett virus.
+6
+Ordlista
+Covid-19 Coronavirus disease 2019.
+Prevalens Andel individer i en population som har en given
+sjukdom.
+Punktprevalens Andel individer i en population som har en given
+sjukdom vid en viss tidpunkt.
+SARS-CoV-2 SARS-coronavirus-2, viruset som orsakar covid-
+19.
+SmiNet Anmälningssystem för smittsamma sjukdomar
+som är anmälningspliktiga enligt
+smittskyddslagen.
+Stickprov Statistiskt begrepp som avser ett mindre urval ur
+en större grupp.
+Strata Grupp, här de grupper som befolkningen delas in
+i utifrån åldersintervall.
+Stratifiering Indelning i grupper.
+Triagering Initial bedömning av vårdbehov, här att kunna
+urskilja patienter som misstänks vara sjuka i
+covid-19.
+7
+Sammanfattning
+Undersökningen visar att i månadsskiftet mars–april 2020 hade cirka 2,5
+procent av stockholmarna påvisbara nivåer av SARS-CoV-2 i övre
+luftvägarna. Ingen statistisk skillnad mellan könen eller mellan
+åldersgrupper kunde bestämmas.
+Totalt deltog 738 frivilliga individer mellan 2 och 86 år i undersökningen
+som genomfördes av oss på Folkhälsomyndigheten med stöd av
+Försvarsmakten. Metoden som användes för att genomföra undersökningen
+omfattade egenprovtagning i hemmet där deltagarna provtog sig själva i de
+övre luftvägarna. Proverna analyserades därefter vid vårt laboratorium för
+påvisning av SARS-CoV-2.
+Utöver provtagningen besvarade deltagarna en enkät där de rapporterade de
+fysiska besvär de upplevt två veckor respektive ett dygn innan tidpunkten
+för provtagningen. Med anledning av det låga antalet deltagare positiva för
+SARS-CoV-2 kan inte någon statistisk skillnad i symtom mellan deltagare
+positiva för viruset och deltagare negativa för viruset bestämmas.
+8
+Summary
+Between March 26 and April 4, 2020, the Public Health Agency of Sweden,
+with the support from the Swedish Armed Forces, conducted a survey to
+estimate the prevalence of covid-19 in the Stockholm region. The survey
+encompassed 738 participants of a randomly selected panel. The
+participants were between 2 to 86 years of age. Kits for sampling of upper
+respiratory tract and instructions on how to perform the sampling were
+delivered home to the participants. The samples were analyzed for the
+presence of SARS-CoV-2, the causative agent for covid-19, at the Public
+Health Agency of Sweden. Besides taking the samples, the participants were
+asked to fill in a web-based survey about symptoms they were experiencing
+at the time of the sampling and two weeks before.
+The results showed that approximately 2.5% (18 individuals out of 707
+valid tests) of the population in the Stockholm region carried the virus in
+their upper respiratory tract at the time of the survey. There were no
+significant differences in positivity between genders or between age groups.
+Regarding the reported symptoms, the low number of positive cases did not
+allow for statistical analyses to determine differences between SARS-CoV-2
+positive and negative individuals
+9
+Bakgrund
+I nuläget provtas framförallt följande personer för covid-19:
+• Patienter med symtom som kan vara förenliga med covid-19 som är
+inneliggande eller blir inlagda på sjukhus
+• misstänkta fall inom äldreomsorgen
+• personal med symtom som kan vara förenliga med covid-19 inom vård
+och omsorg
+Våra nationella rekommendationer är att man ska stanna hemma vid
+symtom på covid-19 för att inte riskera att sprida eventuell smitta vidare i
+samhället. Personer med milda symptom provtas därför endast i liten
+omfattning. För att beräkna hur många som kan vara smittade med covid-19
+i samhället använder vi olika metoder. Den här undersökningen är en av de
+metoderna. Resultatet från våra mätningar av prevalensen ger ett underlag
+för att följa sjukdomens spridning och för prediktioner av smittspridning.
+Vidare behövs mer kunskap om vilka symtom som är vanliga vid covid-19.
+Ökad kunskap om symtomen för sjukdomen ger bland annat bättre
+förutsättningar för triagering av sjuka individer och bättre träffsäkerhet i
+syndromövervakning.
+Det finns i dagsläget få undersökningar i världen gjorda för att mäta
+förekomsten av covid-19 ute i samhället. I början av februari gjordes en
+provtagning av alla invånare i en liten stad i Italien (ca 3000 personer).
+Invånarna hade satts i karantän och enligt mediakällor visade mätningen att
+ungefär 3 % av stadens invånare var infekterade. I början av april gjordes en
+undersökning i Österrike där ca 1 500 personer provtogs för att se andelen
+infekterade. Den mätningen visade att 0,33 % av befolkningen var
+infekterade (1).
+10
+Syfte
+Det primära syftet med undersökningen var att undersöka punktprevalensen
+i region Stockholm, det vill säga att skatta hur många personer som vid ett
+visst tillfälle är infekterade med SARS-CoV-2. Ett annat syfte var att
+identifiera vilka symtom som kan associeras till covid-19.
+11
+Metod
+Design
+Studien planerades som en tvärsnittsstudie och pågick 30 mars–6 april 2020.
+Urvalsstorlek
+Stickprovsstorleken beräknades för ett stratifierat urval där det antogs att
+punktprevalensen i varje strata var 5 % med en precision på 2 %. Strata
+definierades som följande åldersgrupper: 0–5 år, 6–19 år, 20–69 år och 70 år
+och äldre.
+Totalt beräknade vi att 658 deltagare behövde inkluderas, där vi antog ett
+bortfall på 10 %. Bortfallet var dock närmare 30 % och därför bjöd vi in
+samtliga deltagare i Hälsorapports webbpanel, som bodde i region
+Stockholm, att delta. Detta ökade urvalet till 1106 individer vilket
+säkerställde antalet deltagare som behövdes för att uppnå en precision på
+2 % givet en punktprevalens på 5 %.
+Urval av deltagare
+De deltagare i Hälsorapports webbpanel som bodde i region Stockholm,
+bjöds in att delta i undersökningen. Hälsorapports panel består av slumpvis
+utvalda deltagare i åldern 2–90 år som är representativa för Sverige
+avseende ålder, region och kön. Mer information om Hälsorapport finns på
+vår webbplats (2).
+En inbjudan att delta i undersökningen skickades ut via e-post. Den innehöll
+information om att undersökningen omfattade egenprovtagning i hemmet
+och att deltagarna skulle besvara en webbenkät i samband med
+provtagningen.
+Deltagarna fick registrera sig genom att fylla i ett webbformulär där de
+också fick välja vilka dagar de kunde ta emot provtagningsmaterialet samt
+lämna de tagna proverna. Efter den initiala anmälan fick deltagarna en
+bekräftelse per e-post om vilket tidsintervall provtagningsmaterialet skulle
+levereras till deras hemadress respektive när proverna skulle hämtas upp.
+Deltagandet i undersökningen var helt frivilligt och kunde avbrytas när som
+helst.
+Utlämnande och upphämtning av prover
+För att kunna genomföra denna undersökning begärde vi stöd från
+Försvarsmakten. Myndigheterna utvecklade ett gemensamt koncept för
+egenprovtagningen. Försvarsmakten koordinerade och genomförde
+utlämningen av provtagningsmaterialet och påföljande upphämtning av
+proverna. Egenprovtagningen genomfördes 26 mars–3 april.
+12
+Egenprovtagning
+Provtagningsmaterialet bestod av två sterilt förpackade provtagningspinnar,
+ett rör innehållande buffert samt en uppsamlingsburk avsedd för salivprov.
+Skriftliga provtagningsanvisningar medföljde.
+Deltagarna ombads använda ena provtagningspinnen för att ta svalgprov
+(genom att skrapa längst bak i halsen i 10–20 sekunder) och sedan slamma
+runt pinnen i buffert varefter pinnen slängdes. Därefter användes den andra
+provtagningspinnen till att ta prov på insidan av båda näsborrarna en bit
+ovanför näsvingen för att sedan röra runt även detta i samma buffert varefter
+pinnen slängdes. Vidare lämnade deltagarna ett salivprov genom att spotta
+3–4 gånger i uppsamlingsburken. För små barn utfördes provtagningen av
+vårdhavare.
+Om proverna inte hämtades upp samma dag som provtagningen
+genomfördes, uppmanades deltagarna att förvara proverna i kylskåp tills
+dess att upphämtningen skedde.
+Symtomenkät
+I samband med provtagningen uppmanades deltagarna att via en webbenkät
+ange vilka eventuella sjukdomssymtom de upplevt det senaste dygnet
+respektive de två senaste veckorna innan provtagningen. Deltagarna kunde
+kryssa i fördefinierade symtom men även lägga till en egen beskrivning av
+symtomen. Utöver symtom fick även deltagarna svara på om de hade någon
+underliggande sjukdom.
+Laboratorieanalys
+Proverna analyserades vid vårt laboratorium. Analyserna genomfördes med
+de molekylärbiologiska metoder (realtids-PCR) som används rutinmässigt
+för diagnostik av covid-19. För att bedöma kvaliteten på provtagningen
+analyserades även proverna för närvaro av genen för beta-aktin.
+Återkoppling av provsvar till deltagare
+Positiva provsvar återkopplades till deltagarna via telefon. Behandlande
+läkare informerade om vad det innebär att ha sjukdomen, vilka symtom den
+kan ge och vilka åtgärder deltagaren behöver vidta för att inte sprida
+sjukdomen vidare. Vidare anmäldes resultatet enligt smittskyddslagen
+(2004:168) till SmiNet. Negativa provsvar skickades per post.
+Statistiska metoder
+Punktprevalens under studieperioden skattades som andelen positiva prov
+av alla prover som analyserades. På liknande sätt räknades den andel som
+upplevde ett specifikt besvär, dvs. det antal som svarade ja på en specifik
+13
+fråga om symtom. Beräkningen av andelen med olika underliggande
+sjukdomar bland de som svarade ja eller nej på varje delfråga utfördes.
+Alla resultat rapporteras med 95 % konfidensintervall och viktades enligt
+• urvalet som ligger till grund för Hälsorapports webbpanel
+• bortfallsvikter för att ta hänsyn till de deltagare i webbpanelen
+Hälsorapport som valde att inte delta i undersökningen
+• Stockholms population vad gäller ålder- och könsfördelning för
+deltagare 16 år och äldre, och bara könsfördelning för de under 16 år.
+Beräkningar gjordes i R v.2.6.0. För att få viktade resultat användes survey
+paket v.4.0. i R. Konfidensintervallet beräknades med metoden baserad på
+beta-fördelning givet att många resultat är små proportioner nära noll.
+14
+Resultat
+Urval och provtagning
+1 106 personer (vuxna deltagare eller vårdnadshavare till barn) fick vår
+inbjudan, varav 738 personer mellan 2 och 86 år valde att delta. Av dessa
+kunde inte prover från 31 personer analyseras för SARS-CoV-2 och utgick
+därför ur analysen.
+Resultat stratifierades enligt kön och ålder. Åldersgrupperna för analysen
+var: 0–15 år, 16–29 år, 30–59 år, 60 år och äldre (Tabell 1).
+Tabell 1. Uppdelning av urvalet i ålder och kön (N=707)
+Kvinnor Män Andel (%)
+0–15 63 84 20,8
+16–29 23 28 7,2
+30–59 168 131 42,3
+60 år och äldre 111 99 29,7
+Andel (%) 51,6 48,4
+Andel deltagare positiva för SARS-CoV-2
+Av de 707 deltagarna som lämnade analyserbara prover visade sig 18
+personer vara positiva för SARS-CoV-2. 689 personer var negativa för
+viruset.
+Baserat på resultatet uppskattas att 2,5 procent av befolkningen i region
+Stockholm bar på SARS-CoV-2 i de övre luftvägarna mellan 26 mars och 3
+april (95 % konfidensintervall 1,4–4,2 %) (Tabell 2).
+Tabell 2. Andel av deltagarna som lämnade prover som analyserades positivt eller negativt
+för SARS-CoV-2. Stockholm 26 mars–3 april 2020 (N=707).
+Andel (%) 95 % KI
+Negativ 97,5 (95,9–98,6)
+Positiv 2,5 (1,4–4,1)
+Stockholms läns population hade 2 374 550 invånare år 2019 (SCB). Det
+betyder att vi skattar att 59 364 invånare (95 % KI 33 244; 97 357) i
+befolkningen utanför vården var positiva för SARS-CoV-2 i de övre
+luftvägarna under perioden 26 mars-3 april, 2020.
+Resultat per åldersgrupp
+Variationen av andelen positiva per åldersgrupp var låg (Tabell 3) och då
+konfidensintervallerna överlappar varandra kan vi inte säkerställa någon
+statistisk signifikant skillnad i punktprevalensen mellan åldersgrupperna.
+15
+Tabell 3. Andelen deltagare per åldersgrupp som lämnade prov som analyserades positiva
+eller negativa för SARS-CoV-2. Stockholm 26 mars–3 april 2020 (N=707).
+Positiva Negativa
+Andel (%) 95 % KI Andel (%) 95 % KI
+0–15 2,8 (0,8–7,0) 97,2 (93,0–99,2)
+16–29 2,4 (0,1–12,7) 97,6 (87,3–99,9)
+30–59 2,6 (1,1–5,1) 97,4 (94,9–98,9)
+60 år och äldre 2,0 (0,5–5,0) 98,0 (95,0–99,5)
+Resultat per kön
+Ingen statistisk signifikant skillnad kan säkerställas i resultaten mellan kön
+avseende prevalens för covid-19 då konfidensintervallerna överlappar
+varandra (tabell 4).
+Tabell 4. Andelen deltagare per kön som lämnade prov som analyserades positiva eller
+negativa för SARS-CoV-2. Stockholm 26 mars–3 april 2020 (N=707).
+Positiva Negativa
+Andel (%) 95 % KI Andel (%) 95 % KI
+Kvinnor 3,7 (1,7–6,8) 96,3 (93,2–98,3)
+Män 1,4 (0,4–3,2) 98,6 (96,8–99,6)
+Symtomenkät
+De deltagare som inte svarade på enkäten eller svarade på enkäten innan de
+tagit sina prover exkluderades från analysen av enkätsvaren. Följande
+resultat baseras därför på 689 deltagare. Samtliga deltagare som var positiva
+för covid-19 svarade på enkäten. Med anledning av att få deltagare var
+positiva för SARS-CoV-2 kunde vi inte utföra en statistisk analys för att
+identifiera signifikanta skillnader i symtomen för positiva och negativa
+individer.
+Tabell 5 visar rapporterade besvär upplevda de senaste 24 timmarna innan
+provtagningstillfället medan tabell 6 visar rapporterade upplevda besvär de
+senaste två veckorna innan provtagningstillfället. Tabell 7 visar en
+sammanställning av de kroniska sjukdomar som deltagarna rapporterade att
+de hade.
+16
+Tabell 5. Sammanställning av enkätsvar. Deltagarna svarade på frågor om vilka eventuella
+fysiska besvär de upplevt under 24 timmar innan provtagningen. Stockholm 26 mars–3 april
+2020 (N=698).
+Symtom Andel positiv
+n=18
+95 % KI Andel
+negativ
+n=680
+95 % KI
+Snuva 67,3 (40,4–87,8) 31,7 (27,8–35,8)
+Huvudvärk 47,9 (21,2–75,5) 23,9 (20,3–27,8)
+Bortfall av luktsinnet 36,1 (11,3–67,9) 2,8 (1,6–4,6)
+Hosta 32,3 (11,4–60,2) 20,4 (17,1–24,0)
+Diarré 30,0 (7,1–64,3) 5,9 (4,1–8,1)
+Muskelvärk 23,7 (3,5–60,9) 8,2 (6,1–10,7)
+Stor trötthet, utmattning 23,4 (7,4–48,1) 13,0 (10,1–16,3)
+Bortfall av smaksinnet 21,2 (5,3–48,4) 1,0 (0,4–2,0)
+Illamående 20,7 (2,1–59,5) 6,6 (4,4–9,4)
+Ledvärk 12,5 (2,2–34,9) 5,7 (4,0–7,8)
+Vätskande/varande öga/ögon 12,5 (1,5–38,8) 7,9 (5,7–10,6)
+Ont i magen/magknip 10,7 (1,2–34,4) 13,4 (10,6–16,5)
+Ont i halsen 10,3 (1,7–29,9) 18,5 (15,4–22,0)
+Feber 7,8 (0,8–26,9) 2,7 (1,3–4,9)
+Frossa 7,0 (0,6–25,3) 3,6 (2,0–5,9)
+Andfåddhet/andningssvårigheter 6,5 (0,2–31,4) 6,8 (4,7–9,4)
+Ont i örat/öronen 6,5 (0,2–31,4) 4,7 (2,9–7,2)
+Näsblod 3,0 (0,1–16,2) 4,6 (2,9–6,7)
+Hudutslag såsom nässelutslag,
+prickar, koppor eller blåsor
+0,0 ( – ) 6,3 (4,5–8,6)
+Kräkningar 0,0 ( – ) 0,5 (0,0–2,2)
+17
+Tabell 6. Sammanställning av enkätsvar. Deltagarna svarade på frågor om vilka eventuella
+fysiska besvär de upplevt under 2 veckor innan provtagningen. Stockholm 26 mars–3 april
+2020 (N=698).
+Symtom Andel positiv
+n=18
+95 % KI Andel negativ
+n=680
+95 % KI
+Huvudvärk 73,0 (45,9–91,4) 48,6 (44,5–52,8)
+Snuva 72,4 (45,9–90,8) 43,0 (38,9–47,2)
+Stor trötthet, utmattning 58,1 (28,3–84,0) 26,8 (23,0–30,9)
+Ledvärk 45,2 (18,7–73,8) 12,4 (9,7–15,5)
+Ont i halsen 44,9 (18,6–73,6) 34,8 (30,9–38,9)
+Diarré 42,1 (16,3–71,6) 13,3 (10,6–16,3)
+Feber 40,5 (15,1–70,3) 11,1 (8,6–14,0)
+Hosta 40,0 (16,5–67,5) 30,4 (26,6–34,4)
+Muskelvärk 39,9 (14,3–70,5) 15,9 (12,9–19,3)
+Ont i magen/magknip 36,8 (12,0–68,3) 20,0 (16,7–23,6)
+Bortfall av luktsinnet 36,1 (11,3–67,9) 3,5 (2,2–5,2)
+Illamående 31,2 (8,2–64,3) 12,1 (9,4–15,2)
+Bortfall av smaksinnet 21,2 (5,3–48,4) 2,8 (1,7–4,4)
+Näsblod 19,3 (1,5–59,7) 7,6 (5,6–10,0)
+Frossa 18,4 (4,6–42,8) 10,9 (8,4–13,9)
+Andfåddhet/andningssvårigheter 18,4 (3,8–45,7) 11,9 (9,2–15,0)
+Vätskande/varande öga/ögon 12,5 (1,5–38,8) 9,4 (7,1–12,2)
+Ont i örat/öronen 11,1 (1,2–35,7) 8,6 (6,1–11,7)
+Kräkningar 4,6 (0,1–23,6) 2,1 (1,1–3,5)
+Hudutslag såsom nässelutslag,
+prickar, koppor eller blåsor
+0,0 ( – ) 8,4 (6,2–11,1)
+Tabell 7. Sammanställning av enkätsvar Deltagarna svarade på frågan om de har kroniska
+sjukdomar eller tillstånd. Stockholm 26 mars–3 april 2020 (N=698).
+Underliggande sjukdomar Andel för
+positiva
+n=18
+95 % KI Andel för
+negativa
+n=680
+95 % KI
+Kronisk hjärtsjukdom 0,0 ( – ) 1,8 ( – )
+Kronisk lungsjukdom förutom astma 0,0 ( – ) 1,4 ( – )
+Astma 7,3 (0,6–26,5) 8,0 (0,6–26,5)
+Nedsatt immunförsvar (till exempel av
+cancerbehandling, autoimmun sjukdom)
+0,0 ( – ) 2,6 ( – )
+Kronisk leversvikt 0,0 ( – ) 0,0 ( – )
+Kronisk njursvikt 0,0 ( – ) 0,5 ( – )
+Kraftig övervikt 0,0 ( – ) 1,7 ( – )
+Neuromuskulära sjukdomar som
+påverkar andningen
+0,0 ( – ) 0,3 ( – )
+Jag har inga av de nämnda
+kroniska sjukdomarna eller tillstånden
+84,6 (61,6–96,6) 73,2 (61,6–96,6)
+Annan 15,4 (3,4–38,4) 15,6 (3,4–38,4)
+18
+Diskussion
+Av de totalt 1 106 inbjudna individerna mellan 2 och 86 år valde 738 att
+delta i undersökningen.
+Resultatet visade att 2,5 procent av befolkningen i region Stockholm
+uppskattades bära på SARS-CoV-2 i de övre luftvägarna 26 mars–3 april
+(95 % konfidensintervall 1,4–4,2 %). Det var lägre än det värde (5 %) som
+användes som ingångsvärde för beräkningen av stickprovsstorleken. Ingen
+signifikant skillnad mellan könen eller mellan åldersgrupperna kunde
+bestämmas.
+Avseende de rapporterade symtomen kunde med anledning av det låga
+antalet positiva individer inte en statistisk skillnad mellan deltagarna som
+analyserades positiva för viruset och de som analyserades som negativa
+bestämmas. De deltagare som var positiva för SARS-CoV-2 rapporterade i
+enkäten att de upplevde symtom samma dag som provtagningen. Även om
+det inte går att med säkerhet urskilja symtom för de som testats positivt
+framträder vissa symptom tydligare i gruppen av positiva individer, bland
+annat bortfall av luktsinne, bortfall av smaksinne och diarré . En liknande
+undersökning bland Hälsorapports deltagare i hela Sverige kommer att
+genomföras där prover insamlas mellan 21-24 april 2020. Undersökningen
+omfattar betydligt fler deltagare vilket ger ökade möjligheten att statistisk
+säkerställa skillnader i symtom mellan positiva och negativa individer.
+Provtagningen genomfördes genom egenprovtagning i hemmet. För små
+barn som var inkluderade i undersökningen utförde vårdnadshavaren
+provtagningen.
+Det fanns två anledningar till att egenprovtagning valdes som metod:
+• Vi ville undvika användandet av personlig skyddsutrustning som krävs
+för den vårdpersonal som annars skulle genomfört provtagningen.
+• Vi ville undvika att eventuellt sjuka deltagare behövde lämna sitt hem
+och då riskera att smitta andra i samband med provtagning vid en
+vårdinrättning.
+Egenprovtagning i hemmet är även en metod som i dess praktiska enkelhet
+inbjuder till deltagande. Genomförandet av undersökningen möjliggjordes
+genom det stöd vi fick av Försvarsmakten. Deltagarna fick information om
+Försvarsmaktens roll och deltagande i undersökningen och ingen av
+deltagarna har gett negativ återkoppling kring rutinen för utlämning av
+provtagningsmaterial eller upphämtning av proverna.
+Valet av provtagningslokaler och provtagningsmaterial baseras på en
+tidigare genomförd utvärdering som vi har genomfört. Egenprovtagning
+utförd enligt metoden i denna undersökning kan möjligen antas ha lägre
+känslighet än en provtagning utförd av tränad vårdpersonal. Detta eftersom
+19
+det inte med säkerhet går att bekräfta att deltagarna tagit prover i rätt lokaler
+eller enligt de givna instruktionerna om hur lång tid provtagningen ska
+genomföras.
+Vid laboratorieanalys exkluderades prover från 31 deltagare (motsvarade
+4,2 % av det totala antalet deltagare) eftersom de inte uppfyllde
+kvalitetskraven som innebar att vi i varje prov skulle kunna uppmäta
+närvaro av celler/cellrester. Celler eller cellrester i proverna visar om
+deltagaren fört provtagningspinnen tillräckligt hårt mot slemhinnan eller
+inte.
+Det koncept för egenprovtagning som utarbetats av Folkhälsomyndigheten
+och Försvarsmakten bedöms ha fungerat väl och kan användas för liknande
+undersökningar framöver.
+20
+Slutord
+Resultatet från denna undersökning kommer bland annat användas som ett
+underlag för de modelleringar av smittspridning som vi på
+Folkhälsomyndigheten gör.
+Vi har med stöd från Försvarsmakten inlett en större liknande undersökning
+som omfattar hela Sverige, för att få en skattning av punktprevalensen i hela
+landet.
+21
+Referenser
+1. https://www.csh.ac.at/ogris-csh-study-about-covid-19-prevalence-in-austria/
+2. https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-vara-
+datainsamlingar/halsorapport/
+Solna Nobels väg 18, 171 82 Solna. Östersund Forskarens väg 3. Box 505, 831 26 Östersund.
+www.folkhalsomyndigheten.se
+______________________________
+Folkhälsomyndigheten är en nationell kunskapsmyndighet som arbetar för en bättre folkhälsa.
+Det gör myndigheten genom att utveckla och stödja samhällets arbete med att främja hälsa,
+förebygga ohälsa och skydda mot hälsohot. Vår vision är en folkhälsa som stärker samhällets
+utveckling.
+

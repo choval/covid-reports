@@ -7,6 +7,14 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-20
+
+* [covid-19-and-packaging-waste-registering-as-a-packaging-producer-rps-c9](24f7c8ac6e06930314e399b60259efaffd47cca1/file.pdf) @23:18 GMT
+* [rapidly-manufactured-ventilator-system-rmvs](47d78a4f03ff385fd1fdb4da021c568dffa61f18/file.pdf) @23:17 GMT
+* [Admission\_and\_Care\_of\_Residents\_during\_COVID-19\_Incident\_in\_a\_Care\_Home.pdf](ee0678768cb128a3789ebf25c552228a13b58127/file.pdf) @16:11 GMT
+* [Exercise\_of\_Commissioning\_Functions\_by\_the\_NHS\_Commissioning\_Board\_\_Coronavirus\_\_\_No.\_2\_\_Directions\_2020.pdf](12d621df88175f567beb1d19f8e1af88f770ce70/file.pdf) @13:57 GMT
+* [Exercise\_of\_Functions\_by\_the\_National\_Health\_Service\_Commissioning\_Board\_\_Coronavirus\_\_Directions\_2020.pdf](54ee62fdc932f5da82ff956306c24594379de8c8/file.pdf) @13:55 GMT
+
 ## 2020-04-19
 
 * [covid-19-putting-on-and-removing-ppe-a-guide-for-care-homes-video](b8447220bed2467c9ade81ea2d4ae396bee3ce3a/file.pdf) @12:52 GMT

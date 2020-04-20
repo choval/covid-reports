@@ -1,0 +1,26 @@
+{
+    "filename": "forekomsten-covid-19-region-stockholm-26-mars3-april-2020.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/7bd5627f82a84590bc2992784234b88b\/forekomsten-covid-19-region-stockholm-26-mars3-april-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587424589,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Mon, 20 Apr 2020 23:16:28 GMT",
+        "etag": "\"1D6170B41CC5E80\"",
+        "expires": "Mon, 20 Apr 2020 23:16:28 GMT",
+        "last-modified": "Mon, 20 Apr 2020 12:00:17 GMT",
+        "server": "Front5",
+        "set-cookie": "Set_Me=3476701653.1.985518960.2368117248; path=\/",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "449734"
+    },
+    "lang": "sv",
+    "size": 449734,
+    "modified": 1587384017
+}

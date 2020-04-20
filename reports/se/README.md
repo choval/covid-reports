@@ -5,6 +5,10 @@
 * [https://www.folkhalsomyndigheten.se/publicerat-material/publikationer/?so=&ph=&fv=75&q=covid-19](https://www.folkhalsomyndigheten.se/publicerat-material/publikationer/?so=&ph=&fv=75&q=covid-19)
 
 
+## 2020-04-20
+
+* [forekomsten-covid-19-region-stockholm-26-mars3-april-2020.pdf](248217c2993470e27cd8271e3e09b0e6e9928d16/file.pdf) @12:00 GMT
+
 ## 2020-04-17
 
 * [vagledning-diagnostik-covid-19-20045.pdf](546565448485c7cf0b33999be1ca9540fd0785f1/file.pdf) @16:24 GMT

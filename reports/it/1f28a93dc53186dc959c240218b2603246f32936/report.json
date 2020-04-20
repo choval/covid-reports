@@ -1,0 +1,23 @@
+{
+    "filename": "Decalogo_farmaci (3).pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Decalogo_farmaci+%283%29.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587420768,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "570626",
+        "content-type": "application\/pdf",
+        "last-modified": "Sun, 29 Mar 2020 17:13:52 GMT",
+        "set-cookie": "JSESSIONID=C4CFF15E55FA0199DE6BA4B5929ACF17; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Decalogo_farmaci (3).pdf\"",
+        "date": "Mon, 20 Apr 2020 22:12:48 GMT"
+    },
+    "lang": "it",
+    "size": 570626,
+    "modified": 1585502032
+}

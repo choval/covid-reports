@@ -1,0 +1,757 @@
+Tell us whether you accept cookies
+We use cookies to collect informationabout how you use GOV.UK. We use this information to make the website work as
+well as possible and improve government services.
+Coronavirus (COVID-19):
+what you need to do
+Hide message
+Guidance
+Specification for Rapidly Manufactured Ventilator
+System (RMVS)
+Updated 20 April 2020
+Accept all cookies
+Set cookie preferences
+GOV.UK
+Stay at home
+Only go outside for food, health reasons or work (but only if you cannot work from home)
+If you go out, stay 2 metres (6ft) away from other people at all times
+Wash your hands as soon as you get home
+Do not meet others, even friends or family.
+You can spread the virus even if you don’t have symptoms.
+Home Specification for ventilators to be used in UK hospitals during the coronavirus (COVID-19) outbreak
+Medicines & Healthcare products
+Regulatory Agency
+Contents
+Version Control
+Introduction
+Update on recent clinical experience (10 April 2020)
+Ventilation
+Gas and electricity
+Infection control
+Monitoring and Alarms
+Version Control
+1.0 18/03/2020,17.31 Initial document plus appendix A
+1.1 19/03/2020 Minor formatting changes, Glossary and Corporate logos
+2.0 19/03/2020 Expanding on relevant standards based on clinical engineering advice. Appendix A integrated into
+‘testing’ section
+2.1 20/03/2020,1054 Add explanation of option for volume control ventilation
+2.2 Added details to infection control section, added Appendix A: infection control process’
+3.0 25/3/20 Added biological safety section, appendix B on indicative testing, refined use of should/could/must to be
+clearer
+3.1 26/3/20 Added appendix C – software safety requirements
+4.0 10/4/20 Added Update on recent clinical experience 10th April 2020 and typographic corrections
+Introduction
+This is a specification of the minimally (and some preferred options) clinically acceptable ventilator to be used in UK
+hospitals during the current COVID-19 pandemic caused by SARSCoV-2 virus. It sets out the clinical requirements based
+on the consensus of what is ‘minimally acceptable’ performance in the opinion of the anaesthesia and intensive care
+medicine professionals and medical device regulators given the emergency situation. It is for devices, which are most
+likely to confer therapeutic benefit on a patient requiring invasive ventilation because of respiratory failure caused by
+SARS-CoV-2, used in the initial care of patients requiring urgent ventilation. A ventilator with lower specifications than this
+is likely to provide no clinical benefit and might lead to increased harm, which would be unacceptable for clinicians.
+Intensive care medicine is a whole system of care and ventilators cannot be safely used on any patient without trained staff
+and other equipment and medicines. Where these impinge on the specification they are mentioned below.
+It is proposed these ventilators would be for short-term stabilisation for a few hours, but this may be extended up to 1-day
+use for a patient in extremis as the bare minimum function. Ideally it would also be able to function as a broader function
+ventilator which could support a patient through a number of days, when more advanced ventilatory support becomes
+necessary.
+Update on recent clinical experience (10 April 2020)
+Clinical experience in the UK of COVID-19 has developed rapidly in a way that impacts on the requirements of the
+ventilators needed. Bear in mind that this specification is tailored to the UK healthcare system and UK clinical practice.
+Firstly, more weight is being put on the closed suctioning test covered in Appendix B. This is because clinical advice is
+that respiratory secretions are much more copious than in ‘normal’ critical care pneumonia, necessitating suction of
+secretions up to hourly and that derecruitment of lung during suctioning is particularly severe.
+Second, the duration of intubation is longer than ‘normal’ and so the relative number of ventilators needed in different
+categories is changing. While a mix of transport, simple mandatory ventilation and complex full featured ventilators is still
+needed, a greater proportion of these need to be capable of supported spontaneous breathing modes to provide resource
+for the latter portion of intubation episodes.
+Note on vocabulary
+Must
+Defines the minimum viable product clinically acceptable by clinicians.
+Biological safety
+Software safety
+Miscellaneous
+Testing
+Unknown issues
+Appendix A
+Appendix B
+Appendix C
+Glossary
+Should
+Highly desirable features of considerable benefit for therapeutic use. As time is of the essence if omitting one of these
+features significantly accelerates development and production it should be considered.
+Could
+Features or options often found in respirators, but are of significantly lower priority in terms of the current need and should
+not be considered if they delay production and development or the provision of more important features.
+Ventilation
+1) Must have at least 1, optionally 2 modes of ventilation
+a. Must have CMV
+b. The CMV mode must be either:
+i. (ideally) Pressure Regulated Volume Control, or ii. pressure controlled ventilation (
+PCV) or iii. minimally a volume
+controlled ventilation (VCV)
+c. PRVC/Pressure Controlled - a set pressure is delivered for the period of inspiration and the volume achieved is
+measured and displayed. Ideally PRVC, an adaptive mode where the tidal volume is set and the lowest possible pressure
+is delivered to achieve this volume. PCV where the user has to provide the adaptive control to achieve tidal volume is only
+acceptable if the tidal volume delivered is clearly displayed and the user can set patient specific upper and lower tidal
+volume alarms to alert to the need to adjust the pressure.
+d. Volume Control Ventilation– the user sets a tidal volume and respiratory rate. The tidal volume is delivered during the
+inspiratory period. Acceptable only if additional pressure limiting controls are available, see Inspiratory Pressure section.
+e. Should have a spontaneous breathing pressure support mode for those patients breathing to some extent themselves,
+e.g. BIPAP or SIMV-PC. The user sets an inspiratory pressure and an expiratory pressure. The ventilator can sense when
+a patient starts to breathe in and apply the inspiratory pressure, then sense when the patient starts to breathe out and
+apply the expiratory pressure (this pressure is still positive but lower than the inspiratory pressure).
+2) If a pressure support mode is provided the RMVS must failsafe automatically onto mandatory ventilation if the patient
+stops breathing in this mode.
+3) Inspiratory airway pressure, the higher pressure setting that is applied to make the patient breathe in:
+a. Plateau pressure should be adjusted to achieve volume and must be limited to 35 cm H2O by default. It is acceptable if
+an option to increase this to 70 cm H2O in exceptional circumstances is provided. This must require a positive decision
+and action by the user.
+b. Peak pressure should be no more than 2 cm H2O greater than plateau pressure.
+c. If volume control ventilation is used, the user must be able to set inspiratory airway pressure limit in the range at least
+15 – 40 cm H2O in at least increments of 5 cm H2O.
+d. There must be a mechanical failsafe valve that opens at 80 cm H2O.
+4) Positive End Expiratory Pressure (PEEP). The pressure maintained in the breathing system during expiration.
+a. RMVS must provide a range 5-20 cm H2O adjustable in 5 cmH2O increments.
+b. PEEP must be maintained during expiration.
+5) Inspiratory:Expiratory ratio (I:E). The proportion of each breathing cycle that is spent breathing in compared to breathing
+out.
+a. RMVS must provide 1:2.0 (i.e. expiration lasts twice as long as inspiration) as the default setting.
+b. RMVS could provide adjustable I:E in the range 1:1 – 1:3.
+6) Respiratory Rate. The number of breathing cycles every minute.
+a) RMVS must provide a range 10 – 30 breaths per minute in increments of 2 (only in mandatory mode) that can be set by
+the user.
+7) Tidal Volume (Vt) setting, if provided. The volume of gas flowing into the lungs during one inspiratory cycle.
+a. Must have at least one setting of 400ml +/- 10 ml.
+b. Should have 350ml and 450 ml options.
+c. Could have a range 250 – 600 ml in steps of 50ml.
+d. Could have a range up to 800 ml.
+Gas and electricity
+1) Incoming Gas Supply.
+a. All gas connectors and hoses must comply with BS EN ISO 5359:2014+A1:2017, ISO 5359:2014/AMD 1:2017 and BS
+2050: 1978 Electrical Conductivity.
+b. Must connect to wall pipeline oxygen supply via BS 5682:2015 compatible probes (Schrader). If hose not permanently
+fixed to machine, then must connect with NIST (Non-Interchangeable Screw Thread to ISO 18082:2014/AMD 1:2017).
+Oxygen pipeline pressure is approximately 3.7 – 4.5 bar.
+c. Oxygen supply from wall outlets outside of ICU and theatres is limited to approximately 6-10 lpm averaged over the
+outlets within a ward(HTM_02- 01_Part_A). As such, RMVS should provide for a gas reservoir to manage peak inspiratory
+flow rates of up to 100 lpm.
+d. Average oxygen consumption must be no more than 6 lpm. This may be allowed to increase as greater certainty is
+gained over oxygen supply.
+e. If RMVS connects to wall pipeline Medical Air (MA4, NOT SA7) it must be via BS 5682:2015 compatible probes.
+f. If connection to Anaesthetic Gas Scavenging System or an external activated charcoal absorber is provided it must
+comply to ISO 7396-2:2007 (If inhaled anaesthetic agents are being used).
+g. An RMVS may include an oxygen concentrator as the source of oxygen. Note these will typically be limited to 10 lpm
+96% oxygen.
+2) Electricity Supply.
+a. If mains powered RMVS must connect to 240V mains via standard UK 3pin plug.
+b. Must be PAT tested to the adapted IEC 60601, IEC 62353 standards.
+c. If electricity is required for functioning, RMVS must have a battery backup of at least 20 minutes in case of mains
+electricity failure.
+d. Could utilise hot swappable batteries so that it can be run on battery supply for an extended period, e.g. 2 hours for
+within hospital transfer.
+e. Must avoid harmfulRF or EM emissions that could interfere with other critical care equipment.
+3) Gas supply to patient.
+a. User must be able to control inspired oxygen proportion (FiO2). The percentage of oxygen in the gas being breathed in
+by the patient. Room air is 21% oxygen.
+b. Must provide 50% - 60% and 90 - 100% options.
+c. Should provide control variable between 30 – 100 % in 10% steps.
+d. Patient breathing system connections: RMVS must present 22mm outside diameter (OD) ‘male’ standard connectors to
+ISO 5356-1:2015 on both outlet and inlet ports for connection to user supplied 22mm ‘female’ connectors on the breathing
+system. These must be rigid and robust (not plastic) and separated by a minimum of 10 cm between centres to
+accommodate filter HMEs.
+4) All elements in the gas pathway must meet biological safety and low-pressure oxygen safety standards, especially to
+minimise risk of fire or contamination of the patient’s airway.
+Infection control
+For clinical guidelines on infection control for ventilator equipment see Appendix A.
+1) All parts coming into contact with the patient’s breath must be either disposable or designed to be reusable.
+2) All working components of the device must be contained within an impermeable casing.
+3) All external surfaces must be cleanable in the likely event that they get respiratory secretions or blood splatter on them.
+Cleaning would be by healthcare workers manually wiping using an approved surface wipe with disinfectant or cloths and
+approved surface cleaning liquid.
+4) There will be a separately sourcedHMEF-bacterial-viral filter between the machine and patient which may impact on
+resistance within the system, which may need to be accounted for with some designs. The pressure being delivered to the
+patient is the specified pressure. If the filter has a resistance of, say 2 cmH2O at 30 lpm, the ventilator needs to output 37
+cmH2O to achieve a set 35 cmH2O at the patient. This will need further detailed consideration. Viral filtering filters may
+have much higher resistance that may be clinically relevant.
+5) Could include facility for hot water humidifier to be included in breathing system.
+Monitoring and Alarms
+IEC60601-1-8:2006 is the one relevant standard for alarms for RMVS. Alarms, alarm limits, and priorities are complex
+areas to optimise for human usability. The key is to get enough alarms but not too many and for alarms to be clearly
+ranked so that more urgent patient safety problems are highlighted more. Early attention to this area is important, and
+should be built in from the start.
+1) Must alarm at:
+a. Gas or electricity supply failure
+b. Machine switched off while in mandatory ventilation mode
+c. Inspiratory airway pressure exceeded
+d. Inspiratory and PEEP pressure not achieved (equivalent to disconnection alarm)
+e. Tidal volume not achieved or exceeded
+2) Monitoring displayed continuously so the user can verify:
+a. Must show the current settings of tidal volume, frequency,PEEP, FiO2, ventilation mode
+b. Must show the actual current airway pressure
+c. Should show the achieved tidal volume, breathing rate,PEEP, and FiO2
+d. If pressure support mode is provided there must be real time confirmation of each patient breath and an alarm if below
+acceptable range
+e. Could provide CO2 monitoring
+Biological safety
+The authoritative standard covering this area is ISO 18562-1:2017 “Biocompatibility evaluation of breathing gas pathways
+in healthcare applications. Evaluation and testing within a risk management process”.
+1) Materials of Construction (raw materials)
+a) The chosen material must be reasonably pure and simple in nature (minimise the use of additives where possible).
+b) For components requiring flexibility avoid the use of materials requiring plasticisers. Good candidates are those
+materials that belong to the polyolefin family, examples include polyethylene and polypropylene.
+c) For structural components materials such as polycarbonate or Acrylonitrile butadiene styrene (ABS) should be used
+without additives, although reinforcement with glass fibre would be acceptable.
+d) Polyvinyl chloride (PVC) must be avoided in the patient gas pathway.
+e) PVC should be avoided elsewhere.
+2) Manufacturing process (risk from contaminants).
+a) Mould release agents used within extrusion or injection moulding techniques may be required in setting up the machine,
+they should not be needed once a process is in full scale production.
+b) Approximately, the first 20 or so items in an injection moulding production run should be discarded to minimise risk from
+contamination with mould release agents.
+c) Extrusion and moulding techniques are comparatively simple and well controlled; therefore, ventilators will not be
+required to be manufactured within cleanroom specifications.
+d) Manufacture in a reasonably clean room and protection of components and products from contamination should suffice.
+e) If A-D is followed, chemical or particulate testing of the air coming out of the breathing circuit should not be necessary.
+3) Hazard Mitigation
+a) Particulate matter: solid particles suspended in a gas, Particulate matter emissions are not of significant concern if the
+manufacturing process is adequately controlled as per the above criteria.
+b) Volatile organic compound (VOC): organic compound whose boiling point is in the range of 50⁰C to 260⁰C. Risk of
+exposure to VOCs can be minimised through the appropriate choice of materials as set out in section 1.
+c) Leachable substances (in condensate): chemical removed from the medical device by the action of water, other liquids
+or other gases related to the use of the medical device. Insure a HME filter is used between the ventilator and breathing
+system.
+Software safety
+Software in a high-risk device like RMVS will almost certainly have the capability to cause serious injury or death if risk
+control measures are not adequately implemented. See appendix C for details of minimal necessary risk control
+measures.
+Miscellaneous
+1) Must be reliable. RMVS must be capable of continuous operation (100% duty cycle) for 14 days.
+2) Should be capable of operation continuously for more than 14 days. The expected durability must be specified.
+3) Could be floor standing.
+4) Could be small and light enough to mount on patient bed with orientation independent functioning.
+5) Should be as robust as possible. For example, it may be dropped from bed height to floor.
+6) It must be intuitive to use for qualified medical personnel, but these may not be specialists in ventilator use.
+a. Must not require more than 30 minutes training for a doctor with some experience of ventilator use.
+b. Must include Instructions for Use.
+c. Instructions for use should be built into the labelling of the ventilator, e.g. with ‘connect this to wall’ etc.
+d. Must include clear labelling of all critical functions and controls using standard terms, pictograms and colours that will be
+readily recognised by UK healthcare staff.
+7) Must have transparent design, supply chain, manufacture, quality assurance and testing processes that are of sufficient
+quality to enable MHRA officials to deem appropriate for usage in exceptional circumstances.
+8) Must not be excessively cumbersome so that it would impede hospital operations or prevent easy movement within
+hospital premises.
+9) Must be made from materials and parts readily available in the UK supply chain (anticipating increasing global
+restrictions on freight movement).
+10) Standards – there are many standards that exist in this area. Below is a list of the most relevant ones. They are not
+formal regulatory requirements, but many are harmonised against regulatory requirements. Consider them as helpful
+advisory standards for now. MHRA will lead an exercise to define which can be ‘safely’ relaxed for this emergency
+situation.
+a. BS EN 794-3:1998 +A2:2009 Particular requirements for emergency and transport ventilators
+b. ISO 10651-3:1997 Lung Ventilators for Medical Use - Emergency and Transport
+c. BS ISO 80601-2-84:2018 Medical electrical equipment. Part 2-84. Particular requirements for basic safety and essential
+performance of emergency and transport ventilators – especially the parts on ‘patient gas pathway’ safety (very similar to
+IEC 60601)
+d. ISO 80601-2-12:2020 Medical electrical equipment — Part 2-12: Particular requirements for basic safety and essential
+performance of critical care ventilators
+e. BS ISO 19223:2019 Lung ventilators and related equipment. Vocabulary and semantics
+Testing
+1) It is accepted that full demonstration of compliance to ISO 80601-2-12:2020 is unrealistic in the time frame required for
+development. Nevertheless, compliance with the essential safety standards must be demonstrated for patient safety.
+2) It is not anticipated that devices will be CE marked and approval by the MHRA will be through the
+Exceptional use of
+non-CE marked medical devices route.
+3) When the current emergency has passed these devices will NOT be usable for routine care unless they have been CE
+marked through the Medical Device Regulations. The device must display a prominent indelible label to this effect.
+4) Usability testing at both prototype and final production stages will be required. This should be done as a short
+Formative Usability Test along the lines of ISO62366 in a realistic environment if possible. The user will be wearing
+complex protective clothing which includes: Eye goggles (in addition to spectacles if worn), Face shield, Plastic apron,
+Surgical gown, Two layers of gloves, usually nitrile non-handed small, medium, large variants, Gloves are donned in
+layers and sticky taped onto sleeves of gown in between layers.
+5) The user must be able to instantly see the settings selected and be able to easily operate all controls while dressed in
+protective gear. They may be required to remain so clothed and operating the ventilator for a number of hours without
+breaks.
+Unknown issues
+1) How much oxygen is consumed by RMVS. Preference is given to designs consuming the least oxygen, but a mixture of
+designs is needed, and some designs fundamentally limit the minimum oxygen flow.
+a. Absolute minimum oxygen requirement is the human consumption of about 250 ml/min in a healthy person but up to
+500 ml/min in severe sepsis. However, achieving this is only possible if certain breathing system designs are used and
+‘driving’ gas is air.
+i. Specifically, would have to use circle breathing system with active CO2 absorption. Is sufficient soda lime available?
+b. If consumption in the range 1-6 l/min is acceptable then a wider range of designs is possible, but some very basic
+designs are not.
+c. If consumption in the range 10l/min is acceptable then any possible design can be considered.
+2) Is there any need to consider running from only low-pressure oxygen e.g. from a concentrator? This makes design
+more complex.
+3) How plentiful is the supply of syringe drivers and drugs for sedation?
+a. If limited, then a vaporiser could be used to vaporise Isoflurane for sedation.
+b. This would need certain breathing system designs, mandatoryAGSS and a supply of vaporisers.
+4) If monitoring can be done by another machine it could be left out of the ventilator, but essential parameters must be
+available to the clinician.
+Appendix A:
+Clinical guidelines for infection control of ventilator
+This appendix is intended to guide developers on the likely clinical guidance that users will be working to. It is not actual
+guidance for users of such equipment.
+Ventilator equipment is kept in close proximity to patients, and while the ventilator itself does not come into direct or
+invasive contact with the patient, it will be physically connected to equipment that does. Therefore, it is important that all
+proposed ventilators can be thoroughly decontaminated by health care professionals in the health care setting. The
+process for how this is carried out and guidance on design factors to be considered are detailed below.
+Where possible the process for cleaning devices should be intuitive, however documentation for the correct method of
+decontamination should be detailed in the instructions for use. Preferably all components into direct contact with the
+patient’s breath will be disposable, where this is not possible the process for sterilising reusable components should be
+detailed in the instructions for use. All information in the instructions for use should be presented as described in ISO
+17664:2017 Processing of health care products.
+The external surfaces surface of the device will need to be regularly decontaminated, once every 24 hours minimum for
+multi day single patient use, and between each individual patient use. This decontamination will be carried out by a nurse
+or other health care professional, using either a single use disinfectant wipe or a liquid disinfectant applied with a
+disposable cloth. All external surfaces of the device will be cleaned, including screens, buttons and, control switches. For
+this reason, it is important that all devices are designed in a way to prevent the ingress of fluid through the casing. All
+screens should also be made of a material that that will not cloud or smear after disinfection.
+To prevent contamination of the patient gas pathway, and internal components, the device should be designed to use
+separately sourced HMEF-bacterial-viral filter between the machine and patient. These filters will be place at the
+exhalation and inspiration ports of the device I.E. ports for breath in and out. The filters are bulky, measuring
+approximately 10cm each on average and designs should be made with adequate spacing for both filters on dual port
+devices.
+To prevent dust and other contaminates from entering the internal components of the device, all inlets and outlets to room
+air should also have a filter in place. Instructions on the method of changing these filters, as well as the frequency that
+change is required, should be detailed in the device’s instructions for use. If the option of using a hot water humidifier is
+also included in the design, methods of preventing fluid ingress through inhalation and exhalation ports should be
+considered.
+Appendix B
+Testing protocol for final validation of safety and performance of RMVS.
+This testing protocol will be used by the independent testing facility advising MHRA on the suitability of RVMS. The
+protocol may have to be varied at the discretion of the tester. It is here for advisory purposes to explain the likely testing
+that RVMS will undergo.
+General
+Enclosures of ventilators shall provide at least an IP22 degree of protection to the harmful ingress of water.
+All external surfaces must be cleanable in the likely event that they get respiratory secretions or blood splatter on them.
+Cleaning would be by healthcare workers manually wiping using an approved surface wipe with disinfectant or cloths
+and approved surface cleaning liquid.
+Mains powered ventilators must be 240V and PAT tested to the adapted IEC 60601, IEC 62353 standards and have an
+alarm that sounds when power fails.
+Ventilators which rely on mains power for operation must have 20 minutes back up battery power available in case of
+mains electricity failure.
+All parts of the breathing system which can, or could, come into contact with the patient’s expired gas must be either
+single patient use only and labelled with an ISO 7000-1051 mark or the words “Do not re-use”. Or must be able to be
+decontaminated between patients.
+All components of the gas pathways in the breathing system must use materials which have been evaluated for
+biocompatibility according to ISO 18562-1:2017 and shall not contain phthalates or other substances, which are
+classified as endocrine disrupting, carcinogenic, mutagenic or toxic to reproduction, in a concentration that is above 0,1
+% weight by weight of any article
+A ventilator and its parts, including applicable accessories shall have adequate mechanical strength when subjected to
+mechanical stress caused by normal use, pushing, impact, dropping and rough handling.
+If a connector is provided for the gas exhaust port, it shall be a 30 mm connector conforming with ISO 5356-1:2015.
+Labelling
+A clearly visible permanent label must be attached with the words “Follow Instructions for Use” accompanied by the
+following ISO 7010 compatible permanent labels: M002, M004, M009, M013 and M016.
+A clearly visible permanent label with the words “Restricted device for use during COVID-19 pandemic, only to be used for
+emergency ventilation – any adverse incidents must be reported to MHRA.” The size and font of the text on the labels
+should be appropriate to the size of the device.
+Must include clear labelling of all critical functions and controls using standard terms, pictograms and colours that will be
+readily recognised by UK healthcare staff.
+Breathing system inlets and outlets must be clearly marked with direction arrows. A clearly visible permanent label with
+the words “Manual Back Up Ventilation Must Be Available” in a minimum of 50 point text.
+Must include clear marks or labels to indicate the default settings of 90-100% oxygen, 400mls tidal volume and/or
+inspiratory plateau pressure 35 cmH2O, 15 cmH2O PEEP, rate 20 breaths min-1.
+Pressurised gas input operated ventilators- Oxygen and/or Air
+If the ventilator is intended to be connected to a 4bar medical gas pipeline system using BS 5682:2015 compatible probes,
+then:
+Oxygen consumption used to drive the ventilator shall not exceed 6 lpm averaged over 1 minute
+Any transient input flowrate shall not exceed 200 lpm averaged over 3 s
+Both measured at maximum tidal volume / inspiratory flow and rate settings
+If transient high-flows (50 – 200 lpm) are used to drive the ventilator it should be marked as a “High-Flow Device”
+It should only be connected to a pipeline installation designed using a diversity factor that allows for the indicated high
+flow at a specified number of terminal outlets, in order to avoid exceeding the pipeline design flow, thereby minimising
+the risk that the ventilator interferes with the operation of adjacent equipment
+The inlets for pressurised gases into the ventilator must be marked with the gas name or chemical symbol and the
+rated gas pressure
+For a ventilator with two or more high-pressure input ports (oxygen and medical air), a means shall be provided to limit
+reverse gas flowrate (leakage) and cross leakage from gas intake ports into the supply system of the same gas to a
+flowrate less than 100 ml/min in normal condition or single fault condition.
+Each high-pressure input port shall be provided with a filter having a pore size less than or equal to 100 μm.
+Ventilator test conditions
+Connected to gas supplies as specified for normal use
+Industrial grade oxygen and air may be substituted for the equivalent medical gas, as appropriate, unless otherwise
+stated.
+When using substitute gases, care should be taken to ensure that the test gases are oil free and appropriately dry.
+If air can be used instead of oxygen without affecting performance this should be done to conserve medical oxygen
+supplies.
+Gas flowrate, volume and leakage are expressed as STPD apart from the breathing system which are expressed as
+BTPS.
+Test Set Up
+Attach the ventilator via the intended breathing system to an adult test lung with variable compliance and resistance
+with a calibrated electronic ventilator tester.
+Attach pressure sensor at the connection of the breathing system and the test lung with a 10-90% rise time of ≤ 10 ms.
+Attach pressure sensor to the test lung after the adjustable flow resistor with a 10-90% rise time of ≤ 10 ms. (to
+measure PEEP)
+Attach a flow sensor between the breathing system and the test lung with a 10-90% rise time of ≤ 10 ms.
+Place an oxygen sensor (0-100 % ± 1%) in the inspiratory limb of the breathing system.
+(Optional) Place a temperature sensor between the breathing system and the test lung (0-50 oC ± 0.5 oC
+Data acquisition from sensors to be ≥ 200 samples s-1.
+View diagram in PDF version of this document.
+Volume Controlled Ventilation Test (Compliance)
+Test No Test Lung Compliance ml/cmH2O ± 10% Test Lung Resistance cmH2O/l/s ± 10% Tidal Volume mls Rate Min -1 I:E O2 % PEEP
+1 50 5 500 20 1:2 50-60 5
+2 50 5 500 20 1:2 90-100 5
+3 50 5 500 12 1:2 50-60 5
+4 50 5 500 12 1:2 90-100 5
+5 50 5 500 20 1:2 50-60 10
+6 50 5 500 20 1:2 90-100 10
+7 50 5 500 12 1:2 50-60 10
+8 50 5 500 12 1:2 90-100 10
+9 50 5 500 20 1:2 50-60 15
+10 50 5 500 20 1:2 90-100 15
+11 50 5 500 12 1:2 50-60 15
+12 50 5 500 12 1:2 90-100 15
+13 20 5 500 20 1:2 50-60 5
+14 20 5 500 20 1:2 90-100 5
+15 20 5 500 12 1:2 50-60 5
+16 20 5 500 12 1:2 90-100 5
+17 20 5 500 20 1:2 50-60 10
+18 20 5 500 20 1:2 90-100 10
+19 20 5 500 12 1:2 50-60 10
+20 20 5 500 20 1:2 50-60 10
+21 20 5 500 20 1:2 50-60 15
+22 20 5 500 20 1:2 90-100 15
+23 20 5 500 12 1:2 50-60 15
+24 20 5 500 20 1:2 50-60 15
+25 10 5 500 20 1:2 50-60 5
+26 10 5 500 20 1:2 90-100 5
+27 10 5 500 12 1:2 50-60 5
+28 10 5 500 12 1:2 90-100 5
+29 10 5 500 20 1:2 50-60 10
+30 10 5 500 20 1:2 90-100 10
+31 10 5 500 12 1:2 50-60 10
+32 10 5 500 20 1:2 50-60 10
+33 10 5 500 20 1:2 50-60 15
+34 10 5 500 20 1:2 90-100 15
+35 10 5 500 12 1:2 50-60 15
+Test No Test Lung Compliance ml/cmH2O ± 10% Test Lung Resistance cmH2O/l/s ± 10% Tidal Volume mls Rate Min -1 I:E O2 % PEEP
+36 10 5 500 20 1:2 50-60 15
+Test No Test Lung Compliance ml/cmH2O ± 10% Test Lung Resistance cmH2O/l/s ± 10% Tidal Volume mls Rate Min -1 I:E O2 % PEEP
+Volume Controlled Ventilation Test (Resistance)
+Test No Test Lung Compliance ml/cmH2O ± 10% Test Lung Resistance cmH2O/l/s ± 10% Tidal Volume mls Rate Min -1 I:E O2 % PEEP
+1 50 5 500 20 1:2 50-60 5
+2 50 5 500 20 1:2 90-100 5
+3 50 5 500 12 1:2 50-60 5
+4 50 5 500 12 1:2 90-100 5
+5 50 5 500 20 1:2 50-60 10
+6 50 5 500 20 1:2 90-100 10
+7 50 5 500 12 1:2 50-60 10
+8 50 5 500 12 1:2 90-100 10
+9 50 5 500 20 1:2 50-60 15
+10 50 5 500 20 1:2 90-100 15
+11 50 5 500 12 1:2 50-60 15
+12 50 5 500 12 1:2 90-100 15
+13 20 20 500 20 1:2 50-60 5
+14 20 20 500 20 1:2 90-100 5
+15 20 20 500 12 1:2 50-60 5
+16 20 20 500 12 1:2 90-100 5
+17 20 20 500 20 1:2 50-60 10
+18 20 20 500 20 1:2 90-100 10
+19 20 20 500 12 1:2 50-60 10
+20 20 20 500 20 1:2 50-60 10
+21 20 20 500 20 1:2 50-60 15
+22 20 20 500 20 1:2 90-100 15
+23 20 20 500 12 1:2 50-60 15
+24 20 20 500 20 1:2 50-60 15
+25 10 50 500 20 1:2 50-60 5
+26 10 50 500 20 1:2 90-100 5
+27 10 50 500 12 1:2 50-60 5
+28 10 50 500 12 1:2 90-100 5
+29 10 50 500 20 1:2 50-60 10
+30 10 50 500 20 1:2 90-100 10
+31 10 50 500 12 1:2 50-60 10
+32 10 50 500 20 1:2 50-60 10
+33 10 50 500 20 1:2 50-60 15
+34 10 50 500 20 1:2 90-100 15
+35 10 50 500 12 1:2 50-60 15
+36 10 50 500 20 1:2 50-60 15
+Test No Test Lung Compliance ml/cmH2O ± 10% Test Lung Resistance cmH2O/l/s ± 10% Tidal Volume mls Rate Min -1 I:E O2 % PEEP
+Volume Controlled Ventilation Test (Tidal Volume)
+Test No Test Lung Compliance ml/cmH2O ± 10% Test Lung Resistance cmH2O/l/s ± 10% Tidal Volume mls Rate Min -1 I:E O2 % PEEP
+1 50 5 300 20 1:2 50-60 5
+2 50 5 300 20 1:2 90-100 5
+3 50 5 300 12 1:2 50-60 5
+4 50 5 300 12 1:2 90-100 5
+5 50 5 300 20 1:2 50-60 10
+6 50 5 300 20 1:2 90-100 10
+7 50 5 300 12 1:2 50-60 10
+8 50 5 300 12 1:2 90-100 10
+9 50 5 300 20 1:2 50-60 15
+10 50 5 300 20 1:2 90-100 15
+11 50 5 300 12 1:2 50-60 15
+12 50 5 300 12 1:2 90-100 15
+13 20 20 300 20 1:2 50-60 5
+14 20 20 300 20 1:2 90-100 5
+15 20 20 300 12 1:2 50-60 5
+16 20 20 300 12 1:2 90-100 5
+17 20 20 300 20 1:2 50-60 10
+18 20 20 300 20 1:2 90-100 10
+19 20 20 300 12 1:2 50-60 10
+20 20 20 300 20 1:2 50-60 10
+21 20 20 300 20 1:2 50-60 15
+22 20 20 300 20 1:2 90-100 15
+23 20 20 300 12 1:2 50-60 15
+24 20 20 300 20 1:2 50-60 15
+25 10 50 300 20 1:2 50-60 5
+26 10 50 300 20 1:2 90-100 5
+27 10 50 300 12 1:2 50-60 5
+28 10 50 300 12 1:2 90-100 5
+29 10 50 300 20 1:2 50-60 10
+30 10 50 300 20 1:2 90-100 10
+31 10 50 300 12 1:2 50-60 10
+32 10 50 300 20 1:2 50-60 10
+33 10 50 300 20 1:2 50-60 15
+34 10 50 300 20 1:2 90-100 15
+35 10 50 300 12 1:2 50-60 15
+36 10 50 300 20 1:2 50-60 15
+Test No Test Lung Compliance ml/cmH2O ± 10% Test Lung Resistance cmH2O/l/s ± 10% Tidal Volume mls Rate Min -1 I:E O2 % PEEP
+Pressure Controlled Ventilation Test (15 cmH2O)
+Test No Test Lung Compliance ml/cmH2O ±
+10%
+Test Lung Resistance cmH2O/l/s ±
+10%
+Plateau Pressure
+cmH2O
+Rate Min -1 I:E O2 % PEEP
+1 50 5 15 20 1:2 50-60 5
+2 50 5 15 20 1:2 90-100 5
+3 50 5 15 12 1:2 50-60 5
+4 50 5 15 12 1:2 90-100 5
+5 50 5 15 20 1:2 50-60 10
+6 50 5 15 20 1:2 90-100 10
+7 50 5 15 12 1:2 50-60 10
+8 50 5 15 12 1:2 90-100 10
+9 50 5 15 20 1:2 50-60 15
+10 50 5 15 20 1:2 90-100 15
+11 50 5 15 12 1:2 50-60 15
+12 50 5 15 12 1:2 90-100 15
+13 20 20 15 20 1:2 50-60 5
+14 20 20 15 20 1:2 90-100 5
+15 20 20 15 12 1:2 50-60 5
+16 20 20 15 12 1:2 90-100 5
+17 20 20 15 20 1:2 50-60 10
+18 20 20 15 20 1:2 90-100 10
+19 20 20 15 12 1:2 50-60 10
+20 20 20 15 20 1:2 50-60 10
+21 20 20 15 20 1:2 50-60 15
+22 20 20 15 20 1:2 90-100 15
+23 20 20 15 12 1:2 50-60 15
+24 20 20 15 20 1:2 50-60 15
+25 10 50 15 20 1:2 50-60 5
+26 10 50 15 20 1:2 90-100 5
+27 10 50 15 12 1:2 50-60 5
+28 10 50 15 12 1:2 90-100 5
+29 10 50 15 20 1:2 50-60 10
+30 10 50 15 20 1:2 90-100 10
+31 10 50 15 12 1:2 50-60 10
+32 10 50 15 20 1:2 50-60 10
+33 10 50 15 20 1:2 50-60 15
+34 10 50 15 20 1:2 90-100 15
+35 10 50 15 12 1:2 50-60 15
+36 10 50 15 20 1:2 50-60 15
+Test No Test Lung Compliance ml/cmH2O ±
+10%
+Test Lung Resistance cmH2O/l/s ±
+10%
+Plateau Pressure
+cmH2O
+Rate Min -1 I:E O2 % PEEP
+Pressure Controlled Ventilation Test (30 cmH2O)
+Test No Test Lung Compliance ml/cmH2O ±
+10%
+Test Lung Resistance cmH2O/l/s ±
+10%
+Plateau Pressure
+cmH2O
+Rate Min -1 I:E O2 % PEEP
+1 50 5 30 20 1:2 50-60 5
+2 50 5 30 20 1:2 90-100 5
+3 50 5 30 12 1:2 50-60 5
+4 50 5 30 12 1:2 90-100 5
+5 50 5 30 20 1:2 50-60 10
+6 50 5 30 20 1:2 90-100 10
+7 50 5 30 12 1:2 50-60 10
+8 50 5 30 12 1:2 90-100 10
+9 50 5 30 20 1:2 50-60 15
+10 50 5 30 20 1:2 90-100 15
+11 50 5 30 12 1:2 50-60 15
+12 50 5 30 12 1:2 90-100 15
+13 20 20 30 20 1:2 50-60 5
+14 20 20 30 20 1:2 90-100 5
+15 20 20 30 12 1:2 50-60 5
+16 20 20 30 12 1:2 90-100 5
+17 20 20 30 20 1:2 50-60 10
+18 20 20 30 20 1:2 90-100 10
+19 20 20 30 12 1:2 50-60 10
+20 20 20 30 20 1:2 50-60 10
+21 20 20 30 20 1:2 50-60 15
+22 20 20 30 20 1:2 90-100 15
+23 20 20 30 12 1:2 50-60 15
+24 20 20 30 20 1:2 50-60 15
+25 10 50 30 20 1:2 50-60 5
+26 10 50 30 20 1:2 90-100 5
+27 10 50 30 12 1:2 50-60 5
+28 10 50 30 12 1:2 90-100 5
+29 10 50 30 20 1:2 50-60 10
+30 10 50 30 20 1:2 90-100 10
+31 10 50 30 12 1:2 50-60 10
+32 10 50 30 20 1:2 50-60 10
+33 10 50 30 20 1:2 50-60 15
+34 10 50 30 20 1:2 90-100 15
+35 10 50 30 12 1:2 50-60 15
+36 10 50 30 20 1:2 50-60 15
+Test No Test Lung Compliance ml/cmH2O ±
+10%
+Test Lung Resistance cmH2O/l/s ±
+10%
+Plateau Pressure
+cmH2O
+Rate Min -1 I:E O2 % PEEP
+Acceptable Performance
+Under steady-state conditions, the indicated airway pressure shall be accurate to within ±(2 +(4 % of the actual
+reading)) cmH2O
+The accuracy of measurement of expired volumes greater than 50 ml shall be within ±(4,0 +(15 % of the actual volume
+expired through the patient-connection port)) ml
+Oxygen concentrations will be ± 5 % of the set value
+Disconnect alarm will sound within 3 seconds of disconnection
+Pressure Relief Tests
+Set ventilator to 250 – 300 mls tidal volume or 30 cmH2O Inspiratory pressure with 10 cmH2OPEEP at a rate of 10 min
+-1
+Set maximum pressure level and alarm to 35 cmH20
+Compress test lung until pressure alarms and ventilator stops inflating and alarms
+Record maximum pressure reached
+Set pressure to maximum value or 70 cmH20, whichever is lower
+Detach test lung and occlude patient end of breathing system
+Confirm that pressure in system does not exceed 80 cmH2O and that alarm is activated
+Closed Suctioning Test
+Set ventilator to 250 – 300 mls tidal volume or 30 cmH2O Inspiratory pressure with 10 cmH2OPEEP at a rate of 10 min
+-1
+Attach intended breathing system to ventilator
+Set maximum vacuum to -200 cmH20 when inlet occluded
+Open suction flow control to a free suction flow of 30 lpm
+Attach a closed suction system with a 14 Fr catheter fully retracted (important in some systems to produce a gas tight
+seal)
+Attach a test lung with a compliance of 10ml / cmH2O (+/- 10%) to the patient connection port of the closed suction
+system
+Advance suction catheter into test lung
+Operate suction control on closed suction system for 3 seconds whilst withdrawing
+Confirm PEEP does not drop below 5 cmH2O
+Retract suction catheter fully. Repeat 5 times
+Repeat but increase suction time to 30 seconds, (
+PEEP will be lost, and alarms may sound)
+Confirm ventilator returns to default settings when suction is stopped
+EMC Testing (TBC)
+Must comply with IEC 60601-1-2:2014, Medical electrical equipment — Part 1-2: General requirements for basic safety
+and essential performance — Collateral Standard: Electromagnetic disturbances — Requirements and tests
+Sound Levels
+TBC
+Appendix C
+Software development requirements for a Rapidly Manufactured Ventilator System.
+The authoritative standards for the development of software for medical devices are BS EN 62304:2006+A1:2015 Medical
+device software — Software life-cycle processes and BS EN ISO 14971:2012 Medical Devices – Application of risk
+management to medical devices. Where possible software for a Rapidly Manufactured Ventilator System should be
+developed in a facility that has experience of developing software using these standards.
+A Rapidly Manufactured Ventilator System incorporating software is likely to be a high-risk device that will almost certainly,
+before the implementation of software risk control measures (RCMs), have the capability to cause serious injury or death.
+Because it is likely that the software will be developed to an accelerated life cycle it is essential that the following principles
+are adhered to:
+1) The software is developed under strict process control using a quality management system, ideally BS EN ISO 13485
+or BS EN ISO 9001.
+2) A process is followed to determine the risks arising from the operation of the software and to mitigate those risks. This
+is most easily done by the application of BS EN ISO 14971.
+3) A software development process is followed to achieve a low probability of failure of the software in use. This is most
+easily done by the appropriate application of BS EN 62304 based on the risk management process in 2 above.
+4) Less emphasis need be placed on the requirements of BS EN ISO 62304 software post-production monitoring and
+maintenance processes.
+The minimum steps that must be adhered to are as follows:
+1) The software development must be planned.
+2) The system requirements specifications must be translated into software requirements specifications.
+3) There must be enough software architecture and software design to enable the risks arising from the use of the
+software to be determined.
+4) The risks arising from the operation of the software must be determined and the risk control measures (RCMs) for these
+risks must be translated into software requirements. Special attention must be paid to any software of unknown
+provenance or commercial off the shelf software incorporated into the device.
+5) The implementation and effectiveness of the RCMs must be verified and validated.
+6) The verification and validation of the software must be planned and reported on.
+7) The outputs of the software must be reviewed against the software requirements prior to the release of the software for
+clinical use.
+MHRA will review that the software has been developed under satisfactory control and is safe and effective before use.
+At least the following artefacts should be produced to aid this review:
+1) Software Development plan.
+2) System and software requirements specifications.
+3) Appropriate software architecture and software design documents.
+4) A risk management plan and report.
+5) Software verification and validation plans and reports.
+6) A software release note.
+Glossary
+ARDS – Acute Respiratory Distress Syndrome: a life-threatening form of respiratory failure where the lungs become
+severely inflamed due to an infection or injury and can’t provide the body’s vital organs with enough oxygen.
+SIMV-PC – Synchronized Intermittent Mandatory Ventilation – Pressure Controlled: a mode of ventilation where the patient
+is allowed to take spontaneous breaths. The machine will assist the patient’s breathing when a spontaneous breath is
+taken. If the patient does not make a pre-set number of breaths a minute (i.e. 10) the machine provides mechanical
+ventilation to provide the set number.
+CMV – Continuous Mandatory Ventilation
+PCV – Pressure Controlled Ventilation
+VCV – Volume Controlled Ventilation
+PRVC – Pressure Regulated Volume Controlled: A mode of ventilation where a set tidal volume is delivered to the patient
+while maintaining the lowest pressure possible in the airway, to avoid trauma.
+CPAP - Continuous Positive Airway Pressure: a non-invasive ventilation mode that provides a constant steady pressure to
+keep the lungs expanded
+BIPAP – Bilevel Positive Airway Pressure: a non-invasive ventilation mode that provides different levels of pressure when
+the patient inhales and exhales.
+IPPV – Intermittent Positive Pressure Ventilation: a mandatory invasive ventilation mode used to replace a patient’s
+breathing when they cannot for themselves. Can be either volume controlled or pressure controlled. It does not
+synchronise any patient breathing efforts.
+PEEP – Positive End-Expiratory Pressure: The pressure maintained in the breathing system during expiration
+EPAP – Expiatory Positive Airway Pressure: Similar toPEEP, pressure applied to the airway on patient expiration to
+prevent collapse of the airway.
+HMEF – Heat and Moisture Exchange Filter: device fitted to the patient end of the breathing system, contains hydrophobic
+medium that absorbs heat and moisture from the patient’s exhaled breath and uses absorbed moisture to humidify inhaled
+gases. Can also filter bacteria and viruses, this will be used on all patients. WARNING can affect delivered pressure.
+RF – Radio Frequency: Many medical devices are sensitive toRF interference. Care should be taken to ensure that this is
+kept to a minimum.
+EM – Electro Magnetic Emissions: Many medical devices are sensitive toEM interference. Care should be taken to
+ensure that this is kept to a minimum.
+Fi02 – Fraction of inspired oxygen: concentration of oxygen in the gas mixture that the patient inhales
+AGSS – Anaesthetic gas scavenging system: where anaesthetic agents have been included in the gas mixture, this
+system is used to collect and remove exhales gas to avoid exposure to health care professionals
+Coronavirus (COVID-19)
+Coronavirus (COVID-19): what you need to do
+Transition period
+Transition period: check how to get ready
+Services and information
+Benefits
+Births, deaths, marriages and care
+Business and self-employed
+Childcare and parenting
+Citizenship and living in the UK
+Crime, justice and the law
+Disabled people
+Driving and transport
+Education and learning
+Employing people
+Environment and countryside
+Housing and local services
+Money and tax
+Passports, travel and living abroad
+Visas and immigration
+Working, jobs and pensions
+Departments and policy
+How government works
+Departments
+Worldwide
+Services
+Guidance and regulation
+News and communications
+Research and statistics
+Policy papers and consultations
+Transparency and freedom of information releases
+Is this page
+useful? Yes No
+Is there anything wrong with this
+page?
+Help Privacy Cookies Contact Accessibility statement Terms and conditions Rhestr o Wasanaethau Cymraeg
+Built by the Government Digital Service
+© Crown copyright
+All content is available under the Open Government Licence v3.0, except where otherwise stated
+

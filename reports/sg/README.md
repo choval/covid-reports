@@ -9,6 +9,7 @@
 
 ## 2020-04-20
 
+* [20200420\_daily\_report\_on\_covid-19\_cabinet.pdf](8cc6d23b9b8db26d25b8a1cfa7f7b478d6e0cfd0/file.pdf) @15:57 GMT
 * [20200418\_daily\_report\_on\_covid-19\_-(amended-19apr).pdf](e587341ccd17f9755102a85b1702ca75f2d45fda/file.pdf) @02:29 GMT
 
 ## 2020-04-19
@@ -42,8 +43,8 @@
 ## 2020-04-15
 
 * [situation-report---15-apr-2020.pdf](19ad48c1a657c5146f73a7d94b8c6a086d41d7bb/file.pdf) @15:25 GMT
-* [annex-a\_15-4.pdf](7d5c8d3926040df2dd1af3fc389557b88d8a30b8/file.pdf) @14:40 GMT
 * [annex-b\_15-4.pdf](a04db478fef5a222597de58085cd4475f48a4eda/file.pdf) @14:40 GMT
+* [annex-a\_15-4.pdf](7d5c8d3926040df2dd1af3fc389557b88d8a30b8/file.pdf) @14:40 GMT
 * [EN\_Infographic-Seniors Should Stay Home-A.pdf](1bede6b7f5787ef293e786d55f202109ef10b729/file.pdf) @03:16 GMT
 
 ## 2020-04-14
@@ -98,8 +99,8 @@
 
 ## 2020-04-06
 
-* [ML\_Infographic\_STAY AT HOME V2.pdf](0e16bb2144791ea9b9175b910b1d6c71542272d1/file.pdf) @16:49 GMT
 * [EN\_Infographic\_STAY AT HOME V2.pdf](608b126acedab1abba785800eb69ed4093fc71d0/file.pdf) @16:49 GMT
+* [ML\_Infographic\_STAY AT HOME V2.pdf](0e16bb2144791ea9b9175b910b1d6c71542272d1/file.pdf) @16:49 GMT
 * [CN\_Infographic\_STAY AT HOME V2.pdf](dd104d4fb76c1ddaff3271b94c99d9667233a25a/file.pdf) @16:49 GMT
 * [TM\_Infographic\_STAY AT HOME V2.pdf](3113284b4aae2bbe02aca34007c7457e087197f7/file.pdf) @16:49 GMT
 * [situation-report---6-apr-2020.pdf](b211ed81de33a8bc4f739d9f3154f9af97f1fc64/file.pdf) @14:34 GMT
@@ -110,8 +111,8 @@
 
 ## 2020-04-04
 
-* [TM\_Infographic-Keep Our Seniors Safe.pdf](35b301e270d3af09044a5e0f438c175aeeb1b8f3/file.pdf) @23:26 GMT
 * [ML\_Infographic-Keep Our Seniors Safe.pdf](f97c76d77e75b621844a45a3ab3f8800c051602d/file.pdf) @23:26 GMT
+* [TM\_Infographic-Keep Our Seniors Safe.pdf](35b301e270d3af09044a5e0f438c175aeeb1b8f3/file.pdf) @23:26 GMT
 * [EN\_Infographic-Keep Our Seniors Safe.pdf](b7f7f1431a147619e3c51186cee0bbf3d788f725/file.pdf) @23:26 GMT
 * [CN\_Infographic-Keep Our Seniors Safe.pdf](5709f7b7cbed55f32c2f9c1169ba8440706fbb09/file.pdf) @23:26 GMT
 * [situation-report---4-apr-2020.pdf](0e42ffc5ec0d223002c17e2fc78a7efc049e3cb5/file.pdf) @13:33 GMT
@@ -156,10 +157,10 @@
 
 * [ML\_Infographic\_SG Clean\_When taking Public Transport.pdf](280878b4d919de581ab2cbfba7fdf94db1c9dbf3/file.pdf) @17:12 GMT
 * [TM\_Infographic\_SG Clean\_When taking Public Transport.pdf](3e09bc935ff54c30db429820888cd52ab0e81ee5/file.pdf) @17:12 GMT
-* [EN\_Infographic\_SG Clean\_When taking Public Transport.pdf](89100a0a256a35156fb312878322ca5934d3852a/file.pdf) @17:12 GMT
 * [CN\_Infographic\_SG Clean\_When taking Public Transport.pdf](d76528727ba4bbf19c476e5637116b134b665116/file.pdf) @17:12 GMT
-* [CN\_Infographic-Safe Distancing At Workplaces.pdf](a4f13de32422857874345fef4ab5d043a0f975e3/file.pdf) @17:01 GMT
+* [EN\_Infographic\_SG Clean\_When taking Public Transport.pdf](89100a0a256a35156fb312878322ca5934d3852a/file.pdf) @17:12 GMT
 * [TM\_Infographic-Safe Distancing At Workplaces.pdf](f4ab5a7ed664250245ba001ec160649f7029a74f/file.pdf) @17:01 GMT
+* [CN\_Infographic-Safe Distancing At Workplaces.pdf](a4f13de32422857874345fef4ab5d043a0f975e3/file.pdf) @17:01 GMT
 * [EN\_Infographic-Safe Distancing At Workplaces.pdf](8f1f2fc18bf6fd05ce635e1724cde2384f54c2ea/file.pdf) @17:01 GMT
 * [ML\_Infographic-Safe Distancing At Workplaces.pdf](b7a88ad5e536960a66efc570f1c8f1742d5ecbfa/file.pdf) @17:01 GMT
 * [annex---12-more-cases-discharged-52-new-cases-of-covid-19-infection-confirmed-26-mar-2020.pdf](018437b33204a2b34c5a78ff98b5a08c65bf50b4/file.pdf) @13:01 GMT
@@ -170,10 +171,10 @@
 * [annex18-3.pdf](b1b5e457f0b6ef256f1eb9c1fdc5e8f1eb163bdd/file.pdf) @04:41 GMT
 * [annex23-3.pdf](b7b546795c577aa250eae78900a2b916c908bb58/file.pdf) @04:41 GMT
 * [19-3annex2.pdf](ecfff6de78d16689e7f2166e3e9ed5b1cbfe8d64/file.pdf) @04:41 GMT
-* [TM\_Infographic-Safe Distancing at Eating Places.pdf](36784ba72fd978b68a6b4f0df03e6990359d3e93/file.pdf) @03:19 GMT
 * [ML\_Infographic-Safe Distancing at Eating Places.pdf](325f6c4a3278c3d699d7f66a1813d41b5e66ac55/file.pdf) @03:19 GMT
-* [EN\_Infographic-Safe Distancing at Eating Places.pdf](7c11589a0e388e476f81c03d9c6be96ab5f80a7a/file.pdf) @03:19 GMT
+* [TM\_Infographic-Safe Distancing at Eating Places.pdf](36784ba72fd978b68a6b4f0df03e6990359d3e93/file.pdf) @03:19 GMT
 * [CN\_Infographic-Safe Distancing at Eating Places.pdf](437c666dd7e25af6dfe156026a9788c5c31c7168/file.pdf) @03:19 GMT
+* [EN\_Infographic-Safe Distancing at Eating Places.pdf](7c11589a0e388e476f81c03d9c6be96ab5f80a7a/file.pdf) @03:19 GMT
 
 ## 2020-03-24
 

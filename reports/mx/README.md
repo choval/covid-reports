@@ -31,6 +31,7 @@
 
 ## 2020-04-14
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.13.pdf](4b254c0813952366055e7a181d74246d53390947/file.pdf) @01:08 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.13.pdf](29325efb0ff77f9262892a128269445d742c9bc7/file.pdf) @00:57 GMT
 
 ## 2020-04-13
@@ -39,6 +40,7 @@
 
 ## 2020-04-12
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.11.pdf](8f5f04fea77a3a0227551d9c5481074826b35795/file.pdf) @00:14 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.11.pdf](4c6a00bb3b5229ae2339e19cdd0ead129f7d2218/file.pdf) @00:07 GMT
 
 ## 2020-04-11
@@ -47,22 +49,27 @@
 
 ## 2020-04-10
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.09.pdf](4f569a349197f9e42c9cc652ab3b9045f5fa28a7/file.pdf) @02:21 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.09.pdf](16a623fc07694c133f77eb2fdf09b2fa2d693b68/file.pdf) @02:14 GMT
 
 ## 2020-04-09
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.08.pdf](debf02ead78ce2a111ed197240a4bc727c4ae3db/file.pdf) @00:36 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.08.pdf](3a584f7ab5dd6e9b1ab2926859a4cc670cf00470/file.pdf) @00:26 GMT
 
 ## 2020-04-08
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.07.pdf](12533d734619b894ccdaae5d5fb630f486193835/file.pdf) @02:11 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.07.pdf](0052e707db884d665f986d6fc13a0762b1c9184f/file.pdf) @00:18 GMT
 
 ## 2020-04-07
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.06.pdf](bc4cab20919f0bc4ad615ef989e295ff7b9362e0/file.pdf) @18:42 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.06.pdf](7d00b8b29ab486faa0074ebcd8b4516eeea92c43/file.pdf) @00:49 GMT
 
 ## 2020-04-06
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.05.pdf](aee5587847151469db0553027369cb24ed2c668f/file.pdf) @03:57 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.05.pdf](ccdabf98e99a367355f966bfa37c6ad1d7ee88cc/file.pdf) @00:15 GMT
 
 ## 2020-04-05
@@ -79,18 +86,24 @@
 
 ## 2020-04-02
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.01.pdf](0f26dafb268a6ed708b80598b301750982586736/file.pdf) @21:36 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.04.01.pdf](7dd568b2b5c78065bb817c8a0794737732b7f7dc/file.pdf) @01:02 GMT
 
 ## 2020-04-01
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.31.pdf](f25fa560a4470df0a060ff24b892bfebb79d893b/file.pdf) @01:01 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.31.pdf](f1da954a18897eb0af64697cf079015453176114/file.pdf) @00:55 GMT
 
 ## 2020-03-31
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.30.pdf](d1436299052b477216c2a5201d0ccf2171e9fd4d/file.pdf) @01:19 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.30.pdf](a23b50f97e97ec0d143c567c73bc90025856db3f/file.pdf) @00:48 GMT
 
 ## 2020-03-30
 
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.29\_1\_.pdf](f67f4b5e22ae82aa148e25a08c71c5790eecb8f0/file.pdf) @19:13 GMT
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.27.pdf](57d8c61484a18d38380bd05205f3114815eafcce/file.pdf) @19:13 GMT
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.28.pdf](5736b2f99b78760e9ad2b5640012455afa97aca6/file.pdf) @19:07 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.29.pdf](f561c0630afb874ac48466d283e4dd95c5da5891/file.pdf) @01:07 GMT
 
 ## 2020-03-29
@@ -147,8 +160,8 @@
 
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.14.pdf](ab41859cbc5b744c17b05f2785852e48bc1c8850/file.pdf) @02:15 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.11.pdf](6c9b2cc3519aafdd0a14757c92ac42c06d354f47/file.pdf) @01:12 GMT
-* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.12.pdf](c6848ab401d2600967812d5fe9d82bb7c936e123/file.pdf) @01:12 GMT
 * [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.13.pdf](88a61960da841bbd79be4ddea3f5b1dba9fa83f0/file.pdf) @01:12 GMT
+* [Comunicado\_Tecnico\_Diario\_COVID-19\_2020.03.12.pdf](c6848ab401d2600967812d5fe9d82bb7c936e123/file.pdf) @01:12 GMT
 
 ## 2020-03-11
 

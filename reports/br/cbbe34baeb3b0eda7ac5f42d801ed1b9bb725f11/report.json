@@ -1,0 +1,26 @@
+{
+    "filename": "Ficha-de-telemonitoramento-de-pacientes-do-SAD-II.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/20\/Ficha-de-telemonitoramento-de-pacientes-do-SAD-II.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587420453,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "247043",
+        "date": "Mon, 20 Apr 2020 22:07:33 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587420454.882.31461.319243; Path=\/; Secure; HttpOnly",
+        "last-modified": "Mon, 20 Apr 2020 20:46:56 GMT",
+        "etag": "\"3c503-5a3beffecdcba\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 fccb6b9c4ebd61ac6c5fc94394de34f2.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "TmIhEjZDTrF2FWVBX0E1OSSzk2PbE2A0wlA5NXKqznZMoAQ2w7iqsA=="
+    },
+    "lang": "pt",
+    "size": 247043,
+    "modified": 1587415616
+}

@@ -1,0 +1,29 @@
+{
+    "filename": "HonbleHFMLettertoalltheHon'blestateHealthMinisters.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/HonbleHFMLettertoalltheHon'blestateHealthMinisters.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587420707,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Mon, 20 Apr 2020 13:59:20 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "12041564",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2564742",
+        "expires": "Wed, 20 May 2020 14:37:29 GMT",
+        "date": "Mon, 20 Apr 2020 22:11:47 GMT"
+    },
+    "lang": "en,hi",
+    "size": 12041564,
+    "modified": 1587391160
+}

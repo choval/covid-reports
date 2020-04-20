@@ -1,0 +1,23 @@
+{
+    "filename": "Rapporto ISS COVID-19 n. 15_2020 farmaci online.pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Rapporto+ISS+COVID-19+n.+15_2020+farmaci+online.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587420762,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "3507513",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 17 Apr 2020 09:08:03 GMT",
+        "set-cookie": "JSESSIONID=D0BB5CCE0C709E7D0263EB448860A130; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Rapporto ISS COVID-19 n. 15_2020 farmaci online.pdf\"",
+        "date": "Mon, 20 Apr 2020 22:12:41 GMT"
+    },
+    "lang": "it",
+    "size": 3507513,
+    "modified": 1587114483
+}

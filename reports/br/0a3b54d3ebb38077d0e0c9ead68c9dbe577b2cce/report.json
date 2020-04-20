@@ -1,0 +1,26 @@
+{
+    "filename": "doc-nota-tecnica-covid19---1-.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/20\/doc-nota-tecnica-covid19---1-.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587420452,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "219668",
+        "date": "Mon, 20 Apr 2020 22:07:32 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587420453.372.31466.926080; Path=\/; Secure; HttpOnly",
+        "last-modified": "Mon, 20 Apr 2020 20:43:08 GMT",
+        "etag": "\"35a14-5a3bef25eef30\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e3115d01cacf7ccdca42be5f0c044ccd.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "U_JrNxzPjFKPyyum1OHDRDAkSD-oVddLxL92smWW5FFDl4P5DnOeMw=="
+    },
+    "lang": "pt",
+    "size": 219668,
+    "modified": 1587415388
+}
