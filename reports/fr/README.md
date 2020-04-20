@@ -5,6 +5,11 @@
 * [https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19)
 
 
+## 2020-04-19
+
+* [point\_de\_situation\_pr\_jerome\_salomon\_1904.pdf](a5bdf93c9e72661070fe55f42efa4bed581980c0/file.pdf) @18:15 GMT
+* [point\_de\_situation\_-\_18\_avril-2.pdf](6dcd47fba5533676c3216e553a13d8b6d54552ea/file.pdf) @13:15 GMT
+
 ## 2020-04-18
 
 * [point\_de\_situation\_du\_17\_avril\_2020.pdf](d78961d4781c3ddd166a928db2e955af2bde733e/file.pdf) @09:02 GMT

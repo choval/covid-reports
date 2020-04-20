@@ -1,0 +1,19 @@
+{
+    "filename": "3cb443-COVID19Prensa.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/3cb443-COVID19Prensa.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587345108,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Mon, 20 Apr 2020 01:11:40 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "450589",
+        "last-modified": "Sun, 19 Apr 2020 15:48:24 GMT",
+        "etag": "\"6e01d-5a3a6b676000f\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 450589,
+    "modified": 1587311304
+}

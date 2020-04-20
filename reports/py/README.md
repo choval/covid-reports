@@ -6,6 +6,10 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-19
+
+* [3cb443-COVID19Prensa.pdf](0c6212a070e0fe150f9128a9a70c428035650f85/file.pdf) @15:48 GMT
+
 ## 2020-04-18
 
 * [bc202c-COVID19Prensa.pdf](4af32f8cbbcf78441aa735a500ec5ff4b2245671/file.pdf) @16:25 GMT

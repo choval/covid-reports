@@ -1,0 +1,28 @@
+{
+    "filename": "point_de_situation_pr_jerome_salomon_1904.pdf",
+    "uri": "https:\/\/solidarites-sante.gouv.fr\/IMG\/pdf\/point_de_situation_pr_jerome_salomon_1904.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587344789,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 20 Apr 2020 01:06:29 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "111518",
+        "set-cookie": "__cfduid=d53d11422faaf49f0b496513b1e5a740e1587344789; expires=Wed, 20-May-20 01:06:29 GMT; path=\/; domain=.solidarites-sante.gouv.fr; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Sun, 19 Apr 2020 18:15:43 GMT",
+        "etag": "\"1b39e-5a3a8c54e75aa\"",
+        "cache-control": "public, max-age=3600",
+        "vary": "Accept-Encoding",
+        "cf-cache-status": "HIT",
+        "expires": "Mon, 20 Apr 2020 02:06:29 GMT",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "586af6836edad2bc-EZE",
+        "alt-svc": "h3-27=\":443\"; ma=86400, h3-25=\":443\"; ma=86400, h3-24=\":443\"; ma=86400, h3-23=\":443\"; ma=86400",
+        "cf-request-id": "0236b8661e0000d2bc87103200000001"
+    },
+    "lang": "fr",
+    "size": 111518,
+    "modified": 1587320143
+}

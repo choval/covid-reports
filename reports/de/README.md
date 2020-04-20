@@ -8,6 +8,11 @@
 * [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
 
 
+## 2020-04-19
+
+* [2020-04-19-en.pdf](7844e50c91e3aacb26f3a10b7297ac728fc5d65c/file.pdf) @15:26 GMT
+* [2020-04-19-de.pdf](1ef1f3502484fb1c2cd81a4b76595b282e60433b/file.pdf) @15:26 GMT
+
 ## 2020-04-18
 
 * [2020-04-18-en.pdf](068c80d496eba945e51ace6b6b4a108656beaff5/file.pdf) @13:27 GMT
@@ -18,8 +23,8 @@
 * [2020-04-17-en.pdf](498b3913495d35be37ff45cdc68f78e4ab22bb84/file.pdf) @18:28 GMT
 * [2020-04-17-de.pdf](4be5822cf6725ca102b4991ebfe1fa199b4ec4a6/file.pdf) @17:55 GMT
 * [Faktenpapier\_Testen.PDF](df96e8d8c735a2bc3fb845e9cfe6443a80c65d57/file.pdf) @11:32 GMT
-* [Faktenpapier\_Impfen.pdf](54e533b8e88f8d902cf76358f30fd26a9731a1ef/file.pdf) @11:09 GMT
 * [Faktenpapier\_Therapie.PDF](5826b4c0881bed910c8854197a0f02088a002ce0/file.pdf) @11:09 GMT
+* [Faktenpapier\_Impfen.pdf](54e533b8e88f8d902cf76358f30fd26a9731a1ef/file.pdf) @11:09 GMT
 
 ## 2020-04-16
 
@@ -196,8 +201,8 @@
 
 ## 2020-03-16
 
-* [BMG\_C-19\_200315\_info\_VT\_Krankenhaus.pdf](4e9956a6351bb888c60d57e03a057b86d7ecbcac/file.pdf) @14:26 GMT
 * [BMG\_C-19\_200315\_info\_VT\_Patientinnen.pdf](c7f1ca977a620fd94a2de735f47d7c49ee4031c3/file.pdf) @14:26 GMT
+* [BMG\_C-19\_200315\_info\_VT\_Krankenhaus.pdf](4e9956a6351bb888c60d57e03a057b86d7ecbcac/file.pdf) @14:26 GMT
 * [2020-03-15-en.pdf](ed7447aaeef86b94fc307537e99157190cc9217b/file.pdf) @07:30 GMT
 
 ## 2020-03-14
@@ -220,12 +225,12 @@
 
 ## 2020-03-11
 
-* [Coronavirus\_Handzettel\_barrierefrei\_DE\_barr.pdf](1f7ea7c2a9420a018db0aa3693dd04ab7d54d905/file.pdf) @15:21 GMT
 * [Coronavirus\_Handzettel\_barrierefrei\_tu\_\_rkisch\_barr.pdf](b98cd96edece38dd5430149567e667c5534f5a58/file.pdf) @15:21 GMT
 * [Coronavirus\_Handzettel\_barrierefrei\_ENG\_barr.pdf](af1bb854e03c8afb229817e5d81bbe789614ff19/file.pdf) @15:21 GMT
+* [Coronavirus\_Handzettel\_barrierefrei\_DE\_barr.pdf](1f7ea7c2a9420a018db0aa3693dd04ab7d54d905/file.pdf) @15:21 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_DE.pdf](03c676043c8b7073b16ee7ae3193d43ddeb8aa27/file.pdf) @08:13 GMT
-* [Merkblatt-Bildungseinrichtungen-Coronavirus\_TR.pdf](aa2a228c9a629d5408ebb3350c4e8db408a46f84/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_RU.pdf](8adf4f98c357d48776641c59527c63126322f938/file.pdf) @08:13 GMT
+* [Merkblatt-Bildungseinrichtungen-Coronavirus\_TR.pdf](aa2a228c9a629d5408ebb3350c4e8db408a46f84/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_\_EN.pdf](abfcf6f14cbec32215f3d8b770977fca9af659fb/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_AR.pdf](1aa78906c4e83149bf5d121eda00a16d3093d7ea/file.pdf) @08:13 GMT
 

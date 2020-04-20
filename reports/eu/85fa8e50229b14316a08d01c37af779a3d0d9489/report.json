@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-contact-tracing-infographic.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-contact-tracing-infographic.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587385663,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "640740",
+        "date": "Mon, 20 Apr 2020 12:27:42 GMT",
+        "server": "nginx\/1.17.6",
+        "etag": "\"9c6e4-5a3b49bcfd4f8\"",
+        "last-modified": "Mon, 20 Apr 2020 08:23:07 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "426292913 303334778",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 bf1e69d85e8944fe5ebef366af48a17b.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "S807C4PhE8NvvYaGBvf_poVmexZt8c50LilNUhcKiO9Ko-a4MFeyyQ==",
+        "age": "212"
+    },
+    "lang": "en",
+    "size": 640740,
+    "modified": 1587370987
+}

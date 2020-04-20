@@ -1,0 +1,23 @@
+{
+    "filename": "Rapporto ISS COVID-19 n. 12 telemedicina.pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Rapporto+ISS+COVID-19+n.+12+telemedicina.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587385716,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "1749070",
+        "content-type": "application\/pdf",
+        "last-modified": "Tue, 14 Apr 2020 10:36:48 GMT",
+        "set-cookie": "JSESSIONID=95A49FB0F29752AE6C575EA281FC5E94; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Rapporto ISS COVID-19 n. 12 telemedicina.pdf\"",
+        "date": "Mon, 20 Apr 2020 12:28:35 GMT"
+    },
+    "lang": "it",
+    "size": 1749070,
+    "modified": 1586860608
+}

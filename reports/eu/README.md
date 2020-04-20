@@ -5,6 +5,10 @@
 * [https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0](https://www.ecdc.europa.eu/en/search?f%5B0%5D=diseases%3A2942&f%5B1%5D=diseases%3A2944&s=&sort_by=field_ct_publication_date&sort_order=DESC&0=diseases%3A2944&page=0)
 
 
+## 2020-04-20
+
+* [COVID-19-contact-tracing-infographic.pdf](85fa8e50229b14316a08d01c37af779a3d0d9489/file.pdf) @08:23 GMT
+
 ## 2020-04-09
 
 * [Contact-tracing-Public-health-management-persons-including-healthcare-workers-having-had-contact-with-COVID-19-cases-in-the-European-Union–second-update\_0.pdf](8468ba07564703d9660487b60dca96685651af4a/file.pdf) @11:39 GMT

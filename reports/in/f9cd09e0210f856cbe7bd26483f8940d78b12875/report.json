@@ -1,0 +1,29 @@
+{
+    "filename": "GuidelinestobefollowedondetectionofsuspectorconfirmedCOVID19case.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/GuidelinestobefollowedondetectionofsuspectorconfirmedCOVID19case.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587385686,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Mon, 20 Apr 2020 08:57:45 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "136468",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2579957",
+        "expires": "Wed, 20 May 2020 09:07:23 GMT",
+        "date": "Mon, 20 Apr 2020 12:28:06 GMT"
+    },
+    "lang": "en,hi",
+    "size": 136468,
+    "modified": 1587373065
+}

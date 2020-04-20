@@ -1,0 +1,22 @@
+{
+    "filename": "1621-costa-rica-registra-su-quinto-fallecimiento-de-paciente-covid-19",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/index.php\/centro-de-prensa\/noticias\/741-noticias-2020\/1621-costa-rica-registra-su-quinto-fallecimiento-de-paciente-covid-19",
+    "output": "file.pdf",
+    "downloaded": 1587344608,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 20 Apr 2020 01:03:27 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "x-powered-by": "PHP\/7.1.8",
+        "set-cookie": "8cd12c6ad39b41813d2d8929fe5e4c82=d0mfg0ep68tr4uuh30ri6ki27e; path=\/; HttpOnly",
+        "p3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Mon, 20 Apr 2020 01:03:28 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 116501,
+    "modified": 1587344620
+}

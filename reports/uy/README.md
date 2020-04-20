@@ -6,6 +6,11 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-20
+
+* [informe-situacion-relacion-coronavirus-covid-19-uruguay-4](2fcb8c4d42286d5adcd1f147f211c33104f86a22/file.pdf) @01:13 GMT
+* [informe-situacion-relacion-coronavirus-covid-19-uruguay-5](c8bf5b6aa8aecc32a59e82a6aa23b74af22af4ab/file.pdf) @01:13 GMT
+
 ## 2020-04-19
 
 * [informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay-1](c387ae4fc6d68ef96dedcaed20eb41371f1530e4/file.pdf) @12:52 GMT

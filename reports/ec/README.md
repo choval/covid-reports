@@ -5,6 +5,10 @@
 * [https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/](https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/)
 
 
+## 2020-04-19
+
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-19042020-08h00.pdf](23a114d3936ab0efe6f4d877f58d9079fbd23729/file.pdf) @16:30 GMT
+
 ## 2020-04-18
 
 * [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-18042020-08h00-.pdf](e28751ecdbcd5e3766fcfce449b83794f3ac7d95/file.pdf) @16:21 GMT

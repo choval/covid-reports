@@ -1,0 +1,20 @@
+{
+    "filename": "C_17_notizie_4530_1_file.pdf",
+    "uri": "http:\/\/www.salute.gov.it\/imgs\/C_17_notizie_4530_1_file.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587344866,
+    "headers": {
+        "http-status": 200,
+        "server": "XXXXXXXXXXXXX",
+        "content-type": "application\/pdf",
+        "content-length": "647593",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "expires": "Mon, 20 Apr 2020 01:12:46 GMT",
+        "date": "Mon, 20 Apr 2020 01:07:46 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "it",
+    "size": 647593,
+    "modified": 1587344867
+}

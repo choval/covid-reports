@@ -1,0 +1,1358 @@
+Istituto Superiore di Sanità
+Indicazioni ad interim per servizi
+assistenziali di telemedicina durante
+l’emergenza sanitaria COVID-19
+versione 13 aprile 2020
+Rapporto ISS COVID-19 • n. 12/2020
+Indicazioni ad interim per servizi
+assistenziali di telemedicina durante
+l’emergenza sanitaria COVID-19
+Versione del 13 aprile 2020
+Francesco Gabbrielli
+Direttore Centro Nazionale per la Telemedicina e le Nuove Tecnologie Assistenziali, Istituto Superiore
+di Sanità, Roma
+Luigi Bertinato
+Segreteria Scientifica della Presidenza, Istituto Superiore di Sanità, Roma
+Giuseppe De Filippis
+Direttore Sanitario, ASST Fatebenefratelli – Sacco, Milano
+Mauro Bonomini
+Medico di Medicina Generale, AUSL Piacenza
+Coordinatore Nucleo Cure Primarie di Fiorenzuola
+Maurizio Cipolla
+Medico di Medicina Generale, Catanzaro
+Direzione scientifica Obiettivi di Piano Regione Calabria (linea 5.2)
+Al presente lavoro hanno dato il loro contributo, nell’ambito delle rispettive competenze specifiche:
+Osservatorio Nazionale Autismo ISS
+Gruppo COVID-19 Malattie Rare
+La responsabilità dei dati scientifici e tecnici è dei singoli autori, che dichiarano di non avere conflitti di interesse.
+Redazione e grafica a cura del Servizio Comunicazione Scientifica (immagini di Cosimo Marino Curianò).
+© Istituto Superiore di Sanità 2020
+viale Regina Elena, 299 –00161 Roma
+Istituto Superiore di Sanità
+Indicazioni ad interim per servizi assistenziali di telemedicina durante l’emergenza sanitaria COVID-19.
+Versione del 13 aprile 2020.
+Francesco Gabbrielli, Luigi Bertinato, Giuseppe De Filippis, Mauro Bonomini, Maurizio Cipolla
+2020, ii, 29 p. Rapporti ISS COVID-19 n. 12/2020
+Il documento fornisce supporto alla realizzazione di servizi in telemedicina durante emergenza COVID-19, offrendo
+indicazioni, individuando problematiche operative e proponendo soluzioni sostenute dalle evidenze, ma anche
+impiegabili in modo semplice nella pratica. Le indicazioni sono raccolte per semplicità in un unico modello di riferimento,
+ma possono essere usate in varia combinazione per erogare servizi sanitari e supporto psicologico, allo scopo di
+sorvegliare proattivamente le condizioni di salute di persone in quarantena, in isolamento o dopo dimissione
+dall’ospedale, oppure isolate a domicilio dalle norme di distanziamento sociale ma bisognose di continuità
+assistenziale, pur non essendo contagiate da COVID-19.
+Istituto Superiore di Sanità
+Interim provisions on telemedicine healthcare services during COVID-19 health emergency. Version of April
+13, 2020.
+Francesco Gabbrielli, Luigi Bertinato, Giuseppe De Filippis, Mauro Bonomini, Maurizio Cipolla
+2020, ii, 29 p. Rapporti ISS COVID-19 n. 12/2020 (in Italian)
+The document provides support for the realization of services in Telemedicine during a COVID-19 emergency, offering
+indications, identifying operational problems and proposing solutions supported by evidence, but also easily
+dispensable in practice. The indications are collected for simplicity in a single reference model but can be used in
+various combinations to provide health services and psychological support, to proactively monitor the health conditions
+of people in quarantine, in isolation or after discharge from the hospital, or isolated at home from the rules of social
+distancing but in need of continuity of care, even if they are not COVID-19 infected.
+Per informazioni su questo documento scrivere a: francesco.gabbrielli@iss.it
+Citare questo documento come segue:
+Gabbrielli F, Bertinato L, De Filippis G, Bonomini M, Cipolla M. Indicazioni ad interim per servizi assistenziali di
+telemedicina durante l’emergenza sanitaria COVID-19. Versione del 13 aprile 2020. Roma: Istituto Superiore di
+Sanità; 2020. (Rapporto ISS COVID-19, n. 12/2020).
+i
+Indice
+Destinatari del rapporto................................................................................................................................. ii
+Glossario dei termini..................................................................................................................................... ii
+Introduzione..................................................................................................................................................1
+Esigenze assistenziali a domicilio affrontabili in telemedicina in corso di COVID-19....................................2
+A. Persone non affette da patologie precedenti al momento in cui è stata necessaria la quarantena
+o l’isolamento, asintomatiche e che rientrino nella definizione di contatto stretto o di caso
+confermato (C.M. 0007922 – 09/03/2020).........................................................................................4
+B. Persone non affette da patologie precedenti al momento in cui è stato necessario l’isolamento,
+che presentino sintomi da lievi a moderati compatibili con infezione COVID-19 e che rientrino
+in una delle definizioni di caso sospetto, probabile o confermato (C.M. 0007922 – 09/03/2020)......4
+C. Persone affette da patologie croniche, malattie rare e persone in condizioni di fragilità,
+oppure che richiedono trattamenti di lungo periodo o di particolare assistenza e/o supporto
+non ospedalieri, e che necessitano di mantenere la continuità dei servizi durante la quarantena,
+l’isolamento o nel periodo di applicazione delle norme di distanziamento sociale.............................5
+Obiettivo generale per servizi a domicilio in corso di COVID-19...................................................................7
+Principi di riferimento per realizzare servizi domiciliari in telemedicina in corso di emergenza COVID-19...8
+Condizioni preliminari per rendere possibili servizi in telemedicina..........................................................8
+Condizioni riferite alle infrastrutture di telecomunicazione ...................................................................9
+Condizioni riferite all’organizzazione sanitaria ...................................................................................10
+Condizioni riferite alla sicurezza dei dati personali e dei dispositivi digitali presenti al domicilio
+dell’utente...........................................................................................................................................11
+Condizioni riferite alla possibilità della persona a domicilio di collaborare .........................................12
+Responsabilità sanitaria durante attività in telemedicina........................................................................13
+Schema degli elementi necessari per realizzare i servizi a domicilio .....................................................14
+Caratteristiche di base .......................................................................................................................14
+Strumenti a supporto delle attività del personale sanitario (medico)..................................................14
+Strumenti di supporto per il paziente..................................................................................................15
+Funzionamento della videochiamata sanitaria........................................................................................15
+Passaggi iniziali di attivazione del servizio.............................................................................................16
+Tipi di servizi di telemedicina a domicilio ....................................................................................................17
+Tipo 1. Tele-controllo attivo dello stato di salute delle persone in situazione (A), per rilevare l’eventuale
+comparsa di segni e sintomi da infezione COVID-19.................................................................17
+Tipo 2. Tele-sorveglianza del quadro clinico delle persone in situazione (B), per le cure necessarie
+contro COVID-19 e per disporre l’eventuale ricovero ospedaliero quando appropriato.............19
+Tipo 3. Tele-sorveglianza attiva del quadro clinico complessivo delle persone in situazione (C),
+al fine di fornire a domicilio la migliore continuità possibile delle cure e dell’assistenza,
+in relazione alla condizione di base e all’eventuale infezione COVID-19...................................21
+Tipo 4. Tele-supporto psicologico rispetto ai disagi e limitazioni dell’isolamento
+(su richiesta delle persone)........................................................................................................23
+Limiti di applicazione dei servizi in telemedicina a domicilio.......................................................................24
+Schema di funzionamento dei servizi in telemedicina proposti...................................................................25
+Schema di organizzazione del sistema di telemedicina..............................................................................26
+Riferimenti bibliografici................................................................................................................................27
+ii
+Destinatari del rapporto
+I principali destinatari di questo rapporto sono gli operatori e i manager sanitari coinvolti nell’emergenza
+COVID-19.
+Glossario dei termini
+MMG Medico di Medicina Generale
+PHR Patient Health Record (cartella clinica del paziente)
+PLS Pediatra di Libera Scelta
+SSN Servizio Sanitario Nazionale
+1
+Introduzione
+Il Centro Nazionale per la Telemedicina e le Nuove Tecnologie Assistenziali dell’Istituto Superiore di
+Sanità, dall’inizio dell’emergenza nazionale da COVID-19, sta collaborando con le realtà operative sul
+territorio italiano fornendo il proprio supporto alla realizzazione di soluzioni concrete, rapide da applicare e
+aderenti alle norme vigenti e tali da offrire le migliori garanzie di sicurezza sanitaria sia per i pazienti che per
+i professionisti.
+Si registrano numerose esigenze di cura ed assistenziali sia negli ospedali che ancora di più nei territori.
+Oltre a ciò i medici, specialmente nell’ambito dell’assistenza primaria, sollecitano interventi di facile e veloce
+applicazione, che abbiano approccio pragmatico sul piano tecnologico e organizzativo ma siano anche
+rigorosi sul piano della pratica medica e della tutela della sicurezza, che coprano esigenze reali, anche non
+locali, con soluzioni scalabili secondo le necessità e utilizzando la rete per annullare la distanza tra persone
+e creare barriere invalicabili per il virus (1, 2).
+Il 4 marzo 2020, il Centro Nazionale ha proposto, alla riunione scientifica ISS, un primo modello operativo
+pensato per ottenere in pochi giorni un servizio in telemedicina attivo nei territori più colpiti con l’idea di
+coprire rapidamente e per un periodo limitato le esigenze dovute alla quarantena di vaste aree.
+Da tale idea iniziale, vista la rapida evoluzione verso la pandemia (3, 4) e la prospettiva di dover
+affrontare un periodo non breve di distanziamento sociale (5, 6), è stato sviluppato il presente lavoro che ha
+lo scopo di fornire a coloro che stiano organizzando servizi in telemedicina un modello di riferimento che ne
+faciliti la realizzazione in questo particolare periodo. Si tratta di un documento improntato all’individuazione
+delle problematiche pratiche e alla proposizione di soluzioni scientificamente sostenute dalle evidenze, ma
+anche adottabili in modo semplice nella pratica clinica e assistenziale.
+Il presente lavoro è stato pensato per la situazione di emergenza sanitaria in relazione alla diffusione di
+COVID-19 e di conseguenza non viene studiata la possibilità di estendere i servizi di telemedicina attivati
+durante l’emergenza sanitaria oltre la durata della stessa. La motivazione di ciò risiede nel fatto che
+attualmente, rispetto al sistema sanitario italiano pubblico, che presenta caratteristiche pressoché uniche,
+occorre un ulteriore approfondimento circa la metodologia di valutazione delle soluzioni dal punto di vista
+sanitario e gestionale per realizzare servizi in telemedicina coerenti tra loro su tutto il territorio nazionale,
+ma anche adattabili alle realtà locali, al fine di ottenere la loro stabilizzazione duratura nella pratica.
+Le indicazioni qui illustrate sono raccolte per semplicità di esposizione in un unico modello di riferimento,
+il quale è pensato per offrire servizi sanitari e supporto psicologico alle persone a domicilio usando soluzioni
+in telemedicina, allo scopo di sorvegliare proattivamente le loro condizioni di salute, sia dopo la dimissione
+da reparto ospedaliero, sia in corso di quarantena o di isolamento, sia in caso di isolamento domiciliare
+indotto dalle norme di distanziamento sociale per quelle specifiche categorie di persone che necessitano di
+continuità assistenziale, pur non essendo contagiate.
+2
+Esigenze assistenziali a domicilio affrontabili
+in telemedicina in corso di COVID-19
+Nell’emergenza sanitaria da COVID-19 il Servizio Sanitario Nazionale (SSN) è chiamato a erogare
+servizi a persone obbligate in quarantena o in isolamento fiduciario con inedita rilevante numerosità. Tali
+servizi hanno il duplice scopo di contribuire a contrastare la diffusione di COVID-19 e anche di garantire per
+quanto possibile la continuità della cura e dell’assistenza, a cui le persone hanno diritto. Per di più, anche
+coloro che si trovano di fatto isolati al proprio domicilio in conseguenza delle necessarie norme di
+distanziamento sociale, possono avere comunque esigenze di continuità di cura e assistenza (7-9).
+Dunque, pur essendo prioritario aumentare le possibilità di assistenza a domicilio per le persone affette
+da COVID-19, per le ragioni appena dette, allo stesso tempo non può essere trascurata l’esigenza di cura
+e di assistenza domiciliare per quelle persone che ne presentino la necessità a causa delle loro condizioni
+patologiche o di fragilità. Inoltre, tutte queste esigenze devono essere affrontate in condizioni di emergenza
+sanitaria, con carenza relativa di risorse materiali e umane e avendo cura di osservare le norme anti-
+contagio per la maggiore tutela possibile anche del personale sanitario.
+Il ricorso a prestazioni a distanza è quindi pienamente giustificato. Esse vanno fornite alle persone, ove
+possibile, prioritariamente attraverso le tecnologie digitali e di telecomunicazione moderne, che offrono le
+migliori opportunità operative rispetto all’uso delle tecnologie precedenti.
+I servizi possibili con la telemedicina sono molteplici ove essi si trovavano in condizioni di operatività già
+prima di COVID-19 (10, 11), diversamente ove la telemedicina non è ancora strutturata in un sistema di
+significato nazionale, trovandosi nella situazione di emergenza sanitaria è necessario prima di tutto
+realizzare e rendere disponibili quelle soluzioni che siano attivabili rapidamente, in pochi giorni, che siano
+utilizzabili dalle persone a domicilio con le dotazioni tecnologiche a loro disponibili nell’immediato e che
+siano attivabili per periodi di tempo congrui alle necessità poste dalla situazione di emergenza. In base
+all’esperienza cinese di evoluzione dell’epidemia, in prima approssimazione, tali servizi devono garantire
+l’attività per non meno di 90 giorni ed è fortemente consigliabile prevederne modalità di proroga in caso di
+ulteriori necessità correlate all’eventuale permanere della situazione di emergenza sanitaria (12).
+Nel realizzare servizi a distanza occorre tenere presente le esigenze relazionali degli utenti con il sistema
+sanitario. Infatti, l’isolamento dentro il proprio domicilio rende particolarmente desiderabile, poter contare su
+un servizio facilmente fruibile a distanza, potendo accedere in modo veloce al colloquio con i sanitari,
+secondo necessità. A causa della limitazione degli spostamenti, la persona si aspetta di ricevere già
+attraverso il contatto telematico la soluzione del suo problema, oppure la chiara indicazione di come
+risolverlo o quanto meno di percepire la concreta possibilità di essere comunque assistito in modo efficace
+e sicuro. In mancanza dei suddetti riscontri, la persona tenderà a non fidarsi del sistema proposto e a non
+usarlo, specialmente quando si trovi ad affrontare necessità impellenti. In realtà, queste interazioni tra la
+persona e gli operatori sono presenti in qualsiasi servizio assistenziale, ma a distanza sono amplificate dalla
+consapevolezza che il sanitario è in realtà lontano e che viene raggiunto in forza di una tecnologia che
+l’utente può fruire, ma usualmente non dominare.
+Oltre alle suddette considerazioni, è fondamentale strutturare il servizio a distanza in base alle differenze
+nelle possibili situazioni di fruizione, le quali, a loro volta, dipendono dalla tipologia di persone destinatarie
+del servizio domiciliare (13). Nell’emergenza sanitaria COVID-19, in conformità alle definizioni di caso
+presenti nella C.M. 0006360 del 27/02/2020, sono state individuate dall’Istituto Superiore di Sanità quattro
+tipologie di persone (14) che, dovendo restare in isolamento, necessitano di controlli sanitari nel luogo
+adibito a domicilio:
+3
+1) asintomatici che sono venuti in contatto con caso COVID-19 positivo (quarantena fino a 14 giorni
+dall’ultimo contatto con il caso);
+2) paucisintomatici che sono venuti in contatto con caso COVID-19 positivo, con test COVID-19
+negativo (isolamento fino a 14 giorni dall’ultimo contatto con il caso);
+3) paucisintomatici con test COVID-19 positivo (isolamento fino a negativizzazione del test e
+scomparsa dei sintomi);
+4) dimessi dall’ospedale clinicamente guariti, ancora COVID-19 positivi.
+Questo elenco è stato concepito per tenere sotto controllo sanitario le persone che si sono contagiate o
+che siano sospettate esserlo, in base alle conoscenze attuali circa il nuovo coronavirus SARS-Cov-2, al fine
+di contrastare la diffusione del contagio e per sorvegliare eventuali aggravamenti clinici legati alla malattia
+virale. Tali attività di contrasto possono essere svolte da servizi sanitari che operino in telemedicina,
+controllando a domicilio l’evoluzione dello stato di salute degli asintomatici e del quadro clinico dei soggetti
+che presentano sintomi lievi o moderati da COVID-19, rendendo possibile massimizzare le possibilità di
+controllo del contagio anche in situazioni in cui sia insufficiente la quantità di test di positività per COVID-19
+e comunque contribuendo a mitigare eventuali difficoltà del sistema sanitario.
+Tuttavia, i risultati assistenziali che sono possibili con la telemedicina, in tutte le sue differenti declinazioni
+pratiche, sia pure in condizioni non ottimali a causa dello stato emergenziale, sono più ampi e comprendono
+il controllo a distanza dei trattamenti medico-chirurgici in molteplici situazioni cliniche (15-19).
+Per questo, nell’affermare che la telemedicina rappresenta un’opzione concreta, fattibile e sicura, per il
+controllo a domicilio di tutte le quattro tipologie elencate sopra, appare opportuno indicare anche un’ulteriore
+tipologia di persone verso cui indirizzare servizi in telemedicina in corso di emergenza COVID-19:
+5) pazienti affetti da patologie croniche o che richiedano trattamenti di lungo periodo, normalmente
+gestiti in parte o del tutto da servizi territoriali o da strutture residenziali (si pensi a mero titolo di
+esempio: diabete, patologie cardiovascolari croniche, BPCO, terapie del dolore, chemioterapie,
+patologie psichiatriche, disabilità), comprendendo anche le persone affette da malattie rare e
+condizioni di fragilità che richiedono costanti contatti con le strutture sanitarie e gli operatori sanitari
+di riferimento, oppure persone che necessitano di particolare assistenza e/o supporto non
+ospedalieri, ma non differibili (ad esempio: gestanti, puerpere, persone con problematiche
+psicologiche).
+Queste persone possono anche rientrare allo stesso tempo in una delle definizioni di caso o di contatto
+stretto indicate nella C.M. 0007922 del 09/03/2020 - all.1 (che costituisce aggiornamento della precedente
+C.M. 0006360 prima citata).
+È bene esplicitare che la telemedicina non deve essere utilizzata per cercare di eseguire trattamenti
+medici a domicilio su persone con quadri gravi di malattia che richiedano invece cure ospedaliere di tipo
+intensivo.
+Rispetto ai servizi a distanza in telemedicina, al fine di ottimizzare le risorse, è conveniente ricondurre
+la precedente suddivisione, senza per questo contraddirla, al seguente schema con tre situazioni tipo:
+Situazione A Persone non affette da patologie precedenti al momento in cui è stata necessaria la
+quarantena o l’isolamento, asintomatiche e che rientrino nella definizione di contatto stretto o
+di caso confermato (C.M. 0007922 – 09/03/2020).
+Situazione B Persone non affette da patologie precedenti al momento in cui è stato necessario l’isolamento,
+che presentino sintomi da lievi a moderati compatibili con infezione COVID-19 e che rientrino
+in una delle definizioni di caso sospetto, probabile o confermato (C.M. 0007922 – 09/03/2020).
+Situazione C Persone affette da patologie croniche, malattie rare e persone in condizioni di fragilità, oppure
+che richiedono trattamenti di lungo periodo o di particolare assistenza e/o supporto non
+ospedalieri, e che necessitano di mantenere la continuità dei servizi durante la quarantena,
+l’isolamento o nel periodo di applicazione delle norme di distanziamento sociale.
+4
+A. Persone non affette da patologie precedenti al momento in cui è
+stata necessaria la quarantena o l’isolamento, asintomatiche e
+che rientrino nella definizione di contatto stretto o di caso
+confermato (C.M. 0007922 – 09/03/2020).
+In questa situazione si trovano le persone che sono indicate nelle tipologie 1 e 4 del Gruppo di lavoro
+ISS Prevenzione e controllo delle Infezioni (vedi sopra) (12). Per esse è necessario esclusivamente il
+controllo sanitario dello stato di salute in modo da registrare l’eventuale comparsa di sintomi, verificando e
+supportando l’aderenza degli individui alle norme igieniche e comportamentali atte a contrastare la
+diffusione del contagio virale.
+Per queste persone sono quattro le esigenze principali che si possono soddisfare a distanza:
+A(1) la verifica cadenzata dell’evoluzione dello stato fisico riguardo al possibile contagio, durante tutto
+il periodo necessario, al fine di cogliere l’eventuale comparsa di segni e sintomi da coronavirus;
+A(2) la possibilità di richiedere colloqui a carattere informativo generale o riguardanti norme igienico-
+comportamentali per ridurre il rischio di contagio coronavirus;
+A(3) la possibilità di richiedere supporto psicologico per attenuare i disagi della restrizione di libertà
+e di contatti interpersonali;
+A(4) la possibilità di richiedere colloquio con il MMG/PLS per le usuali attività dell’assistenza medica
+territoriale, con particolare riferimento alla possibilità di ottenere eventuali prescrizioni o
+certificazioni.
+Le persone che, trovandosi in tale situazione (A), sviluppano sintomi, lievi o moderati, sospetti per
+COVID-19, cambiano le loro esigenze assumendo quelle riportate nella situazione (B), descritta qui di
+seguito, e a quest’ultima vanno quindi riferite automaticamente.
+Se tali persone sviluppano invece sintomi più gravi vanno indirizzate al ricovero ospedaliero per gli
+accertamenti e le cure del caso e escono dai programmi di assistenza in telemedicina.
+B. Persone non affette da patologie precedenti al momento in cui è
+stato necessario l’isolamento, che presentino sintomi da lievi a
+moderati compatibili con infezione COVID-19 e che rientrino in
+una delle definizioni di caso sospetto, probabile o confermato
+(C.M. 0007922 – 09/03/2020).
+In questa situazione si trovano le persone delle tipologie 2 e 3 del Gruppo di lavoro ISS Prevenzione e
+controllo delle Infezioni già citato (12). Oltre alle azioni di contrasto alla diffusione del contagio, per tali
+persone è necessario il controllo medico dell’evoluzione del quadro clinico al fine di fornire la migliore cura
+a domicilio e cogliere immediatamente i segni e sintomi di un eventuale aggravamento, tale da porre
+indicazione al ricovero ospedaliero.
+Per queste persone le esigenze principali che si possono soddisfare a distanza sono:
+B(1) la verifica quotidiana dell’evoluzione dei sintomi, anche utilizzando se necessario dei dispositivi
+medici digitali con i quali trasferire dati direttamente ai sanitari di riferimento;
+B(2) esecuzione di controlli medici per mezzo di videochiamate;
+ le medesime esigenze A(2), A(3), A(4) sopra elencate per la situazione A.
+5
+C. Persone affette da patologie croniche, malattie rare e persone in
+condizioni di fragilità, oppure che richiedono trattamenti di lungo
+periodo o di particolare assistenza e/o supporto non ospedalieri,
+e che necessitano di mantenere la continuità dei servizi durante
+la quarantena, l’isolamento o nel periodo di applicazione delle
+norme di distanziamento sociale.
+In questa situazione si trovano tutte le persone della tipologia 5, che tuttavia possono rientrare allo stesso
+tempo in una delle altre quattro tipologie del suddetto Gruppo di lavoro ISS Prevenzione e controllo delle
+Infezioni (12). Per queste persone le esigenze mediche e assistenziali da poter soddisfare a distanza e
+relative alla loro patologia di base, si presentano con un significato non inferiore alle esigenze collegate alla
+necessità di contrasto al contagio o alla necessità di tenere sotto controllo medico i sintomi da COVID-19.
+Infatti, proprio in queste persone la comparsa di sintomi da COVID-19 anche lievi o moderati deve
+determinare una risposta sanitaria quanto mai celere e mirata, per cercare di prevenire il possibile
+aggravamento complessivo del quadro clinico oppure per limitare eventuali difficoltà che insistano
+negativamente sulla situazione dell’individuo. In questo senso, durante tutto il periodo dell’emergenza
+sanitaria per COVID-19, è prudente erogare i servizi in telemedicina, per quanto oggettivamente possibile,
+a tutte le persone che rientrano in questa terza situazione, a qualsiasi definizione di caso o di contatto stretto
+possano essere associate.
+Per queste persone le esigenze principali che si possono soddisfare a distanza sono:
+C(1) la verifica quotidiana della comparsa ed eventualmente dell’evoluzione dei sintomi legati a
+COVID-19, in modo sovrapponibile concettualmente alle persone in situazione b), ma con il
+livello di personalizzazione della cura e dell’assistenza richiesto secondo i casi;
+C(2) la sorveglianza personalizzata delle condizioni cliniche di base, per tutto il periodo necessario;
+C(3) l’erogazione di controlli specialistici attraverso videochiamate, eventualmente eseguendo in tal
+modo anche quelli già programmati prima dell’inizio del periodo di isolamento;
+ le medesime esigenze A(2), A(3), A(4) sopra elencate per la situazione A.
+Occorre precisare, riguardo alla sorveglianza personalizzata del quadro clinico in queste persone, che
+la scelta dei segni e sintomi da tenere sotto controllo può essere organizzata in schede digitalizzate
+precostituite, in modo idoneo a seconda delle patologie prese in carico e avendo cura di lasciare al medico
+sempre la possibilità di modificarle. Questi aspetti operativi saranno affrontati in ulteriori appositi documenti
+di approfondimento, considerando che anche in corso di emergenza da COVID-19, la realizzazione di un
+servizio di telemedicina comprende l’assunzione della responsabilità di definire quando esso può essere
+indicato nel singolo caso e quali siano le modalità di erogazione alternativa del servizio quando
+controindicato.
+La tabella seguente schematizza la relazione tra le tre situazioni individuate e le relative esigenze che
+si possono soddisfare a domicilio in telemedicina, con servizi la cui complessità si presenta appropriata
+rispetto alla necessità di realizzarli rapidamente. Tuttavia, appare evidente che la suddetta complessità
+aumenta progressivamente dalla situazione A verso la situazione C, passando da una modalità operativa
+rigida e standardizzata ad una molto flessibile e poco o nulla standardizzabile.
+6
+Situazione A Situazione B Situazione C
+Esigenze assistenziali
+che possono essere
+soddisfatte a domicilio
+A(1) B(1)
+B(2)
+C(1)
+C(2)
+C(3)
+A(2)
+A(3)
+A(4)
+A(2)
+A(3)
+A(4)
+A(2)
+A(3)
+A(4)
+Modalità operativa
+Standardizzabile
+fissa
+molto standardizzabile
+bassa flessibilità
+poco standardizzabile
+alta flessibilità
+7
+Obiettivo generale per servizi a domicilio
+in corso di COVID-19
+Il ragionamento clinico sulle necessità dei pazienti guida da sempre le scelte operative nelle attività di
+cura del singolo individuo, anche in corso di situazioni di emergenza/urgenza, così come in corso di
+epidemie. Non ci sono evidenze scientifiche che possano indurre a pensare che il suddetto principio non
+debba valere anche in corso di pandemia.
+Questo principio generale vale anche nel definire l’obiettivo che ci si pone nel realizzare un servizio in
+telemedicina. La tecnologia, per quanto innovativa, viene utilizzata correttamente nel momento in cui
+consente un progresso nella pratica medico-assistenziale.
+In senso generale, per l’attuale emergenza, si può dire che:
+l’obiettivo di un servizio di assistenza a domicilio in telemedicina consiste nel portare servizi
+medico-assistenziali alle persone in isolamento o che si trovino di fatto isolate a seguito delle
+norme di distanziamento sociale, allo scopo di sorvegliare proattivamente le loro condizioni di salute,
+in relazione sia alla prevenzione e cura del COVID-19 sia alla continuità assistenziale eventualmente
+necessaria per altre patologie e/o condizioni che lo richiedano.
+Questo obiettivo generale è utile per indirizzare le azioni organizzative nell’alveo di una metodologia
+scientificamente valida e che ne faciliti la realizzazione. Tuttavia, esso da solo non è sufficiente per
+realizzare a livello individuale dei servizi appropriati alla cura della singola persona.
+Nel costruire questi servizi in telemedicina è necessario anche che il medico individui quali sono le attività
+diagnostiche, terapeutiche e assistenziali che possano essere svolte a distanza, con le tecnologie disponibili
+e realmente utilizzabili dalla persona interessata. Il medico responsabile del trattamento deve poter scegliere
+di volta in volta la combinazione tra organizzazione e tecnologia che si dimostri migliore, in efficacia e
+sicurezza, per la persona da assistere. Dotare il paziente di una tecnologia, per quanto evoluta, non lo
+conduce automaticamente alla guarigione. Il paziente può guarire se la tecnologia viene opportunamente
+utilizzata all’interno di un ragionamento clinico che ha come scopo la cura dell’individuo e non l’utilizzo della
+tecnologia.
+8
+Principi di riferimento per realizzare servizi domiciliari
+in telemedicina in corso di emergenza COVID-19
+I principi di riferimento che si trovano in questa sezione sono quelli che si presentano essenziali per la
+realizzazione di quei servizi domiciliari in telemedicina che abbiano lo scopo di soddisfare le esigenze
+assistenziali nelle tre situazioni (A, B, C) definite nella sezione precedente. Tali servizi sono elaborati in
+riferimento al periodo di emergenza sanitaria da COVID-19 e nell’ottica medico-assistenziale, tenendo conto
+delle principali problematiche pratiche e organizzative relative allo specifico tipo di servizi. Alcuni tra quelli
+che saranno menzionati, pur non essendo propriamente essenziali, rivestono carattere prioritario viste le
+circostanze emergenziali per le quali è stato scritto questo lavoro.
+Nel testo vengono citati in modo schematico anche alcuni aspetti tecnologici di particolare rilievo che i
+sanitari potrebbero dover prendere in considerazione nei casi in cui sia necessario scegliere tra opzioni
+differenti nelle procedure diagnostiche e terapeutiche (a titolo di esempio: scelta di proseguire l’assistenza
+domiciliare o ricoverare il paziente a seguito di un peggioramento di sintomi non tipici da COVID-19). Ulteriori
+approfondimenti rispetto al corretto utilizzo delle tecnologie digitali e di telecomunicazione sono di pertinenza
+degli esperti tecnici di settore e quindi per gli approfondimenti si rimanda ai documenti da essi prodotti.
+Comunque, per coloro che fossero interessati, indicazioni utili si possono trovare nelle norme di riferimento
+sia riguardo le certificazioni tecniche sui dispositivi medici, sia il trattamento dei dati personali.
+I principi di riferimento sui quali è consigliabile che i sanitari si soffermino, sono i seguenti:
+ Condizioni preliminari per rendere possibili servizi in telemedicina
+ Responsabilità sanitaria durante attività in telemedicina
+ Schema degli elementi necessari per realizzare i servizi a domicilio
+ Funzionamento della videochiamata sanitaria
+ Passaggi iniziali di attivazione del servizio.
+Condizioni preliminari per rendere possibili servizi in telemedicina
+Individuiamo di seguito quelle condizioni la cui verifica è necessaria prima di avviare il programma di
+realizzazione di un servizio in telemedicina durante la pandemia COVID-19. Nei tempi stretti concessi
+dall’emergenza sanitaria, la valutazione delle condizioni preliminari sostituisce di fatto le fasi di analisi e
+studio propedeutiche al disegno progettuale del servizio in telemedicina. Tale valutazione deve risultare
+semplice e veloce da effettuare e chiaramente ha significato per il fatto che il servizio in telemedicina in
+situazione emergenziale deve essere attivato in tempi stretti, i quali impediscono lo svolgersi di tutte le
+analisi e le valutazioni di una progettazione eseguita in condizioni non d’emergenza, le quali usualmente
+richiedono mesi per il loro svolgimento.
+La valutazione delle condizioni preliminari si svolge su due piani:
+ individuale, relativo ad ogni singolo destinatario;
+ territoriale, ovvero considerando la situazione del territorio di riferimento.
+Inoltre, la stessa valutazione prende in considerazione gli aspetti tecnologico, sanitario e normativo, con
+la rilevazione di informazioni territoriali e poi anche mediante semplici domande durante il primo contatto
+con il destinatario del servizio.
+9
+Vi sono varie modalità pratiche con cui incrociare le informazioni suddette nella valutazione delle
+condizioni preliminari. La scelta della modalità da adottare nel caso pratico si basa essenzialmente sulle
+caratteristiche del territorio, senza mai dimenticare che si tratta di procedimento d’emergenza.
+Allo stato attuale, per decidere se è possibile realizzare un servizio in telemedicina in corso di emergenza
+COVID-19, si consiglia prioritariamente di raccogliere informazioni sulle seguenti condizioni.
+Condizioni riferite alle infrastrutture di telecomunicazione
+ Connettività al domicilio
+Occorre avere ben presente che le possibilità concrete di connessione da parte del destinatario
+costituiscono il vero limite tecnologico per qualsiasi servizio che utilizzi tecnologie di
+telecomunicazione. Un’insufficiente connettività può determinarsi per fattori infrastrutturali di vario
+tipo (dal conduttore utilizzato per portare il segnale elettrico al domicilio, alle tecniche di costruzione
+degli ambienti dai quali ci si connette, o magari semplicemente dalla distanza dal router WiFi o
+dall’antenna di telefonia mobile più vicina), oppure dal tipo di dispositivo che viene utilizzato, ma può
+essere influenzata negativamente anche dal tipo di servizio reso disponibile dal gestore di
+telecomunicazione. Ad esempio, è comune osservare nelle utenze domestiche una marcata
+differenza tra la velocità di trasmissione in download rispetto a quella in upload. Ciò significa che alla
+persona a domicilio arrivano molti dati nell’unità di tempo, ma riesce ad inviare pochi dati nella stessa
+unità di tempo. In tale situazione le immagini provenienti dal paziente a domicilio potranno essere di
+qualità non soddisfacente per l’uso.
+Nelle circostanze emergenziali, per organizzare il servizio migliore per ogni persona tenendo conto
+della connettività, è sufficiente sapere:
+ se al domicilio c’è il collegamento WiFi o via cavo,
+ a che distanza dal router usualmente la persona si connette,
+ che tipo di dispositivi digitali sono a disposizione e collegabili in rete (smartphone, tablet, laptop,
+desktop),
+ qual è il livello di connessione mobile all’interno del domicilio,
+ quali dispositivi medici digitali sono disponibili a domicilio e se essi hanno sistema Bluetooth
+LE,
+ se la persona collabora non è difficile guidarla ad eseguire anche test di velocità della
+connessione dati, sia rispetto al WiFi domestico sia rispetto alla rete mobile che raggiunge i
+locali di domicilio.
+ Connettività della postazione da dove si agisce il personale sanitario
+All’interno delle strutture sanitarie la connettività delle postazioni operative è solitamente assicurata
+in modo ottimale. Si raccomanda comunque l’esecuzione di test di velocità di connessione e la
+verifica delle reali possibilità della rete locale di sostenere il traffico dati rispetto al volume medio di
+richieste simultanee in download e upload, che risulteranno utili sia quali garanzie di buon
+funzionamento nel momento della realizzazione sia per documentarne la qualità nelle future analisi
+sul lavoro svolto durante il periodo di emergenza. Ciò non costituirà impegno aggiuntivo dal momento
+che le applicazioni per eseguire tali test sono molto comuni e facili da usare.
+Un caso particolare riguarda la postazione del medico che lavori in telemedicina dal luogo dove si
+trova domiciliato per la quarantena. In questo caso, al di là delle valutazioni di opportunità, si
+raccomanda di effettuare una valutazione seguendo le stesse modalità descritte sopra nel paragrafo
+relativo al destinatario del servizio, pretendendo dal medico l’esecuzione dei test di velocità di
+connessione di cui sopra.
+10
+Condizioni riferite all’organizzazione sanitaria
+ Accessibilità del servizio
+Il servizio a distanza in telemedicina per le persone in isolamento o quarantena dovrebbe essere
+preferibilmente attivo H24, qualunque siano le loro condizioni psico-fisiche, mentre non ci sono
+evidenze che ciò sia rilevante per le persone che sono a domicilio solo in forza delle norme di
+distanziamento sociale e che non rientrano in nessuna delle definizioni di caso o di contatto stretto
+(C.M. 0007922 del 09/03/2020 - all.1).
+Inoltre, l’esperienza dimostra che la certezza di avere a disposizione in modo continuato il servizio
+necessario induce di solito le persone ad un uso dello stesso più razionale e meno emotivo.
+Ne consegue che, se il servizio a distanza è ben strutturato fin dall’inizio, con attività differenziate
+offerte oculatamente nell’arco delle 24 ore, è possibile calibrare e organizzare il carico di lavoro in
+modo sostenibile senza la necessità di un numero enorme di operatori. Ove non fosse possibile
+offrire in modalità H24 il servizio a distanza, oppure non lo si ritenesse appropriato, allora
+diventerebbe rilevante esplicitare alla persona, già dal primo contatto, oltre alle regole d’accesso e
+fruizione per via telematica, la spiegazione chiara ed esaustiva della procedura alternativa da seguire
+in orari non coperti dal servizio stesso.
+ Prescrizioni mediche
+La possibilità di prescrizione interamente digitale durante il servizio erogato in telemedicina dovrebbe
+essere sempre possibile, uniforme su tutto il territorio nazionale per tutte le situazioni cliniche. Inoltre,
+è utile per il buon funzionamento del servizio e rilevante per il contenimento del contagio, che la
+prescrizione arrivi direttamente in modalità digitale alla Farmacia scelta dallo stesso paziente, oppure
+al sistema di approvvigionamento previsto dalle Autorità nelle zone dove ciò sia necessario, e che
+tutto il sistema si completi ove possibile con la consegna del farmaco prescritto a domicilio. Si noti
+che la mancanza di tale possibilità ha conseguenze negative maggiori proprio su quelle persone per
+le quali è massimo il beneficio della telemedicina, riducendo l’effetto positivo complessivo della
+stessa.
+A riguardo si sottolinea che da un punto di vista tecnologico in realtà esistono soluzioni di selezione,
+prenotazione, acquisto online con recapito a domicilio degli oggetti, già molto collaudate e utilizzate
+comunemente dalle persone. Inoltre, le norme già consentono da tempo l’acquisto online di farmaci
+senza obbligo di prescrizione, i quali vengono anche consegnati a domicilio (vedasi l’art. 112-quater
+del DL.vo 24 aprile 2006, n. 219 – Vendita on line da parte di farmacie e esercizi commerciali di cui
+al DL 4 luglio 2006, n.223, convertito, con modificazioni, dalla legger 4 agosto 2006, n. 248; Circolare
+Ministero della Salute prot. n. DGDMF 3799-P-26/10/2016 avente per oggetto “Vendita online dei
+medicinali senza obbligo di prescrizione ai sensi dell’art. 112-quater del DL.vo 24 aprile 2006, n.
+219”). Il problema su questo punto appare quindi più che altro normativo. La recentissima ordinanza
+della Protezione Civile (OCDPC n. 651 del 19 marzo 2020. Ulteriori interventi urgenti di protezione
+civile in relazione all’emergenza relativa al rischio sanitario connesso all’insorgenza di patologie
+derivanti da agenti virali trasmissibili, in corso di pubblicazione sulla Gazzetta Ufficiale) compie un
+primo significativo passo avanti nel facilitare in emergenza la completa dematerializzazione della
+prescrizione. Sulla base di tale ordinanza si può cercare nei vari territori di organizzare anche questa
+parte del servizio, ma occorre intraprendere con decisione soluzioni veloci, semplici da applicare
+nella realtà operativa, cercando di non escludere le persone che hanno più difficoltà ad accedere ai
+servizi web. Chiaramente, prima occorre assumere e valutare almeno le seguenti informazioni: il
+numero delle farmacie attive sul territorio, la loro capacità di collegarsi in rete, la loro possibilità di
+consegna a domicilio di farmaci e presidi.
+11
+Condizioni riferite alla sicurezza dei dati personali e dei dispositivi digitali
+presenti al domicilio dell’utente
+La gestione delle questioni di cybersecurity e trattamento dati non può essere affidata
+all’improvvisazione o peggio abbandonata senza aumentare in modo inaccettabile il rischio di intrusioni, di
+attività criminali e di utilizzo indebito dei dati personali sanitari dei pazienti.
+Il personale sanitario che agisce in telemedicina è tenuto a osservare le norme relative al corretto
+trattamento dei dati personali dei pazienti, nonché a evitare comportamenti che possano facilitare gli
+eventuali attacchi.
+A questo riguardo, nel chiarire che i comportamenti richiesti ai sanitari a tutela dei dati personali dei
+pazienti sono semplici e non presuppongono conoscenze tecniche specifiche, si ricorda che nel sito web
+ISS è pubblicato un documento informativo a riguardo dedicato al personale sanitario1.
+ Gestione della cybersecurity
+Riguardo alla cybersecurity, è corretto insistere affinché i sistemi di tele-controllo medico offrano
+garanzie della miglior sicurezza informatica possibile, riguardo allo svolgimento delle attività del
+personale sanitario. L’utilizzo di soluzioni estemporanee con piattaforme social incontrollabili è da
+riservare a situazioni di estrema ratio, quando sia impossibile in emergenza ricorrere ad altre
+soluzioni per gestire il contatto con i pazienti.
+D’altra parte, sul versante del paziente non si possono pretendere elevati standard di cybersecurity,
+dal momento che, certamente in questa fase emergenziale, per rendere possibili i servizi a distanza
+il sistema in telemedicina deve necessariamente fare leva sull’uso dei dispositivi presenti al domicilio
+delle persone, affrontando al meglio possibile i rischi a ciò correlati.
+Su questo punto è necessario richiedere all’organizzazione sanitaria, per i sistemi digitali impiegati,
+le più ampie garanzie possibili rispetto alla cybersecurity e richiedere che gli operatori sanitari
+adottino comportamenti di tutela durante il lavoro a distanza. Ancora più importante è informare
+adeguatamente le persone a domicilio e senza inutile burocratizzazione delle procedure, in modo
+che siano consapevoli dei rischi per la sicurezza dei dati in relazione al sistema che viene utilizzato
+e dei vantaggi che il servizio a distanza porta loro.
+ Aderenza del sistema al GDPR
+I sistemi commercialmente reperibili e dedicati alla sanità sono praticamente sempre aderenti al
+GDPR, a cui hanno dovuto necessariamente adeguarsi, prima dell’emergenza sanitaria. Non ci sono
+ragioni solide per sospendere l’applicazione di norme già ben recepite in ambito tecnologico e
+organizzativo. Se dovessero verificarsi situazioni particolari, derivate dallo stato di emergenza
+sanitaria, per le quali l’applicazione delle norme sul trattamento dati dovesse porre pregiudizio
+all’erogazione di servizi, sarebbe allora auspicabile la condivisione di specifica soluzione con il
+Garante per il trattamento dei dati personali. Va anche considerato che il desistere dall’applicazione
+delle regole, anche in caso di emergenza, non trova giustificazione stante la presenza in commercio
+di sistemi dedicati aderenti al GDPR.
+ Impatto nei servizi delle certificazioni DM dei software
+Il tema delle norme relative alla certificazione dei dispositivi medici è complesso e di pertinenza dei
+tecnici di settore. La norma principale di riferimento è la Direttiva CE 93/42, nella quale i software
+1 Buone pratiche per la sicurezza informatica nei servizi sanitari, Documento di indirizzo del Gruppo di Studio
+Nazionale sulla Cybersecurity nei servizi sanitari – scaricabile da:
+https://www.iss.it/documents/20126/0/Buone+pratiche+per+la+sicurezza+informatica+nei+serivizi+sanitari+17+06+
+2019.pdf/e4e4a032-a489-b8df-f25c-602ebbb38e85?t=1582512681887
+12
+che forniscono al medico elementi utili ad assumere decisioni per il paziente vengono considerati a
+tutti gli effetti dei dispositivi medici e, quindi, per essere utilizzati devono avere la prevista
+certificazione. La suddetta certificazione prevede differenti classi a cui corrispondono requisiti di
+qualità e sicurezza sempre più stringenti e coerenti con l’utilizzo previsto.
+Come detto fin dall’inizio, il presente lavoro si rivolge ai sanitari che si trovino ad operare in
+telemedicina o che partecipino attivamente alla realizzazione di servizi in telemedicina nella presente
+situazione di emergenza sanitaria. Quindi, in questo documento non approfondiremo nemmeno
+questo tema tecnico così specialistico, se non per ricordare ai sanitari che durante l’esecuzione di
+procedure medico-assistenziali a distanza è comunque loro la responsabilità dell’eventuale utilizzo
+di software non certificato adeguatamente rispetto all’uso o peggio di provenienza non nota e non
+verificabile (come potrebbe accadere per App scaricate in modo imprudente).
+Ulteriori approfondimenti tecnici sugli argomenti di questo paragrafo, esulano dagli scopi del presente
+lavoro e quindi si rimanda a documentazioni specifiche.
+Condizioni riferite alla possibilità della persona a domicilio di collaborare
+ Autonomia nell’uso dei sistemi digitali (del destinatario)
+I servizi in telemedicina necessitano per funzionare, oltre che di complessi sistemi tecnologici, anche
+della capacità umana di interagire con tali sistemi. Affinché un servizio in telemedicina possa
+funzionare correttamente è necessario che il paziente sia formato al suo uso. Negli anni l’importanza
+pratica di questo concetto è stata compresa sempre meglio e oggigiorno nelle fasi di accesso al
+servizio il paziente viene progressivamente istruito al suo completo e corretto utilizzo del sistema di
+telemedicina proposto, con varie forme di tutorial. In tale periodo iniziale, il personale verifica anche
+fino a che punto la persona riesca a interagire con le tecnologie necessarie. Non sempre una persona
+che avrebbe bisogno di un servizio di telemedicina può realmente utilizzarlo. In tal caso normalmente
+il paziente viene indirizzato ad altre soluzioni assistenziali in presenza e, come detto prima, ciò
+dovrebbe avvenire anche nelle circostanze dell’emergenza sanitaria.
+Nel caso specifico di servizi in telemedicina che possano essere avviati in emergenza COVID-19, è
+più probabile che non ci siano il tempo e le risorse per affiancare il paziente e facilitare gradualmente
+il corretto uso del servizio. Questo in particolare si verifica quando occorre che il paziente invii con
+frequenza e manualmente dati clinici al personale sanitario per consentire il controllo a distanza.
+Alcune persone hanno difficoltà anche a gestire le connessioni, sia verso l’esterno che verso gli
+eventuali dispostivi presenti a domicilio.
+A causa di queste problematiche, è consigliabile che le interfacce grafiche siano le più semplici e
+intuitive possibili, che le istruzioni siano semplici da seguire e disponibili sia scritte che in voce e che
+il personale addetto svolga il primo contatto con il destinatario del servizio, o con il suo care giver,
+per mezzo di una telefonata. In tale primo contatto sarà possibile spiegare alla persona il tipo di
+servizio offerto e indicargli il modo più opportuno per collegarsi in videochiamata per avere ulteriori
+e più approfondite spiegazioni e istruzioni. Per la videochiamata sono disponibili numerose soluzioni
+tecnologiche, molto intuitive da utilizzare, anche da smartphone e tablet. Durante il dialogo nella
+prima videochiamata potranno essere chieste anche informazioni per valutare in che misura la
+persona può effettivamente collaborare con il sistema messo a disposizione, particolarmente rispetto
+all’invio dei dati al medico di riferimento.
+Il paziente che, con le opportune spiegazioni, non riesce a collegarsi in videochiamata difficilmente
+riuscirà a fruire di un servizio di telemedicina nelle attuali condizioni emergenziali, dal momento che
+si troverebbe, senza avere avuto tempo e modo di abituarsi, ad utilizzare un insieme di dispositivi
+digitali per inviare dati al medico e svolgere regolari controlli a distanza. La regolarità dei controlli,
+13
+che presuppone quella dei rilevamenti dei dati e quella delle connessioni, è un fattore indispensabile
+per offrire adeguate garanzie di sicurezza sanitaria. Ciò acquista importanza tanto più è difficile
+raggiungere fisicamente il paziente in caso di necessità e tanto più breve è il tempo a disposizione
+per considerare efficace un eventuale intervento in presenza. Il primo fattore dipende dalle condizioni
+ambientali, il secondo dipende da quelle organizzative e dal tipo di patologia che si vuole tenere sotto
+controllo a distanza. I suddetti aspetti vanno valutati attentamente dai sanitari responsabili del
+servizio.
+ Costi della connettività
+Benché attualmente molti gestori offrono già di routine contratti in cui il traffico internet è illimitato
+oppure calmierato su volumi molto più grandi di ciò che normalmente necessita ad una persona
+nell’uso comune, è opportuno avvisare la persona a cui è destinato il servizio che il traffico dati con
+l’attivazione della telemedicina a domicilio sarà necessariamente superiore a quello usuale. Nella
+situazione di emergenza, sono auspicabili comunque soluzioni che evitino a priori aggravi di costi
+per i destinatari dei servizi.
+Responsabilità sanitaria durante attività in telemedicina
+In termini generali, per i sanitari agire in telemedicina significa assumersene la responsabilità
+professionale pienamente, anche della più piccola azione compiuta a distanza. In concreto, fa parte della
+suddetta responsabilità la corretta gestione delle limitazioni dovute alla distanza fisica in modo da garantire
+la sicurezza e l’efficacia delle procedure mediche e assistenziali, nonché il rispetto delle norme sul
+trattamento dei dati. Le limitazioni che non risultino colmabili con le tecnologie o con accorgimenti
+organizzativi, portano semmai a differenti gradi di coinvolgimento nell’operatività. Questi gradi di
+coinvolgimento sono, per altro, in buona parte anche prevedibili in base alle caratteristiche e alla dotazione
+del setting assistenziale specifico. Questi principi valgono in qualsiasi situazione operativa, quindi anche
+nella presente situazione di emergenza da COVID-19.
+In tale quadro, anche ai fini della gestione del rischio clinico e della responsabilità sanitaria, il corretto
+atteggiamento professionale consiste nello scegliere le soluzioni operative che offrano le migliori garanzie
+di proporzionalità, appropriatezza, efficacia e sicurezza e nel rispetto dei diritti della persona. In sintesi, non
+si tratta di scegliere le tecnologie, ma il medico deve scegliere la combinazione di esse che appaia la più
+appropriata possibile dal punto di vista medico-assistenziale nel singolo caso (20) (21).
+Si raccomanda di applicare questi concetti nelle applicazioni pratiche della telemedicina anche nella
+presente situazione emergenziale, in cui, come detto sopra, risulta di particolare rilevanza riuscire a
+controllare i pazienti a domicilio usando, ma non esclusivamente, lo strumento della videochiamata.
+A tal proposito, si richiama alla memoria quanto detto circa le limitazioni in upload al domicilio del
+paziente e a quelle conseguenti alle caratteristiche infrastrutturali, in grado di abbassare anche
+notevolmente la qualità dell’immagine proveniente dal paziente qualunque sia l’applicazione software che
+genera le immagini video.
+Inoltre, si tenga presente che nelle strutture sanitarie da tempo viene raccomandato l’uso di dispositivi
+medici di classe 2a per la corretta gestione delle immagini durante la televisita, dato che il trasferimento in
+tempo reale di immagini video e audio è fondamentale per l’efficacia clinica e l’efficienza organizzativa.
+Ovviamente non si può pretendere di trovare nell’abitazione del paziente tali dispositivi. Quindi, l’esecuzione
+di una televisita, usando il termine nell’accezione attuale scientificamente validata di visita medica eseguita
+in telemedicina (22), è insicura quando si utilizzino strumenti digitali presenti a domicilio del paziente per
+svolgere la videochiamata.
+14
+Si ricorda che è acclarato che alle attività sanitarie in telemedicina si applicano esattamente e tutte le
+norme legislative e deontologiche proprie delle professioni sanitarie, nonché i documenti d’indirizzo di
+bioetica. Allo stesso tempo, nell’attuale emergenza, risulta necessario facilitare in ogni modo possibile il
+controllo a distanza dei pazienti da parte dei medici di riferimento, compresi gli specialisti. Quindi, anche in
+non perfette condizioni pratiche, appare accettabile che la videochiamata possa essere utilizzata dal medico
+per supportare il controllo clinico di quei pazienti che egli già conosce per averli in precedenza visitati almeno
+una volta. Non sarà possibile eseguire vere e proprie televisite, ma gli specialisti potranno svolgere tele-
+controlli medici (dati e videochiamata) su pazienti già noti con una ragionevole sicurezza clinica.
+Tali attività, quando erogate con procedure corrette, possono essere sicuramente registrate e refertate.
+Schema degli elementi necessari per realizzare i servizi a domicilio
+Si elencano gli elementi necessari alla realizzazione di servizi a domicilio in telemedicina, in relazione
+all’attuale situazione emergenziale e secondo il modello di riferimento illustrato di seguito. Questo schema
+deve essere inteso come l’insieme degli elementi minimi e sufficienti per realizzare un servizio rapidamente
+disponibile e dotato delle funzionalità che consentano di raggiungere in modo semplice il maggior numero
+di persone a domicilio e fornire loro il necessario nella situazione emergenziale.
+Caratteristiche di base
+1a) Rete di collegamento sempre attiva tra medici e pazienti con servizi disponibili in Cloud (questo per
+garantire di poter attivare il sistema in pochi giorni e su vasta scala).
+1b) Portale web a cui i medici accedono con il proprio account per gestire tutti i pazienti assegnati.
+1c) Accesso alla pagina web da notebook o tablet o smartphone per i sanitari (tramite apposita App)
+1d) Possibilità di creare gruppi online (es. per patologie, per area) associando i medici e i pazienti
+corrispondenti.
+1e) Login dei pazienti semplice, scaricando una App compatibile con tutti smartphone e devono poter
+accedere al servizio con un loro account, con verifica dell’identità.
+1f) Compatibilità con il GDPR per il trattamento dei dati personali.
+1g) La persona isolata si connette alla rete internet con gli strumenti digitali che ha a disposizione
+(computer, tablet, smatphone). Se il computer della persona non ha videocamera e
+cuffie/microfono si possono sempre inviare a domicilio.
+Strumenti a supporto delle attività del personale sanitario (medico)
+2a) Quadro sinottico per seguire lo stato di tutti i pazienti assegnati in ogni momento
+2b) Accesso allo storico (misurazioni e grafici di trend) o ai dati medici del paziente (PHR).
+2c) Gestione anamnesi, misurazioni (sincrone e non), posologie, appuntamenti, notifiche.
+2d) Interfaccia idonea per la gestione degli obiettivi, dei valori soglia inferiori e superiori e degli allarmi
+corrispondenti.
+2e) Sistemi differenziati per comunicare con il paziente (SMS, email con testi criptati, video
+comunicazione).
+15
+2f) Videochiamata verso il paziente con sistemi facili da utilizzare per il paziente direttamente da App,
+preferibilmente con sistemi web-based, nei quali non è necessario effettuare l'installazione di alcun
+software sul dispositivo in uso.
+2g) Centro di coordinamento sanitario* che gestisca le attività del servizio in telemedicina.
+L’organizzazione del suddetto centro può essere di vario tipo, ma con personale di supporto
+ulteriore ai sanitari che gestiscono i pazienti in telemedicina e con dimensioni proporzionate al
+carico di lavoro complessivo. Il centro di coordinamento deve essere gestito con un presidio
+continuo per assistere le videochiamate entranti dagli utenti ed instradarle.
+Si ricorda che le funzioni di supporto tecnico, compreso help desk, sono svolte dal Centro servizi.
+Strumenti di supporto per il paziente
+3a) Esecuzione di misurazioni con apparati medicali digitali dotati di connettività Bluetooth LE,
+preferibilmente dotati, a titolo precauzionale, anche di visualizzazione della misurazione per
+rendere sempre possibile la comunicazione umana del dato in caso di necessità.
+3b) Gli apparati che possono essere utili sono differenti caso per caso e la scelta di quali utilizzare è di
+pertinenza del medico che ha la responsabilità del paziente in telemedicina, stante le reali
+disponibilità degli oggetti (vedere dopo, sezione “Tipi di servizi di telemedicina a domicilio”). Nel
+caso specifico del controllo del quadro sintomatologico da COVID-19, per i servizi di telemedicina
+a domicilio, si raccomanda di considerare il seguente set minimo di apparati: termometro, bilancia,
+pulsiossimetro, sfigmomanometro. A questi apparati si potranno poi aggiungerne altri secondo i
+casi (a titolo di esempio: potrà essere preferibile avere anche un ECG al domicilio di un paziente
+già cardiopatico e caso sospetto COVID-19).
+3c) App che consenta connessione automatica tra apparati con Bluetooth LE e smartphone e che
+consenta facilmente anche l’inserimento manuale delle misurazioni all’occorrenza.
+3d) App che consenta ricezione notifiche e/o avvisi per medicine, appuntamenti delle videochiamate o
+per altre attività.
+3e) App che consenta l’accesso al proprio storico misure.
+3f) App che consenta di ricevere/richiedere la videochiamata al medico (vedere paragrafo
+precedente).
+Funzionamento della videochiamata sanitaria
+Le App ed il portale su cui opera il personale incaricato devono essere configurati per attivare e gestire
+la videochiamata. Il paziente deve poter richiedere un appuntamento per la videochiamata.
+È utile che ciò possa avvenire in due modalità, che devono essere entrambe disponibili:
+1) il medico può chiamare il paziente in videochiamata, se questo è online. Il paziente accede alla
+chiamata ma non può chiamare il medico. Il medico può invitare almeno tre utenti
+contemporaneamente (videochiamata medica con teleconsulto in contemporanea);
+* Centro di coordinamento sanitario
+Si tratta di un centro, fisico o virtuale, che svolge funzioni di raccordo e coordinamento operativo delle attività
+medico-assistenziali erogate in telemedicina e delle interazioni con altre funzioni operative. Il presente concetto di
+Centro di coordinamento sanitario si differenzia da quello di Centro Servizi, già presente nelle Linee di indirizzo
+nazionali per la telemedicina. Allo stato attuale delle conoscenze, questi due centri sono necessari entrambi nella
+pratica dei servizi in telemedicina.
+16
+2) il Centro di coordinamento sanitario (vedi sezione precedente) deve poter accedere a funzioni di
+videocallcenter web, deve poter consultare elenchi di tutti gli utenti online e di tutti gli operatori
+medici/psicologi.
+È opportuno sempre ricordare alla persona destinataria del servizio che l’operatore di riferimento con
+cui svolge la videochiamata potrebbe non essere sempre disponibile, ma che ci sarà sempre un altro
+operatore che risponderà, condividendo con i colleghi le informazioni.
+In situazione di emergenza sanitaria, le due modalità sopra indicate per attivare la videochiamata è
+opportuno che siano disponibili senza attività aggiuntive di implementazione per non allungare i tempi di
+attivazione, né tanto di meno di costi aggiuntivi di sviluppo.
+Passaggi iniziali di attivazione del servizio
+Le seguenti attività sono da considerare una sequenza di riferimento (non l’unica possibile) per
+l’attivazione del servizio a domicilio in telemedicina, nel modo più semplice possibile per il paziente:
+a. La persona isolata viene raggiunta al telefono da personale incaricato e gli viene spiegato il servizio
+offerto e cosa deve fare per connettersi.
+b. La persona isolata si connette scaricando apposita App di istruzioni, autoconfigurante, e procede
+all’attivazione del servizio seguendo la procedura indicata.
+c. Al termine della procedura di connessione e attivazione, si avvia una videochiamata iniziale con il
+primo punto di contatto che fornisce il feedback che la procedura è andata a buon fine, identifica la
+persona e comunica alla persona la data e l’ora del primo colloquio con il medico messo a
+disposizione per l’emergenza.
+L’identificazione di una persona deve essere svolta preliminarmente per qualsiasi atto sanitario e quindi
+anche nella videochiamata. I metodi per identificare le persone a distanza sono di vari tipi. In mancanza di
+altri strumenti idonei, considerata la situazione emergenziale, una possibilità concreta consiste nell’iniziare
+la videochiamata chiedendo alla persona collegata di mostrarsi e contemporaneamente mostrare in
+videocamera un proprio documento d’identità valido con foto, annotando gli estremi del documento stesso.
+d. Al primo colloquio con il medico avviene la valutazione delle necessità assistenziali della persona,
+secondo lo schema a tre situazioni tipo (A, B, C, vedere sezione apposita sopra), e da cui deriva la
+sua assegnazione al relativo percorso assistenziale. Vengono programmati sia colloqui che controlli
+con le cadenze necessarie durante il periodo di isolamento e secondo i casi e in base alle risorse
+disponibili (vedi sezione successiva sui tipi di servizi).
+e. Da quel momento la persona può comunque richiedere quando vuole il servizio di videochiamata al
+medico di riferimento.
+Le questioni tecnologiche per garantire la sicurezza degli accessi saranno definite dai tecnici preposti
+dalle organizzazioni sanitarie nei singoli territori.
+17
+Tipi di servizi di telemedicina a domicilio
+Nel presente documento viene proposta la strutturazione di quattro tipi differenti di servizi in telemedicina
+per rispondere al meglio possibile alle esigenze sanitarie (situazioni A, B, C).
+Ognuno di tali servizi può essere realizzato ed erogato singolarmente. Con opportuni accorgimenti
+tecnici, i quattro servizi possono essere associati tra loro in varie combinazioni, oppure ancora realizzati tutti
+all’interno di un unico sistema di telemedicina.
+Per semplicità di esposizione, nel presente documento verrà presa in considerazione l’opzione di
+realizzazione nella quale sono presenti tutti i quattro tipi di servizi.
+I quattro servizi possono essere applicati su un singolo territorio, ma possono essere estesi in forma
+modulare in ulteriori aree, anche non contigue alla prima, sia essere replicati in forma separata, ma in
+quest’ultimo caso occorre duplicare tutte le parti che lo compongono, compresi i relativi centri di
+coordinamento sanitario (vedere sezione “Schema degli elementi necessari per realizzare i servizi a
+domicilio”).
+È utile sottolineare, prima di entrare nel dettaglio dei differenti tipi di servizi, che essi non sono rivolti ad
+una specifica categoria di medici ma possono funzionare con la collaborazione di qualsiasi medico. Ciò è
+coerente con la situazione di emergenza sanitaria e in particolare in caso dovesse aumentare la carenza
+relativa di medici. Tuttavia, l’organizzazione del lavoro a distanza prevista in questi servizi risulta adeguata
+specialmente per la collaborazione con i MMG/PLS, i quali possono contribuire meglio di altri alla più precisa
+valutazione della situazione e dell’evoluzione. Per la loro conoscenza dei pazienti, essi hanno la possibilità
+inserire nel sistema il bagaglio della loro specifica conoscenza dei pazienti a loro affidati, con dettagli
+anamnestici, considerazioni, e per le stesse ragioni possono dare un fondamentale contributo alla gestione
+della terapia, specialmente per i pazienti cronici.
+I quattro TIPI di servizi in telemedicina sono illustrati nei paragrafi successivi.
+Tipo 1. Tele-controllo attivo dello stato di salute delle persone in
+situazione (A), per rilevare l’eventuale comparsa di segni e
+sintomi da infezione COVID-19
+Questo tipo di servizio si rivolge a persone afferenti alla situazione (A), già illustrata (“persone non affette
+da patologie precedenti al momento in cui è stata necessaria la quarantena o l’isolamento, asintomatiche e
+che rientrino nella definizione di contatto stretto o di caso confermato (C.M. 0007922 – 09/03/2020”).
+Il tipo di servizio è proposto allo scopo di individuare immediatamente in tali persone la comparsa di sintomi
+e/o segni riconducibili all’inizio della fase sintomatica di COVID-19.
+Questo servizio trova la sua utilità diretta nel controllo a distanza della diffusione del contagio, con una
+chiara utilità nella gestione complessiva dell’emergenza da parte delle Autorità, ma esso possiede anche
+un’utilità individuale in quanto consente di rendere ancora più tempestivo il trattamento di supporto
+all’individuo, aumentandone le probabilità di guarigione. Inoltre, facilita la corretta adozione di misure
+domiciliari di igiene e prevenzione da parte della persona stessa e degli eventuali conviventi.
+Il personale sanitario deve operare in modo coordinato rispetto ai servizi di Sanità Pubblica del territorio di
+pertinenza, al fine di ottimizzare l’impiego di risorse e deve agire anche secondo disposizioni e indirizzi
+nazionali, per garantire uniformità di procedure e di prestazioni.
+Le attività di tele-controllo possono essere eseguite da personale sanitario adeguatamente istruito, si
+basano su procedure ripetitive e standardizzate di aggiornamento anamnestico e di rilevazione di alcuni
+semplici segni obiettivi (es. temperatura corporea), insieme a cadenzati colloqui in videochiamata nei quali
+18
+si verificano i dati raccolti e le informazioni sullo stato di salute. Nello stesso tempo durante la videochiamata
+si forniscono alla persona informazioni e consigli utili. Questi contatti, cadenzati in modo regolare,
+contribuiscono anche a migliorare l’aderenza individuale a indicazioni, prescrizioni e trattamenti.
+Ai fini di questo tipo 1 di servizio, i dati oggettivi che devono essere rilevati sono tutti quelli che vengono
+indicati da fonti ufficiali come necessari e sufficienti a porre diagnosi clinica di COVID-19 o almeno a porne
+il sospetto (23, 24).
+I sintomi clinici che più comunemente sono stati riscontrati nei casi COVID-19 poi confermati in laboratorio
+sono stati i seguenti (25, 26):
+ febbre (88%)  dispnea (19%)  diarrea (4%)
+ tosse secca (68%)  mal di gola (14%)  vomito (5%)
+ affaticamento (38%)  mal di testa (14%)  disgeusia
+ produzione di espettorato (33%)  mialgia o artralgia (15%)  anosmia
+Le segnalazioni in Cina riportano che i sintomi sono stati lievi-moderati nel 80% dei casi, compresi coloro
+che avevano in corso la polmonite (27-29).
+Si consiglia di inserire tutti questi sintomi nelle procedure informatizzate di rilevazione delle informazioni
+anamnestiche e di controllo, chiedendo alla persona in isolamento di indicare solo se uno o più di essi sono
+presenti. Ciò può essere fatto anche tramite questionario in App oppure durante i colloqui in videochiamata
+e serve esclusivamente a individuare le persone in quarantena o isolamento che diventano sintomatiche o
+paucisintomatiche.
+Tuttavia, nella pratica i primi sintomi da tenere sotto controllo, per sorvegliare l’esordio di COVID-19,
+sono la tosse secca e i sintomi da raffreddamento, che possono comparire inizialmente anche in assenza
+di febbre, così come è la comparsa di febbre tra 37,5 e 38,5°C il segno obiettivo necessario e sufficiente in
+situazione (A) ad ammettere il probabile passaggio a una forma paucisintomatica, essendo riportata in tutti
+i lavori come segno di gran lunga più frequente (30-32). La rilevazione della temperatura corporea,
+consigliata due volte al giorno come da usuale prassi medica, può essere effettuata con qualsiasi
+termometro e vi sono svariate soluzioni tecnologiche che consentono di inviare direttamente il dato in
+formato digitale alla piattaforma di riferimento.
+In questo tipo di servizio la videochiamata, preferibilmente con il MMG/PLS, deve essere cadenzata, ma
+con ritmi decisi dal medico stesso, il quale valuta in che misura ciò sia appropriato per il paziente da lui
+conosciuto.
+Una volta intercettato con il tele-controllo il momento in cui si manifesta un quadro paucisintomatico
+(febbre compresa tra 37,5 e 38,5°C, tosse secca stizzosa, sintomi da raffreddamento e/o altri sintomi
+indicativi di COVID-19, vedere sopra) e senza dispnea, la persona interessata deve essere indirizzata
+automaticamente al servizio di tipo 2, che consente la sorveglianza specifica dell’andamento
+sintomatologico e del trattamento. Il fine di questa manovra di scambio tra due tipi di servizi in telemedicina,
+con procedure differenti, consiste chiaramente nel contribuire a dare al malato le migliori possibilità di
+guarigione in caso di aggravamento (vedere tipo 2 di seguito nella presente sezione).
+Il sistema di videochiamata per le attività sopra descritte, in virtù della loro natura e sempre in
+considerazione dell’emergenza sanitaria, non necessita delle elevate caratteristiche che normalmente sono
+richieste per garantire la sicurezza sanitaria nella presa di decisione in diagnosi differenziale (es.: precisione
+dell’immagine) e per le quali sono necessarie certificazioni di livello elevato o massimo. Questo consente di
+essere flessibili nell’utilizzare vari sistemi di videochiamata in modo da adattarsi alle possibilità tecnologie
+disponibili al domicilio della persona.
+19
+Tipo 2. Tele-sorveglianza del quadro clinico delle persone in
+situazione (B), per le cure necessarie contro COVID-19 e per
+disporre l’eventuale ricovero ospedaliero quando
+appropriato.
+Questo tipo di servizio si rivolge alle persone afferenti alla situazione (B), già illustrata (“persone non affette
+da patologie precedenti al momento in cui è stato necessario l’isolamento, che presentino sintomi da lievi a
+moderati compatibili con infezione COVID-19 e che rientrino in una delle definizioni di caso sospetto,
+probabile o confermato, C.M. 0007922 – 09/03/2020”).
+Si tratta di numerosi pazienti che sviluppano forme sintomatiche di COVID-19, o quadri sintomatologici
+compatibili con COVID-19 in casi sospetti, con sintomi e segni lievi o moderati, la cui condizione sia gestibile
+a domicilio e in assenza di ulteriori patologie.
+Il quadro clinico tipico di riferimento per l’inserimento in questo servizio consiste in: febbre compresa tra
+37,5 e 38,6°C, tosse secca stizzosa, sintomi da raffreddamento (e/o altri sintomi indicativi di COVID-19,
+vedere sopra) e senza dispnea.
+L’obiettivo di questo tipo 2 di servizio è curare a distanza i suddetti pazienti con trattamenti idonei,
+mantenendo il controllo medico a domicilio, con una proattività maggiore di quanto non sarebbe possibile
+senza sistemi di telemedicina, fornendo uno strumento efficace e di facile utilizzo per ottimizzare l’assistenza
+primaria nell’attuale situazione emergenziale e per salvaguardare la sicurezza dei sanitari.
+L’inserimento del paziente in questo tipo 2 di servizio si associa alla segnalazione del caso ai servizi di
+Sanità Pubblica per l’esecuzione del test per COVID-19, ove previsto.
+Il paziente può essere inserito direttamente nel servizio di tipo 2 oppure essere indirizzato ad esso dal tipo
+1 con le modalità descritte in precedenza.
+La manovra di scambio da servizio tipo 1 verso il tipo 2 consente di porre il medico nelle condizioni migliori
+per riconoscere il più rapidamente possibile, il momento in cui i sintomi dovessero tendere ad aumentare di
+numero e d’intensità, incrementando il controllo in telemedicina.
+Forme gravi di malattia, con sintomi più intensi, si manifestano nel 13,8% dei casi e il 6,1% dei malati
+presenta invece una forma critica di COVID-19 con insufficienza respiratoria, shock settico e/o
+disfunzione/insufficienza multiorgano, con sintomi ulteriori correlati (33-36).
+Utilizzare sistemi di telemedicina in questa modalità significa curare le persone a domicilio invece che
+ricoverarle in ospedale, quando questo è possibile e utile per la persona, mentre non significa utilizzare la
+telemedicina per ritardare il ricovero ospedaliero che sia giudicato necessario.
+I sintomi da controllare in telemedicina in questo servizio sono tutti quelli correlati a COVID-19 (37):
+ Febbre  Produzione di espettorato
+ Tosse secca  Cefalea
+ Malessere generale  Mialgia o artralgia
+ Anoressia  Diarrea
+ Dispnea  Vomito
+ Affaticamento (nello stare in piedi o camminare)  Disgeusia
+ Mal di gola  Disosmia / anosmia
+I segni obiettivi la cui misurazione è necessaria per questo controllo medico in telemedicina e gli apparati
+per la loro rilevazione sono elencabili come segue:
+20
+Segno obiettivo
+da misurare
+Strumento
+di misurazione
+Frequenza
+di misurazione raccomandata
+Temperatura corporea Termometro 2 volte al giorno
+Frequenza respiratoria al min.
+Sensori indossabili (Bluetooth LE o
+altra trasmissione online automatica)
+o conteggio manuale
+4 volte al giorno
+Frequenza cardiaca
+Frequenzimetro digitale
+(Bluetooth LE o altra trasmissione
+online automatica)
+4 volte al giorno
+Saturazione di ossigeno periferica
+(+ frequenza cardiaca)
+Pulsiossimetro digitale
+(Bluetooth LE o altra trasmissione
+online automatica)
+4 volte al giorno;
+può essere utile rilevare la
+saturazione di ossigeno con
+frequenza molto maggiore se
+necessario
+Pressione arteriosa sistolica e
+diastolica
+Sfigmomanometro automatico digitale
+(Bluetooth LE o altra trasmissione
+online automatica)
+Secondo indicazione medica
+Attività elettrica cardiaca
+ECG digitale
+(Bluetooth LE o altra trasmissione
+online automatica)
+Secondo indicazione medica
+La frequenza indicata per misurare i suddetti segni è basata sulla pratica assistenziale della Medicina
+Generale e dalle maggiori esperienze di assistenza primaria riportate nella letteratura internazionale (38)
+(39) (40).
+Nel servizio tipo 2, l’opportuna combinazione di apparati di misurazione può avere un livello elevato di
+standardizzazione, ma non può essere stabilita a priori in modo rigido per tutte le persone. Il medico, anche
+in base ai colloqui con il paziente, decide di volta in volta quale schema di misurazioni è idoneo, scegliendo
+però da una batteria base di misurazioni che può modificare in parte e ricordando che in caso di necessità
+lo stesso paziente può trasmettere online le misurazioni o può riferirle durante la videochiamata di controllo
+con il medico.
+La videochiamata di controllo, sempre associata a rilevazione dei sintomi e segni sopra indicati, ha il
+significato di consentire a distanza la valutazione clinica e delle condizioni di rischio del paziente,
+direttamente da parte del medico collegato, in modo da completare l’inquadramento del caso per decidere
+il trattamento contro il COVID-19 e soprattutto reagire prontamente in caso di peggioramento verso forme
+gravi di malattia.
+La videochiamata consente di superare in parte i limiti del semplice contatto telefonico, trasmettendo anche
+immagini e colori. In questo modo consente al medico di eseguire almeno una parte della normale visita
+medica: interamente la raccolta dell’anamnesi e parzialmente l’esame obiettivo fisico (ispezione).
+La valutazione clinica registra le modifiche di alcuni segni obiettivi di peggioramento. Tale valutazione è di
+pertinenza del medico nel caso specifico, ma prendendo in considerazione il solo quadro clinico di COVID-
+19, si può standardizzare una serie di osservazioni cliniche, possibili da fare in videochiamata anche senza
+particolare qualità delle immagini. A titolo di esemplificazione si possono elencare alcune osservazioni
+utilizzate dai medici della Continuità Assistenziale (41):
+ rallentamento/accelerazione del respiro;
+ senso di difficoltà a respirare anche per lievi sforzi (alzarsi dal letto);
+21
+ riduzione della capacità di parlare coordinando la respirazione;
+ affaticamento a camminare o a restare in piedi;
+ tachicardia a riposo;
+ cianosi periferica (colore letto ungueale, labbra, cute).
+Utile anche la valutazione dello stato vaccinale (antinfluenzale e antipneumococcico).
+La valutazione delle condizioni di rischio, necessaria nella prima videochiamata e che consiste, come in
+presenza, nel raccogliere le informazioni anamnestiche utili a inquadrare nel caso specifico l’esistenza di
+patologie concomitanti e/o fattori di rischio che possono aumentare il rischio di complicanze:
+ malattie polmonari
+ malattie cardiache
+ malattie renali
+ malattie metaboliche
+ malattie del sistema immunitario
+ malattie oncologiche
+ malattie rare
+ gravidanza/puerperio
+ disagio sociale/fragilità
+ non autosufficienza
+Il paziente idoneo per questo tipo 2 di servizio non dovrebbe presentare per definizione nessuno dei fattori
+di rischio appena elencati. Se ne presenta uno o più di uno deve essere indirizzato automaticamente al
+successivo tipo 3 di servizio che sarà descritto qui di seguito.
+Videochiamate sanitarie aggiuntive potranno essere sempre attivate dai medici preposti, in base
+all’andamento dei dati rilevati automaticamente, oppure richieste dal paziente, in caso di necessità e con
+modalità stabilite in modo da non sovraccaricare il sistema con richieste sproporzionate. A tale riguardo,
+occorre la corretta collaborazione degli assistiti e quindi al primo contatto saranno date istruzioni di
+comportamento per evitare il più possibile richieste irrazionali di controlli non necessari. Tuttavia, per
+ottimizzare il servizio è appropriato consentire per quanto possibile ai pazienti di richiedere videochiamate
+per segnalare prima dell’appuntamento previsto l’eventuale significativa modifica del quadro
+sintomatologico, nonché di richiedere la videochiamata di supporto psicologico (vedere tipo 4 di seguito).
+Tipo 3. Tele-sorveglianza attiva del quadro clinico complessivo
+delle persone in situazione (C), al fine di fornire a domicilio
+la migliore continuità possibile delle cure e dell’assistenza,
+in relazione alla condizione di base e all’eventuale infezione
+COVID-19.
+Questo tipo di servizio si rivolge a persone afferenti alla situazione (C), già illustrata (“Persone affette da
+patologie croniche, malattie rare e persone in condizioni di fragilità, oppure che richiedono trattamenti di
+lungo periodo o di particolare assistenza e/o supporto non ospedalieri, e che necessitano di mantenere la
+continuità dei servizi durante la quarantena, l’isolamento o nel periodo di applicazione delle norme di
+distanziamento sociale”).
+L’obiettivo di questo tipo 3 di servizio è proseguire le cure e l’assistenza a domicilio in favore dei suddetti
+pazienti rispetto alla loro condizione di base, ponendoli allo stesso tempo sotto la massima tutela ottenibile
+nei confronti di COVID-19. Per queste persone il danno prodotto dall’interruzione delle cure e dell’assistenza
+22
+a seguito dell’isolamento forzato o del distanziamento sociale ha importanza pari a quello derivabile dal
+contagio. Lo sviluppo di COVID-19 in persone già affette da altre patologie impegnative, con ridotta riserva
+funzionale, può indurre più facilmente conseguenze estreme in breve tempo, ma l’interruzione delle cure
+necessarie causerà danni difficilmente recuperabili, che si manifesteranno in tempi più lunghi ma
+ugualmente con gravi conseguenze.
+Per queste persone occorre utilizzare i sistemi di telemedicina per mantenere attivi i servizi a loro dedicati,
+modificandone, se necessario, le procedure al fine di ottenere anche a distanza la più ampia accessibilità e
+fruibilità possibile, mantenendo il controllo medico sia per l’assistenza primaria che per le prestazioni
+specialistiche e anche in questi casi salvaguardare la sicurezza dei sanitari.
+Il paziente può essere inserito direttamente nel servizio di tipo 3 oppure essere indirizzato ad esso dal tipo
+2 con le modalità descritte in precedenza.
+La manovra di scambio da servizio tipo 2 verso il tipo 3 consente di porre il medico nelle condizioni migliori
+per tenere sotto controllo il quadro patologico di base e nello stesso tempo sorvegliare eventuale
+comparsa/evoluzione di sintomi e segni da COVID-19.
+Le procedure operative relative a COVID-19 in questo servizio di tipo 3 sono identiche a quelle riportate nel
+tipo 1 e 2. Tuttavia, nelle attività in telemedicina per il contrasto a COVID-19 rivolte a questi pazienti si
+applicano accorgimenti di maggiore tutela in base ai casi.
+Le procedure di tele-controllo sono eseguite dal personale medico individuato in base alle necessità e alle
+risorse disponibili. Esse si basano su attività di rilevazione dei sintomi e dei dati oggettivi, insieme a
+videochiamate programmate a cadenza anche giornaliera, nelle quali viene aggiornata la situazione clinica
+e verificata l’aderenza e l’efficacia terapeutica, in particolare riguardo a:
+ comparsa/evoluzione dei sintomi legati a COVID-19, in modo sovrapponibile concettualmente alle
+persone in situazione b), ma con il livello di personalizzazione della cura e dell’assistenza richiesto
+secondo i casi;
+ evoluzione delle condizioni cliniche di base, per tutto il periodo necessario;
+ l’erogazione di controlli specialistici attraverso videochiamate, eventualmente eseguendo in tal modo
+anche quelli già programmati prima dell’inizio del periodo di isolamento;
+ sorveglianza sulla correttezza del trattamento della patologia di base o dell’assistenza per la
+condizione specifica della persona.
+Allo stesso tempo si forniscono alla persona informazioni e consigli utili alla gestione della sua specifica
+condizione.
+Alla comparsa di sintomi, il sistema di telemedicina, per mezzo dei controlli dei dati rilevati dai dispositivi e
+insieme alla verifica giornaliera del medico tramite videochiamata, deve permettere al medico di prescrivere
+a domicilio l’appropriato e personalizzato trattamento, nonché di individuare immediatamente situazioni di
+peggioramento delle condizioni che richiedano assistenza maggiore in ambiente ospedaliero.
+Riguardo ai punti dell’elenco qui sopra riportato, si tenga conto che, anche nella situazione di emergenza
+sanitaria da COVID-19, il compito dei servizi in telemedicina offerti a domicilio di questi pazienti consiste
+essenzialmente nel limitare la frequenza degli episodi di riacutizzazione delle patologie croniche e/o nel
+prevenirne le complicanze, riducendo per quanto possibile la necessità di prestazioni per le quali sia
+indispensabile recarsi presso strutture sanitarie. Tale compito, come già ampiamente studiato e applicato
+in telemedicina, può essere assolto, in parte o del tutto, rilevando e trasmettendo al medico di riferimento il
+necessario e personalizzato set di parametri clinici. Tuttavia, nella situazione di emergenza è possibile
+23
+essere costretti dalle circostanze a organizzare i servizi domiciliari in telemedicina dovendo accettare i limiti
+delle disponibilità di hardware e software presso il paziente.
+Nei casi in cui non sia possibile recapitare al paziente gli strumenti necessari oppure esso o il care-giver
+non siano in grado di utilizzarli in modo accettabile, occorre organizzare un’adeguata sequenza di azioni
+alternative, fino a quando le risorse materiali a disposizione siano tali da garantire sicurezza ed efficacia. Si
+raccomanda già in fase organizzativa di definire in quali situazioni il paziente assistito deve essere
+indirizzato verso servizi in presenza, che a loro volta potranno essere sia domiciliari che in strutture sanitarie.
+Tipo 4. Tele-supporto psicologico rispetto ai disagi e limitazioni
+dell’isolamento (su richiesta delle persone).
+Questo tipo di servizio è rivolto a qualsiasi persona che si trovi in isolamento o in quarantena, oppure isolata
+di fatto a seguito delle norme di distanziamento sociale, in corso di COVID-19.
+L’obiettivo del servizio è di mettere in contatto audio-video la persona in isolamento con uno psicologo (42).
+La videochiamata è attivata su richiesta individuale, con una procedura che permetta di erogare il servizio
+nel più breve tempo possibile, in base alle risorse disponibili, direttamente a domicilio della persona.
+È particolarmente indicato e raccomandabile anche per questo tipo 4 di servizio che il coordinamento delle
+attività sia assunto dalle Autorità preposte. Questo tipo di attività non sono per definizione standardizzabili
+e quindi il coordinamento serve esclusivamente per ottimizzare l’erogazione del servizio in modo da
+garantirne uniformità soprattutto rispetto all’applicazione di metodologie di intervento scientificamente
+corrette e in condizioni di sicurezza. I colloqui saranno comunque soggetti al codice deontologico dell’Ordine
+degli Psicologi e non saranno registrati.
+Il servizio non consiste in attività medico-assistenziale, ma è costituito esclusivamente dallo svolgimento di
+colloqui con uno psicologo, che hanno lo scopo di dare supporto alle persone in isolamento nei confronti
+dei disagi, delle limitazioni alla vita di relazione e delle paure causate dalla specifica situazione.
+Lo psicologo, iscritto all’albo, interagisce tramite videochiamata con le persone che ne fanno richiesta e può,
+una volta stabilito il primo contatto e ove lo ritenga necessario, concordare ulteriori colloqui in videochiamata
+con la persona.
+Prima di iniziare il colloquio, si raccomanda che lo psicologo identifichi la persona alla quale si rivolge,
+utilizzando la metodologia più appropriata possibile, eventualmente ricorrendo anche al metodo già
+suggerito al punto c. nel paragrafo “Passaggi iniziali di attivazione del servizio”.
+Il sistema di videochiamata per i colloqui psicologici, in virtù della loro natura di colloquio individuale senza
+uso di strumentazione e sempre in considerazione dell’emergenza sanitaria, necessita soltanto di una buona
+connettività che permetta in modo adeguato allo psicologo di cogliere anche il linguaggio non verbale
+durante il suo intervento.
+24
+Limiti di applicazione dei servizi
+in telemedicina a domicilio
+Dal momento che non esistono esperienze significative pregresse di utilizzo di tali sistemi in situazioni
+di emergenza sanitaria da pandemia e benché l’utilizzo di sistemi di telemedicina per gli interventi di
+emergenza/urgenza individuale sia affermato da tempo con solide evidenze scientifiche, si sconsiglia, a
+titolo precauzionale, l’utilizzo dei servizi in telemedicina proposti in questo lavoro, nelle seguenti situazioni:
+ Paziente non conosciuto prima dell’emergenza sanitaria che al primo contatto mostri anche uno solo
+dei seguenti segni: stato di coscienza alterato, dispnea a riposo, pressione sistolica minore o uguale
+100 mmHg (se tale misurazione è eseguibile presso il paziente). In questi casi è indicato avviare
+immediatamente il paziente al ricovero ospedaliero in urgenza, secondo le procedure previste.
+ Pazienti con patologie acute o riacutizzazioni di patologie croniche in atto, anche se indirizzati
+all’isolamento (ad eccezione di piccoli traumatismi gestibili, salvo complicazioni, in ambito
+domiciliare);
+ Pazienti con patologie croniche e fragilità o con disabilità che rendano imprudente la permanenza a
+domicilio in presenza di sintomi da COVID-19.
+Naturalmente, la valutazione finale degli strumenti idonei per il singolo paziente spetta al medico che ne
+ha la responsabilità.
+25
+Schema di funzionamento dei servizi
+in telemedicina proposti
+Versione con 4 tipologie di servizi erogati a distanza da un unico sistema. Il sistema può essere utilizzato
+in modo modulare anche con un solo tipo di servizio, ovviamente in tal caso non è possibile far transitare i
+pazienti da un tipo di servizio al successivo.
+Scambio
+2 >> 3
+Scambio
+1 >> 2
+COORDINAMENTO DEL SERVIZIO
+Contatta telefonicamente tutte le persone sul proprio territorio
+che si trovano nelle condizioni di poter usufruire dei servizi a distanza
+Le persone vengono informate sul servizio,
+viene identificata la tecnologia digitale in loro possesso e le possibilità di connessione
+Le persone sono guidate nella procedura di connessione al sistema di telemedicina
+App specifica può essere adottata per facilitare la comunicazione e creazione account
+Per tutti il primo contatto è con la videochiamata tipo 1
+dove le persone vengono ulteriormente informate circa le procedure da tenere
+per avere il servizio secondo le loro esigenze
+Tipo 1
+tele-sorveglianza
+Tipo 4
+tele-psicologo
+Dati anche
+non automatici
+standard
+Dati automatici
+standard
+(+ alternative
+previste)
+Videochiamata
+sanitaria quotidiana
+controllo clinico
+e info personali
+(medico)
+Tipo 2
+tele-controllo
+Dati automatici
+standard per C-19
++ aggiunte su
+patologia di base
+Videochiamata
+su richiesta
+per colloquio
+di supporto
+(psicologo)
+Videochiamata
+sanitaria e controllo
+clinico secondo il caso
+e info personali
+(medico)
+Videochiamata
+cadenzata
+e su richiesta
+per verifica condizioni
+e info generali
+(infermiere)
+Tipo 3
+tele-controllo
+26
+Schema di organizzazione del sistema di telemedicina
+COORDINAMENTO
+DEL SERVIZIO
+strategico
+PIATTAFORMASOFTWARE
+partnertecnologico
+Consulenzascientifica
+per i servizi di telemedicina
+CENTRO SERVIZI
+supportotecnicoaziendale
+CENTRO OPERATIVO
+DAL COORDINAMENTO
+INFERMIERI
+Servizio Tipo1
+MEDICI
+Servizio Tipo2e 3
+PSICOLOGI
+Servizio Tipo3
+DISTRIBUZIONEMATERIALEE FARMACI
+Ruoli
+Governancegenerale
+del servizio dallostart-up;
+Reclutamentoprofessionisti
+Fornituradel sistema
+software e affiancamento
+Attività di assistenza medica
+in telemedicinaesanitaria
+a distanza conraccolta
+informazioni edati obiettivi
+Conduzioneesupporto
+tecnico
+Coordinamentooperativo
+attività sanitarie
+Affiancamentoal centro
+operativo
+ACQUISTO DISPOSITIVIove necessario
+27
+Riferimenti bibliografici
+1. Ting DSW, Carin L., Dzau, V, et al. Digital technology and COVID-19. Nat Med (2020).
+https://doi.org/10.1038/s41591-020-0824-5.
+2. Young JD, Abdel-Massih R, Herchline T, McCurdy L, Moyer KJ, Scott JD, Wood BR, Siddiqui J.
+Infectious Diseases Society of America position statement on telehealth and telemedicine as applied
+to the practice of infectious diseases. Clin Infect Dis. 2019;68(9):1437-1443. doi: 10.1093/cid/ciy907.
+3. WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020.
+https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-
+briefing-on-covid-19---11-march-2020 , download 08/04/2020.
+4. European Centre for Disease Prevention and Control. Novel coronavirus disease 2019(COVID-19)
+pandemic: increased transmission in the EU/EEA and the UK–sixth update –12 March 2020.
+Stockholm: ECDC; 2020.
+5. Hellewell J, Abbott S, Gimma A, Bosse NI, Jarvis CI, Russell TW, Munday JD, Kucharski AJ, Edmunds
+WJ; Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Funk S,
+Eggo RM. Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts. Lancet
+Glob Health. 2020 Apr;8(4):e488-e496. doi: 10.1016/S2214-109X(20)30074-7. Epub 2020 Feb 28.
+6. Remuzzi A, Remuzzi G. COVID-19 and Italy: what next? Lancet. 2020 Mar 13. pii: S0140-
+6736(20)30627-9. doi: 10.1016/S0140-6736(20)30627-9.
+7. Trucil D. American Geriatrics Society (AGS) Policy Brief: COVID-19 and Nursing Homes. J Am Geriatr
+Soc. 2020 Apr 8. doi: 10.1111/jgs.16477.
+8. Tseng TG, Wu HL, Ku HC, Tai CJ. The impact of the COVID-19 pandemic on disabled and hospice
+home care patients. J Gerontol A Biol Sci Med Sci. 2020 Apr 3. pii: glaa081. doi:
+10.1093/gerona/glaa081.
+9. Dosa D, Jump RLP, LaPlante K, Gravenstein S. Long-term care facilities and the coronavirus epidemic:
+practical guidelines for a population at highest risk. J Am Med Dir Assoc. 2020 Mar 13. pii: S1525-
+8610(20)30249-8. doi: 10.1016/j.jamda.2020.03.004.
+10. Keesara S, Jonas A, Schulman K. Covid-19 and health care's digital revolution. N Engl J Med. 2020
+Apr 2. doi: 10.1056/NEJMp2005835.
+11. Smith AC, Thomas E, Snoswell CL, Haydon H, Mehrotra A, Clemensen J, Caffery LJ. Telehealth for
+global emergencies: Implications for coronavirus disease 2019 (COVID-19). J Telemed Telecare. 2020
+Mar 20:1357633X20916567. doi: 10.1177/1357633X20916567.
+12. Wu Z, McGoogan JM. Characteristics of and important lessons from the coronavirus disease 2019
+(COVID-19) outbreak in China: summary of a report of 72,314 cases from the Chinese Center for
+Disease Control and Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648.
+13. Calton B, Abedini N, Fratkin M. Telemedicine in the time of coronavirus. J Pain Symptom Manage.
+2020 Mar 31. pii: S0885-3924(20)30170-6. doi: 10.1016/j.jpainsymman.2020.03.019.
+14. Gruppo di lavoro ISS Prevenzione e controllo delle Infezioni. Indicazioni ad interim per l’effettuazione
+dell’isolamento e della assistenza sanitaria domiciliare nell’attuale contesto COVID-19. Versione del 7
+marzo 2020. Roma: Istituto Superiore di Sanità; 2020 (Rapporto ISS COVID-19, n.1/ 2020).
+15. Lurie N, Carr BG. The role of telehealth in the medical response to disasters. JAMA Intern Med 2018;
+178: 745-6.
+28
+16. Joshi AU, Randolph FT, Chang AM, Slovis BH, Rising KL, Sabonjian M, Sites FD, Hollander JE. Impact
+of Emergency Department Tele-intake on left without being seen and throughput metrics. Acad Emerg
+Med. 2020 Feb;27(2):139-147. doi: 10.1111/acem.13890. Epub 2019 Dec 26.
+17. du Toit M, Malau-Aduli B, Vangaveti V, Sabesan S, Ray RA. Use of telehealth in the management of
+non-critical emergencies in rural or remote emergency departments: A systematic review. J Telemed
+Telecare. 2019 Jan;25(1):3-16. doi:10.1177/1357633X17734239. Epub 2017 Oct 5.
+18. Gadzinski AJ, Ellimoottil C, Odisho AY, Watts KL, Gore JL. Implementing telemedicine in response to
+the 2020 COVID-19 pandemic. J Urol. 2020 Apr 3:101097JU0000000000001033. doi:
+10.1097/JU.0000000000001033.
+19. Hollander JE, Carr BG. Virtually perfect? Telemedicine for Covid-19. N Engl J Med. 2020 Mar 11. doi:
+10.1056/NEJMp2003539.
+20. Greenhalgh T, Koh GCH, Car J. Covid-19: a remote assessment in primary care. BMJ. 2020 Mar
+25;368:m1182. doi:10.1136/bmj.m1182.
+21. Rockwell KL, Gilroy AS. Incorporating telemedicine as part of COVID-19 outbreak response systems.
+Am J Manag Care. 2020 Apr;26(4):147-148. doi: 10.37765/ajmc.2020.42784.
+22. Weinstein RS, Krupinski EA, Doarn CR. Clinical examination component of telemedicine, telehealth,
+mhealth, and connected health medical practices. Med Clin North Am. 2018 May;102(3):533-544. doi:
+10.1016/j.mcna.2018.01.002.
+23. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei
+Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q,
+Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.
+Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24.
+24. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X,
+Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia
+in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-
+6736(20)30211-7. Epub 2020 Jan 30.
+25. World Health Organization (WHO). Report of the WHO-China Joint Mission on Coronavirus Disease
+2019 (COVID-19) 2020 (cited 2020 1 March). Available from: https://www.who.int/docs/default-
+source/coronaviruse/who-china-jointmission-on-covid-19-final-report.pdf .
+26. National Health Commission & State Administration of Traditional Chinese Medicine. Diagnosis and
+treatment protocol for novel coronavirus pneumonia (Trial Version 7), March 3, 2020.
+https://www.chinadaily.com.cn/pdf/2020/1.Clinical.Protocols.for.the.Diagnosis.and.Treatment.of.COVI
+D-19.V7.pdf.
+27. Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019
+Novel Coronavirus 2020 (updated 29 January 2020; cited 2020 29 February).
+http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf .
+28. Han YN, Feng ZW, Sun LN, Ren XX, Wang H, Xue YM, Wang Y, Fang Y. A comparative-descriptive
+analysis of clinical characteristics in 2019-Coronavirus-infected children and adults. J Med Virol. 2020
+Apr 6. doi: 10.1002/jmv.25835.
+29. Hu Z, Song C, Xu C, Jin G, Chen Y, Xu X, Ma H, Chen W, Lin Y, Zheng Y, Wang J, Hu Z, Yi Y, Shen
+H. Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close
+contacts in Nanjing, China. Sci China Life Sci. 2020 Mar 4. doi:10.1007/s11427-020-1661-4.
+30. Mash B. Primary care management of the coronavirus (COVID-19). S Afr Fam Pract (2004). 2020 Mar
+31;62(1):e1-e4. doi: 10.4102/safp.v62i1.5115.
+29
+31. National Institute for Communicable Disease. Clinical management of suspected or confirmed COVID-
+19 disease. Version-3. https://www.nicd.ac.za/wp-content/uploads/2020/03/Clinical-Management-of-
+COVID-19-disease_Version-3_27March2020.pdf. Download 05/04/2020.
+32. Kimball A, Hatfield KM, Arons M, James A, Taylor J, Spicer K, Bardossy AC, Oakley LP, Tanwar S,
+Chisty Z, Bell JM, Methner M, Harney J, Jacobs JR, Carlson CM, McLaughlin HP, Stone N, Clark S,
+Brostrom-Smith C, Page LC, Kay M, Lewis J, Russell D, Hiatt B, Gant J, Duchin JS, Clark TA, Honein
+MA, Reddy SC, Jernigan JA; Public Health – Seattle & King County; CDC COVID-19 Investigation
+Team. Asymptomatic and presymptomatic SARS-CoV-2 infections in residents of a long-term care
+skilled nursing facility - King County, Washington, March 2020. MMWR Morb Mortal Wkly Rep. 2020
+Apr 3;69(13):377-381. doi: 10.15585/mmwr.mm6913e1.
+33. European Centre for Disease Prevention and Control. Novel coronavirus disease 2019 (COVID-19)
+pandemic: increased transmission in the EU/EEA and the UK – sixth update – 12 March 2020.
+Stockholm: ECDC; 2020.
+34. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X,
+Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients
+with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-
+1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11.
+35. Weiss P, Murdoch DR. Clinical course and mortality risk of severe COVID-19. Lancet. 2020 Mar
+28;395(10229):1014-1015. doi: 10.1016/S0140-6736(20)30633-4. Epub 2020 Mar 17.
+36. Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X,
+Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia
+in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 Feb
+24. pii: S2213-2600(20)30079-5. doi: 10.1016/S2213-2600(20)30079-5.
+37. WHO Clinical management of severe acute respiratory infection when COVID-19 is suspected. Interim
+guidance. 13 March. https://www.who.int/publications-detail/clinical-management-of-severe-acute-
+respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected Download 08/04/2020.
+38. Guan WJ, Zhong NS. Clinical Characteristics of Covid-19 in China. Reply. N Engl J Med. 2020 Mar
+27;382. pii: 10.1056/NEJMc2005203#sa5. doi: 10.1056/NEJMc2005203.
+39. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang
+X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected
+Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585.
+40. Park PG, Kim CH, Heo Y, Kim TS, Park CW, Kim CH. Out-of-hospital cohort treatment of coronavirus
+disease 2019 patients with mild symptoms in Korea: an experience from a single community treatment
+center. J Korean Med Sci. 2020 Apr 6;35(13):e140. doi: 10.3346/jkms.2020.35.e140.
+41. Il Medico di Continuità Assistenziale e l’epidemia da COVID-19.
+https://www.simg.it/Coronavirus/MCA_20-03.pdf download 03/04/2020 .
+42. Wright JH, Caudill R. Remote Treatment Delivery in Response to the COVID-19 Pandemic. Psychother
+Psychosom. 2020 Mar 26:1-3. doi: 10.1159/000507376.
+30
+Rapporti ISS COVID-19
+1. Gruppo di lavoro ISS Prevenzione e controllo delle Infezioni.
+Indicazioni ad interim per l’effettuazione dell’isolamento e della assistenza sanitaria domiciliare
+nell’attuale contesto COVID-19. Versione del 7 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020 (Rapporto ISS COVID-19, n. 1/2020)
+2. Gruppo di lavoro ISS Prevenzione e controllo delle Infezioni.
+Indicazioni ad interim per un utilizzo razionale delle protezioni per infezione da SARS-CoV-2 nelle
+attività sanitarie e sociosanitarie (assistenza a soggetti affetti da covid-19) nell’attuale scenario
+emergenziale SARS-CoV-2. Versione del 14 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020 (Rapporto ISS COVID-19, n. 2/2020)
+3. Gruppo di lavoro ISS Ambiente e Gestione dei Rifiuti.
+Indicazioni ad interim per la gestione dei rifiuti urbani in relazione alla trasmissione dell’infezione da
+virus SARS-CoV-2. Versione del 31 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020 (Rapporto ISS COVID-19, n.3 Rev./2020)
+4. Gruppo di lavoro ISS Prevenzione e controllo delle Infezioni.
+Indicazioni ad interim per la prevenzione e il controllo dell’infezione da SARS-CoV-2 in strutture
+residenziali sociosanitarie. Versione del 16 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020 (Rapporto ISS COVID-19, n. 4/2020)
+5. Gruppo di lavoro ISS Ambiente e Qualità dell’aria indoor.
+Indicazioni ad per la prevenzione e gestione degli ambienti indoor in relazione alla trasmissione
+dell’infezione da virus SARS-CoV-2. Versione del 23 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 5/2020).
+6. Gruppo di lavoro ISS Cause di morte COVID-19.
+Procedura per l’esecuzione di riscontri diagnostici in pazienti deceduti con infezione da SARS-CoV-2.
+Versione del 23 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 6/2020).
+7. Gruppo di lavoro ISS Biocidi COVID-19 e Gruppo di lavoro ISS Ambiente e Rifiuti COVID-19.
+Raccomandazioni per la disinfezione di ambienti esterni e superfici stradali per la prevenzione della
+trasmissione dell’infezione da SARS-CoV-2. Versione del 29 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 7/2020).
+8. Osservatorio Nazionale Autismo ISS.
+Indicazioni ad interim per un appropriato sostegno delle persone nello spettro autistico nell’attuale
+scenario emergenziale SARS-CoV-2. Versione del 30 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 8/2020).
+9. Gruppo di Lavoro ISS Ambiente – Rifiuti COVID-19.
+Indicazioni ad interim sulla gestione dei fanghi di depurazione per la prevenzione della diffusione del
+virus SARS-CoV-2. Versione del 3 aprile 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 9/2020).
+31
+10. Gruppo di Lavoro ISS Ambiente-Rifiuti COVID-19.
+Indicazioni ad interim su acqua e servizi igienici in relazione alla diffusione del virus SARS-CoV-2
+Versione del 7 aprile 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 10/2020).
+11. Gruppo di Lavoro ISS Diagnostica e sorveglianza microbiologica COVID-19: aspetti di analisi
+molecolare e sierologica
+Raccomandazioni per il corretto prelievo, conservazione e analisi sul tampone oro/nasofaringeo per la
+diagnosi di COVID-19. Versione del 7 aprile 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 11/2020).
+12. Gabbrielli F, Bertinato L, De Filippis G, Bonomini M, Cipolla M.
+Indicazioni ad interim per servizi assistenziali di telemedicina durante l’emergenza sanitaria COVID-
+19. Versione del 13 aprile 2020.
+Roma: Istituto Superiore di Sanità; 2020. (Rapporto ISS COVID-19, n. 12/2020).
+

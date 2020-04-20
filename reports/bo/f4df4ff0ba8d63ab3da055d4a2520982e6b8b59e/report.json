@@ -1,0 +1,22 @@
+{
+    "filename": "4071-definen-criterios-para-testeo-de-covid-19-ante-la-llegada-de-la-temporada-invernal",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4071-definen-criterios-para-testeo-de-covid-19-ante-la-llegada-de-la-temporada-invernal",
+    "output": "file.pdf",
+    "downloaded": 1587344563,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 20 Apr 2020 01:07:05 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=vn2ka4q9o3dj5ahaf40p2e9au6; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Mon, 20 Apr 2020 01:07:06 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 682081,
+    "modified": 1587344568
+}

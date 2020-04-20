@@ -7,6 +7,11 @@
 * [https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
 
 
+## 2020-04-20
+
+* [C\_17\_notizie\_4530\_1\_file.pdf](35f1db0a3e56f28f3b125e94d7c635ca150df906/file.pdf) @01:07 GMT
+* [C\_17\_notizie\_4530\_0\_file.pdf](3467b6142a025eabc77e60ac78deb70004e48e81/file.pdf) @01:07 GMT
+
 ## 2020-04-19
 
 * [C\_17\_notizie\_4524\_1\_file.pdf](e59506a6b6f7906c8199fa8a28ecdecdfdd4103f/file.pdf) @12:44 GMT
@@ -44,8 +49,8 @@
 * [C\_17\_notizie\_4482\_1\_file.pdf](4c676b363ea97ee6bc9af8b90be5a7f26f384257/file.pdf) @19:07 GMT
 * [C\_17\_notizie\_4482\_0\_file.pdf](9ae5b84f882a1391fa26fd0e7cf7021386ac1e6f/file.pdf) @19:07 GMT
 * [Infografica\_15aprile ITA.pdf](c011e0ab156b889273ff86c26af6387ce6b8ef15/file.pdf) @18:04 GMT
-* [Infografica\_15aprile ENG.pdf](0ceafd6a8213429e21aae8b8b276b5dd313c4f14/file.pdf) @18:02 GMT
 * [Infografica\_15aprile ENG.pdf](8d0bab98037aa238890e49461f1f92fe10641816/file.pdf) @18:02 GMT
+* [Infografica\_15aprile ENG.pdf](0ceafd6a8213429e21aae8b8b276b5dd313c4f14/file.pdf) @18:02 GMT
 * [My Hero is You, Storybook for Children on COVID-19 (Italian).pdf](129815caffde9048f5fb6b215cdf18960b9d9d41/file.pdf) @10:47 GMT
 * [circolare\_14\_aprile\_2020\_covid-19\_dpcm\_10\_aprile\_2020.pdf](9f470a7e2d6feeab7c2d541dde0176a6ac3ff205/file.pdf) @07:19 GMT
 
@@ -54,6 +59,7 @@
 * [Report-COVID-2019\_13\_aprile.pdf](8e208785fa510fdd9b8f9d0ddf75aa5d5df9c619/file.pdf) @17:25 GMT
 * [Report-COVID-2019\_13\_april\_2020.pdf](86f981851dd2fe674a8b1647439328e5debc445d/file.pdf) @17:23 GMT
 * [Report\_CTS\_Sper-cliniche\_13.04.2020.pdf](2847c05e3e009d4cf2c4fce56b86070beb676b82/file.pdf) @16:50 GMT
+* [Rapporto ISS COVID-19 n. 12 telemedicina.pdf](7dda981e494dd49148618046b4803fc76883e34e/file.pdf) @10:36 GMT
 
 ## 2020-04-13
 
@@ -101,8 +107,8 @@
 * [C\_17\_notizie\_4431\_0\_file.pdf](7e7e1087cb5531a689bfc08fa211ee20ae132566/file.pdf) @18:24 GMT
 * [covid-19\_sperimentazioni\_in\_corso\_09.04.2020.pdf](7af007d46d20dad4b4b4809a8d293edf85cc6a2d/file.pdf) @17:58 GMT
 * [Infografica\_9aprile ITA.pdf](3dc89ee66e19648bed8dd608bb7bc01f8f2729f1/file.pdf) @17:40 GMT
-* [Infografica\_9aprile ENG.pdf](57f45a73ae7e1a14a271539471616b87c51fa49d/file.pdf) @17:38 GMT
 * [Infografica\_9aprile ENG.pdf](1c33f840c439324c70532cb5548fa18587bcc77a/file.pdf) @17:38 GMT
+* [Infografica\_9aprile ENG.pdf](57f45a73ae7e1a14a271539471616b87c51fa49d/file.pdf) @17:38 GMT
 * [circolare\_controlli\_festivita\_di\_pasqua\_9.4.2020.pdf](f7611ee9b0a69e9b0e16cdeddb085c9d6e998e69/file.pdf) @14:45 GMT
 * [Second regulatory COVID-19 workshop - meeting report\_April 2020.pdf](e3d290811a503db53ae56301e9954a30b2327b3d/file.pdf) @11:42 GMT
 * [azitromicina\_08.04.2020.pdf](595e892626cd48cd4572e285b542379d18ec597d/file.pdf) @07:11 GMT
@@ -143,13 +149,13 @@
 * [C\_17\_notizie\_4403\_1\_file.pdf](4d08b792159444e88389ba3095edade75eb04dc8/file.pdf) @21:36 GMT
 * [C\_17\_notizie\_4403\_0\_file.pdf](13fb065709c1c885f705df381a536c773ee9f4a2/file.pdf) @21:36 GMT
 * [Infografica\_5aprile ITA.pdf](be01e49068c57d7987060aa0b09aca3ecb5a3003/file.pdf) @14:48 GMT
-* [Infografica\_5aprile ENG.pdf](59778628211ad4c30c4357eafbd7cd29f69386ff/file.pdf) @14:46 GMT
 * [Infografica\_5aprile ENG.pdf](d40faa5a444c26cca9d56ce20cca15632a36ea10/file.pdf) @14:46 GMT
+* [Infografica\_5aprile ENG.pdf](59778628211ad4c30c4357eafbd7cd29f69386ff/file.pdf) @14:46 GMT
 
 ## 2020-04-04
 
-* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ENG.pdf](5054175f81881782bbd98e7ef7307fcb3c878293/file.pdf) @18:09 GMT
+* [Infografica\_4aprile ENG.pdf](438dbb3824c831090fb60393a8df53f0b00a393b/file.pdf) @18:09 GMT
 * [Infografica\_4aprile ITA.pdf](7881f2225bfb7e07af7e3b25f9ffcda3e0d95fe8/file.pdf) @18:08 GMT
 * [C\_17\_notizie\_4399\_1\_file.pdf](8f1dc784d978f7f725feef4cd2439f1be51db591/file.pdf) @18:01 GMT
 * [C\_17\_notizie\_4399\_0\_file.pdf](5312e4146209a88022f397834bec38c7fc4261f7/file.pdf) @18:01 GMT
@@ -176,8 +182,8 @@
 * [volantino-violenza-1.pdf](824bd53a5ab0253a5db161f891c108b636f10137/file.pdf) @20:43 GMT
 * [Infografica\_2aprile ENG.pdf](7dd5119ea2ae7c7751091ebec68f788b2dcf36f0/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ENG.pdf](d62c38471e0b0d2a4e8d338263d8a68fc15bdd6a/file.pdf) @15:47 GMT
-* [Infografica\_2aprile ITA.pdf](c850a58046e66918025001c409915a0879a64437/file.pdf) @15:47 GMT
 * [Infografica\_2aprile ITA.pdf](5356b6cd7bbd2e64cbeebdf9050786a22e73cac0/file.pdf) @15:47 GMT
+* [Infografica\_2aprile ITA.pdf](c850a58046e66918025001c409915a0879a64437/file.pdf) @15:47 GMT
 * [lopinavir\_ritonavir\_02.04.2020.pdf](4546724f240cc52f3d397caedfff7d3a6ef96cc0/file.pdf) @15:32 GMT
 * [idrossiclorochina\_02.04.2020.pdf](4a1020fb9f4e2e87cc9f3acc8879707397d13c14/file.pdf) @15:32 GMT
 * [darunavir\_cobicistat\_02.04.2020.pdf](8d486df7cda7ece1c33d00c05cf192a8330f2fe0/file.pdf) @15:32 GMT
@@ -189,8 +195,8 @@
 * [C\_17\_notizie\_4378\_1\_file.pdf](9fc0cdb476298a179a9fc072482e3248997d7b2a/file.pdf) @23:30 GMT
 * [C\_17\_notizie\_4378\_0\_file.pdf](1da7a5cafbc0768b362c10edff448a6b4fe130db/file.pdf) @23:30 GMT
 * [Infografica\_1aprile ENG.pdf](5b1a29e2a033a83ac38984fb6ffd2dd40da0ce57/file.pdf) @17:37 GMT
-* [Infografica\_1aprile ITA.pdf](a70c3d7d9c9aadc7468f0299f039a80bdabd40a2/file.pdf) @17:37 GMT
 * [Infografica\_1aprile ITA.pdf](fea3f4fa9780440f36b3a02f0a473c92a480b9c8/file.pdf) @17:37 GMT
+* [Infografica\_1aprile ITA.pdf](a70c3d7d9c9aadc7468f0299f039a80bdabd40a2/file.pdf) @17:37 GMT
 * [Rapporto ISS COVID-19 n. 8 autismo (2).pdf](6c0bd2c336eef79b58346dc5256e75b1b18fefea/file.pdf) @16:10 GMT
 * [sars-cov-2-stili-vita-attivita-fisica-over-65.pdf](f3d1b300b19d3cddd86b696ddff3368acf9bf177/file.pdf) @14:24 GMT
 

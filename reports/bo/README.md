@@ -6,6 +6,14 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-20
+
+* [4073-ministro-de-salud-bolivia-tendra-la-suficiente-holgura-para-aplicar-pruebas-covid-19](0d88370ff33008e0b71d4181313378767f22e7ca/file.pdf) @12:26 GMT
+* [4074-bolivia-registra-44-nuevos-casos-y-acumula-564-casos-confirmados-de-covid-19](0a65d0d06ae1ca09cd55c24871c786eeaba4514e/file.pdf) @12:26 GMT
+* [4070-bolivia-reporta-520-casos-de-covid-19-y-gobierno-afirma-que-la-tendencia-de-contagios-es-menor](d8eb6530a085102f033cb3eca163488fba5a5119/file.pdf) @01:02 GMT
+* [4071-definen-criterios-para-testeo-de-covid-19-ante-la-llegada-de-la-temporada-invernal](f4df4ff0ba8d63ab3da055d4a2520982e6b8b59e/file.pdf) @01:02 GMT
+* [4072-ministerio-de-salud-acelera-la-implementacion-de-40-hospitales-y-mas-de-1-500-camas-para-pacientes-de-covid-19](99c44338d87255bec62eb624a8c50590f5e093a9/file.pdf) @01:02 GMT
+
 ## 2020-04-19
 
 * [4066-casos-de-coronavirus-suben-a-493-en-el-pais-y-31-pacientes-estan-en-recuperacion](cd0246e8f1ed5f86b2b50013b6c0c77d8ba161f8/file.pdf) @12:39 GMT

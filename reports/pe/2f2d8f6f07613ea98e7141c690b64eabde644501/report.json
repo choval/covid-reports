@@ -1,0 +1,20 @@
+{
+    "filename": "90fad-coronavirus170420.pdf",
+    "uri": "https:\/\/www.dge.gob.pe\/portal\/docs\/tools\/coronavirus\/90fad-coronavirus170420.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587345052,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 20 Apr 2020 01:07:06 GMT",
+        "server": "Apache\/2.4.6 (CentOS) OpenSSL\/1.0.2k-fips PHP\/5.4.16 mod_wsgi\/3.4 Python\/2.7.5",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Sun, 19 Apr 2020 12:46:05 GMT",
+        "etag": "\"2a1db0-5a3a42a7175e2\"",
+        "accept-ranges": "bytes",
+        "content-length": "2760112",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 2760112,
+    "modified": 1587300365
+}

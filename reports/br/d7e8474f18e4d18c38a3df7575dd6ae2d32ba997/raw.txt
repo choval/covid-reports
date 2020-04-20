@@ -1,0 +1,2456 @@
+DOENÇA PELO CORONAVÍRUS 2019
+Especial Vigilância Epidemiológica Laboratorial
+Sumário
+PAINEL COVID-19 ATUALIZADO EM 18/04/2020 3
+RECOMENDAÇÕES DA ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS) 4
+Técnicas e ensaios laboratoriais no âmbito da COVID-19 4
+Reação em Cadeia da Polimerase com Transcrição Reversa em tempo real (rRT-PCR) 4
+Teste rápido molecular (rRT-PCR) 6
+Testes sorológicos 8
+Sequenciamento viral 8
+Cenários para testagem segundo a OMS 10
+Municípios sem casos suspeitos ou confirmados 10
+Municípios com surtos localizados de casos importados ou relacionados 10
+Municípios com transmissão comunitária 10
+TESTES DISPONÍVEIS NO BRASIL 11
+Aquisição 11
+Controle de qualidade 12
+ESTRATÉGIAS DO COE COVID-19 PARA AMPLIAÇÃO 13
+Fase 1: Implantação do diagnóstico da COVID-19 no Brasil 15
+Fase 2: Contra prova de exames realizados pela saúde suplementar 16
+Fase 3: Descentralização do diagnóstico laboratorial da COVID-19 17
+Fase 4: Ampliação da oferta de diagnóstico laboratorial no âmbito do SUS 18
+Rede nacional de laboratórios de carga viral do HIV e das hepatites virais B e C 19
+Rede de teste rápido molecular para Tuberculose 19
+Instruções adicionais quanto a ampliação do diagnóstico 20
+Etapa pré-analítica 20
+Etapa analítica 21
+Etapa pós analítica 21
+Fase 5: Laboratórios de instituições públicas 22
+Fase 6: Parceria Público-Privada 24
+​Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 ​1
+AMPLIAÇÃO DA CAPACIDADE 25
+Diagnóstico molecular por RT-qPCR 25
+Ampliação da capacidade de processamento de testes RT-PCR 25
+Teste Rápido Sorológico (Imunocromatográfico) 26
+Sobre o teste rápido 27
+Resultado do teste 28
+Notificação 28
+Distribuição 28
+COLAB COVID-19: Rede de Colaboração de Laboratórios Públicos e Privados para COVID-19 29
+Balanço total de testes em aquisição/doação entre Janeiro/2020 e 16/04/2020: 30
+BIOSSEGURANÇA LABORATORIAL PARA COVID-19 33
+Orientações gerais sobre coleta de amostras 34
+FLUXOS LABORATORIAIS 35
+Diagnóstico de vírus respiratórios 35
+Resultados laboratoriais 36
+INSUMOS E TRANSPORTE DE AMOSTRAS 37
+Pesquisa de Produtos - Mercado Nacional e Internacional 37
+Avaliação de qualidade 37
+ANEXOS 39
+Anexo 1: Locais (estado e município) onde estão localizados os laboratórios que podem realizar, no âmbito do SUS,
+testes moleculares para COVID-19. 39
+Anexo 2: Laboratórios (estaduais e municipais) que possuem máquinas automatizadas que podem realizar, no âmbito do
+SUS, testes rápidos moleculares para COVID-19. 41
+Anexo 3: Lista de Produtos e Empresas selecionados para apresentação de amostras ao INCQS. 48
+Anexo 4. Grade de distribuição para os laboratórios do MAPA em 20/04 50
+Anexo 6: Revisão da programação orçamentária de entregas da Fiocruz 51
+Anexo 5: Linha do tempo - atualizado até 18/04/2020 54
+DEZEMBRO 2019 55
+JANEIRO 2020 - Balanço do mês de janeiro: 2 mil testes disponibilizados de RT-PCR em tempo real por doação da
+OPAS 55
+FEVEREIRO 2020 - Balanço do mês de fevereiro: 528 reações disponibilizados de RT-PCR em tempo real (aquisição da
+Fiocruz) 61
+MARÇO 2020 - Balanço do mês de março: 45.240 testes disponibilizados de RT-PCR em tempo real (aquisição da
+Fiocruz) e 500.000 testes rápidos sorológicos (doação Vale) 65
+ABRIL 2020 - Balanço parcial do mês de abril (até 08/04): 44.852 testes disponibilizados de RT-qPCR em tempo real
+(aquisição da Fiocruz) e 300 mil testes RT-PCR em tempo real (doação Petrobrás) 67
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 2
+PAINEL COVID-19 ATUALIZADO EM 18/04/2020
+INDICADORES MUNDO BRASIL
+Epidemiológicos
+Casos 2.276.547 36.599
+Óbitos 156.141 2.347
+Mortalidade por 1 milhão de hab. 20 10
+Recuperados 589.576 14.026
+Equipamentos de Proteção Individual
+Máscaras cirúrgicas 1.019.780​E
+23.628.250
+Máscaras N95 --- 1.385.470
+Luvas 1.124.900​E
+35.402.140
+Óculos de proteção 19.273​E
+73.160
+Aventais 132.278​E
+1.200.117
+Sapatilha e Touca --- 13.044.000
+Álcool em gel (litro) --- 100.560
+Testes laboratoriais adquiridos e distribuídos
+Teste RT-PCR adquiridos (molecular) --- 24.200.000
+Teste rápido (sorológico) 1.084.800​E
+2.081.120
+Teste RT-PCR em tempo real (molecular) ---
+Total de testes realizados para SRAG --- 291.922
+Leitos e Respiradores
+Leitos UTI adulto SUS --- 14.869
+Leitos UTI adulto não SUS --- 15.754
+Respiradores --- 70
+Fontes:
+A. https://covid.saude.gov.br/
+B. https://covid-insumos.saude.gov.br/paineis/insumos/painel.php
+C. https://www.irrd.org/covid-19/
+D. https://coronavirus.jhu.edu/map.html
+E. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/strategies-plans-and-operations
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 3
+RECOMENDAÇÕES DA ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS)
+Segundo os documentos publicados pela OMS, ​Coronavírus disease (COVID-19) technical guidance:
+Laboratory testing for 2019-nCoV in humans , publicados em 19 e 22 de março de 2020, o vírus
+1
+denominado SARS-CoV-2 pode causar a doença chamada Doença pelo Coronavírus 2019 (COVID-19). No
+entanto, vamos referir ao vírus como vírus COVID-19 para facilitar a compreensão, conforme utilizado
+pela OMS.
+A decisão de testar deve basear-se em critérios clínicos e fatores epidemiológicos e vinculados a uma
+avaliação do probabilidade de infecção. Teste molecular (rRT-PCR) de casos assintomáticos ou contatos
+com sintomas leves podem ser considerado na avaliação de indivíduos que tiveram contato com um
+caso de COVID-19. Os protocolos de triagem devem ser adaptados para a situação local.
+A coleta e testagem rápida de amostras apropriadas de pacientes que atendem à definição de caso
+suspeito de COVID-19 é uma prioridade para o manejo clínico e controle de surtos e deve ser realizada
+por um profissional especializado.
+A OMS orienta que em determinadas situações, os pacientes devem ser testados para outros patógenos
+respiratórios usando procedimentos laboratoriais de rotina, conforme recomendado no ​Guia para a
+Rede Laboratorial de Vigilância de Influenza no Brasil . Testes adicionais não devem atrasar o teste para
+2
+o COVID-19. Além disso, como coinfecções podem ocorrer, todos os pacientes que atendem à definição
+de caso suspeito de Síndrome Gripal (SG) ou Síndrome Respiratória Aguda Grave (SRAG) devem ser
+testados para o vírus COVID-19, independentemente de se encontrar outro patógeno respiratório.
+Em um estudo inicial em Wuhan, o período médio de incubação do COVID-19 foi de 5,2 dias em 425
+casos, embora varie amplamente entre indivíduos. A história natural da doença e o tempo de carga viral
+infectante ainda não está bem descrita, sendo necessárias mais investigações. Embora as amostras
+respiratórias sejam as mais adequadas, o vírus pode ser detectado em outras amostras, incluindo fezes
+e sangue. Deve-se atentar para que a pessoa seja informada sobre a coleta e sobre o destino de suas
+amostras, com o Consentimento Livre e Esclarecido para teste e pesquisas potencialmente futuras,
+seguindo as regras da CONEP - Comissão Nacional de Ética em Pesquisa.
+3
+A Organização Mundial da Saúde não validou nenhum teste sorológico, até o momento. Em nota, no dia
+08 de abril de 2020, o órgão recomendou o uso de testes rápidos sorológicos somente para fins de
+pesquisa, a sua utilização para diagnóstico não está indicada nos laboratórios públicos e privados.
+Técnicas e ensaios laboratoriais no âmbito da COVID-19
+Reação em Cadeia da Polimerase com Transcrição Reversa em tempo real (rRT-PCR)
+A detecção do vírus SARS-CoV-2 por Reação em Cadeia da Polimerase com Transcrição Reversa com
+reação de amplificação em tempo real (RT-PCR em tempo real ou RT-qPCR) permanece sendo o teste
+laboratorial de escolha (padrão-ouro).
+1
+​https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
+2
+​https://bvsms.saude.gov.br/bvs/publicacoes/guia_laboratorial_influenza_vigilancia_influenza_brasil.pdf
+3
+​https://conselho.saude.gov.br/comissoes-cns/conep/
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 4
+Esses testes moleculares baseiam-se na detecção de sequências únicas de RNA viral,
+com confirmação por sequenciamento de ácidos nucleicos, quando necessário. Para o diagnóstico
+molecular da COVID-19, até o momento, os genes virais alvo do SARS-CoV-2 são: N, E, S e RdRP. Entre
+alguns protocolos existentes para detecção desses genes, o que tem sido adotado pela maior parte dos
+países e recomendado pela Organização Pan-Americana da Saúde (OPAS/OMS) é o protocolo
+internacional desenvolvido pelo Instituto Charité/Berlim. Esse método tem sido amplamente utilizado
+por estabelecimentos de saúde pública e da saúde suplementar, incluindo laboratórios da rede privada
+e, até esse momento, é considerado o método de referência no Brasil para confirmar COVID-19.
+Embora a recomendação para confirmação laboratorial dos casos seja a detecção de dois marcadores
+genéticos diferentes (gene E seguido pelo gene RdRP, conforme descrito anteriormente para o protocolo
+de Charité), uma vez que a circulação do vírus seja estabelecida e disseminada em uma determinada
+área/país, não é mais necessário executar a PCR para ambos os genes. Portanto, a confirmação pode ser
+implementada através da detecção de um único marcador genético, se as curvas e outros parâmetros de
+garantia de qualidade forem satisfatórios. As recentes representações científicas demonstram que o
+gene E possui sensibilidade um pouco maior que o gene RdRP, por isso recomendamos priorizar o gene
+E como marcador de escolha.
+De forma simplificada, o processo completo do diagnóstico da COVID-19 por teste molecular envolve a
+fase pré-analítica, analítica e pós analítica e essas devem ser executadas de acordo com as etapas
+descritas na ​Figura 1 e ​Tabela 1​. Ressalta-se a importância de se atender às recomendações de uso de
+equipamento de proteção individual e equipamentos de proteção coletiva específicos.
+Figura 1: ​Etapas de realização ilustradas com tempo.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 5
+Tabela 1: ​Resumo das etapas para realização do RT-PCR em tempo real e recomendações técnicas.
+Fase Etapa
+Equipamento de
+proteção
+individual*
+Equipamentos Resumo do procedimento
+Tipo de
+material
+Pré-
+analítica
+1. Recepção,
+triagem e
+cadastrament
+o da amostra
+no GAL
+Máscara
+cirúrgica
+Avental
+Luva -
+Abertura da caixa de transporte para
+conferir as condições da amostra
+biológica: volume, integridade e
+rotulagem (identificação do
+recipiente x ficha)
+Material
+infectante,
+mas recipiente
+fechado
+Analítica 2. Preparação
+da amostra
+Gorro
+descartável
+Óculos de
+proteção ou
+protetor facial
+Máscara modelo
+PFF2 (N95) ou
+equivalente
+Avental de
+mangas
+compridas
+Luva de
+procedimento
+Calçados
+fechados
+Cabine de
+segurança Classe II
+A2 (com filtro
+HEPA)
+Abrir o tubo falcon, esgotar o
+material dos 3 swabs dentro do
+próprio tubo e desprezá-los. Dividir a
+amostra em 2 criotubos (sem
+conservante)
+Material
+infectante
+Analítica 3. Extração
+do RNA viral
+Sala específica 1
+Equipamentos
+compatíveis com
+insumos para
+extração
+Processamento manual ou
+automatizado para extração do RNA
+viral
+Material
+infectante
+Analítica 4.
+Amplificação
+do RNA viral
+Sala específica 2
+Equipamentos
+compatíveis com
+insumos para
+amplificação da
+COVID-19
+Processamento manual ou
+automatizado para amplificação do
+RNA viral
+Material não
+infectante
+Analítica 5.Leitura Termociclador Leitura das placas com as amostras Material não
+infectante
+Pós-
+analítica
+6.Liberação
+do resultado
+Avental Computador
+Acesso ao sistema
+GAL
+Digitação manual ou automatizada
+(interfaceamento com alguns
+equipamentos)
+Material não
+infectante
+* Ver recomendação no capítulo de Biossegurança laboratorial para COVID-19
+Teste rápido molecular (rRT-PCR)
+Para melhorar a capacidade de resposta da rede pública de laboratórios também serão disponibilizados
+testes rápidos moleculares para processamento em plataforma automatizada, a mesma utilizada na
+Rede de Teste Rápido da Tuberculose.
+O teste realiza detecção qualitativa ​in vitro de ácido nucleico do SARS-CoV-2, por PCR em tempo real
+automatizado, tem como alvos: genes E e N2 em amostras de Swab nasofaríngeo e/ou Aspirado/lavado
+nasal de indivíduos suspeitos da COVID-19. Além disso, realiza a homogeneização da amostra,
+descontaminação e inativação, extração, amplificação e detecção do RNA do SARS-CoV-2, impedindo
+contaminação cruzada e reduzindo o risco para o profissional, permitindo seu uso em laboratórios de
+baixa complexidade.
+Toda a reação é realizada dentro da câmara do cartucho (entenda cartucho como teste), sem a
+interferência do usuário durante o processo, ou seja, o processamento da amostra é realizado,
+simultaneamente, de forma independente, das etapas de extração e quantificação do material genético
+através da metodologia de PCR em tempo real em um único local.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 6
+O princípio do procedimento se inicia com a coleta da amostra por swab nasofaríngeo e/ou
+aspirado/lavado nasal (etapa 1). Após a coleta, inserir o swab imediatamente (se necessário, cortar o
+excesso do cabo) em 2-3 mL de solução fisiológica a 0,9% estéril ou meio de transporte universal viral
+(UTM ou VTM) (etapa 2) e manter imediatamente sob refrigeração (2 a 8°C) (5). No momento de
+realização do teste, a amostra deve ser misturada por inversão do tubo 5 vezes e usando a pipeta de
+transferência fornecida (etapa 3), a amostra é transferida para a câmara do cartucho (etapa 4). O
+cartucho é carregado na plataforma automatizada, que realizará o processamento da amostra por PCR
+em tempo real para detecção de RNA viral (​Figura 2​).
+Figura 2: ​Princípio do procedimento do teste rápido molecular.
+Interpretação de resultados negativos
+Em áreas onde a COVID-19 está amplamente disseminada, um ou mais resultados negativos de um
+mesmo caso suspeito não descartam a possibilidade de infecção pelo vírus SARS-CoV-2 e não devem ser
+usados ​​como única base para tratamento ou outras decisões de gerenciamento de pacientes. Os
+resultados negativos devem ser combinados com observações clínicas, histórico do paciente e
+informações epidemiológicas.
+Vários fatores podem levar a um resultado negativo em um indivíduo infectado, incluindo:
+● Má qualidade da amostra, contendo pouco material do paciente (como controle, considere
+determinar se existe DNA humano adequado na amostra, incluindo um alvo humano no teste)
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 7
+● ​A amostra foi coletada em uma fase muito precoce (menos de 3 dias) ou tardia (mais de 10 dias) da
+infecção
+● ​A amostra não foi manuseada e enviada adequadamente
+● Razões técnicas inerentes ao teste, por exemplo, mutação do vírus ou inibição de PCR.
+Dessa forma, se um resultado negativo foi obtido de um paciente com alta probabilidade de infecção
+por SARS-CoV-2, particularmente quando foram analisadas apenas amostras do trato respiratório
+superior, indica-se, se possível, coletar amostras de vias respiratórias inferiores e testar novamente.
+É importante destacar que as amostras negativas da COVID-19 por teste molecular e que sejam de
+pacientes com Síndrome Respiratória Aguda Grave (SRAG), devem ser testadas para o diagnóstico de
+Influenza e outros vírus respiratórios.
+Testes sorológicos
+De forma geral, os testes sorológicos visam detectar anticorpo específico produzido pelo corpo humano
+contra o vírus SARS-CoV-2 ou detectar antígeno desse vírus. Para isso, os métodos sorológicos são
+desenvolvidos para detecção de anticorpos IgG e IgM ou detecção de antígenos específicos do vírus,
+alguns por ensaios imunoenzimáticos (ELISA) e imunocromatográficos (teste rápido),
+imunofluorescência (IF) e outros por quimioluminescência (CLIA).
+Atualmente, muitas empresas têm desenvolvido testes sorológicos para diagnosticar COVID-19 e estão
+apresentando seus produtos para compra no mercado. A reação cruzada com outros coronavírus pode
+ser um desafio, pois os testes sorológicos comerciais e não comerciais ainda estão em desenvolvimento.
+As pesquisas sorológicas podem ajudar na investigação de um surto em andamento e na avaliação
+retrospectiva da taxa de ataque ou extensão do epidemia em determinado território. Nos casos em que
+os testes rRT-PCR são negativos e há uma forte ligação epidemiológica à infecção por COVID-19,
+amostras de soro sequenciais (na fase aguda e convalescente) podem apoiar o diagnóstico quando os
+testes sorológicos validados estiverem disponíveis. As amostras de soro podem ser armazenadas para
+esses fins.
+A reação cruzada com outros coronavírus pode ser desafiadora, mas testes sorológicos comerciais e não
+comerciais estão atualmente em desenvolvimento. Alguns estudos com dados sorológicos do COVID-19
+em amostras clínicas foram publicados.
+Sequenciamento viral
+Apesar do sequenciamento genético ​não ser um método de diagnóstico​, ele desempenha um papel
+importante na luta contra as epidemias emergentes e re-emergentes, pois a análise dos genomas
+permite quantificar e qualificar a diversidade genética viral, reconstruindo origens da epidemia,
+estimando as taxas de transmissão, sugerindo os próximos surtos e fornecendo informações para o
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 8
+desenvolvimento de vacinas e novos medicamentos, além de permitir o melhoramento dos diagnósticos
+sorológicos e moleculares.
+O sequenciamento é uma representação genética de um determinado patógeno. Ele tem por finalidade
+determinar qual a ordem das bases nitrogenadas do patógeno alvo, as bases nitrogenadas são
+compostas por adenina (A), citosina (C), guanina (G), e timina (T) para cadeias da molécula de DNA.
+Atualmente existem duas metodologias para a realização de sequenciamento:
+● Sequenciamento Sanger denominado de Primeira Geração: Sequenciamento parcial do genoma do
+patógeno alvo.
+● Sequenciamento de Nova Geração que realiza o genoma completo do patógeno alvo, ela é dividida
+em segunda e terceira geração.
+Os dados sequenciados, por laboratórios e centros de pesquisas, são armazenados em banco de dados
+públicos como GenBank e GISAID (​Global Initiative on Sharing All Influenza Data​). Esses repositórios
+possuem acesso público e tem por finalidade auxiliar pesquisas futuras no combate a epidemias.
+No final de fevereiro de 2020, o Instituto Adolfo Lutz e o Hospital Israelita Albert Einstein iniciaram a
+publicação de sequências completas do vírus SARS-CoV-2 isolados no Brasil. Até o momento, mais de 35
+genomas completos do novo SARS-CoV-2 foram publicados. Por ser uma técnica com um custo elevado,
+seu uso tem sido preconizado nas Instituições de Pesquisa que possuem recursos humanos e
+tecnológicos altamente especializados (​Figura 3​).
+Figura 3: ​Filogenia4
+de amostras do
+Brasil publicadas no
+GISAID, mostrando a
+árvore e as relações
+entre a amostra e
+origem.
+É extremamente importante destacar que os laboratórios que realizam testes para o diagnóstico da
+COVID-19 devem atender estritamente as práticas apropriadas de biossegurança.
+O Ministério da Saúde recomenda que nenhuma amostra suspeita da COVID-19 seja desprezada na
+hipótese de haver sobrecarga de algum laboratório ou interrupção de fornecimento de insumos. Nesses
+casos, entrar em contato com a Coordenação-Geral de Laboratórios de Saúde Pública pelo e-mail:
+clinica.cglab@saude.gov.br​.
+4
+https://www.gisaid.org/epiflu-applications/next-hcov-19-app/
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 9
+Cenários para testagem segundo a OMS
+Municípios sem casos suspeitos ou confirmados
+Objetivo: ​identificar e conter possíveis cadeias de transmissão e prevenir a dispersão
+● Testar pessoas que atendam a definição de caso suspeito de Síndrome Gripal ou Síndrome
+Respiratória Aguda Grave
+● Testar um subconjunto de amostras da vigilância de Síndrome Gripal para o COVID-19
+● Testar pacientes com apresentação clínica sugestiva ou um aumento nas internações hospitalares
+em um grupo demográfico específico (maiores de 60 anos) que poderia ser compatível com a
+COVID-19
+Municípios com surtos localizados de casos importados ou relacionados
+Objetivo: ​conter as cadeias de transmissão e prevenir a dispersão
+● Testar pessoas que atendam à definição de caso suspeito de Síndrome Gripal ou Síndrome
+Respiratória Aguda Grave
+● Testar um subconjunto de amostras da vigilância de Síndrome Gripal para o COVID-19
+● Tratamento clínico de infecções respiratórias agudas graves quando houver suspeita de novo
+coronavírus.
+● Vigilância Síndromes Respiratórias (SG e SRAG) com foco em COVID-19, Influenza e outros vírus
+respiratórios.
+Municípios com transmissão comunitária
+Objetivo:​ diminuir a velocidade de transmissão, reduzir o número de casos e encerrar os surtos
+● Se a capacidade de diagnóstico for insuficiente, implemente testes e medidas priorizadas que
+possam reduzir a propagação (por exemplo, isolamento), Incluindo:
+○ pessoas que correm o risco de desenvolver doenças graves e populações vulneráveis, que
+exigirão hospitalização e cuidados avançados com o COVID-19;
+○ profissionais de saúde (incluindo serviços de emergência e equipe não clínica),
+independentemente de serem contatos de um caso confirmado (para proteger os profissionais
+de saúde e reduzir o risco de transmissão nosocomial)
+○ os primeiros indivíduos sintomáticos em um ambiente fechado (por exemplo, escolas,
+instalações de longo prazo, prisões, hospitais) para identificar rapidamente surtos e garantir
+medidas de contenção
+Na ​Tabela 2 há alguns exemplos de como otimizar os testes de acordo com a situação em cada local. A
+OMS orienta os países para monitorar a quantidade e os resultados dos testes e considerar notificar. Os
+indicadores podem incluir o número de casos de Síndrome Gripal e Síndrome Respiratória Aguda Grave
+notificados (em comparação com anos anteriores no mesmo mês/semana), o número de pacientes
+testados para COVID-19, o número de pacientes que testaram positivo para COVID-19, o número de
+suspeitos testados por 100.000 habitantes e o número de internações na UTI para o COVID-19.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 10
+Tabela 2: ​Exemplos de situações e manejo alternativo de testes se o sistema estiver sobrecarregado ou
+sem testes disponíveis.
+ID SITUAÇÃO
+ALTERNATIVAS SE O SISTEMA LABORATORIAL ESTIVER
+SOBRECARREGADO OU NÃO DISPONÍVEL
+1
+Caso suspeito leve sem fator de
+risco
+● Registrar no sistema (​https://notifica.saude.gov.br/​)
+● Realizar o isolamento segundo Guia de Vigilância
+● Coletar e armazenar amostra de secreção nasofaríngea e sangue
+para teste futuro.
+● Não realizar o teste até que tenha suprimento e tenha realizado
+os testes dos casos internados ou de unidades sentinelas
+2
+Caso suspeito que requer
+internação em estabelecimento de
+saúde, independentemente do
+nível gravidade
+● Registrar no sistema (​https://notifica.saude.gov.br/​)
+● Coletar e armazenar amostra de secreção nasofaríngea e sangue
+para teste futuro.
+● Altamente recomendado para testar.
+● Se o teste não for possível, implemente medidas de isolamento
+que evitem a transmissão hospitalar
+3
+Profissional de saúde sintomático
+identificado como um contato
+● Registrar no sistema (​https://notifica.saude.gov.br/​)
+● Coletar e armazenar amostra de secreção nasofaríngea e sangue
+para teste futuro.
+● Altamente recomendado para testar
+4
+Profissional de saúde sintomático
+sem contato conhecido com
+COVID-19
+● Registrar no sistema (​https://notifica.saude.gov.br/​)
+● Coletar e armazenar amostra de secreção nasofaríngea e sangue
+para teste futuro.
+● Em áreas com transmissão comunitária, testar
+5
+Aumento do número de casos
+suspeitos em um grupo
+demográfico específico (cluster
+potencial)
+● Registrar no sistema (​https://notifica.saude.gov.br/​)
+● Teste um subconjunto dos casos
+6
+Ambientes fechados, incluindo
+escolas, hospitais, instalações de
+vida prolongada
+● Registrar no sistema (​https://notifica.saude.gov.br/​)
+● Teste os casos iniciais. Considere todos os outros indivíduos
+sintomáticos como casos prováveis
+7
+Paciente recuperado que testou
+negativo duas vezes
+● Se recuperado clinicamente, alta após 14 dias em isolamento
+domiciliar
+● Não realizar o teste
+8
+Rastreamento de contato em áreas
+de transmissão comunitária
+● Registrar no sistema (​https://notifica.saude.gov.br/​)
+● Contatos de quarentena por 14 dias. Se sintomático, assuma que é
+o COVID-19 e aumente o tempo de quarentena.
+TESTES DISPONÍVEIS NO BRASIL
+Aquisição
+Antes de se adquirir qualquer teste é essencial que o mesmo esteja registrado na Agência Nacional de
+Vigilância Sanitária. Até o momento, foram registrados 17 testes, segundo constam nas resoluções
+publicadas no ​http://portal.anvisa.gov.br/coronavirus/regulamentos​ (​Tabela 3​).
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 11
+Tabela 3: ​Testes registrados na Anvisa até a data de 18 de abril de 2020.
+ID NOME COMERCIAL DO TESTE REGISTRADO NA ANVISA RESOLUÇÃO
+1 Teste Rápido em Cassete 2019-nCoV IgG/IgM RE 776 de 18/03/2020
+2 One Step COVID-2019 Test
+RE 777 de 18/03/2020
+3 Coronavírus Rapid Test
+4 Coronavírus IgG/IgM (COVID-19)
+5 ECO F COVID-19 Ag
+6 COVID-19 IgG/IgM ECO Teste
+7 COVID-19 Ag ECO Teste
+8 MedTest Coronavírus (COVID-19) IgG/IgM (TESTE RÁPIDO)
+9 Anti COVID-19 IgG/IgM Rapid Test RE 839 de 20/03/2020
+10 Família cobas SARS-CoV-2 RE 840 de 20/03/2020
+11 Família Kit de Detecção por PCR em Tempo Real VIASURE SARS-CoV-2 RE 841 de 20/03/2020
+12 LUMIRATEK COVID-19 (IgG/IgM)
+RE 860 de 25/03/2020
+13 MAGLUMI IgM de 2019-nCoV (CLIA)
+14 Smart Test Covid-19 Vyttra
+15 myAIRVO 2
+RE 861 de 25/03/2020
+16 FAMÍLIA KIT XGEN MASTER COVID-19 - Kit Master para Detecção do Coronavírus
+SARS-CoV-2
+17 DPP® COVID-19 IgM/IgG System
+Qualquer órgão pode adquirir qualquer um dos testes por meio de seu serviço de saúde do trabalhador
+e adotá-lo para retorno seguro ao trabalho, garantindo a assistência de profissional de saúde para
+interpretação.
+Controle de qualidade
+A realização de testes laboratoriais seguem a Resolução de Diretoria Colegiada (RDC) Nº 302, de 13 de
+outubro de 2005 que dispõe sobre Regulamento Técnico para funcionamento de Laboratórios Clínicos.
+Esse documento define os requisitos para o funcionamento dos laboratórios clínicos e postos de coleta
+laboratorial públicos ou privados que realizam atividades na área de análises clínicas, patologia clínica
+e citologia.
+Os testes adquiridos por meio de aquisição pública passam por validação dos lotes adquiridos, por
+meio do Instituto Nacional de Controle de Qualidade em Saúde da Fundação Oswaldo Cruz
+(INCQS/Fiocruz). A Validação é um procedimento que fornece evidências de que um teste apresenta
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 12
+desempenho dentro das especificações da qualidade, de maneira a fornecer resultados válidos, a fim de
+avaliar se os resultados do teste podem ser considerados confiáveis, tanto se foram positivos ou
+negativos.
+Tais informações são de extrema importância para a precisão da indicação de medidas não
+farmacológicas da COVID-19, pois um paciente com um resultado falso negativo pode sair erroneamente
+do isolamento domiciliar e disseminar o vírus, como também fazer com que profissionais de saúde
+tenham que se afastar do trabalho e deixar de atuar no combate a doença, pelo resultado falso positivo.
+Na resolução os ​Testes Laboratoriais Remotos - TLR​, realizados por meio de um equipamento
+laboratorial situado fisicamente fora da área de um laboratório clínico. Também chamado Teste
+Laboratorial Portátil -TLP, do inglês Point-of-care testing - POCT, deve estar vinculada a um laboratório
+clínico, posto de coleta ou serviço de saúde pública ambulatorial ou hospitalar. As farmácias são
+estabelecimentos de saúde, conforme dispõe a Lei 13.021/2014.
+Segundo regulamentação da Anvisa, conforme consta da RDC nº 44/2009 que dispõe sobre Boas Práticas
+Farmacêuticas para o controle sanitário do funcionamento, da dispensação e da comercialização de
+produtos e da prestação de serviços farmacêuticos em farmácias e drogarias e dá outras providências, a
+mesma não prevê a realização deste serviço nesses estabelecimentos.
+Até o momento, apenas o autoteste (produto para o acompanhamento das condições de uma doença ou
+detecção de condições específicas, com a intenção de auxiliar o paciente, porém não conclusivo para o
+diagnóstico, realizado por leigos, profissionais da área da saúde ou pelo laboratório clínico) para
+diagnóstico do HIV possui autorização na Anvisa para venda em farmácias, disposto na RDC Nº 52, de 27
+de novembro de 2015.
+ESTRATÉGIAS DO COE COVID-19 PARA AMPLIAÇÃO
+Há 33 dias, em conferência realizada no dia 16 de março de 2020, a OMS discute a escalada no
+distanciamento social e medidas como fechar escolas e cancelar eventos esportivos e outras reuniões,
+mas não observou uma escalada suficientemente urgente nos testes, isolamento e rastreamento de
+contatos.
+O Ministério da Saúde vinha seguindo a recomendação de testar os casos suspeitos independente da
+gravidade. No entanto, com a mudança recomendada pela OMS, mas sem acordar com os países para se
+preparem para o aumento de demanda, resultou em um desabastecimento significativo no mercado
+internacional de insumos. Para contextualizar a situação naquele momento, pode-se comprovar por
+meio de matérias divulgadas em vários jornais de grande circulação que publicaram o
+desabastecimento decorrente do aumento da demanda internacional promovida pela OMS e pela
+dispersão do vírus no Brasil (​Figura 4​).
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 13
+Figura 4: ​Matérias publicadas no período em que a OMS orienta a ampliação das testagens.
+Em matéria publicada no Jornal Folha de São Paulo, em 21 de março com o título “Sem insumos,
+laboratórios privados limitam exames para detectar coronavírus”, consta que todas as grandes redes
+laboratoriais ouvidas pela admitiram que o atual gargalo está na quantidade de produtos disponíveis
+para a produção dos testes.
+Segundo os mesmos, um dos problemas é a aquisição dos insumos provenientes de Estados Unidos,
+Europa e China. Exames domiciliares foram suspensos e novos pedidos médicos só são aceitos quando
+partem de unidades hospitalares credenciadas.
+Segundo a matéria, os representantes ouvidos disseram que: "O protocolo anterior [de testar todo
+mundo suspeito] sobrecarregou o sistema como um todo. ​A mudança de protocolo foi uma maneira de
+garantir o atendimento a pacientes críticos​", explicou vice-presidente e porta-voz da Rede Dasa, a maior
+empresa de medicina diagnóstica do Brasil e da América Latina, Emerson Gasparetto.
+A Abramed (Associação Brasileira de Medicina Diagnóstica), representada pela Priscilla Franklim Martins,
+diretora-executiva da entidade, disse: "Está todo mundo trabalhando no teto, no limite de realização de
+exames" e "Consumimos muito recursos (insumos) testando quem não precisava. Para gente não chegar
+ao ponto de não ter mais, o ​Ministério da Saúde acertou em alterar o protocolo nacional de
+atendimento​", afirmou Martins.
+Para dar suporte ao aumento da demanda, o COE-COVID19 estabeleceu estratégias de preparação e
+resposta, segundo as recomendações da OMS, incluindo o envolvimento de serviços de laboratórios
+privados e do setor acadêmico e, se possível, implantar laboratórios móveis com sistemas
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 14
+automatizados de testes moleculares que possam ser operados em regiões remotas e por equipe com
+treinamento mínimo.
+Desde a mudança na orientação da OMS e de acordo com a disponibilidade crescente de testes,
+fornecedores e insumos, visando atender às recomendações, o Ministério da Saúde (MS) vem
+desenvolvendo uma série de ações para implantar e ampliar o diagnóstico laboratorial da COVID-19 no
+Brasil que serão apresentadas a seguir.
+Fase 1: Implantação do diagnóstico da COVID-19 no Brasil
+A rede nacional de diagnóstico de Influenza e outros vírus respiratórios conta com três Centros
+Nacionais de Influenza (NIC, pela sigla em inglês, ​National Influenza Center​) designados pela OMS:
+Laboratório de Vírus Respiratórios e Sarampo da Fundação Oswaldo Cruz (Fiocruz/RJ), Laboratório de
+Vírus Respiratórios do Instituto Evandro Chagas da Secretaria de Vigilância em Saúde (IEC/SVS/MS),
+Centro de Virologia do Instituto Adolfo Lutz da Secretaria de Saúde do Estado de São Paulo (IAL/SES-SP)
+e 27 Laboratórios Centrais de Saúde Pública (LACEN). Os NIC são referência para os LACEN no suporte às
+análises realizadas e no diagnóstico complementar para os vírus respiratórios.
+Seguindo as recomendações da OMS, o Ministério da Saúde implantou o teste molecular da COVID-19
+nos três NIC, em 31 de janeiro de 2020, com o apoio da OPAS/OMS (Representação no Brasil e Sede). A
+capacitação dos NIC foi realizada na FIOCRUZ/RJ pelo supervisor regional de Doenças Virais da
+OPAS/OMS-Sede para os especialistas dos 3 NIC, que também doou os primeiros insumos para teste
+molecular da COVID-19 do Brasil.
+A implantação do teste molecular em três laboratórios de referência no Brasil foi um marco para a
+saúde pública, pois foi possível realizar exames desde a notificação do primeiro caso suspeito no Brasil,
+assegurando ao país a capacidade de diagnóstico oportuno naquele momento da epidemia, em que não
+havia insumos disponíveis para compra. A partir disso e dentro do seu escopo de atuação, os NIC
+passaram a atuar também como laboratórios de referência para diagnóstico de SARS-CoV-2 (​Tabela 4​).
+Tabela 4: ​Laboratórios Centrais de Saúde Pública e informações de seus respectivos Centros Nacionais
+de Influenza de Referência.
+LACEN
+Laboratórios de
+Referência/NIC
+Endereço
+Alagoas, Bahia, Espírito Santo, Minas
+Gerais, Paraná, Rio de Janeiro, Rio
+Grande do Sul, Santa Catarina e
+Sergipe
+Laboratório de Vírus Respiratórios e Sarampo do
+Instituto Oswaldo Cruz/Fundação Oswaldo Cruz
+(FIOCRUZ/RJ)
+Avenida Brasil, 4365,
+FIOCRUZ, Manguinhos, Rio
+de Janeiro/RJ
+Acre, Amazonas, Amapá, Ceará,
+Maranhão, Pará, Paraíba,
+Pernambuco, Rio Grande do Norte e
+Roraima
+Laboratório de Vírus Respiratórios do Instituto
+Evandro Chagas (IEC/SVS/MS)
+Rodovia BR-316, Km 07,
+Sem número, Bairro
+Levilândia, Ananindeua/PA
+Distrito Federal, Goiás, Mato Grosso,
+Mato Grosso do Sul, Piauí, Rondônia,
+São Paulo e Tocantins
+Laboratório de Vírus Respiratórios do Instituto
+Adolfo Lutz (IAL/SES-SP)
+Avenida Dr. Arnaldo, 355,
+Bairro Cerqueira César, São
+Paulo/SP
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 15
+A Fiocruz, Ministério da Saúde do Brasil e OPAS forneceram treinamento em diagnóstico laboratorial em
+nove países. Especialistas da Fundação Oswaldo Cruz (Fiocruz), do Ministério da Saúde do Brasil e da
+Organização Pan-Americana da Saúde (OPAS) ministraram treinamento sobre diagnóstico laboratorial
+do novo coronavírus (2019-nCoV) em fevereiro 6 e 7 para especialistas da Argentina, Bolívia, Chile,
+Colômbia, Equador, Panamá, Paraguai, Peru e Uruguai. Durante a atividade, os participantes realizaram
+um exercício prático de detecção molecular do 2019-nCoV e receberam materiais de diagnóstico
+(primers e controles positivos), além de revisar e discutir os principais testes e protocolos disponíveis
+(​Figura 5​).
+Figura 5: ​Capacitação dos Laboratórios de Referência do Brasil e América Latina na FIOCRUZ/RJ.
+Fase 2: Contra prova de exames realizados pela saúde suplementar
+A partir de 10 de fevereiro de 2020, o Ministério da Saúde passou a adotar uma segunda linha
+estratégica para diagnóstico laboratorial, por meio da inclusão da rede de laboratórios de análises
+clínicas/medicina laboratorial ligados a instituições de saúde suplementar na detecção do SARS-CoV-2.
+Para isso, os seguintes requisitos e padrões técnicos nacionais e internacionais, principalmente em
+relação aos protocolos oficiais deveriam ser adotados pelos laboratórios privados, ressaltando que o
+Laboratório Central do Estado deve estabelecer os critérios para habilitação dos laboratórios da saúde
+suplementar para a realização dos exames para detecção do SARS-CoV-2:
+● Realização da metodologia de RT-PCR em tempo real para detecção de SARS-CoV-2 pelo protocolo
+Charité/Berlim,ou outro protocolo preconizado pela OMS;
+● Cadastramento prévio do laboratório privado no LACEN de seu Estado, informando metodologia,
+responsáveis pela execução do exame, unidade de execução, insumos utilizados e outras
+informações que sejam de interesse epidemiológico nacional e/ou local;
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 16
+● Envio de alíquota da ​primeira ​amostra positiva de SARS-CoV-2 para realização de contra-prova do
+resultado no Lacen de seu Estado
+● Encaminhamento das alíquotas de amostras positivas de SARS-CoV-2 ao LACEN (em quantidade a
+ser definida por cada um) para armazenamento e constituição do Banco Nacional de amostras de
+Coronavírus, para sequenciamento genético e investigação do perfil do vírus no território nacional
+(Biobanco de SARS-COV-2).
+● Envio diário dos resultados.
+Diante da implantação de um novo sistema de notificação de casos (e-SUS VE), solicita-se que os
+LABORATÓRIOS PRIVADOS passem a informar os resultados dos exames da COVID-19, positivos e
+negativos, diariamente ou que garanta a integração de seus sistemas no barramento da RNDS/Datasus
+para: ​coe.ncov@gmail.com​ (e-mail alternativo do Centro de Operações de Emergência do Ministério da
+Saúde) ​E​ e-mail dos CIEVS estaduais
+Inicialmente, somente os laboratórios de referência realizavam a contraprova do primeiro resultado
+positivo do laboratório privado, contudo essa atividade passou a ser realizada pelo LACEN a partir do
+momento em que eles foram capacitados, receberam insumos e iniciaram a realização das análises.
+Dessa forma, solicita-se que o LACEN informe a lista atualizada dos laboratórios com contraprova
+confirmada para a Coordenação Geral de Laboratórios de Saúde Pública (CGLAB)/Departamento de
+Articulação Estratégica de Vigilância em Saúde /Secretaria de Vigilância em Saúde/MS, pelo e-mail
+clinica.cglab@saude.gov.br​.
+Até o momento, vários laboratórios PRIVADOS no Brasil tiveram contraprova confirmada pelos NIC ou
+LACEN e o resultado também é válido para seus laboratórios conveniados, desde que os exames para
+diagnóstico do SARS-CoV-2 tenham sido realizadas nas unidades centrais de análise com contraprova já
+realizada. Em locais com transmissão sustentada esse procedimento passou a ser desnecessário.
+Fase 3: Descentralização do diagnóstico laboratorial da COVID-19
+A descentralização do diagnóstico da COVID-19 para as 27 Unidades Federadas iniciou em ​12 de fevereiro
+de 2020​, com a capacitação da equipe técnica de vírus respiratórios do LACEN de Goiás. Com isso, foi
+possível analisar oportunamente as três amostras seriadas de cada repatriado da China e dos
+profissionais envolvidos na operação regresso que estavam em quarentena em Anápolis/GO. O
+Laboratório de Vírus Respiratórios e Sarampo da Fundação Oswaldo Cruz (Fiocruz/RJ), por ser o
+Laboratório de Referência Nacional para o diagnóstico de vírus respiratórios, atuou na realização do
+diagnóstico das três amostras de cada repatriado. No total, foram realizadas 140 amostras, com todos
+os resultados sendo negativos para COVID-19.
+A conclusão da descentralização do diagnóstico molecular da COVID-19 foi em 18 de março de 2020, por
+meio de capacitação presencial de profissionais dos LACEN das Secretarias Estaduais de Saúde. Dessa
+forma, todas as Unidades Federadas (UF), com exceção do Estado do Acre, passaram a não necessitar
+mais dos NIC para realização do teste molecular, reduzindo o tempo para se diagnosticar
+laboratorialmente os casos da COVID-19 nacionalmente (​Tabela 5​). Contudo, apesar do LACEN Acre não
+estar realizando o diagnóstico molecular no momento, o Estado tem recebido o suporte do Instituto
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 17
+Mérieux nas análises dos casos suspeitos da COVID-19. Entretanto, cabe ressaltar que o MS apoiará o
+Estado do Acre para iniciar a realização dos exames o mais breve possível.
+Tabela 5: ​Capacitação dos Laboratórios Centrais de Saúde Pública (LACEN) para o diagnóstico do
+SARS-CoV-2.
+LACEN Capacitação realizada por Local de capacitação
+Data da
+capacitação
+GO
+Instituto Evandro Chagas e
+FIOCRUZ/RJ
+LACEN/GO 10/02/2020
+RS Bio-Manguinhos LACEN/RS 03/03/2020
+SC, PR, BA, ES, MG, AL, SE, RJ,
+MS
+FIOCRUZ/RJ
+Laboratório de Vírus Respiratório e do
+Sarampo do Instituto Oswaldo
+Cruz/FIOCRUZ/RJ
+11/03/2020
+AM, CE, PA, PE, RR, AC, AP,
+DF, MA, MT, PB, PI, RN, RO,
+TO
+Instituto Evandro Chagas
+Laboratório de Vírus Respiratórios do
+IEC
+17-18/03/2020
+Obs: O Instituto Adolfo Lutz é Lacen e também um dos NIC e foi capacitado em 30 e 31 de janeiro de 2020.
+Paralelo ao processo de capacitação, o MS realizou a compra de insumos para realização do teste
+molecular, pela técnica de RT-qPCR, destinado a abastecer esses laboratórios e também os 3 NIC. Tais
+insumos foram adquiridos junto ao Instituto de Tecnologia em Imunobiológicos (Bio-Manguinhos) da
+Fundação Oswaldo Cruz (Fiocruz), que desenvolveu o kit COVID-19 baseado no protocolo internacional
+Charité/Berlim; e o Instituto de Biologia Molecular do Paraná (IBMP) desenvolveu o kit OneStep/
+COVID-19 baseado no protocolo CDC. Mais detalhes encontram-se no tópico “Insumos e transportes”.
+Fase 4: Ampliação da oferta de diagnóstico laboratorial no âmbito do SUS
+A ampliação da oferta de diagnóstico é parte da resposta do MS ao aumento do número de casos
+suspeitos e confirmados em território nacional e, infelizmente, com o registro dos primeiros óbitos.
+Mesmo com a descentralização para os LACEN, depara-se com a limitação da capacidade de
+processamento diária, visto que apenas 10% destes conta com métodos automatizados para a extração
+do material genético e demais etapas de processamento da metodologia de RT-qPCR. Esse fato restringe
+a capacidade instalada para aproximadamente 2 a 3 mil exames diários no país, notadamente
+insuficiente para o controle da epidemia em um país com a população acima de 200 milhões de
+habitantes, com dificuldades logísticas e de acesso. Além disso, cabe ressaltar que, devido a essas
+dificuldades, o grande tempo decorrido entre a coleta da amostra, processamento e liberação do
+resultado implica na perda da oportunidade de isolamento e, consequentemente, no aumento do
+número de comunicantes e prováveis novos infectados por caso confirmado.
+Entre as estratégias de preparação e resposta da rede pública de laboratórios, a Coordenação Geral de
+Laboratórios de Saúde Pública (CGLAB/DAEVS/SVS) e o Departamento de Doenças de Condições
+Crônicas e Infecções Sexualmente Transmissíveis (DCCI/SVS/MS) oferecem aos estados e municípios a
+possibilidade de utilizar os equipamentos que compõem a Rede Nacional de Laboratórios de Carga Viral
+do HIV e das hepatites virais B e C e também as máquinas que compõem a Rede de Teste Rápido
+Molecular para Tuberculose para diagnóstico da COVID-19. Estas redes, apesar de utilizarem
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 18
+equipamentos distintos, realizam exames por biologia molecular automatizados, seja RT-qPCR ou PCR
+em tempo real, e estão presentes em todas as capitais e em vários municípios.
+Rede nacional de laboratórios de carga viral do HIV e das hepatites virais B e C
+Os laboratórios da Rede Nacional de Quantificação da Carga Viral poderão considerar o uso dos
+equipamentos vinculados ao CT 193/2018 para realizar, de forma automatizada, a extração do RNA do
+SARS-CoV-2.
+As questões referentes ao fluxo de transporte de amostras para a rede laboratorial, para execução de
+testes para o diagnóstico da COVID-19, bem como o uso dos equipamentos da rede de carga viral e
+hepatites deverão ser definidas localmente entre o LACEN, a coordenação estadual e coordenação
+municipal, conforme disposto nos ofícios circulares Nº 13/2020/CGIST/DCCI/SVS/MS, Nº
+14/2020/CGIST/DCCI/SVS/MS.
+Com isso, para essa fase, além dos 27 laboratórios atuais, mais 82 estarão disponíveis para realização de
+RT-qPCR, somando-se uma possibilidade de alcançar um total de 107 laboratórios para o enfrentamento
+da epidemia no Brasil (​Anexo 1​).
+O compartilhamento dos equipamentos de extração automatizada não deve prejudicar o acesso de
+pessoas vivendo com HIV e portadores das hepatites virais B e C aos testes de carga viral. O
+DCCI/SVS/MS publicou o Ofício Circular Nº 8/2020/CGAHV/DCCI/SVS/MS com orientações sobre o
+cuidado das pessoas vivendo com HIV/aids no contexto da situação de emergência causada pela
+epidemia da COVID-19.
+Rede de teste rápido molecular para Tuberculose
+Com o intuito de ampliar ainda mais a oferta de diagnóstico laboratorial da COVID-19 no âmbito do
+Sistema Único de Saúde, o compartilhamento das máquinas da Rede de Teste Rápido Molecular para
+diagnóstico da Tuberculose é mais uma estratégia da Secretaria de Vigilância em Saúde.
+Atualmente, a rede possui mais de 250 máquinas distribuídas em cerca de 200 laboratórios brasileiros.
+Os equipamentos são totalmente automatizados para realização do teste rápido molecular por PCR em
+tempo real (​Anexo 2​).
+A CGLAB/DAEVS/SVS/MS iniciou, no dia 25 de março de 2020, a compra dos cartuchos destinados à
+detecção do RNA do SARS-CoV-2 para serem utilizados nas máquinas GeneXpert disponíveis na RTR-TB.
+Em breve, os laboratórios da Rede de Teste Rápido Molecular para Tuberculose poderão considerar o
+uso das máquinas para realizar, de forma automatizada, o diagnóstico da COVID-19.
+Cabe ressaltar que para cada novo exame a ser realizado pela máquina, uma nova configuração por
+meio de ​software deve ser instalada na memória da mesma, sendo que esse serviço de atualização e
+configuração é fornecido gratuitamente pelo fabricante. É importante destacar também que os atuais
+profissionais de saúde, que hoje utilizam o GeneXpert, não precisarão de treinamento operacional
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 19
+adicional para o sistema, sendo necessário apenas um treinamento para realização de novos testes, que
+poderá ser feito remotamente.
+As questões referentes ao fluxo de transporte de amostras para execução de testes para o diagnóstico
+da COVID-19, bem como o uso dos equipamentos da rede de TB deverão ser definidas localmente entre
+o LACEN e os Coordenadores dos Programas Estaduais de Tuberculose, conforme disposto no Ofício
+circular Nº 1/2020/CGLAB/DAEVS/SVS/MS.
+Ressalta-se que a escolha desses laboratórios deve ser balizada pela disponibilidade de Cabine de
+Segurança Biológica, Classe II A2, com filtro HEPA, certificada e em dia com a manutenção, conforme as
+orientações de biossegurança da OPAS/OMS.
+Apesar do grande esforço realizado pelo MS na ampliação da capacidade laboratorial e na aquisição de
+insumos, a constatação de que os recursos da vigilância laboratorial ainda estão concentrados em
+grandes centros, traz impacto relevante na oportunidade de resposta a nível nacional e, é importante
+destacar, que ainda há que se preservar a capacidade de resposta pública para a testagem laboratorial
+para outras doenças de notificação compulsória e outras atividades de vigilância.
+Para garantir que esta ampliação não afete drasticamente as rotinas e o tempo de liberação dos
+resultado dos agravos supracitados, a CGLAB/DAEVS/SVS/MS pretende adquirir, por comodato, mais ​62
+unidades de GeneXpert System-IV (4 Sites/Módulos)​. Estas máquinas serão incorporadas à rede de
+atendimento aos casos graves da COVID-19, para atender diretamente as demandas de exames dos
+hospitais de referência (​https://www.saude.gov.br/Hospitais-Coronavirus​).
+Esta aquisição irá preservar a capacidade de resposta da vigilância laboratorial das redes de
+Tuberculose e de Carga Viral do HIV e das hepatites virais B e C que, inevitavelmente, terão que
+reorganizar seus processos de trabalho.
+Instruções adicionais quanto a ampliação do diagnóstico
+É crucial que o LACEN organize a logística para contar com o apoio desses laboratórios colaboradores,
+conforme descrito nas seguintes etapas:
+● Cadastro da amostra no GAL pelo serviço de saúde solicitante
+● Fluxo de transporte de amostras dos serviços de saúde para o LACEN ou diretamente para o
+laboratório colaborador
+Etapa pré-analítica
+● Recepção e triagem da amostra
+● Preparação da alíquota
+● Organização e controle da distribuição das amostras para laboratórios colaboradores
+● Envio da alíquota para laboratórios utilizando critérios de transporte para microrganismos classe II
+● Distribuição de insumos e controle de estoque
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 20
+Etapa analítica
+● Amostras de casos suspeitos da COVID-19 com Síndrome Respiratória Aguda Grave - SRAG e amostras
+de casos suspeitos de Síndrome Gripal (SG) provenientes de unidades sentinelas de Influenza
+● Testar 100% das amostras para COVID-19 pelo teste molecular
+● Amostras negativas da COVID-19 precisam seguir o protocolo completo e ter o RNA extraído também
+testado para Influenza e outros vírus respiratórios
+● Por isso, o laboratório colaborador deve ter esse insumo ou devolver esse material para o
+laboratório de vírus respiratório do LACEN completar a análise.
+● Insumos e protocolos do RT-qPCR ou PCR em tempo real
+● Protocolo de extração do RNA do SARS-CoV-2: “HIV 200uL ”. Utilizar o estoque de kits para extração
+do RNA do programa de HIV e HCV nesse primeiro momento, até que a compra para reposição desse
+estoque e para suprir a demanda da COVID-19 seja entregue pelos fornecedores. Caso o laboratório
+não tenha esse protocolo instalado em seu equipamento, deverá solicitá-lo à empresa Abbott através
+do SAC da empresa (0800 ou e-mail).
+● Protocolo de amplificação do RNA de SARS-CoV-2: utilizar os insumos do Kit COVID-19 de
+Bio-Manguinhos ou outro fornecido pelo MS. A previsão é que a partir da segunda quinzena de abril,
+cheguem ao Brasil, os insumos importados para amplificação do RNA do SARS-CoV-2 e esses também
+serão distribuídos para os laboratórios colaboradores, conforme definição do LACEN.
+● Rotina dos programas de HIV, HCV e TB
+● Devem ser mantidos, bem como o tempo de liberação de resultado para esses agravos.
+Etapa pós analítica
+● O resultado precisa ser liberado no Sistema Gerenciador de Ambiente Laboratorial - GAL
+● Caso o laboratório colaborador não tenha acesso ao GAL, organizar uma maneira de envio dos
+resultados para o LACEN digitar
+● Organizar número de computadores e digitadores suficientes para liberar os resultados no GAL
+● Todos os kits em estoque que forem consumidos para a extração do RNA do SARS- CoV-2 deverão ser
+computados pelo laboratório e essa informação deverá ser inserida no SISLOGLAB a partir do mês de
+abril/2020 (competência 03/2020) para que seja feita a reposição desses insumos.
+Após essas definições, os laboratórios eleitos como colaboradores poderão iniciar as rotinas utilizando
+os equipamentos dos programas HIV e HCV e as máquinas da Rede TB, desde que não afete as rotinas
+de diagnóstico e o tempo de liberação de resultado para esses agravos.
+Para fazer a solicitação tanto para o kit de de Bio Manguinhos, quanto para o teste rápido molecular
+para amplificação de SARS-CoV-2, o laboratório deverá possuir acesso ao Sistema de Insumos
+Estratégicos em Saúde - SIES. Caso o laboratório não possua cadastro no sistema, deverá enviar e-mail
+para a CGLAB solicitando a Ficha de Cadastro no sistema através do: ​insumos.cglab@saude.gov.br​.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 21
+Espera-se que com essa fase, o Brasil amplie sobremaneira o número de laboratórios colaboradores
+para realizar testes moleculares da COVID-19. O resultado dessa estratégia depende das definições que
+ocorreram em cada Unidade Federada.
+É estritamente necessário avaliar as recomendações de Biossegurança laboratorial para realização de
+testes da COVID-19, quer sejam testes moleculares, sorológicos ou de outra natureza.
+Fase 5: Laboratórios de instituições públicas
+O Ministério da Saúde vem estabelecendo parcerias com laboratórios do Ministério da Agricultura,
+Pecuária e Abastecimento (MAPA), Ministério da Justiça e Segurança Pública (MJSP), Ministério da Defesa
+(MD), bem como de algumas Universidades, para realização de diagnóstico da COVID-19.
+Dessa forma, o MS recomenda que cada Secretaria Estadual de Saúde, em conjunto com o LACEN, avalie
+a necessidade de expandir o número de laboratórios para realização de diagnósticos da COVID-19. A
+partir disso, deve-se realizar prospecção de colaboração com os laboratórios apresentadas na ​Tabela 6​,
+que já demonstraram disponibilidade. Da mesma forma, deve-se explorar outras possibilidades de
+colaboração com laboratórios municipais, da Fiocruz, Institutos, Universidades, Hospitais Universitários
+e outros que possam apoiar na resposta dessa epidemia, constituindo assim uma rede de colaboração
+de laboratórios para diagnóstico da COVID-19 no âmbito estadual e municipal.
+Tabela 6: ​Laboratórios que podem colaborar com o diagnóstico da COVID-19.
+Ministério
+UF e Município
+do Laboratório
+Caracterização
+resumida para
+realizar RT-PCR em
+tempo real
+Tipo de
+amostra que
+pode
+processar
+Capacidade de
+processamento
+em 8 horas
+MAPA
+Laboratórios Federais de
+Defesa Agropecuária e
+laboratórios da Empresa
+Brasileira de Pesquisa
+Agropecuária - LFDA
+RS - Porto
+Alegre
+extração
+automatizada
+e amplificação
+amostra
+bruta
+550
+SP - Campinas
+extração
+automatizada e
+amplificação
+amostra
+bruta
+300
+MG - Pedro
+Leopoldo
+extração
+automatizada e
+amplificação
+amostra
+bruta
+300
+PE - Recife
+extração manual e
+amplificação
+amostra
+bruta
+300
+MAPA
+Empresa Brasileira de
+Pesquisa Agropecuária -
+EMBRAPA
+MS - Campo
+Grande
+extração
+automatizada e
+amplificação
+amostra
+bruta
+240
+SC - Concórdia
+extração
+automatizada e
+amplificação
+amostra
+bruta
+500
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 22
+O Ministério da Justiça disponibilizou seus laboratórios da ​Rede Integrada de Bancos de Perfis
+Genéticos​, composta por 27 laboratórios estaduais de genética forense da Polícia Civil das Secretarias
+de Segurança Pública Estaduais e, sobretudo, os laboratórios da Polícia Federal - Instituto Nacional de
+Criminalística, em Brasília/DF, e do Setor Técnico-Científico da Superintendência da PF, em Porto
+Alegre/RS - para colaborar com o diagnóstico da COVID-19.
+Ressalta-se que o MAPA e MJSP, manifestaram que além da realização do RT-PCR em tempo real, alguns
+laboratórios podem emprestar para o LACEN equipamentos ou recursos humanos capacitados .
+O Ministério da Defesa, por meio do Hospital Naval Marcílio Dias, Hospital Central do Exército, Hospital
+de Força Aérea do Galeão, localizados no Rio de Janeiro/RJ e Hospital das Forças Armadas, em
+Brasília/DF, solicitaram insumos a CGLAB para realizar testes moleculares nesses locais.
+A CGLAB possui a lista de contatos de cada um dos laboratórios citados e poderá fornecer para os
+LACEN.
+Da mesma forma que realiza com os LACEN e NIC, o Ministério da Saúde poderá disponibilizar os
+insumos moleculares para realização do RT-PCR em tempo real. Contudo, o gerenciamento desses
+insumos deverá ser feita pelo LACEN. ​Nesse momento, o MS não tem recebido todo quantitativo de
+insumos que adquiriu, por isso os insumos estão limitados aos LACEN. A medida em que essa situação
+for regularizada, a expansão será realizada.
+É extremamente importante que o LACEN avalie se o laboratório colaborador atende aos seguintes
+requisitos:
+● Gestão da qualidade e biossegurança (mais detalhes no tópico Biossegurança)
+● Recursos humanos capacitados
+● Obedecer às boas práticas laboratoriais
+● Equipamentos compatíveis para uso dos insumos moleculares de extração e amplificação utilizados
+no RT-PCR em tempo real da COVID-19
+O LACEN deve organizar uma logística para liberação dos resultados desses laboratórios no GAL, pois
+esse sistema exige que o laboratório tenha cadastro no Cadastro Nacional de Estabelecimentos de
+Saúde (CNES).
+Destaca-se a necessidade de que cada LACEN coordene o planejamento dessas parcerias, estabelecendo
+a melhor logística para recebimento, triagem, cadastro e liberação de resultados das amostras no GAL e,
+principalmente, o controle de distribuição e estoque de insumos para detecção de SARS-CoV-2. Além
+disso, deve organizar para que as amostras positivas sejam enviadas para o LACEN para composição do
+Biobanco.
+É importante que o LACEN acompanhe a realização da análise das primeiras amostras enviadas ao
+laboratório colaborador, a fim de verificar a aptidão e dirimir dúvidas.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 23
+A medida em que forem definidos os laboratórios colaboradores do SUS, no âmbito estadual e/ou
+municipal, solicita-se comunicá-los à Coordenação-Geral de Laboratórios de Saúde Pública, a fim de
+que se possa conhecer todos os laboratórios que constituirão a Rede de Colaboração de Laboratórios
+Públicos e Privados para Diagnóstico da COVID-19 (COLAB COVID-19).
+Fase 6: Parceria Público-Privada
+Diante do cenário epidemiológico atual da pandemia pela COVID-19, o Ministério da Saúde tem buscado
+incrementar as estratégias de enfrentamento a essa emergência de saúde pública. Nesse contexto, o
+planejamento da ampliação da capacidade de diagnóstico permitirá identificar o maior número de
+casos da COVID-19, incluindo possíveis assintomáticos e casos leves, promover as medidas necessárias
+para a redução do número de casos e, por consequência, mitigar o impacto no sistema de saúde
+nacional proveniente da transmissão comunitária do vírus.
+Para operacionalizar a ampliação da capacidade diagnóstica, foi discutido e encontra-se em
+desenvolvimento uma proposta de Parceria Público-Privada (PPP), na qual está prevista a preparação de
+um Núcleo Técnico Operacional (NTO) com a capacidade de processamento de até 30.000 testes/dia por
+metodologia rRT-PCR, com a utilização de equipamentos em comodato e insumos fornecidos pelo
+Ministério da Saúde, bem como a coleta das amostras, o processamento e a laudagem de exames para a
+COVID-19.
+A proposta prevê que, por meio de uma solução a ser desenvolvida pela empresa contratada, o cidadão
+poderá entrar em contato e receber uma classificação e senha de atendimento para poder dirigir-se a
+uma Unidade de Coleta de acordo com a capacidade contratada, caso atenda aos critérios de
+elegibilidade para a realização do exame definidos em conjunto pela empresa contratada e MS.
+O fluxo logístico para realização de exame da COVID-19 está ilustrado na ​Figura 6​.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 24
+Figura 6: ​Fluxo logístico dos exames COVID-19.
+A estimativa inicial é que resultados estejam disponíveis em até 96 (noventa e seis) horas após a
+realização da coleta e o relatório dos resultados serão sistematicamente encaminhados ao MS para
+análise e composição das informações referentes ao cenário epidemiológico. Assim, essa proposta
+poderá subsidiar o processo de tomada de decisão pelo Ministério da Saúde no enfrentamento do
+COVID-19. A proposta inicial de ampliação contemplará as capitais, regiões metropolitanas e municípios
+acima de 500 mil habitantes.
+AMPLIAÇÃO DA CAPACIDADE
+Diagnóstico molecular por RT-qPCR
+Em fevereiro de 2020, um acordo com a Fiocruz previu a produção de 25 mil testes para SARS-CoV-2 para
+serem utilizados nos três Centros Nacionais de Influenza.
+Ainda no início de março, com o aumento do número de casos, houve a necessidade de adequar a
+demanda para produção de testes com Bio-Manguinhos, com um aumento gradual para 50 mil testes,
+depois 100 mil testes e, por fim, 1 milhão de testes. Com a proposta da OMS de realização de testagem
+de massa, a partir de 16 de março e com a publicação da Portaria Nº 454, de 20 de março de 2020,
+declarando em todo o território nacional o estado de transmissão comunitária foi necessário ampliar a
+aquisição dos testes moleculares. Dentro deste cenário, a atual proposta do MS consiste em:
+● Fornecimento FIOCRUZ - Produção Bio-Manguinhos/IBMP - 3 milhões de testes de RT-qPCR;
+● Aquisição no mercado nacional - 10 milhões de testes de RT-qPCR;
+● Aquisição via OPAS - 10 milhões de testes de RT-qPCR
+● Doação Petrobrás - 600 mil testes de RT-qPCR;
+● Aquisição de 600 mil testes da Empresa Cepheid.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 25
+É importante destacar que o fornecimento destes quantitativos está sujeito a alterações devido a
+situação epidemiológica e a disponibilidade de insumos no mercado internacional.
+Até 13 de abril foram enviados 451,4 mil testes RT-qPCR (biologia molecular) aos Laboratórios Centrais
+de Saúde Pública (LACEN) de todo o país, além dos laboratórios de referência nacional. O quantitativo
+faz parte das aquisições já entregues ao Ministério da Saúde pela Fundação Oswaldo Cruz -
+Bio-Manguinhos/IBMP (381.952) e doação da Petrobrás (300 mil).
+Ampliação da capacidade de processamento de testes RT-PCR
+Para ampliar a capacidade laboratorial brasileira para identificar com mais agilidade casos positivos de
+pacientes sintomáticos e assintomáticos, o Ministério da Saúde, por meio de ​chamamento públic​o,
+firmou parceria pública-privada com rede de laboratórios para realização de serviço de processamento
+de amostras respiratórias de testes RT-qPCR (biologia molecular) para detecção da COVID-19. O contrato
+será emergencial e estabelece o limite de até 3 milhões de exames, com processamento diário de até 30
+mil testes em tempo real.
+Essa estratégia nacional inclui também a coleta de amostras respiratórias de pacientes em um rede de
+coleta volante em todas as capitais e em cidades acima de 500 mil habitantes. Além disso, foi criada no
+final de março de 2020, uma grande estratégia de rastreamento e monitoramento de casos de COVID-19
+por atendimento remoto com base em tecnologia de Telemedicina. Essa estratégia se chama TeleSUS e
+é formada por diversos portas de entrada remotas (chatbot na página do MS, aplicativo do Coronavírus
+do MS e telefone 136) que direcionam a pessoa para um atendimento robotizado via algoritmo clínico
+baseado nas melhores evidências científicas. Caso haja identificação de gravidade clínica, a pessoa é
+automaticamente direcionada para um atendimento remoto personalizado com técnicos de
+enfermagem, enfermeiros e médicos.
+O serviço disponibiliza prescrição e atestado de isolamento se necessário. Caso haja identificação de
+risco para SRAG, a pessoa volta a ser contatada em 1 hora para garantir que o encaminhamento ao
+serviço de urgência teve êxito. Todas as pessoas identificadas como portadoras de Síndrome ​Gripal são
+monitoradas a cada 24 ou 48 horas de acordo com sua situação pessoal de risco. Além de atendimento
+remoto por livre demanda, o TeleSUS faz rastreamento ativo da população seguindo definições prévias
+de risco baseadas no município de moradia e seu número de caso de COVID-19 e características
+pessoais de risco (idade, comorbidades, etc). Como resultado de cooperação entre o Ministério da
+Saúde e o IBGE, firmada no início de abril de 2020, a base cadastral do CADSUS e do SISAB (sistema de
+informação da atenção primária) foi extremamente qualificada. Neste momento, o MS possui dados
+individualizados e sigilosos da quase totalidade da população brasileira, incluindo seu telefone. Esses
+dados são tratados de forma anonimizada, mas permite que uma das maiores estratégias populacionais
+de rastreamento de COVID-19 para grupos de maior risco do mundo esteja em pleno andamento no
+Brasil.
+Com a aquisição de mais testes rRT-PCR, o algoritmo do TeleSUS já foi modificado para aliar o
+rastreamento clínico ao rastreamento laboratorial. Esse serviço será disponibilizado para pessoas acima
+de 60 anos e aqueles com condições clínicas de risco para desenvolvimento de complicações de
+COVID-19. Se após contato com o TeleSUS for identificado que a pessoa com risco está com sinais e
+sintomas de síndrome gripal, ela será direcionada a um posto volante de coleta de exame RT-PCR mais
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 26
+próximo de sua residência. O resultado do teste e sua conduta clínica subsequente será enviado a cada
+pessoa por dentro do próprio TeleSUS, configurando assim um atendimento completo e integral de todo
+o manejo clínico da COVID-19, desde o rastreamento populacional, passando pelo diagnóstico até o
+tratamento e medidas de prevenção e isolamento. O banco de dados gerado alimenta uma central de
+Business Intelligence que permite a tomada de decisão de políticas públicas baseada na distribuição
+espacial de casos e seus contatos.
+Teste Rápido Sorológico (Imunocromatográfico)
+O Ministério da Saúde vem divulgando sua estratégia progressiva de realização de testes sorológicos de
+detecção do SARS-Cov-2. Até o momento, já foram distribuídos pelo Ministério da Saúde 2 milhões de
+testes rápidos, com a previsão de que mais 7 milhões sejam distribuídos até o fim do mês de maio. Além
+disso, está prevista a abertura de chamamento público para a compra de mais 12 milhões de testes
+rápidos a serem distribuídos a estados e municípios. Um quantitativo de reserva de cerca de 1 milhão de
+testes ficará sob a guarda do Ministério da Saúde, para enfrentar possíveis situações de emergência,
+sendo disponibilizado em situações de necessidade extraordinária. Além disso, 200 mil testes serão
+disponibilizados para fins de pesquisa, com intuito de embasar as decisões de políticas públicas em
+evidências concretas da distribuição da COVID-19 no Brasil. A lista de distribuição de testes está
+disponível em​ ​https://covid.saude.gov.br/
+Como a maior oferta de testes aos estados e municípios, o Ministério da Saúde recomenda que
+profissionais de saúde e segurança pública, idosos, portadores de condições de risco para complicações
+da COVID-19 e a população economicamente ativa também sejam progressivamente incluídos na rotina
+de testagem. São condições clínicas de risco para desenvolvimento de complicações de COVID-19:
+● Cardiopatias graves ou descompensados (insuficiência cardíaca, infartados, revascularizados,
+arritmias);
+● Pneumopatias graves ou descompensados (asma moderada/grave, DPOC);
+● Imunodepressão por qualquer causa;
+● Doença renal crônica em estágio avançado (graus 3, 4 e 5);
+● Diabetes mellitus, conforme juízo clínico; e
+● Gestação de alto risco.
+Outras condições de saúde que porventura venham a ser incluídas nessa lista também integrarão
+automaticamente a rotina de testagem.
+Por população economicamente ativa, e com objetivo de ser o mais abrangente possível na rotina de
+testagem, entende-se todos os indivíduos com idade entre 15 e 59 anos.
+Sobre o teste rápido
+O teste rápido disponibilizado pelo Ministério da Saúde, nesse momento, é denominado SARS-CoV-2
+Antibody test®, da fabricante Guangzhou Wondfo Biotech Co. LTDA., e detecta anticorpos IgM/IgG contra
+SARS-CoV-2. Esse teste foi analisado pelo Instituto Nacional de Controle de Qualidade em Saúde
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 27
+(INCQS), da Fiocruz, e obteve parecer satisfatório. No Brasil, a representante legal da fabricante é a
+empresa Celer Biotecnologia S/A., que disponibiliza o mesmo teste nacionalmente com o nome ONE
+STEP COVID-2019 TEST®.
+Esse teste utiliza amostras de sangue capilar ou venoso. Para a coleta de sangue capilar, recomenda-se
+a utilização de lancetas disponíveis nos serviços de saúde.A execução e leitura dos resultados devem
+ser realizadas por profissionais da saúde de nível médio, com supervisão, e/ou de nível superior. O
+resultado é verificado após 15 minutos da realização do teste, conforme descrito na bula do produto, e
+verificável no vídeo de treinamento.
+Por se tratar de teste de detecção de anticorpos, é necessário que ele seja realizado após o sétimo dia
+do início dos sintomas.
+O ONE STEP COVID-2019 TEST® apresenta 86% de sensibilidade, e 99% de especificidade, se aplicado da
+maneira e no prazo correto. O resultado do teste isoladamente não confirma nem exclui completamente
+o diagnóstico de COVID-19. Contudo, em conjunto com as informações clínico-epidemiológicas, é
+possível que o resultado do teste seja utilizado para qualificar a decisão dos profissionais.
+Resultado do teste
+No caso da população portadora de condições clínicas de risco, o resultado do teste negativo reduz a
+chance de que a pessoa esteja infectada pelo SARS-CoV-2. Contudo, é necessário manter
+acompanhamento clínico próximo. A recomendação do Ministério da Saúde é que pessoas com
+condições de risco sejam acompanhadas, preferencialmente pelo telefone, a cada 24h, até completar 14
+dias do início dos sintomas. O Ministério realiza isto de forma automatizada por meio do TeleSUS. Assim,
+reforçamos que todos os pacientes com diagnóstico de Síndrome Gripal liguem para o 136 a fim de
+serem monitorados. Ao sinal de piora do quadro clínico, é necessária avaliação presencial imediata,
+para que seja tomada intervenção apropriada em tempo oportuno.
+No caso da população economicamente ativa, sem condições de risco, mesmo com o resultado negativo
+do teste, sugere-se a manutenção do isolamento domiciliar até o limite de 14 dias após o início dos
+sintomas.
+O resultado do teste positivo, tanto para portadores de condições crônicas como para a população
+economicamente ativa, indica a presença de anticorpos contra o SARS-CoV-2, o que significa que houve
+exposição ao vírus, não sendo possível definir apenas pelo resultado do teste se há ou não infecção
+ativa no momento da testagem. Ao resultado do teste é imprescindível a identificação de sinais e
+sintomas de Síndrome Gripal e o juízo clínico subsequente.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 28
+Notificação
+O registro do resultado individual, em todos os testes rápidos, fornece informações para a gestão e a
+tomada de decisões em saúde pública. Para isso, é IMPRESCINDÍVEL notificar o caso suspeito de
+Síndrome Gripal no sistema e-SUS VE (https://notifica.saude.gov.br) e informar o resultado do teste no
+campo específico. Reforça-se a importância de se registrar tanto o caso o classificado como positivo,
+quanto o negativo, para o provimento de informações essenciais para o monitoramento da epidemia no
+Brasil.
+Distribuição
+O Ministério da Saúde oferece o teste sorológico para toda a população que apresentar quadro de
+síndrome gripal e pertencer a uma das seguintes categorias:
+● ​profissionais de saúde e segurança em atividade;
+● pessoa que resida no mesmo domicílio de um profissional de saúde ou segurança em atividade;
+● pessoas com idade igual ou superior a 60 anos;
+● portadores de condições de saúde crônicas, e
+● população economicamente ativa.
+Tal política de testagem permitirá a identificação dos casos confirmados de COVID-19 com aquisição de
+imunidade, permitindo o estabelecimento do isolamento com maior precisão, bem como o retorno as
+atividades com maior segurança. Em qualquer caso e como medida indiscriminada, o Ministério da
+Saúde reforça a necessidade dos cuidados de higiene respiratória e distanciamento social.
+O Ministério da Saúde reforça o pedido de apoio aos Estados, Distrito Federal e Municípios, para a
+adequada e correta oferta e uso dos testes rápidos disponibilizados, a fim de garantir o maior benefício
+populacional, segurança terapêutica e papel epidemiológico.
+Os serviços de saúde que oferecerem os testes são responsáveis pela realização do mesmo em qualquer
+pessoa originária do município em questão, dentro das indicações e prioridades recomendadas pelo
+Ministério da Saúde. No caso de profissionais de saúde ou segurança pública em atividade, a oferta do
+exame não é restrita a esfera de gestão do serviço no qual o exame está sendo oferecido. Ou seja, os
+testes devem ser oferecidos a todos os profissionais das esferas municipais, estadual, federal ou
+contratualizados, em atividade na assistência ou na gestão, desde que residentes ou empregados no
+município.
+COLAB COVID-19: Rede de Colaboração de Laboratórios Públicos e Privados para
+COVID-19
+A medida em que as fases descritas anteriormente estiverem em operação, o Brasil contará com uma
+Rede de Colaboração de Laboratórios Públicos e Privados para Diagnóstico da COVID-19 (COLAB
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 29
+COVID-19) (​Figura 7​). Ressalta-se que essa rede precisa ser guiada por critérios de biossegurança, pois o
+SARS-CoV-2 é um vírus classificado como biossegurança classe 2.
+Figura 7: ​Rede COLAB COVID-19.
+Balanço total de testes em aquisição/doação entre Janeiro/2020 e 16/04/2020:
+● RT-PCR em tempo real: 24.200.000 testes/reações
+● Teste rápido sorológico: 5.000.000 testes
+Das aquisições previstas pelo Ministério da Saúde, visando atingir um total de 30,2 milhões de testes
+moleculares e sorológicos. Deste montante, já foram entregues 2.081.120 de testes rápidos somados aos
+, equivalente a 4% do total (​Tabela 7​). A Fiocruz realizou revisão da programação de entregas (​Anexo 6​)
+Tabela 7: ​Processos de aquisição/doação em andamento - Quantitativo e execução.
+TIPO DE
+TESTE
+OBJETIVO
+Modalidade de
+Aquisição/
+Fornecedor
+TOTAL
+programado
+Executado Saldo a receber
+RT-qPCR
+Amplificaçã
+o RNA
+Diagnosticar casos
+graves internados e
+casos leves em
+unidades sentinela
+para monitoramento
+da epidemia
+FIOCRUZ -
+Bio-Manguinhos IBMP
+3.000.000 381.952 (12,7%) 2.618.048 (87,3%)
+Doação Petrobrás 600.000 300.000 (50%) 300.000 (50%)
+Aquisição OPAS 10.000.000 Em andamento 10.000.000 (100%)
+Aquisição DLOG 10.000.000 Em andamento 10.000.000 (100%)
+RT-qPCR
+Extração
+RNA
+Aquisição DLOG 24.000.000 Em andamento 24.000.000 (100%)
+TOTAL - RT-PCR em tempo real 24.000.000 681.952 22.918.048 (95%)
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 30
+Teste
+Rápido
+Molecular
+Diagnosticar casos
+graves internados e
+casos leves em
+unidades sentinela
+para monitoramento
+Cepheid 600.000 Em andamento 600.000 (100%)
+TOTAL - teste rápido molecular 600.000 zero 600.000 (100%)
+TESTE
+RÁPIDO
+Teste de
+trabalhadores da
+saúde e segurança,
+idosos, doentes
+crônicos e população
+economicamente
+ativa.
+Doação Vale 5.000.000 500.000 (10%) 4.500.000 (90%)
+TESTE
+RÁPIDO
+Teste de
+trabalhadores da
+saúde e segurança,
+idosos, doentes
+crônicos e população
+economicamente
+ativa.
+Chamamento público
+emergencial
+12.000.000 1.000.000 (8%) 11.000.000 (90%)
+TOTAL - Teste rápido 22.000.000 2.000.000 (9%) 20.000.000 (91%)
+TOTAL geral 29.600.000 1.181.952 27.418.048 (93%)
+A distribuição dos testes moleculares está ocorrendo na medida em que os laboratórios estão se
+estruturando para atender a demanda de diagnóstico para COVID-19 e a capacidade de fabricação dos
+testes é ampliada pelos fornecedores. Nos dados recentes, o quantitativo distribuído é relativamente
+maior quando comparado aos dados das primeiras semanas de março (​Figura 8​).
+Figura 8: ​Número de reações distribuídas aos laboratórios por data de entrega. Brasil, 20/02 a
+16/04/2020.
+Fonte: Núcleo de Logística - CGLAB/DAEVS/SVS/MS. Dados atualizados em 16 de abril de 2020 às 17h, sujeitos a revisões.
+Os três Centros Nacionais de Influenza foram os primeiros locais a receber os testes moleculares,
+seguidos dos LACEN. O Estado do Rio de Janeiro (Fiocruz e LACEN), São Paulo e Minas Gerais, até o
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 31
+momento, foram os que receberam o maior quantitativo de reações, segundo o Sistema de Insumos
+Estratégicos em Saúde (SIES) (​Figura 9​).
+Figura 9: ​Grade de distribuição de reações* por Unidade Federada. Brasil, 20/02 a 15/04/2020.
+* Entregas em Trânsito
+Fonte: Núcleo de Logística - CGLAB/DAEVS/SVS/MS. Dados atualizados em 15 de abril de 2020 às 17h, sujeitos a revisões.
+Quando é feita a ampliação da análise para verificar o status “Não realizado”, nota-se que apenas 7.637
+(25%) dessas amostras possuem registro no sistema GAL de “Não conformidade”. A maioria, 22.520 (75%),
+não há registro sobre o motivo/justificativa do exame não ter sido realizado, sendo assim, pode-se
+inferir que o exames tenha sido positivado por outra metodologia ou agravo. Dentre as UF com exames
+“Não realizados”, São Paulo seguido do Rio de Janeiro são os que apresentam a maior quantidade de
+“Não conformidade” (​Figura 10​).
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 32
+Figura 10:​ Situação de Exames com suspeita para COVID-19, por UF, 2020.
+Realizadas = Exames Liberados; ​Em análise = Exames sendo processados no laboratório; ​Aguardando Triagem = Exames em trânsito para o laboratório; ​Não
+realizado​ = Exames que não foram executados por não conformidades.
+Fonte: Núcleo de Tecnologia da Informação - CGLAB/DAEVS/SVS/MS. Dados atualizados em 16 de abril de 2020 às 17h, sujeitos a revisões.
+Dessas amostras que possuem registro no sistema GAL sobre “Não conformidade”, a maioria dos
+motivos são voltados para a requisição, seja por amostras discordantes com a requisição ou por
+problemas na própria requisição como a falta de informações sobre o paciente, coleta e amostra.
+Como esperado, houve um aumento gradativo da demanda de realização de exames com suspeita de
+COVID-19 isso em função do número de casos suspeitos e o estabelecimento da transmissão
+comunitária em território nacional. Além disso, com o aumento da capacidade de fabricação e
+distribuição dos testes, o quantitativo de exames realizados é relativamente maior quando comparado
+aos dados das primeiras semanas de março (​Figura 11​).
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 33
+Figura 11: ​Nº de Exames Realizados com suspeita para COVID-19, segundo GAL, por dia, fev. a abr. 2020,
+Brasil.
+Fonte: Núcleo de Tecnologia da Informação - CGLAB/DAEVS/SVS/MS. Dados atualizados em 16 de abril de 2020 às 17h, sujeitos a revisões.
+BIOSSEGURANÇA LABORATORIAL PARA COVID-19
+Para realização dos testes diagnósticos para COVID-19, é extremamente importante que siga os cuidados
+de biossegurança. Conforme última publicação da OMS de 19 de março de 2020, as orientações de
+biossegurança laboratorial da COVID-19 consistem em:
+● Cada laboratório deve realizar uma avaliação de risco para assegurar que esteja qualificado para
+realizar os testes pretendidos, empregando medidas de controle de riscos apropriadas, sendo
+realizados somente por profissionais com qualificação demonstrada, aplicando-se rigorosamente
+todos os protocolos pertinentes, em todas as situações.
+● Ao manipular e processar amostras, incluindo sangue para exames sorológicos, devem-se seguir as
+práticas e procedimentos laboratoriais que são básicos para as boas práticas e procedimentos para
+laboratórios de microbiologia.
+● A manipulação e o processamento de amostras de casos suspeitos ou confirmados de infecção pelo
+COVID-19 enviadas para exames laboratoriais adicionais, como hemograma e gasometria, devem
+cumprir as diretrizes locais de processamento de material potencialmente infeccioso.
+● O processamento inicial (antes da inativação do vírus) de todas as amostras, inclusive aquelas para
+sequenciamento genético, deve ocorrer em uma cabine de segurança biológica (CSB), classe II,
+validada e em boas condições de manutenção, ou em equipamento de contenção primária.
+● O trabalho laboratorial de diagnóstico não-propagativo, incluindo sequenciamento genético de
+amostras clínicas de pacientes com suspeita ou confirmação de infecção pelo COVID-19, deve deve
+ser realizado em um local com procedimentos equivalentes ao Nível de Biossegurança (NB2).
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 34
+● O trabalho propagativo ​que requer a manipulação de materiais com altas concentrações de vírus
+vivo ou grandes volumes de materiais infecciosos (por exemplo, culturas virais, isolamento viral ou
+testes de neutralização) deve ser realizado apenas por profissionais devidamente treinados e
+qualificados, em laboratórios equipados para cumprir requisitos e práticas essenciais de contenção
+adicionais, com fluxo de ar direcional para dentro do recinto, ou seja, nível de biossegurança III,
+NB3.
+● Devem ser usados desinfetantes apropriados, com eficácia contra vírus envelopados (por exemplo,
+hipoclorito [água sanitária], álcool, peróxido de hidrogênio, compostos de amônia quaternário e
+compostos fenólicos), durante o tempo de contato recomendado, na diluição correta e dentro da
+validade definida após o preparo da solução de trabalho.
+● Todos os procedimentos técnicos devem ser realizados de modo a minimizar a geração de aerossóis
+e gotículas.
+● Amostras de casos suspeitos ou confirmados devem ser transportadas como UN3373 Substância
+biológica Categoria B. Culturas ou isolados virais devem ser transportados como Categoria A
+UN2814, substância infecciosa que afeta seres humanos.
+● Os equipamentos de proteção individual (EPI) apropriados, conforme determinado pela avaliação
+de risco detalhada, devem ser usados pelos funcionários do laboratório que tenham contato com
+essas amostras, são eles: Gorro descartável; ​Óculos de proteção ou protetor facial; Máscara do tipo
+N95, FFP2 ou equivalente; Avental de mangas compridas; e Luva de procedimento e calçados
+fechados​(2).
+O documento completo da OMS sobre biossegurança está disponível no endereço eletrônico:
+https://who.int/Laboratory biosafety guidance related to coronavirus disease (COVID-19)
+Orientações gerais sobre coleta de amostras
+Segundo a Sociedade Brasileira de Patologia Clínica/Medicina Laboratorial, para a detecção do vírus
+SARS-CoV-2 por RT-PCR em tempo real, a coleta de amostras deve ser realizada quando o paciente está
+na fase aguda da infecção, preferencialmente do 3º ao 7º dia após o início dos sintomas, podendo ser
+realizada até o 10º dia (8).
+No Guia de Vigilância Epidemiológica (4) para Infecção Humana pela COVID-19, constam as orientações
+detalhadas sobre:
+● Biossegurança para coleta de amostras
+● Técnica para a coleta e acondicionamento das amostras
+● Acondicionamento, transporte e envio de amostras para diagnóstico
+No âmbito da vigilância em saúde, a indicação de coleta de amostras está diretamente relacionada à
+existência de métodos diagnósticos eficientes, capacidade laboratorial, insumos, equipamentos,
+biossegurança, profissionais capacitados e em quantidade suficiente para realizar o processamento das
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 35
+amostras e cenário epidemiológico. No momento, o Brasil conta com insumos para realização de RT-PCR
+em tempo real para SARS-CoV-2 de:
+● Casos de SRAG hospitalizados (100%)
+● Casos de Síndrome Gripal(4) das unidades sentinelas de Influenza (5 amostras por semana)
+● Casos de Síndrome Gripal entre profissionais de saúde que estejam atuando em serviços de saúde e
+que tenham tido contato com pacientes de municípios com casos confirmados da COVID-19.
+Destaca-se que o fluxo de coleta de amostras em unidades sentinela de Síndrome Gripal permanece
+inalterado.
+Tabela 8: ​Orientações para coleta de amostras clínicas e realização de testes moleculares da COVID-19.
+UNIDADE SENTINELA
+DE SÍNDROME
+GRIPAL
+OUTROS SERVIÇOS DE SAÚDE
+SÍNDROME GRIPAL SRAG
+População em geral
+Profissionais de saúde em
+serviços de saúde em
+municípios com casos
+confirmados de COVID-19
+Qualquer pessoa com SRAG
+e que esteja hospitalizado
+ou óbito por SRAG
+Coletar 5 amostras
+por semana por
+unidade sentinela
+Nesse momento,
+devido a
+disponibilidade de
+insumos no país para
+realização de teste
+moleculares, não é
+indicada a coleta para
+pesquisa de
+SARS-CoV-2 por
+RT-PCR em tempo real
+Coletar 100% dos casos Coletar 100% dos casos
+Pesquisa de
+SARS-CoV-2 e
+Influenza e outros
+vírus respiratórios
+por RT-PCR em
+tempo real
+Pesquisa de SARS-CoV-2
+por RT-PCR em tempo real
+1. Pesquisa de SARS-CoV-2.
+2. Casos negativos de
+SARS-CoV-2:
+a) pesquisar Influenza e
+outros vírus respiratórios
+por RT-PCR em tempo real
+A medida que regularizar a entrega de insumos adquiridos e a distribuição destes para os laboratórios,
+bem como a inclusão dos laboratórios colaboradores com mais equipamentos operantes, será
+recomendada a inclusão de outros grupos para ter amostra coletada e exames realizados por RT-PCR
+em tempo real.
+A Portaria Nº 454, de 20 de março de 2020 declara, em todo o território nacional, o estado de
+transmissão comunitária do coronavírus (COVID-19). Uma vez instalada a transmissão comunitária, é
+esperado um crescimento exponencial da necessidade de testagem e as ações para mitigar as possíveis
+restrições ao acesso ao diagnóstico devem ser antecipadas como parte do planejamento da resposta
+epidemiológica. Dessa forma, em paralelo às intervenções não farmacológicas implementadas pelo
+Ministério da Saúde, a necessidade da testagem laboratorial em larga escala é fundamental para
+diminuir a transmissão comunitária e preservar o funcionamento adequado dos serviços de saúde.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 36
+FLUXOS LABORATORIAIS
+Diagnóstico de vírus respiratórios
+Uma vez chegando a amostra no LACEN, deve-se realizar primeiramente a análise para COVID-19 por
+RT-PCR em tempo real ou outro método molecular.
+Contudo, o LACEN deve manter a rotina da vigilância de Influenza e outros vírus respiratórios para casos
+suspeitos de Síndrome Respiratória Aguda Grave e casos suspeitos de Síndrome Gripal provenientes das
+unidades sentinelas de Influenza, conforme orientação do Guia de Vigilância Epidemiológico da
+COVID-19(4). A identificação dessas amostras deve ser pactuada com a vigilância epidemiológica e
+serviços de saúde, bem como estar devidamente cadastradas no GAL.
+Dessa forma, o LACEN deve realizar o processamento das amostras de acordo com o seguinte fluxo
+(​Figura 12​):
+● Realizar a RT-PCR em tempo real ou outro método molecular para pesquisa de SARS-CoV-2.
+○ Se o resultado para detecção de SARS-CoV-2 for ​POSITIVO​, não é necessário continuar a análise;
+○ Se o resultado para detecção de SARS-CoV-2 for ​NEGATIVO​, realizar o RT-qPCR para o
+diagnóstico de influenza e outros vírus respiratórios SOMENTE se as amostras forem de casos
+de SRAG ou de SG de pacientes de unidade sentinela.
+● Amostras inconclusivas para SARS-CoV-2 ou de resultado de Influenza A não subtipada, devem ser
+encaminhadas aos NIC de referência do LACEN para confirmação por exames complementares.
+Figura 12: ​Fluxo de processamento laboratorial para diagnóstico de SARS-CoV-2, Influenza e outros vírus
+respiratórios.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 37
+Resultados laboratoriais
+Para agilizar o envio e recebimento das amostras e o retorno dos resultados, os laboratórios deverão
+utilizar o Gerenciador de Ambiente Laboratorial (GAL), conforme rotina já estabelecida. Contudo,
+solicita-se prioridade para essa etapa, por se tratar de informações preciosas, seja para gestão
+laboratorial quanto para vigilância que terá acesso aos dados epidemiológicos os quais irão permitir
+ações de saúde pública mais assertivas.
+Os Centros Nacionais de Influenza e os LACEN devem:
+● Inserir os resultados no GAL, conforme rotina.
+● Inserir e acompanhar os resultados no ​https://notifica.saude.gov.br/
+● Enviar, duas vezes por semana, a lista com todos os Estabelecimento da saúde suplementar que
+tiveram o resultado validado pelo e-mail ​coe@saude.gov.br com cópia para
+clinica.cglab@saude.gov.br​.
+INSUMOS E TRANSPORTE DE AMOSTRAS
+Pesquisa de Produtos - Mercado Nacional e Internacional
+Devido a necessidade premente de se ampliar a oferta de insumos para diagnóstico da COVID-19 e da
+crescente disponibilidade de reagentes laboratoriais no mercado, a Coordenação Geral de Análise das
+Contratações de Insumos Estratégicos para Saúde, por solicitação da SVS, publicou, em 17 de março de
+2020, o Aviso de Chamamento Público destinado a receber informações dos produtos diagnósticos
+disponíveis no mercado nacional e internacional(3).
+O chamamento finalizou no dia 19 de março e foram recebidas informações preliminares referentes a
+diversos produtos, sendo 46 relacionados ao diagnóstico da COVID-19, com metodologia de
+imunocromatografia, quimioluminescência e biologia molecular (RT-qPCR).
+Avaliação de qualidade
+Considerando o grande número de produtos cujas informações foram recebidas através do Aviso de
+Chamamento Público e a necessidade de se verificar a performance dos kits registrados junto à ANVISA,
+as respectivas empresas foram convocadas para fornecer amostras de lotes para análise de qualidade
+pelo Instituto Nacional de Controle de Qualidade e Saúde (INCQS), a fim de verificar se os produtos para
+diagnóstico apresentados atendem às Resoluções da Anvisa e aos padrões de qualidade estabelecidos
+pelas OMS (​Anexo 3​). Essa medida também tem a finalidade de orientar aos Estados e Municípios quanto
+a qualidade dos produtos disponíveis para esse diagnóstico. Recomenda-se aos Estados e Municípios
+que as aquisições desses insumos, principalmente pelo setor público, sejam realizadas após a
+publicação da avaliação pelo INCQS.
+O Ministério da Saúde, a Agência Nacional de Vigilância Sanitária (Anvisa) e Instituto Nacional de
+Controle de Qualidade e Saúde (INCQS) da Fiocruz/RJ, além da Associação Brasileira de Medicina
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 38
+Laboratorial (ABRAMED), a Câmara Brasileira de Diagnóstico Laboratorial (CBDL), a Sociedade Brasileira
+de Análises Clínicas (SBAC), Sociedade Brasileira de Patologia Clínica e Medicina Laboratorial (SBPC/ML)
+e Universidades se organizaram para realizar a avaliação das diferentes tecnologias diagnósticas
+disponíveis no mercado brasileiro, como: testes rápidos - imunocromatográficos, POCT (Point of Care),
+testes sorológicos - ELISA, fluorimetria e RT-PCR.
+A avaliação de qualidade possibilita gerar informações relevantes, seja para o acesso a terapias
+precoces e eficazes quanto a dados epidemiológicos que permitem ações de saúde pública mais
+assertivas.
+Atualmente, com base nas evidências atuais, a Organização Mundial da Saúde (OMS) recomenda o uso
+dos testes rápidos - imunocromatográfico apenas em ambientes de pesquisa, ou seja, não devem ser
+utilizados ​​em nenhum outro ambiente, inclusive na tomada de decisões clínicas, até que evidências que
+apoiam o uso de indicações específicas estejam disponíveis. A OMS continuará a avaliar os testes
+imunocromatográficos disponíveis para a COVID-19 e o MS aguardará novas atualizações(6).
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 39
+ANEXOS
+Anexo 1: Locais (estado e município) onde estão localizados os laboratórios que
+podem realizar, no âmbito do SUS, testes moleculares para COVID-19.
+UF
+LACEN
+Outros laboratórios do SUS que realizam carga viral de HIV e HCV
+e que podem colaborar com o teste molecular da COVID-19
+Total
+Vírus
+respiratórios
+(extração
+manual)
+Carga viral de HIV,
+HCV com extração e
+amplificação
+automatizada
+AC 1 1 - 1
+AL 1 1 - 2
+AM 1 1 - 2
+AP 1 1 - 1
+BA 1 1
+(2 equipamentos)
+● Hospital Universitário Professor Edgar Santos/Universidade
+Federal da Bahia
+● Laboratório Central de Vitória da Conquista
+4
+CE 1 1 ● Laboratório Central de Saúde Pública de Juazeiro do Norte 3
+DF 1 1 - 2
+ES 1 1 - 2
+GO 1 1 - 2
+MA - 1 ● Laboratório de Imperatriz do Maranhão 2
+MG 1 1
+(2 equipamentos)
+● laboratório Central da DSSDA/Juiz de Fora
+● Laboratório de Imunologia e Biologia Molecular DIP/UFMG
+● Laboratório Macrorregional de Saúde de Uberaba
+● Hospital Eduardo de Menezes
+6
+MS 1 1 - 2
+MT 1 1 - 2
+PA 1 1 ● Laboratório de Virologia/Universidade Federal do Pará 3
+PA/IEC - - ● Laboratório de Vírus Respiratórios/IEC
+● Laboratório de Hepatologia/IEC
+2
+PB 1 1 - 1
+PE 1 1 ● Laboratório Municipal do Recife 3
+PI 1 1 - 2
+PR 1 1 ● Hospital Universitário de Londrina
+● Laboratório Central de Saúde Pública/Unidade de Fronteira
+de Foz do Iguaçu
+● Laboratório Municipal de Curitiba
+● Universidade Estadual de Maringá/LEPAC
+6
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 40
+RJ 1 1
+(2 equipamentos)
+● Fundação Municipal de Saúde de Campos dos
+Goytacazes/Laboratório Regional
+● Hospital dos Servidores do Estado do Rio de Janeiro/HSERJ
+● Hospital Geral de Nova Iguaçu
+● Hospital Universitário Clementino Fraga Filho/HUCFF/UFRJ
+● Hospital Universitário Gaffrée e Guinle
+● Hospital Universitário Pedro Ernesto/HUPE/ UERJ
+● Laboratório Municipal Miguelote Viana
+9
+RJ/ FIOCRUZ - - ● Laboratório de Vírus Respiratórios e Sarampo/IOC/Fiocruz
+● Instituto de Pesquisas Clínicas Evandro Chagas (Fiocruz)
+2
+RN 1 1 - 2
+RO 1 1 - 2
+RR 1 1 - 2
+RS 1 1
+(2 equipamentos)
+● Hospital das Clínicas de Porto Alegre
+● Hospital Universitário de Santa Maria - Laboratório de
+Análises Clínicas
+● Laboratório Central de Saúde Pública do Município de Porto
+Alegre (PA Cruzeiro do Sul)
+● Laboratório de Análises Clínicas e Toxicológicas/ Fac.
+Farmácia
+● Laboratório do Hospital Nossa Senhora da Conceição
+● Laboratório Municipal da Prefeitura de Caxias do Sul (Central
+Exames Complementares)
+● Laboratório Municipal Especializado de São Leopoldo
+● Universidade Federal do Pampa / Prefeitura Municipal de
+Uruguaiana
+● Universidade Federal do Rio Grande (HU Miguel Riet Correa
+Jr)
+11
+SC 1 1 ● Hospital Universitário da Universidade de Santa
+Catarina/Laboratório de Análises Clínicas
+● Laboratório Municipal de Análises Clínicas e Ambientais de
+Chapecó
+● Laboratório Municipal de Itajaí
+● Laboratório Municipal de Joinville
+6
+SE 1 1 - 2
+SP 1 1
+(3 equipamentos)
+● Centro de Referência e Tratamento em DST/AIDS de São
+Paulo
+● Escola Paulista de Medicina/Laboratório de Retrovirologia e
+Imunologia
+● Hospital das Clínicas/Hemocentro de Botucatu/UNESP
+● Hospital das Clínicas da Faculdade de Medicina de Ribeirão
+Preto/USP
+● Hospital de Clínicas de Campinas/ UNICAMP
+● Hospital das Clínicas de São Paulo/FMUSP/LAB.
+CENTRAL-Biologia Molecular
+● Instituto Adolfo Lutz de Marília
+● Instituto Adolfo Lutz de Presidente Prudente
+● Instituto Adolfo Lutz de Rio Claro
+● Instituto Adolfo Lutz de Santo André
+● Instituto Adolfo Lutz de Santos
+● Instituto Adolfo Lutz de São José do Rio Preto
+● Instituto Adolfo Lutz de Sorocaba
+● Instituto Adolfo Lutz de Taubaté
+● Instituto de Infectologia Emílio Ribas
+● Laboratório de Imunologia Clínica e Biologia
+Molecular/FCF/UNESP/Araraquara
+● Laboratório de Saúde Pública Lapa
+● Laboratório de Saúde Pública Nossa Senhora do Ó
+● Laboratório Municipal da Região Sudeste
+21
+TO 1 1 - 2
+TOTAL 27 33 (27 novos) 57 (55 novos) (82 novos)
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 41
+Anexo 2: Laboratórios (estaduais e municipais) que possuem máquinas
+automatizadas que podem realizar, no âmbito do SUS, testes rápidos moleculares
+para COVID-19.
+UF Municípios Laboratórios do SUS que realizam teste rápido molecular para tuberculose
+que podem colaborar com o teste molecular da COVID-19
+Nº de
+máquinas
+AC Cruzeiro do Sul Centro de Diagnóstico Edison Mesquita de Magalhães - Lab. Municipal de
+Análises Clínicas
+1
+Rio Branco Centro de Apoio Diagnóstico e Imagem da Secretaria Municipal de Saúde de Rio
+Branco
+1
+Laboratório Central de Saúde Pública do Acre - LACEN 1
+AL Arapiraca CRIA - Unidade Especializada Centro de Diagnóstico 1
+Maceió Laboratório Central de Saúde Pública de Alagoas - LACEN 1
+Laboratório de Diagnóstico Pesquisas e Controle 1
+AM Manaus Fundação de Medicina Tropical Doutor Heitor Vieira Dourado 1
+Hospital Pronto Socorro 28 de Agosto 1
+Laboratório Central de Saúde Pública do Amazonas - LACEN 1
+Laboratório Distrital Leste 1
+Laboratório Distrital Oeste 1
+Laboratório Distrital Sul 1
+Laboratório Dr. Manoel Bastos Lira (Distrital Norte) 1
+Policlínica Cardoso Fontes 2
+São Gabriel da Cachoeira Laboratório Municipal de Tuberculose 1
+Tabatinga Laboratório de Fronteira de Tabatinga (LAFRON) 1
+Tefé Laboratório Municipal Dra. Roselia Alves Brasileiro 1
+AP Laranjal do Jari Laboratório Municipal de Laranjal do Jari 1
+Macapá Centro de Referência de Doenças Tropicais 1
+BA Feira de Santana Centro de Saúde Especializada Dr. Leone Coelho Leda Ambulatorio de
+Pneumologia
+1
+Salvador Hospital Especializado Octávio Mangabeira 3
+Laboratório Central de Salvador 2
+Teixeira de Freitas Laboratório Municipal Nova Filosofia 1
+Vitória da Conquista Laboratório Central de Vitória da Conquista 1
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 42
+CE Caucaia Hospital Municipal Abelardo Gadelha da Rocha 1
+Fortaleza Centro de Especialidades Médicas José de Alencar - CEMJA 2
+Hospital São José de Doenças Infecciosas 2
+Laboratório Central de Saúde Pública do Ceará - LACEN 1
+Itaitinga Laboratório do Hospital e Sanatório Penal Professor Otávio Lobo 1
+Juazeiro do Norte Laboratório Regional de Saúde Pública 1
+Maracanaú Hospital Municipal Dr. João Elísio de Holanda 1
+Sobral Centro de Saúde de Sobral 1
+DF Brasília Hospital Regional da Asa Norte - HRAN 1
+Hospital Regional de Taguatinga 1
+Hospital Regional do Gama 1
+Hospital Regional do Paranoá - Núcleo de Patologia Clínica 1
+Laboratório Central de Saúde Pública do Distrito Federal - LACEN 2
+ES Cachoeiro do Itapemirim Laboratório Regional do Centro Municipal de Saúde 1
+Cariacica Laboratório Municipal 1
+Serra Laboratório Central da Serra - Secretaria Municipal de Saúde 1
+Vila Velha Secretaria Municipal de Saúde de Vila Velha (Laboratório Municipal) 1
+Vitória Laboratório Central de Saúde Pública do Espírito Santo - LACEN 1
+Laboratório Central Municipal de Vitória 1
+Núcleo de Doenças Infecciosas - UFES 2
+GO Aparecida de Goiânia CAIS Nova Era 1
+Goiânia Centro de Referência em Diagnóstico e Terapêutica 1
+Laboratório de Saúde Pública de Goiás Dr. Giovane Cisneiros - LACEN 1
+MA São Luís Centro de Saúde de Fátima SAE 1
+Hospital Presidente Vargas 1
+MG Belo Horizonte Hospital das Clínicas UFMG - Laboratório de Pesquisa em Micobactérias 1
+Hospital Júlia Kubitschek - FHEMIG 1
+Laboratório Municipal de Referências em Análises Clínicas e Citopatologia - PBH 2
+Divinópolis Centro Municipal de Apoio a Saúde 1
+Governador Valadares Laboratório Regional de Vigilância em Saúde de Governador Valadares 1
+Ipatinga Laboratório Regional de Vigilância em Saúde de Ipatinga 1
+Juiz de Fora Laboratório Macrorregional de Juiz de Fora 1
+Montes Claros Laboratório Macrorregional de Montes Claros 1
+Pouso Alegre Laboratório Macrorregional de Pouso Alegre 1
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 43
+Ribeirão das Neves Laboratório Regional de Vigilância em Saúde de Ribeirão da Neves 1
+Teófilo Otoni Laboratório Macrorregional de Teófilo Otoni Minas Gerais 1
+Uberaba Laboratório Regional de Saúde de Uberaba 1
+Uberlândia Laboratório Regional 1
+MS Amambai SESAI - Secretaria Especial de Saúde Indígena 1
+Campo Grande Hospital São Julião CEDAMI 1
+Laboratório Central Municipal 1
+Módulo de Saúde do Complexo Penitenciário de Campo Grande - AGEPEN 1
+Corumbá Laboratório Municipal de Corumbá Dr. Nelson Leite de Barros 1
+Dourados Centro de Referência em tuberculose e hanseníase 1
+MT Cuiabá Laboratório Central de Cuiabá LACEC 1
+Cuiabá Laboratório Central de Saúde Pública do Mato Grosso - LACEN 2
+Rondonópolis Laboratório Central de Rondonópolis 1
+Várzea Grande Centro de Doenças Tropicais CDT 1
+PA Ananindeua Laboratório Cidade Nova VIII - Secretaria Municipal de Saúde de Ananindeua 1
+Belém Hospital Universitário João de Barros Barreto (HUJBB) 1
+Unidade Municipal de Saúde da Marambaia 1
+Unidade Municipal de Saúde do Guamá 1
+Marabá Laboratório Central Municipal de Marabá Mizulan Neves Pereira 1
+Santarém Unidade de Referência Especializada de Santarém 1
+PB Campina Grande Serviço Municipal de Saúde - Centro de Referência em Tuberculose e
+Hanseníase
+1
+João Pessoa Centro de Saúde de Mandacaru 1
+Complexo de Doenças Infectocontagiosas Clementino Fraga 1
+Patos Laboratório Municipal de Saúde Pública de Patos 1
+Sousa Policlínica Mirian Gadelha 1
+PE Abreu e Lima COTEL - Centro de Observação Criminal e Triagem Prof. Everardo Luna 1
+Cabo de Santo Agostinho Laboratório Público Municipal de Cabo de Santo Agostinho 1
+Caruaru Laboratório Central de Caruaru 1
+Jaboatão dos Guararapes Laboratório Municipal Dr. Zeferino Veloso 1
+Limoeiro Laboratório Regional de Saúde da II GERES - Limoeiro 1
+Olinda Laboratório Municipal de Saúde Pública de Olinda 1
+Paulista Centro de Endemias e Análises Médicas do Paulista 1
+Recife Hospital Correia Picanço 1
+Hospital Otávio de Freitas 1
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 44
+Laboratório Central de Saúde Pública - LACEN 1
+Laboratório Municipal de Saúde Pública do Recife 3
+PI Parnaíba Laboratório Municipal de Parnaíba 1
+Teresina Laboratório Central de Saúde Pública Dr. Costa Alvarenga - LACEN 1
+Laboratório Municipal de Teresina Dr. Raul Bacellar 1
+PR Campo Mourão Laboratório Consórcio Intermunicipal de Saúde (Ciscomcam) 1
+Curitiba Hospital das Clínicas de Curitiba 1
+Laboratório Municipal de Curitiba 2
+Foz do Iguaçu Laboratório Central de Saúde Pública do Paraná - Unidade de Fronteira Foz do
+Iguaçu - LACEN
+1
+Guarapuava Laboratório Municipal de Guarapuava 1
+Londrina Autarquia Municipal de Saúde de Londrina - Laboratório Municipal 1
+Hospital Universitário da Região Norte do Paraná 1
+Paranaguá Laboratório Municipal 1
+Pinhais Complexo Médico Penal 1
+Ponta Grossa Laboratório Geral Dr. Alfredo Berger 1
+RJ Belford Roxo Centro de Atendimento em Cirurgia Especializada (CACE) Benis P. de Freitas 1
+Duque de Caxias Centro Municipal de Duque de Caxias 2
+Itaboraí Laboratório Municipal de Saúde Pública de Itaboraí 1
+Niterói Instituto Estadual de Doenças do Tórax Ary Parreiras 1
+Laboratório Central de Saúde Pública de Niterói Miguelote Viana 1
+Nova Iguaçu Centro de Saúde Dr. Vasco Barcelos 1
+Laboratório Municipal de Saúde Pública de Nova Iguaçu 1
+Rio de Janeiro Centro de Referência Professor Hélio Fraga 1
+Hospital Estadual Santa Maria 1
+Hospital Federal dos Servidores do Estado - HFSE 1
+Hospital Municipal Raphael de Paula Souza 2
+Hospital Sanatório Penal - SEAP/RJ 1
+Hospital Universitário Clementino Fraga Filho 1
+Hospital Universitário Gaffrée e Guinle 1
+Hospital Universitário Pedro Ernesto 1
+Instituto de Pesquisa Clínica Evandro Chagas - Instituto Nacional de Infectologia
+(INI) Fiocruz
+1
+Policlínica Hélio Pellegrino 3
+Policlínica José Paranhos Fontenelle - Clínica da Família Felipe Cardoso (CFFC) 4
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 45
+Policlínica Manoel Guilherme da Silveira Filho 3
+São Gonçalo Laboratório Municipal Dr. Armando Gueiros (Lab. Baciloscopia) 1
+São João de Meriti Laboratório Central de São João de Meriti 1
+RN Mossoró Laboratório Regional de Mossoró 1
+Natal Hospital Giselda Trigueiro 1
+Laboratório Central de Saúde Pública do Rio Grande do Norte - LACEN 2
+RO Ariquemes Unidade de Saúde Referência Doenças Tropicais - USRDT 1
+Cacoal Laboratorio Municipal de Analises Clinicas - LACLIM 1
+Guajará-Mirim Laboratório de Fronteira Guajará Mirim 1
+Ji-Paraná Laboratório de Patologias Epidemiológicas Maria Aparecida dos Santos 1
+Porto Velho Centro de Medicina Tropical - CEMETRON 1
+Laboratório Central Municipal de Porto Velho 1
+Vilhena Laboratório Municipal de Vilhena João Luiz da Silva 1
+RR Boa Vista Hospital Geral de Roraima 2
+Laboratório de Referência Municipal 1
+RS Alvorada Laboratório Municipal de Alvorada 1
+Canoas Hospital Universitário de Canoas 1
+Charqueadas Laboratório Municipal de Charqueadas 1
+Gravataí Laboratório Municipal de Gravataí 1
+Pelotas Laboratório Municipal de Pelotas 1
+Porto Alegre Associação Hospitalar Vila Nova 1
+Hospital Nossa Senhora da Conceição 1
+Hospital Sanatório Partenon 1
+Laboratório Central do Município de Porto Alegre 2
+Presídio Central de Porto Alegre 1
+Rio Grande Laboratório de Micobactérias da Universidade Federal do Rio Grande 1
+Laboratório Municipal de Análises Clínicas de Rio Grande 1
+Santa Maria Unidade de Saúde José Erasmo Crossetti 1
+São Leopoldo Laboratório Municipal Especializado de São Leopoldo 1
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 46
+Viamão Centro de Testagem e Aconselhamento Herbert de Souza 1
+SC Blumenau Laboratório Municipal de Blumenau 1
+Criciúma Laboratório Municipal de Criciúma 1
+Florianópolis Laboratório Central de Saúde Pública de Santa Catarina - LACEN 2
+Laboratório Municipal de Florianópolis Aracy Vaz Callado 1
+Setor de Laboratório de Análises Clínicas - HU/UFSC 1
+Itajaí Laboratório Municipal de Itajaí 1
+Joinville Laboratório Municipal de Joinville 1
+SE Aracaju Laboratório Municipal de Aracaju/SADT 1
+São Cristóvão COVISA - Laboratório de Saúde Pública Município São Cristóvão 1
+SP Araçatuba Centro de Laboratório Regional I - Instituto Adolfo Lutz de Araçatuba 1
+Araraquara Serviço Especial de Saúde de Araraquara 1
+Barueri PS e Maternidade Nair Fonseca Leitão Arantes (Laboratório Municipal de
+Barueri)
+1
+Bauru Centro de Laboratório Regional II - Instituto Adolfo Lutz de Bauru 1
+Bragança Paulista Laboratório Regional de Saúde Pública de Bragança Paulista 1
+Campinas Centro de Laboratório Regional III - Instituto Adolfo Lutz de Campinas 1
+Hospital de Clínicas da Unicamp de Campinas 1
+Laboratório Municipal de Campinas 2
+Carapicuíba Laboratório Municipal de Carapicuíba 1
+Franco da Rocha Complexo Hospitalar Juquery Franco da Rocha 1
+Guarujá Laboratório de Análises Clínicas da Faculdade de Medicina do ABC (Emílio
+Ribas - Baixada Santista)
+1
+Guarulhos Laboratório Municipal de Saúde Pública de Guarulhos 3
+Itapecerica da Serra Laboratório Local de Itapecerica da Serra 1
+Jundiaí Laboratório Municipal de Microbiologia de Jundiaí 1
+Marília Centro de Laboratório Regional IV - Instituto Adolfo Lutz IV de Marília 1
+Piracicaba Laboratório Municipal de Piracicaba 1
+Presidente Prudente Centro de Laboratório Regional V - Instituto Adolfo Lutz de Presidente Prudente 2
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 47
+Ribeirão Preto Hospital das Clínicas de Ribeirão Preto (HCFMRP-USP) 1
+Laboratório Municipal de Ribeirão Preto (Secretaria Municipal de Saúde) 1
+Santo André Centro de Laboratório Regional VIII - Instituto Adolfo Lutz de Santo André 1
+Laboratório de Análises Clínicas (ARMI) 1
+Santos Centro de Laboratório Regional IX - Instituto Adolfo Lutz de Santos 2
+Seção Centro de Diagnóstico SECEDI 1
+São Bernardo do Campo Laboratório Municipal de Saúde Pública de São Bernardo do Campo 1
+São José do Rio Preto Centro de Laboratório Regional X - Instituto Adolfo Lutz de São José do Rio
+Preto
+1
+São Paulo Centro de Referência e Treinamento - DST/AIDS 1
+Hospital das Clínicas da Faculdade de Medicina da USP (HC da FMUSP) 1
+Instituto Clemente Ferreira 1
+Instituto de Infectologia Emílio Ribas (Hospital Emílio Ribas) 1
+Laboratório Central UNIFESP (Hospital Universitário da Universidade Federal de
+São Paulo)
+1
+Laboratório da Santa Casa de Misericórdia de São Paulo 1
+Laboratório de Santo Amaro (Sul) 6
+Laboratório e Saúde Pública da Lapa (Centro-Oeste) 3
+Laboratório II de São Miguel Paulista 6
+Laboratório Municipal da Região Sudeste 2
+Laboratório Municipal Nossa Senhora do Ó 3
+Serviço de Atendimento Especializado Dst Aids Cidade Lider II 1
+Serviço de Atendimento Especializado DST/AIDS Penha 2
+Sorocaba Centro de Laboratório Regional XI - Instituto Adolfo Lutz de Sorocaba 2
+Taubaté Centro de Laboratório Regional XII - Instituto Adolfo Lutz de Taubaté 1
+Tremembé Coordenadoria de Unidades Prisionais da Região do Vale do Paraíba e Litoral -
+COREVALI
+1
+TO Araguaína Laboratório de Saúde Pública de Araguaína - LSPA 1
+Palmas Laboratório Central de Saúde Pública de Tocantins - LACEN 1
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 48
+27
+UF
+s
+133
+municípios
+207
+Laboratórios
+255
+Máquinas
+Anexo 3: Lista de Produtos e Empresas selecionados para apresentação de
+amostras ao INCQS.
+PRODUTO Empresa brasileira
+distribuidora/importadora/fabrica
+nte
+MedTeste Coronavírus (COVID-19) IgG/IgM MEDLEVENSOHN COMÉRCIO E
+REPRESENTAÇÕES DE PRODUTOS
+HOSPITALARES LTDA
+SARS-CoV-2
+Solução qPCR RUO (uso exclusivo em pesquisa) Instrumentos FLOW e Ensaios
+LightMix Modular
+ROCHE
+SARS-CoV-2
+Solução qPCR IVD (diagnóstico in-vitro) Instrumentos cobas 6800 e Ensaios
+cobas SARS-CoV-2
+ROCHE
+Real Genes TM 2019-nCov
+Multiplex RT-PCR Kit
+VISUAL GENETICS
+DEAOU ACEPLUS
+CELLEX qSARS-CoV-2 IgG/IgM Teste rápido ACEPLUS
+RealStar® SARS-CoV-2 RT-PCR Kit 1.0 – Altona Diagnostics (96 e 384 testes) Altona Diagnostics
+Teste molecular POCT para detecção do SARS – CoV-2 Biosys - Kovalent
+Teste imunocromatográfico POCT com fluoróforo conjugado para detecção de
+IgG e IgM anti-SARS-COV-2
+Biosys - Kovalent
+Teste imunocromatográfico POCT com fluoróforo conjugado para detecção do
+antígeno do SARS-COV-2
+Biosys - Kovalent
+ONE STEP COVID-2019 TEST Celer
+FINECARE ONE STEP COVID-19 TEST Celer
+2019-nCOV nucleic acid detection kit + Iponatic Celer
+2019-nCOV nucleic acid detection kit + Natch CS + Slan 96P Celer
+COVID-19 IgM/IgG test kit Euroimmun
+AccuPlex™ SARS-CoV-2 LGC, Biosearch Technologies
+Smart Test Covid-19 Vyttra Vyttra Diagnósticos
+MAGLUMI 2019-nCoV IgM Vyttra Diagnósticos
+MAGLUMI 2019-nCoV IgG Vyttra Diagnósticos
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 49
+Teste ePlex® SARS-CoV-2 Vyttra Diagnósticos
+XPERT SARS-COV-2 (COVID-19) Cepheid
+Teste Molecular Rápido por Fluorescência – RPA GeOne Biotechnologies
+Plataforma Maxwell Promega Brasil
+LOGIX SMART CORONAVIRUS DISEASE 2019 - COVID-19 KIT I.M. Midia Intermediação de
+Negócios Ltda.
+Diagnostic Kit for Detection of IgM/gG
+Antibody to SARS-CoV-2(Colloidal Gold)
+I.M. Midia Intermediação de
+Negócios Ltda.
+Coronavirus Disease 2019 Antibody (IgM/IgG) Combined Test Kit I.M. Midia Intermediação de
+Negócios Ltda.
+BioGene Research - COVID-19 PCR Bioclin Quibasa
+COVID-19 IgG/IgM BIO - Teste Rápido Bioclin Quibasa
+Kit XGEN MASTER COVID-19 Mobius Life
+AccuQuik™ Diagnostic Test Kit: COVID-19 IgG/IgM (DTD-38W); Multifarma
+Teste rápido COVID-19 IgM e IgG (anticorpos para Coronavírus) SK-Telemed / IDIS2GO
+KIT SARS-COV-2 REALTIME PCR Vircell
+TaqPath™ COVID-19 Combo Kit ThermoFischer
+Teste Rápido COVID-19 IgG e IgM Novitá Home Care
+Imunocromatografia para COVID em desenvolvimento Abbott
+TESTE cobas® SARS-CoV-2 ROCHE
+LightMix® Modular SARS-CoV-2 (COVID19) RdRP ROCHE
+LightMix® Modular SARS-CoV (COVID19) N-gene ROCHE
+LightMix® Modular SARS-CoV (COVID19) E-gene ROCHE
+RT-PCR SARS-CoV-2 Test ORBIPHARMA
+Prova rápida de Anticorpo para a detecção do Covid-19 Biomolecular Technology
+Prova rápida de Anticorpo para a detecção do Covid-19 IQUEGO
+Prova RT-PCR de Anticorpo para a detecção do Covid-19 IQUEGO
+Kit para detecção de IGM - SARS-CoV-2 JULGANO BRASIL ENERGIA
+Kit para detecção de IGM/IGG - SARS-CoV-2 AS7 PARTICIPAÇÕES SOCIETÁRIAS
+EIRELLI
+Kit para detecção de IGM - SARS-CoV-2 TOPÁZIO SERVICE CONSTRUÇÕES E
+TECNOLOGIAS DE SISTEMA
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 50
+Anexo 4. Grade de distribuição para os laboratórios do MAPA em 20/04
+Além desses 21.000 testes para os laboratórios do Ministério da Agricultura, serão distribuídos 40.000
+para os laboratórios do exército IBEX, HAF, Hospital da Marinha, Hospital da Aeronáutica,
+correspondente ao pedido do Ministério da Defesa, além de outros 24.000 testes para os laboratórios do
+nordeste, sendo AL (3.000), PE (10.000), RN (5.000), SE (3.000) e PB (3.000) e atualização da grade de
+distribuição para todos os LACEN.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 51
+Anexo 6: Revisão da programação orçamentária de entregas da Fiocruz
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 52
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 53
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 54
+Anexo 5: Linha do tempo - atualizado até 18/04/2020
+Histórico
+Em 31 de dezembro de 2019, o escritório da Organização Mundial da Saúde (OMS) na China foi informado
+sobre casos de pneumonia de etiologia desconhecida detectada na cidade de Wuhan, província de
+Hubei. Em 7 de janeiro, as autoridades Chinesas identificaram um novo tipo de coronavírus
+(SARS-CoV-2), a partir do isolamento, análise por microscopia eletrônica e sequenciamento de seu
+código genético, tornando possível identificação do agente causador da doença em outros pacientes.
+Somente a partir da publicação do sequenciamento do código genético do vírus, foi possível
+desenvolver testes laboratoriais capazes de detectar o vírus em amostras biológicas.
+No final de janeiro, o Ministério da Saúde realizou um chamamento público aos fabricantes nacionais,
+de forma a viabilizar a produção dos testes moleculares no Brasil. A Fundação Oswaldo Cruz (FIOCRUZ),
+por meio de Bio-Manguinhos, Instituto de Biologia Molecular do Paraná e Instituto Oswaldo Cruz,
+iniciaram estudos para desenvolvimento destes testes.
+A ampliação da testagem se apresenta como uma estratégia eficaz na resposta à Pandemia, sobretudo
+quando associada às medidas de distanciamento social. Neste ponto, a expansão da capacidade
+laboratorial brasileira é um grande desafio para a resposta nacional. A rede brasileira de laboratórios
+públicos vinculadas ao SUS é constituída por 27 Laboratórios Estaduais/Distrital e três laboratórios de
+referência nacional, também considerados como Centros Nacionais de Influenza (Fiocruz/RJ, Instituto
+Adolfo Lutz - IAL e Instituto Evandro Chagas - IEC)
+Apesar de todo o esforço para a ampliação da testagem, em função da alta demanda mundial para os
+insumos de diagnóstico molecular da COVID - 19, neste cenário, foi necessário priorizar as testagens dos
+casos sintomáticos, hospitalizados, óbitos e seus contatos no intuito de manter a oportunidade das
+medidas de controle. Essas priorizações foram adequadas àquele momento e orientadas pelos
+relatórios da OMS - Interim Guidance - Critical preparedness, readiness and response actions for
+COVID-19 - onde até 22 de março, que trata dos cenários de transmissão do COVID-19, orientava a
+testagem apenas daqueles que atendiam à definição de casos suspeitos para o cenário de transmissão
+que o Brasil se enquadrava.
+Como parte do esforço da expansão da capacidade brasileira de testagem para SARS-CoV-2, foi
+elaborado um plano de ação que envolve a aquisição de equipamentos, insumos para coleta e
+diagnóstico, equipamentos de proteção individual, descentralização/ampliação do diagnóstico para
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 55
+outras unidades públicas (rede HIV/AIDS e Tuberculose) e contratação de serviços através de parceria
+público-privada. No entanto, em razão da alta demanda mundial por insumos algumas entregas de kits
+tiveram que ser reprogramadas. A situação já começou a ser superada, com o aumento da oferta de
+insumos no mercado, a capacidade de produção e distribuição de kits RT-PCR em tempo real (RT-qPCR)
+pela Fiocruz já foi regularizada, e novas aquisições de kits por contratação Opas, mercado nacional e
+doação Petrobrás começarão a ser distribuídos nas próximas semanas.
+Essa estratégia de aquisição de testes se refere tanto a testes moleculares RT-qPCR como a testes
+sorológicos. Esses dois tipos de testes têm usos distintos e complementares e, juntos, fazem parte de
+uma grande estratégia de testagem nacional unindo vigilância e assistência para proteção da força de
+trabalho das áreas de saúde e segurança, como de priorização de monitoramento clínico de grupos de
+maior risco (idoso e portadores de doenças crônicas), liberação da população economicamente ativa já
+imune ao SARS-cOv2 para retorno ao trabalho, e, principalmente, diagnóstico etiológico precoce em
+casos de Síndrome Respiratória Aguda Grave.
+DEZEMBRO 2019
+31/12/2019​: CHINA - Escritório da OMS na China foi notificado de Pneumonia por etiologia desconhecida
+na cidade de Wuhan, provícia de Hubei. ​Relatório enviado​: realizou imediatamente uma pesquisa de
+caso e investigação retrospectiva nas instituições médicas e de saúde da cidade relacionadas à cidade
+de frutos do mar da China do Sul. Verificou-se 27 casos de casos, incluindo sete casos de doença grave,
+condição estável e demais casos controláveis, 2 casos ficou ainda melhor no futuro próximo pretende
+descarga. A doença pode ser evitada e controlada, impedindo a circulação de ar em ambientes
+fechados, evitando locais públicos e lugares onde as pessoas estão lotadas e fechadas, e usando
+máscaras ao sair. O tratamento sintomático é a principal prática clínica, exigindo repouso no leito. Se
+você tiver os sintomas acima, especialmente se a febre persistir, deve ir a uma instituição médica a
+tempo.
+JANEIRO 2020 - Balanço do mês de janeiro: 2 mil testes disponibilizados de RT-PCR em
+tempo real por doação da OPAS
+01/01/2020​: OMS - Em 1 de janeiro de 2020, a OMS solicitou mais informações às autoridades nacionais
+para avaliar o risco.
+03/01/2020​: ​CHINA - Em 3 de janeiro de 2020, um total de 44 pacientes com pneumonia de etiologia
+desconhecida foram notificados à OMS pelas autoridades nacionais da China. Dos 44 casos relatados, 11
+estão gravemente doentes, enquanto os 33 pacientes restantes estão em condição estável. Segundo
+relatos da mídia, o mercado em questão em Wuhan foi fechado em 1 de janeiro de 2020 para
+saneamento e desinfecção ambiental.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 56
+05/01/2020​: OMS - Publicação do Disease Outbreak News. Os sinais e sintomas clínicos são
+principalmente febre, com alguns pacientes com dificuldade em respirar e radiografias de tórax
+mostrando lesões invasivas de ambos os pulmões. Com base nas informações preliminares da equipe
+de investigação chinesa, nenhuma evidência de transmissão significativa de homem para homem e
+nenhuma infecção por profissionais de saúde foram relatadas. A OMS não classifica o risco, mas alerta
+para o cluster de casos similares. A cidade de Wuhan, com uma população de 19 milhões, é a capital da
+província de Hubei, com uma população de 58 milhões de pessoas. A OMS solicitou mais informações
+sobre os exames laboratoriais realizados e os diagnósticos diferenciais considerados. A OMS não
+recomenda medidas específicas para os viajantes. No caso de sintomas sugestivos de doença
+respiratória durante ou após a viagem, os viajantes são incentivados a procurar atendimento médico e
+compartilhar o histórico de viagens com seu médico. A OMS desaconselha a aplicação de quaisquer
+restrições de viagem ou comércio na China com base nas informações atuais disponíveis neste evento.
+07/01/2020​: CHINA - Xu Jianguo: A partir das 21:00 de 7 de janeiro de 2020, um novo coronavírus foi
+detectado em laboratório e toda a sequência genômica do vírus foi obtida. Um total de 15 resultados
+positivos do novo coronavírus foram detectados por métodos de detecção de ácido nucleico, de 1
+paciente positivo. O vírus foi isolado da amostra e mostrou morfologia típica de coronavírus ao
+microscópio eletrônico. O grupo de especialistas acredita que o patógeno desse caso inexplicável de
+pneumonia viral é inicialmente determinado como um novo coronavírus. Para confirmar o patógeno que
+causa uma doença epidêmica, os seguintes pontos geralmente são satisfeitos: (1) O patógeno suspeito
+deve ser encontrado no paciente e o ácido nucleico patogênico pode ser detectado na amostra clínica
+do paciente; (2) Na amostra clínica do paciente O patógeno pode ser isolado com sucesso; (3) O
+patógeno isolado pode causar os mesmos sintomas da doença após infectar o animal hospedeiro. O
+título de anticorpo do patógeno no soro do paciente durante o período de recuperação aumentou 4
+vezes, o que pode ajudar a determinar o patógeno. Xu Jianguo: O coronavírus é um tipo de patógeno que
+causa principalmente doenças respiratórias e intestinais. Existem muitas saliências regularmente
+arranjadas na superfície desse tipo de partículas virais.A partícula inteira é como a coroa de um
+imperador, daí o nome "Coronavírus". Além dos humanos, os coronavírus também podem infectar
+muitos mamíferos, como porcos, vacas, gatos, cães, martas, camelos, morcegos, ratos, ouriços e uma
+variedade de pássaros. Até agora, existem seis coronavírus humanos conhecidos. Quatro desses
+coronavírus são mais comuns na população e são menos patogênicos, geralmente causando apenas
+sintomas respiratórios leves semelhantes ao resfriado comum. Os outros dois coronavírus - o Síndrome
+Respiratório Agudo Grave e o Coronavírus da Síndrome Respiratória do Oriente Médio, também
+chamados de coronavírus SARS e coronavírus MERS, podem causar doenças respiratórias graves. O novo
+coronavírus que causou o surto é diferente do coronavírus humano que foi descoberto, e a
+compreensão aprofundada do vírus requer mais pesquisas científicas.
+09/01/2020​: CHINA - Especialistas concluem que a identificação etiológica da Pneumonia por etiologia
+desconhecida se trata de um novo coronavírus. ​OMS-Pacífico Ocidental​: Declaração da OMS sobre casos
+de pneumonia em Wuhan, China
+10/01/2020​:
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 57
+● OMS - Conselho da OMS para viagens e comércio internacional em relação ao surto de
+pneumonia causada por um novo coronavírus na China. * evitar contato próximo com pessoas
+que sofrem de infecções respiratórias agudas; * lavagem frequente das mãos, principalmente
+após contato direto com pessoas doentes ou com o meio ambiente; * evitar contato próximo com
+animais vivos ou mortos da fazenda ou animais selvagens; * viajantes com sintomas de infecção
+respiratória aguda devem praticar etiqueta da tosse (mantenha distância, cubra a tosse e espirre
+com roupas ou tecidos descartáveis e lave as mãos). Se um viajante a bordo de uma aeronave /
+navio tiver sinais e sintomas indicativos de infecções respiratórias agudas, o modelo de
+declaração marítima de saúde (anexo 8 do RSI) ou a parte sanitária da declaração geral da
+aeronave (anexo 9 do RSI) poderá ser usado para registrar as informações de saúde a bordo e
+enviar às autoridades de saúde dos POE quando exigido por um Estado Parte. Conforme
+estabelecido pelo Regulamento Sanitário Internacional (2005) (RSI), os países devem garantir
+que: * medidas rotineiras, equipe treinada, espaço adequado e estoque de equipamentos
+adequados nos pontos de entrada para avaliar e gerenciar os viajantes doentes detectados antes
+da viagem, a bordo de transportes (como aviões e navios) e na chegada aos pontos de entrada; *
+Existem procedimentos e meios para comunicar informações sobre viajantes doentes entre
+transportes e pontos de entrada, bem como entre pontos de entrada e as autoridades sanitárias
+nacionais; * transporte seguro de viajantes sintomáticos para hospitais ou instalações
+designadas para avaliação e tratamento clínico; * um plano funcional de contingência de
+emergência de saúde pública nos pontos de entrada para responder a eventos de saúde pública.
+● OMS - WER​ - Review of the 2019 influenza season in the southern hemisphere
+● OMS​: Laboratory testing of human suspected cases of novel coronavirus (​​​​​​​​nCoV)​​​​​​​​ infection: interim
+guidance, 10 January 2020: It is important to consider that four human coronaviruses (HcoVs) are
+endemic globally: HCoV-229E, HCoV-NL63, HCoV-HKU1 as well as HCoV-OC43. The latter two are
+betacoronaviruses. Two other betacoronaviruses that cause zoonotic infection in humans are
+MERS-CoV, acquired by contact with dromedary camels and SARS arising from civets and
+cave-dwelling horseshoe bats.
+12/01/2020​: CHINA - A evidência é altamente sugestiva de que o surto está associado a exposições em
+um mercado de frutos do mar em Wuhan. O mercado foi fechado em 1 de janeiro de 2020. Nesta fase,
+não há infecção entre os profissionais de saúde e nenhuma evidência clara de transmissão de humano
+para humano. Entre os 41 casos confirmados, houve uma morte. Esta morte ocorreu em um paciente
+com graves condições médicas subjacentes. ​A China compartilhou a sequência genética do novo
+coronavírus em 12 de janeiro, que será de grande importância para outros países usarem no
+desenvolvimento de kits de diagnóstico específicos.
+14/01/2020​: TAILÂNDIA - Em 13 de janeiro de 2020, o Ministério da Saúde Pública (MoPH), Tailândia
+relatou o primeiro caso importado de novo coronavírus confirmado em laboratório (2019-nCoV) de
+Wuhan, Província de Hubei, China. O caso é uma chinesa de 61 anos que mora na cidade de Wuhan,
+Província de Hubei, China. Em 5 de janeiro de 2020, ela desenvolveu febre com calafrios, dor de garganta
+e dor de cabeça. Em 8 de janeiro de 2020, ela tomou um voo direto para a Tailândia a partir da cidade de
+Wuhan, juntamente com cinco membros da família em um grupo turístico de 16 pessoas. O viajante com
+doença febril foi detectado no mesmo dia por vigilância térmica no aeroporto de Suvarnabhumi (BKK),
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 58
+Tailândia, e foi hospitalizado no mesmo dia. Após verificação da temperatura e avaliação inicial, ela foi
+transferida para o hospital para mais investigações e tratamento. Amostras testaram positivo para
+coronavírus por reação em cadeia da transcriptase reversa polimerase (RT-PCR) em 12 de janeiro de
+2020. OMS: Até o momento, a China não registrou nenhum caso de infecção entre os profissionais de
+saúde ou os contatos dos casos. Com base nas informações disponíveis, não há evidências claras de
+transmissão de humano para humano. Nenhum caso adicional foi detectado desde 3 de janeiro de 2020
+na China. A OMS desaconselha a aplicação de quaisquer restrições de viagem ou comércio na Tailândia
+com base nas informações atualmente disponíveis neste evento.
+16/01/2020​:
+● JAPÃO - O Ministério da Saúde, Trabalho e Bem-Estar do Japão informou hoje a Organização
+Mundial da Saúde (OMS) sobre um caso confirmado de um novo coronavírus (2019-nCoV) em uma
+pessoa que viajou para Wuhan, na China. Este é o segundo caso confirmado de 2019-nCoV que foi
+detectado fora da China, após a confirmação de um caso na Tailândia em 13 de janeiro.
+Considerando os padrões globais de viagens, é provável que casos adicionais em outros países. A
+OMS incentiva todos os países a continuar as atividades de preparação. Em 10 de janeiro, a OMS
+publicou informações sobre como monitorar casos, tratar pacientes, impedir a transmissão em
+unidades de saúde, manter os suprimentos necessários e comunicar ao público sobre 2019-nCoV.
+As informações incluem conselhos sobre como manter a higiene das mãos e respiratórias, além
+de práticas seguras de alimentação e mercado. A OMS está desenvolvendo e atualizando essas
+informações em consulta com redes de especialistas em todo o mundo.
+● ALEMANHA​: pesquisadores Centro Alemão de Pesquisa de Infecções da Universidade Charité de
+Berlin desenvolveu um novo ensaio de laboratório para detectar o novo coronavírus chinês. O
+protocolo do ensaio foi agora publicado pela OMS como uma diretriz para detecção de
+diagnóstico. O novo ensaio permite que casos suspeitos sejam testados rapidamente.
+17/01/2020​: JAPÃO - detalhamento do caso - O caso-paciente é do sexo masculino, com idade entre 30 e
+39 anos, morando no Japão. O caso-paciente viajou para Wuhan, na China, no final de dezembro e
+apresentou febre em 3 de janeiro de 2020 enquanto permanecia em Wuhan. Ele não visitou o Mercado
+Atacadista de Frutos do Mar de Huanan ou qualquer outro mercado de animais vivos em Wuhan. Ele
+indicou que estava em contato próximo com uma pessoa com pneumonia. Em 6 de janeiro, ele viajou de
+volta ao Japão e testou negativo para gripe quando visitou uma clínica local no mesmo dia.
+21/01/2020​:
+● COREIA: Em 20 de janeiro de 2020, o Ponto Focal Nacional do RSI (PFN) da República da Coréia
+relatou o primeiro caso de novo coronavírus na República da Coréia. O caso é uma mulher de 35
+anos, de nacionalidade chinesa, residente em Wuhan, província de Hubei, na China. OMS -
+SITUATION REPORT 1: até 20/01 foram confirmados ​282 casos em 4 países​ sendo: China (278),
+Tailândia (2), Japão (1) Coréia (1), sendo nos três últimos casos importados. Entre os 278 casos da
+China, 258 são da província de Hubei, 14 de Guangdong, 5 de pequim e 1 de Shanghai. De 278, 51
+(18%) são graves, 12 (4,3%) são críticos e 6 (2,2%) óbitos.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 59
+● CHINA​: Em 21 de janeiro de 2020, na conclusão da visita, o governo chinês lançou os primers e
+sondas usados no kit de teste rRT-PCR. Isso segue a rápida identificação da China pelo vírus e o
+compartilhamento da sequência genética. Os iniciadores ajudarão a estabelecer o RT-PCR em
+tempo real para a detecção de 2019-nCoV em outros países
+22/01/2020​: OMS - Declaração do Diretor-Geral da OMS sobre o Comitê de Emergência do RSI sobre o
+novo coronavírus -
+● A decisão sobre declarar ou não uma emergência de saúde pública de interesse internacional é
+uma que levo muito a sério e que só estou preparada para tomar com a devida consideração de
+todas as evidências.
+● EUA​: Primeiro caso confirmado
+● Brasil: Ativa o COE-COVID19 - Centro de Operações de Emergências para resposta à Doença pelo
+Coronavírus 2019
+23/01/2020​: Declaração do Diretor-Geral da OMS sobre as recomendações do Comitê de Emergência do
+RSI sobre o novo coronavírus - Não estou declarando uma emergência de saúde pública de interesse
+internacional hoje. Como foi ontem, o Comitê de Emergência estava dividido sobre se o surto de novo
+coronavírus representa um PHEIC ou não. Não cometa erros. Esta é uma emergência na China, mas ainda
+não se tornou uma emergência de saúde global. Ainda pode se tornar um. A avaliação de risco da OMS é
+que o surto é um risco muito alto na China e um risco regional e global. O que sabemos:
+● Sabemos que esse vírus pode causar doenças graves e que pode matar, embora para a maioria
+das pessoas cause sintomas mais leves.
+● Sabemos que entre os infectados, um quarto dos pacientes experimentou doença grave.
+● Sabemos que a maioria das pessoas que morreram apresentava condições de saúde subjacentes,
+como hipertensão, diabetes ou doenças cardiovasculares que enfraqueceram seu sistema
+imunológico.
+● Sabemos que há transmissão homem a homem na China, mas, por enquanto, parece limitado a
+grupos familiares e profissionais de saúde que cuidam de pacientes infectados.
+● No momento, não há evidências de transmissão de homem para homem fora da China, mas isso
+não significa que isso não aconteça.
+● Ainda há muita coisa que não sabemos. Não sabemos a fonte desse vírus, não entendemos a
+facilidade com que ele se espalha e não entendemos completamente suas características clínicas
+ou gravidade.
+● No momento, a OMS não recomenda restrições mais amplas a viagens ou comércio.
+● Recomendamos a triagem de saída nos aeroportos como parte de um conjunto abrangente de
+medidas de contenção.
+● Todos os países devem adotar medidas para detectar casos de coronavírus, inclusive em
+unidades de saúde.
+● Existem algumas coisas simples que todos podemos fazer para nos proteger, como lavar as
+mãos, cobrir a boca e o nariz quando espirrar, e assim por diante.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 60
+● COMITÊ DE EMERGÊNCIA DO RSI​: A transmissão de humano para humano está ocorrendo e uma
+estimativa preliminar de R0 de 1,4-2,5 foi apresentada. A amplificação ocorreu em uma unidade
+de saúde. Dos casos confirmados, 25% são graves. A fonte ainda é desconhecida (provavelmente
+um reservatório animal) e a extensão da transmissão de humano para humano ainda não está
+clara. Vários membros consideraram que ainda é muito cedo para declarar um PHEIC, dada a sua
+natureza restritiva e binária. Os países devem dar ênfase especial à redução da infecção humana,
+prevenção da transmissão secundária e disseminação internacional e contribuir para a resposta
+internacional por meio de comunicação e colaboração multissetoriais e participação ativa no
+aumento do conhecimento sobre o vírus e a doença, bem como no avanço da pesquisa.
+24/01/2020​: WHO R&D Blueprint Informal consultation on prioritization of candidate therapeutic agents
+for use in novel coronavirus 2019 infection
+29/01/2020​: OMS - Comunicado de imprensa sobre a missão da OMS na China e novo surto de
+coronavírus No total, existem 6065 casos confirmados, incluindo 5997 na China, representando quase
+99% de todos os casos no mundo. 132 pessoas perderam a vida com esse surto, todas na China; nossos
+pensamentos estão com suas famílias. Fora da China, existem apenas 68 casos confirmados em 15
+países, ou seja, 1% do total, e nenhuma morte. A grande maioria dos casos fora da China tem um
+histórico de viagens para a China ou contato com alguém com um histórico de viagens para a China. Há
+sinais de alguns casos de transmissão homem a homem fora da China, que estamos monitorando de
+perto. Até o momento, só vimos 68 casos fora da China e nenhuma morte se deve em grande parte às
+medidas extraordinárias que o governo tomou para impedir a exportação de casos. Por isso, a China
+merece nossa gratidão e respeito. Eles estão fazendo isso às custas de sua economia e outros fatores.
+27/01/2020: OPAS: realiza a doação e distribuição de 2 mil testes para realização de treinamento dos
+laboratórios;
+30/01/2020​: OMS - Atualmente, existem 98 casos em 18 países fora da China, incluindo 8 casos de
+transmissão de homem para homem em quatro países: Alemanha, Japão, Vietnã e Estados Unidos da
+América. Até agora, não vimos nenhuma morte fora da China, pela qual todos devemos ser gratos.
+Embora esses números ainda sejam relativamente pequenos em comparação com o número de casos na
+China, todos devemos agir juntos agora para limitar a expansão. Por todas essas razões, ​declaro uma
+emergência de saúde pública de interesse internacional sobre o surto global de novos coronavírus​. No
+total, existem agora 7834 casos confirmados, incluindo 7736 na China, representando quase 99% de
+todos os casos relatados em todo o mundo. 170 pessoas perderam a vida com esse surto, todas na
+China. Gostaria de resumir essas recomendações em sete áreas principais:
+● Primeiro, não há razão para medidas que interfiram desnecessariamente nas viagens e comércio
+internacional. A OMS não recomenda limitar o comércio e o movimento. Convidamos todos os
+países a implementar decisões baseadas em evidências e consistentes. A OMS está pronta para
+aconselhar qualquer país que esteja considerando quais medidas tomar.
+● Segundo, devemos apoiar países com sistemas de saúde mais fracos.
+● Terceiro, acelerar o desenvolvimento de vacinas, terapêuticas e diagnósticos.
+● Quarto, combater a disseminação de rumores e desinformação.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 61
+● Quinto, revise os planos de preparação, identifique lacunas e avalie os recursos necessários para
+identificar, isolar e cuidar de casos, e impedir a transmissão.
+● Sexto, compartilhe dados, conhecimentos e experiências com a OMS e o mundo.
+● E sétimo, a única maneira de derrotar esse surto é que todos os países trabalhem juntos em um
+espírito de solidariedade e cooperação. Estamos todos juntos nisso, e só podemos parar juntos.
+● COMITÊ DE EMERGÊNCIA DO RSI​: O Comitê acredita que ainda é possível interromper a
+disseminação do vírus, desde que os países adotem medidas fortes para detectar doenças
+precocemente, isolar e tratar casos, rastrear contatos e promover medidas de distanciamento
+social compatíveis com o risco.
+● SCTIE: ​realiza reunião com laboratórios produtores nacionais para viabilizar a produção de testes
+moleculares para diagnóstico do novo coronavírus;
+● FIOCRUZ: ​ ​iniciam a aquisição de reagentes para produção dos kits de RT-qPCR o Instituto de
+Tecnologia em Imunobiológicos Bio-Manguinhos e Instituto de Biologia Molecular do Paraná;
+31/01/2020: ​OPAS: realiza a capacitação dos laboratórios da Fiocruz, Instituto Adolfo Lutz e Instituto
+Evandro Chagas
+FEVEREIRO 2020 - Balanço do mês de fevereiro: 528 reações disponibilizados de RT-PCR
+em tempo real (aquisição da Fiocruz)
+03/02/2020​: OMS - STRATEGIC PREPAREDNESS AND RESPONSE PLAN
+● SVS: torna público o Aviso de Chamamento Público para aquisição de equipamentos de proteção
+individual;
+● SVS: Inicia a aquisição, via OPAS, de 124 kits Multiplex para o diagnóstico de 21 patógenos de
+vírus respiratórios e ;
+04/02/2020​: OMS - 146 a sessão do Conselho Executivo - Discurso de abertura do diretor-geral da OMS
+no briefing técnico sobre o novo coronavírus de 2019. Os dados mais recentes que temos é que existem
+20.471 casos confirmados na China, incluindo 425 mortes. Fora da China, existem 176 casos em 24 países
+e uma morte nas Filipinas. É importante ressaltar que 99% dos casos estão na China e 97% das mortes
+estão na província de Hubei. Isso ainda é antes de tudo uma emergência para a China. ​Estamos
+enviando 250.000 testes para mais de 70 laboratórios de referência em todo o mundo para facilitar
+testes mais rápidos. A OMS está enviando máscaras, luvas, respiradores e quase 18.000 vestidos de
+isolamento de nossos armazéns em Dubai e Accra para 24 países que precisam de apoio, e
+adicionaremos mais países. Dos 176 casos relatados fora da China até agora, a OMS recebeu formulários
+completos para apenas 38% dos casos. Alguns países de alta renda estão muito atrasados em
+compartilhar esses dados vitais com a OMS. Eu não acho que é porque eles não têm capacidade. Até o
+momento, 22 países relataram essas restrições à OMS.
+06/02/2020​: OPAS - OPAS presta cooperação técnica aos países em relação ao novo coronavírus:
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 62
+● Na área de diagnóstico, a OPAS está fornecendo orientação e reagentes aos laboratórios
+nacionais de saúde pública, incluindo os Centros Nacionais de Influenza, para que eles possam
+realizar testes laboratoriais para confirmar ou descartar a presença de novos coronavírus. Brasil,
+Colômbia, Chile, Peru, México, Paraguai, Equador e Suriname já implementaram o novo protocolo
+de coronavírus de 2019. Os virologistas da OPAS estão sendo enviados ao Brasil e ao México para
+treinar especialistas nacionais, juntamente com parceiros, incluindo o Ministério da Saúde e a
+Fundação Oswaldo Cruz no Brasil e no México, o Ministério da Saúde e seu Instituto de
+Referência Diagnóstica e Epidemiológica (InDRE).
+● Nas próximas duas semanas, 29 laboratórios nacionais nas Américas terão capacidade para
+executar esses testes, disse o Dr. Jarbas Barbosa, Diretor Assistente da OPAS.
+● Desde que o novo surto de coronavírus foi relatado pela China, houve mais de 28.000 casos
+confirmados em laboratório de infecção por nCoV 2019 e 565 mortes em todo o mundo, quase
+todas na China. Vinte e quatro outros países relataram casos confirmados do novo coronavírus.
+● Nas Américas, 17 casos foram confirmados em dois países, os EUA com 12 e o Canadá com 5. Na
+América Latina e no Caribe, nenhum caso confirmado de novo coronavírus foi relatado até o
+momento.
+07/02/2020​: Novo coronavírus: Fiocruz, Ministério da Saúde do Brasil e OPAS fornecem treinamento em
+diagnóstico laboratorial em nove países. Especialistas da Fundação Oswaldo Cruz (Fiocruz), do
+Ministério da Saúde do Brasil e da Organização Pan-Americana da Saúde (OPAS) ministraram
+treinamento sobre diagnóstico laboratorial do novo coronavírus (2019-nCoV) em fevereiro 6 e 7 para
+especialistas da Argentina, Bolívia, Chile, Colômbia, Equador, Panamá, Paraguai, Peru e Uruguai. Durante
+a atividade, os participantes realizaram um exercício prático de detecção molecular do 2019-nCoV e
+receberam materiais de diagnóstico (primers e controles positivos), além de revisar e discutir os
+principais testes e protocolos disponíveis. O secretário de Vigilância em Saúde do Brasil, Wanderson
+Oliveira, disse que o Brasil tem capacidade comprovada em vigilância, o que é uma fonte de segurança
+para a sociedade brasileira. “Até agora não temos um caso confirmado [de 2019-nCoV] no Brasil, mas
+isso não significa nada. Teremos casos [importados]. E isso não será um problema, porque temos a
+capacidade de detectar, monitorar e responder aos casos em tempo hábil.". ​Nas Américas os Estados
+Unidos atingiram ultrapassa a barreira de 100 casos confirmados. Neste dia é um total de 109 casos,
+eram 98 casos no dia anterior.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 63
+10/02/2020​: OMS Europa - Laboratórios bem preparados são a primeira linha de defesa contra novos
+coronavírus na Europa. A OMS também encomendou a fabricação de kits de teste para distribuição
+global nos laboratórios designados 2019-nCoV. A OMS / Europa está facilitando uma primeira rodada de
+envio de 192 kits (contendo 100 testes cada) para 20 laboratórios na Região. Globalmente, a OMS está
+disponibilizando 250.000 testes para 159 laboratórios. Novos laboratórios 2019-nCoV também são
+incentivados a enviar as 5 primeiras amostras positivas e as 10 primeiras amostras negativas 2019-nCoV
+a seus laboratórios de referência para confirmação dos resultados dos testes.
+● SVS: início da descentralização do diagnóstico para as Unidades Federadas;
+● IEC/SVS e FIOCRUZ: conclui a capacitação do LACEN/GO para o diagnóstico do SARS-CoV-2;
+● SVS - torna público o Aviso de Chamamento Público para aquisição dos insumos para coleta e
+diagnóstico e oligonucleotídeos para o diagnóstico de outros vírus respiratórios;
+12/02/2020​: Draft operational planning guidance for UN country teams
+● FIOCRUZ: Recebe a síntese dos primers, sondas e G-Block sintético e inicia a realização de testes
+de avaliação do ensaio;
+14/02/2020: FIOCRUZ: Bio-Manguinhos fabrica o primeiro lote com 2 kits em um total de 48 reações;
+17/02/2020​:
+● FIOCRUZ: IBMP e Bio-Manguinhos liberam os primeiros lotes de produção própria;
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 64
+● ESTADÃO - Laboratórios particulares começam a oferecer teste para detectar coronavírus no
+Brasil. Desde a última sexta-feira, 14, o Grupo Fleury passou a oferecer o teste, que foi
+desenvolvido em uma semana, em hospitais parceiros de São Paulo, Rio de Janeiro, Pernambuco,
+Rio Grande do Sul e do Distrito Federal. "A gente está acompanhando especialmente desde 12 de
+janeiro, quando os chineses publicaram a sequência genética do vírus. Usamos o PCR, que é um
+recurso que a gente usa para forçar o vírus a se multiplicar. Seguimos um protocolo alemão.
+Nele, pedaços de DNA se grudam em três partes do vírus para que ele possa se multiplicar e a
+gente usa isso para identificar a presença do vírus", explica Celso Granato, infectologista e
+diretor clínico do Grupo Fleury. Desde a última terça-feira, 11, a Dasa está oferecendo um teste
+que também utiliza a tecnologia de PCR e entrega os resultados em 24 horas. O grupo engloba
+laboratórios mais de 30 marcas e 700 laboratórios, como Delboni Auriemo, Lavoisier Diagnósticos
+e SalomãoZoppi Diagnósticos. O exame custa entre R$ 700 e R$ 900. dependendo da região onde
+é realizado. "A validação da Dasa se deu por meio de parceria com o Instituto de Medicina
+Tropical da USP (Universidade de São Paulo), que recebeu amostra controle por ser instituição
+pública e de pesquisa, e ter prioridade no recebimento da amostra padrão", informou o grupo.
+Na semana passada, no dia 6 de fevereiro, foi lançado o teste do laboratório DB Molecular, que
+tem mais de 6 mil laboratórios credenciados em sua rede. Antes dessa data, era oferecida uma
+opção de teste com a análise feita nos Estados Unidos. Agora, ela é realizada no Brasil. "Logo no
+início da execução, não tínhamos insumos. Agora, por conhecer a sequência do vírus, a gente
+conseguiu desenhar um ensaio mais específico. O prazo para entrega do resultado é de sete dias,
+mas, até o final do mês, vamos liberar em até 48 horas", diz Nelson Gaburo, gerente-geral do
+laboratório. Segundo boletim do Ministério da Saúde divulgado na última sexta-feira, 14, quatro
+casos suspeitos do novo coronavírus são investigados e 43 já foram descartados. Ainda não há
+casos da doença confirmados no País.
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 65
+20/02/2020: FIOCRUZ: libera os primeiros resultados utilizando os kit da OPAS e realiza a entrega de 22
+kits com 24 reações, em um total de 528 reações;
+21/02/2020: IAL: recebeu 200 reações produzidas pelo IBMP, enviados pela SVS/MS.
+26/02/2020 - SP: PRIMEIRO CASO CONFIRMADO DA COVID-19 NO BRASIL
+28/02/2020 - SVS: realiza acordo com FIOCRUZ para produção de 15 mil de testes, a confirmação da
+possibilidade de entrega de 10 mil pelo protocolo de Berlim e 5 mil pelo protocolo do CDC foi por
+e-mail;
+28/02/2020 - FIOCRUZ: informou por e-mail a capacidade de produção de 20 mil testes por semana
+durante o mês de março até atingir 250 mil testes no final do mês de abril, dependendo da
+disponibilidade de insumos no mercado.
+MARÇO 2020 - Balanço do mês de março: 45.240 testes disponibilizados de RT-PCR em
+tempo real (aquisição da Fiocruz) e 500.000 testes rápidos sorológicos (doação Vale)
+16
+02/03/2020​: WHO - Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected human cases
+03/03/2020:
+● SVS: realiza a entrega dos primeiros lotes da produção de Bio-Manguinhos para os Estados do
+RS, SC, GO e PA(IEC/SVS);
+● FIOCRUZ: conclui a capacitação do LACEN/RS para o diagnóstico do SARS-CoV-2;
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 66
+11/03/2020: FIOCRUZ: conclui a capacitação dos LACEN SC, PR, BA, ES, MG, AL, SE, RJ, MS para o
+diagnóstico do SARS-CoV-2;
+13/03/2020: MEDIDA PROVISÓRIA 924/2020 - AÇÃO: 21C0 - Enfrentamento da Emergência de Saúde
+Pública de Importância Internacional Decorrente do Coronavírus;
+16/03/2020: CGLAB e DEIDT: se reúnem com representantes da Associação Brasileira de Medicina
+Diagnóstica - Abramed, Laboratório Sabin e Laboratório Fleury para discutir o envio dos dados de
+exames de laboratórios privados para o banco de dados do MS. Foi relatada a dificuldade de
+abastecimento de kits para diagnóstico do novo coronavírus na rede privada.
+16/03/2020: OMS: realiza recomendação alterando sua orientação anterior de testagem até os 100
+primeiros casos confirmados. Nesse comunicado, a OMS recomendou a realização de testagem em
+massa sem que o mercado estivesse preparado. Houve corrida internacional por insumos.
+17/03/2020: SVS: divulga o Aviso de Chamamento Público destinado a receber informações dos produtos
+diagnósticos disponíveis no mercado nacional e internacional, registrados na ANVISA;
+18/03/2020: CGLAB e DCCI: definem o compartilhamento da plataforma automatizada de RT-qPCR da
+Rede Nacional de Quantificação da Carga Viral, ampliando a capacidade de processamento dos exames
+de RT PCR em tempo real para COVID-19;
+18/03/2020: IEC/SVS: Conclui a descentralização do diagnóstico molecular do SARS-CoV-2, nas Unidades
+Federadas, por meio da capacitação dos LACEN AM, CE, PA, PE, RR, AC, AP, DF, MA, MT, PB, PI, RN, RO, TO;
+19/03/2020​: WHO - Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected human cases
+● SVS: recebe, referente ao Chamamento Público, a lista de 46 produtos relacionados ao
+diagnóstico de COVID-19, por metodologia de imunocromatografia, quimioluminescência e
+biologia molecular (RT-qPCR) e inicia as avaliação de qualidade;
+20/03/2020: Reunião Virtual com representantes de laboratórios públicos e privados: Tecpar (Lindolfo e
+Iran); Instituto Vital Brasil (Priscila, Luiz); Fiocruz (Nisia, Rivaldo, Valcler e Zuma); Instituto Butantã
+(Dimas, Ana e Renato); FUNED (Maurício, Malucia, Rodrigo, Cristiane); McKinsey (Vinjay e Tracy); Dasa
+(Gustavo Campana, Eduardo Levi e Carlos de Barros); Sinelorg/Red D’Or; Pardini (Guilherme e
+Alessandro); Abramed (Wilson); Afip (Soraia e Debora), Hospital Albert Eistein (Cristovan), Ministério da
+Saúde (Wanderson, Julio Croda, Eduardo Macário, André Abreu e Marcus Quito): na ocasião foi
+apresentado o cenário de casos prováveis com base em cenário probabilístico e discutida a demanda de
+aumento de capacidade laboratorial, sendo aberta a palavra para cada entidade informar sobre sua
+situação. O Instituto Butantã informou que estava preparando sua capacidade operacional para
+realização de 1.000 testes/dia. A rede Dasa apresentou situação e ponderações para coleta, logística,
+necessidade e validação de metadados que poderiam ajudar em uma parceria público-privada. A
+Fiocruz informou sobre o aumento de produção de Biomanguinhos. A rede Hermes Pardini informou
+sobre o aumento da capacidade de produção, validação com registro, necessidade de diminuir o tempo
+de teste, dificuldade de logística no transporte aéreo e rodoviário com o aumento da demanda interna e
+preocupação com a sobreposição da epidemia de dengue, necessidade de aumento da banda de
+internet para trânsito dos dados e da necessidade de compartilhamento dos protocolos de validação. A
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 67
+Funed informou sobre a capacidade de apoiar na produção e validação de kits, produção de meios de
+cultura e capacitação. O Hospital Albert Einstein informou sobre a capacidade de realização de até
+12.000 amostras/dia, bem como da possibilidade de contar com 3 mil parceiros e que a Rede São
+Camilo, fechou acesso ao teste apenas para atendimentos ambulatoriais nesta data. A Afip informou ter
+capacidade logística, validação de novos testes. A Abramed relatou dificuldades na reposição de
+insumos, e sugeriu que a Anvisa libere emergencialmente kits sem registro, para suprir a demanda, bem
+como relatou grande dificuldade logística por conta da restrição de voos por parte das companhias
+aéreas.
+21/03/2020​: FOLHA DE SÃO PAULO - Sem insumos, laboratórios privados limitam exames para detectar
+coronavírus: Todas as redes ouvidas pela Folha admitiram que o atual gargalo está na quantidade de
+produtos disponíveis para a produção dos testes. Um dos problemas é a aquisição dos insumos
+provenientes de Estados Unidos, Europa e China. Exames domiciliares foram suspensos e novos pedidos
+médicos só são aceitos quando partem de unidades hospitalares credenciadas. "O protocolo anterior
+[de testar todo mundo suspeito] sobrecarregou o sistema como um todo. A mudança de protocolo foi
+uma maneira de garantir o atendimento a pacientes críticos", explicou vice-presidente e porta-voz da
+Rede Dasa, a maior empresa de medicina diagnóstica do Brasil e da América Latina, Emerson
+Gasparetto. A Abramed (Associação Brasileira de Medicina Diagnóstica), representada pela Priscilla
+Franklim Martins, diretora-executiva da entidade, disse: "Está todo mundo trabalhando no teto, no
+limite de realização de exames" e "Consumimos muito recursos (insumos) testando quem não precisava.
+Para gente não chegar ao ponto de não ter mais, o Ministério da Saúde acertou em alterar o protocolo
+nacional de atendimento", afirmou Martins.
+● Petrobrás: informa que fará a doação de 600 mil testes de RT-PCR em tempo real para COVID-19;
+● FIOCRUZ/IBMP: inicia o processo de importação de 2 milhões de testes de RT-PCR em tempo real
+da China;
+22/03/2020​: OMS - Laboratory testing strategy recommendations for COVID-19
+27/03/2020: SVS: Inicia o processo de aquisição de testes rápidos moleculares, da empresa Cepheid, por
+modalidade de dispensa de licitação;
+30/03/2020: SVS: Chega ao Brasil 500 mil testes rápidos sorológicos doados pela empresa Vale, de um
+total de 5 milhões;
+31/03/2020: SVS - Inicia o processo de aquisição de testes de RT-qPCR para extração do RNA de
+SARS-CoV-2, da empresa Abbott, por modalidade de dispensa de licitação;
+31/03/2020: SVS - Inicia o processo de aquisição 6 milhões de swabs e 2 milhões tubo de coleta;
+31/03/2020: SVS - Realiza de forma aditiva ao Contrato 47 e 48/2020 a aquisição de mais 50 mil unidades
+de swab e 30 mil tubos de coleta;
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 68
+ABRIL 2020 - Balanço parcial do mês de abril (até 08/04): 44.852 testes disponibilizados
+de RT-qPCR em tempo real (aquisição da Fiocruz) e 300 mil testes RT-PCR em tempo real
+(doação Petrobrás)
+01/04/2020: FIOCRUZ/IBMP realiza a entrega de 45 mil testes correspondente à importação de 2 milhões
+de testes da marca Fapon
+02/04/2020: SVS - inicia o processo de contratação de prestação de serviço para atendimento de 10
+milhões de exames para COVID-19;
+06/04/2020: INCQS/FIOCRUZ: Emite laudo aprovando os primeiros lotes dos testes rápido sorológico;
+07/04/2020: SVS: Realiza de forma aditiva aos Contratos nº 116/2018 e nº 179/2019 a aquisição 187.500
+testes de master mix manual; e ao Contrato 175/2019 a aquisição de 187.500 de testes de RT-qPCR para
+extração manual do RNA de SARS-CoV-2;
+08/04/2020: PETROBRÁS: Entrega de 300 mil testes de RT-qPCR para amplificação do RNA de SARS-CoV-2
+no almoxarifado de Guarulhos/SP;
+● SVS: Altera o processo (SIN 30439) de aquisição de testes rápidos moleculares e inclui, como
+comodato, 62 unidades de equipamento para realização destes testes;
+09/04/2020: SVS: inicia o processo de contratação de prestação de serviço para processamento e coleta
+de 3 milhões de exames;
+12/04/2020: IAL/SP: recebe os primeiros kits de RT-PCR em tempo real doados pela Petrobrás;
+13/04/2020: MINISTÉRIO DA SAÚDE: divulga o Aviso de Chamamento Público para contratação direta e
+emergencial de prestação de serviço e de processamento de 3 milhões de exames;
+15/04/2020​: OMS - Weekly update on COVID-19
+16/04/2020​: OMS Europa - Declaração - A transição para um 'novo normal' durante a pandemia do
+COVID-19 deve ser guiada por princípios de saúde pública. Qualquer passo para facilitar as restrições e a
+transição deve garantir: Essa evidência mostra que a transmissão do COVID-19 é controlada; Que a
+saúde pública e as capacidades do sistema de saúde, incluindo hospitais, estão em vigor para
+identificar, isolar, testar, rastrear contatos e colocá-los em quarentena; Que os riscos de surtos são
+minimizados em ambientes de alta vulnerabilidade - particularmente em lares de idosos, instalações de
+saúde mental e pessoas que residem em locais lotados; Que sejam estabelecidas medidas preventivas
+no local de trabalho - com distanciamento físico, instalações para lavagem das mãos, etiqueta
+respiratória; Que os riscos de importação podem ser gerenciados; e Que as comunidades tenham voz e
+estejam envolvidas na transição.
+17/04/2020: MINISTÉRIO DA SAÚDE: divulga o Aviso de Chamamento Público para contratação direta e
+emergencial de 12 milhões de testes rápidos sorológicos de SARS-CoV-2;
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 69
+20/04/2020: ​MINISTÉRIO DA SAÚDE: divulga o Aviso de Chamamento Público para contratação direta e
+emergencial de 4 milhões de testes de RT-qPCR para extração do RNA de SARS-CoV-2;
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 70
+Referências
+1. WHO. World Health Organization. Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected
+human cases. Interim Guid [Internet]. 2020;(March):1–7. Available from:
+https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-in-suspected-human
+-cases-20200117
+2. Practi- GM. Orientações de biossegurança laboratorial relativa à doença do coronavírus (COVID-19). 2020.
+Disponível em:
+https://iris.paho.org/bitstream/handle/10665.2/51968/OPASBRACOVID1920019_por.pdf?sequence=1&isAllowe
+d=y
+3. Ministério da Saúde. Secretaria Executiva. Departamento de Logística em Saúde. Coordenação-Geral de
+Licitações e Contratos de Insumos Estratégicos para Saúde. AVISO DE CHAMAMENTO PÚBLICO. 2020. Disponível
+em:​ ​http://www.in.gov.br/web/dou/-/aviso-de-chamamento-publico-248412410
+4. Ministério da Saúde. Secretaria de Vigilância em Saúde. Guia de Vigilância Epidemiológica: Emergência de
+Saúde Pública de Importância Nacional pela Doença pelo Coronavírus 2019. 2020[internet]. Disponível em:
+https://portalarquivos.saude.gov.br/images/pdf/2020/April/07/GuiaDeVigiEpidemC19-v2.pdf
+5. Centers for Disease Control and Prevention (CDC). Preparation of Viral Transport Medium (VTM). 2019 [internet].
+Disponível em:​ ​https://www.cdc.gov/2019-ncov/Viral-Transport-Medium.pdf
+6. WHO. World Health Organization. Advice on the use of point-of-care immunodiagnostic tests for COVID-19.
+2020 [internet]. Disponível em:​ ​https://apps.who.int/2019-nCoV-Sci_Brief-POC_immunodiagnostics-2020
+7. Ministério da Saúde. Portaria nº 454, de 20 de março de 2020. Declara, em todo o território nacional, o estado
+de transmissão comunitária do coronavírus (COVID-19). Diário oficial da União. 20 mar 2020; Seção: 1:1.
+8. Sociedade Brasileira de Patologia Clínica/Medicina Laboratorial. Diagnóstico Laboratorial da infecção pelo
+novo coronavírus (COVID-19) – Posicionamento Oficial da Sociedade Brasileira de Patologia Clínica/Medicina
+Laboratorial (SBPC/ML). 2020 [internet]. Disponível em:
+http://www.sbpc.org.br/wp-content/uploads/2020/02/DiagnosticoLaboratorialDaInfeccaoPeloNovoCoronavir
+us.pdf
+Boletim Epidemiológico 12 – COE COVID-19 – 19 de abril de 2020 71
+

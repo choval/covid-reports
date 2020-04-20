@@ -1,0 +1,26 @@
+{
+    "filename": "BE12-Boletim-do-COE.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/19\/BE12-Boletim-do-COE.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587344578,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "2266440",
+        "date": "Mon, 20 Apr 2020 01:02:58 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587344579.059.28460.652788; Path=\/; Secure; HttpOnly",
+        "last-modified": "Sun, 19 Apr 2020 15:48:29 GMT",
+        "etag": "\"229548-5a3a6b6c4c613\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 d404deded0486922d3f3f9e242fa9960.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "YYatCN6Tr-ao3lL-5XOaLd0QfUjQhUzejLd9B81vxGcgmSa109hUJA=="
+    },
+    "lang": "pt",
+    "size": 2266440,
+    "modified": 1587311309
+}
