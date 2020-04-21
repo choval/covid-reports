@@ -7,6 +7,12 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-21
+
+* [advertising-traffic-regulation-orders-during-coronavirus-covid-19](02f74a472ad1ccb24260a40e4d91fe8c7722dfb6/file.pdf) @11:24 GMT
+* [guidance-for-those-involved-in-managing-covid-19-deaths](0b96a9ed645abb5981700be0737e0ec8aa2daff5/file.pdf) @11:24 GMT
+* [2020-04-21-occupational-health-advice-for-employers-and-pregnant-women.pdf](6e7ddd8c809c9d9423c3a1020d7ceb8177297813/file.pdf) @08:01 GMT
+
 ## 2020-04-20
 
 * [covid-19-and-packaging-waste-registering-as-a-packaging-producer-rps-c9](24f7c8ac6e06930314e399b60259efaffd47cca1/file.pdf) @23:18 GMT

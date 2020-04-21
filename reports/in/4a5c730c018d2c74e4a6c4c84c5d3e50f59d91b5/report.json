@@ -1,0 +1,27 @@
+{
+    "filename": "india-situation-report-12.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/wrindia\/situation-report\/india-situation-report-12.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587467678,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "326096",
+        "date": "Tue, 21 Apr 2020 11:14:38 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Mon, 20 Jul 2020 11:14:38 GMT",
+        "last-modified": "Tue, 21 Apr 2020 06:00:16 GMT",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=india-situation-report-12.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "x-powered-by": "ASP.NET",
+        "access-control-allow-origin": "*",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 b463298bf3a0448826c5d55c212abc61.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "p1PuvAtUvlT4f-r5zLzabxNL86Un5yPOpRRmZQNYT8TOswye4jJMPw=="
+    },
+    "lang": "en",
+    "size": 326096,
+    "modified": 1587448816
+}

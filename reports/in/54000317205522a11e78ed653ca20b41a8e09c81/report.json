@@ -1,0 +1,29 @@
+{
+    "filename": "GuidelinesforImportationofHumanRemainsofCOVID19Patients1642020.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/GuidelinesforImportationofHumanRemainsofCOVID19Patients1642020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587467674,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Tue, 21 Apr 2020 07:52:18 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "98848",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2580216",
+        "expires": "Thu, 21 May 2020 07:58:10 GMT",
+        "date": "Tue, 21 Apr 2020 11:14:34 GMT"
+    },
+    "lang": "en,hi",
+    "size": 98848,
+    "modified": 1587455538
+}

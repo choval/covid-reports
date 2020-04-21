@@ -8,6 +8,7 @@
 
 ## 2020-04-20
 
+* [20-04-20\_reporte\_vespertino\_covid\_19.pdf](b3a8dc50220319f4e9b9d1d16f3573a82d8640c0/file.pdf) @23:55 GMT
 * [20-04-20\_reporte\_matutino\_covid\_19.pdf](8ba8ffec0437c72691a2a2a2c720631a36df3113/file.pdf) @12:56 GMT
 * [19-04-20\_reporte\_vespertino\_covid\_19.pdf](3422d8c262ed46a58523932e67180b374afa1852/file.pdf) @01:11 GMT
 
