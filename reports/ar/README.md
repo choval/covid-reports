@@ -6,6 +6,10 @@
 * [https://www.argentina.gob.ar/coronavirus/informe-diario](https://www.argentina.gob.ar/coronavirus/informe-diario)
 
 
+## 2020-04-21
+
+* [21-04-20\_reporte-matutino-covid-19.pdf](9d3c74649d28a687c1cd5f6982edb9850b98f625/file.pdf) @12:37 GMT
+
 ## 2020-04-20
 
 * [20-04-20\_reporte\_vespertino\_covid\_19.pdf](b3a8dc50220319f4e9b9d1d16f3573a82d8640c0/file.pdf) @23:55 GMT

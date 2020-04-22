@@ -5,6 +5,10 @@
 * [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 
 
+## 2020-04-21
+
+* [20200421-sitrep-92-covid-19.pdf](8aa0fe6fa7d21c604c110d1bac08d93c98f9164d/file.pdf) @19:11 GMT
+
 ## 2020-04-20
 
 * [20200420-sitrep-91-covid-19.pdf](c8fce6fccab1a14d91bd51ba20cd636d8d76edee/file.pdf) @18:08 GMT
@@ -317,6 +321,6 @@
 ## 2020-01-27
 
 * [20200127-sitrep-7-2019--ncov.pdf](9f951d32ec094106065dd774ac4dff5c16ff9e8d/file.pdf) @19:57 GMT
+* [20200121-sitrep-1-2019-ncov.pdf](e50479d0fba6729ff40716cf02907b3f8d92c137/file.pdf) @13:35 GMT
 * [20200126-sitrep-6-2019--ncov.pdf](0cfedbb675dd2d19c8a00af352b4d74ba9dc5a3f/file.pdf) @13:35 GMT
 * [20200122-sitrep-2-2019-ncov.pdf](0a65ac5d0c3eec0e945d3d9aae29895061ce68c2/file.pdf) @13:35 GMT
-* [20200121-sitrep-1-2019-ncov.pdf](e50479d0fba6729ff40716cf02907b3f8d92c137/file.pdf) @13:35 GMT

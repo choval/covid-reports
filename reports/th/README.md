@@ -7,6 +7,7 @@
 
 ## 2020-04-21
 
+* [2020-04-21-tha-sitrep-59-covid19-new-template-final.pdf](d48a3df95284c64b1039b377f690aa5a28a5d841/file.pdf) @14:32 GMT
 * [2020-04-20-tha-sitrep-58-covid19-th-final.pdf](b9849074373a3ea0e6b692198e1ee95130334a45/file.pdf) @11:03 GMT
 
 ## 2020-04-20

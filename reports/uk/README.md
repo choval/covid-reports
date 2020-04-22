@@ -7,6 +7,11 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-22
+
+* [coronavirus-covid-19-qa-for-people-receiving-a-personal-budget-or-personal-health-budget](aaa0b68c2927269c69a99d3b0a9453a3c578a2da/file.pdf) @00:37 GMT
+* [coronavirus-covid-19-guidance-for-people-receiving-direct-payments](5c054b3571eb9aee1f0c428d5b29f6689d2135c6/file.pdf) @00:37 GMT
+
 ## 2020-04-21
 
 * [advertising-traffic-regulation-orders-during-coronavirus-covid-19](02f74a472ad1ccb24260a40e4d91fe8c7722dfb6/file.pdf) @11:24 GMT

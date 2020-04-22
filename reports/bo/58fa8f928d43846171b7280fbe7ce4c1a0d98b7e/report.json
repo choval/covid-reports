@@ -1,0 +1,22 @@
+{
+    "filename": "4078-gobierno-reporta-dos-primeros-casos-de-covid-19-en-beni-y-el-pais-suma-598-contagiados",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4078-gobierno-reporta-dos-primeros-casos-de-covid-19-en-beni-y-el-pais-suma-598-contagiados",
+    "output": "file.pdf",
+    "downloaded": 1587513582,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 22 Apr 2020 00:04:04 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=4i4jj2nrqslqpces63qr32fi5d; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Wed, 22 Apr 2020 00:04:05 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 716065,
+    "modified": 1587513587
+}

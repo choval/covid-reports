@@ -1,0 +1,1488 @@
+. 0
+SAN JOSÉ, COSTA RICA
+ABRIL, 2020
+GUÍA PARA LA PREVENCIÓN, MITIGACIÓN
+Y CONTINUIDAD DEL NEGOCIO POR LA
+PANDEMIA DEL COVID-19 EN LOS CENTROS
+DE TRABAJO
+Mesa de Infraestructura Productiva
+Sub-mesa de trabajo
+“Continuidad del Negocio”
+1
+TABLA DE CONTENIDOS
+1.PRESENTACIÓN................................................................................................................................ 3
+2.EQUIPO DE TRABAJO DE LA GUÍA.......................................................................................................... 5
+3.LINEAMIENTOS GENERALES................................................................................................................. 6
+3.1 ¿QUÉ ES EL CORONAVIRUS (COVID-19)?.......................................................................................... 6
+3.2 OBJETO Y CAMPO DE APLICACIÓN ................................................................................................. 8
+Acciones sectoriales y lineamientos para sectores y actividades empresariales del país .................................................. 8
+3.3 DEFINICIONES .......................................................................................................................... 8
+3.4 OBLIGACIONES DE LA PERSONA EMPLEADORA................................................................................ 11
+3.5 OBLIGACIONES DE LA PERSONA TRABAJADORA:.............................................................................. 11
+3.6 RESPONSABILIDADES SUGERIDAS AL DEPARTAMENTO DE SALUD OCUPACIONAL: .................................... 12
+3.7 MEDIDAS DE CONTROL: ............................................................................................................ 12
+Casos sospechosos:.............................................................................................................................................12
+Casos probables o confirmados:..........................................................................................................................13
+Cuarentena o Aislamiento Domiciliario:...............................................................................................................14
+3.8 ESTRATEGIAS PARA PREVENIR EN LAS EMPRESAS LA PROPAGACIÓN DEL COVID-19 .................................. 17
+3.9 COMUNICACIÓN Y DIFUSIÓN DE MEDIDAS PREVENTIVAS Y DE INTERVENCIÓN........................................ 19
+3.10MEDIDAS DE ORGANIZACIÓN DEL TRABAJO ................................................................................... 20
+3.11RECOMENDACIONES PARA LAS PERSONAS TRABAJADORAS................................................................ 21
+3.12MEDIDAS PARA REDUCIR EL IMPACTO A LA OPERACIÓN POR CASO POSITIVO DE COVID-19…………………......... 22
+Preparación:.......................................................................................................................................................22
+Acciones de rehabilitación en caso de un positivo por Covid-19:...........................................................................24
+3.13CASO POSITIVO COVID-19/CASO SÍNTOMÁTICO CON NEXO EPIDEMIOLÓGICO CONFIRMADO:..................... 25
+3.14CICLO DE ATENCIÓN DE CASOS POSITIVOS/CASO SÍNTOMÁTICO CON NEXO EPIDEMIOLÓGICO CONFIRMADO. 28
+3.15INTERVENCIÓN EN CRISIS.......................................................................................................... 29
+Consejos para afrontar una crisis nerviosa o de ansiedad cuando se detecte un caso positivo de Covid-19 en la
+empresa:............................................................................................................................................................29
+Consejos para afrontar el malestar psicológico por el Covid-19 mientras hace Teletrabajo: ..................................30
+3.16ESTRATEGIAS RECOMENDADAS PARA LOGRAR LA CONTINUIDAD DEL NEGOCIO ...................................... 32
+Método de evaluación de riesgos para asegurar la continuidad del negocio:........................................................33
+Respuesta y continuidad ante la pandemia: ........................................................................................................37
+Preparación ante la Pandemia - Fase 1:...............................................................................................................38
+Monitoreo, educación e impacto - Fase 2 de acciones inmediatas:.......................................................................41
+2
+ANEXOS....................................................................................................................................... 43
+ANEXO #1-MATERIAL INFORMATIVO...................................................................................................... 44
+ANEXO #2-EJEMPLO DE RUTINA DE LIMPIEZA SUGERIDA ............................................................................. 53
+ANEXO #3-EJEMPLO DISTRIBUCIÓN DE MESAS PARA EL COMEDOR DE LA EMPRESA ........................................... 54
+ANEXO #4-EJEMPLOS DE ENCUESTAS QUE SE PUEDEN UTILIZAR EN EL ÁREA DE RECEPCIÓN DE LA EMPRESA ............ 55
+ANEXO #5-FICHA PARA REGISTRO DE CASO SOSPECHOSO O CONFIRMADO ...................................................... 58
+ANEXO #6-FICHA DE INVESTIGACIÓN PARA USO EN EL CONSULTORIO MÉDICO DE LA EMPRESA ............................ 59
+ANEXO #7-DECLARACIÓN JURADA DE COMPROMISO DE CUMPLIMIENTO DE LINEAMIENTOS ANTE CONSEJO SALUD
+OCUPACIONAL ................................................................................................................................. 61
+ANEXO #8- DECLARACIÓN JURADA PARA INFORMAR A LA AUTORIDAD DE SALUD SOBRE LAS ACCIONES REALIZADAS
+PARA LA CONTINUIDAD DEL NEGOCIO EN CASO DE CONFIRMAR CASO POSITIVO COVID-19 EN EL PERSONAL............ 63
+REFERENCIAS............................................................................................................................... 65
+3
+1.PRESENTACIÓN
+En el marco de la declaratoria de estado emergencia nacional en todo el territorio de la República
+de Costa Rica, oficializada mediante Decreto Ejecutivo 42227-MP-S producto del COVID-19, se
+conformaron en el marco del Centro de Operaciones de Emergencia (COE) diversas mesas de trabajo
+enfocadas en temáticas vitales para la atención de la primera fase de respuesta.
+No obstante, dadas las características de la pandemia y las formas diversas del contagio del virus,
+se han definido medidas sanitarias preventivas por parte del Ministerio de Salud, como ente rector
+en el contexto de esta fase de repuesta y ante un contagio en un centro de trabajo y la inminente
+emisión de una orden sanitaria, se elaboró esta guía que permite a las empresas privadas disponer
+de una herramienta para orientar su trabajo, así como comunicar sus acciones a las autoridades
+sanitarias.
+Ante la conformación de un caso positivo en el personal y las medidas sanitarias que deberán
+tomarse, así como un cierre preventivo de instalaciones o parte de éstas, resulta necesario
+preguntarse ¿Qué tan preparada se encuentra la empresa? ¿Disponemos de una capacidad
+instalada para sustituir personal? ¿Tengo identificadas mis áreas de riesgo para la continuidad del
+negocio? ¿Disponemos de un plan general? ¿Mi plan específico para el COVID-19 es idóneo? ¿Cómo
+debo actuar de forma preventiva? ¿Cómo debo actuar ante un caso confirmado con mi personal?
+El país requiere de una adecuada preparación de su parque empresarial para la atención de
+emergencias y desastres, y para la presente pandemia del COVID-19, específicamente cuyas
+medidas de orden público son inéditas y han incidido en la movilidad diaria, afectación de cadenas
+de valor y los flujos de bienes en los canales usuales de comercio interno, así como la importación y
+exportación de productos. Es necesario que Costa Rica pueda mitigar lo más pronto posible el
+impacto de la presente emergencia en el tejido empresarial y la normal operación de sus
+actividades.
+Es importante la implementación de planes y acciones que permitan prevenir el contagio en los
+centros de trabajo y en caso de probable ocurrencia informar a las autoridades sanitarias sobre las
+medidas tomadas como por ejemplo: distanciamiento social interno, aislamiento de las unidades
+funcionales y un claro protocolo en caso de requerir una limpieza.
+A la fecha Costa Rica dispone de un parque empresarial de poco más de 133 mil empresas, de las
+cuales cabe mencionar que las Micro, Pequeñas y Medianas Empresas representan un 97% del total,
+razón por el cual es fundamental un compromiso con la aplicación de las recomendaciones de la
+presente guía.
+Para la sociedad costarricense mantener a los habitantes con su trabajo y el sustento para sus
+familias requiere de la continuidad en las operaciones de las empresas y que los ingresos van a
+existir y seguirá atendiendo los mercados para lo cual estas trabajan.
+Al ser conscientes del desafío de la presente emergencia nacional y los alcances de la pandemia en
+el ámbito local e internacional, se requiere de una acción conjunta entre actores públicos, privados
+4
+y academia para atender en la fase de respuesta y mitigar los impactos en nuestro parque
+empresarial.
+¿Qué se busca con la Guía?
+• Orientar al empresariado costarricense hacia una cultura de prevención en sus centros de
+trabajo desde una lógica de continuidad del negocio.
+• Motivar a los diversos sectores para que de forma organizada y con base en los lineamientos
+generales, emitan lineamientos específicos según sus particularidades.
+• Coadyuvar al fortalecimiento de capacidades en las empresas en materia de salud
+ocupacional y prevención de riesgos.
+• Generar lineamientos que permitan valorar las condiciones de funcionamiento actual de la
+empresa y para el óptimo restablecimiento de su operación ante un contagio en su personal
+y la aplicación de medidas sanitarias.
+• Incentivar al parque empresarial para constituir redes de cooperación horizontal de forma
+que empresas mejor preparadas apoyen a sus proveedores y otras empresas del sector a
+enfrentar la presente emergencia.
+• Promover la adopción de la presente guía en el seno del sector organizado privado y de las
+organizaciones de la economía social para que sus organizaciones lo incorporen como parte
+de sus compromisos gremiales y sectoriales.
+El presente documento fue elaborado con la colaboración de profesionales del sector privado y
+público en el área de salud, derecho, políticas públicas, administración pública, administración de
+negocios, ingeniería industrial que desde una perspectiva interdisciplinaria y en el corto plazo
+permitiera disponer de una guía para nuestro parque empresarial. La cual puede actualizarse con
+lineamientos específicos por sectores.
+5
+2.EQUIPO DE TRABAJO DE LA GUÍA
+Amparados a la Ley Nacional de Prevención del Riesgo y Atención de Emergencia, como ente rector
+del Sistema Nacional de Gestión del Riesgo y la articulación del Centro de Operaciones de
+Emergencia y la creación de las mesas sectoriales se conformó para la atención coordinada de la
+Pandemia COVID-19 distintas mesas de trabajo, para este sector la mesa de Infraestructura
+Productiva y la sub mesa “Continuidad del Negocio” conformada por representantes del sector
+privado y del sector público los cuales elaboraron este documento:
+PARTICIPACIÓN DE REPRESENTANTES DE INSTITUCIONES GUBERNAMENTALES:
+Alexander Solís Delgado, Comisión Nacional de Emergencias
+Leonardo Chacón Rodríguez, Ministerio de Economía, Industria y Comercio
+Andrés Arias Rodríguez, Ministerio de Trabajo y Seguridad Social
+Adriana Bonilla, Ministerio de Trabajo y Seguridad Social
+María Gabriela Valverde, Consejo de Salud Ocupacional
+Dahianna Marín, Ministerio de Economía, Industria y Comercio
+PARTICIPACIÓN DE REPRESENTANTES DEL SECTOR PRIVADO:
+Rebeca Blen Esposito, MULTIPROSA
+Ronald Rodríguez Acosta, MULTIPROSA
+Sergio Lizano, ICU Medical
+Luis Marín Mora, Boston Scientific
+Isabel Sáenz, Consultora Independiente
+Nerea Olabarrieta Barquero, RAE Ingenieros
+6
+3.LINEAMIENTOS GENERALES
+Una pandemia ocurre cuando surge un nuevo virus para el cual no existe inmunidad en la población,
+comienza a causar enfermedades en algún sitio y se propaga fácilmente de persona a persona en
+todo el mundo; como es el caso del COVID-19.
+Ante la declaratoria de emergencia nacional, resulta de vital importancia que las empresas e
+industrias establezcan una planificación efectiva, para minimizar el impacto sobre la población
+trabajadora, sus clientes y sus familias.
+Las empresas pueden tener ausentismo por parte de sus trabajadores debido al COVID-19, lo cual
+puede afectar hasta el 20% de la fuerza laboral durante los períodos de enfermedad, por varias
+razones: porque se necesita contener el virus y se envían a cuarentena cuando hay sospechas de
+contagio; porque las personas trabajadoras deben hacerse cargo del cuidado de familiares enfermos
+o de los niños (ya que se giran órdenes de cierre a las escuelas y guarderías) o porque son personas
+vulnerables que no pueden continuar con sus labores normales en los centros de trabajo. Asimismo,
+se puede dar ausentismo por el miedo de acudir al trabajo, si las personas trabajadoras no cuentan
+con la información adecuada.
+La mejor manera de reducir el impacto de la pandemia por COVID-19 en el ámbito laboral, ya sea
+sobre la población trabajadora, los clientes, los contratistas o el público en general, es con medidas
+que permitan proteger la salud, privilegiando la prevención y actuando de manera precisa y
+oportuna en la atención de las personas que enferman.
+3.1 ¿QUÉ ES EL CORONAVIRUS (COVID-19)?
+Los coronavirus (CoV) son una amplia familia de virus que pueden causar diversas afecciones, desde
+el resfriado común hasta enfermedades más graves, como ocurre con el coronavirus causante del
+síndrome respiratorio de Oriente Medio (MERS-CoV) y el que ocasiona el síndrome respiratorio
+agudo severo (SARS-CoV). Según lo indica la OPS/OMS (2020) “Se transmite por contacto con otra
+persona que esté infectada por el virus o por contacto con superficies contaminadas. De esta
+manera, la enfermedad puede propagarse de persona a persona a través de las gotitas procedentes
+de la nariz o la boca que salen despedidas cuando una persona infectada habla, tose o estornuda.
+Además, si estas gotas caen sobre los objetos y superficies que rodean a la persona, de modo que
+otras personas pueden tocar estos objetos o superficies y luego se tocan los ojos, la nariz o la boca y
+se catalogó como pandemia debido a la identificación de casos en todos los continentes”.
+¿A quiénes afecta?:
+Cualquier persona puede ser contagiada, sin embargo, existen grupos vulnerables como lo son
+personas con problemas o debilidad en sus sistemas inmunológicos, adultos mayores o con
+afecciones crónicas. Los grupos más afectados con esta enfermedad, según la Organización Mundial
+de la Salud (OMS) son:
+7
+• Personas que cuidan a alguien que esté enfermo.
+• Personas mayores de 60 años.
+• Personas con afecciones médicas crónicas como: hipertensión arterial, enfermedades del
+corazón, diabetes, asma, VIH+ y personas con su sistema inmune suprimido.
+• Mujeres embarazadas.
+Modo de transmisión de la enfermedad
+Existen dos formas de contagio:
+• de persona a persona. Puede propagarse por medio de las “gotículas” procedentes de la nariz o
+la boca que salen despedidas cuando una persona infectada tose o exhala.
+• por superficies que rodean a la persona enferma, de modo que otras personas pueden contraer
+el virus si una persona sana toca estos objetos o superficies sucias y luego se tocan los ojos, la
+nariz o la boca ya que las “gotículas” duran hasta 3 horas suspendidas en el aire.
+Síntomas:
+En los casos confirmados del COVID-19, los síntomas han variado de leves a graves, y hasta
+produjeron muertes. Estos síntomas pueden aparecer 2 a 14 días después de la exposición y entre
+los más comunes se pueden incluir:
+• Fiebre.
+• Dolor de garganta.
+• Tos.
+• Dolor de cabeza.
+• Dificultad para respirar (disnea).
+• Escalofríos y malestar general.
+• En algunos casos han presentado: Secreción nasal y diarrea.
+Prevención:
+Actualmente no existe una vacuna para prevenir el COVID-19. La mejor forma de prevenir es evitar
+la exposición a este virus y mantener las medidas de higiene adecuadas. Como parte de las medidas
+de prevención se deben seguir los lineamientos establecidos por el Ministerio de Salud y que deben
+aplicarse de manera inmediata durante el desarrollo de las labores en cada empresa.
+8
+3.2 OBJETO Y CAMPO DE APLICACIÓN
+La aplicabilidad de esta guía está orientada a todas las empresas de servicios e industrias de Costa
+Rica para la atención de la emergencia nacional a causa del COVID-19.
+Acciones sectoriales y lineamientos para sectores y actividades
+empresariales del país
+Se constituye como una guía que permita a las empresas elaborar estrategias preventivas en el
+marco de la emergencia nacional COVID-19 y ofrece una herramienta para valorar la decisión de la
+continuidad operativa de la organización. Es importante que todos los grupos organizados del sector
+privado, de la economía social y otros promuevan la aplicación de la misma.
+Se invita a las instancias representantes de las diversas organizaciones del país en el marco de sus
+facultades y funciones adoptar la presente guía como una herramienta de trabajo para sus
+organizaciones miembro. El mayor alcance de la presente guía en el parque empresarial
+costarricense permitirá mitigar los impactos de la presente emergencia nacional y garantizar la
+continuidad del negocio y el bienestar de las personas y familias que forman parte fundamental del
+personal y colaboradores.
+3.3 DEFINICIONES
+• Amenaza: peligro latente representado por la posible ocurrencia de un fenómeno peligroso, de
+origen natural, tecnológico o provocado por el ser humano, capaz de producir efectos adversos
+en las personas, los bienes, los servicios públicos y el ambiente. (CNE, 2015). En el caso de la
+pandemia COVID-19 se agruparía de origen natural y de tipo biológico.
+• Autoridad Sanitaria Competente: Corresponde al Área Rectora de Salud en la cual se ubica
+físicamente la operación del centro de trabajo en el cual se presenta una situación vinculada con
+el COVID-19.
+• Coronavirus- COVID-19: Los coronavirus son una extensa familia de virus que pueden causar
+enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios
+coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta
+enfermedades más graves como el síndrome respiratorio.
+• Caso sospechoso: El caso sospechoso contempla las siguientes posibilidades:
+1. Persona con infección respiratoria aguda (fiebre y al menos un signo o síntoma de
+enfermedad respiratoria (por ejemplo, tos, dificultad respiratoria, dolor de garganta,
+congestión nasal) y que cumpla al menos uno de los siguientes criterios:
+a. No tener otra etiología que explique completamente la presentación clínica del evento.
+b. Un historial de viaje fuera del país en los 14 días previos al inicio de los síntomas.
+c. Antecedente de haber iniciado el cuadro clínico ya descrito en los 14 días posteriores de
+haber estado en contacto cercano con alguna persona con historial de viaje fuera del país en
+los últimos 14 días de haber ocurrido ese contacto.
+9
+2. Persona mayor de 15 años con infección respiratoria aguda grave (IRAG). En el caso de los
+menores de 15 años será la IRAG sin otra etiología que explique completamente la presentación
+clínica.
+3. Una persona con anosmia (pérdida del sentido del olfato) o disgeusia (cambio en la
+percepción del gusto), sin otra etiología que explique la presentación clínica.
+4. Paciente con enfermedad respiratoria aguda de cualquier grado de severidad, que dentro de
+los 14 días anteriores al inicio de la enfermedad tuvo contacto físico cercano con un caso
+confirmado, probable o sospechoso por COVID-19.
+Independientemente de los criterios de clasificación de caso, si el médico tratante considera
+que existen suficientes sospechas clínicas y/o epidemiológicas, podrá definir la necesidad de
+tomar la prueba por COVID-19.
+• Caso Probable: El caso probable contempla las siguientes posibilidades:
+1. Un caso sospechoso para quien la prueba para el virus COVID-19 no es concluyente.
+2. Un caso sospechoso para quien la prueba no pudo realizarse por algún motivo.
+• Caso confirmado: Corresponde a una persona a quien se la ha confirmado, la infección por el
+virus que causa la enfermedad COVID-19, indistintamente de los síntomas y signos clínicos. La
+confirmación la harán los laboratorios públicos y privados que cuenten con una prueba de
+PCRRT capaz de identificar genes de SARS-CoV-2, que cuenten con autorización de una entidad
+regulatoria externa tal como FDA o su equivalente, debidamente autorizada por el Ministerio
+de Salud, así como el Centro Nacional de Referencia de Virología de Inciensa.
+Definición de IRAG: La persona se clasifica como IRAG si presenta: Historia de fiebre o fiebre de
+38°C o más y, Dolor de garganta o tos y, Disnea o dificultad respiratoria y, con aparición dentro
+de los últimos 10 días, y necesidad de hospitalización (según criterios establecidos en el
+Protocolo Nacional de Vigilancia de la persona con Influenza y otras virosis)
+• Cuarentena o Aislamiento: Es una restricción de las actividades que se realizan habitualmente
+fuera del domicilio, para aquellas personas que estuvieron expuestas a un agente infeccioso, y
+que actualmente no tienen síntomas. Pudiendo desarrollar la enfermedad y por lo tanto
+transmitirla a otras personas.
+• Control Epidemiológico: Es el control documental que se debe realizar en la empresa con el
+enfoque de documentar el desarrollo de actividades de prevención, detección temprana,
+diagnóstico, tratamiento, control y eliminación de las enfermedades transmisibles que afectan
+a la población.
+• Declaración jurada: Documento emitido por la persona responsable general de la empresa del
+cumplimiento de los lineamientos generales, así como los específicos en el cual de remitir a la
+autoridad pública competente. La declaración jurada deberá acompañarse de la documentación
+que demuestre la aplicación de las medidas y la contribución con las autoridades con el
+cumplimiento de la presente guía o informar de las acciones realizadas si se llegara a confirmar
+un caso positivo en su personal.
+• Documentación: Se refiere a que toda acción en marco de los lineamientos generales deberá
+quedar debidamente documentada y formalizada y disponible de forma oportuna ante el
+requerimiento de la autoridad sanitaria competente.
+10
+• Emergencia: estado de crisis provocado por el desastre y basado en la magnitud de los daños y
+las pérdidas. Es un estado de necesidad de y urgencia, que obliga a tomar acciones inmediatas
+con el fin de salvar vidas y bienes, evitar el sufrimiento y atender las necesidades de los
+afectados. Puede ser manejada en tres fases progresivas de respuesta, rehabilitación y
+reconstrucción, se extiende en el tiempo hasta que se logre controlar la definitivamente
+situación. (CNE, 2015)
+• Mitigación: aplicación de medidas para reducir el impacto negativo que provoca un suceso de
+origen natural, humano o tecnológico. (CNE, 2015)
+• Nexo epidemiológico: Se habla de nexo epidemiológico en el caso del coronavirus, cuando una
+persona que haya tenido contacto con otra ya confirmada con el Covid-19, o que haya estado
+en lugares que ya se sabe que hay circulación del virus, vuelve al país y en el lapso de catorce
+días de haber vuelto, tiene síntomas respiratorios. Esa persona tiene mayor probabilidad de
+tener Coronavirus y ese es el nexo, porque sabemos que ahí está circulando.
+• Orden sanitaria: Acto administrativo mediante el cual el Ministerio de Salud hace del
+conocimiento de la persona interesada, de una resolución o disposición particular o especial en
+resguardo de la salud y el ambiente, la cual es de acatamiento obligatorio y debe ser ejecutada
+en el plazo que se indique. Con la emisión de una orden sanitaria el Ministerio de Salud da inicio
+al debido proceso a que tiene derecho la persona interesada.
+• Propagación (COVID-19): Una persona puede contraer la COVID-19 por contacto con otra que
+esté infectada por el virus. La enfermedad puede propagarse de persona a persona a través de
+las (gotas) procedentes de la nariz o la boca que salen despedidas cuando una persona infectada
+tose o exhala. Estas gotas caen sobre los objetos y superficies que rodean a la persona, de modo
+que otras personas pueden contraer la COVID-19 si tocan estos objetos o superficies y luego se
+tocan los ojos, la nariz o la boca. También pueden contagiarse si inhalan las gotas que haya
+esparcido una persona con COVID-19 al toser o exhalar. Por eso es importante mantenerse a
+más de 1,8 metros de distancia de una persona que se encuentre enferma.
+• Protocolo: Es el término que se emplea para denominar al conjunto de normas, reglas y pautas
+que sirven para guiar una conducta o acción.
+• Riesgo: probabilidad de que se presenten pérdidas, daños o consecuencias económicas,
+sociales o ambientales en un sitio particular y durante un periodo definido. Se obtienen al
+relacionar la amenaza con la vulnerabilidad. (CNE, 2015)
+• Virus: Es un agente infeccioso microscópico celular que solo puede multiplicarse dentro de las
+células de otros organismos.
+• Vulnerabilidad: condición intrínseca de ser impactado por suceso a causa de un conjunto de
+condiciones y procesos físicos, sociales, económicos y ambientales. Se determina por el grado
+de exposición y fragilidad de los elementos susceptibles de ser afectados-la población, sus
+haberes, las actividades los bienes y servicios y el ambiente- y la limitación de su capacidad para
+recuperarse. (CNE, 2015)
+11
+3.4 OBLIGACIONES DE LA PERSONA EMPLEADORA
+• Corresponde a la persona empleadora cumplir con lo dispuesto en la presente guía y lo que
+establecen las disposiciones legales nacionales vigentes.
+• Proporcionar información a todas las personas trabajadoras sobre el COVID-19, así como las
+medidas de higiene que se deben seguir durante la ejecución de las actividades.
+• Proporcionar en los centros de trabajo insumos para una adecuada higiene, como agua, jabón y
+papel toalla para el secado de manos, además de comunicar la persona encargada del
+abastecimiento.
+• Preparar y difundir mensajes, así como las prácticas saludables (de fuentes oficiales: Ministerio
+de Salud y CCSS) mediante: charlas informativas, habilitar puntos de información, distribuir
+material informativo y recordatorio como afiches o medios electrónicos.
+• Comunicar a su personal la importancia del cumplimiento de los lineamientos y disposiciones
+emitidos por el Ministerio de Salud, tanto en el centro de trabajo como en sus espacios
+personales.
+• Tener clara la política o protocolos a seguir ante posibles escenarios de emergencia,
+responsables, canales de comunicación y difundir esto a todos los trabajadores.
+• Actualizar su Plan de Preparativos y de Respuesta ante Emergencia con el escenario de
+pandemia si no lo tienen contemplado.
+• Mantener actualizado el contacto y formas de comunicación oportuna con el Área Rectora de
+Salud del centro de trabajo o lugar de operaciones en el cual se presente alguna situación
+vinculada con la emergencia COVID-19.
+• Comunicar y coordinar de forma inmediata con la autoridad sanitaria competente ante la
+confirmación de un caso COVID-19 en alguna persona trabajadora a su cargo.
+• Brindar atención oportuna a la notificación de una orden sanitaria.
+• Informar mediante declaración jurada a la autoridad sanitaria competente de los planes de la
+empresa en atención de los lineamientos generales y las acciones ejecutadas para la atención
+de un caso confirmado, a fin de disponer de autorización para restablecer operaciones.
+• Oficializar mediante comunicado interno a su personal la obligatoriedad del cumplimiento de
+los lineamientos generales, así como los específicos que emita la empresa para la atención
+prevención y atención ante un caso confirmado.
+• Velar y propiciar para que entorno a su empresa se cumplan los lineamientos establecidos y
+emanados por las autoridades nacionales.
+• Fortalecer capacidades institucionales en preparativos y respuesta ante emergencias y
+desastres.
+• Facilitar herramientas tecnológicas para realizar videoconferencias o reuniones virtuales.
+3.5 OBLIGACIONES DE LA PERSONA TRABAJADORA:
+• Informar al patrono cualquier síntoma o condición de salud que ponga en riesgo su vida y la de
+sus compañeros.
+• Informar si ha estado en contacto con un caso positivo.
+• Solicitar y utilizar elementos de protección personal y usarlos según normativa o indicaciones.
+• Participar en las capacitaciones que realice la persona empleadora sobre el coronavirus.
+• Proceder responsablemente ante las medidas de prevención y control establecidas por la
+empresa y la autoridad sanitaria del país. Por ejemplo: teletrabajo cuando aplique.
+• Acatar las disposiciones establecidas en esta guía.
+12
+• Hacer uso adecuado de los recursos proporcionados por la organización.
+• Acatar lo establecido por el Ministerio de Salud para la contención de la emergencia disponible
+en https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-
+2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
+• Colaborar con la diseminación oficial de información sobre la pandemia y reducir los rumores.
+3.6 RESPONSABILIDADES SUGERIDAS AL DEPARTAMENTO DE SALUD
+OCUPACIONAL:
+• Contar con registro de capacitaciones, registros de entrega de EPP y de insumos de limpieza.
+• Registrar y documentar toda medida preventiva realizada.
+• Priorizar mayores de 60 años y casos con morbilidades (incluidas gestantes).
+• Revalorar aptitud médica de las personas trabajadoras previamente, ante cualquier cambio
+en la organización del trabajo.
+• Evaluar requerimientos de salud, seguridad y ergonomía, en caso de que se contemple
+realizar teletrabajo.
+• Elaboración de documentos y herramientas que permitan realizar seguimiento y control de
+los trabajadores en tema de salud integral.
+3.7 MEDIDAS DE CONTROL:
+El deber de protección de la persona empleadora implica que ésta debe garantizar la seguridad y la
+salud de las personas trabajadoras a su servicio, en todos los aspectos relacionados con el trabajo
+que están bajo su ámbito de dirección, es decir bajo su capacidad de control.
+Dado lo anterior, cabe aclarar los diferentes casos que se pueden presentar en la empresa para que
+la identificación sea oportuna, y su manejo sea rápido y adecuado:
+Casos sospechosos:
+Todo colaborador que ha estado con síntomas de resfrío y que ha estado en contacto con personas
+que fueron diagnosticadas comocasos sospechosos, probables o confirmados, deben acudir al centro
+médico de la empresa o EBAIS correspondiente para la valoración médica respectiva, durante este
+período el centro médico le otorgará una incapacidad por el tiempo que sea necesario.
+Si durante la jornada laboral el trabajador presenta síntomas o indica que ha estado en contacto con
+personas que fueron diagnosticadas como casos sospechosos, probables o confirmados y se
+considera como un caso sospechoso, se deben seguir las siguientes recomendaciones:
+• Brindar por parte del empleador a la persona trabajadora protección respiratoria (mascarilla o
+respirador) e indicarle que debe permanecer en un área con acceso restringido hasta que sea
+trasladado por las autoridades correspondientes.
+• Comunicar inmediatamente al Sistema de Emergencias 9-1-1 para efectos de coordinar
+asistencia. Sujeto al protocolo de manejo clínico de los casos sospechosos o confirmados de
+COVID-19 del Ministerio de Salud o de la CCSS.
+13
+• En caso de exposición de otras personas trabajadoras solicitar instrucciones al Ministerio de
+Salud por parte del encargado inmediato, bajo la coordinación de la Oficina de Salud
+Ocupacional.
+• Informar al INS sobre la sospecha de enfermedad profesional (aviso correspondiente).
+• Mantener desde la Oficina de Salud Ocupacional, comunicación con el afectado o familiar
+referido para conocer los resultados de la sospecha.
+• Si la persona trabajadora ha sido diagnosticada como “caso sospechoso”de Coronavirus (COVID-
+19) por un médico debe:
+o Mantenerse en “aislamiento domiciliar”
+o Cumplir con las indicaciones de “aislamiento domiciliar”
+oficializadas por el Ministerio de Salud.
+Casos probables o confirmados:
+Si una persona trabajadora es diagnosticada como caso “probable” o “confirmado”, ya sea por un
+contagio dentro o fuera del centro de trabajo debe seguir las instrucciones suministradas por el
+establecimiento de salud o el protocolo definido por el Ministerio de Salud para estos casos y
+comunicarlo de manera inmediata a la organización.
+Los casos serán manejados en apego estricto a los lineamientos del Ministerio de Salud y la Comisión
+de Nacional de Prevención de Riesgos y Atención de Emergencias. Todos los protocolos
+implementados deben asegurar la confidencialidad de la información y proteger la identidad de los
+pacientes, de forma que esta información se comparta solo con la alta dirección y la gerencia del
+departamento de Recursos Humanos cuando así sea requerido.
+La organización deberá definir internamente el manejo de medios de comunicación (prensa) cuando
+así se requiera.
+La empresa está en la obligación de acatar todas las disposiciones establecidas por parte de
+Ministerio de Salud, además, tomará en consideración los siguientes puntos:
+• Toda persona trabajadora que mantuvo contacto directo con un caso confirmado, aunque no
+presente síntomas, le será girada una orden sanitaria de aislamiento domiciliario a cargo del
+Ministerio de Salud, por un espacio total de 14 días, los cuales se contarán a partir de la fecha
+en que se dio el último contacto con el caso confirmado, durante ese tiempo la persona
+trabajadora estará cubierto por una incapacidad otorgada por el centro médico de la CCSS.
+• Se dará seguimiento telefónico a los pacientes para monitorear si desarrollan o no síntomas,
+durante todo el tiempo de aislamiento. El respectivo seguimiento queda a cargo de la CCSS ya
+que es la entidad que puede girar la orden de traslado del paciente al centro médico en caso
+de agravamiento del cuadro o, en caso contrario, de emitir la solicitud de aplicación de las
+pruebas para eventualmente poder dar de alta al paciente.
+• Se llevará a cabo una limpieza profunda de todas las áreas de las instalaciones o infraestructura
+física cuando se confirme el caso, por lo que se enviará a todo el personal para sus casas.
+• Se comunicará a todo el personal la situación y se realizará el monitoreo de los trabajadores que
+presenten síntomas posteriores a la confirmación del caso, aún si no mantuvieron contacto
+cercano con la persona trabajadora afectada.
+• Se la persona confirmada tuvo contacto físico con clientes o compañeros se les deberá
+comunicar de manera inmediata.
+14
+• El reintegro a labores de la persona trabajadora afectada se realizará mediante alta médica
+expedida por el médico de la CCSS. Asimismo, en caso de existir, el Departamento de Salud
+Ocupacional, se deberá encargar de brindar la vigilancia correspondiente.
+Cuarentena o Aislamiento Domiciliario:
+Es una restricción de las actividades que se realizan habitualmente fuera del domicilio, para aquellas
+personas afectadas por el COVID-19 o que estuvieron expuestas a un agente infeccioso, y que
+actualmente no tienen síntomas. Pudiendo desarrollar la enfermedad y por lo tanto transmitirla a
+otras personas. Recuerde mantener distanciamiento social de al menos un metro.
+¿Por qué me indicaron estar en aislamiento domiciliario (cuarentena)?:
+1. He regresado de un país que tiene un brote activo de COVID-19.
+2. Estuve en contacto estrecho con un caso confirmado de COVID-19.
+3. Ha sido diagnosticado con COVID-19.
+¿Para qué debo estar en aislamiento domiciliario (cuarentena)?:
+1. Para prevenir que en caso de enfermarme de COVID-19 contagie a otras personas.
+2. Para acceder al tratamiento en caso de presentar la enfermedad.
+¿Cuánto durará el aislamiento domiciliario (cuarentena)?
+El aislamiento domiciliario (cuarentena) durará 14 días, desde que estuvo en contacto con una
+persona con COVID-19 en su periodo sintomático o desde la fecha de salida de un país que tiene un
+brote activo de COVID-19. El tiempo del aislamiento domiciliario (cuarentena) está determinado por
+el periodo de incubación del SARS-CoV-2.
+¿Puedo trabajar?
+Recuerde que la persona trabajadora estará en aislamiento domiciliario (cuarentena) de manera
+preventiva y no tiene síntomas, por lo que puede realizar teletrabajo si su ocupación lo permite.
+¿Qué pasa si enfermo o tengo síntomas durante el aislamiento domiciliario (cuarentena)?
+Recuerde que todos los días que dure el aislamiento domiciliario (cuarentena) debe estar atento a
+la aparición de síntomas sugerentes de infección respiratoria, tales como fiebre, dolor de garganta,
+dolores musculares, tos y dificultad para respirar. Para verificar la aparición de fiebre, debe realizar
+control de temperatura cada 12 horas.
+15
+Si presenta síntomas sugerentes de infección respiratoria o fiebre señalados, debe notificarlo a su
+supervisor directo y dirigirse al centro de salud más cercano.
+El traslado, en lo posible, deberá ser realizado a través de un medio que involucre el menor contacto
+con personas, evitando particularmente el contacto con adultos mayores o pacientes con
+enfermedades crónicas. Para el traslado deberá usar mascarilla, si no posee mascarilla avise al llegar
+al centro de salud y ellos le brindarán los implementos correspondientes.
+.
+16
+A continuación, se presenta un esquema para saber cómo actuar en cada caso que se presente:
+.
+17
+3.8 ESTRATEGIAS PARA PREVENIR EN LAS EMPRESAS LA PROPAGACIÓN DEL
+COVID-19
+Es importante iniciar con estas recomendaciones, de forma inmediata, indistintamente si COVID-19
+ha llegado o no a las comunidades donde está inserto el centro de trabajo:
+• Revisar los lineamientos del Ministerio de Salud para la prevención del contagio de COVID-
+19, y asegurarse que su plan cumple dichos lineamientos.
+• Informar al personal sobre los cuidados que se deben tener para evitar contagio de COVID-
+19. Se recomienda colocar información visual con los lineamientos establecidos por el
+Ministerio de Salud (Ver Anexo 1: Ejemplos de Protocolo de Estornudo, Protocolo de Lavado
+de Manos, Escudo Covid-19, etc.).
+• Intensificar la limpieza de superficies con mayor contacto con las manos (pasamanos,
+perillas o barras de puertas, llavines, mostradores de recepción, etc.) (Ver Anexo 2)
+• Asegurar el inventario de utensilios y químicos de limpieza, así como equipo de protección
+para estas labores.
+• Minimizar el contacto, cara a cara, entre los trabajadores a través del uso extendido de
+correo electrónico, sitios web y videoconferencias.
+• Facilitar el trabajo a distancia o los horarios de trabajo flexibles para reducir la cantidad de
+trabajadores que deben estar en un momento o en un lugar específico.
+• Promover la entrega a domicilio de bienes y servicios para reducir la cantidad de clientes
+que deben salir al punto de venta.
+• Planes de comunicación de emergencia. Mantener un espacio de comunicación para
+responder a las preocupaciones de los trabajadores.
+• Otorgar la posibilidad de hacer teletrabajo a las personas trabajadoras que tengan funciones
+que se pueden hacer desde la casa. Implementar el teletrabajo de acuerdo con la “Ley 9738
+Ley para Regular el Teletrabajo”.
+• Proveer insumos necesarios para la higiene personal y limpieza de las áreas de trabajo a las
+personas trabajadoras, por ejemplo: jabón de manos antibacterial, desinfectantes para
+manos a base de alcohol que contengan al menos 70% de alcohol, desinfectantes adecuados
+y toallas desechables basureros sin contacto.
+• Asegurar un inventario de Equipo de Protección Personal para las labores de la empresa que
+así lo requieran, con el fin de proteger a las personas trabajadoras y evitar impacto a las
+operaciones en caso de escases de los mismos.
+• Dividir a las escuadras de personas trabajadoras o equipos de producción, en grupos para
+asegurar que existan “equipos back up o de respaldo” que puedan asegurar la producción
+en todos los turnos de trabajo. En este caso se debe asegurar que en cada cambio de grupo
+de personas trabajadoras se realice previamente una limpieza profunda de las áreas de
+trabajo, superficies, equipos y herramientas.
+• Reducir o restringir visitas de personal externo a la operación o contratistas, manteniendo
+solamente aquellas relacionadas a temas críticos, por ejemplo: proveedores de
+mantenimiento de maquinaria, equipos e insumos básicos para la continuidad de la
+operación.
+18
+• En la medida de lo posible restringir el uso de teléfonos celulares durante la jornada de
+trabajo debido a que el celular se considera una superficie transmisora.
+• Restricción de viajes que no sean estrictamente necesarios. Lo recomendable es cancelar
+los viajes por completo.
+• Evitar aglomeraciones de personas trabajadoras, clientes, visitas, etc.:
+o Establecer reglas para modificar la frecuencia y el tipo de contacto de persona a
+persona, por ejemplo: reuniones, distribución de las mesas de trabajo en la oficina,
+turnos de alimentación, etc.)
+o Hacer reuniones virtuales en la medida de lo posible.
+o Bloquear sillas en los comedores para mantener una distancia entre personas de
+mínimo 1.5 metros (Ver Anexo 3: Ejemplo de Distribución de mesas para el comedor
+de la empresa).
+o Modificar los horarios de ingreso de turnos de trabajo para evitar coincidencia de
+personas durante los cambios de turno.
+o Es importante aclarar que no pueden hacerse cambios de jornadas, es decir, no
+podría pasarse trabajadores de jornada mixta o diurna a trabajar en jornada
+nocturna ya que sería una medida ilegal.
+o El aumento de horarios de trabajo a jornadas de 12 horas es ilegal mientras no se
+tenga aprobada la Ley de Jornadas Excepcionales.
+o Ejecutar la política de teletrabajo para reducir la cantidad de personas en la
+empresa. Aprovechar la política de teletrabajo en operaciones duplicadas, de
+manera tal que, si una de las personas tiene que mantenerse en cuarentena, la otra
+persona no resulte contagiada.
+• Si la empresa cuenta con médico y tiene establecido consultorio médico, actualizar y
+establecer los protocolos (alineados a las directrices del Ministerio de Salud) y entrenar al
+personal para la atención de casos sospechosos de COVID-19, así como dotarlos del equipo
+de protección y del equipo requerido para la debida atención. Se debe asegurar los recursos
+necesarios para la atención de los pacientes.
+• La Oficina de Salud Ocupacional o la Comisión de Salud Ocupacional del centro de trabajo,
+se encargará de hacer un censo para determinar las personas en condición de salud
+vulnerable y tomar acciones preventivas para reducir el riesgo de contagio. De acuerdo al
+caso, se tomarán medidas como enviar a la persona trabajadora a realizar teletrabajo, a que
+goce de vacaciones, etc.
+• Oficializar políticas laborales que alienten a los trabajadores enfermos a quedarse en casa
+sin temor a represalias.
+• Mantener un registro de ausencias por gripe o COVID-19 por área de la empresa.
+• Notificar al médico de empresa si se presenta un aumento inusual de enfermos o de
+incapacidades.
+• Aplicar la cuarentena o aislamiento social cuando sea indicado por la autoridad sanitaria.
+• Implementar métricas, así como sistemas de monitoreo y evaluación sobre las acciones
+efectuadas para la respuesta ante COVID-19.
+.
+19
+3.9 COMUNICACIÓN Y DIFUSIÓN DE MEDIDAS PREVENTIVAS Y DE INTERVENCIÓN
+20
+3.10 MEDIDAS DE ORGANIZACIÓN DEL TRABAJO
+21
+3.11 RECOMENDACIONES PARA LAS PERSONAS TRABAJADORAS
+22
+3.12MEDIDAS PARA REDUCIR EL IMPACTO A LA OPERACIÓN POR CASO
+POSITIVO DE COVID-19
+Preparación:
+1. Establecer un Comité Multidisciplinario que realice reuniones frecuentes dependiendo de
+la necesidad de la empresa, con la finalidad de analizar los posibles escenarios y tomar las
+decisiones pertinentes para reducir el impacto a las operaciones. Dentro de las funciones
+básicas de este equipo están:
+• Establecer un plan de comunicación bidireccional para todas las personas trabajadoras
+(hacia todos los niveles de la organización) para informar las medidas que la compañía
+está tomando, así como evacuar preguntas de las personas trabajadoras.
+• Determinar la persona contacto y definir el mecanismo de comunicación en caso de ser
+visitados por la autoridad competente del Ministerio de Salud.
+• Mantener actualizada la lista de contactos con instituciones y actores clave en caso de
+una emergencia.
+• Establecer el protocolo de comunicación para casos sospechosos de contagio de COVID-
+19 y documentarlo de acuerdo al ejemplo del Anexo # 4.
+• Determinar las operaciones y/o productos clave de la empresa y establecer los planes
+necesarios que garanticen suficiente personal entrenado, para cubrir en caso de que las
+personas trabajadoras de dichas operaciones y/o productos se ausenten por medidas de
+contención comunitaria (aislamientos, cuarentenas o el cierre de escuelas, etc) o posible
+interrupción del transporte público.
+• Plan para segmentar la operación, de manera tal que, las diferentes áreas de la compañía
+tengan el menor contacto posible entre ellas y de esta manera la cuarentena afecte a la
+menor cantidad de personas posible.
+• Asegurarse cadena de suministro de materias primas, suministro como agua,
+electricidad, gas, telefonía, internet, etc. y canales de distribución alternativos, en caso
+de que los proveedores se vean afectados.
+• Establecer un plan de almacenamiento temporal en caso de ser necesario.
+• Asegurarse que los proveedores de servicios esenciales tales como limpieza, cafetería y
+seguridad, cuenten con un plan de continuidad de negocios si se ven afectados por el
+COVID-19.
+• En caso de que la empresa cuenta con una flotilla de transporte propia con buses o
+microbuses entonces tomar las siguientes medidas:
+o La capacidad de los vehículos deberá ser solo del 50%.
+o Al finalizar cada “carrera” o viaje se debe realizar una limpieza profunda de
+superficies en general, pisos y asientos.
+o Determinar mecanismos de apoyo emocional a las personas trabajadoras y sus
+familias.
+• Disponer de un registro de proveedores de limpieza profunda y sanitización, en caso de
+que su empresa no disponga de una subcontratación permanente y especializada para
+este fin. El equipo deberá cerciorarse que la subcontratación actual está en capacidad
+23
+técnica de realizar la limpieza y sanitización conforme se indica en las acciones de
+rehabilitación.
+2. Se recomienda a las Empresas la sectorización de sus áreas productivas; estableciendo
+barreras físicas o de espacio para tener grupos “aislados” de trabajo, de forma tal que si
+ocurre un caso positivo por Covid-19 el impacto de cuarentena y orden sanitaria, esté
+restringido a una zona específica y el impacto sea menor.
+3. Las Empresas deben definir estrategias de planeamiento sobre:
+a. Sanitización de las áreas donde interactúo la persona,
+b. Medios de comunicación al personal,
+c. Medios de seguimiento de las personas impactadas,
+d. Medios de comunicación con las autoridades de Salud
+e. Métodos de evaluación de riesgos de contagio e impacto
+f. Otros
+4. Las Empresas establecerán medios de control epidemiológico, desde la perspectiva de salud
+laboral y pública, para evitar los contagios en las áreas de trabajo, ejemplos:
+a. Sistemas de sanitización,
+b. Rutinas de limpieza ampliadas,
+c. Sistemas de limpieza de manos previo al ingreso a la Empresa y durante las
+actividades diarias,
+d. Educación y comunicación continua al personal sobre normativa vigente de limpieza
+y reporte de síntomas asociados al Covid-19
+e. Implementar un método para la detección de casos sospechosos de Covid-19 al
+ingreso de las instalaciones, con la finalidad de impedir el ingreso de dichos casos y
+evitar el contagio de más personas, por ejemplo, cuestionario para detectar
+síntomas asociados al Covid-19, medición de temperatura, etc.
+5. Las empresas deben establecer lineamientos, que eviten la aglomeración de personas en
+áreas comunes de la Empresa que incluyen, pero no se limitan a:
+a. Ocupación máxima de las áreas de ingesta de alimentos, definiendo distribuciones
+y horarios que reduzcan la ocupación y la exposición del personal.
+b. Ocupación máxima de salas de reunión, y la preferencia de reuniones virtuales.
+c. Uso de teletrabajo como herramienta funcional.
+d. Horarios por áreas para evitar aglomeraciones al ingreso y salida de turnos, u otras
+actividades que pueda generar aglomeraciones de personas.
+6. Las empresas remitirán al Consejo Salud Ocupacional Declaración Jurada del cumplimiento
+de los lineamientos de la presente Guía y la aplicación de la Herramienta de Decisión para
+la Continuidad Operativa como parte de las medidas preventivas y de preparación de la
+organización ante la emergencia nacional COVID-19. (Anexo 7)
+a. La remisión deberá hacerse en línea por medio del siguiente vínculo: SUBA SU
+DECLARACIÓN AQUÍ
+24
+Acciones de rehabilitación en caso de un positivo por Covid-19:
+1. Las empresas acatarán las disposiciones sanitarias del Ministerio de Salud, y
+establecerán estrategias para mitigar efectos y garantizar la rehabilitación operativa de
+las actividades de trabajo en las áreas donde se encuentre un caso positivo por Covid-
+19.
+2. La empresa pondrá en cuarentena al personal que haya estado en contacto por más de
+15 minutos y a menos de 1.8 metros de distancia con un positivo por Covid-19,
+incluyendo personal anexo a la operación productiva como: ingeniería, calidad, etc.
+Además, para reducir la cantidad de personas que se deben enviar en cuarentena, se
+recomienda la implementaciónde unregistro individual y diario, que permita establecer
+los contactos con mayor precisión.
+3. Las empresas implementarán las acciones de sanitización que definan en su plan de
+atención inmediata en caso de positivo por Covid-19, que deben incluir, al menos:
+a. Limpieza profunda con productos de sanitización reconocidos en todas las
+líneas de producción o área donde actúo la persona, en al menos 1.8 metros a
+la redonda de donde laboraba el positivo por Covid-19.
+b. Limpieza con productos de sanitización de efecto directo sobre virus y otros
+patógenos en áreas comunes donde se desplazó el caso positivo por Covid-19
+c. Revisión médico-epidemiológica de las personas trabajadoras que
+interactuaban directamente con el caso positivo por Covid-19; asegurándose no
+tengan sintomatología asociada. Estos serán enviados a cuarentena de 14 días
+según lo estipulado por el Ministerio de Salud. Las personas trabajadoras que
+tuvieron contacto indirecto serán registradas y evaluadas día a día en los
+servicios médicos de la Empresa o, en su defecto, de la clínica de adscripción de
+cada uno.
+d. Las personas en cuarentena estarán bajo incapacidad médica según lo
+estatuido.
+e. Comunicación al personal para evitar informaciones falsas que puedan generar
+ansiedad en el personal.
+4. Las empresas implementarán sus acciones de sanitización y control epidemiológico y
+certificarán las acciones mediante una declaración jurada, por parte del representante
+legal, dando fe de lo actuado y las condiciones adecuadas para volver a laborar. El
+tiempo que se defina para esta acción estará en función de las acciones propias de cada
+Empresa (no antes de 4 horas para garantizar se ejecuten las acciones que se definan
+previamente).
+5. La empresa remitirá una Declaración jurada deberán ante el Área Rectora de Salud
+correspondiente del Ministerio de Salud para informar de las acciones realizadas en
+centro de trabajo para mantener la continuidad de las operaciones. (Ver Anexo 8).
+25
+3.13CASO POSITIVO COVID-19/CASO SÍNTOMÁTICO CON NEXO
+EPIDEMIOLÓGICO CONFIRMADO:
+PASO 1
+Entrevistar a la persona trabajadora para confirmar el nexo epidemiológico.
+PASO 2
+Informar al personal sobre la aparición de un caso confirmado y proceder a detener las labores para
+desinfección del cuarto o área productiva.
+26
+PASO 3
+Identificar durante la jornada laboral los contactos directos que estuvieron trabajando a menos de
+2 metros de distancia para comunicarles la situación y activar el protocolo de cuarentena de 14 días
+PASO 4 PASO 5
+Tener el control epidemiológico de los casos
+debidamente documentado para su
+seguimiento y generar lineamientos para la
+recuperación de la persona trabajadora o
+aparición de nuevos casos positivos con nexo
+epidemiológico confirmado.
+Valoración previo ingreso del personal al
+área de producción para identificar síntomas
+de COVID-19 y para que completen la
+encuesta respectiva.
+27
+PASO 6
+Reinicio de labores en área de producción de máximo 8 horas después de la desinfección completa
+según lineamientos del Ministerio de Salud, garantizando al menos 1.8 metros de distancia entre
+cada persona trabajadora.
+28
+3.14CICLO DE ATENCIÓN DE CASOS POSITIVOS/CASO SÍNTOMÁTICO CON NEXO EPIDEMIOLÓGICO CONFIRMADO
+29
+3.15SALUD MENTAL: INTERVENCIÓN EN CRISIS
+El Covid-19 está provocando gran preocupación y malestar emocional en la población por la
+incertidumbre que genera el rápido contagio de este virus.
+“El miedo es una emoción desagradable, pero muy saludable, necesaria y adaptativa. Sin
+embargo, el miedo intenso y extremo lleva a un bloqueo emocional que lo que hace, en muchas
+ocasiones, es paralizarnos. La consecuencia es que nos anula la capacidad de reaccionar o de buscar
+soluciones o alternativas que nos ayuden a estar mejor”, Mercedes Bermejo, coordinadora de la
+Sección de Psicología Clínica del Colegio Oficial de la Psicología de Madrid.
+Además, el Covid-19 nos ha sorprendido en la era de la tecnología y las redes sociales y muchas de
+las informaciones que están llegando no están bien contrastadas ni proceden de fuentes rigurosas,
+por lo tanto, se aconseja mantener el buen estado de ánimo, la calma y la tranquilidad, así como
+consultar solo información oficial sobre el coronavirus.
+¿Cómo dejar de pensar constantemente en el Covid-19? Se pueden practicar diferentes técnicas de
+relajación, como la respiración profunda, la meditación, el mindfulness y la autoconciencia. Esta
+última herramienta se centra en tomar conciencia de uno mismo, pensar más en el presente y
+buscar soluciones para el aquí y el ahora. También se puede aprovechar para hacer actividades
+placenteras o agradables para las que no se suele tener tiempo, como leer, hacer ejercicio o ver una
+película.
+Consejos para afrontar una crisis nerviosa o de ansiedad cuando se detecte un
+caso positivo de Covid-19 en la empresa:
+Se le recomienda brindar Primeros Auxilios Psicológicos en caso de que las personas trabajadoras
+se alarmen e inicien con cuadros de ansiedad o estrés.
+El objetivo es auxiliar a la persona a dar pasos concretos hacia el afrontamiento de la crisis, lo cual
+incluye el manejo adecuado de los sentimientos, el control de los componentes subjetivos de la
+situación y comenzar el proceso de solución del problema.
+Los once pasos de los primeros auxilios psicológicos son:
+1. Observar y mantenerse alerta: Primero observe y detecte si hay una necesidad de primeros
+auxilios psicológicos a través de la apariencia externa, es decir, lo que se ve u oye que dice
+una persona.
+2. Establecer vínculos: Por ejemplo, si la persona no lo conoce, debe presentarse como
+corresponde. Establecer vínculos significa actuar de una manera a través de la cual debe
+quedar claro que usted se está centrando completamente en la persona que está tratando de
+ayudar.
+3. Ayudar a las personas a sentirse cómodas y a gusto: Los actos de cortesía comunes como
+ayudar a una persona con su abrigo y brindar información simple sobre medidas de higiene
+pueden generar confort y calma.
+30
+4. Actuar con gentileza, calma y solidaridad: Demuestre a través del comportamiento, que
+tiene real interés en ayudar a la persona y muéstrese respetuoso.
+5. Ayudar con las necesidades básicas: Por ejemplo, proporcione agua o alimentos y formas de
+mantener la comunicación con los sistemas de apoyo.
+6. Escuchar: Deje que las personas hablen lo que quieran, pero no las fuerce a contar más de lo
+que quieren contar.
+7. Tranquilizar de forma realista: La frase “todo va a estar bien” no es realista. Pero frases como
+“lamento lo ocurrido” o “entiendo cómo te sientes” pueden ayudar a las personas a ver sus
+reacciones como normales. Tranquilícelas asegurándoles que su capacidad de recuperación
+puede ayudarlas a salir adelante.
+8. Alentar formas positivas de afrontar la situación: Los comportamientos de afrontar
+situaciones difíciles se aprenden con nuestras experiencias de la vida, las cuales son únicas.
+Todos tenemos nuestras propias formas y estrategias de afrontar las situaciones difíciles
+cuando traemos al presente momentos felices o de satisfacción.
+9. Ayudar a las personas a relacionarse con los demás: Relacionarse significa no solo conectarse
+con los seres queridos, sino también con otros grupos sociales de forma virtual.
+10. Ofrecer información exacta y oportuna: Comparta información pertinente solo si sabe que
+es precisa.
+11. Finalizar la conversación: Debe dejar en la persona la impresión de que a usted le importa,
+aunque es posible que no la vuelva a ver o tenga poco contacto con ella posteriormente.
+Consejos para afrontar el malestar psicológico por el Covid-19 mientras hace
+Teletrabajo:
+Ante esta situación, se le ofrecen una serie de recomendaciones para las diferentes situaciones
+cuando las personas trabajadoras estén haciendo teletrabajo:
+Si no está afectado por esta enfermedad:
+• Analice si está sintiendo una serie de emociones con alta intensidad y/o persistentes como:
+Nerviosismo, agitación o tensión, con sensación de peligro inminente, y/o pánico.
+• No puede dejar de pensar en otra cosa que no sea la enfermedad, o la preocupación por
+enfermar.
+• Necesita estar permanentemente viendo y oyendo informaciones sobre este tema.
+• Tiene dificultad para concentrarse o interesarse por otros asuntos.
+• Le cuesta desarrollar sus labores cotidianas o realizar su trabajo adecuadamente y el miedo
+le paraliza.
+• Está en estado de alerta, analizando sus sensaciones corporales e interpretándolas como
+síntomas de enfermedad, siendo los signos habituales.
+• Le cuesta controlar su preocupación y pregunta persistentemente a sus familiares por su
+estado de salud.
+• Percibe un aumento del ritmo cardíaco, respiración acelerada (hiperventilación), sudoración
+o temblores sin causa justificada.
+• Presenta problemas para tener un sueño reparador.
+31
+Se recomienda que:
+• Identifique pensamientos que puedan generarle malestar. Pensar constantemente en la
+enfermedad puede hacer que aparezcan o se acentúen síntomas que incrementen su
+malestar emocional.
+• Reconozca sus emociones y acéptelas. Si es necesario, comparta su situación con las
+personas más cercanas para encontrar la ayuda y el apoyo que necesita.
+• Cuestiónese: busque pruebas de realidad y datos fiables. Conozca los hechos y los datos
+fiables que ofrecen los medios oficiales y científicos y evite información que no provenga de
+estas fuentes, descartando información e imágenes alarmistas.
+• Informe a sus seres queridos de manera realista. En el caso de menores o personas
+especialmente vulnerables como ancianos, no les mienta y proporciónele explicaciones
+veraces y adaptadas a su nivel de comprensión.
+• Evite la sobreinformación, ya que estar permanentemente conectado no le hará estar mejor
+informado y podría aumentar su sensación de riesgo y nerviosismo innecesariamente.
+• Contraste la información que comparta. Si usa redes sociales para informarse, procure
+hacerlo con fuentes oficiales.
+Pautas emocionales de autocuidado:
+• Mantenga una actitud optimista y objetiva. Es fuerte y capaz.
+• Lleve a cabo los hábitos adecuados y de higiene y prevención que recomienden las
+autoridades sanitarias.
+• Evite hablar permanentemente del coronavirus.
+• Apóyese en su familia y amigos.
+• Ayude a su familia y amigos a mantener la calma y a tener un pensamiento adaptativo a
+cada situación.
+• Acuda a fuentes oficiales y busque información contrastada por expertos.
+• No contribuya a dar difusión de noticias falsas. No alimente su miedo ni el de los demás.
+• Tenga cuidado con las conductas de rechazo, estigma y/o discriminación. El miedo puede
+hacer que nos comportemos de forma impulsiva, rechazando o discriminando a ciertas
+personas.
+Si es población de riesgo, según las autoridades sanitarias:
+Siga las recomendaciones y medidas de prevención siguientes:
+• Infórmese de forma realista y siga las pautas emocionales de autocuidado.
+• No trivialice su riesgo para intentar evadir la sensación de miedo o aprensión a la
+enfermedad.
+• Tampoco magnifique el riesgo real que tiene. Sea precavido y prudente sin alarmarse.
+• Si le recomiendan medidas de aislamiento, tenga presente que es un escenario que puede
+llevarle a sentir estrés, ansiedad, soledad, frustración, aburrimiento y/o enfado, junto con
+sentimientos de miedo y desesperanza. Estos efectos pueden durar o aparecer incluso
+después del confinamiento. Trate de mantenerse ocupado y conectado con sus seres
+queridos.
+• Genere una rutina diaria y aproveche para hacer aquellas cosas que le gustan, pero que
+habitualmente por falta de tiempo no puede realizar (leer libros, ver películas o series, etc.).
+32
+3.16ESTRATEGIAS RECOMENDADAS PARA LOGRAR LA CONTINUIDAD DEL
+NEGOCIO
+Cada uno los puntos establecidos requieren de fijar una estrategia de actividades, responsables y
+fechas que, sugiere se genere en ejercicios internos en cada sitio de trabajo, independiente de la
+naturaleza del negocio.
+Esta guía no pretende ser una herramienta única, sino, más bien, un medio que ayude a poner en
+contexto diversos aspectos prácticos, que deben ser cubiertos en una mesa de trabajo con los
+diferentes gerentes de la empresa y en análisis profundo por cada organización para que se adapte
+a la operación que realizan.
+33
+Método de evaluación de riesgos para asegurar la continuidad del negocio:
+Se presenta una herramienta que servirá de guía en el cumplimiento de las acciones recomendadas
+para poder procurar la contención del virus y la minimización del contagio del Covid-19 en las
+empresas. El cumplimiento de las siguientes acciones puede asegurar la continuidad de las
+operaciones:
+34
+35
+Tabla No. 1: Tabla de Persistencia del Coronavirus en las superficies.
+36
+37
+Respuesta y continuidad ante la pandemia:
+38
+Preparación ante la Pandemia - Fase 1:
+En esta fase la organización debe visualizar los diferentes escenarios que puede tener una vez que
+la Pandemia ha sido declarada por la Organización Mundial de la Salud y que las autoridades
+nacionales han declarado igualmente estado de Emergencia Nacional.
+Tópico a cubrir Acciones a Tomar
+(tomar en consideración aspectos
+como:)
+Responsables y
+Tiempos
+1. Confirmación estatus Pandemia /
+emergencia nacional
+Contar con un equipo interno que brinde
+seguimiento a la emergencia y mantenga
+a la organización informada para toma de
+decisiones.
+2. Identificación de ítems de potencial
+impacto a la salud, financiero y
+servicio al cliente; requerimiento
+de incremento de inventarios y
+prioridades de producción, así
+como productos claves.
+Estas previsiones son muy particulares del
+tipo de empresa, según su giro de negocio,
+pero permiten tener una visión de futuros
+potenciales impactos por la Pandemia.
+3. Definir mecanismo de
+comunicación en información con
+entes estatales autorizados en el
+tema
+Se debe establecer responsables y
+mecanismos de seguimiento a la
+información oficial y proceder según
+corresponda con las acciones
+Empresariales requeridas.
+4. Definir procedimientos internos
+que apliquen a la atención de la
+emergencia y establecer plan
+semanal de seguimiento
+Estos deben generarse según el giro de
+negocio y las características propias de
+cada organización buscando siempre el
+aseguramiento de la salud y seguridad del
+personal, así como la continuidad del
+negocio
+5. Revisar políticas internas de
+manejo de situaciones
+relacionadas a la salud de las
+personas trabajadoras
+Esto estará en función del tipo de
+organización, las facilidades de
+transmisión de enfermedades, los
+métodos ya establecidos de asepsia y las
+directrices generales de los entes
+estatales
+6. Revisión de provisiones internas
+de atención médica
+En caso de contar con servicios médicos
+internos verificar la capacidad instalada y
+los requerimientos previstos, basados en
+la información epidemiológica que se
+comparta por los entes estatales y la
+población trabajadora existente
+7. Determinar asistencia médica
+externa
+En función de la capacidad instalada,
+recursos disponibles posible impacto en la
+población
+39
+8. Coordinar acciones de atención de
+emergencias
+Se debe organizar y/o readecuar el plan de
+emergencias en función de la emergencia
+y sus prioridades versus impacto a nivel
+país
+9. Definición de áreas secundarias de
+atención de emergencias
+respiratorias
+Si se dispone de medios y condiciones se
+debe habilitar un área secundaria de
+atención médica, con enfoque en
+afecciones respiratorias para brindar
+atención diferenciada. Esto con el fin de
+brindar la primera intervención a personas
+trabajadoras que experimentan síntomas
+mientras trabajan presencialmente en el
+centro de trabajo.
+10. Determinar personal sensible o
+sobre expuesto
+Con base en la información médica
+disponible y sin invadir la privacidad de los
+pacientes/personas trabajadoras se
+deben identificar los casos de personas
+sensibles o en riesgo para tomar las
+acciones que se estimen convenientes y
+prudentes.
+11. Crear canal de comunicación con
+entes de respuesta y atención
+Definición de responsables y mecanismos
+que aseguren la información confiable y
+veraz para la toma de decisiones
+12. Determinar necesidad de mayor
+número de brigadistas y su
+entrenamiento. Además, creación
+de brigada especial de prevención
+de enfermedades.
+Según sean las posibilidades de las
+organizaciones se deben ajustar el
+número de brigadistas conforme al plan
+de emergencias y al tipo de emergencia.
+13. Determinar capacidad instalada de
+servicio interno de atención
+médica
+Esto en función del personal, posible
+afectación, requerimientos de la
+organización y directrices de entes
+estatales
+14. Establecer procedimiento interno
+para revisión y/o entrada de
+visitantes y contratistas
+Esto conforme a las directrices de los
+entes estatales y políticas de cada
+Empresa
+15. Identificar y promocionar
+actividades de trabajo en casa
+(teletrabajo)
+Según políticas de cada organización y
+posibilidades de las mismas
+16. Establecer mecanismos de
+comunicación interna, así como los
+canales
+Deben existir canales oficiales que le
+permitan a las empresas mantener a sus
+personas trabajadoras informados en
+forma oficial y deben usarse todos los
+medios tecnológicos disponibles
+40
+17. Determinar mecanismos de apoyo
+emocional al empleado y familia
+Si se cuenta con este servicio se debe
+preparar enfoque para casos de pérdidas
+y afectaciones emocionales severas
+18. Determinar simplificación de
+procesos internos, administrativos
+y controles general
+Se debe establecer mecanismos flexibles
+que permitan a la organización fluir con la
+mayor normalidad posible
+19. Establecer mecanismos de
+aseguramiento de servicios de
+limpieza, cafetería, seguridad, etc.
+para asegurar continuidad
+En tiempo de emergencias muchas
+condiciones y servicios pueden verse
+impactados y se debe tener la previsión de
+como asegurar su continuidad. De
+requerirse nuevas negociaciones deben
+hacerse y preverse con servicios vitales
+como los indicados
+20. Establecer procesos de
+entrenamiento que faculten
+personal para operaciones que
+requieran cualificaciones
+especiales. Ver recursos.
+(Entrenamiento cruzado de
+operaciones o Cross training)
+En industrias reguladas deben tomarse
+consideraciones para posiciones claves y
+puestos de trabajo que requieren
+cualificaciones especiales y tener los
+respaldos respectivos que permitan tener
+el personal preparado para suplir y
+garantizar la continuidad de las
+operaciones
+21. Establecer mecanismos de
+entrenamiento y capacitación con
+oficiales de seguridad como
+barrera inicial de contacto y
+aislamiento
+Esto con el fin de que todo fluya de mejor
+manera y en concordancia con los cambios
+en el giro de negocio
+41
+Monitoreo, educación e impacto - Fase 2 de acciones inmediatas:
+Tópico a cubrir Acciones a Tomar
+(tomar en consideración
+aspectos como:)
+Responsables y
+Tiempos
+1. Identificar producto claves para
+garantizar su fabricación (incluye
+materias primas requeridas)
+Este es un ejercicio muy particular
+de cada Organización para
+identificar los productos finales
+claves que garantizan la
+continuidad productiva y de
+ventas del negocio
+2. Verificar con suplidores capacidad
+de suplir insumos requeridos
+Es fundamental tener asegurada
+la cadena de abastecimiento de
+las materias primas y productos e
+insumos generales que se
+requieren en el proceso
+productivo o servicios.
+3. Verificar entrenamientos
+requeridos
+Según requerimientos por puestos
+de trabajo
+4. Establecer cadenas de suministro
+de emergencias, listas de
+contactos, etc
+Será necesario mantener
+comunicación, registros,
+contactos y estrategias inmediatas
+con personas, organizaciones y
+empresas claves para asegurar la
+continuidad del negocio
+5. Identificar suplidores secundarios
+si se requieren
+Estos pueden ser necesarios para
+el abastecimiento de las materias
+primas e insumos generales
+6. Preparación de planes y cadena de
+actividades para productos claves
+(insumos y mantenimiento)
+Esto es propio del giro de negocio
+y tipo de organización
+7. Revisión de inventarios de
+etiquetados y material de
+empaque
+Estos pueden cambiar o reajustar
+según sean las necesidades
+8. Revisión de fechas de expiración y
+uso programado de materias
+primas y materiales de empaque
+Para asegurar la producción con
+base en las previsiones de
+productos que se espera se
+puedan manufacturar
+9. Verificación de capacidades de
+almacenamiento
+Puede que los volúmenes de
+productos sufran variaciones y se
+deben tener previsiones al
+respecto, relativo a los espacios
+para almacenamiento
+42
+10. Identificación de fuentes alternas
+de almacenamiento
+En caso de colapso de la capacidad
+instalada se debe prever espacios
+alternos
+11. Identificación e inventario de
+equipos auxiliares (incluyendo
+laptops, etc.)
+Los requerimientos de ajustes en
+la mecánica productiva y de
+trabajo pueden requerir
+variaciones por lo que se debe
+tener una visión ampliada de los
+requerimientos propios de cada
+sitio
+12. Identificar cadenas de distribución
+alternativas
+Esto con el fin de asegurar que los
+productos lleguen a los destinos
+requeridos
+13. Verificación y definición de
+métodos de descontaminación si
+procede
+En lo relativo a las diversas áreas
+comunes y productivas en la
+planta
+14. Establecimiento de métodos para
+evitar contaminación cruzada
+Según el giro de negocio y tipo de
+interrelaciones productivas
+15. Aseguramiento de suministro
+energético: agua, electricidad, gas,
+etc.
+Métodos alternativos, sistemas de
+emergencias, etc.
+16. Identificación de personas
+trabajadoras que puedan realizar
+tareas múltiples
+Las personas trabajadoras que
+pueden realizar diversas labores
+deben estar identificadas porque
+pueden ser claves para sustituir a
+personal que no tenga
+capacidades plenas por la
+Pandemia
+17. Establecer cadenas de sucesión
+inmediata para puestos claves en
+todos los niveles
+Todo puesto clave debe tener al
+menos un sustituto para asegurar
+la toma de decisiones y
+continuidad de negocio
+18. Definir políticas de visitantes,
+contratistas en caso de Pandemia
+Acorde con las recomendaciones
+de los entes estatales y
+corporativos si procede.
+19. Definir políticas de viajeros en
+tiempos de Pandemia
+Acorde con recomendaciones de
+entes estatales y corporativos si
+procede
+43
+ANEXOS
+44
+ANEXO #1-MATERIAL INFORMATIVO
+El patrono tiene la obligación de difundir y recordarle a las personas trabajadoras sobre las medidas
+de prevención que se deben practicar a diario.
+Por favor utilice solo la información oficial que generan las Instituciones del Gobierno e Instituciones
+de Salud Internacionales constantemente, por ejemplo, consulte los enlaces siguientes:
+• Casa Presidencial: https://www.presidencia.go.cr/
+• Comisión Nacional de Prevención de Riesgos y Atención de Emergencias:
+https://www.cne.go.cr/
+• Ministerio de Salud: https://www.ministeriodesalud.go.cr/
+• Caja Costarricense del Seguro Social: https://www.ccss.sa.cr/
+• Ministerio de Trabajo y Seguridad Social: www.mtss.go.cr
+• Ministerio de Economía, Industria y Comercio: www.meic.go.cr
+• Consejo de Salud Ocupacional: https://www.cso.go.cr/
+• Organización Mundial de la Salud: https://www.who.int/es
+45
+EJEMPLOS DE MATERIAL INFORMATIVO
+Las personas empleadoras pueden utilizar los siguientes afiches oficiales que facilita el Ministerio
+de Salud.
+MEDIDAS GENERALES
+46
+ESCUDO PROTECTOR COVID-19
+47
+POBLACIÓN VULNERABLE
+48
+PROTOCOLO LAVADO DE MANOS
+49
+50
+PROTOCOLO ESTORNUDO
+51
+¿CÓMO SALUDAR?
+52
+NO SE TOQUE LA CARA
+53
+ANEXO #2-EJEMPLO DE RUTINA DE LIMPIEZA SUGERIDA
+No. Descripción Frecuencia Responsable
+1
+Agarraderas en general (puertas principales de
+ingreso, baños, ingreso a comedor, puertas de
+oficinas y salas de reuniones, etc.)
+Cada 2 horas
+Contratista o personal
+de Limpieza
+2 Servicios Sanitarios Cada 3 horas
+Contratista o personal
+de Limpieza
+3
+Grifos de lavamanos y palanca de servicios
+sanitarios
+Cada 3 horas
+Contratista o personal
+de Limpieza
+4 Escritorios Al menos 2 veces al día
+Contratista o personal
+de Limpieza
+5
+Teclado de personal, mouse – mouse pad y
+teléfono (especialmente auricular y celular)
+Al menos 3 veces al día Todo el personal
+6 Fotocopiadora e impresora compartida Al menos 4 veces al día
+Contratista o personal
+de Limpieza
+7 Máquinas de café y dispensador de agua Al menos 4 veces al día
+Contratista o personal
+de Limpieza
+9
+Controles inalámbricos de proyectores, aires
+acondicionados u otros dispositivos
+Al menos 3 veces al día
+Contratista o personal
+de Limpieza
+10
+Sillas (respaldares y descansa brazos) y mesas de
+recepción, sala de reuniones
+Al menos 3 veces al día
+Contratista o personal
+de Limpieza
+11 Divisiones de cubículos Al menos 2 veces al día
+Contratista o personal
+de Limpieza
+12 Comedor: sillas, mesas y microondas
+Antes y después del
+tiempo de desayuno y
+almuerzo
+Contratista o personal
+de Limpieza
+13
+Desinfectar con aerosol las salas después de
+realizar reuniones
+Cuando aplique
+Contratista o personal
+de Limpieza
+14
+Desinfectar el área de recepción. Uso constante
+del dispensador de alcohol en gel.
+Al menos 3 veces al día
+Contratista o personal
+de Limpieza
+15
+Capacitar a los oficiales de seguridad respecto a
+la higiene personal, higiene de las casetas de
+seguridad y áreas de recepción. Además, se les
+puede asignar la función de prevención y
+detección de las personas trabajadoras,
+proveedores y visitas con síntomas de gripe.
+Informar al Departamento de Recursos Humanos
+y/o Departamento de Salud Ocupacional cuando
+sea detectado un caso antes de que la persona
+entre a las instalaciones.
+Permanentemente Personal de seguridad
+Fuente: Propuesta elaborada por el Equipo Técnico.
+54
+ANEXO #3-EJEMPLO DISTRIBUCIÓN DE MESAS PARA EL COMEDOR
+DE LA EMPRESA
+La siguiente recomendación tiene como objetivo reducir la capacidad de ocupación de los
+comedores en un 50% como medida de mitigación del brote de COVID-19:
+55
+ANEXO #4-EJEMPLOS DE ENCUESTAS QUE SE PUEDEN UTILIZAR EN
+EL ÁREA DE RECEPCIÓN DE LA EMPRESA
+Ejemplo No. 1:
+NOMBRE DE LA EMPRESA
+Fecha: _________________ Nombre del Visitante/ Contratista: ____________________________________
+¿Es ciudadano costarricense?:________ o ¿Desde qué país viene?: __________________________________
+Persona que visita: ____________________ Área / Departamento que visita: __________________________
+¿Ha viajado recientemente o ha tenido contacto con alguien que ha viajado o ha estado en áreas afectadas
+con Coronavirus? ___ No ___ Sí. En caso afirmativo, indique país o área: _______________________________
+1. ¿Ha presentado dos o más de los siguientes signos o síntomas en los últimos 14 días?
+• Fiebre ( )
+• Tos ( )
+• Problemas para respirar ( )
+• Secreción nasal ( )
+• Dolor de garganta ( )
+• Dolores de cabeza ( )
+• Escalofríos y/o malestar general ( )
+2. En los últimos 2 – 14 días antes del inicio de los síntomas, ¿usted ha estado o pasado tiempo en alguno
+de estos países (Nivel 3)?
+China __Sí __ No Japón __Sí __ No
+Corea del Sur __Sí __ No Alemania __Sí __ No
+Italia __Sí __ No Francia __Sí __ No
+Irán __Sí __ No Estados Unidos __Sí __ No
+España __Sí __ No
+¿Ha estado en algún otro país? ¿Cuál?:_________________________________________________
+¿Usted vive en Costa Rica? __Sí __ No
+56
+• Fecha de viaje desde Costa Rica _____________________
+• Fecha de llegada a Costa Rica _______________________
+• Países donde hizo Escala ___________________________
+¿Tiene contacto cercano con una persona que está bajo investigación por COVID-19? ___Sí ___ No
+¿Tiene contacto cercano con un caso COVID-19 confirmado? ___Sí ___ No
+Al firmar este documento, usted certifica que ha hecho una declaración veraz en este formulario. La
+información indicada anteriormente solo se utiliza con fines preventivos y no se divulgará a terceros sin su
+consentimiento previo.
+Nombre y Firma __________________________________________ Fecha ___________________________
+*Por favor antes de ingresar a las instalaciones lávese las manos o utilice el alcohol en gel disponible.
+Fuente: Propuesta elaborada por el Equipo Técnico.
+57
+Ejemplo No. 2: DETECCIÓN DE CASOS SOSPECHOSOS COVID – 19
+Nombre:
+Fecha:
+¿Como está su salud en este momento?
+Bien ( ) Mal ( )
+¿Desde cuándo se siente enfermo?
+Fecha:
+¿Ha visitado otro país los últimos 14 días?
+SI ( ) Cuál? ________________
+No ( )
+Seleccione los síntomas que presenta:
+Sensación de fiebre ( ) _________________
+Síntomas respiratorios
+Dolor de garganta ( ) Tos ( )
+Falta de aire ( ) Fatiga ( )
+Otros síntomas
+Escalofríos ( ) Malestar general ( )
+Dolor de cabeza ( ) Dolor articular ( )
+Dolor muscular ( ) Diarrea ( )
+Instrucciones al ingreso
+En caso de presentar antecedentes de viajes o sensación de fiebre y 1 síntoma respiratorio
+Notificar caso a comité Covid – 19.
+Instrucciones para el Comité COVID – 19
+1. Indicarle que lave sus manos o brindarle alcohol en gel.
+2. Colocar cubre bocas en caso necesario y explicar técnica correcta de tosido y estornudo.
+3. Tomar temperatura: _____________
+4. Tomar saturación de oxígeno: _________
+Manejo
+Persona con temperatura  38º C y Sat O2  9 0%
+Falta de aire o fatiga debe ser valorada en consultorio médico o CCSS.
+Fuente: Propuesta elaborada por el Equipo Técnico.
+58
+ANEXO #5-FICHA PARA REGISTRO DE CASO SOSPECHOSO O
+CONFIRMADO
+Fuente: Propuesta elaborada por el Equipo Técnico.
+59
+ANEXO #6-FICHA DE INVESTIGACIÓN PARA USO EN EL
+CONSULTORIO MÉDICO DE LA EMPRESA
+60
+Además del flujo de información establecido en el Decreto 40556-S se debe hacer la notificación de cualquier caso
+sospechoso, probable, confirmado por COVID-19, así como las fichas de investigación y los resultados de laboratorio al
+siguiente correo electrónico: notificación.covid19@misalud.go.cr
+61
+ANEXO #7-DECLARACIÓN JURADA DE COMPROMISO DE CUMPLIMIENTO DE
+LINEAMIENTOS ANTE CONSEJO SALUD OCUPACIONAL
+COMPROMISO DE CUMPLIMIENTO DE LA GUÍA PARA LA PREVENCIÓN, MITIGACIÓN Y
+CONTINUIDAD DEL NEGOCIO POR LA PANDEMIA DEL COVID-19
+A. SOBRE LA EMPRESA
+1. NOMBRE DE LA RAZON SOCIAL O PERSONA FÍSICA
+2. NÚMERO DE CÉDULA JURÍDICA O FÍSICA
+3. TELÉFONO (S)
+4. MEDIO DE NOTIFICACIONES ELECTRÓNICO
+B. SOBRE EL REPRESENTANTE LEGAL DE LA EMPRESA
+1. NOMBRE COMPLETO
+2. NÚMERO CÉDULA DE IDENTIDAD O SU EQUIVALENTE
+3. NÚMERO DE TELÉFONO
+62
+4. CORREO ELECTRÓNICO PARA NOTIFICACIONES
+5. DIRECCIÓN EXACTA PARA NOTIFICACIONES
+Por este medio en mi condición de ( propietario, gerente, apoderado generalísimo etc.) de
+_____________________ cédula jurídica ____________ declaro bajo juramento que mi
+representada cumple con lo dispuesto en la GUÍA PARA LA PREVENCIÓN, MITIGACIÓN
+Y CONTINUIDAD DEL NEGOCIO POR LA PANDEMIA DEL COVID-19, ejecuta una
+estrategia interna para su implementación, y ha tomado las medidas necesarias para la
+prevención del contagio en nuestro personal y la actuación conforme a las indicaciones
+sanitarias, en caso de presentarse un caso confirmado en nuestro personal de trabajo.
+FIRMA FORMATO DIGITAL:
+Uso interno del Consejo de Salud Ocupacional
+De conformidad con la Ley N° 8968 o “Ley de Protección de Datos Frente Al Tratamiento de sus Datos
+Personales”, los datos consignados en este documento se recolectaron en forma voluntaria por el firmante.
+Los mismos serán utilizados únicamente para ____________________________ y permanecerán en custodia
+de ______________________. Se asegura su carácter confidencial y no serán compartidos, divulgados,
+publicados, vendidos o transmitidos a ninguna entidad pública o privada. Cualquier cambio o actualización
+en los mismos es responsabilidad del firmante y deberá gestionarse directamente en
+____________________________ por medio de ____________________.
+63
+ANEXO #8- DECLARACIÓN JURADA PARA INFORMAR A LA AUTORIDAD DE SALUD SOBRE
+LAS ACCIONES REALIZADAS PARA LA CONTINUIDAD DEL NEGOCIO EN CASO DE
+CONFIRMAR CASO POSITIVO COVID-19 EN EL PERSONAL
+A. SOBRE LA EMPRESA
+1. NOMBRE DE LA RAZON SOCIAL O PERSONA FÍSICA
+2. NÚMERO DE CÉDULA JURÍDICA O FÍSICA
+3. TELÉFONO (S)
+4. MEDIO DE NOTIFICACIONES ELECTRÓNICO
+B. SOBRE EL REPRESENTANTE LEGAL DE LA EMPRESA
+1. NOMBRE COMPLETO
+2. NÚMERO CÉDULA DE IDENTIDAD O SU EQUIVALENTE
+3. NÚMERO DE TELÉFONO
+4. CORREO ELECTRÓNICO PARA NOTIFICACIONES
+5. DIRECCIÓN EXACTA PARA NOTIFICACIONES
+Por este medio en mi condición de ( propietario, gerente, apoderado generalísimo etc.)
+DECLARO BAJO JURAMENTO que nuestra empresa conforme con la GUÍA PARA LA
+PREVENCIÓN, MITIGACIÓN Y CONTINUIDAD DEL NEGOCIO POR LA PANDEMIA DEL
+COVID-19 ha constatado la confirmación en nuestro personal de un caso COVID-19, por
+64
+ha ejecutado el protocolo de la GUÍA PARA LA PREVENCIÓN, MITIGACIÓN Y CONTINUIDAD DEL
+NEGOCIO POR LA PANDEMIA DEL COVID-19, y para mantener la continuidad del negocio
+certifico la ejecución de las siguientes acciones:
+1. Se informó al personal sobre la aparición de un caso confirmado y proceder a
+detener las labores
+2. Desinfección del cuarto o área productiva en la cual hubo contacto del caso
+confirmado (adjuntar certificación de empresa que realizó la limpieza)
+3. Realizar la valoración previo ingreso del personal al área de producción para
+identificar síntomas de COVID-19 y para que completen la encuesta respectiva.
+Conforme con las indicaciones sanitarias se procede a declarar bajo juramento que se
+cumplen las condiciones para el levantamiento de la orden sanitaria por parte del Área
+Rectora de Salud de ( indicar nombre del ÁREA Rectora.)
+FIRMA FORMATO DIGITAL:
+Añadir documentación adjunta y otra que se estime pertinente.
+65
+REFERENCIAS
+• Ministerio de Salud: https://www.ministeriodesalud.go.cr
+• Organización Mundial de la Salud: https://www.who.int/es
+• Consejo de Salud Ocupacional: https://www.cso.go.cr
+• Colegio Oficial de la Psicología de Madrid: https://www.copmadrid.org/web/
+• Ley De Autorización De Reducción De Jornadas De Trabajo Ante La Declaratoria De Emergencia
+Nacional.
+• Lineamientos generales para el manejo domiciliario de casos en investigación, probables o
+confirmados de COVID-19 en el marco de la alerta sanitaria por Coronavirus (COVID-19)
+• Lineamientos Nacionales para la Vigilancia de la enfermedad COVID-19 Costa Rica, Versión N°7.
+• CNE – INTECO (2015) Norma de planes de preparativos y respuesta ante emergencias para
+centros laborales o de ocupación pública. Referencia: CNE-NA-INTE-DN-01. Decreto Ejecutivo
+N°39502-MP
+• MTSS emite recomendaciones para personas trabajadoras en puestos no teletrabajables,
+Marzo 13, 2020. CP-010-2020 MTSS.
+• MTSS, Comisión de Unificación de Criterios. Criterio Implicaciones Laborales Ante La Llegada
+Del Coronavirus(Covid19) A Nuestro País Y Posibles Soluciones.
+• Safety and Health: www.osha.gov. Guía sobre la preparación lugares de trabajo para COVID-
+19.
+• Ministerio De Trabajo Y Economía Social Gobierno España: http://www.mitramiss.gob.es/.
+Guía Para La Actuación En El Ámbito Laboral En Relación Al Nuevo Coronavirus.
+• Brote de enfermedad por coronavirus (COVID-19); sitio Organización Mundial de la Salud para
+difusión de info orientaciones (Español): https://www.who.int/es/emergencies/diseases/novel-
+coronavirus-2019
+• Enfermedad por coronavirus; página de la Organización Panamericana de la Salud:
+https://www.paho.org/hq/index.php?option=com_content&view=article&id=15696:coronavirus-
+disease-covid-19&Itemid=4206&lang=es
+• Guía técnica de la Organización Mundial de la Salud: Preparando el lugar de trabajo para el
+COVID-19. (Inglés): https://www.who.int/docs/default-source/coronaviruse/getting-workplace-
+ready- Occupational for-covid-19.pdf
+• Guía provisional para empresas y patrones para planificar, prepararse y responder ante la
+enfermedad por coronavirus 2019 (COVID-19); Centros para el Control y la Prevención de
+Enfermedades (CDC). (Inglés): https://www.cdc.gov/coronavirus/2019-ncov/specific-
+groups/guidance-business-response.html
+

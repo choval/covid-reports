@@ -6,6 +6,10 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-21
+
+* [4078-gobierno-reporta-dos-primeros-casos-de-covid-19-en-beni-y-el-pais-suma-598-contagiados](58fa8f928d43846171b7280fbe7ce4c1a0d98b7e/file.pdf) @23:59 GMT
+
 ## 2020-04-20
 
 * [4073-ministro-de-salud-bolivia-tendra-la-suficiente-holgura-para-aplicar-pruebas-covid-19](0d88370ff33008e0b71d4181313378767f22e7ca/file.pdf) @12:26 GMT

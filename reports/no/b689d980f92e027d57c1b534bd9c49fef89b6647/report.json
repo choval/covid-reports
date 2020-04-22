@@ -1,0 +1,28 @@
+{
+    "filename": "2020.04.21-ukesrapport-15-16.pdf",
+    "uri": "https:\/\/www.fhi.no\/contentassets\/ca5914bd0aa14e15a17f8a7d48fa306a\/vedlegg\/koronavirus---ukerapporter\/2020.04.21-ukesrapport-15-16.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587515492,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 22 Apr 2020 00:31:32 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1544327",
+        "set-cookie": "__cfduid=d0779d9a47590e5a787ad73724c62470c1587515491; expires=Fri, 22-May-20 00:31:31 GMT; path=\/; domain=.www.fhi.no; HttpOnly; SameSite=Lax",
+        "cache-control": "public, max-age=43200",
+        "expires": "Wed, 22 Apr 2020 12:31:32 GMT",
+        "last-modified": "Tue, 21 Apr 2020 15:43:31 GMT",
+        "etag": "\"1D617F39BA85380\"",
+        "request-context": "appId=cid-v1:afda6def-0de1-4764-90ec-fb72e90cbcc7",
+        "access-control-expose-headers": "Request-Context",
+        "cf-cache-status": "MISS",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "587b3e1028f4d821-EZE",
+        "cf-request-id": "0240e51e1b0000d821408be200000001"
+    },
+    "size": 1544327,
+    "modified": 1587483811
+}

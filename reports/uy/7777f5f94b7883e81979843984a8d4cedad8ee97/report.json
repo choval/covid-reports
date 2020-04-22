@@ -1,0 +1,25 @@
+{
+    "filename": "Alimentacio%CC%81n%20COVID19%20%2024.3.20%20%20%283%29.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/Alimentacio%CC%81n%20COVID19%20%2024.3.20%20%20%283%29.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587515914,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 22 Apr 2020 00:38:34 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Tue, 21 Apr 2020 15:08:12 GMT",
+        "etag": "\"5fb1d-5a3ce62607aa0\"",
+        "accept-ranges": "bytes",
+        "content-length": "391965",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Wed, 06 May 2020 00:38:34 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 391965,
+    "modified": 1587481692
+}

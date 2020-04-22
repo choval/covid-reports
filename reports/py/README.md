@@ -6,6 +6,12 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-21
+
+* [3cfcc1-RESOLUCIONSG.N177.pdf](ee22418325f27b3cd2143285af61a332300b4875/file.pdf) @21:06 GMT
+* [3cdda1-DECRETON3537.pdf](66a9e36f73caf5cf8189a45c69b567ae68dbe831/file.pdf) @21:05 GMT
+* [90f129-Tablero20.04.2020.pdf](dace3ad5bf0edd907df4e72150be721d07b7df2f/file.pdf) @16:05 GMT
+
 ## 2020-04-20
 
 * [e897e5-Tablero19.04.pdf](9ad4eafbf60abc8ce4fe269fb8397bab9ebc14de/file.pdf) @15:49 GMT
