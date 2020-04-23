@@ -1,0 +1,27 @@
+{
+    "filename": "Alcohol-and-COVID-19-what-you-need-to-know.pdf",
+    "uri": "http:\/\/www.euro.who.int\/__data\/assets\/pdf_file\/0010\/437608\/Alcohol-and-COVID-19-what-you-need-to-know.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587680881,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "connection": "keep-alive",
+        "vary": "Accept-Encoding",
+        "cache-control": "stale-if-error=2592000, max-age=2592000",
+        "x-content-type-options": "nosniff",
+        "x-cache": "HIT from who-web01.ash2.squiz.cloud",
+        "content-encoding": "gzip",
+        "server": "openresty",
+        "date": "Thu, 23 Apr 2020 20:30:22 GMT",
+        "via": "1.1 who-web01.ash2.squiz.cloud",
+        "etag": "W\/\"5e95660f-6a6bf\"",
+        "age": "7059",
+        "last-modified": "Tue, 14 Apr 2020 07:28:15 GMT",
+        "expires": "Sat, 23 May 2020 20:30:22 GMT",
+        "x-request-id": "a4a68da3-7278-4bb2-b4a8-43e8dd25b851"
+    },
+    "lang": "it",
+    "size": 435903,
+    "modified": 1586849295
+}

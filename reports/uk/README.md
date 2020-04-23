@@ -7,6 +7,11 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-23
+
+* [how-to-use-the-self-swabbing-kit-for-a-combined-throat-and-nose-swab-video](ed91dfd53d20e6024f1f74ddced551da02506a64/file.pdf) @22:34 GMT
+* [covid-19-and-spreading-slurry-or-milk-on-land-or-storing-slurry-rps-c12](a7658739671cbf4b5b4f37386312f361bf3951bf/file.pdf) @14:54 GMT
+
 ## 2020-04-22
 
 * [coronavirus-covid-19-qa-for-people-receiving-a-personal-budget-or-personal-health-budget](aaa0b68c2927269c69a99d3b0a9453a3c578a2da/file.pdf) @00:37 GMT

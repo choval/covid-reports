@@ -6,6 +6,24 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-23
+
+* [1c8222-ResolucinN114NotificacinobligatoriadecasospositivosdeCOVID19.pdf](e136308994007f182f31f4949a68b1497f785297/file.pdf) @22:03 GMT
+* [d7eb84-ResolucinN91Seapruebaplannacionalderespuestaavirusrespiratorios2020.pdf](566caba115438c1990d4d971bc5dfd48c6f424fb/file.pdf) @22:02 GMT
+* [b2a365-ResolucinN112Registroobligatoriodepersonasprovenientesdelextranjeroenplataformadigital.pdf](d3ade5b6734124882515276d2ab42c875813fd1b/file.pdf) @22:02 GMT
+* [e996ca-ResolucinN109SecreaProgramaNacionaldeCapacitacionesCOVID19.pdf](da781fb795787691c73bef493e0fc96e781361ec/file.pdf) @22:01 GMT
+* [f94d01-ResolucinN100Seapruabafichadedeclaracindesaluddeviajeros.pdf](e6288fe91e52d1e2687dd09388b9c196661264bf/file.pdf) @22:01 GMT
+* [f11d06-ResolucinN124NivelesdecoordinacinparaintegracinMSPIPS.pdf](118068a48cba94f3291e01ef270e6b0473e41f54/file.pdf) @22:01 GMT
+* [4606e5-ResolucinN147NotificacinobligatoriadeenfermedadesrespiratoriasyCOVID19.pdf](e1da1ec2d33f6693037fa0f3e7e31e22e739b6d9/file.pdf) @22:00 GMT
+* [523172-ResolucinN139Serviciosdesaludadistancia.pdf](957cc196111c80b58bee07452c73a4d069ab2074/file.pdf) @22:00 GMT
+* [8453ef-ResolucinN136MecanismosdecoordinacindeserviciosMSPIPS.pdf](823bfbc841c78b46f4c97cca397b939a4a59aec4/file.pdf) @21:59 GMT
+* [eb5a77-ResolucinN125Controldeprincipiosactivosdehidroxicloroquinaycloroquina.pdf](067fca011179ce526b60c3752df72e549a5c5344/file.pdf) @21:59 GMT
+
+## 2020-04-22
+
+* [236f5f-Tablero21.04.2020.pdf](884fe902baf9235e873931cb58d8db0ff0608e19/file.pdf) @20:06 GMT
+* [aff855-DecretoN3546Reglamentacinart.46deLey6524.pdf](3feda3563750edc545188fdcbeb922f8fb8bdbc5/file.pdf) @15:34 GMT
+
 ## 2020-04-21
 
 * [3cfcc1-RESOLUCIONSG.N177.pdf](ee22418325f27b3cd2143285af61a332300b4875/file.pdf) @21:06 GMT

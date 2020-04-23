@@ -1,0 +1,26 @@
+{
+    "filename": "InformeDiario-referente-23-04.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/23\/InformeDiario-referente-23-04.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587652744,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "711785",
+        "date": "Thu, 23 Apr 2020 14:39:03 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_965612A4BE1EA0514BDE65479D9AA059_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Thu, 23 Apr 2020 14:14:36 GMT",
+        "etag": "\"adc69-5a3f5de555003\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 c0babd197d8672cba6ebf7f9833f1501.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "TBFpdTJJXRS5q1rL6EiS12T9ACvLUyAUJpBO8chFzXVL4ueChOHdMA=="
+    },
+    "lang": "pt",
+    "size": 711785,
+    "modified": 1587651276
+}

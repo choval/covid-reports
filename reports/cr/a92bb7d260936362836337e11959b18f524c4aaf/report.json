@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_uso_laboratorios_computacion_universidades_23042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_uso_laboratorios_computacion_universidades_23042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587680511,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 23 Apr 2020 22:21:51 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 23 Apr 2020 22:17:26 GMT",
+        "etag": "\"166823-5a3fc9d146980\"",
+        "accept-ranges": "bytes",
+        "content-length": "1468451",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1468451,
+    "modified": 1587680246
+}

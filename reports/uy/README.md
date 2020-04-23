@@ -6,6 +6,15 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-23
+
+* [MSP\_RECOMENDACIONES\_MUJERES\_EMBARAZADAS\_COVID\_19\_0.pdf](c0eca6a19a7bd9d9bc4ece3ca48db734e31971eb/file.pdf) @17:12 GMT
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-2](a6e90c9950cbe7196b31b6179a0c5a4da806305d/file.pdf) @14:54 GMT
+
+## 2020-04-22
+
+* [recomendaciones-para-mujer-embarazada-recien-nacido-frente-covid-19](1a92e7ba30ca4db5178a233dc33347490f3bbeb7/file.pdf) @13:20 GMT
+
 ## 2020-04-21
 
 * [Alimentación COVID19  24.3.20  (3).pdf](7777f5f94b7883e81979843984a8d4cedad8ee97/file.pdf) @15:08 GMT

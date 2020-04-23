@@ -1,0 +1,20 @@
+{
+    "filename": "scheda-alcol.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/pdf\/scheda-alcol.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587680872,
+    "headers": {
+        "http-status": 200,
+        "content-length": "703892",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 16 Apr 2020 14:30:27 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"490f592fb13d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 23 Apr 2020 22:27:51 GMT"
+    },
+    "lang": "it",
+    "size": 703892,
+    "modified": 1587047427
+}

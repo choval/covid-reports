@@ -1,0 +1,849 @@
+1
+INFORME DIÁRIO DE EVIDÊNCIAS | COVID-19 N°14
+BUSCA REALIZADA EM 22 DE ABRIL DE 2020
+APRESENTAÇÃO:
+Essa é uma produção do Departamento de Ciência e Tecnologia (Decit) da Secretaria de Ciência, Tecnologia,
+Inovação e Insumos Estratégicos em Saúde (SCTIE) do Ministério da Saúde (Decit/SCTIE/MS), que tem como
+missão promover a ciência e tecnologia e o uso de evidências científicas para a tomada de decisão do SUS,
+tendo como principal atribuição o incentivo ao desenvolvimento de pesquisas em saúde no Brasil, de modo a
+direcionar os investimentos realizados em pesquisa pelo Governo Federal às necessidades de saúde pública.
+Informar sobre as principais evidências científicas descritas na literatura
+internacional sobre tratamento farmacológico para a COVID-19. Além de resumir
+cada estudo identificado, o informe apresenta também uma avaliação da qualidade
+metodológicaeaquantidadedeartigospublicados,deacordocomasuaclassificação
+metodológica (revisões sistemáticas, ensaios clínicos randomizados, entre outros).
+FORAM ENCONTRADOS 20 ARTIGOS E 22 PROTOCOLOS
+A distribuição da frequência de publicações por classes de estudos é
+apresentada segundo a pirâmide de evidências:
+OBJETIVO:
+ACHADOS:
+2
+SUMÁRIO
+Terapia com antivirais.
+.............................................................................................................................................................3
+Revisão sistemática
+Fitoterapia (Medicina Tradicional Chinesa)...........................................................................................................................3
+Estudo transversal
+RNA silenciadores....................................................................................................................................................................4
+Estudo in silico
+Diversas tecnologias................................................................................................................................................................5
+Estudo in silico
+Diversas tecnologias................................................................................................................................................................5
+Estudo in silico
+Produtos naturais....................................................................................................................................................................5
+Revisão narrativa
+Diversas tecnologias................................................................................................................................................................6
+Revisão narrativa
+Riboflavina e luz ultravioleta..................................................................................................................................................7
+Estudo in vitro
+Plasma convalescente e anticorpos monoclonais.................................................................................................................7
+Revisão narrativa
+Diversas tecnologias................................................................................................................................................................8
+Revisão narrativa
+Diversas tecnologias................................................................................................................................................................8
+Estudo in silico
+Diversas tecnologias................................................................................................................................................................9
+Estudo in silico
+Diversas tecnologias................................................................................................................................................................9
+Estudo in silico
+Lianhuaqingwen (Medicina Tradicional Chinesa) ...............................................................................................................10
+Estudo in vitro
+Azitromicina...........................................................................................................................................................................10
+Revisão narrativa
+Anticorpos neutralizantes na proteína spike do SARS-CoV-2.............................................................................................11
+Estudo in vitro
+Enisamium..............................................................................................................................................................................11
+Estudo in vitro
+Diversas tecnologias..............................................................................................................................................................12
+Estudo in silico
+Fitoterapia (Medicina Tradicional Chinesa).........................................................................................................................12
+Estudo in silico
+Fitoterapia (Medicina Tradicional Chinesa).........................................................................................................................13
+Estudo in silico
+Referências.............................................................................................................................................................................14
+Apêndice 1: Protocolos de Ensaios Clínicos registrados em 22/04/2020 na Base ClinicalTrials.gov .........................................17
+Apêndice 2: Ensaios Clínicos sobre COVID-19 aprovados pela CONEp e informados em 22/04/2020....................................20
+3
+TERAPIA COM ANTIVIRAIS
+REVISÃO SISTEMÁTICA \ IRÃ
+O objetivo da revisão sistemática foi investigar a eficácia e a segurança de tratamentos com
+antivirais para COVID-19, SARS e MERS. Ao todo, 22 estudos foram incluídos: 1 ensaio clínico,
+16 séries de casos e 5 relatos de caso. Os antivirais mais utilizados foram lopinavir / ritonavir,
+oseltamivir, ribavirina e arbidol. Todos os estudos usaram outras terapias, como antibióticos,
+imunoglobulina, interferon, glicocorticoides, metilprednisolona e medicamentos antiparasitários
+e antifúngicos, além da terapia antiviral para pacientes com COVID-19. No único ECR incluído, os
+pacientes que receberam lopinavir / ritonavir tiveram um processo de recuperação semelhante
+aos pacientes que receberam tratamento padrão. Os desfechos de mortalidade em 28 dias e carga
+viral de RNA não foram significativamente diferentes entre os dois grupos. Dentre os achados dos
+demais estudos, vale destacar que estudos de séries e relatos de casos não avaliam a eficácia
+de medicamentos, e que em geral as amostras foram pequenas. O estudo de Guan, com 1099
+pacientes, chegou a conclusão que oseltamivir foi ineficaz na diminuição da taxa de admissão na
+UTI, na necessidade de ventilação e na taxa de mortalidade entre os pacientes. O estudo de Shang,
+com 416 pacientes, indicou que medicamentos antivirais não têm efeito na taxa de mortalidade
+de pacientes com COVID-19. O estudo de Li, com cinco crianças com COVID-19, indicou que os
+agentes antivirais não alteraram o resultado ou a duração da internação. A revisão cita outros
+estudos que foram publicados com os pacientes ainda sob tratamento, sem o desfecho final dessas
+populações. Quanto a busca por ensaios clínicos para SARS e MERS, foram encontrados protocolos,
+mas nenhum resultado publicado.1
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta AMSTAR-2, 8/13 critérios foram atendidos
+(não houve meta-análise), indicando qualidade metodológica mediana. São
+fragilidades do estudo: a falta de protocolo definido a priori, a falta da lista de
+estudos excluídos com motivos, a falta de avaliação da qualidade e/ou risco de
+viés dos estudos incluídos, a falta da análise das fontes de financiamento dos
+estudos incluídos.
+FITOTERAPIA (MEDICINA TRADICIONAL CHINESA)
+ESTUDO TRANSVERSAL \ CHINA
+Os autores fizeram um estudo observacional, no qual buscaram avaliar a eficácia do tratamento
+com a fitoterapia, um dos braços da Medicina Tradicional Chinesa, na melhora de sintomas e tempo
+de internação dos pacientes com COVID-19. Para isso, avaliaram os dados de 54 pacientes, aos quais
+foram administrados diferentes compostos e combinações, dependendo dos sintomas e condição
+prévia de admissão. Observaram que o tempo médio de internação foi de 8,96 dias. Pacientes acima
+de 45 anos permaneceram em média 9,79 dias no hospital, enquanto que pacientes abaixo de 45
+anos permaneceram 7,64 dias em média. Comparando os hemogramas entre a admissão e a alta
+hospitalar, o número de leucócitos, neutrófilos, linfócitos e plaquetas aumentou, enquanto o número
+4
+de eritrócitos e a concentração de hemoglobina e hematócrito diminuiu. Os fatores que mais afetaram
+o tempo de internação foram o tipo de composto prescrito, seguido do sexo (masculino) e presença
+de tosse. Como conclusão, indicam que os compostos o QFPDD e os indicados pela Comissão Nacional
+de Saúde (NHC) da República Popular da China são eficazes no tratamento da COVID-19.2
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI for Analytical Cross Sectional Studies, o
+estudo atendeu 2/8 critérios. O estudo traz um bom levantamento e análise
+dos compostos usados na fitoterapia chinesa, como estes se relacionam aos
+sintomas da COVID-19 e a qual fase da progressão da doença cada um dia 87
+compostos utilizados devem ser empregados. No entanto, o estudo não teve
+um grupo controle para comparação, fazendo a análise somente no momento
+da internação e saída dos pacientes do hospital, impossibilitando a avaliação
+da eficácia do tratamento. Além disso, a imensa variabilidade no tratamento
+dificulta a interpretação dos resultados, a gravidade dos casos e desfechos
+não foram descritos e não foram identificados outros fatores que poderiam
+influenciar no tratamento.
+RNA SILENCIADORES
+ESTUDO IN SILICO \ BANGLADECHE E AUSTRÁLIA
+Por meio de métodos computacionais, o estudo desenvolveu RNAs silenciadores (siRNA)
+capazes de silenciar genes responsáveis pela produção de proteínas que facilitam a entrada do vírus
+nas células humanas e a replicação viral. Os alvos são genes que codificam proteína nucleocapsídeo
+(proteína N) e glicoproteína S (proteína Spike). Os siRNA degradam o RNA mensageiro e daí então
+silenciam a expressão de determinados genes. Foram construídos 78 siRNA, sendo 8 siRNA com alto
+poder de ligação às regiões alvo do RNA de SARS-CoV-2. Esses siRNA poderão ser utilizados para o
+desenvolvimento de abordagens terapêuticas no combate à COVID-19. Cabe ressaltar que a eficácia
+dos siRNA precisa ser testada em estudos clínicos.3
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação de estudos in silico. Uma análise crítica
+do artigo permite analisar que se trata de um estudo que obedeceu
+satisfatoriamente aos critérios metodológicos necessários para sua execução.
+Ressalta-se que é uma publicação pre-print, ou seja, ainda não passou por
+análise de revisores.
+5
+DIVERSAS TECNOLOGIAS
+ESTUDO IN SILICO \ EGITO
+O estudo verifica o reposicionamento de medicamentos com ação na RNA Replicase de SARS-
+CoV-2, enzima determinante para a replicação viral. Foi analisada a docagem molecular dos seguintes
+compostos: Sofosbuvir, IDX-184, Ribavirina, Remdesivir, Guanosina trifosfato, uridina-5’-trifosfato,
+Cinamaldeído, Timoquinona. Com base na energia de ligação, os agentes Sofosbuvir, Ribavirina e
+Remdisivir foram considerados os mais promissores na ação contra SARS-CoV-2. Ressalta-se que
+estudosclínicos são necessáriosparaverificaraeficiênciadosmedicamentos no combate àCOVID-19.4
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação de estudos in silico. O estudo testa um
+número limitado de agentes que podem demonstrar ação contra o SARS-CoV-2.
+Uma gama de outros fármacos poderiam ser igualmente testados quanto suas
+capacidades de ligação às enzimas do vírus.
+DIVERSAS TECNOLOGIAS
+ESTUDO IN SILICO \ ESTADOS UNIDOS DAS AMÉRICAS
+O Estudo faz uso de triagem virtual para verificar medicamentos com capacidade de ação e
+combate ao vírus SARS-CoV-2. Os alvos são as enzimas Mpro, a qual desempenha um papel essencial
+na replicação e transcrição do RNA viral, e a glicoproteína-S (proteína S; proteína Spike), com função
+determinante para a ligação do vírus às células humanas e posterior endocitose. Com base nos scores
+de docagem molecular de compostos registrados na base de dados ZINC15, os autores citam os
+seguintes medicamentos com potencial de ligação às moléculas alvo: Zanamivir, Indinavir, Saquinavir,
+Remdesivir, Dinucleotídeo de flavina e adenina, Adeflavin e Coenzima A. Ressalta-se que os autores
+apontam que os resultados apresentados no artigo precisam ser testados em estudos clínicos.5
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação de estudos in silico. Aparentemente o
+estudo testa um número razoável de compostos que poderiam ter efeitos sobre
+a COVID-19. Ressalta-se ainda, que o estudo passou pela revisão por pares,
+sugerindo que segue as práticas científicas quanto ao rigor metodológico.
+PRODUTOS NATURAIS
+REVISÃO NARRATIVA \ VIETNÃ, EGITO E JORDÂNIA
+O estudo se propõe a revisar a ação de produtos naturais, e seus derivados, no combate ao
+vírus SARS-CoV-2. Com base na definição de termos de busca, bases de dados e critérios de inclusão,
+foram selecionados 36 artigos. Verificou-se que uma série de produtos naturais na forma de extratos
+ou componentes isolados desempenham atividades contra vírus do tipo SARS. Para alguns destes
+6
+compostos não se conhece o mecanismo de ação nos vírus, enquanto que outros componentes
+possuem os alvos bem determinados. Alguns compostos mostraram forte capacidade de ação contra
+o mecanismo ligação do vírus com células humanas e na replicação viral, interferindo diretamente
+nas proteínas 3CLpro, PLpro e S. Assim, os autores destacam o uso potencial do extrato bruto de
+Rheum officinale e Polygonum mulfiflorum, que apresentaram promissores valores de concentração,
+entre 1 e 10 μg/mL. Entre compostos isolados destacam-se licorina, mepesuccinato de omacetaxina,
+silvestrol, ouabaína e tiloforina, os quais apresentaram valores de concentração variando entre 12
+e 143 nM. Os autores destacam a necessidade de estudos in vitro e in vivo sobre a eficácia destes
+compostos, mas que há possibilidade de suas utilizações de maneira complementar aos tratamentos
+usados para COVID-19, já que são mais seguros e baratos em relação a compostos sintéticos.6
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação metodológica de revisões narrativas. Uma
+análise crítica permite avaliar que o estudo se comprometeu em fazer buscas
+em diversas bases e repositórios, indicando termos empregados e critérios de
+inclusão. Nesse cenário, o estudo apresenta boa qualidade metodológica.
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ TAIWAN
+O uso de Remdesivir é considerada a terapia antiviral mais promissora. O primeiro paciente com
+COVID-19 nos Estados Unidos foi curado após tratamento com remdesivir. Além disso, resultados in
+vitro têm mostrado sucesso no controle de SARS-CoV-2. No entanto, ainda há incerteza na eficácia
+clínica e efeitos adversos têm sido relatados. Favipiravir: resultados preliminares de estudos clínicos
+demonstraram que o favipiravir tratou pacientes chineses com infecção por SARS-CoV-2. Ribavirina:
+resultados contra SARS-CoV-1 demonstraram que esta terapia seria prejudicial em pacientes com
+dificuldade respiratória. Deste modo, não seria indicada para tratar pacientes com COVID-19.
+Lopinavir/ritonavir: um estudo na China demonstrou que o grupo de pacientes que recebeu essa
+terapia apresentou taxa de mortalidade menor que o grupo que recebeu tratamento padrão.
+Cloroquina, hidroxicloroquina e azitromicina: os resultados in vitro de cloroquina no tratamento
+da COVID-19 são positivos, no entanto, os dados referentes aos ensaios clínicos desencorajam seu
+uso, principalmente pelos efeitos adversos. A hidroxicloroquina apresenta dados in vitro melhores
+do que a cloroquina. Além disso, o CDC recomenda seu uso desde que não seja em pacientes com
+retinopatia, deficiência de glicose-6-fosfatase, prolongamento do intervalo QT, grávidas e lactantes.
+A azitromicina em conjunto com hidroxicloroquina apresentou bons resultados em um ensaio clínico
+com 20 pacientes. Porém, faz-se necessário monitoramento do intervalo QT. Plasma convalescente:
+um estudo clínico na China com cinco pacientes demonstrou eficácia dessa terapia, apesar da amostra
+ter sido muito pequena (n = 5). Metilprednisolona e heparina: ambas terapias demonstraram bons
+resultados em ensaios clínicos em pacientes com COVID-19.7
+7
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para verificar a qualidade de revisões narrativas.
+Esta revisão, embora liste vários medicamentos testados em ensaios clínicos,
+experimentos in vivo e in vitro, não aprofunda a discussão sobre o uso dessas
+terapias. A falta dessa análise crítica, por parte dos autores, faz com que os
+dados aqui apresentados sejam avaliados com cautela.
+RIBOFLAVINA E LUZ ULTRAVIOLETA
+ESTUDO IN VITRO \ ESTADOS UNIDOS DAS AMÉRICAS
+O sistema Mirasol Pathogen Reduction Technology utiliza riboflavina e luz ultravioleta para
+tornar os patógenos transmitidos pelo sangue não infecciosos, mantendo a qualidade do sangue.
+Este sistema reduziu efetivamente a concentração de SARS-CoV-2 no plasma em um ensaio in vitro.
+Vale ressaltar que até o momento, nenhuma transmissão desse tipo foi relatada.8
+QUALIDADE
+METODOLÓGICA
+Não há ferramenta para avaliação da qualidade metodológica de estudos in
+vitro. No entanto, este artigo está bem detalhado e referenciado. Todas as
+etapas dos ensaios, materiais utilizados e resultados foram descritos de forma
+clara. Portanto, considera-se que o artigo possui boa qualidade metodológica.
+PLASMA CONVALESCENTE E ANTICORPOS MONOCLONAIS
+REVISÃO NARRATIVA \ ÍNDIA
+Com base nos estudos e relatórios anteriores, o tratamento com plasma convalescente em
+pacientes de SARS e MERS reduziu a propagação das infecções e mortalidade. Assim, esta terapia foi
+testada em cinco pacientes com COVID-19 em estado crítico, na China. Três pacientes receberam alta
+e os outros dois se apresentavam em condições estáveis após 37 dias após a transfusão.9
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para verificar a qualidade de revisões narrativas. O
+principal achado dessa revisão faz referência aos resultados apresentados por
+Shen et al. 2020. Nenhum dado ou informação nova que contribua na resposta
+terapêutica para COVID-19 foi apresentado.
+8
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ CHINA
+Lopinavir/ritonavir: um ensaio clínico randomizado com esta terapia (400 mg / 100 mg, duas
+vezes ao dia por 14 dias) no tratamento da COVID-19 mostrou não ter efeito benéfico quando
+comparado ao grupo padrão. Além disso, foram relatados alguns efeitos adversos como anorexia,
+náusea, desconforto abdominal, diarreia e gastrite aguda. Arbidol (umifenovir): controlou SARS-
+CoV-2 em ensaios in vitro. Cloroquina: um estudo com mais de 100 pacientes de COVID-19 indicou
+que esta terapia inibia a exacerbação de pneumonia, melhorando a imagem pulmonar, promovendo
+conversão negativa e encurtando o curso da doença. No entanto, deve-se prestar atenção aos efeitos
+adversos que o medicamento pode provocar. As terapias remdesivir, timosina alfa-1, ciclosporina A,
+interferon, tocilizumabe e plasma convalescente são apresentadas aqui como potenciais tratamentos
+para COVID-19, sustentadas em evidências contra outros coronavírus. Porém, as terapias favipiravir,
+ribavirina, corticosteroides e gamaglobulina não apresentaram sucesso contra os vírus da SARS e
+MERS e por isso devem ser avaliadas com cautela.10
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para verificar a qualidade de revisões narrativas.
+Apesar da avaliação e indicação de várias tecnologias para tratamento da
+COVID-19, este artigo não aprofunda em nenhuma destas. Poucos foram os
+relatos baseados em ensaios clínicos em pacientes com COVID-19. As demais
+terapias referenciadas foram avaliadas contra SARS e MERS.
+DIVERSAS TECNOLOGIAS
+ESTUDO IN SILICO \ CHINA
+Trata-se de estudo que buscou identificar possíveis drogas covalentes (aprovadas ou testadas
+clinicamente) visando a principal protease (3CLpro) do SARS-CoV-2. Os autores identificaram 11
+drogas em potencial, dentre as quais 6 se destacam pelo protocolo de enriquecimento desenvolvido
+pelos pesquisadores, a saber: Oberadilol (tratamento da hipertensão e falência cardíaca), Vidupiprant,
+poziotinibe (usado no tratamento de câncer), Ziprasidona (antipsicótico), Ácido folínico (utilizado
+como adjuvante ao metotrexato na quimioterapia) e o composto ITX5061 (tratamento de artrite
+reumatóide e hepatite C).11
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas disponíveis para avaliação de estudos in silico. Como
+principal limitação, os autores propõe o uso de drogas ainda não validadas por
+ensaios clínicos ou que ainda não tem ampla utilização.
+9
+DIVERSAS TECNOLOGIAS
+ESTUDO IN SILICO \ IRAQUE
+O estudo traz as características de ligação de 1615 moléculas aprovadas pelo FDA com a
+enzima protease do SARS-CoV-2. Essa protease possui uma relevante homologia com o SARS-CoV
+e essa semelhança mantida no SARS-CoV-2 pode direcionar ao reposicionamento de drogas. Eles
+compilaram a partir de acoplamento molecular e simulação dinâmica os resultados das características
+químicas e clínicas dos dez principais medicamentos rastreados virtualmente que agem contra a
+principal protease de SARS-CoV-2. As drogas foram classificadas de acordo com sua energia mínima
+de ligação aos principais cristais de protease de SARS-CoV-2 em ordem decrescente: Perampanel,
+Conivaptano, Hiponatremia, Sonidegibe, Azelastina, Idelalisibe, Suvorexant, Olaparibe, Ponatinibe,
+Loxapina e Tolvaptano. O conivaptano e a azelastina estão envolvidos principalmente em interações
+hidrofóbicas com resíduos do sítio ativo.12
+QUALIDADE
+METODOLÓGICA
+Não há ferramenta para avaliar estudos in silico, no entanto, o autor utiliza as
+técnicas de estudos in silico a partir de estruturas de SARS-CoV, bem como
+estudos anteriores em que referem sobre a homologia da protease com o SARS-
+CoV-2. Esses dados precisam de mais avaliações in vitro e in vivo para direcionar
+o Conivaptano e a Azelastina contra SARS-CoV-2.
+DIVERSAS TECNOLOGIAS
+ESTUDO IN SILICO \ ÍNDIA
+Trata-se de estudo in silico para identificar possíveis inibidores de protease contra SARS-CoV-2.
+Inicialmente foi feita uma triagem em bancos de dados com moléculas e medicamentos aprovados
+pela FDA, dos quais 366 compostos com maior potencial foram avaliados pela sua capacidade de
+ligação ao vírus. Os compostos com maior potencial de ligação ao SARS-CoV-2 foram os inibidores de
+protease do vírus HIV: ritonavir, lopinavir e darunavir. Além desses três, alguns antivirais (nelfinavir,
+saquinavir) e outros como dobutamina, carfilzomibe, teniposídeo e apicidina também apresentaram
+ligação com resíduos importantes do vírus SARS-CoV-2.13
+QUALIDADE
+METODOLÓGICA
+Não há ferramenta para avaliar estudos in silico. Os principais achados dos
+autores referem-se a medicamentos atualmente em ensaios clínicos em
+andamento, que são com os antivirais ritonavir, lopinavir e darunavir. Para que
+o potencial efeito dessas drogas seja comprovada, é necessário aguardar o final
+desses ensaios.
+10
+LIANHUAQINGWEN (MEDICINA TRADICIONAL CHINESA)
+ESTUDO IN VITRO\ CHINA
+Duas linhagens celulares, epiteliais do rim de macaco (Vero E6) e as de carcinoma hepatocelular,
+(Huh-7) foram incubadas com SARS-CoV-2. Foram divididas em grupo controle com a adição de
+remdesivir e grupo experimental com a adição de LH. Ao se avaliar a atividade antiviral do grupo controle
+e experimental contra o SARS-CoV-2 in vitro, LH mostrou citotoxicidade não aparente para ambas as
+linhas celulares na concentração 600 μg/mL, enquanto no grupo controle com remdesivir não mostrou
+citotoxicidade para as células a uma concentração de 50μM. LH inibiu a replicação de SARS com valor
+IC50 411.12 μg/mL, enquanto, com efeito dose dependente, no grupo controle mostrou que a inibição
+do vírus foi com o valor de IC50 0,0651 μM, com total inibição com 5 μM. Na microscopia eletrônica, os
+autores verificaram que, no grupo controle e no grupo LH, em células Vero E6 houve uma redução dos
+números de vírions quando comparadas com as mesmas células não infectadas. Quando se avaliou a
+inibição da expressão de citocinas e quimiocinas, obtiveram como resultado que as elevadas expressões
+dessas quatro citocinas (TNF-α,IL-6, CCL-2/MCP-1, CXCL-10/IP-10) foram inibidas significativamente
+pelo tratamento com LH de maneira dependente da concentração em células Huh7. O autor, em seu
+experimento in vitro, observou que a molécula Lianhuaqingwen (LH) possui uma atividade anti-SARS-
+CoV-2 e na redução da liberação de citocinas em células hospedeiras deste vírus e, assim, ele descreve
+que esse estudo apoia o uso do LH no tratamento da COVID-19.14
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação da qualidade metodológica de estudos
+in vitro. É importante a realização de estudos in vivo e clínicos a fim de delinear
+melhor a segurança dessa molécula. Essa molécula em uso combinado a
+outras, foi acrescentada nas diretrizes para diagnóstico e tratamento de novas
+pneumonias por coronavírus. O autor escolheu uma molécula com resultados
+in vitro promissores para o grupo controle: o remdesivir. Quando realizou a
+avaliação por microscopia eletrônica, não realizou em células Huh7.
+AZITROMICINA
+REVISÃO NARRATIVA \ BRASIL
+O estudo discute que a CD147 pode ser um alvo para o tratamento da COVID-19 e sugere
+que a azitromicina teria efeitos sobre a ligação do vírus a esta proteína. Os autores concluem que
+a azitromicina tem sido usada mundialmente no tratamento de doenças infecciosas, com poucos
+efeitos colaterais, e pode ser produzida rapidamente em larga escala, diferentemente dos anticorpos
+monoclonais que tem um processo de produção mais complexo. No entanto, mais estudos precisam
+ser realizados para confirmar o possível papel e mecanismo da azitromicina na COVID-19.15
+QUALIDADE
+METODOLÓGICA
+Embora não exista ferramenta de avaliação sobre a qualidade de revisões
+narrativas, o estudo apresentou boa qualidade metodológica. Os autores
+descreveram os mecanismos de interação entre a azitromicina e a CD147, não
+só na COVID-19, mas também em outras doenças.
+11
+ANTICORPOS NEUTRALIZANTES NA
+PROTEÍNA SPIKE DO SARS-COV-2
+ESTUDO IN VITRO \ CHINA
+Os autores realizaram esse estudo a fim de identificar anticorpos neutralizantes do domínio de
+ligação ao receptor (RDB) presente na proteína spike do novo coronavírus (SARS-CoV-2). Sabendo
+que há alta similaridade entre o domínio RDB do SARS-CoV-2 e SARS-CoV, neste estudo foram
+descritos os anticorpos neutralizantes já conhecidos na SARS-CoV: CR3022, m396, m336 e CR3014.
+O CR3022, dentre estes, com potente ligação no RDB do SARS-CoV-2, por ELISA, e não competiram
+com o anticorpo CR3014 na ligação da proteína S. A partir de mais análises realizadas, verificou-
+se que CR3022 não apresentou competição entre o receptor na célula humana, ECA2, quando se
+liga ao RDB, demonstrando que o anticorpo CR3022 não se sobrepõe à ligação do RDB e ECA2. Os
+mais importantes anticorpos neutralizantes do SARS-CoV (m396,CR3014) não se ligaram à spike do
+SARS-CoV-2. O anticorpo CR3022 tem o potencial de ser desenvolvido como candidato terapêutico de
+anticorpos neutralizantes, para a prevenção e tratamento de Infecções por SARS-CoV-2. Nesse estudo
+são usadas técnicas de modelagem e a técnica de ELISA a fim de avaliar anticorpos neutralizantes do
+RDB do SARS-CoV-2. Os autores trazem uma descrição de anticorpos neutralizantes para SARS-CoV e
+fazem experimentos para testar se estes se ligam na proteína S do SARS-CoV-2. De acordo com o que
+foi demonstrado, embora a estrutura da proteína S entre SARS e SARS-CoV-2 seja similar, os resultados
+sugerem que é preciso desenvolver anticorpos monoclonais que se liguem especificamente ao RDB
+do SARS-CoV-2. 16
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação da qualidade metodológica de
+estudos in vitro. São necessárias mais investigações sobre a estrutura de alta
+resolução do RDB de SARS-CoV-2 para entender o porquê de essa proteína não
+ser reconhecida por esses anticorpos do SARS-CoV.
+ENISAMIUM
+ESTUDO IN VITRO \ UCRÂNIA
+OsautoresavaliaramosresultadosdoensaioinvitrodoenisamiumcomoterapiacontraaCOVID-19.
+O enisamium é um antiviral derivado do ácido isonicotínico, que demonstrou atividade de inibição de
+múltiplas cepas dos vírus influenza B e A em cultura de células, e está clinicamente aprovado em 11
+países. Este medicamento e seu metabólito, VR17-04, inibem a atividade tanto da RNA polimerase do
+vírus influenza quanto do complexo SARS-CoV-2 RNA polimerase. Sugere-se que o enisamium é um
+inibidor de amplo espectro da síntese de RNA viral, e pode ser uma possível opção terapêutica para o
+tratamento da infecção por SARS-CoV-2. Os achados serão confirmados, por meio de um estudo clínico
+de fase III com ensamium iódide (Amizon Max) na Ucrânia.17
+12
+QUALIDADE
+METODOLÓGICA
+Nãoexistemferramentasparaavaliaraqualidadedeestudosinvitro,noentanto,
+o estudo apresentou boa qualidade metodológica. Os autores descrevem
+como o estudo foi realizado, apresentam os resultados em tabelas e figuras e
+reforçam que,para avaliar a segurança e eficácia do Amizon (ensamium) para
+tratamento da COVID-19 moderada, ainda são necessários ensaios clínicos de
+fase III randomizados, duplo cego,controlados por placebo. Os autores, além
+de apontar as limitações próprias dos testes in vitro, referiram conflito de
+interesse. Cabe ressaltar que este estudo é pre-print, ainda não foi aprovado
+para publicação em revista revisada por pares.
+DIVERSAS TECNOLOGIAS
+ESTUDO IN SILICO \ ESTADOS UNIDOS DAS AMÉRICAS
+Foi realizada modelagem para identificação de medicamentos alvo contra SARS-CoV-2,
+utilizando o DrugBank. Diferentes tipos de funções de pontuação foram aplicados nas fases de
+identificação e otimização de medicamentos. Foi desenvolvido um screening hierárquico para
+equilibrar a eficácia e segurança das drogas avaliadas, já aprovadas ou candidatas em ensaios
+clínicos. Vários medicamentos foram considerados promissores por apresentarem atividade
+inibitória contra as principais proteases do SARS-CoV-2, tais como Carfilzomibe, Eravaciclina,
+Valrubicina, Lopinavir e Elbasvir. A estreptomicina também demonstrou algum efeito inibitório.
+Os autores concluem que os resultados deste estudo puderam rapidamente identificar potenciais
+candidatos para reposicionamento de medicamentos contra COVID-19.18
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação de estudos in silico. No entanto, os
+autores descrevem os mecanismos de ação que eram de interesse antes de
+iniciar a triagem. O método foi detalhado com as técnicas de modelagem
+utilizadas para identificar drogas capazes de atingir a principal protease do
+vírus SARS-Cov-2. Sendo assim, o estudo foi avaliado como tendo boa qualidade
+metodológica, considerando as limitações próprias das modelagens.
+FITOTERAPIA (MEDICINA TRADICIONAL CHINESA)
+ESTUDO IN SILICO \ CHINA
+Os autores inicialmente fizeram um processo de triagem que consistiu num levantamento da
+literatura dos compostos que foram confirmados como benéficos no tratamento da SARS e MERS.
+Em seguida, os compostos candidatos foram levantados no banco de dados de farmacologia da
+Medicina Tradicional Chinesa. A partir disso, foi feita uma análise in silico para testar se o composto
+tinha potencial para interação direta com alguma proteína viral do SARS-CoV-2. Após a triagem, 13
+13
+compostos naturais foram identificados com um possível papel contra a COVID-19. Cabe destacar que
+125 ervas chinesas contêm de 2 a 13 desses compostos simultaneamente. Dessas 125 ervas, 26 são
+atualmente classificadas e utilizadas como tratamento de infecções respiratórias virais. A análise in
+silico demonstrou que esses compostos naturais tem a capacidade de interagir com a 3CLPro e inibir
+a proliferação viral. Dentre as 26 ervas listadas, estas podem ser usadas tanto durante a infecção
+pelo SARS-CoV-2 quanto de maneira preventiva e são utilizadas para regulação da infecção viral, em
+reações imunes e/ou inflamatórias e resposta à hipóxia.19
+QUALIDADE
+METODOLÓGICA
+Não há ferramenta para avaliação de estudos in silico, atualmente. Em análise
+crítica, a principal limitação seria a exclusão de possíveis compostos com papel
+efetivo no tratamento da COVID-19 em função da triagem inicial considerar
+somente SARS e MERS. Em contrapartida, apesar da limitação inicial imposta,
+vários compostos foram levantados e sua possível forma de ligação ao SARS-
+CoV-2 identificada. Contudo, é importante ressaltar que análises in silico ainda
+precisam ser validadas por ensaios clínicos.
+FITOTERAPIA (MEDICINA TRADICIONAL CHINESA)
+ESTUDO IN SILICO \ CHINA E ESTADOS UNIDOS DAS AMÉRICAS
+Trata-se de um estudo que visa identificar os compostos bioativos de um medicamento prescrito
+na fitoterapia chinesa, a Fórmula de Expulsão de Toxina Pulmonar Nº 1, também denominada como
+Dose de Desintoxicação Respiratória (DDR), que é composta por nove ervas. Foram identificados 1071
+compostos bioativos na DDR, dos quais 118 mostraram uma alta afinidade de ligação com a protease
+3CLpro do SARS-CoV-2, como indicado pelo encaixe molecular por desenho computacional. Em
+seguida, os pesquisadores afirmam ter feito um teste in vitro e validaram 22 compostos como tendo
+maior afinidade pela 3CLpro, sendo que a presença destes compostos foi confirmada na DDR por
+meio análise de cromatografia, indicando que os compostos bioativos da DDR podem ter atividade
+direta de inibição sobre o SARS-CoV-2.20
+QUALIDADE
+METODOLÓGICA
+Não há ferramenta para avaliação de estudos in silico, atualmente. Em análise
+crítica, o artigo traz dados relevantes sobre uma possível inibição do DDR sobre
+o SARS-CoV-2, e os nove ingredientes que constituem a DDR são aprovados
+como suplemento alimentar pela FDA. Deve-se ressaltar, contudo, que testes in
+vitro e estudos clínicos randomizados devem ser feitos para constatar a eficácia
+do DDR na COVID-19.
+14
+REFERÊNCIAS
+1. Yousefifard M, Zali A, Mohamed Ali K, Madani Neishaboori A, Zarghi A, Hosseini M, Safari S.
+Antiviral Therapy in Management of COVID-19: a Systematic Review on Current Evidence. Arch
+Acad Emerg Mede. 2020; 8(1): e45.
+2. Luo E, Zhang D, Luo H, Liu B, Zhao K, Zhao Y, et al. Treatment efficacy analysis of traditional
+Chinese medicine for novel coronavirus pneumonia (COVID-19): an empirical study from
+Wuhan, Hubei Province, China. Chin Med. 2020 Apr 15;15:34.doi: 10.1186/s13020-020-00317-x.
+3. Chowdhury UF, Sharif Shohan MU, Hoque KI, Beg MA, Sharif Siam MK, Moni MA. A
+Computational Approach to Design Potential siRNA Molecules as a Prospective Tool for
+Silencing Nucleocapsid Phosphoprotein and Surface Glycoprotein Gene of SARS-CoV-2.
+bioRxiv [Internet]. 2020 Jan 1;2020.04.10.036335. Available from: http://biorxiv.org/content/
+early/2020/04/21/2020.04.10.036335.1.
+4. Elfiky AA. Anti-HCV, nucleotide inhibitors, repurposing against COVID-19. Life Sci [Internet].
+2020;248. Available from: https://doi.org/10.1016/j.lfs.2020.117477
+5. Hall DC, Ji H. A search for medications to treat COVID-19 via in silico molecular docking models
+of the SARS-CoV-2 spike glycoprotein and 3CL protease. Travel Med Infect Dis [Internet]. 2020;
+Available from: https://doi.org/10.1016/j.tmaid.2020.101646
+6. Islam MT, Sarkar C, El-Kersh DM, Jamaddar S, Uddin SJ, Shilpi JA, et al. Natural products and their
+derivatives against coronavirus: A review of the non-clinical and pre-clinical data. Phyther Res.
+2020;1–22. Available from: https://doi.org/ 10.1002/ptr.6700
+7. Jean SS, Lee PI, Hsueh PR. Treatment options for COVID-19: The reality and challenges. Journal
+of Microbiology, Immunology and Infection, https://doi.org/10.1016/j.jmii.2020.03.034
+8. KeilSD,RaganI,YonemuraS,HartsonL,DartNK,BowenR.Inactivationofsevereacuterespiratory
+syndrome coronavirus 2 in plasma and platelet products using a riboflavin and ultraviolet
+light-based photochemical treatment. Int. J. Clin. Transfus. Med. 2020 Apr 20. https://doi.
+org/10.1111/vox.12937
+9. Kumar GV, Jeyanthi V, Ramakrishnan S. A short review on antibody therapy for COVID-19. New
+Microbes and New Infections, https://doi.org/10.1016/j.nmni.2020.100682
+10. Li L, Li R, Wu Z, Yang X, Zhao M, Liu J, Chen D. Therapeutic strategies for critically ill patients with
+COVID-19. Ann. Intensive Care. (2020) 10:45. https://doi.org/10.1186/s13613-020-00661-z
+11. Liu S, Zheng Q, Wang Z. Potential covalent drugs targeting the main protease of the SARS-CoV-2
+coronavirus. Bioinformatics. 2020 Apr 1. pii: btaa224. doi: 10.1093/bioinformatics/btaa224.
+12. Odhar HA, Ahjel SW, Albeer AAMA, Hashim AF, Rayshan AM, Humadi SS. Molecular docking and
+dynamicssimulationofFDAapproveddrugswiththemainproteasefrom2019novelcoronavirus.
+Bioinformation. 2020;16(3):236–244. Published 2020 Mar 31. doi:10.6026/97320630016236
+13. Pant S, Singh M, Ravichandiran V, Murty USN, Srivastava HK. Peptide-like and small-
+molecule inhibitors against Covid-19. J Biomol Struct Dyn. 2020 Apr 20:1-15. doi:
+10.1080/07391102.2020.1757510.
+14. Runfeng L, Yunlong H, Jicheng H, Weiqi P, Qinhai M, Yongxia S, et al. Lianhuaqingwen exerts anti-
+viral and anti-inflammatory activity against novel coronavirus (SARS-CoV-2). Pharmacol Res.
+2020 Mar 20;156:104761. doi: 10.1016/j.phrs.2020.104761. [Epub ahead of print]
+15
+15. UlrichH,PillatMM.CD147asaTargetforCOVID-19Treatment:SuggestedEffectsofAzithromycin
+and Stem Cell Engagement. Stem Cell Rev Rep. 20 de abril de 2020;1–7.
+16. Tian X, Li C, Huang A, Xia S, Lu S, Shi Z, et al. Potent binding of 2019 novel coronavirus spike
+protein by a SARS coronavirus-specific human monoclonal antibody. (2020) Emerging Microbes
+& Infections, 9:1, 382-385, DOI: 10.1080/22221751.2020.1729069
+17. Walker A, Fan H, Keown JR, Margitich V, Grimes JM, Fodor E, et al. Enisamium is a small
+molecule inhibitor of the influenza A virus and SARS-CoV-2 RNA polymerases. bioRxiv.
+2020;2020.04.21.053017.
+18. Wang J. Fast Identification of Possible Drug Treatment of Coronavirus Disease -19 (COVID-19)
+Through Computational Drug Repurposing Study. (2020) J. Chem. Inf. Model. DOI: 10.1021/acs.
+jcim.0c00179
+19. Zhang DH, Wu KL, Zhang X, Deng SQ, Peng B. In silico screening of Chinese herbal medicines
+with the potential to directly inhibit 2019 novel coronavirus. J Integr Med. 2020 Mar;18(2):152-
+158. doi: 10.1016/j.joim.2020.02.005.
+20. Zhang ZJ, Wu WY, Hou JJ, Zhang LL, Li FF, Gao L, et al. Active constituents and mechanisms of
+Respiratory Detox Shot, a traditional Chinese medicine prescription, for COVID-19 control and
+prevention: Network-molecular docking-LC-MSE analysis. J Integr Med. 2020 Apr 8. pii: S2095-
+4964(20)30036-4. doi: 10.1016/j.joim.2020.03.004.
+21. Brasil. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de Ética em Pesquisa.
+Boletim Ética em Pesquisa – Edição Especial Coronavírus (Covid-19). CONEP/CNS/MS. 2020,
+1:página 1-página 21.
+ESTRATÉGIA DE BUSCA:
+16
+CITAÇÃO
+BRASIL. Departamento de Ciência e Tecnologia. Secretaria de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos em Saúde. Ministério da Saúde. Informe Diário de Evidências – COVID-19 (23 de abril
+de 2020). 2020.
+ORGANIZADORES
+Equipe técnica: 		Cecilia Menezes Farinasso; Douglas de Almeida Rocha; Felipe Nunes Bonifácio; Gabriel
+Antônio Rezende de Paula; Glícia Pinheiro Bezerra; Junia Carolina Rebelo Dos Santos
+Silva; Leonardo Ferreira Machado; Livia Carla Vinhal Frutuoso.
+Coordenadora de Evidências e Informações Estratégicas em Gestão em Saúde: Daniela Fortunato Rego.
+Diretora de Ciência e Tecnologia: Camile Giaretta Sachetti.
+17
+Apêndice 1: Protocolos de ensaios clínicos registrados em 22/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+1 NCT04358068/ EUA Antimalárico;
+Antibiótico sistêmico
+simples
+Hidroxicloroquina +
+Azitromicina
+Placebo Ainda não recrutando 22/04/2020 National Institute of
+Allergy and Infectious
+Diseases (NIAID);
+Teva Pharmaceuticals
+Industries LTD
+2 NCT04356495/ França Antimalárico;
+Antineoplásico;
+Antiviral; Anti-
+hipertensivo
+Hidroxicloroquina;
+Imatinibe; Favipiravir;
+Telmisartan
+Vitaminas Ainda não recrutando 22/04/2020 University Hospital,
+Bordeaux; University of
+Bordeaux
+3 NCT04358081/ País
+não declarado
+Antimalárico;
+Antibiótico sistêmico
+simples
+Hidroxicloroquina;
+Hidroxicloroquina +
+azitromicina
+Placebo Ainda não recrutando 22/04/2020 Novartis
+Pharmaceuticals;
+Novartis
+4 "NCT04356534/
+Bahrain"
+Imunoterapia Plasma convalescente Tratamento padrão Ainda não recrutando 22/04/2020 Royal College of
+Surgeons in Ireland
+- Medical University
+of Bahrain; Salmaniya
+Medical Complex;
+Bahrain Defence Force
+Royal Medical Services,
+Military Hospital;
+Mohammed Bin Khalifa
+Bin Sulman Al Khalifa
+Cardiac Centre, Awali
+5 NCT04357106/ México Imunoterapia Plasma convalescente Sem comparador Recrutando 22/04/2020 Centro de
+Hematolog√≠a y
+Medicina Interna;
+Laboratorios Cl√≠nicos
+de Puebla (Laboratorios
+Ruiz)
+18
+Apêndice 1: Protocolos de ensaios clínicos registrados em 22/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+6 NCT04356482/ México Imunoterapia Plasma convalescente Sem comparador Ainda não recrutando 22/04/2020 Instituto de Seguridad
+y Servicios Sociales de
+los Trabajadores del
+Estado; SECRETARIA
+DE SALUD DEL ESTADO
+DE SONORA; Hospital
+General de Mexico;
+HOSPITAL CENTRAL
+NACIONAL PEMEX
+NORTE
+7 NCT04356690/ EUA Antineoplásico Etoposide Tratamento padrão Ainda não recrutando 22/04/2020 Boston Medical Center
+8 NCT04357990/ Islândia Cicatrizante Kerecis Oral and Nasal Spray Placebo Ainda não recrutando 22/04/2020 Kerecis Ltd.
+9 NCT04356937/ EUA Anticorpo monoclonal Tocilizumab Placebo Ainda não recrutando 22/04/2020 Massachusetts General
+Hospital; Genentech,
+Inc.
+10 NCT04357444/ França Imunoterapia ILT101 (Dose baixa de IL-2) Placebo Ainda não recrutando 22/04/2020 Assistance Publique
+- H√¥pitaux de Paris;
+Iltoo Pharma
+11 NCT04357808/
+Espanha
+Anticorpo monoclonal Sarilumab Tratamento padrão Recrutando 22/04/2020 Maria del Rosario
+Garcia de Vicu√±a
+Pinedo; Instituto
+de Investigaci√≥n
+Sanitaria Hospital
+Universitario de la
+Princesa; Fundaci√≥n
+de Investigaci√≥n
+Biom√©dica- Hospital
+Universitario de La
+Princesa
+19
+Apêndice 1: Protocolos de ensaios clínicos registrados em 22/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+12 NCT04356677/ País
+não declarado
+Antiviral Virazole® (ribavirina para
+solução de inalação, usp) 50
+mg/mL
+Virazole 100 mg/mL Ainda não recrutando 22/04/2020 Bausch Health
+Americas, Inc.
+13 NCT04357860/
+Espanha
+Anticorpo monoclonal Sarilumab 200 mg;
+Sarilumab 400 mg
+Tratamento padrão Ainda não recrutando 22/04/2020 Maim√≥nides
+Biomedical Research
+Institute of C√≥rdoba;
+Consejer√≠a de Salud
+y Familias- Junta
+de Andaluc√≠a;
+Red Andaluza de
+Ensayos Cl√≠nicos
+en Enfermedades
+Infecciosas (Red
+ANCRAID)
+14 NCT04356508/ Hong
+Kong
+Antineoplásico Nivolumabe Tratamento padrão Ainda não recrutando 22/04/2020 Dr Gerry Gin Wai Kwok;
+The University of Hong
+Kong; Queen Mary
+Hospital, Hong Kong
+15 NCT04357457/ França Estimulante pulmonar Almitrine Placebo Ainda não recrutando 22/04/2020 Assistance Publique
+- H√¥pitaux de Paris;
+Centre Hospitalier de
+Chartres
+16 NCT04357028/ Egito Imunoterapia Vacina MMR Placebo Ainda não recrutando 22/04/2020 Kasr El Aini Hospital
+17 NCT04357782/ EUA Vitamina Ácido ascórbico em alta
+dose, intravenosa
+Sem comparador Recrutando 22/04/2020 Hunter Holmes
+Mcguire Veteran
+Affairs Medical Center;
+McGuire Research
+Institute
+20
+Apêndice 1: Protocolos de ensaios clínicos registrados em 22/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+18 NCT04357730/ EUA Anticoagulantes
+fibrinolíticos e
+proteolíticos
+Alteplase 50 MG [Activase] Alteplase 100 MG
+[Activase]
+Ainda não recrutando 22/04/2020 Denver Health and
+Hospital Authority;
+Genentech, Inc.;
+University of Colorado
+Denver; National
+Jewish; Beth Israel
+Deaconess Medical
+Center; Long Island
+Jewish Hospital
+19 NCT04357366/ Grécia Imunomodulador;
+Trimetoprima em
+associação com sulfas
+Anakinra; trimetoprim/
+sulfametoxazol
+Sem comparador Recrutando 22/04/2020 Hellenic Institute for
+the Study of Sepsis
+20 NCT04358003/ País
+não declarado
+Dispositivo médico Cartucho de adsorção de
+plasma
+Sem comparador Ainda não recrutando 22/04/2020 Marker Therapeutics
+AG
+21 NCT04357613/ França Antineoplásico Imatinibe Tratamento padrão Ainda não recrutando 22/04/2020 Versailles Hospital
+22 NCT04356833/ Reino
+Unido
+Anticoagulantes
+fibrinolíticos e
+proteolíticos
+Ativador de plasminogênio
+tecidual recombinante
+nebulizado (rt-PA)
+Tratamento padrão Ainda não recrutando 22/04/2020 University College,
+London
+21
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+1 22/03/2020 Avaliação da segurança e eficácia clínica da hidroxicloroquina associada à azitromicina em
+pacientes com pneumonia causada por infecção pelo vírus SARS-CoV-2. Aliança COVID-19
+Brasil II: pacientes graves
+Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+2 23/03/2020 Estudo de fase IIB para avaliar eficácia e segurança do difosfato de cloroquina no tratamento
+de pacientes hospitalizados com síndrome respiratória grave no âmbito do novo Coronavírus
+(SARS-Cov-2): um ensaio clínico, duplo-cego, randomizado
+Diretoria de Ensino e Pesquisa – DENPE
+3 25/03/2020 Estudo aberto, controlado, de uso de hidroxicloroquina e azitromicina para prevenção de
+complicações em pacientes com infecção pelo novo coronavírus (COVID-19): um estudo
+randomizado e controlado
+Associação Beneficente Síria
+4 26/03/2020 Um estudo internacional randomizado de tratamentos adicionais para a COVID-19 em
+pacientes hospitalizados recebendo o padrão local de tratamento. Estudo Solidarity
+Instituto Nacional De Infectologia Evandro Chagas –
+INI /FIOCRUZ
+5 01/04/2020 Avaliação de protocolo de tratamento COVID-19 com associação de cloroquina/
+hidroxicloroquina e azitromicina para pacientes com pneumonia
+Hospital São José de Doenças Infecciosas – HSJ /
+Secretaria de Saúde Fortaleza
+6 01/04/2020 Desenvolvimento de vacina para SARS-CoV-2 utilizando VLPs Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+7 03/04/2020 Aliança COVID-19 Brasil III: Casos Graves – Corticoide Associação Beneficente Síria
+8 03/04/2020 Estudo clínico fase I com células mesenquimais para o tratamento de COVID-19 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+9 03/04/2020 Protocolo de utilização de hidroxicloroquina associado a azitromicina para pacientes com
+infecção confirmada por SARS-CoV-2 e doença pulmonar (COVID-19)
+Hospital Brigadeiro UGA V-SP
+10 04/04/2020 Ensaio clínico randomizado para o tratamento de casos moderados a graves da doença causada
+pelo novo Coronavírus-2019 (COVID-19) com cloroquina e colchicina
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+22
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+11 04/04/2020 Ensaio clínico pragmático controlado randomizado multicêntrico da eficácia de dez dias de
+cloroquina no tratamento da pneumonia causada por SARS-CoV-2
+CEPETI – Centro de Estudos e de Pesquisa em
+Terapia Intensiva
+12 04/04/2020 Plasma convalescente como alternativa terapêutica para o tratamento de SARS-CoV-2 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+13 04/04/2020 Ensaio clínico utilizando N-acetilcisteína para o tratamento de síndrome respiratória aguda
+grave em pacientes com COVID-19
+Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+14 04/04/2020 Suspensão dos bloqueadores do receptor de angiotensina e inbidores da enzima conversora da
+angiotensina e desfechos adversos em pacientes hospitalizados com infecção por coronavírus
+(SARS-CoV-2) – Brace Corona Trial
+Instituto D'or de Pesquisa e Ensino
+15 04/04/2020 Estudo clínico randomizado, pragmático, aberto, avaliando Hidroxicloroquina para prevenção
+de hospitalização e complicações respiratórias em pacientes ambulatoriais com diagnóstico
+confirmado ou presuntivo de infecção pelo (COVID-19) – Coalizão COVID-19 Brasil V – pacientes
+não hospitalizados
+Hospital Alemão Oswaldo Cruz
+16 05/04/2020 Ensaio clínico randomizado, duplo-cego e controlado por placebo para avaliar eficácia e
+segurança da hidroxicloroquina e azitromicina versus placebo na negativação da carga viral
+de participantes com síndrome gripal causada pelo SARS-CoV-2 e que não apresentam
+indicação de hospitalização
+Hospital Santa Paula (Sp)
+17 08/04/2020 Efetividadede um protocolo de testagem baseado em RT-PCR e sorologia para SARS-CoV-2
+sobre a preservação da força de trabalho em saúde, durante a pandemia COVID-19 no Brasil:
+ensaio clínico randomizado, de grupos paralelos
+Empresa Brasileira de Servicos Hospitalares –
+EBSERH
+18 08/04/2020 Estudo prospectivo, não randomizado, intervencional, consecutivo, da combinação de
+hidroxicloroquina e azitromicina em pacientes sintomáticos graves com a doença COVID-19
+Hospital Guilherme Alvaro – Santos – SP
+23
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+19 08/04/2020 Estudo clínico de conceito, aberto, monocêntrico, não randomizado, para avaliação da eficácia
+e segurança da administração oral de hidroxicloroquina em associação à azitromicina, no
+tratamento da doença respiratória aguda (COVID-19) causada pelo vírus SARS-CoV-2
+Prevent Senior Private Operadora de Saude LTDA
+20 08/04/2020 Estudo de fase IIb para avaliar eficácia e segurança do difosfato de cloroquina no tratamento de
+pacientes com comorbidades, sem síndrome respiratória grave, no âmbito do novo coronavírus
+(SARS-CoV-2): um ensaio clínico, duplo-cego, randomizado, controlado com placebo
+Diretoria de Ensino e Pesquisa – DENPE
+21 11/04/2020 Uso de plasma de doador convalescente para tratar pacientes com infecção grave pelo
+SARS-CoV-2 (COVID-19)
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+22 14/04/2020 Efeitos da terapia com nitazoxanida em pacientes com pneumonia grave induzida por SARS-CoV-2 Universidade Federal do Rio De Janeiro – UFRJ
+23 14/04/2020 Ensaio clínico de prova de conceito, multicêntrico, paralelo, randomizado e duplo-cego para
+avaliação da segurança e eficácia da nitazoxanida 600 mg em relação ao placebo no tratamento de
+participantes da pesquisa com COVID-19 hospitalizados em estado não crítico
+Hospital Vera Cruz S. A.
+24 14/04/2020 Novo esquema terapêutico para falência respiratória aguda associada a pneumonia em indivíduos
+infectados pelo SARS-CoV-2
+Universidade Federal do Rio de Janeiro – UFRJ
+25 17/04/2020 Uso de plasma convalescente submetido à inativação de patógenos para o tratamento de pacientes
+com COVID-19 grave
+Instituto Estadual de Hematologia Arthur Siqueira
+Cavalcanti- HEMORIO
+26 17/04/2020 Plasma convalescente como alternativa de tratamento de casos graves de SARS-CoV-2 UNIDADE DE HEMOTERAPIA E HEMATOLOGIA
+SAMARITANO LTDA
+27 17/04/2020 Hidroxicloroquina e Lopinavir/ Ritonavir para melhorar a saúde das pessoas com COVID-19 Pontifícia Universidade Católica de Minas Gerais-
+PUCMG
+24
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+28 18/04/2020 Estudo de fase IIb para avaliar eficácia e segurança de succinato sódico de metilprednisolona
+injetável no tratamento de pacientes com sinais de síndrome respiratória aguda grave, no
+âmbito do novo coronavírus (SARS-CoV2): um ensaio clínico, duplo-cego, randomizado,
+controlado com placebo.
+Diretoria de Ensino e Pesquisa- DENPE
+29 18/04/2020 Estudo clínico de eficácia e segurança da inibição farmacológica de bradicinina para o
+tratamento de COVID-19
+Faculdade de Ciências Medicas- UNICAMP
+30 21/04/20 Avaliação do uso terapêutico da hidroxicloroquina em pacientes acometidos pela forma leve da
+COVID-19: ensaio clínico randomizado
+Fundação de Saúde Comunitária de Sinop
+Atualizações constantes sobre os ensaios clínicos aprovados pela CONEp podem ser encontradas no endereço acessado pelo código ao lado.
+

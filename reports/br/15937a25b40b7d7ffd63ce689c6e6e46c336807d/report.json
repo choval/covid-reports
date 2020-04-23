@@ -1,0 +1,26 @@
+{
+    "filename": "Nota-Informativa-COVID-doenc--a-chagas.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/22\/Nota-Informativa-COVID-doenc--a-chagas.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587652758,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "133323",
+        "date": "Thu, 23 Apr 2020 14:39:18 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587652759.825.5008.245482; Path=\/; Secure; HttpOnly",
+        "last-modified": "Wed, 22 Apr 2020 17:18:43 GMT",
+        "etag": "\"208cb-5a3e452f75d52\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 449a33633af422ed0455ecaba4d77f39.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "QkkVgPOub3XO4VK-rc-O-Q1B1hIxYBl3yWSOXjD4XiUDMsyxsfASbw=="
+    },
+    "lang": "pt",
+    "size": 133323,
+    "modified": 1587575923
+}

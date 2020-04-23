@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_traspaso_22042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_traspaso_22042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587652782,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 23 Apr 2020 14:39:42 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Thu, 23 Apr 2020 00:14:25 GMT",
+        "etag": "\"9c678-5a3ea219a7a40\"",
+        "accept-ranges": "bytes",
+        "content-length": "640632",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 640632,
+    "modified": 1587600865
+}

@@ -1,0 +1,20 @@
+{
+    "filename": "Infografica_22aprile%20ITA.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Infografica_22aprile%20ITA.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587653012,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1177021",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 23 Apr 2020 12:35:47 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"df9dfdb66b19d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Thu, 23 Apr 2020 14:43:32 GMT"
+    },
+    "lang": "it,en",
+    "size": 1177021,
+    "modified": 1587645347
+}

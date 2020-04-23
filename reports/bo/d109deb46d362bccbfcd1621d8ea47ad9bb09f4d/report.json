@@ -1,0 +1,22 @@
+{
+    "filename": "4092-consejo-de-salud-trabaja-en-el-fortalecimiento-de-la-estrategia-contra-covid-19",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4092-consejo-de-salud-trabaja-en-el-fortalecimiento-de-la-estrategia-contra-covid-19",
+    "output": "file.pdf",
+    "downloaded": 1587680462,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 23 Apr 2020 22:25:25 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=83il9e5p95e3fk4scirhbdvl0g; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Thu, 23 Apr 2020 22:25:25 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 678552,
+    "modified": 1587680468
+}

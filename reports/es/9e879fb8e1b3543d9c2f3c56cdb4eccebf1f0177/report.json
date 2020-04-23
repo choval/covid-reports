@@ -1,0 +1,20 @@
+{
+    "filename": "Actualizacion_83_COVID-19.pdf",
+    "uri": "https:\/\/www.mscbs.gob.es\/profesionales\/saludPublica\/ccayes\/alertasActual\/nCov-China\/..\/..\/..\/..\/..\/profesionales\/saludPublica\/ccayes\/alertasActual\/nCov-China\/documentos\/Actualizacion_83_COVID-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587560874,
+    "headers": {
+        "http-status": 200,
+        "server": "Servidor-Web",
+        "date": "Wed, 22 Apr 2020 13:07:54 GMT",
+        "content-length": "810281",
+        "content-type": "application\/pdf",
+        "cache-control": "public,max-age=8640",
+        "last-modified": "Wed, 22 Apr 2020 09:00:59 GMT",
+        "etag": "W\/\"c5d29-5ea007cb\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 810281,
+    "modified": 1587546059
+}

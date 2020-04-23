@@ -1,0 +1,20 @@
+{
+    "filename": "7ddeb-coronavirus200420.pdf",
+    "uri": "https:\/\/www.dge.gob.pe\/portal\/docs\/tools\/coronavirus\/7ddeb-coronavirus200420.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587561249,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 22 Apr 2020 13:10:20 GMT",
+        "server": "Apache\/2.4.6 (CentOS) OpenSSL\/1.0.2k-fips PHP\/5.4.16 mod_wsgi\/3.4 Python\/2.7.5",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Wed, 22 Apr 2020 06:26:23 GMT",
+        "etag": "\"16dc40-5a3db360ca520\"",
+        "accept-ranges": "bytes",
+        "content-length": "1498176",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1498176,
+    "modified": 1587536783
+}

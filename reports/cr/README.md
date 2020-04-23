@@ -5,8 +5,22 @@
 * [https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov](https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov)
 
 
+## 2020-04-23
+
+* [1626-687-casos-confirmados-por-covid-19](f97fce4a46d7ccbbe10e56f27778e961383c3d4b/file.pdf) @22:23 GMT
+* [1627-costa-rica-desarrollara-sus-propias-pruebas-para-deteccion-de-covid-19](90231e8e1bde50556e79456489ecff09e984c314/file.pdf) @22:23 GMT
+* [lineamientos\_uso\_laboratorios\_computacion\_universidades\_23042020.pdf](a92bb7d260936362836337e11959b18f524c4aaf/file.pdf) @22:17 GMT
+* [1625-681-casos-confirmados-por-covid-19](3649829fe30393309b811024d88a0972f6dbff77/file.pdf) @14:40 GMT
+* [lineamientos\_traspaso\_22042020.pdf](ecc3a26a7b22f974c4905cc27c1950a2876bfa15/file.pdf) @00:14 GMT
+* [lineamientos\_donacion\_alimentos\_22042020.pdf](b0b4f4d6de43a4acfb8c3fcce8764f4672edc09a/file.pdf) @00:13 GMT
+
 ## 2020-04-22
 
+* [estrategia\_comunicacion\_riesgo\_personas\_adultas\_mayores\_22042020.pdf](419615104749a20279f46e7ab0ddc0cc912bf975/file.pdf) @20:49 GMT
+* [guia\_adulto\_mayor\_seguimiento\_telefonico\_22042020.pdf](14c3706e6b028f280b49f1f06df906fed09f325c/file.pdf) @20:49 GMT
+* [guia\_seguimiento\_telefonico\_acompañamiento\_territorio\_PAM\_segun\_riesgo\_22042020.pdf](1184f3660ba5cff1c16b49bf8ecaae3d4702572f/file.pdf) @20:49 GMT
+* [guia\_adulto\_mayor\_atencion\_territorial\_22042020.pdf](a1e2d47f0564267b44a856a1391f74be90fa3310/file.pdf) @20:49 GMT
+* [recomendaciones\_nutricionales\_poblacion\_sana\_frente\_covid\_22042020.pdf](94f3ec7ac8c3db76de7c0b3d5f655d42349c6cc5/file.pdf) @20:28 GMT
 * [1624-669-casos-confirmados-por-covid-19](8a4ec8fac406919f049186a95a0269e5b0a633c5/file.pdf) @00:09 GMT
 
 ## 2020-04-21
@@ -198,14 +212,14 @@
 * [lineamiento\_general\_condominios\_v3\_27032020.pdf](d09ec39f3dc46ed9ed0c241e15182e9f79fc92d3/file.pdf) @21:28 GMT
 * [lineamientos\_odontologos\_v2\_27032020.pdf](0854065e8d5791b42d36988b951129a5cca1b339/file.pdf) @21:08 GMT
 * [lineamientos\_generales\_empleados\_sector\_construccion\_v1\_27032020.pdf](802008ccea952d9c87571fdc480f7ac9808d5f3e/file.pdf) @21:07 GMT
-* [decreto\_ejecutivo\_42248\_suspension\_contratos\_trabajo.pdf](ebca2d541e85286ac72f65b36867cafbdd88509b/file.pdf) @04:00 GMT
-* [decreto\_ejecutivo\_42253\_mopt\_s\_restriccion\_vehicular\_sanitaria.pdf](3366029fe5f3b82213a850d655a8c8d9b3707ac6/file.pdf) @04:00 GMT
 * [decreto\_ejecutivo\_42227\_mp\_s\_declaratoria\_emergencia\_nacional.pdf](794770b76ea0aa8251d3938ba1523dc35027e44c/file.pdf) @04:00 GMT
-* [directriz\_076\_s\_suministro\_agua\_potable.pdf](7bf695f190402c44f114e08d5137581166c73690/file.pdf) @04:00 GMT
-* [directriz\_073\_s\_mtss\_medidas\_coordinación\_interinstitucional.pdf](6ced6cf531ccdeb080e09f2eccc6382f66ab5c8b/file.pdf) @04:00 GMT
-* [directriz\_077\_s\_mtss\_mideplan\_funcionamiento\_instituciones\_publicas.pdf](b0c6c4280ce0ca32e3c5d8e1f06b676ddb73bb3e/file.pdf) @04:00 GMT
+* [decreto\_ejecutivo\_42253\_mopt\_s\_restriccion\_vehicular\_sanitaria.pdf](3366029fe5f3b82213a850d655a8c8d9b3707ac6/file.pdf) @04:00 GMT
 * [decreto\_42238\_mgp\_s\_medidas\_sanitarias\_materia\_migratoria.pdf](09b9b501a413fcd564ae8fc12885e18a22f91a70/file.pdf) @04:00 GMT
+* [directriz\_077\_s\_mtss\_mideplan\_funcionamiento\_instituciones\_publicas.pdf](b0c6c4280ce0ca32e3c5d8e1f06b676ddb73bb3e/file.pdf) @04:00 GMT
 * [decreto\_42221\_S\_concentracion\_actividades\_masivas.pdf](cae75bdc191237484dc5a7f30f15a78009b18e6e/file.pdf) @04:00 GMT
+* [directriz\_073\_s\_mtss\_medidas\_coordinación\_interinstitucional.pdf](6ced6cf531ccdeb080e09f2eccc6382f66ab5c8b/file.pdf) @04:00 GMT
+* [decreto\_ejecutivo\_42248\_suspension\_contratos\_trabajo.pdf](ebca2d541e85286ac72f65b36867cafbdd88509b/file.pdf) @04:00 GMT
+* [directriz\_076\_s\_suministro\_agua\_potable.pdf](7bf695f190402c44f114e08d5137581166c73690/file.pdf) @04:00 GMT
 
 ## 2020-03-26
 

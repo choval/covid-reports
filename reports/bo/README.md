@@ -6,6 +6,20 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-23
+
+* [4091-nuevo-director-del-hospital-del-norte-pide-trabajar-en-equipo-para-combatir-el-covid-19](fc8687e6ebf4285fd245835eea0d43ad0994e3bb/file.pdf) @22:21 GMT
+* [4092-consejo-de-salud-trabaja-en-el-fortalecimiento-de-la-estrategia-contra-covid-19](d109deb46d362bccbfcd1621d8ea47ad9bb09f4d/file.pdf) @22:21 GMT
+* [4085-cooperacion-internacional-suma-esfuerzos-contra-el-covid-19-y-dona-recursos-y-equipos-a-bolivia](3f82a02e848681b2a9f0abcf89b9f22f7fcb1710/file.pdf) @14:39 GMT
+* [4086-potosi-contara-con-dos-laboratorios-covid-19-y-recibira-equipamiento-medico](ae96768ebc4924918c0ada37297e3385aff1485c/file.pdf) @14:38 GMT
+* [4088-el-pais-registra-63-nuevos-casos-de-coronavirus-y-tres-decesos-en-un-dia](0b62c927a4af79b2c431ca51661cffdc7f0fc9d5/file.pdf) @14:38 GMT
+
+## 2020-04-22
+
+* [4081-ministerio-de-salud-reporta-11-nuevos-casos-de-covid-19-y-44-pacientes-recuperados](142e3363360d9dabed320aab91e32d8035e5ea08/file.pdf) @13:06 GMT
+* [4082-ministro-de-salud-destaca-el-sacrificio-del-pueblo-y-de-las-autoridades-ante-el-covid-19](9d8304aa78382dc8f745b1249c328ebdd3698680/file.pdf) @13:06 GMT
+* [4083-ministro-navajas-ratifica-que-todos-los-departamentos-tendran-laboratorio-para-la-deteccion-de-covid-19](cfe1e137ff0e999bf6d28955c26aa474e3f19672/file.pdf) @13:06 GMT
+
 ## 2020-04-21
 
 * [4078-gobierno-reporta-dos-primeros-casos-de-covid-19-en-beni-y-el-pais-suma-598-contagiados](58fa8f928d43846171b7280fbe7ce4c1a0d98b7e/file.pdf) @23:59 GMT

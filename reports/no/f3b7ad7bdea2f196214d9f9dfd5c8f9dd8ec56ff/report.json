@@ -1,0 +1,28 @@
+{
+    "filename": "2020.04.23-norden-og-verden-covid-19.pdf",
+    "uri": "https:\/\/www.fhi.no\/contentassets\/ca5914bd0aa14e15a17f8a7d48fa306a\/2020.04.23-norden-og-verden-covid-19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587653331,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 23 Apr 2020 14:48:51 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "776621",
+        "set-cookie": "__cfduid=d9bb4e94c992c61e9ec8a89e6bcc322c01587653330; expires=Sat, 23-May-20 14:48:50 GMT; path=\/; domain=.www.fhi.no; HttpOnly; SameSite=Lax",
+        "cache-control": "public, max-age=43199",
+        "expires": "Fri, 24 Apr 2020 02:48:50 GMT",
+        "last-modified": "Thu, 23 Apr 2020 10:32:48 GMT",
+        "etag": "\"1D6195A8863C800\"",
+        "request-context": "appId=cid-v1:afda6def-0de1-4764-90ec-fb72e90cbcc7",
+        "access-control-expose-headers": "Request-Context",
+        "cf-cache-status": "MISS",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "5888634109f5f7de-EZE",
+        "cf-request-id": "02491c5ca00000f7dea79ee200000001"
+    },
+    "size": 776621,
+    "modified": 1587637968
+}

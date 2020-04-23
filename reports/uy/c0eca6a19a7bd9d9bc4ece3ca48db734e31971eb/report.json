@@ -1,0 +1,25 @@
+{
+    "filename": "MSP_RECOMENDACIONES_MUJERES_EMBARAZADAS_COVID_19_0.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_RECOMENDACIONES_MUJERES_EMBARAZADAS_COVID_19_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587681279,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 23 Apr 2020 22:34:38 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Thu, 23 Apr 2020 17:12:09 GMT",
+        "etag": "\"187f4a-5a3f85951e0d7\"",
+        "accept-ranges": "bytes",
+        "content-length": "1605450",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Thu, 07 May 2020 22:34:38 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 1605450,
+    "modified": 1587661929
+}

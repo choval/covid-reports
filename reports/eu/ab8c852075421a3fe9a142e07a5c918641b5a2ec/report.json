@@ -1,0 +1,28 @@
+{
+    "filename": "communication_-_a_european_roadmap_to_lifting_coronavirus_containment_measures_0.pdf",
+    "uri": "https:\/\/ec.europa.eu\/info\/sites\/info\/files\/communication_-_a_european_roadmap_to_lifting_coronavirus_containment_measures_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587680804,
+    "headers": {
+        "http-status": 200,
+        "date": "Thu, 23 Apr 2020 17:49:30 GMT",
+        "vary": "Host",
+        "last-modified": "Wed, 15 Apr 2020 09:07:41 GMT",
+        "etag": "\"be06d-5a350a601be21\"",
+        "content-length": "778349",
+        "expires": "Thu, 07 May 2020 17:49:30 GMT",
+        "x-robots-tag": "index, nofollow",
+        "content-type": "application\/pdf",
+        "age": "16634",
+        "x-fpfis": "24057212 4390917",
+        "access-control-allow-origin": "https:\/\/myintracomm.ec.europa.eu",
+        "cache-control": "max-age=1209600, s-maxage=0",
+        "accept-ranges": "bytes",
+        "server": "Europa",
+        "proxy-connection": "Keep-Alive",
+        "connection": "Keep-Alive"
+    },
+    "lang": "en",
+    "size": 778349,
+    "modified": 1586941661
+}
