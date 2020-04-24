@@ -7,6 +7,14 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-04-24
+
+* [coronavirus-covid-19-providing-unpaid-care-to-adults-with-learning-disabilities-and-autistic-adults](540935691637b72d4b6883cac24e1d90e6118ed9/file.pdf) @17:09 GMT
+* [coronavirus-covid-19-guidance-for-care-staff-supporting-adults-with-learning-disabilities-and-autistic-adults](a5a466194fc5926d444f3c4cbd76e50dbbfbeda0/file.pdf) @17:09 GMT
+* [2020-04-24-guidance-for-maternal-medicine.pdf](3dcfa3d57e9a82340c84f4ea2ad4dbddb1e19104/file.pdf) @13:40 GMT
+* [2020-04-24-guidance-for-antenatal-and-postnatal-services.pdf](b845d0ee2d29a8f55efc56a42cdf6eeedae1f0c0/file.pdf) @13:40 GMT
+* [covid-19-testing-self-referral-portal-user-guide.pdf](5ebac3a821c8ff9d956bbdd518dbe943649b2c1f/file.pdf) @08:48 GMT
+
 ## 2020-04-23
 
 * [how-to-use-the-self-swabbing-kit-for-a-combined-throat-and-nose-swab-video](ed91dfd53d20e6024f1f74ddced551da02506a64/file.pdf) @22:34 GMT
@@ -86,6 +94,7 @@
 * [2020-03-30-guidance-for-antenatal-and-postnatal-services-in-the-evolving-coronavirus-covid-19-pandemic-200409.pdf](2053f3934e47a535ad1e28ecbdaefb0009add8d0/file.pdf) @18:53 GMT
 * [2020-03-30-occupational--health--advice--for--employers-and--pregnant-women-during-the-covid-19-pandemic-200409.pdf](dd3ff544d61aaa73d3c6a8bb4e2f73d1adc1d370/file.pdf) @18:53 GMT
 * [Guidance\_for\_Laboratories\_offering\_support\_for\_COVID-19\_testing\_\_for\_publication\_\_2\_.pdf](fcfe5aaa2bc608f0268a3484c6824c419c276e89/file.pdf) @17:43 GMT
+* [Security\_of\_NHS\_and\_Public\_Health\_Services\_Digital\_Systems\_\_Coronavirus\_\_Directions\_2020.pdf](ea47604a765eb773d58e41eb5bfb20fd41183d20/file.pdf) @15:07 GMT
 * [guidance-for-stepdown-of-infection-control-precautions-and-discharging-covid-19-patients](c1c747a86528eab1e9241299925a22ce6409dbd4/file.pdf) @13:55 GMT
 * [Covid-19\_fact\_sheet.pdf](da833790107bb8f28b1734ce1795dfd14692956d/file.pdf) @13:21 GMT
 

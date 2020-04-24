@@ -5,6 +5,10 @@
 * [https://www.folkhalsomyndigheten.se/publicerat-material/publikationer/?so=&ph=&fv=75&q=covid-19](https://www.folkhalsomyndigheten.se/publicerat-material/publikationer/?so=&ph=&fv=75&q=covid-19)
 
 
+## 2020-04-23
+
+* [skattning-peakdag-antal-infekterade-covid-19-utbrottet-stockholms-lan-februari-april-2020.pdf](dbafc167f79edec99e1b80868912063b6a64e8a9/file.pdf) @12:04 GMT
+
 ## 2020-04-20
 
 * [forekomsten-covid-19-region-stockholm-26-mars3-april-2020.pdf](248217c2993470e27cd8271e3e09b0e6e9928d16/file.pdf) @12:00 GMT

@@ -1,0 +1,19 @@
+{
+    "filename": "fc923a-EPIgasesmedicinalesreactivoseinsumosCOVID1924042020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/fc923a-EPIgasesmedicinalesreactivoseinsumosCOVID1924042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587747889,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Fri, 24 Apr 2020 17:04:44 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "751433",
+        "last-modified": "Fri, 24 Apr 2020 13:51:23 GMT",
+        "etag": "\"b7749-5a409a92e8001\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 751433,
+    "modified": 1587736283
+}

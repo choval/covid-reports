@@ -6,6 +6,10 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-04-24
+
+* [4093-bolivia-supera-los-700-casos-confirmados-de-covid-19-y-registra-43-fallecidos](66266a129e1a8e450e1db7a49acd8f81cf563074/file.pdf) @16:54 GMT
+
 ## 2020-04-23
 
 * [4091-nuevo-director-del-hospital-del-norte-pide-trabajar-en-equipo-para-combatir-el-covid-19](fc8687e6ebf4285fd245835eea0d43ad0994e3bb/file.pdf) @22:21 GMT

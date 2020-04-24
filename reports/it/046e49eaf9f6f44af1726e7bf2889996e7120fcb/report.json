@@ -1,0 +1,23 @@
+{
+    "filename": "20200423_ISS_Opuscolo Covid19_Badanti_IT.pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/20200423_ISS_Opuscolo+Covid19_Badanti_IT.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587747478,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "1986001",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 23 Apr 2020 17:15:56 GMT",
+        "set-cookie": "JSESSIONID=0AE9DEECA64126462778F127F3E5287B; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"20200423_ISS_Opuscolo Covid19_Badanti_IT.pdf\"",
+        "date": "Fri, 24 Apr 2020 16:57:57 GMT"
+    },
+    "lang": "it",
+    "size": 1986001,
+    "modified": 1587662156
+}

@@ -5,6 +5,10 @@
 * [https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
 
 
+## 2020-04-24
+
+* [Actualizacion\_85\_COVID-19.pdf](4621f9e24d5d0dc9932c0164c5f51998ea93e83f/file.pdf) @10:04 GMT
+
 ## 2020-04-23
 
 * [Actualizacion\_84\_COVID-19.pdf](c45206ba0fe10da3948eb1fccb6ac17d0c146460/file.pdf) @09:01 GMT

@@ -6,6 +6,11 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-04-24
+
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-4](17a3a7d2b4c772c54ea2f6e46d1c065b029af2d8/file.pdf) @17:09 GMT
+* [MSP\_PROPUESTA\_DEFINICION\_CASO\_SOSPECHOSO\_COVID\_19\_NINIOS.pdf](6ee2a0884d3e5fc9a775421f1da6d13cb4ead9fc/file.pdf) @14:02 GMT
+
 ## 2020-04-23
 
 * [MSP\_RECOMENDACIONES\_MUJERES\_EMBARAZADAS\_COVID\_19\_0.pdf](c0eca6a19a7bd9d9bc4ece3ca48db734e31971eb/file.pdf) @17:12 GMT

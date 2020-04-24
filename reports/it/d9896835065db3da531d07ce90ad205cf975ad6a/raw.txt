@@ -1,0 +1,245 @@
+Trasmissibilità di SARS-
+COV-2 in Italia
+Stefano Merler, FBK
+I parametri chiave che regolano la trasmissione
+Caso indice
+{
+{
+Prima
+generazione
+Seconda
+generazione
+Numero di riproduzione di base (R0): numero
+medio di casi generate da un un caso indice in una
+popolazione completamente suscettibile alla
+malattia
+Tempo di generazione (Tg): il tempo che passa tra
+l’infezione di un infettore primario e quello dei suoi
+casi secondari
+Noto R0, si può prevedere:
+• almeno nel breve-medio periodo, l’andamento
+dell’epidemia e l’impatto sul sistema sanitario
+• l’impatto degli interventi (tramite Rt)
+R0 <1 Eliminazione della malattia
+R0 >1 Crescita esponenziale del numero di casi
+Il ritardo medio dalla data di esposizione (al
+virus) alla data di decesso è di 18 giorni.
+Questo periodo aumenta con l’evolversi
+dell’epidemia e comprende:
+• Tempo tra esposizione e inizio sintomi
+• Tempo tra inizio sintomi e diagnosi
+• Tempo tra diagnosi e (eventuale) ricovero
+• Tempo tra (eventuale) ricovero e
+(eventuale) decesso
+Questo significa che un decesso che viene
+notificato oggi è spesso riconducibile ad una
+persona che era stata esposta al virus 2-5
+settimane prima.
+1
+Mar
+1
+Apr
+1
+Feb
+Data di insorgenza
+sintomi
+Data di diagnosi
+Data di decesso
+I tempi dei dati
+Trasmissibilità di SARS-COV-2 in Lombardia
+Lombardia
+Rt
+0
+1
+2
+3
+4
+5
+2020−01−28
+2020−01−29
+2020−01−30
+2020−01−31
+2020−02−01
+2020−02−02
+2020−02−03
+2020−02−04
+2020−02−05
+2020−02−06
+2020−02−07
+2020−02−08
+2020−02−09
+2020−02−10
+2020−02−11
+2020−02−12
+2020−02−13
+2020−02−14
+2020−02−15
+2020−02−16
+2020−02−17
+2020−02−18
+2020−02−19
+2020−02−20
+2020−02−21
+2020−02−22
+2020−02−23
+2020−02−24
+2020−02−25
+2020−02−26
+2020−02−27
+2020−02−28
+2020−02−29
+2020−03−01
+2020−03−02
+2020−03−03
+2020−03−04
+2020−03−05
+2020−03−06
+2020−03−07
+2020−03−08
+2020−03−09
+2020−03−10
+2020−03−11
+2020−03−12
+numero
+di
+nuovi
+casi
+dati
+incompleti
+per data inizio sintomi
+per data di notifica
+2020−01−28
+2020−02−04
+2020−02−11
+2020−02−18
+2020−02−25
+2020−03−03
+2020−03−10
+2020−03−17
+2020−03−24
+2020−03−31
+2020−04−07
+2020−04−14
+2020−04−21
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+Paziente
+1
+Area
+rossa
+Chiusura
+scuole
+Sospensione
+attivita`
+sociali
+Lockdown
+nazionale
+• Intervallo seriale: 6.6 giorni in media (da dati di contatto)
+• R0=3 prima del paziente 1
+• Impatto immediato delle prime misure adottate
+Trasmissibilità di SARS-COV-2 nell’ex area
+rossa di Codogno
+• Trasmissibilita sotto soglia a fine febbraio
+• Cluster di trasmissione in RSA o non ricostruiti nella fase successiva
+• Monitoraggio strumento cruciale, anche nel post-lockdown
+Evoluzione della trasmissibilità di SARS-
+COV-2 dal 10 marzo al 25 marzo
+Lombardy
+Emilia
+Romagna
+Veneto
+Tuscany
+Lazio
+Trento
+Friuli
+Venezia
+Giulia
+Apulia
+Bolzano
+Sardinia
+R
+at
+March
+10
+0
+1
+2
+3
+4
+5
+Rsymp
+Rhosp
+Lombardy
+(32346)
+Emilia
+Romagna
+(10054)
+Veneto
+(6442)
+Tuscany
+(2972)
+Lazio
+(1901)
+Trento
+(1222)
+Friuli
+Venezia
+Giulia
+(1139)
+Apulia
+(1093)
+Bolzano
+(858)
+Sardinia
+(442)
+R
+at
+March
+25
+0.0
+0.5
+1.0
+1.5
+2.0
+Rsymp
+Rhosp
+• Rt calcolato dalla serie
+temporale dei casi per
+data di inizio sintomi e
+per data di
+ospedalizzazione
+• Evidente l’effetto del
+lockdown in due
+settimane
+Analisi basata sull’analisi di 61,707 casi sintomatici (90.4%) e 34,708
+ospedalizzazioni (87%)
+Regione Rsymp
+media 95%CI-inf 95%CI-sup
+Calabria 0,47 0,29 0,71
+Emilia-Romagna 0,71 0,67 0,74
+Friuli Venezia-Giulia 0,62 0,51 0,73
+Lazio 0,59 0,50 0,68
+Lombardia 0,40 0,38 0,42
+Marche 0,60 0,46 0,76
+Molise 0,63 0,27 1,07
+Puglia 0,60 0,48 0,73
+Sardegna 0,69 0,54 0,88
+Sicilia 0,34 0,23 0,47
+Toscana 0,57 0,49 0,66
+Umbria 0,42 0,19 0,67
+Veneto 0,61 0,55 0,69
+Bolzano 0,64 0,50 0,78
+Trento 0,44 0,33 0,56
+Trasmissibilità di SARS-COV-2 al 6 aprile
+Le regioni non mostrate non
+hanno un dato di sufficiente
+qualita` per il calcolo di Rt
+Il dato sara aggiornato e
+pubblicato settimanalmente
+

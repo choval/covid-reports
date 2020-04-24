@@ -1,0 +1,26 @@
+{
+    "filename": "Nota-informativa-N-31.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/24\/Nota-informativa-N-31.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587747255,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "144895",
+        "date": "Fri, 24 Apr 2020 16:54:15 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587747256.294.10201.737780; Path=\/; Secure; HttpOnly",
+        "last-modified": "Fri, 24 Apr 2020 15:15:29 GMT",
+        "etag": "\"235ff-5a40ad5edf4ab\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 05332e1644a9b3970707beb819e04c09.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "J8spnjs8ubR8ljONiPzOUebXcx1ciMC8I1POgGbraqWcNsS7kLdAfg=="
+    },
+    "lang": "pt",
+    "size": 144895,
+    "modified": 1587741329
+}

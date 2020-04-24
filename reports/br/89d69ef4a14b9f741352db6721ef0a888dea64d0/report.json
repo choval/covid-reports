@@ -1,0 +1,26 @@
+{
+    "filename": "Nota-t--cnica-N---34-2020-CGSNT-DAET-SAES-MS.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/24\/Nota-t--cnica-N---34-2020-CGSNT-DAET-SAES-MS.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587747252,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "173023",
+        "date": "Fri, 24 Apr 2020 16:54:12 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_2_sn_387B073B966604947FD4713AA83901BA_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Fri, 24 Apr 2020 16:45:29 GMT",
+        "etag": "\"2a3df-5a40c17c69de8\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 484643a10b77ad7d857afaccfc430e6c.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "euYDHm3WrPzPUH6MXV5-6RwKrTk60PRhWqSGdOF2kmzgFhHXChnP-A=="
+    },
+    "lang": "pt",
+    "size": 173023,
+    "modified": 1587746729
+}

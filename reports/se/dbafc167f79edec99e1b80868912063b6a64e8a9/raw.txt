@@ -1,0 +1,669 @@
+Skattning av peakdag och antal
+infekterade i covid-19-utbrottet i
+Stockholms län februari-april 2020
+2
+Denna titel kan laddas ner från: www.folkhalsomyndigheten.se/publicerat-material/. En del av våra titlar går även att
+beställa som ett tryckt exemplar från Folkhälsomyndighetens publikationsservice,
+publikationsservice@folkhalsomyndigheten.se.
+Citera gärna Folkhälsomyndighetens texter, men glöm inte att uppge källan. Bilder, fotografier och illustrationer är
+skyddade av upphovsrätten. Det innebär att du måste ha upphovsmannens tillstånd att använda dem.
+© Folkhälsomyndigheten, 2020.
+Artikelnummer: 20055
+Revidering 1
+3
+Om publikationen
+Folkhälsomyndigheten har gjort en matematisk modellering av covid-19-utbrottet i
+Stockholms län för att skatta tidpunkten när flest personer är smittsamma och det totala
+antalet infekterade personer vid olika tidpunkter. I modellen har vi delat upp infekterade
+individer i ”rapporterade fall” och ”obekräftade fall”. De rapporterade fallen har av vården
+bekräftats vara infekterade med SARS-CoV-2 och utgör antal fall som rapporterats in till
+Folkhälsomyndigheten mellan 17 februari och 10 april 2020. De obekräftade fallen ingår
+inte i statistiken och utgör det så kallade mörkertalet och har olika grad av symptom, från
+mycket milda till mer allvarliga. För skattning av modellen använder vi även resultat från
+den undersökning som genomförts i Stockholms län för att mäta aktuell förekomst av
+SARS-CoV-2 i samhället. Undersökning visade att 2.5% av befolkningen i Stockholms län
+var infekterade mellan 27 mars och 3 april 2020.
+Modelleringen har utförts av medarbetare på enheten för analys under april månad 2020.
+Folkhälsomyndigheten
+Lisa Brouwers
+Enhetschef, enheten för analys
+4
+Innehåll
+Om publikationen ............................................................................................................................ 3
+Sammanfattning .............................................................................................................................. 5
+Introduktion................................................................................................................................ 6
+Syfte .......................................................................................................................................... 6
+Modell för smittspridning ............................................................................................................. 7
+SEIR-model............................................................................................................................ 7
+Analys ........................................................................................................................................ 9
+Anpassning till observerad data ............................................................................................... 9
+Hälsorapport Stockholms län........................................................................................................ 9
+Metod....................................................................................................................................... 10
+Resultat.................................................................................................................................... 11
+Peakdagen och antal smittade............................................................................................... 11
+Prediktion 3 och 7 dagar fram ............................................Fel! Bokmärket är inte definierat.
+Begränsningar........................................................................................................................... 19
+Referenser................................................................................................................................ 20
+Känslighetsanalys .......................................................................................................................... 22
+5
+Ordlista
+Incidens Antal nya fall (här: inflöde till Ir och Io)
+Observerad
+incidens
+Antal nya rapporterade fall (här: inflöde till Ir)
+Prevalens Antal individer i en population som samtidigt har en viss
+sjukdom (här: alla som finns i Ir och Io)
+Fackmodell En sorts matematisk modellering av infektionssjukdomar
+där individer delas in i olika fack. Alla inom inom ett fack
+antas ha samma egenskaper (här: vi använder en
+fackmodell av typ SEIR)
+Mottaglig Individ som inte är smittad och därför kan bli smittad
+(här: alla som finns i S)
+Latent Individ som är smittad men som ännu inte är smittsam
+(här: alla som finns i E)
+Infekterad Individ som är smittsam just nu (här: alla som finns i Ir
+och Io)
+Återställd Individ som har varit smittsam men som inte är det
+längre, individen är nu immun (Här: alla som finns i R).
+Latensfasen Perioden mellan tidpunkten då individen blev smittad och
+tidpunkten då individen blir smittsam.
+Mörkertal Antalet individer som är smittsamma men som inte har
+bekräftats som positiva fall i vården. Dessa fall är inte
+rapporterade och finns därför inte med i statistisken.
+6
+Sammanfattning
+Vi har modellerat spridningen av covid-19 i Stockholms län med en matematisk modell för
+att skatta det totala antalet infekterade personer och tidpunkten då störst antal personer
+samtidigt är smittsamma. Enligt modelleringen var ungefär 70 500 personer samtidigt
+smittsamma den 8 april, dagen med flest samtidigt smittsamma personer. Enligt
+modelleringen kommer ungefär 26% av befolkningnen i Stockholms län att ha varit
+smittade med covid-19 den första maj.
+I modellen har vi delat upp infekterade individer i ”rapporterade fall” och ”obekräftade
+fall”. De rapporterade fallen har av vården bekräftats vara infekterade med SARS-CoV-2
+och utgör antal fall som rapporterats in till Folkhälsomyndigheten mellan 17 februari och
+10 april 2020, fall som är smittade utomlands har exkluderats. De obekräftade fallen ingår
+inte i statistiken och utgör det så kallade mörkertalet. Dessa har olika grad av symptom,
+från mycket milda till mer allvarliga men inte så allvarliga att de läggs in på sjukhus. För
+skattning av modellen använder vi även resultat från den undersökning som genomförts i
+Stockholms län för att mäta aktuell förekomst av SARS-CoV-2 i samhället. Undersökning
+visade att 2.5% av befolkningen i Stockholms län var infekterade mellan 27 mars och 3
+april.
+Eftersom graden av smittsamhet bland de obekräftade fallen just nu är okänd har vi lagt in
+tre olika scenarier med olika antaganden om hur smittsamt ett obekräftat fall är i relation till
+ett rapporterat fall. I första fallet antar vi att de obekräftade fallen är lika smittsamma som
+de rapporterade fallen. I de andra fallen antar vi att de är mindre smittsamma än de
+rapporterade fallen. Vi antar att smittsamhet korrelerar med symptom och att det därför är
+troligt att anta att mildare fall är mindre smittsamma än mer allvarliga fall. Det scenario
+som ger bäst anpassning till antal rapporterade fall mellan 17 februari och 10 april 2020 är
+scenariot där obekräftade fall är cirka en tiondel så smittsamma som rapporterade fall, men
+skillnaden i anpassning är inte så stor.
+Introduktion
+I denna rapport beskrivs den modell som använts för att studera smittspridningen i
+Stockholms län mellan 17 februari och 10 april 2020. Från övervakningsdata har vi
+kunskap om antalet rapporterade fall. Det är viktigt att också få kunskap om antalet fall som
+inte är rapporterade, fall som inte har testats positiv för covid-19 i vården. Bättre kunskap
+om det totala antalet fall i samhället är viktigt för att kunna göra framtidsprognoser,
+planering och för att bedöma möjliga insatser.
+Syfte
+Syftet är att få en skattning av det totala antalet infekterade personer i Stockholms län,
+mörkertalet inkluderat, och skatta när toppen inträffar för störst antal samtidigt smittsamma
+fall och även störst antal nya fall.
+7
+Modell för smittspridning
+SEIR-modell
+Vi har använt oss av en så kallad fackmodell vilket på engelska kallas compartmental
+model. I en sådan modell delas individer in i olika fack beroende på förbestämda
+egenskaper. Inom varje fack antas individer ha samma egenskaper och bete sig likadant.
+Facken har beteckningarna S som i susceptible (mottaglig), E som i exposed (exponerad), I
+som i infected (smittsam) och R som i recovered (återställd).
+När en mottaglig individ smittas blir den inte smittsam på en gång, utan går in i latensfasen
+E, och stannar där i snitt
+1
+𝜌𝜌
+= 5.1 dagar (1,2).1
+Vi delar in gruppen smittsamma, I, i två grupper, de rapporterade fallen och de obekräftade
+fallen. De obekräftade fallen representerar det som brukar kallas mörkertalet.
+En smittad individ blir efter latensperioden antingen provtagen i vården med positivt svar
+eller förblir ett obekräftat fall som inte rapporteras. Om covid-19 bekräftas och rapporteras i
+vården flyttas individen från facket E till facket 𝐼𝐼𝑟𝑟 = 𝐼𝐼𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟. Om individen inte blir
+provtagen i vården utan förblir ett oupptäckt fall, flyttas individen från facket E till facket
+𝐼𝐼𝑜𝑜 = 𝐼𝐼𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜ä𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓. Andelen fall som förblir obekräftade betecknas 𝑝𝑝𝑜𝑜 och andelen som
+rapporteras blir 𝑝𝑝𝑟𝑟 = 1 − 𝑝𝑝𝑜𝑜. Smittsamheten antas variera över tid mellan två punkter i
+denna modellering. Mer bestämt varierar smittsamheten mellan värdet 𝜃𝜃 och värdet 𝛿𝛿𝛿𝛿, där
+mittpunkten för vändningen mellan 𝜃𝜃 och 𝛿𝛿𝛿𝛿 sker vid tidpunkten 𝑡𝑡𝑏𝑏. Vi kommer anta att
+denna vändnings mittpunkt sker 𝑡𝑡𝑏𝑏 = 16 mars 2020 (dag 76 på året), dagen då
+Stockholmare ombads att arbeta hemifrån. Hastigheten på denna förändring på
+smittsamheten bestäms av parametern 𝜀𝜀. Huruvida det är en minskning eller ökning som
+sker bestäms av kombinationen av 𝜀𝜀 och 𝛿𝛿. Smittsamheten vid en tidpunkt 𝑡𝑡 beskrivs enligt
+följande:
+Tidsberoende infektivitet 𝑏𝑏𝑡𝑡 = 𝑏𝑏(𝑡𝑡, 𝑡𝑡𝑏𝑏, 𝜃𝜃, 𝛿𝛿, 𝜀𝜀) = 𝜃𝜃 �𝛿𝛿 +
+1−𝛿𝛿
+1+𝑒𝑒−𝜀𝜀(𝑡𝑡−𝑡𝑡𝑏𝑏)�.
+Specialfallet 𝜀𝜀 = 0 ger en konstant smittsamhet.
+Vi antar att en individ som blir ett rapporterat fall har en smittsamhet som följer den
+tidsberoende infektiviteten och att smittsamheten hos obekräftade fall är en faktor 𝑞𝑞𝑜𝑜 ∈
+[0,1] av smittsamheten hos de rapporterade fallen.
+En individ antas vara smittsam i snitt
+1
+𝛾𝛾
+= 5 dagar (3) och blir sedan immun och flyttas till
+facket 𝑅𝑅.2
+Vi antar att populationen är stängd, ingen ny tillkommer och ingen lämnar populationen. Vi
+låter antalet individer i varje fack betecknas med 𝑆𝑆, 𝐸𝐸, 𝐼𝐼𝑟𝑟, 𝐼𝐼𝑜𝑜 och 𝑅𝑅. Det betyder att
+1
+Li et al. (1) får latensfasen/inkubationstiden till 5.2 dagar (95% CI [4.1, 7]), (2) Linton et al. uppskattar
+inkubationstiden till 5 dagar (95% CI [4, 5.8]).
+2
+I Wölfel et al. (3) studerades ett litet stickprov där de fann aktivt virus från dag 3 till dag 8 hos patienterna.
+8
+populationsstorleken är 𝑁𝑁 = 𝑆𝑆 + 𝐸𝐸 + 𝐼𝐼𝑟𝑟 + 𝐼𝐼𝑜𝑜 + 𝑅𝑅. Smittspridningsdynamiken beskrivs av
+följande ekvationssystem
+𝑑𝑑𝑑𝑑
+𝑑𝑑𝑑𝑑
+= −𝑆𝑆
+𝑏𝑏𝑡𝑡 𝐼𝐼𝑟𝑟
+𝑁𝑁
+− 𝑆𝑆𝑞𝑞𝑜𝑜
+𝑏𝑏𝑡𝑡 𝐼𝐼𝑜𝑜
+𝑁𝑁
+𝑑𝑑𝑑𝑑
+𝑑𝑑𝑑𝑑
+= 𝑆𝑆
+𝑏𝑏𝑡𝑡 𝐼𝐼𝑟𝑟
+𝑁𝑁
++ 𝑆𝑆𝑞𝑞𝑜𝑜
+𝑏𝑏𝑡𝑡 𝐼𝐼𝑜𝑜
+𝑁𝑁
+− 𝜌𝜌𝜌𝜌
+𝑑𝑑𝐼𝐼𝑜𝑜
+𝑑𝑑𝑑𝑑
+= 𝑝𝑝𝑜𝑜𝜌𝜌𝜌𝜌 − 𝛾𝛾𝐼𝐼𝑜𝑜
+𝑑𝑑𝐼𝐼𝑟𝑟
+𝑑𝑑𝑑𝑑
+= (1 − 𝑝𝑝𝑜𝑜)𝜌𝜌𝜌𝜌 − 𝛾𝛾𝐼𝐼𝑟𝑟
+𝑑𝑑𝑑𝑑
+𝑑𝑑𝑑𝑑
+= 𝛾𝛾(𝐼𝐼𝑜𝑜 + 𝐼𝐼𝑟𝑟).
+Från detta ekvationssystem kan man beräkna antalet 𝑆𝑆, 𝐸𝐸, 𝐼𝐼𝑟𝑟, 𝐼𝐼𝑜𝑜 och 𝑅𝑅 vid varje tidpunkt 𝑡𝑡,
+givet startvärden på antal individer i de olika facken vid önskad begynnelsetidpunkt 𝑡𝑡0.
+Notera att det är modellens dagliga incidens av nya rapporterade fall, det vill säga inflödet
+till 𝐼𝐼𝑟𝑟vid tiden 𝑡𝑡, (1 − 𝑝𝑝𝑜𝑜)𝜌𝜌𝜌𝜌(𝑡𝑡), som anpassats efter dagligt antal faktiskt inrapporterade
+fall i Stockholms län.
+Det basala reproduktionstalet 𝑅𝑅0 anger det förväntade antal personer som en första
+infekterad individ smittar i en helt mottaglig befolkning. 𝑅𝑅0 varierar i denna modell över
+tiden 𝑡𝑡, detta då smittsamheten antas bero på tiden 𝑡𝑡, och ges av smittintensiteten, det vill
+säga hur många personer en smittsam individ smittar per tidsenhet, multiplicerat med den
+förväntade tiden den initialt infekterade individen är smittsam. I vår modell kan en
+infekterad individ antingen vara av den typen som kommer bli ett rapporterat fall med en
+smittsamhet på 𝑏𝑏𝑡𝑡 eller ett obekräftat fall med en lägre smittsamhet på 𝑞𝑞𝑜𝑜𝑏𝑏𝑡𝑡. Då andelen
+obekräftade betecknades 𝑝𝑝𝑜𝑜 har vi således
+𝑅𝑅0(𝑡𝑡) = (1 − 𝑝𝑝𝑜𝑜)𝑏𝑏𝑡𝑡/𝛾𝛾 + 𝑝𝑝0𝑞𝑞𝑜𝑜𝑏𝑏𝑡𝑡/𝛾𝛾.
+För att få fram det effektiva reproduktionstalet 𝑅𝑅𝑒𝑒(𝑡𝑡) multiplicerar man 𝑅𝑅0(𝑡𝑡) med andelen
+mottagliga individer vid tidpunkt 𝑡𝑡, det vill säga
+𝑅𝑅𝑒𝑒(𝑡𝑡) = 𝑅𝑅0(𝑡𝑡) 𝑆𝑆(𝑡𝑡)/𝑁𝑁.
+9
+Analys
+Anpassning till observerad data
+Vi anpassar parametrarna i SEIR-modellen vid tidpunkten 𝑡𝑡 efter de rapporterade fallen per
+dag i Stockholms län3
+, fram till 10 april 2020. Mer bestämt, vi anpassar
+modellparametrarna så att den skattade incidensen av rapporterade fall vid varje tidpunkt
+((1 − 𝑝𝑝𝑜𝑜)𝜌𝜌𝜌𝜌(𝑡𝑡)) liknar den observerade dagliga inrapporterade incidensen enligt
+Folkhälsomyndigheten. Den sista dagen vi använde för inrapporterade fall var den 10 april
+2020. Vi fixerar längden på smittsamheten och längden på latensperioden men skattar alla
+parametrar till den varierande infektiviteten, 𝜃𝜃, 𝛿𝛿 och 𝜀𝜀. Fall som smittats utomlands
+exkluderas då de inte har smittats inom den modellerade populationen. Vi använder dagen
+för inrapporterad symptomdebut (så kallat epidatum) som dagen då fallen blev
+smittsamma.4
+Då smittspårning gjordes runt de tidiga importfallen i Stockholms län antar vi
+att det inte fanns något egentligt mörkertal vid 𝑡𝑡0 = 17 februari. Vi gör därför ett förenklat
+antagande om att det vid tidpunkten 𝑡𝑡0 = 17 februari fanns ett smittsamt rapporterad fall
+men inga obekräftade fall. Ett alternativ hade varit att sätta antalet rapporterade fall vid 𝑡𝑡0
+till ett och antalet obekräftade fall till 𝑝𝑝𝑜𝑜/𝑝𝑝𝑟𝑟 = 𝑝𝑝𝑜𝑜/(1 − 𝑝𝑝𝑜𝑜).
+För att anpassa parametrarna efter data minimeras felkvadratsumman5
+mellan det
+modellskattade antalet nya rapporterade infekterade fall per dag och det observerade antalet
+nya fall per dag.
+Hälsorapport Stockholms län
+Folkhälsomyndigheten har genomfört en studie6
+där 707 deltagare från en webbpanel av
+slumpmässigt rekryterade personer i Stockholms län genomförde självprovtagning för
+covid-19 mellan den 27 mars och 3 april. Vi använder resultat från denna studie för att
+kalibrera vår modell och få en uppskattning av mörkertalets storlek.
+Totalt var 18 av de 707 testade personerna positiva i studien. Den viktade andelen positiva
+var 2.5% (95% KI [1.4% - 4.2%] ). Om vi antar att 2.5 % av Stockholmarna var covid-19-
+positiva mellan dessa datum betyder det att totalt 60 455 (95% KI [33 244, 99 731])
+personer i Stockholms län var positiva under denna period. Vi kalibrerar parametrarna 𝑝𝑝𝑜𝑜
+och 𝑞𝑞𝑜𝑜 (andelen av de smittade som är obekräftade fall och den faktor som beskriver hur
+mycket obekräftade fall smittar i förhållande till rapporterade fall) på så sätt att vi får en
+skattad medel-prevalens på ca 2.5% under perioden 27 mars - 3 april.
+3
+Stockholms län har en population på 2 374 550 individer (SCB, 2019)
+4
+Om symptomdebut inte angivits används provtagninsdatum
+5
+residual square error
+6
+Se: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/april/resultat-fran-undersokning-av-
+forekomsten-av-covid-19-i-region-stockholm/
+10
+Metod
+Vi anpassar den matematiska SEIR-modellen efter olika antaganden om värden för
+parametern 𝑞𝑞𝑜𝑜, faktorn som beskriver hur mycket obekräftade fall smittar i förhållande till
+rapporterade fall. Vi studerar tre olika scenarier där varje scenario är kalibrerat så att den
+skattade prevalensen av smittsamma individer, det vill säga personer som tillhör gruppen Ir
+och Io, blir ca 2.5% i medel mellan 27 mars och 3 april. För att denna prevalens på 2.5% ska
+nås de angivna dagarna behöver andelen obekräftade fall enligt våra beräkningar vara 𝑝𝑝𝑜𝑜 =
+0.987, det vill säga 98.7% av alla infekterade fall behöver vara obekräftade fall. Vi studerar
+sedan tre olika grader av smittsamhet hos de obekräftade fallen, i förhållande till de
+rapporterade fallen på 𝑞𝑞𝑜𝑜 = {1, 0.55, 0.11}. Dessa värden är godtyckligt valda men baseras
+på ett grundläggande antagande om att smittsamhet korrelerar med grad av symptom och att
+det därför är rimligt att anta att mildare fall är mindre smittsamma än mer allvarliga fall.
+Utifrån ekvationssystemet ovan kan vi sluta oss till att scenarierna framförallt kommer att
+påverka fördelningen av smittsamheten hos de två olika falltyperna. För dessa tre scenarier
+skattar vi modellparametrarna och får fram deras standardfel. För att sedan få ett
+parametriskt bootstrap-konfidensintervall (KI) på till exempel kurvan av antalet nya
+rapporterade fall per dag så gör vi 1 000 dragningar av modellparameterar med deras
+skattade värde som medelvärde och deras standardfel som standardavvikelse ur en
+normalfördelning och beräknar kurvan via differentialekvationerna. Metoden används för
+att beräkna konfidensintervallen till samtliga resultat som presenteras i våra tabeller.
+I nästa steg studerar vi hur väl modellen lyckas skatta antal nya fall de nästkommande tre
+och sju dagarna. Detta görs genom att använda data för antal rapporterade fall fram till 7
+april och sedan skattas modellen baserat på dessa data. Därefter studerar vi hur väl den
+skattade nya kurvan passar till de 3 nästkommande dagarnas antal nya fall enligt
+inrapporterade antal fall. På samma sätt använder vi data fram till 3 april, skattar modellen,
+därefter studerar vi hur väl den skattade nya kurvan passar till de 7 nästkommande dagarnas
+antal nya fall enligt inrapporterade antal fall.
+I en känslighetsanalys som finns som bilaga använder vi 𝑝𝑝𝑜𝑜 ∈ {0.5, 0.95} och 𝑞𝑞𝑜𝑜 ∈
+{0.1, 0.5, 1.00}.
+11
+Tabell med parametrar i modellen
+Parameter Värde
+Längd på latensfasen
+1
+𝜌𝜌
+5.1 dagar
+Längd på smittsamhet
+1
+𝛾𝛾
+5 dagar
+Start datum 𝑡𝑡0 17 februari
+Mittpunkten för vändningen mellan 𝜃𝜃 och
+𝛿𝛿𝛿𝛿 sker vid tidpunkten 𝑡𝑡𝑏𝑏.
+16 mars
+Andel fall som förblir obekräftade 𝑝𝑝𝑜𝑜 0.987 (kalibrerad)
+Smittsamheten hos obekräftade fall som en
+faktor av smittsamheten hos de
+rapporterade fallen 𝑞𝑞𝑜𝑜.
+[0,1]
+Scenario med {1, 0.55, 0.11}
+Parametrar till infektivitet: 𝜃𝜃, 𝛿𝛿 och 𝜀𝜀 Skattas i modellen
+Smittsamhet hos ett rapporterat fall 𝑏𝑏𝑡𝑡 Skattas i modellen
+Resultat
+Utifrån data över rapporterade fall i Stockholms län fram till den 10 april har vi tagit fram
+tre scenarier som alla ger en utveckling som stämmer överens med antagandet om en
+prevalens på ca 2.5% mellan 27 mars och 3 april, den prevalens som Stockholmsstudien
+visade. I alla scenarierna utgör de obekräftade fallen 98.7% av samtliga fall. De tre
+scenarierna skiljer sig åt avseende hur smittsamma de obekräftade fallen är i förhållande till
+de rapporterade fallen (𝒒𝒒𝒐𝒐).
+Smittsamhet hos
+obekräftade fall (𝒒𝒒𝒐𝒐)
+(i procent)
+Scenario 1 100
+Scenario 2 55
+Scenario 3 11
+Peakdagen och antal smittade
+Peakdagen för prevalensen, då flest personer var smittsamma, inträffade mellan den 8 och
+11 april beroende på scenario. Då var ungefär 70 500 personer i Stockholms län samtidigt
+smittsamma. Dagen då högst antal nya fall inträffade, det vill säga incidensen eller inflödet
+till I, inträffade den 2 eller 3 april, då ungefär 14 500 personer blev smittsamma.
+Resultat för ackumulerat antal och andel smittade individer (E+I+R) för de tre scenarierna
+presenteras i tabell 1. Den 11 april hade totalt 17% av populationen i Stockholms län
+smittats. Enligt scenario 3 kommer 26% att ha varit smittade den 1 maj. Samtidigt
+12
+smittsamma (alla som finns i I ), samt peakdagen för de tre olika scenarierna presenteras i
+tabell 2.
+I bilder 1, 2 och 3, visas till vänster den skattade utvecklingen av nya rapporterade fall,
+daglig incidens eller inflöde till Ir, medan den högra grafen visar det totala antalet samtidigt
+smittsamma individer, prevalens bestående av alla individer i Ir och Io.7
+Perioden som visas
+är 17 februari till 25 april, bilderna innehåller alltså även en prognos.
+Utifrån inrapporterade fall under perioden 17 februari till 10 april beräknar vi värdet för
+reproduktionstalet vid en viss tid, 𝑅𝑅𝑒𝑒(𝑡𝑡). I samtliga scenarier ligger 𝑅𝑅𝑒𝑒(𝑡𝑡) den 10 april på ett
+värde strax över 1 eller strax under 1. Se tabell 3 för reproduktionstalen med 95%
+konfidensintervall.
+I tabell 4 presenterar vi parameterskattningarna samt RSS8
+för de tre scenarierna. Där
+framgår att scenario 3, där de observerade fallen antas ha en smittsamhet på 11% av de
+bekräftade fallens smittsamhet, ger den bästa anpassningen till data. I scenario 3 inträffade
+peakdagen för incidens av nya fall den 2 april (95% KI 27 mars – 13 april) och peakdagen
+för prevalens av samtidigt smittsamma personer den 8 april (95% KI 1 april – 18 april).
+Antalet nya fall, incidensen, var den 2 april 14 749 (95% KI 8 252 – 30 479) och antalet
+samtidigt smittsamma personer, prevalensen, i Stockholms län var under peakdagen 70 488
+stycken (95% KI 38 006 – 148 485).
+Med hjälp av bild 1, bild 2, bild 3, tabell 1 och tabell 2 kan man se att den stora skillnaden
+mellan modellerna inte är antalet smittade vid olika tidpunkter, utan det är den skattade
+smittsamheten (tabell 4) och hur smittsamheten hos de två typerna av fall, rapporterade och
+obekräftade, fördelar sig.
+7
+Bilderna visar alltså inflödet till gruppen Ir och hur många som samtidigt finns i gruppen Ir och Io.
+8
+Felkvadratsumman, residual square error
+13
+Tabell 1: Ackumulerat antal och andel infekterade personer (E + I + R) vid två tidpunkter. Detta visas
+för de tre scenarierna med en andel obekräftade fall (𝑝𝑝𝑜𝑜) på 98.7% och olika smittsamhet hos ett
+obekräftat fall i relation till smittsamheten hos ett rapporterat fall (𝑞𝑞𝑜𝑜). Alla skattningar visas med ett
+95% konfidensintervall (95% KI).
+Tabell 2: Skattad peakdag och antal infekterade, Ir + Io, den dagen (prevalens) samt skattad peakdag
+för incidens, dagligt nya antal fall, det vill säga inflödet till Ir och Io. Detta visas för de tre scenarierna
+med en andel obekräftade fall (𝑝𝑝𝑜𝑜) på 98.7% och olika smittsamhet hos ett obekräftat fall i relation till
+smittsamheten hos ett rapporterat fall (𝑞𝑞𝑜𝑜). Alla skattningar visas med ett 95% konfidensintervall (95%
+KI).
+Prevalens Incidens
+Peakdag
+(95% KI)
+Prevalens på
+peakdag
+(95% KI)
+Peakdag
+(95% KI)
+Incidens på
+peakdagen
+(95% KI)
+Scenario 1:
+smittsamhet
+100%
+2020-04-11 70 581 2020-04-03 14 511
+[2020-04-02, 2020-04-16] [44701, 124632] [2020-03-28, 2020-04-09] [9717, 25629]
+Scenario 2:
+smittsamhet
+55%
+2020-04-10 70 472 2020-04-03 14 565
+[2020-04-03, 2020-04-19] [44413, 128138] [2020-03-27, 2020-04-15] [9522, 26291]
+Scenario 3:
+smittsamhet
+11%
+2020-04-08 70 488 2020-04-02 14 749
+[2020-04-01, 2020-04-18] [38006, 148485] [2020-03-27, 2020-04-13] [8252, 30479]
+Ackumulerat antal infekterade fall och andel av befolkningen i Stockholms län
+2020-04-11 2020-05-01
+Antal
+(95% KI)
+Andel
+(95% KI)
+Antal
+(95% KI)
+Andel
+(95% KI)
+Scenario 1:
+smittsamhet
+100%
+409 723 0.17 648 557 0.27
+[266 654, 600 308] [0.112, 0.253] [360 847, 1 046 195] [0.152, 0.441]
+Scenario 2:
+smittsamhet
+55%
+410 382 0.17 640 973 0.27
+[270 217, 613 828] [0.114, 0.259] [376 891, 1 067 624] [0.159, 0.45]
+Scenario 3:
+smittsamhet
+11%
+412 674 0.17 616 655 0.26
+[222 824, 698 672] [0.094, 0.294] [273 347, 1 203 280] [0.115, 0.507]
+14
+Tabell 3: Skattat effektivt reproduktionstal (𝑅𝑅𝑒𝑒) för sista dagen med rapporterade fall i denna analys,
+2020-04-10, med 95% konfidensintervall. Detta visas för de tre scenarierna med olika smittsamhet hos
+ett obekräftat fall i relation till smittsamheten hos ett rapporterat fall (𝑞𝑞𝑜𝑜).
+𝑹𝑹𝒆𝒆(2020-04-10)
+(95% KI)
+Scenario 1:
+smittsamhet 100%
+0.98
+[0.778, 1.167]
+Scenario 2:
+smittsamhet 55%
+0.97
+[0.739, 1.172]
+Scenario 3:
+smittsamhet 11%
+0.92
+[0.601, 1.222]
+Tabell 4: Skattningar av prevalens som andel av Stockholms läns population, 27 mars – 3 april, RSS
+(modell med lägst värde har en bättre anpassning till data) och parameterskattningar, standardfel (se)
+och konfidensintervall (95% KI). Detta visas för de tre scenarierna olika smittsamhet hos ett obekräftat
+fall i relation till smittsamheten hos ett rapporterat fall (𝑞𝑞𝑜𝑜).
+Prevalens 27
+mars – 3 april
+(procent av
+population)
+RSS 𝜹𝜹
+�
+(se)
+95% KI
+𝜺𝜺
+�
+(se)
+95% KI
+𝜽𝜽
+�
+(se)
+95% KI
+Scenario 1
+smittsamhet
+100%
+2.5% 28461 0.14 (0.018) -0.24 (0.048) 1.68 (0.019)
+[0.101, 0.173] [-0.336, -0.148] [1.645, 1.719]
+Scenario 2:
+smittsamhet 55%
+2.5% 27576 0.14 (0.021) -0.23 (0.046) 2.84 (0.038)
+[0.102, 0.185] [-0.316, -0.138] [2.763, 2.91]
+Scenario 3:
+smittsamhet 11%
+2.5% 25235 0.16 (0.032) -0.19 (0.04) 10.9 (0.241)
+[0.094, 0.221] [-0.264, -0.106] [10.458, 11.402]
+15
+Bild 1: Scenario 1: vi antar här att de obekräftade fallens smittsamhet är 100% av smittsamheten hos
+de rapporterade fallen. Vänster: skattad daglig incidens av nya rapporterade fall, inflöde till Ir, (röda
+linjen) med 95% konfidensintervall (streckade linjerna) och observerad data (cirklar). Höger: prevalens
+av smittsamma fall, alla som befinner sig i Ir och Io, både rapporterade och obekräftade fall (röda linjen)
+med 95% konfidensintervall (streckade linjer).
+Bild 2: Scenario 2: vi antar att de obekräftade fallens smittsamhet är 55% av smittsamheten hos de
+rapporterade fallen. Vänster: skattad daglig incidens av nya rapporterade fall, inflöde till Ir, (röda linjen)
+med 95% konfidensintervall (streckade linjerna) och observerad data (cirklar). Höger: prevalens av
+smittsamma fall, alla som befinner sig i Ir och Io, både rapporterade och obekräftade fall (röda linjen)
+med 95% konfidensintervall (streckade linjer).
+16
+Bild 3: Scenario 3: vi antar de obekräftade fallens smittsamhet är 11% av smittsamheten hos de
+rapporterade fallen. Vänster: skattad daglig incidens av nya rapporterade fall, inflöde till Ir, (röda linjen)
+med 95% konfidensintervall (streckade linjerna) och observerad data (cirklar). Höger: prevalens av
+smittsamma fall, alla som befinner sig i Ir och Io, både rapporterade och obekräftade fall (röda linjen)
+med 95% konfidensintervall (streckade linjer).
+Prediktion 3 och 7 dagar framåt
+Slutligen studerar vi hur väl våra skattade modeller, som baserats på antal fall fram till 7
+april, kan prediktera nya fall 3 dagar fram i tiden, samt hur väl våra skattade modeller
+baserat på antal fall fram till 3 april kan prediktera nya fall 7 dagar fram i tiden. I bild 4 ser
+vi att de tre olika modellerna lyckas lika bra att prediktera antalet nya bekräftade fall 3
+dagar fram i tiden. I bild 5 ser vi att det scenario där smittsamheten hos obekräftade fall
+antas vara 100% och 55% av smittsamheten hos rapporterade fall predikterar de 7 dagarna
+efter 3 april sämre än i scenariot med 11% smittsamhet. Vi ser att alla scnearier överskattar
+antalet nya fall men att antagandet om 11% smittsamhet ger en bättre prediktion 7 dagar
+fram i tiden än de andra två scenarierna.
+17
+Bild 4: I de tre scenarierna ser vi hur väl den skattade kurvan utifrån data fram till 7 april predikterar
+antalet dagliga nya rapporterade fall 3 dagar därefter. Den översta bilden är för scenario 1, den
+mittersta scenario 2 och den nedersta scenario 3. De vertikala streckade linjerna visar var brytpunkten
+är för vilken data som användes i skattningarna. Punkterna till vänster och fram till denna linje
+användes för att skatta kurvan och de svarta ifyllda punkterna till höger om linjen användes för att
+uppskatta hur väl kurvan predikterar nya fall.
+18
+Bild 5: I de tre scenarierna ser vi hur väl den skattade kurvan utifrån data fram till 3 april predikterar
+antalet dagliga nya rapporterade fall 7 dagar därefter. Den översta bilden är för scenario 1, den
+mittersta scenario 2 och den nedersta scenario 3. De vertikala streckade linjerna visar var brytpunkten
+är för vilken data som användes i skattningarna. Punkterna till vänster och fram till denna linje
+användes för att skatta kurvan och de svarta ifyllda punkterna till höger om linjen användes för att
+uppskatta hur väl kurvan predikterar nya fall.
+19
+Begränsningar
+Covid-19 smittar framförallt via kontakt mellan människor genom droppsmitta, vilket
+indikerar att den sociala kontaktstrukturen i befolkningen har betydelse för dynamiken. En
+fackmodellen tar inte hänsyn till den variation i kontakter mellan människor som finns i
+samhället i verkligheten, där ett fåtal individer kan ha väldigt många kontakter medan
+flertalet har färre kontakter, man antar istället att alla individer har lika många sociala
+kontakter. Denna förenkling, det vill säga antagandet om en homogen kontaktstruktur,
+brukar ge en något snabbare tillväxt av en epidemi än om heterogenitet inkluderas i
+modelleringen. Modellen riskerar därför att överskatta hastigheten på utbrottet i
+Stockholms län något. Detta är inte inkluderat i de angivna konfidensintervallen, då ett
+konfidensintervall inte kan rapportera om sådana osäkerheter. Därför är det viktigt att
+nämna.
+20
+I vår modell antar vi att smittintensiteten (smittsamheten) varier över tid men att
+parametrarna som styr längden på latensfasen (𝜌𝜌) och hur länge man är smittsam (𝛾𝛾) är
+konstanta. Av detta följer att de styr exponentialfördelade slumpvariabler. Detta är en
+vanligt förekommande förenkling för att underlätta beräkningar, men är även den värd att
+belysas. En exponentialfördelad tid är inte alltid den bästa beskrivningen av vad vi
+observerar, till exempel är det möjligt att variationen i latensperioden är lägre än vad en
+exponentialfördelad tid med väntevärde 5.1 ger.
+Vi antar vidare att förhållandet mellan rapporterade fall och obekräftade fall är konstant
+över tid. Detta är en begränsning i modellen då indikationerna för provtagning ändrades 12
+mars 2020, fokus flyttades då från att provta individer med symptom som vistats i kända
+riskområden till att provta endast personer med behov av inneliggande sjukhusvård. Vi tror
+inte att denna förändring påverkade rapportering av fall från inhemsk smitta avsevärt utan
+snarare att den påverkade inrapporteringen av de tidigare importfallen.
+Referenser
+1. Li Q, Guan X, Wu P, et al. “Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected
+Pneumonia”. N Engl J Med (2020). DOI: 10.1056/NEJMoa2001316
+2. Linton NM, Kobayashi T, Yang Y, et al. “Incubation Period and Other Epidemiological Characteristics of 2019
+Novel Coronavirus Infections with Right Truncation: A Statistical Analysis of Publicly Available Case Data”. Journal
+of Clinical Medicine (2020). DOI: 10.3390/jcm9020538
+3. Wölfel, R., Corman, V.M., Guggemos, W. et al. “Virological assessment of hospitalized patients with COVID-
+2019”. Nature (2020). https://doi.org/10.1038/s41586-020-2196-x
+4. S. Flaxman, S. Mishra, A. Gandy, et al., “Estimating the number of infections and the impact of non-
+pharmaceutical interventions on COVID-19 in 11 European countries,” tech. rep., Imperial College London, 2020.
+21
+22
+Känslighetsanalys
+Vi visar här anpassning till rapporterade fall för fler kombinationer på 𝑝𝑝𝑜𝑜 och 𝑞𝑞𝑜𝑜,
+nämligen 𝑝𝑝𝑜𝑜 ∈ {0.5, 0.95} och 𝑞𝑞𝑜𝑜 ∈ {0.1, 0.5, 1.00}. I bild 6 och bild 7 visar
+skattad daglig incidens av rapporterade fall samt prevalens av infekterade och
+smittsamma fall. I Tabell 5 visar vi ackumulerat antal fall fram till 11 april,
+ackumulerat antal fall fram till 1 maj 2020 samt peakdag för dessa kombinationer
+på 𝑝𝑝𝑜𝑜 och 𝑞𝑞𝑜𝑜.
+Vi ser framförallt att det för den lägre andelen obekräftade fall, 50%, inte går att
+närma sig den prevalens som observerades i Stockholmsstudien. För de olika
+scenarierna ser vi att en topp kommer runt 8-9 april. I bild 6 kan man se att om
+andel obekräftade fall, mörkertalet, är hög (95%) samt om deras smittsamhet är hög
+(100% och 50% av smittsamheten hos rapporterade fall) så infaller toppen inte med
+en snabb minskning utan en längre platå. I fallen med lägre smittsamhet och lägre
+andel obekräftade fall sker minskningen efter toppen snabbare.
+23
+Bild 6: Scenario där 5% av alla smittade får sådana symptom att de upptäcks av vården
+(rapporterat fall) och 95% förblir obekräftade fall. De obekräftade fallens smittsamhet är
+10% av smittsamheten hos ett rapporterat fall i den översta bilden, 50% i den mittersta och
+100% i den nedersta. Den röda linjen i den vänstra bilden visar skattad daglig incidens av
+rapporterade fall och cirklarna faktisk data. Den högra bilden visar prevalens av infekterade
+och smittsamma fall.
+24
+Bild 7: Scenario där 50% av alla smittade får sådana symptom att de upptäcks av vården
+(rapporterat fall) och 50% förblir obekräftade fall. De obekräftade fallens smittsamhet är
+10% av smittsamheten hos ett rapporterat fall i den översta bilden, 50% i den mittersta och
+100% i den nedersta. Den röda linjen i den vänstra bilden visar skattad daglig incidens av
+rapporterade fall och cirklarna faktisk data. Den högra bilden visar prevalens av infekterade
+och smittsamma fall.
+25
+Tabell 5: Känslighetsanalys av ackumulerat antal och andel smittade vid två tidpunkter,
+samt skattad peakdag.
+Ackumulerat antal smittade och andel smittade fram till Peakdag
+(95% KI)
+Prevalens
+peakdag
+(95% KI)
+𝒒𝒒𝒐𝒐 𝒑𝒑𝒐𝒐 2020-04-11 2020-05-01
+Ackumulerat
+antal
+(95% KI)
+Ackumulerad
+andel
+(95% KI)
+Ackumulerat
+antal
+(95% KI)
+Ackumulerad
+andel
+(95% KI)
+Obekräftades
+infektivitet
+100%
+obekräftade
+95%
+104447 0.044 163804 0.069 2020-04-09 17881
+[62439,
+180281]
+[0.026, 0.076] [78671,
+383153]
+[0.033, 0.161] [2020-04-03,
+2020-05-11]
+[10622,
+53906]
+obekräftade
+50%
+10575 0.004 14811 0.006 2020-04-08 1801
+[3811, 34648] [0.002, 0.015] [4306, 91933] [0.002, 0.039] [2020-04-02,
+2020-05-11]
+[629, 19898]
+Obekräftades
+infektivitet
+50%
+obekräftade
+95%
+104733 0.044 160211 0.067 2020-04-08 17895
+[60393,
+191661]
+[0.025, 0.081] [73202,
+408747]
+[0.031, 0.172] [2020-04-02,
+2020-05-11]
+[10179,
+56861]
+obekräftade
+50%
+10597 0.004 14515 0.006 2020-04-08 1803
+[3426, 37383] [0.001, 0.016] [3577,
+102755]
+[0.002, 0.043] [2020-04-03,
+2020-05-11]
+[538, 23960]
+Obekräftades
+infektivitet
+10%
+obekräftade
+95%
+105463 0.044 151094 0.064 2020-04-08 17976
+[45766,
+241136]
+[0.019, 0.102] [51057,
+466851]
+[0.022, 0.197] [2020-04-02,
+2020-05-08]
+[7584, 61467]
+obekräftade
+50%
+10625 0.004 14172 0.006 2020-04-08 1806
+[2887, 54572] [0.001, 0.023] [3048,
+171524]
+[0.001, 0.072] [2020-04-01,
+2020-05-11]
+[461, 45666]
+Solna Nobels väg 18, 171 82 Solna. Östersund Forskarens väg 3. Box 505, 831 26 Östersund.
+www.folkhalsomyndigheten.se
+Denna rapport beskriver en matematisk modell som använts för att modellera spridningen av covid-19 i
+Stockholms län mellan februari och april 2020.
+Modellen tar hänsyn till både rapporterade fall som av vården bekräftats vara infekterade med SARS-
+CoV-2 och obekräftade fall. För skattning av modellparametrar använder vi de rapporterade fallen och
+för kalibrering använder vi den undersökning som visade att 2.5% av befolkningen i Stockholms län var
+infekterade mellan 27 mars och 3 april.
+Rapporten med tillhörande kod är tänkt som ett verktyg för modellerare.
+______________________________
+Folkhälsomyndigheten är en nationell kunskapsmyndighet som arbetar för en bättre folkhälsa. Det gör
+myndigheten genom att utveckla och stödja samhällets arbete med att främja hälsa, förebygga ohälsa
+och skydda mot hälsohot. Vår vision är en folkhälsa som stärker samhällets utveckling.
+

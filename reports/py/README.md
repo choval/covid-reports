@@ -6,6 +6,13 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-04-24
+
+* [cb3fd1-Tablero22.04.2020.pdf](700cf2e4dcad42dab004994512270d737ccd2efd/file.pdf) @15:47 GMT
+* [b4d8b6-Tablero23.04.2020.pdf](11ae8a3c595437288df23b0a5048c9481777451a/file.pdf) @15:46 GMT
+* [fc923a-EPIgasesmedicinalesreactivoseinsumosCOVID1924042020.pdf](a40e646bfc2b944ccff2365e4ff46bdadadf12f5/file.pdf) @13:51 GMT
+* [24eac8-NuevasdefinicionesdecasoycriteriosdeAltadeAislamientoabril2020.pdf](3c65b4b69f5fe3a88d62ee073770e20b63df5605/file.pdf) @12:25 GMT
+
 ## 2020-04-23
 
 * [1c8222-ResolucinN114NotificacinobligatoriadecasospositivosdeCOVID19.pdf](e136308994007f182f31f4949a68b1497f785297/file.pdf) @22:03 GMT
@@ -65,8 +72,8 @@
 
 ## 2020-04-14
 
-* [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](1cfc35b42e3d558519d0448a0271b9f7d6b56da0/file.pdf) @20:31 GMT
 * [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](c661239723208a9f8457f090c80457109b2e6884/file.pdf) @20:31 GMT
+* [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](1cfc35b42e3d558519d0448a0271b9f7d6b56da0/file.pdf) @20:31 GMT
 * [a2dd5f-COVID19PY1.pdf](aa4bd2fad6db34f2457c1b1523e2c8cb01987f8b/file.pdf) @18:30 GMT
 * [ede18b-Protocolodistribucindeinsumos.pdf](9b80623ca2684da06542ee20bf66d2bcfa92e3f5/file.pdf) @17:53 GMT
 

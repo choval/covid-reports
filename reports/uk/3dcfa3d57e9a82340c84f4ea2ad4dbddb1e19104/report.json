@@ -1,0 +1,30 @@
+{
+    "filename": "2020-04-24-guidance-for-maternal-medicine.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-04-24-guidance-for-maternal-medicine.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587748173,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "303671",
+        "content-type": "application\/pdf",
+        "expires": "Sat, 25 Apr 2020 05:12:38 GMT",
+        "last-modified": "Fri, 24 Apr 2020 13:40:43 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D61A3DF3989A40\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=x14dZe1Q1gEkAAAAZDA1MjIxNjktZTdlZS00NzkxLTlhZjQtNTIzMjI1MGI3ODA2oKg42Su7Qi6yzmUr2u3rMdpEkrM1; expires=Fri, 03-Jul-2020 03:52:38 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Fri, 24 Apr 2020 17:12:38 GMT"
+    },
+    "lang": "en",
+    "size": 303671,
+    "modified": 1587735643
+}

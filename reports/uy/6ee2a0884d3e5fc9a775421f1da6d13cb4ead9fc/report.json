@@ -1,0 +1,25 @@
+{
+    "filename": "MSP_PROPUESTA_DEFINICION_CASO_SOSPECHOSO_COVID_19_NINIOS.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/MSP_PROPUESTA_DEFINICION_CASO_SOSPECHOSO_COVID_19_NINIOS.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587748178,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 24 Apr 2020 17:09:37 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Fri, 24 Apr 2020 14:02:46 GMT",
+        "etag": "\"1a1df1-5a409d1daed80\"",
+        "accept-ranges": "bytes",
+        "content-length": "1711601",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Fri, 08 May 2020 17:09:37 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 1711601,
+    "modified": 1587736966
+}

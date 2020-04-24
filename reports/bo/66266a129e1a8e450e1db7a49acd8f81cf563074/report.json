@@ -1,0 +1,22 @@
+{
+    "filename": "4093-bolivia-supera-los-700-casos-confirmados-de-covid-19-y-registra-43-fallecidos",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4093-bolivia-supera-los-700-casos-confirmados-de-covid-19-y-registra-43-fallecidos",
+    "output": "file.pdf",
+    "downloaded": 1587747240,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 24 Apr 2020 16:58:23 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=ug015kqpa24aaf15a0653k8u77; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Fri, 24 Apr 2020 16:58:23 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 670734,
+    "modified": 1587747246
+}

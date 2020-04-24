@@ -1,0 +1,27 @@
+{
+    "filename": "skattning-peakdag-antal-infekterade-covid-19-utbrottet-stockholms-lan-februari-april-2020.pdf",
+    "uri": "https:\/\/www.folkhalsomyndigheten.se\/contentassets\/2da059f90b90458d8454a04955d1697f\/skattning-peakdag-antal-infekterade-covid-19-utbrottet-stockholms-lan-februari-april-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587747933,
+    "headers": {
+        "http-status": 200,
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "92",
+        "cache-control": "no-cache",
+        "content-type": "application\/pdf; charset=utf-8",
+        "date": "Fri, 24 Apr 2020 17:05:33 GMT",
+        "etag": "\"1D619675147E380\"",
+        "expires": "Fri, 24 Apr 2020 17:05:32 GMT",
+        "last-modified": "Thu, 23 Apr 2020 12:04:19 GMT",
+        "server": "ECAcc (sto\/EA37)",
+        "warning": "110 - \"Response is stale\"",
+        "x-cache": "HIT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-powered-by": "ASP.NET",
+        "content-length": "805815"
+    },
+    "lang": "sv",
+    "size": 805815,
+    "modified": 1587643459
+}
