@@ -1,0 +1,323 @@
+INFORME DIÁRIO DE EVIDÊNCIAS | COVID-19
+ATUALIZAÇÃO DE 08 DE ABRIL DE 2020
+– 10 ESTUDOS ENCONTRADOS –
+HEPARINA DE BAIXO PESO MOLECULAR (HBPM)
+ENSAIO CLÍNICO NÃO RANDOMIZADO
+O período de hospitalização foi igual nos dois grupos. O estudo descreve que a HBPM pode
+melhorar a disfunção da coagulação de pacientes com COVID-19 e possui efeitos anti-inflamatórios
+na redução da IL-6 e no aumento da % de linfócitos, que podem ser usados ​​
+como um potencial
+medicamento terapêutico para o tratamento da COVID-19.1
+QUALIDADE
+METODOLÓGICA
+De acordo com o “JBI Critical Appraisal Checklist for Quasi-Experimental Studies
+(non-randomized experimental studies), (07/09), o estudo tem boa qualidade
+metodológica, pois define com clareza as variáveis estudadas, os participantes
+dos grupos comparados (intervençao e controle) possuiam as mesmas
+características clínicas e parâmetros bioquímicos, e todos eles receberam o
+mesmo tratamento padrão (mesmos medicamentos e mesmo cuidado clínico),
+excetuando-se a intervenção de interesse (uso da HBPM), os desfechos foram
+medidos de maneira igual entre os grupos, de forma confiável, e os dados foram
+analizados por método estatístico apropriado.
+MEDICAMENTOS HOMEOPÁTICOS
+SÉRIE DE CASOS
+Baseado em observação dos sintomas leves de pacientes diagnosticados com COVID-19, sugere-
+se o uso de medicamento homeopático “gênio pandêmico” que podem ser usados para os sintomas
+leves da doença, que inclui: Arsenicum album, Bryonia alba, China officinalis, Chininum arsenicosum
+e Phosphorus. Não menciona posologia ou tempo de tratamento.2
+QUALIDADE
+METODOLÓGICA
+Trata-se de um estudo preliminar, que observou sintomas de 27 pacientes e
+propõe a adoção desse medicamento de “gênio pandêmico”, mas cujos próprios
+autores reconhecem a limitação e necessidade de realização de estudo caso-
+controle.
+MEDICAMENTOS DIVERSOS
+REVISÃO SISTEMATIZADA DA LITERATURA (NÃO SISTEMÁTICA)
+Os dados disponíveis não são suficientes para sugerir ainda qualquer tratamento eficaz para
+erradicação do COVID-19, que possa ser utilizado em nível clínico. Ressalta que a motivação para
+se utilizar fármacos antivirais é obvia, por se tratar de uma doença viral. Contudo, alerta que o uso
+de antimaláricos, como cloroquina e hidroxicloroquina, devem ser embasados por estudos clínicos,
+muitosaindaemandamento.Porfim,ressaltaosefeitostóxicosqueessesfármacospodemapresentar,
+sugerindo que a hidroxicloroquina parece ser menos tóxica que a cloroquina.3
+QUALIDADE
+METODOLÓGICA
+Avaliação pela ferramenta AMSTAR 2 (03/16): Trata-se de uma revisão de
+literatura com baixa qualidade, que apresentou uma série de estudos, de
+vários tipos, conduzidos com fármacos para o tratamento do COVID-19. Muitos
+desses fármacos já estão sendo utilizados em ensaios clínicos mais robustos no
+Brasil, como o lopinavir/ritonavir, remdesivir, hidroxicloroquina + azitromicina,
+cloroquina, etc.
+VACINA
+REVISÃO NÃO SISTEMÁTICA
+Os autores listam alguns estudos que tentam desenvolver vacinas contra SARS e MERS. A maioria
+destes estudos tem a proteína-S como o alvo principal e por isso, os autores acreditam que deva ser
+o ponto de partida para desenvolvimento de vacinas para Covid-19.4
+QUALIDADE
+METODOLÓGICA
+Trata-se de um artigo de revisão de literatura que sugere um ponto de partida
+para o desenvolvimento de vacina contra Sars-Cov-2. Apesar da importância, é
+um artigo “velho”, já que a data de publicação é 28 de fevereiro. A avaliação de
+acordo com a ferramenta AMSTAR é 0/16. O artigo não apresenta metodologia.
+ANTIVIRAIS: REMDESIVIR, CHLOROQUINE,
+HYDROXYCHLOROQUINE, LPV/R, RIBAVIRIN,
+NITAZOXANIDE E NELNEVIR. IMUNOMODULADORES:
+INTERFERON ALFA, BARICINIB, TOCILIZUMAB, TERAPIA DE
+PLASMA CONVALESCENTE E CORTICOSTERÓIDEA
+REVISÃO NÃO SISTEMÁTICA
+Os autores apresentam para os medicamentos citados o uso terapêutico, mecanismo de ação,
+justificativa para uso deste no tratamento de Covid-19, dosagem e farmacocinética, efeitos adversos
+e considerações sobre a administração destes fármacos.5
+QUALIDADE
+METODOLÓGICA
+O artigo não apresenta metodologia (AMSTAR 0/16), mas os achados são
+muito significativos para direcionamento do tratamento de Covid-19 com os
+medicamentos listados.
+REPOSICIONAMENTO DE DROGAS PARA TRATAMENTO DA
+COVID-19
+MODELAGEM MATEMÁTICA
+Foram identificadas 10 possíveis drogas para tratamento da COVID-19 com atividade inibidoras
+de proteases, utilizando Machine Learning (ML), a saber: Saquinavir, Atazanavir, Indinavir, Lopinavir,
+Tipranavir, Amprenavir, Fosamprenavir, Ritonavir, Darunavir e Paritaprevir. Considerando outros
+critérios de seleção, Saquinavir se mostrou com medicamento mais eficaz.6
+QUALIDADE
+METODOLÓGICA
+A acurácia da predição foi de 73%. No entanto, outros estudos devem ser
+conduzidos para aprofundar os resultados.
+REMDESIVIR, LOPINAVIR, RITONAVIR, EMETINE,
+HOMOHARRINGTONINE
+ESTUDO IN VITRO
+O estudo confirma, in vitro, a atividade antiviral de quatro compostos que foram relatados como
+inibidores de replicação do SARS-CoV-2 e de outros coronavírus. Os resultados do estudo sugerem
+que as combinações de terapias ajudam a reduzir a concentração efetiva contra o SARS-CoV-2 a partir
+de uma concentração plasmática terapêutica máxima.Remdesivir, Lopinavir, Homoharringtonine e o
+dicloridrato de emetina inibem a replicação de SARS-CoV-2. Observou-se o efeito antiviral do Lopinavir,
+mas não do Ritonavir contra SARS-CoV-2 in vitro.7
+QUALIDADE
+METODOLÓGICA
+O autor faz referência de seus resultados in vitro com resultados parciais de
+estudos clínicos os quais ainda não respondem perguntas sobre eficácia e
+segurança da molécula estudada.
+DURANAVIR
+ESTUDO IN VITRO
+Estudo in vitro, utilizando células Caco-2 (células de carcinoma de cólon humano imortalizadas)
+que testou o uso do Darunavir (DRV- medicamento usado no HIV) como inibidor da replicação viral
+do COVID-19. O Remdesivir foi usado como controle positivo. Foram testadas ambas as drogas nas
+concentrações de 0.02 μM a 100 μM. O DRV não possui nenhuma atividade antiviral sobre COVID-19.8
+QUALIDADE
+METODOLÓGICA
+Estudo in vitro, porém pode-se descartar o teste do Darunavir em ensaios pré-
+clínicos, uma vez que não houve ação antiviral sobre o COVID-19.
+HIDROXICLOROQUINA
+COMUNICADO À OPINIÃO PÚBLICA
+Os autores ressaltam que: 1- a hidroxicloroquina não está isenta de efeitos adversos, dentre os
+quais a toxicidade ocular, que pode causar declínio visual irreversível. 2- Embora alguns resultados
+preliminares sugiram potenciais efeitos benéficos, vários ensaios clínicos ainda estão em andamento
+para avaliar a real eficácia e segurança deste medicamento em relação à infecção por COVID-19. 3-
+Atenção ao uso em altas doses nos protocolos clínicos e de gerenciamento de infecções respiratórias
+pelo COVID-19. 4- Informam que o uso será regulado exclusivamente pelo MS do Paraguai.9
+QUALIDADE
+METODOLÓGICA
+Não foram apresentadas ou mencionadas a metodologia e as referências para
+elaboração do Comunicado. Contudo, o documento traz a visão de como
+outros países estão enfrentando a questão do uso da Hidroxicloroquina. São,
+portanto, informações importantes que devem ser levadas em consideração ao
+se utilizar tal fármaco, seja em ensaios clínicos ou na prática clínica de manejo
+dos pacientes com COVID-19.
+Brionya alba, Rhus toxicodendron, Nux vomica, Arsenicum album,
+Opium sp., Phosphorus sp. e Carbo vegetabilis
+PROTOCOLO DE PESQUISA CLÍNICA
+Os autores apontam alguns medicamentos homeopáticos para tratamento sintomático de
+Covid-19. Casos leves: Brionya alba, Rhus toxicodendron, Nux vomica e Arsenicum album; Casos grave:
+Brionya alba, Arsenicum album, Opium sp. e Nux vomica; Estado crítico: Phosphorus sp., Brionya alba,
+Arsenicum album e Carbo vegetabilis.10
+QUALIDADE
+METODOLÓGICA
+Este protocolo tem como objetivo exemplificar a elaboração de um projeto de
+pesquisa para avaliação de medicamentos homeopáticos. Ainda não existem
+relatos da utilização dos medicamentos citados aqui para tratamento de
+Covid-19.
+REFERÊNCIAS
+1. Chen Shi, Cong Wang, Hanxiang Wang, Chao Yang, Fei Cai, Fang Zeng, Fang Cheng, Yihui Liu,
+Taotao Zhou, Bin Deng, Jinping Li, Yu Zhang. The potential of low molecular weight heparin
+to mitigate cytokine storm in severe covid-19 patients: a retrospective clinical study.medRxiv
+2020.03.28.20046144;
+doi: https://doi.org/10.1101/2020.03.28.20046144
+2. Dolce Filho, R.; Nechar, R. C; Ribeiro Filho, A. Estudo Preliminar de Sintomas e Medicamentos
+Prevalentes do “Gênio Pandêmico” da Pandemia de Covid-19 no Brasil. Associação Médica
+Homeopática Brasileira. Link disponível em:
+https://amhb.org.br/wp-content/uploads/2020/04/Estudo-Preliminar-do-Ge%CC%82nio-Epide%CC%82mico-capa-e-
+timbre-AMHB.pdf
+3. Md Insiat Islam Rabby. Current Drugs with Potential for Treatment of COVID-19: A Literature
+Review. J Pharm Pharm Sci (www.cspsCanada.org) 23, 58- 64, 2020
+4. Wang N, Shang J, Jiang S and Du L (2020) Subunit Vaccines Against Emerging Pathogenic Human
+Coronaviruses. Front. Microbiol. 11:298.
+Doi: 10.3389/fmicb.2020.00298
+5. Barlow A, Landolf KM, Barlow B, Yeung SYA, Heavner JJ, Claassen CW, Heavner MS. Review of
+Emerging Pharmacotherapy for the Treatment of Coronavirus Disease 2019. Pharmacotherapy.
+07 April 2020
+https://doi.org/10.1002/phar.2398
+6. Mahapatra S, Nath P, Chatterjee M, Das N, Kalita D, Roy P, et al. Repurposing Therapeutics for
+COVID-19: Rapid Prediction of Commercially available drugs through Machine Learning and
+Docking. medRxiv. 1o de janeiro de 2020;2020.04.05.20054254.
+7. Choy, K.-T., Yin-Lam Wong, A., Kaewpreedee, P., Sia, S.-F., Chen, D., Yan, Hui, K.P., Wing Chu, D.K.,
+Wai Chan, M.C., Pak-Hang Cheung, P., Huang, X., Peiris, M., Yen, H.-L.,Remdesivir, lopinavir,
+emetine, and homoharringtonine inhibit SARS-CoV-2 replication in vitro, Antiviral Research,
+https://doi.org/10.1016/j.antiviral.2020.104786.
+8. Sandra De Meyer, S.; Bojkova, D.; Cinatl, J.; Van Damme, E.; Buyck, C.; Loock, M. V.; Woodfall, B.;
+Ciesek S. Lack of Antiviral Activity of Darunavir against SARS-CoV-2 . medRxiv preprint
+doi: https://doi.org/10.1101/2020.04.03.20052548
+9. Asunciòn; SPO; Marzo 2020. 1p p. Comunicado a la opinión pública uso de Hidroxicloroquina
+/ Public opinion on the use of Hydroxychloroquine. Sociedad paraguaya de Oftalmologia.
+Monography in Spanish | LILACS (Americas), BDNPAR | ID: biblio-1053244, 2020.
+10. Texeira MZ. Protocolo de pesquisa clínica para avaliar a eficácia e a segurança de medicamento
+homeopático individualizado no tratamento e na prevenção da epidemia de Covid-19. São Paulo;
+AMHB;APH; mar. 2020. 62 p.
+Doi: 10.13140/RG.2.2.26359.37281/3
+APÊNDICE 1: Protocolos de ensaios clínicos registrados entre 7 e 8 de abril de 2020.
+Nº Nº de registro/País Classe terapêutica Intervenção (grupos) Controle Status Data de
+registro
+Financiamento
+1 NCT04337996/ França Teste de diagnóstico PCR
+Teste Rápido de Orientação
+Diagnóstica (RODT) antigênico
+Teste rápido sorológico
+Não se aplica Ainda não
+recrutando
+8 de abril
+de 2020
+Tourcoing Hospital
+2 NCT04338347/ EUA Terapia celular Células derivadas de
+cardiosfera alogênicas CAP-
+1002
+Sem comparador Disponível 8 de abril
+de 2020
+Capricor Inc.
+3 NCT04338074/ EUA Antifibrinoliticos Ácido tranexâmico Placebo Ainda não
+recrutando
+8 de abril
+de 2020
+University of Alabama at
+Birmingham
+4 NCT04338828/ EUA Vasodilatador pulmonar Gás de óxido nítrico Oxigênio inalado
+suplementar
+Ainda não
+recrutando
+8 de abril
+de 2020
+Massachusetts General
+Hospital
+Department of
+Anesthesia, Critical Care
+and Pain Medicine
+(DACCPM)
+Massachusetts General
+Hospital
+5 NCT04338360/ EUA Imunoterapia Plasma convalescente Sem comparador Disponível 8 de abril
+de 2020
+Mayo Clinic
+APÊNDICE 1: Protocolos de ensaios clínicos registrados entre 7 e 8 de abril de 2020.
+Nº Nº de registro/País Classe terapêutica Intervenção (grupos) Controle Status Data de
+registro
+Financiamento
+6 NCT04338958/
+Alemanha
+Antineoplásico Ruxolitinib Sem comparador Ainda não
+recrutando
+8 de abril
+de 2020
+Prof. Dr. med. Andreas
+Hochhaus
+7 NCT04338126/ EUA Antifibrinoliticos Ácido tranexâmico Placebo Ainda não
+recrutando
+8 de abril
+de 2020
+University of Alabama at
+Birmingham
+8 NCT04338698/
+Paquistão
+Diversos Hidroxicloroquina Azitromicina
+Oseltamivir
+Hidroxicloroquina +
+azitromicina
+Hidroxicloroquina +
+oseltamivir
+Oseltamivir +
+azitromicina
+Hidroxicloroquina +
+oseltamivir +
+azitromicina
+Sem comparador
+Ainda não
+recrutando
+8 de abril
+de 2020
+Shehnoor Azhar
+9 NCT04338568/ Bélgica Teste de diagnóstico Ultrasom de pulmão Comparação entre
+observadores
+Ainda não
+recrutando
+8 de abril
+de 2020
+Hasselt University
+Ziekenhuis Oost-Limburg
+APÊNDICE 1: Protocolos de ensaios clínicos registrados entre 7 e 8 de abril de 2020.
+Nº Nº de registro/País Classe terapêutica Intervenção (grupos) Controle Status Data de
+registro
+Financiamento
+10 NCT04338009/ EUA Anti-hipertensivos Permanecer no uso de
+inibidores da enzima de
+conversão da angiotensina
+(IECAs) e de bloqueadores dos
+receptores da angiotensina
+(BRA)
+Descontinuar o uso de
+inibidores da enzima de
+conversão da
+angiotensina (IECAs) e
+de bloqueadores dos
+receptores da
+angiotensina (BRA)
+Ainda não
+recrutando
+8 de abril
+de 2020
+University of
+Pennsylvania
+11 NCT04337788/ França Telemedicina Aplicativos de telessaúde Tratamento de rotina Ainda não
+recrutando
+8 de abril
+de 2020
+University Hospital,
+Limoges
+12 NCT04338906/
+Alemanha
+Inibidor de serina
+protease (pode ter
+atividade antiviral)
+Camostat + Hidroxicloroquina Placebo +
+hidroxicloroquina
+Ainda não
+recrutando
+8 de abril
+de 2020
+Heinrich-Heine
+University, Duesseldorf
+13 NCT04337918/
+Canadá
+Solução para profilaxia Solução de liberação de óxido
+nítrico (NORS)
+Precauções padrão Ainda não
+recrutando
+8 de abril
+de 2020
+Sanotize Research and
+Development corp.
+ELABORAÇÃO:
+BRASIL. Departamento de Ciência e Tecnologia. Secretaria de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos. Ministério da Saúde. Informe diário COVID-19 (8 de abril de 2020). 2020.
+Equipe técnica: Cecilia Menezes Farinasso; ; Felipe Nunes Bonifácio; Gabriel
+Antônio Rezende de Paula; ;
+.
+Coordenadora de Evidências e Informações Estratégicas em Gestão em Saúde: Daniela Fortunato Rego.
+Diretora de Ciência e Tecnologia: .
+

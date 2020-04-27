@@ -1,0 +1,22 @@
+{
+    "filename": "4099-ministerio-de-salud-reporta-866-casos-de-coronavirus-y-74-pacientes-recuperados",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4099-ministerio-de-salud-reporta-866-casos-de-coronavirus-y-74-pacientes-recuperados",
+    "output": "file.pdf",
+    "downloaded": 1587909192,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 26 Apr 2020 13:57:35 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=3efj6utk1iiep8ggdqj76rir0a; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Sun, 26 Apr 2020 13:57:35 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 658587,
+    "modified": 1587909201
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "fbbd40-EPIgasesmedicinalesreactivoseinsumosCOVID1925042020.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/fbbd40-EPIgasesmedicinalesreactivoseinsumosCOVID1925042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587909752,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 26 Apr 2020 14:02:28 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "729531",
+        "last-modified": "Sun, 26 Apr 2020 01:29:37 GMT",
+        "etag": "\"b21bb-5a42788130755\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 729531,
+    "modified": 1587864577
+}

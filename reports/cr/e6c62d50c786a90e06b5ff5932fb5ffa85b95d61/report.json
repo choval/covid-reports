@@ -1,0 +1,22 @@
+{
+    "filename": "1634-695-casos-confirmados-por-covid-19",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/index.php\/centro-de-prensa\/noticias\/741-noticias-2020\/1634-695-casos-confirmados-por-covid-19",
+    "output": "file.pdf",
+    "downloaded": 1587935347,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 26 Apr 2020 21:09:07 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "x-powered-by": "PHP\/7.1.8",
+        "set-cookie": "8cd12c6ad39b41813d2d8929fe5e4c82=cce5b2uk59ikevq7kfbplgtrdf; path=\/; HttpOnly",
+        "p3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Sun, 26 Apr 2020 21:09:07 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 152169,
+    "modified": 1587935357
+}

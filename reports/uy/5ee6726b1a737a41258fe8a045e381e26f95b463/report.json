@@ -1,0 +1,25 @@
+{
+    "filename": "msp_planes_de_contingencia_para_los_elepem_0.pdf",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/sites\/ministerio-salud-publica\/files\/documentos\/noticias\/msp_planes_de_contingencia_para_los_elepem_0.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587910019,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 26 Apr 2020 14:06:59 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "last-modified": "Sat, 25 Apr 2020 18:34:36 GMT",
+        "etag": "\"2bf375-5a421bbdb507e\"",
+        "accept-ranges": "bytes",
+        "content-length": "2880373",
+        "cache-control": "max-age=0, no-store",
+        "expires": "Sun, 10 May 2020 14:06:59 GMT",
+        "content-type": "application\/pdf",
+        "set-cookie": "ruta.msp=.prod-punif-geote-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 2880373,
+    "modified": 1587839676
+}

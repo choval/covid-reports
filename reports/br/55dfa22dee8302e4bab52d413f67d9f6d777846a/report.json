@@ -1,0 +1,28 @@
+{
+    "filename": "Contrato-142-2020.pdf",
+    "uri": "https:\/\/www.saude.gov.br\/images\/pdf\/2020\/April\/24\/Contrato-142-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587909219,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "137260",
+        "date": "Sun, 26 Apr 2020 13:53:39 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1587909220.799.11567.276298; Path=\/; Secure; HttpOnly",
+        "last-modified": "Fri, 24 Apr 2020 18:41:47 GMT",
+        "etag": "\"2182c-5a40db7b28ca6\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 4e6914a651880fafa65640c6561ae2a8.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "TVjSLn_-zKVqIp9pdGjxHTRi2W6x77pRCt8_O74_yXR3WMH4Akh1nQ=="
+    },
+    "lang": "pt",
+    "size": 137260,
+    "modified": 1587753707
+}

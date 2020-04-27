@@ -1,0 +1,19 @@
+{
+    "filename": "lineamientos_nacionales_vigilancion_infeccion_coronavirus_v12_24042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/lineamientos_nacionales_vigilancion_infeccion_coronavirus_v12_24042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587909253,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 26 Apr 2020 13:54:13 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Sat, 25 Apr 2020 03:42:56 GMT",
+        "etag": "\"11fa32-5a41546fff000\"",
+        "accept-ranges": "bytes",
+        "content-length": "1178162",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1178162,
+    "modified": 1587786176
+}

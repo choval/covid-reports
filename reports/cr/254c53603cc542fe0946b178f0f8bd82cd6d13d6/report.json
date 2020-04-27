@@ -1,0 +1,19 @@
+{
+    "filename": "med_admin_temp_atencion_actividades_concentracion_masiva_18_24042020.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/med_admin_temp_atencion_actividades_concentracion_masiva_18_24042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587909258,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 26 Apr 2020 13:54:17 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 24 Apr 2020 18:10:13 GMT",
+        "etag": "\"2d1cb-5a40d46ce2b40\"",
+        "accept-ranges": "bytes",
+        "content-length": "184779",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 184779,
+    "modified": 1587751813
+}

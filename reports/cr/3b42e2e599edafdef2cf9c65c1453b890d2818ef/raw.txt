@@ -1,0 +1,889 @@
+Lineamientos Nacionales para la
+Vigilancia de la enfermedad COVID-19
+Costa Rica
+24 de Abril 2020
+Versión N°12
+Vigencia a partir del 24 de abril del 2020
+(Próxima revisión 11 de mayo del 2020)
+2
+Este documento fue realizado por el grupo técnico conformado por:
+Ministerio de Salud
+Dr. Roberto Arroba Tijerino
+Dra. Adriana Torres Moreno
+Dr. Carlos Salguero Mendoza
+Dra. Sandra Delgado Jiménez
+Dr. Aarón Agüero Zumbado.
+Dr. José Mora Carvajal
+Dr. Rodrigo Marín Rodríguez
+Caja Costarricense del Seguro Social
+Dra. Marcela Hernández de Mezerville
+Dra. Olga Arguedas Arguedas
+Dra. Guiselle Guzmán Saborío
+Dra. Xiomara Badilla
+Inciensa
+Dr. Hebleen Brenes Porras
+Dra. Elizabeth Saenz
+Dra. Liseth Navas
+Dr. Jorge Sequeira
+Universidad de Costa Rica
+Dra. Eugenia Corrales Aguilar
+Asesoría Organización Panamericana de la Salud
+Dr. Wilmer Marquiño
+3
+Contenido
+Alcance............................................................................................................................................... 4
+Características generales................................................................................................................... 4
+Definiciones operativas: .................................................................................................................... 4
+Caso sospechoso:........................................................................................................................... 4
+Caso Probable: ............................................................................................................................... 5
+Caso Confirmado:........................................................................................................................... 5
+Confirmación y descarte de casos ..................................................................................................... 6
+Procedimientos de vigilancia epidemiológica................................................................................... 6
+Detección:....................................................................................................................................... 6
+Notificación y vigilancia de los casos sospechosos, probables y confirmados ............................... 7
+Investigación:.................................................................................................................................. 7
+Atención de brotes:........................................................................................................................ 8
+Toma y transporte de muestras de casos sospechosos a los laboratorios..................................... 9
+Control y prevención .................................................................................................................... 10
+Estudio de Contactos.................................................................................................................... 11
+Indicaciones para determinar la recuperación de los pacientes positivos por COVID-19............ 15
+Vigilancia Centinela ...................................................................................................................... 16
+Comunicación Social de Riesgo ....................................................................................................... 16
+Bibliografía....................................................................................................................................... 17
+Anexos.............................................................................................................................................. 19
+4
+Alcance
+La aplicación de estos lineamientos es obligatoria, donde se brinden funciones de atención
+directa e indirecta de personas, en los servicios de salud públicos y privados, así como en los tres
+niveles de gestión del Ministerio de Salud.
+Debido a que los conocimientos generales y la situación epidemiológica de este nuevo
+coronavirus se encuentran en una condición evolutiva y dinámica, tanto en el contexto local
+como internacional, estos lineamientos se revisarán de forma periódica y se publicará la versión
+vigente en la página web del Ministerio de Salud (https://www.ministeriodesalud.go.cr/index.php/centro-de-
+prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov).
+Características generales
+Los coronavirus (CoV) son una amplia familia de virus, algunos de ellos causan enfermedad que
+se manifiesta desde un resfriado común hasta enfermedades mucho más severas como el
+MERS-CoV y SARS-CoV. El coronavirus nuevo (COVID-19) es un virus que no había sido
+identificado previamente en humanos.
+Es importante tener en cuenta que existen cuatro coronavirus humanos (HCoV) endémicos a
+nivel global: HCoV-229E, HCoV-NL63, HCoV-HKU1 y HCoV-OC43, además de otros dos
+coronavirus que causan infección zoonótica en humanos: MERS-CoV y SARS-CoV. Estos
+coronavirus son diferentes al COVID-19 circulante en la actualidad, por lo que su detección no
+excluye en absoluto la infección por este nuevo coronavirus.
+Definiciones operativas:
+Caso sospechoso:
+1. Persona con infección respiratoria aguda (fiebre y al menos un signo o síntoma de
+enfermedad respiratoria como por ejemplo, tos, dificultad respiratoria, dolor de garganta,
+congestión nasal) y que cumpla al menos uno de los siguientes criterios: *
+a. No tener otra etiología que explique completamente la presentación clínica del
+evento.
+b. Un historial de viaje fuera del país en los 14 días previos al inicio de los síntomas
+c. Antecedente de haber iniciado el cuadro clínico ya descrito en los 14 días
+posteriores de haber estado en contacto cercano:
+i. Con alguna persona con historial de viaje fuera del país en los últimos 14
+días de haber ocurrido ese contacto.
+ii. Con alguna persona que haya sido contacto directo (en el posible período
+de cuarentena de esta última) de un caso confirmado
+5
+2. Persona mayor de 15 años con infección respiratoria aguda grave (IRAG). En el caso de los
+menores de 15 años será la IRAG sin otra etiología que explique completamente la
+presentación clínica.
+3. Una persona con anosmia (pérdida del sentido del olfato) o disgeusia reciente (cambio en
+la percepción del gusto), sin otra etiología que explique la presentación clínica.
+4. Paciente con enfermedad respiratoria aguda de cualquier grado de severidad, que dentro
+de los 14 días anteriores al inicio de la enfermedad tuvo contacto físico cercano con un caso
+confirmado, probable o sospechoso por COVID-19.
+* El panel respiratorio no será requisito para hacer la prueba por COVID-19.
+Independientemente de los criterios de clasficación de caso, si el médico tratante considera que
+existen suficientes sospechas clínicas y/o epidemiológicas, podrá definir la necesidad de tomar la
+prueba por COVID-19
+Caso Probable:
+1. Un caso sospechoso para quien la prueba para el virus COVID-19 no es concluyente; o
+2. Un caso sospechoso para quien la prueba no pudo realizarse por algún motivo.
+Caso Confirmado:
+Corresponde a una persona a quien se la ha confirmado, la infección por el virus que causa la
+enfermedad COVID-19, indistintamente de los síntomas y signos clínicos.
+La confirmación la harán los laboratorios públicos y privados que cuenten con una prueba de PCR-
+RT capaz de identificar genes de SARS-CoV-2, que cuenten con autorización de una entidad
+regulatoria externa tal como FDA o su equivalente, debidamente autorizada por el Ministerio de
+Salud, así como el Centro Nacional de Referencia de Virología de Inciensa.
+*Definición de IRAG
+La persona se clasifica como IRAG si presenta:
+-Historia de fiebre o fiebre de 38°C o más y,
+-Dolor de garganta o tos y,
+-Disnea o dificultad respiratoria y,
+-Con aparición dentro de los últimos 10 días, y
+-Necesidad de hospitalización (según criterios establecidos en el Protocolo Nacional de Vigilancia de la
+persona con Influenza y otras virosis)
+6
+Confirmación y descarte de casos
+La confirmación y descarte de los casos será determinado por la Comisión Interinstitucional
+Regional de Vigilancia de la Salud (CIREVIS).
+Procedimientos de vigilancia epidemiológica
+Detección:
+La detección de casos sospechosos se puede dar en los servicios de salud públicos y privados. El
+médico del establecimiento de salud que atiende el caso al primer contacto con el paciente debe
+elaborar la historia clínica, realizar el examen físico, considerando los diagnósticos diferenciales e
+indicar la recolección de las muestras respiratorias, que deben ser referidas al laboratorio de
+referencia establecido por el centro de salud de atención según lo indica el apartado de toma y
+transporte de muestras de casos sospechosos y probables.
+En el caso de servicios privados en los que el paciente opte por hacerse la prueba por COVID-19, se
+deberá revisar estrictamente para todo caso la condición de asintomático o sintomático, de la cual
+desprenden las siguientes situaciones:
+• Todo paciente sintomático respiratorio sin excepción deberá ser valorado por un médico
+para determinar su condición clínica:
+o Si tiene nexo epidemiológico para COVID-19 (caso sospechoso) se le deberá
+inmediatamente emitir y notificar la boleta VE01 al Ministerio de Salud.
+o Si no tiene nexo epidemiológico u otra condición que lo catalogue como caso
+sospechoso, se le deberá indicar aislamiento preventivo en su lugar de residencia
+hasta que se reporte el resultado, y solo se emitirá orden sanitaria de aislamiento
+en caso de que el resultado sea positivo por COVID-19. De ser este el caso, el
+laboratorio será el responsable de enviar inmediatamente la boleta VE01 al
+Ministerio de Salud para tomar las acciones respectivas.
+• Todo paciente sin síntomas:
+o Si tiene nexo epidemiológico se le tomará la muestra y se le indicará que debe
+aislarse en su domicilio hasta que el resultado se reporte. El laboratorio deberá
+notificar al Ministerio de Salud inmediatamente al correo
+notificacion.covid19@misalud.go.cr para verificar su condición de contacto directo
+con un caso confirmado. En caso que el reporte sea positivo por COVID-19, el
+laboratorio deberá reportar inmediamente al Ministerio de Salud llenando la boleta
+VE01 y notificando al paciente el resultado e indicándole que debe continuar el
+aislamiento y que el Ministerio de Salud se pondrá en contacto en las siguientes 24
+horas.
+o Si no tiene nexo epidemiológico no se deben tomar acciones de notificación o
+similares hasta que, solo en el caso que el resultado sea positivo por COVID-19, el
+laboratorio deberá reportar inmediamente al Ministerio de Salud llenando la boleta
+VE01 y notificando al paciente el resultado e indicándole que debe aislarse en su
+domicilio siendo que el Ministerio de Salud le deberá emitir la orden sanitaria
+respectiva en un plazo no mayor a las 24 horas y completará las acciones respectivas
+para el cerco epidemiológico.
+7
+Ante el incumplimiento en los procedimientos anteriores se le prohibirá al labotorio respectivo
+realizar la prueba COVID-19 y en caso de no cumplir lo anterior se le cancelará el cerficado de
+habilitación.
+Notificación y vigilancia de los casos sospechosos, probables y confirmados
+Los casos sospechosos y probables se notificarán inmediatamente por medio de la boleta VE01,
+utilizando cualquier medio disponible, se registrará bajo el código de CIE-10: U07.2 (COVID-19, virus
+no identificado) únicamente para morbilidad, luego debe clasificarse según el diagnóstico final para
+el cierre de caso.
+Los pacientes con sintomatología respiratoria deben ser abordados desde el punto de vista clínico y
+epidemiológico, realizando los exámenes de laboratorio y gabinete que considere el médico
+tratante, de esta forma el panel respiratorio no será requisito para hacer la prueba por COVID-19,
+El panel respiratorio se utilizará según lo establecido en el Protocolo Nacional para la Vigilancia de
+Influenza y otras virosis respiratorias.
+Los casos confirmados se deben registrar con el código CIE-10: U07.1, COVID-19, virus identificado.
+Se debe garantizar la información oportuna al responsable de vigilancia epidemiológica local del
+Ministerio de Salud, siguiendo el flujo de información establecido por el Decreto de Vigilancia de la
+Salud No. 40556-S del 23 agosto del 2017, que indica que los entes notificadores deben enviar las
+boletas de notificación (VE-01), fichas de investigación y resultados de laboratorio al Área Rectora
+de Salud correspondiente según la adscripción geográfica.
+También la CCSS y los servicios privados deben utilizar el flujo de información para la notificación
+interna.
+Además del flujo de información establecido en el Decreto 40556-S se debe hacer la notificación
+de cualquier caso sospechoso, probable, confirmado por COVID-19, así como las fichas de
+investigación y los resultados de laboratorio al siguiente correo electrónico:
+notificacion.covid19@misalud.go.cr
+Investigación:
+La investigación de caso sospechoso y probable debe iniciarse inmediatamente y no sobrepasar las
+24 horas posteriores a la detección; el médico tratante llenará la Ficha de Investigación de Caso
+sospechoso o Probable de Enfermedad Respiratoria por COVID-19 (Anexo 1),
+El equipo de vigilancia epidemiológica del establecimiento debe de revisar el expediente médico y
+verificar la completitud de la Ficha de Investigación de Caso sospechoso o Probable de Enfermedad
+Respiratoria por COVID-19 (Anexo 1), así mismo hacer la notificación inmediata del caso al
+Ministerio de Salud (hospitales públicos periféricos y privados al Área Rectora de Salud respectiva,
+Hospitales Públicos Regionales y Nacionales a la Dirección Regional de Rectoría de Salud respectiva).
+Además, verificar que se hayan recolectado la muestra respiratoria.
+8
+Si el paciente se hospitaliza, debe llenarse el “Apartado de evolución del paciente en el hospital”
+(Anexo 1) y hacer una caracterización clínica de la evolución de este durante su estancia hospitalaria,
+para lo cual debe enviarse la información a las 24 horas del internamiento y posteriormente cada
+48 horas, al Ministerio de Salud.
+Las muertes sospechosas por el COVID-19 deben notificarse de forma inmediata al Ministerio de
+Salud y llenar la boleta de notificación de fallecidos correspondiente (Anexo 3).
+Además, el equipo debe verificar que se hayan recolectado la muestra respiratoria, así como la
+búsqueda de contactos. Al final de cada día se debe presentar un informe preliminar de las acciones
+realizadas que incluya el listado de los casos y contactos con seguimiento diario y al cierre del brote,
+realizar un informe final, siguiendo el flujo correspondiente al Ministerio de Salud por parte de los
+servicios de salud públicos y privados.
+A su vez toda investigación de caso debe establecerse en apego a la prevención y control de
+infecciones, que abarca el reconocimiento temprano y control de la fuente, el aislamiento del caso
+domiciliar o en el centro de salud, la aplicación de precauciones estándar de bioseguridad (tales
+como higiene de manos, de la tos y el estornudo, uso de equipo de protección personal, limpieza y
+desinfección, entre otras) , la implementación de las precauciones adicionales por gota, contacto y
+precauciones de vía aérea cuando la atención del caso lo amerite, la capacitación al personal de
+salud y la educación a la población.
+Atención de brotes y búsqueda de contactos:
+Ante la detección de un caso de COVID-19, en un establecimiento de salud de atención a las
+personas, se debe investigar la procedencia del mismo (nexo epidemiológico).
+El equipo de vigilancia epidemiológica del establecimiento debe elaborar la lista de los contactos, y
+comunicarla de inmediato al Ministerio de Salud para la coordinación desde la CILOVIS de la
+investigación de estos (nexos epidemiológicos) sin sobrepasar las 24 horas posteriores a la
+detección; para el seguimiento y aislamiento por parte del nivel de gestión correspondiente del
+Ministerio de Salud y CCSS.
+El seguimiento diario de los casos (paciente con VE-01, CIE-10: U07.2 y CIE-10: U07.1) de los servicios
+de salud públicos lo realiza el centro de salud correspondiente de la CCSS; en el caso de servicios de
+salud privados lo realiza el Ministerio de Salud en conjunto con el centro que realiza la notificación.
+El seguimiento diario de los contactos de casos (sospechoso, probable o confirmado) lo realizará el
+Ministerio de Salud. Al final de cada día se debe presentar un informe preliminar de las acciones
+realizadas que incluya el listado de los casos y contactos con seguimiento diario por parte de la
+CILOVIS a la CIREVIS.
+Ante la alerta de un caso, el director (a) del establecimiento de salud que atiende al paciente es el
+responsable de garantizar la notificación de los casos y el envío de las fichas de investigación
+epidemiológica, así como la información relacionada a esta investigación al Área Rectora de Salud.
+Los directores de Área Rectora del Ministerio de Salud o quien ocupe su cargo serán los responsables
+de garantizar el envío de la información al nivel regional y este al nivel central de forma inmediata
+después de haberse detectado el caso.
+9
+Toma y transporte de muestras de casos sospechosos a los laboratorios
+Todas las muestras recolectadas para detección por laboratorio de virus respiratorios deben ser
+manejadas como potencialmente infecciosas, y el personal que recolecte o transporte muestras
+clínicas debe cumplir con las medidas de bioseguridad establecidas en las Guías Nacionales del
+Protocolo Nacional de Vigilancia de Influenza y otras virosis respiratorias (Anexo 2). La evidencia
+actual sugiere que las muestras para la detección de COVID-19 pueden ser manejadas como se
+procede para muestras para ETI o IRAG.
+Para los pacientes que cumplan con la definición caso sospechoso de COVID-19 se debe tomar una
+muestra para análisis por laboratorio (debe incluir ambas fosas nasales), esta muestra debe ser
+tomadas por personal capacitado y teniendo en cuenta todas las medidas de bioseguridad, incluido
+el uso de equipos de protección personal adecuado para procedimientos que generan aerosoles.
+Según la capacidad operativa de los servicios del país la muestra a recolectar será de hisopados
+nasofaríngeo y orofaríngeo combinados (utilizando el mismo hisopo para todas las muestras que
+debe colocarse y transportarse en un tubo con medio de transporte viral). Los hisopos utilizados
+deben tener mango de plástico o aluminio y punta de poliéster o dacrón (ver Anexo 2). En los casos
+en que esté disponible, el aspirado nasofaríngeo o una muestra de tracto respiratorio inferior se
+recomienda tomar esas muestras.
+La muestra debe mantenerse refrigerada (4 °C a 8 °C) se procesará en el centro de salud designado
+por la red de servicios públicos y privados que realizará las pruebas por COVID-19 cuando se haya
+determinado el caso como sospechoso, cumpliendo los requerimientos establecidos para el
+transporte de muestras para detección de virus respiratorios.
+El Centro Nacional de Referencia de Virología de Inciensa coordinará con el Centro Nacional de
+Enlace y la oficina local de Organización Panamericana de la Salud (OPS/OMS) para el envío de la
+muestra para confirmación a un laboratorio de referencia internacional, según la decisión del Grupo
+Técnico Nacional de Influenza de acuerdo con la situación epidemiológica y a las guías publicadas
+por la OMS/OPS, cumpliendo con lo establecido en las guías internacionales de transporte de
+sustancias infecciosas.
+Todo laboratorio que realice análisis específico para COVID-19 debe cumplir los siguientes
+requisitos:
+1. Tener autorización del Ministerio de Salud para realizar la prueba de PCR-RT capaz de
+identificar genes de SARS-CoV-2, que cuenten con autorización de una entidad regulatoria
+externa tal como FDA o su equivalente. *
+2. Reportar la información sobre las muestras confirmados, descartados, indeterminados y no
+procesados en su totalidad al Ministerio de Salud, esta información debe ser consolidada
+con el total de las muestras procesadas, incluyendo las del día de reporte.
+3. Emitir los reportes a las 15 horas diariamente al correo:
+notificación.covid19@misalud.go.cr.
+4. Los reportes se harán en el formato que el Ministerio de Salud disponga para este fin.
+10
+*El procedimiento para la autorización se encuentra disponible en la Dirección de Atención
+al Cliente del Ministerio de Salud
+Debido al momento epidemiológico actual, Inciensa estará trabajando de manera conjunta con los
+laboratorios en los casos que se considere necesario previa coordinación, por ejemplo, en el caso
+de desabastecimiento de las pruebas en un hospital público o en el caso de resultados de muestras
+que persisten indeterminadas a pesar de la toma de una segunda muestra para mejorar su calidad
+(no se limita a estos dos escenarios por lo que dependerá de las necesidades que se identifiquen).
+Todas las muestras necesarias para dar de alta a los pacientes confirmados por COVID-19, una vez
+que haya transcurrido el tiempo detallado en el apartado “indicaciones para dar de alta a los
+pacientes positivos por COVID-19” serán realizadas en Inciensa.
+Para este trámite se deberá indicar en la boleta de diagnóstico “Inciensa R-85” que la muestra
+corresponde al Seguimiento de recuperados, e indicar el número de control.
+Control y prevención
+Aislamiento respiratorio de casos sospechosos y contactos sintomáticos
+El aislamiento respiratorio es una de las principales medidas de control, y debe ser aplicado a todos
+los casos sospechosos y los casos confirmados de enfermedad respiratoria por COVID-19.
+Únicamente aquellos casos sospechosos que presentan complicaciones o que el equipo técnico
+nacional y el RSI consideren pertinente, deben ser referidos a un hospital que tenga organizado un
+área de aislamiento hospitalario que cuente con las medidas establecidas.
+La organización de la red de servicios de salud públicos y privados debe ofrecer alternativas de
+aislamiento a casos complicados, de acuerdo con su nivel de complejidad.
+Los cuidados generales de higiene, como el lavado de manos frecuente en el hogar y el lavado y
+desinfección de los utensilios utilizados por el paciente, son medidas necesarias para evitar la
+propagación del virus.
+Aislamiento de casos
+• Los casos sospechosos se aislarán por 14 días a partir del inicio de síntomas
+• Los casos confirmados y probables se aislarán por 18 días a partir del inicio de los síntomas.
+• Los casos sospechosos (que no hayan tenido contacto con una persona positiva por COVID-
+19, ni tengan antecedente de viaje en los 14 días previos al inicio de síntomas) si obtienen
+una prueba negativa por COVID-19 se levantará el aislamiento.
+• Siempre que existan personas dentro del núcleo familiar que sean positivas por COVID-19
+se aislará todo ese grupo familiar aun cuando uno de los contactos se haya determinado
+como recuperado, de forma que se evite la transmisión del virus desde ese núcleo familiar
+a otras personas.
+11
+Estudio de Contactos
+Definición de Contacto Cercano con COVID 19:
+Se define como contacto cercano con un caso sospechoso, probable o confirmado por COVID-19 a
+aquella persona que, sin haber utilizado las medidas de protección adecuadas tenga alguna de las
+siguientes condiciones:
+• Haya proporcionado cuidados a un caso sospechoso, probable o confirmado sintomático,
+ya sea en el entorno doméstico o de atención de salud.
+• Haya tenido exposición en forma directa a moco o saliva de una persona sospechosa,
+probable o confirmada positiva sintomática, ya sea producida por un estornudo o tosido, o
+por beso, o alimentos o utensilios de alimentación compartidos.
+• Haya estado cara a cara con un caso sospechoso, probable o confirmado de COVID-19 a
+menos de 1.8 metros de distancia y por más de 15 minutos.
+• Haya estado en un lugar cerrado (aula, oficina, sala de sesiones, área de espera o habitación)
+con un caso sospechoso, probable o confirmado sintomático a una distancia menor de 1.8
+metros, por un período mayor o igual a 15 minutos
+• En el entorno de un avión, pasajeros situados en un radio de dos asientos alrededor de un
+caso sintomático o la tripulación que brindó atención directa durante el vuelo a dicha
+persona.
+En el caso de los establecimientos de salud, se consideran contactos de bajo riesgo de exposición
+con un confirmado por COVID-19 los siguientes:
+• Persona que haya estado cara a cara con un caso sospechoso, probable o confirmado de
+COVID-19 por menos de 15 minutos a una distancia menor de 1.8 metros
+• Persona que haya estado en un lugar cerrado (salón, aula, oficina, sala de sesiones, área de
+espera o habitación, entre otras) con un caso sospechoso, probable o confirmado
+sintomático por un período menor a 15 minutos
+Estos contactos se les dará manejo según el lineamiento técnico para la prevención y contención de
+brotes de COVID-19 en los funcionarios de salud y pacientes de los centros hospitalarios
+Seguimiento de contactos
+Contactos cercanos de caso confirmado por COVID-19
+Aislamiento
+1. Los contactos cercanos de un caso confirmado que no presenten síntomas se aislarán en el
+domicilio actual por un espacio total de 14 días, los cuales se contarán a partir de la fecha
+de en qué se dio el último contacto con el caso confirmado.
+12
+2. Se dará seguimiento telefónico de los mismos para asegurar si desarrollan o no síntomas,
+durante todo el tiempo de aislamiento.
+3. Se considerará (según las capacidades institucionales de recursos humanos y materiales)
+la toma de muestra a los contactos asintomáticos de un caso confirmado y que
+pertenezcan a población de riesgo como se indica a continuación:
+o Personas trabajadoras de la salud de establecimientos públicos y privados,
+incluyendo el personal de centros penitenciarios.
+o Personal que labora en instituciones de estancia prolongada (centros de cuidado
+de ancianos, centros penitenciarios)
+o Personas que son cuidadoras domiciliares de población vulnerable (Grupos de
+riesgo*)
+o Personas que pertenecen a los grupos de riesgo (Cuadro 1)
+4. Los contactos que desarrollen síntomas respiratorios en el tiempo de seguimiento (14 días)
+se atenderán en el servicio de salud y se considerarán sospechosos por lo que el seguimiento
+y atención será según esta definición.
+5. Los contactos cercanos de casos confirmados por COVID-19 y quienes tiene aislamiento por
+antecedente de viaje que desarrollan síntomas seguirán su aislamiento hasta completar los
+14 días, aún cuando hayan dado negativo a la prueba, de forma que el servicio de salud
+pueda darle seguimiento e identificar la necesidad de ser atendido en los servicios de salud
+si presenta signos de alarma o complicaciones de su enfermedad.
+6. Una vez transcurridos los 14 días del contacto para los contactos establecidos en el punto 5
+de este apartado (que tienen un primer resultado negativo), se procederá a realizar una
+nueva toma de muestra para asegurar que el primer análisis no correspondió a un falso
+negativo.
+7. En aquellos casos que se toma una muestra de control en el día 14 para determinar la
+posibilidad de un falso negativo, si la prueba es negativa se levanta el aislamiento, si es
+positiva se procede a notificar al paciente como un caso confirmado realizando la
+investigación y boleta VE-01. (Ver diagrama de flujo 1)
+8. Las personas que tengan un resultado positivo por COVID-19 se indicará aislamiento por 18
+días a partir del inicio de síntomas siguiendo lo indicado en el apartado de indicaciones para
+dar de alta una vez que hayan desaparecido los síntomas.
+9. Las personas que son contactos asintomáticos y se realizó una prueba por ser grupo de
+riesgo, que resulten positivas, se aislarán por 18 días a partir de la fecha de toma de
+muestra, en este caso se cumplirá con lo establecido en el apartado de indicaciones para
+considerar pacientes recuperados
+Contactos cercanos de caso sospechoso por COVID-19
+• Los contactos de casos sospechosos que no presenten síntomas no se aislarán
+• A estos contactos les dará seguimiento telefónico por un espacio de 14 días, para asegurar
+si desarrollan o no síntomas y dar educación en salud.
+• Los contactos de casos sospechosos que desarrollen síntomas durante el período de
+seguimiento se considerarán casos sospechosos y se les dará el seguimiento y atención
+correspondiente.
+13
+El seguimiento telefónico a los contactos asintomáticos de casos confirmados y sospechosos se dará
+por el Área Rectora de Salud del Ministerio de Salud correspondiente.
+Cuadro 1. Grupos de riesgo para enfermedad Servera por COVID-19
+Personas con riesgo de enfermedad
+severa
+Inmunocomprometidos
+• Personas de 65 y más años • Tratamiento para el cáncer
+• EPOC o asma moderada/severa • Fumadores
+• Enfermedad cardíaca severa • Receptores de trasplantes
+• Obesidad Mórbida • Deficiencias autoinmunes
+• Diabetes • HIV mal controlada o SIDA
+• Personas que viven en
+establecimientos para larga
+estancia
+• Uso prolongado de esteroides
+• Enfermedad Renal Crónica que
+requiere diálisis
+• Uso de medicamentos que afecten
+el sistema inmune
+• Enfermedad hepática
+14
+Diagrama de flujo Número 1. Decisión en el abordaje y seguimiento de contactos de
+casos positivos por COVID-19 o viajeros con aislamiento posterior a su llegada al país
+Contacto de paciente
+positivo / Persona que
+viajó fuera del país en los
+últimos 14 días
+Aislamiento
+por 14 días
+Desarrolla síntomas durante los 14 días de aislamiento
+Sí No
+Se suspende
+aislamiento al
+término de 14 días
+Sí No
+Confirmado
+Boleta VE-01
+Ficha de
+Investigación
+Continuar
+aislamiento
+Sí No
+Se suspende
+aislamiento
+Confirmado
+Boleta VE-01
+Ficha
+Investigación
+Toma de muestra
+Positivo
+Positivo
+Al término del aislamiento
+Toma de muestra (1)
+15
+Indicaciones para determinar la recuperación de los pacientes positivos por COVID-19
+1. Los pacientes sin factores de riesgo y que hayan desarrollado síntomas leves se evaluará
+darles de alta a los 16 días del inicio de síntomas, siempre que para esa fecha se encuentren
+asintomáticos (se tomará muestra al día 17) para lo cual deben tener dos pruebas negativas
+para COVID-19 consecutivas en un intervalo de 24 horas.
+2. Se tomará una prueba al día 17 después del inicio de síntomas, si esta es positiva se tomará
+una segunda prueba al día 21, si esta es positiva la próxima será al día 28 de inicio de
+síntomas, como se indica el siguiente cuadro 2.1
+3. Los pacientes con inmunosupresión y/o hospitalización se considerarán recuperados
+dependiendo de la evaluación clínica del paciente, para lo cual deben estar asintomáticos y
+tener dos pruebas de COVID-19 consecutivas negativas (se debe evaluar la respuesta del
+paciente y considerar si la prueba se repite en 24 o 48 horas)
+Cuadro 2. Clasificación de pacientes recuperados
+Toma de muestra al día 17 de FIS
+Primera prueba Segunda prueba
+24 h de diferencia
+Clasificación Condición
+Positiva Toma de muestra a 21
+días de acuerdo con FIS
+Aislamiento
+Negativa Positiva Toma de muestra a 21
+días de acuerdo con FIS
+Aislamiento
+Negativa Negativa Recuperado Levantar
+aislamiento
+Toma de muestra luego de 20 días de FIS
+Primera prueba Segunda prueba
+24 h de diferencia
+Clasificación Condición
+Positiva Toma de muestra a 28
+días de acuerdo con FIS
+Aislamiento
+Negativa Positiva Toma de muestra a 28
+días de acuerdo con FIS
+Aislamiento
+Negativa Negativa Recuperado Levantar
+aislamiento
+Nota: Los pacientes no deben tener síntomas cuando se tome esta muestra, si persisten los síntomas
+se debe esperar hasta que hayan desaparecido
+Todas las pruebas para dar de alta a los pacientes confirmados por COVID-19 una vez que haya
+pasado el tiempo establecido en este apartado serán realizadas por el Centro Nacional de Referencia
+1
+Revisar Lineamientos generales para el seguimiento y levantamiento de actos administrativos (orden
+sanitaria) de aislamiento domiciliar por COVID-19.
+16
+de Virología de Inciensa, la toma de la muestra corresponderá al servicio de salud en el que se esté
+atendiendo el paciente.
+Para este trámite se deberá indicar en la boleta de diagnóstico “Inciensa R-85” que la muestra
+corresponde al Seguimiento de recuperados, e indicar el número de control
+Vigilancia Centinela
+Se hará vigilancia centinela en los sitios del país que ya están establecidos según el Protocolo
+Nacional de Vigilancia de Influenza y otras Virosis Respiratorias.
+Se aumentará la toma de muestras en todos los sitios a 15 por semana (10 pruebas de ETI y 5 de
+IRAS) que se enviarán a Inciensa.
+Las muestras se analizarán por COVID-19 y por otras virosis respiratorias.
+Para dar cumplimiento a este apartado los sitios centinela seguirán la instrucción realizada por la
+CCSS, la cual se encuentra en el Anexo 5
+A partir del 01 de mayo se reactiva la vigilancia de influenza y otros virus respiratorios, para ello se
+debe aplicar las definiciones de caso establecidas en el protocolo mencionado anteriormente, para
+la definición de ETI e IRAG y de los casos inusitados así como de brotes.
+Aunado a esto se expande la red de laboratorio con capacidad de diagnóstico para el panel
+respiratorio en los servicios de la CCSS. Todo caso positivo por influenza A o B debe remitirse a
+Inciensa para identificar el linaje.
+Comunicación Social de Riesgo
+El Ministerio de Salud como rector del sector informará a la población (a través de sus mecanismos
+de divulgación y medios de comunicación), cualquier información que se deba actualizar sobre el
+coronavirus.
+17
+Bibliografía
+1. CDC. People Who Are at Higher Risk for Severe Illness, disponible en:
+https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-
+risk.html
+2. ECDC. Contact tracing: public health management of persons, including healthcare workers,
+having had contact with COVID-19 cases in the European Union – second update 8 April
+2020, disponible en: https://www.ecdc.europa.eu/sites/default/files/documents/Contact-
+tracing-Public-health-management-persons-including-healthcare-workers-having-had-
+contact-with-COVID-19-cases-in-the-European-Union%E2%80%93second-update_0.pdf
+3. Ministerio de Salud. Reglamento de Vigilancia de la Salud. DECRETO EJECUTIVO Nº 40556-
+S, Alcance digital No. 206 a la Gaceta del 23 de agosto de 2017
+4. Ministerio de Salud. Protocolo nacional para la vigilancia de personas con influenza y otras
+virosis respiratorias. -3 ed.-San José, Costa Rica: Grupo Técnico Nacional de Influenza, junio,
+2018.
+5. Ministerio de Sanidad, Gobierno de España (6 febrero 2020). Procedimiento de actuación
+frente a casos de infección por el nuevo coronavirus (2019-nCoV), disponible en:
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-
+China/documentos/Procedimiento_2019-nCoV.pdf
+6. Organización Mundial de la Salud (Enero 2020) Technical interim guidance for novel
+coronavirus, disponible en : https://www.who.int/health-topics/coronavirus
+7. Organización Mundial de la Salud (Enero 2020) Travel advice for international travel and
+health in relation to the outbreak of pneumonia caused by a new coronavirus in China,
+disponible en https://www.who.int/ith/2020-
+0901_outbreak_of_Pneumonia_caused_by_a_new_coronavirus_in_C/en/
+8. Organización Mundial de la Salud (Enero 2020) Novel Coronavirus (nCoV) v1, disponible en
+https://www.paho.org/hq/index.php?option=com_content&view=article&id=15676:20-
+january-2020-novel-coronavirus-ncov-epidemiological-update&Itemid=42346&lang=en
+9. Organización Mundial de la Salud, Enero 2020, Laboratory testing for 2019 novel
+coronavirus (2019-nCoV) in suspected human cases Interim guidance, disponible en:
+https://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-
+coronavirus
+10. Organización Mundial de la Salud (21 enero 2020) Global Surveillance for human infection
+with novel coronavirus (2019-nCoV) Interim guidance disponible en:
+https://www.who.int/publications-detail/global-surveillance-for-human-infection-with-
+novel-coronavirus-(2019-ncov)
+11. Organización Mundial de la Salud (31 enero 2020) Global Surveillance for human infection
+with novel coronavirus (2019-nCoV) Interim guidance v 3 disponible en:
+https://www.who.int/publications-detail/global-surveillance-for-human-infection-with-
+novel-coronavirus-(2019-ncov)
+18
+19
+Anexos
+20
+Anexo 1
+Sexo: M F Edad: Años: Meses:
+Residencia:
+Sí No
+Ha tenido contacto con un caso confirmado porCOVID-19en los últimos 14días dentro o fuera del país Sí No
+Fecha de contacto: / /
+Nombre del contacto
+Explique el tipo de contacto:
+Fecha de salida del país
+Ficha de Investigación de Caso sospechoso y Probable de Enfermedad Respiratoria por COVID-19
+Nombre de madre/padre/encargado
+Fecha de ingreso (en caso de hospitalización): / / Fecha de captación: / /
+ANTECEDENTES
+ANTECEDENTEDEVIAJES
+Lugares visitados durante el viaje
+Establecimiento de Salud que notifica
+DATOS DELPACIENTE NÚMERO DEIDENTIFICACIÓN:
+Nombres y apellidos:
+Ha realizado algún viaje en los últimos 14días?
+Nacionalidad:
+Teléfono
+País: Estado/Provincia: Ciudad/Cantón: Distrito:
+Ocupación: Lugarde trabajo:
+Fecha de ingreso a CostaRica Lugarvisitado (Ciudad)
+Fecha de nacimiento: / /
+Dirección exacta
+21
+22
+Anexo 2
+Toma y conservación de muestras para la detección de Influenza y otros virus respiratorios
+El personal de salud debe tener presente que la transmisión puede darse por contacto con las
+secreciones del paciente, tanto durante la toma de la muestra como durante el transporte y
+procesamiento de la misma, por lo que se deben cumplir en forma estricta las medidas de
+bioseguridad al ejecutar estas dos acciones.
+La muestra debe ser tomada en los primeros días de evolución de la enfermedad. En todo
+momento la muestra debe conservarse en frío (aproximadamente a 4 °C, nunca congelar) y ser
+trasladada de inmediato o dentro de las primeras 24-72 horas de su recolección al laboratorio
+establecido según la red de servicios públicos y privados, cumpliendo con los procedimientos
+de bioseguridad establecidos.
+La muestra debe ser tomada por personal médico o de enfermería. Las personas que participen
+en la recolección deben llevar en todo momento el equipo de protección personal, incluyendo
+gabacha, guantes, lentes de protección y respirador N95. Durante la toma de las muestras se
+deben evitar los aerosoles al máximo.
+Toma de muestra por aspirado nasofaríngeo
+El aspirado nasofaríngeo se debe recolectar a pacientes menores de 5 años y pacientes con
+IRAG
+Materiales:
+1. Bolsas plásticas transparentes
+2. Equipo de aspiración traqueal (trampa de Luke)
+3. Equipo de protección personal (gabacha, guantes, protector de cabello, lentes de protección
+y respirador N95)
+4. Hielera
+5. Medio de transporte viral, solución salina estéril o suero fisiológico estéril
+6. Paquetes de gel congelado o recipiente con hielo
+7. Sonda de alimentación de prematuros N° 8
+8. Toallas de papel absorbente
+23
+Procedimiento:
+1. Identificar debidamente el recipiente colector de la muestra con el nombre completo del
+paciente y número de cédula.
+2. Llenar completamente la Solicitud de Diagnóstico (Inciensa-R85) del Inciensa.
+3. Romper el sobre que contiene el kit de aspiración y conectar el final del tubo con diámetro
+menor a una sonda de alimentación estéril.
+4. Conectar el otro extremo de diámetro mayor a la bomba de vacío.
+5. Insertar la sonda de alimentación en la fosa nasal del paciente.
+6. Retirar la sonda, girando suavemente, repetir el procedimiento en la otra fosa nasal.
+7. Una vez que se retira la sonda del paciente, aspirar un volumen aproximado de 2 ml de medio
+de transporte viral o solución salina estéril para arrastrar toda la secreción al recipiente
+colector. Tapar inmediatamente.
+8. Envolver el recipiente que contiene la muestra con papel toalla absorbente y colocarlo
+dentro de una bolsa plástica transparente. Identificar la bolsa con el nombre completo del
+paciente y número de cédula. Introducir el recipiente de inmediato en una hielera que
+contenga geles congelados.
+9. Trasladar inmediatamente al laboratorio del establecimiento de salud, el cual realizará los
+trámites para su envío inmediato al Centro Nacional de Virología del Inciensa.
+10. Mantener y transportar la muestra en triple embalaje y a 4° C en todo momento.
+Toma de muestra por hisopado faríngeo
+El hisopado faríngeo se debe tomar a pacientes de 5 años o más con ETI. El hisopado traqueal
+se debe tomar a pacientes fallecidos.
+Materiales:
+1. Bolsas plásticas transparentes.
+2. Equipo protección personal (gabacha, guantes, protector de cabello, lentes de protección y
+respirador N95).
+3. Gradilla para tubos.
+4. Hielera.
+5. Medio de transporte viral.
+24
+6. Paquetes de gel congelado o recipiente con hielo.
+7. Toallas de papel absorbentes.
+8. Torundas de plástico y punta de poliéster o dacrón estéril.
+Procedimiento:
+1. Identificar debidamente el tubo con medio de transporte viral con el nombre completo del
+paciente y número de cédula.
+2. Llenar completamente la Solicitud de Diagnóstico (Inciensa-R85) del Inciensa.
+3. Frotar con una torunda la faringe con cuidado de no tocar la lengua ni la mucosa oral o la
+tráquea, en el caso de pacientes fallecidos. Sumergir la torunda de inmediato en el tubo con
+medio de transporte viral. Repetir el procedimiento y cortar parte de las torundas para poder
+cerrar la tapa del tubo. Ambas torundas deben colocarse en el mismo tubo.
+4. Envolver el tubo que contiene la muestra con papel toalla absorbente y colocarlo dentro de
+una bolsa plástica transparente. Identificar la bolsa con el nombre completo del paciente y
+número de cédula. Introducir el tubo en una gradilla para mantenerlo en posición vertical.
+5. Trasladar inmediatamente al laboratorio del establecimiento de salud, el cual realizará los
+trámites para su envío inmediato al Centro Nacional de Virlogía en Inciensa.
+6. Mantener y transportar la muestra en triple embalaje y a 4 °C en todo momento.
+25
+Anexo 3
+Formulario de recolección de datos de expediente clínico de pacientes fallecidos por IRAG, o
+patología asociada, en Hospitales Centinela de Vigilancia de Virus Respiratorios Costa Rica CCSS.
+(Actualización año 2015)
+Nombre del digitador del formulario: ________________________________________________
+1. Información general del caso hospitalizado:
+Número de ID: ______________________ Número Expediente: _______________________
+Nombre completo de persona fallecida: _______________________
+Fecha Nacimiento dd mm aaaa Edad días meses años
+Sexo Masculino Femenino Nacionalidad: ___________________________
+Domicilio:
+___________ _____________ ___________________
+Provincia: Cantón Distrito
+2. Cuadro clínico inicial:
+Fecha Inicio Síntomas dd mm aaaa Fecha de Internamiento dd mm aaaa
+0 0 1
+26
+Síntomas al ingreso
+¿Se le administraba algún tratamiento antiviral o antibiótico al momento del ingreso? No
+Si
+D1_________________________________________________________________
+D2_________________________________________________________________
+D3_________________________________________________________________
+D4_________________________________________________________________
+D5_________________________________________________________________
+D6_________________________________________________________________
+Síntoma / signo Sí No N/S Síntoma / signo Sí No N/S
+Fiebre ≥ 38º C Cefalea
+Historia de fiebre (no cuantificada) Malestar general
+Dolor de garganta
+Dolor en
+articulaciones
+Tos seca Dolor muscular
+Tos productiva Dolor Abdominal
+Disnea Diarrea
+Astenia/Adinamia Especificar:
+Diagnósticos de ingreso: Fecha del
+Diagnóstico
+dd mm aaaa
+27
+3. Antecedentes personales
+¿Recibió la paciente alguna de las siguientes vacunas previo al inicio de la enfermedad?
+Vacuna Sí No N/S
+Vacuna de influenza estacional en el último año?
+Fecha(mes/año):______
+Vacuna anti neumocócica? Fecha(mes/año):______
+¿Al momento de enfermar el (la) paciente presentaba alguna de las siguientes condiciones?
+Condición Sí No N/S Condición Sí No N/S
+Tabaquismo:
+____cigarrillos/día
+Cáncer
+Desnutrición
+Diabetes Obesidad mórbida
+VIH u otra
+inmunodeficiencia
+Embarazo
+Enfermedad cardiaca
+Toma
+inmunosupresores
+Enfermedad pulmonar Enfermedad renal
+Asma EPOC Bronquiectasias Otra condición
+Enfermedad Pulmonar Intersticial Difusa (EPID)
+Historia de Tuberculosis (reciente o antigua) Especificar:
+Si la paciente estaba embarazada al momento del ingreso, especifique:
+Edad Gestacional _________ semanas
+Fecha Probable de Parto (día/mes/año): ____/_____/______
+Gestas ___ Partos___ Abortos ____ Cesáreas___
+Control prenatal: Si No
+Presentaba al ingreso alguna patología relacionada al embarazo?
+28
+ð Si No
+Cual?
+HTA DM ITU Amenaza de aborto Amenaza de Parto Prematuro
+Otra? Especificar_______________________________________________
+Resultado del embarazo al egreso:
+Continúa embarazada
+Trabajo de parto y parto sin complicaciones
+Trabajo de parto y parto complicados
+Especifique__________________________________________
+Pérdida fetal fecha: ______/ ______/ ______
+dd / mm / año
+Especifique__________________________________________
+Resultado neonatal: Fecha de Nacimiento: ____/____/____
+dd / mm / año
+Neonato saludable
+Neonato enfermo Especifique:
+_____________________________________________
+Fallecido Fecha de fallecimiento: ______/ ______/ _____
+dd / mm / año
+29
+4. Cuadro Clínico
+Signos vitales en el momento de hospitalización
+Día de ingreso salón
+___________
+Día de Traslado
+Cuidados intermedios
+Día de Traslado
+Cuidados Intensivos
+Fecha de toma
+(día/mes/año)
+____/____/_____ ____/____/_____ ____/____/_____
+1. Temperatura máxima ____ ° C ____ ° C ____ ° C
+2. Tensión arterial más
+baja
+____ / ____ ____ / ____ ____ / ____
+3. Frecuencia respiratoria
+más alta*
+_____ por min _____ por min _____ por min
+4. Frecuencia cardíaca
+más alta*
+______ latidos/min ______ latidos/min ______ latidos/min
+Soporte Ventilatorio
+O2 mascarilla
+Ventilador
+O2 mascarilla
+Ventilador
+O2 mascarilla
+Ventilador
+5. Sat O2 más baja _______ % _______ % _______ %
+6. Fi O2
+† _______ _______ _______
+7. Talla _________m
+Se anota Obesidad Si No
+Grado I
+Grado II
+Grado III
+N/D
+8. Peso _________Kg
+* Más alto o más bajo de los valores tomados ese día
+†fracción de oxígeno inspirado
+30
+31
+En algún momento de la presente enfermedad el paciente requirió o tuvo:
+Condición Presente Salón
+Fecha
+(día/mes/año)
+Ingreso a Unidad de Cuidados Intensivos Si No _____/____/_____
+Suplementación de oxígeno Si No _____/____/_____
+Soporte ventilatorio Si No _____/____/_____
+Medicación vasopresora (ej. dopamina, epinefrina) Si No _____/____/_____
+Diálisis Si No _____/____/_____
+Resucitación cardiopulmonar Si No _____/____/_____
+Síndrome de dificultad respiratoria aguda (SDRA) Si No _____/____/_____
+Coagulación intravascular diseminada (CID) Si No _____/____/_____
+Sepsis Si No _____/____/_____
+Shock Si No _____/____/_____
+Falla miocárdica Si No _____/____/_____
+Infarto del miocardio Si No _____/____/_____
+Hepatitis Si No _____/____/_____
+Insuficiencia renal Aguda Si No _____/____/_____
+32
+Pruebas diagnósticas
+Si IF o PCR fueron realizados, por favor anote los resultados:
+Tipo de muestra*
+Fecha de
+colección
+(día/mes/año)
+Test realizado
+Resultados
+(anotar los virus
+para los que
+resultó positivo)
+Interpretación Tipo de
+prueba
+Nombre de
+laboratorio
+____/____/____
+Inmunofluorescencia
+Positivo
+Negativo
+Indeterminado
+Premortem
+Postmortem
+Inciensa
+____/____/____
+Inmunofluorescencia
+Positivo
+Negativo
+Indeterminado
+Premortem
+Postmortem
+Inciensa
+____/____/____ PCR
+Positivo
+Negativo
+Indeterminado
+Premortem
+Postmortem
+Inciensa
+____/____/____ PCR
+Positivo
+Negativo
+Indeterminado
+Premortem
+Postmortem
+Inciensa
+5. Datos del Egreso:
+Fecha de Egreso dd mm aaaa
+Diagnósticos de egreso:
+D1_________________________________________________________________
+D2_________________________________________________________________
+D3_________________________________________________________________
+D4_________________________________________________________________
+D5_________________________________________________________________
+D6_________________________________________________________________
+33
+Condición de egreso:
+Salida
+Traslado a otro centro médico
+Fallecido.
+Fecha de Defunción dd mm aaaa
+Causas de defunción:
+C1______________________________________________________________________________
+C2______________________________________________________________________________
+C3______________________________________________________________________________
+C4______________________________________________________________________________
+C5______________________________________________________________________________
+C6______________________________________________________________________________
+34
+Anexo 4
+Solicitud de Diagnóstico (Inciensa R-85)
+La boleta de solicitud de diagnóstico del Inciensa se puede encontrar en este Link.
+https://www.inciensa.sa.cr/servicios/boletas/Inciensa-R85%20Diagnostico%20v2.pdf
+35
+Anexo 5
+36
+37
+38
+39
+40
+

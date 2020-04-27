@@ -1,0 +1,30 @@
+{
+    "filename": "annex-aad61660352cb4e2fac4913a0594cbc9d.pdf",
+    "uri": "https:\/\/www.moh.gov.sg\/docs\/librariesprovider5\/default-document-library\/annex-aad61660352cb4e2fac4913a0594cbc9d.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587909803,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "date": "Sun, 26 Apr 2020 14:03:23 GMT",
+        "content-disposition": "inline; filename=annex-aad61660352cb4e2fac4913a0594cbc9d.pdf",
+        "content-security-policy": "default-src 'unsafe-inline' 'unsafe-eval' 'self' https:\/\/cse.google.com http:\/\/cse.google.com https:\/\/clients1.google.com http:\/\/clients1.google.com https:\/\/va.ecitizen.gov.sg http:\/\/assets.adobedtm.com http:\/\/dpm.demdex.net http:\/\/wogadobeanalytics.sc.omtrdc.net http:\/\/va.ecitizen.gov.sg https:\/\/www.google.com https:\/\/s3-us-west-2.amazonaws.com http:\/\/fonts.googleapis.com http:\/\/ajax.googleapis.com https:\/\/fonts.gstatic.com http:\/\/cm.everesttech.net http:\/\/fast.wogaa.demdex.net https:\/\/tools.onemap.sg https:\/\/www.gstatic.com https:\/\/forms.cwp.gov.sg https:\/\/www.google-analytics.com https:\/\/wogadobeanalytics.sc.omtrdc.net https:\/\/assets.juicer.io https:\/\/connect.facebook.net https:\/\/www.facebook.com https:\/\/www.juicer.io https:\/\/graph.facebook.com https:\/\/static.juicer.io https:\/\/i.imgur.com https:\/\/scontent.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/external.xx.fbcdn.net https:\/\/twitter.com https:\/\/wogaa.demdex.net https:\/\/www.googleapis.com https:\/\/stats.g.doubleclick.net https:\/\/www.googletagmanager.com https:\/\/www.onemap.sg http:\/\/www.moh.gov.sg http:\/\/www.youtube.com https:\/\/www.youtube.com https:\/\/static.pigeonhole.at https:\/\/pigeonhole.at *.hotjar.com:* *.hotjar.io wss:\/\/*.hotjar.com form.gov.sg https:\/\/www.googleadservices.com\/pagead\/conversion_async.js https:\/\/googleads.g.doubleclick.net https:\/\/www.google.com.sg assets.dcube.cloud assets.wogaa.sg assets.adobedtm.com https:\/\/snowplow-web.wogaa.sg https:\/\/youtu.be; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: *;",
+        "last-modified": "Sat, 25 Apr 2020 15:12:10 GMT",
+        "set-cookie": "ASP.NET_SessionId=5kj50pzimxbs20asoli0wpgs; path=\/; secure; HttpOnly; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "cache-control": "max-age=86400, public",
+        "x-xss-protection": "1; mode=block",
+        "x-access-control-allow-origin": "*",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 989645f1fbe7c410082298b4ff7b6350.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "NAsMirtcHKXEjeGKC8HlsH31QKI8lk2yP9V0MJydQFc7cSgNnptFOA=="
+    },
+    "lang": "en",
+    "size": 11785,
+    "modified": 1587827530
+}

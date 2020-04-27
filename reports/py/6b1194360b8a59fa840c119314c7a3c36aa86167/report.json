@@ -1,0 +1,19 @@
+{
+    "filename": "bdf1a6-COVID19Prensa1.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/bdf1a6-COVID19Prensa1.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587909762,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 26 Apr 2020 14:02:39 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "450018",
+        "last-modified": "Sat, 25 Apr 2020 16:09:08 GMT",
+        "etag": "\"6dde2-5a41fb3a5b813\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 450018,
+    "modified": 1587830948
+}
