@@ -1,0 +1,30 @@
+{
+    "filename": "Nota-Informativa-declara----o-obito.pdf",
+    "uri": "https:\/\/coronavirus.saude.gov.br\/images\/pdf\/2020\/April\/29\/Nota-Informativa-declara----o-obito.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363834,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "location": "http:\/\/portalarquivos2.saude.gov.br\/images\/pdf\/2020\/April\/29\/Nota-Informativa-declara----o-obito.pdf",
+        "date": "Fri, 01 May 2020 20:10:34 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1588363835.689.24794.217907; Path=\/; HttpOnly",
+        "strict-transport-security": "max-age=15724800; includeSubDomains",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 3b7c593400497eb41ce8e66a6c8cdc09.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "YaalwMrhdH7fgNWLJQya2YllW0uocvtIznlUw8J6AWqkREU9xMFrPw==",
+        "content-length": "464049",
+        "connection": "keep-alive",
+        "last-modified": "Wed, 29 Apr 2020 18:06:21 GMT",
+        "etag": "\"714b1-5a471ce2f5795\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "cache-control": "max-age=84600, public",
+        "content-security-policy": "upgrade-insecure-requests"
+    },
+    "lang": "pt",
+    "size": 464049,
+    "modified": 1588183581
+}

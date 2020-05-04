@@ -1,0 +1,28 @@
+{
+    "filename": "point_de_situation_coronavirus_du_27_avril-2.pdf",
+    "uri": "https:\/\/solidarites-sante.gouv.fr\/IMG\/pdf\/point_de_situation_coronavirus_du_27_avril-2.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588124181,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 29 Apr 2020 01:36:21 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "478147",
+        "set-cookie": "__cfduid=db00698da77e806c2551e045027f5135e1588124180; expires=Fri, 29-May-20 01:36:20 GMT; path=\/; domain=.solidarites-sante.gouv.fr; HttpOnly; SameSite=Lax; Secure",
+        "last-modified": "Mon, 27 Apr 2020 17:37:07 GMT",
+        "etag": "\"74bc3-5a44929fa0d7f\"",
+        "cache-control": "public, max-age=3600",
+        "vary": "Accept-Encoding",
+        "cf-cache-status": "HIT",
+        "expires": "Wed, 29 Apr 2020 02:36:21 GMT",
+        "accept-ranges": "bytes",
+        "expect-ct": "max-age=604800, report-uri=\"https:\/\/report-uri.cloudflare.com\/cdn-cgi\/beacon\/expect-ct\"",
+        "server": "cloudflare",
+        "cf-ray": "58b54a9f4d04d865-EZE",
+        "alt-svc": "h3-27=\":443\"; ma=86400, h3-25=\":443\"; ma=86400, h3-24=\":443\"; ma=86400, h3-23=\":443\"; ma=86400",
+        "cf-request-id": "02652cf7910000d865de9d7200000001"
+    },
+    "lang": "fr",
+    "size": 478147,
+    "modified": 1588009027
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-02052020-08h00.pdf",
+    "uri": "https:\/\/www.gestionderiesgos.gob.ec\/wp-content\/uploads\/2020\/05\/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-02052020-08h00.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588542484,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 03 May 2020 21:48:04 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "926963",
+        "last-modified": "Sat, 02 May 2020 16:26:16 GMT",
+        "etag": "\"e24f3-5a4acc1cbb1c6\"",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=2592000",
+        "expires": "Tue, 02 Jun 2020 21:48:04 GMT",
+        "vary": "User-Agent",
+        "strict-transport-security": "max-age=63072000; preload"
+    },
+    "lang": "es",
+    "size": 926963,
+    "modified": 1588436776
+}

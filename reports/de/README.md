@@ -8,6 +8,62 @@
 * [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html)
 
 
+## 2020-05-04
+
+* [BMG\_Coronavirus\_Plakat\_online\_barr.pdf](ed018ad59369146b881c44148fb9436e502b8048/file.pdf) @11:30 GMT
+* [BMG\_Coronavirus\_Handzettel\_EN\_barr.pdf](5b482346e5954aa7e56c759920c29f0d44ddf0cd/file.pdf) @11:30 GMT
+* [BMG\_Coronavirus\_Handzettel\_TR\_barr.pdf](82c28b38f9020dc1c26d586f0f3c4707bf7e1b6f/file.pdf) @11:30 GMT
+* [BMG\_Coronavirus\_Handzettel\_DE\_barr.pdf](b34fe79527de1481a324cf0de51644f4a51df54e/file.pdf) @11:30 GMT
+
+## 2020-05-03
+
+* [2020-05-03-en.pdf](63b04b84abe2ec6d0f77bc74bffaa2d211a057fa/file.pdf) @16:13 GMT
+* [2020-05-03-de.pdf](0548c8a5c819cefd1e6fc3c7b547e4609b0d0d05/file.pdf) @12:44 GMT
+
+## 2020-05-02
+
+* [2020-05-02-en.pdf](f6aad0a6842ac2befd67c261b4e5968e398af4db/file.pdf) @15:06 GMT
+* [2020-05-02-de.pdf](27f6dec7728f2729cc318fa029bd90415f3c526d/file.pdf) @15:05 GMT
+* [Leitfaden\_OEGD\_COVID-19.pdf](831433ebde94af1b7632cb7010116051cda228a7/file.pdf) @09:52 GMT
+
+## 2020-05-01
+
+* [2020-05-01-en.pdf](f926f2d4a7bee381d96d8cd7fc60b8fbf9e77e8f/file.pdf) @16:54 GMT
+* [2020-05-01-de.pdf](a1e908af73c66d10fb5e80032ab72f9e33307617/file.pdf) @14:49 GMT
+* [2020-04-30-en.pdf](96265cdcc3e02ead5e3d406c2679b203628e835a/file.pdf) @07:20 GMT
+
+## 2020-04-30
+
+* [2020-04-30-de.pdf](221b012c5056b2616fb33068b8d7d061853a4fc5/file.pdf) @17:02 GMT
+
+## 2020-04-29
+
+* [2020-04-29-en.pdf](38f706eaee2f7161bc4fcfb4185286b52bf04f44/file.pdf) @17:33 GMT
+* [2020-04-29-de.pdf](45baa6e86f3974534968c850fd87877651f17e1c/file.pdf) @16:04 GMT
+
+## 2020-04-28
+
+* [2020-04-28-de.pdf](97d3588b96d30e029e049e6c23e282fdbf2364f4/file.pdf) @15:09 GMT
+* [2020-04-28-en.pdf](66425d637f6f7e4c96672ece01b22565c3a0a398/file.pdf) @12:27 GMT
+* [Faktenpapier\_Neuer\_Klinikalltag.pdf](d33304a599b177bddf9a857af921d6c10c4e8a2a/file.pdf) @08:19 GMT
+* [2020-04-27-en.pdf](32c6e43ff93f0d4a19230ec6ad90a52991fb8643/file.pdf) @05:50 GMT
+
+## 2020-04-27
+
+* [2020-04-27-de.pdf](98620b4cf8f9438a1b5746a7c1e75c165c070858/file.pdf) @18:35 GMT
+
+## 2020-04-26
+
+* [2020-04-26-en.pdf](853460a24750e02dcd22c6f5d9dc97045db8f296/file.pdf) @16:17 GMT
+* [2020-04-26-de.pdf](571499d2318c6f06f224ee980683277413e831f5/file.pdf) @16:17 GMT
+
+## 2020-04-25
+
+* [2020-04-25-en.pdf](374ca12d150482536d0558dcdd3247887e59543b/file.pdf) @15:54 GMT
+* [2020-04-25-de.pdf](ef73019a97a611f1409f2d38f542062958f8b72c/file.pdf) @15:34 GMT
+* [2020-04-24-de.pdf](314af452c0dd1817256427884f422e900db21757/file.pdf) @07:37 GMT
+* [2020-04-24-en.pdf](dc79aba36cba5a7a567315f2eebc8471ba7ed9c7/file.pdf) @07:34 GMT
+
 ## 2020-04-23
 
 * [2020-04-23-en.pdf](95f99e96c45f63ba2d5fafd684a3ac3b55613273/file.pdf) @17:10 GMT
@@ -30,8 +86,8 @@
 
 ## 2020-04-19
 
-* [2020-04-19-en.pdf](7844e50c91e3aacb26f3a10b7297ac728fc5d65c/file.pdf) @15:26 GMT
 * [2020-04-19-de.pdf](1ef1f3502484fb1c2cd81a4b76595b282e60433b/file.pdf) @15:26 GMT
+* [2020-04-19-en.pdf](7844e50c91e3aacb26f3a10b7297ac728fc5d65c/file.pdf) @15:26 GMT
 
 ## 2020-04-18
 
@@ -64,8 +120,8 @@
 
 ## 2020-04-13
 
-* [2020-04-13-en.pdf](b3054d206eee7962d2b8599e2eab9ff48ae690de/file.pdf) @12:51 GMT
 * [2020-04-13-de.pdf](ae0174cb3cb323f0d2e0d1519efd32c33b269aa9/file.pdf) @12:51 GMT
+* [2020-04-13-en.pdf](b3054d206eee7962d2b8599e2eab9ff48ae690de/file.pdf) @12:51 GMT
 
 ## 2020-04-12
 
@@ -212,8 +268,8 @@
 
 ## 2020-03-17
 
-* [COVID-19\_Tipps\_bei\_haeuslicher\_Quarantaene.pdf](8408a50591ab330b28f1015dae6ee0c7ae20b5ef/file.pdf) @11:55 GMT
 * [COVID-19\_Tipps\_fuer\_Eltern.pdf](318a795c3ac8e5ca99136bff60009f1313539aec/file.pdf) @11:55 GMT
+* [COVID-19\_Tipps\_bei\_haeuslicher\_Quarantaene.pdf](8408a50591ab330b28f1015dae6ee0c7ae20b5ef/file.pdf) @11:55 GMT
 * [BMG\_C-19\_200316\_info\_BW\_Pflegeheim.pdf](0afe20a3730a82d6332eab0a96254e5ec5d48315/file.pdf) @10:55 GMT
 * [2020-03-16-en.pdf](8f0dc96a7bbe27d96f0b67085e74c87a1bbd24a0/file.pdf) @08:18 GMT
 * [2020-03-16-de.pdf](93b43ff3f586cb325a829dec8f52c243e6d9d8aa/file.pdf) @08:16 GMT
@@ -245,9 +301,9 @@
 
 ## 2020-03-11
 
-* [Coronavirus\_Handzettel\_barrierefrei\_ENG\_barr.pdf](af1bb854e03c8afb229817e5d81bbe789614ff19/file.pdf) @15:21 GMT
-* [Coronavirus\_Handzettel\_barrierefrei\_DE\_barr.pdf](1f7ea7c2a9420a018db0aa3693dd04ab7d54d905/file.pdf) @15:21 GMT
 * [Coronavirus\_Handzettel\_barrierefrei\_tu\_\_rkisch\_barr.pdf](b98cd96edece38dd5430149567e667c5534f5a58/file.pdf) @15:21 GMT
+* [Coronavirus\_Handzettel\_barrierefrei\_DE\_barr.pdf](1f7ea7c2a9420a018db0aa3693dd04ab7d54d905/file.pdf) @15:21 GMT
+* [Coronavirus\_Handzettel\_barrierefrei\_ENG\_barr.pdf](af1bb854e03c8afb229817e5d81bbe789614ff19/file.pdf) @15:21 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_DE.pdf](03c676043c8b7073b16ee7ae3193d43ddeb8aa27/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_\_EN.pdf](abfcf6f14cbec32215f3d8b770977fca9af659fb/file.pdf) @08:13 GMT
 * [Merkblatt-Bildungseinrichtungen-Coronavirus\_TR.pdf](aa2a228c9a629d5408ebb3350c4e8db408a46f84/file.pdf) @08:13 GMT
@@ -280,8 +336,8 @@
 
 * [2020-03-05-en.pdf](2833a7d3c56e33137fdc1a491037ea70565f95fd/file.pdf) @21:11 GMT
 * [2020-03-05-de.pdf](f1bf5fd10b0e92211e7edcdc58d046390f87bf95/file.pdf) @21:09 GMT
-* [2020-03-04-en.pdf](16781e1fba03512ea3dfec4d3567124c6df86522/file.pdf) @18:06 GMT
 * [2020-03-04-de.pdf](e602cde778067c78818ef77f48b826584c5ff309/file.pdf) @18:06 GMT
+* [2020-03-04-en.pdf](16781e1fba03512ea3dfec4d3567124c6df86522/file.pdf) @18:06 GMT
 
 ## 2020-02-13
 

@@ -5,6 +5,56 @@
 * [https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov](https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov)
 
 
+## 2020-05-03
+
+* [1644-733-casos-confirmados-por-covid-19](5677b8c062fa231b7f6ac9c589fcd0ab0030cc4e/file.pdf) @21:46 GMT
+* [1646-739-casos-confirmados-por-covid-19](640d23bfa99517cefa4b5d30ceb53f45561f22c6/file.pdf) @21:46 GMT
+
+## 2020-05-01
+
+* [1639-713-casos-confirmados-por-covid-19](e8dc5a8617f2653b516df9e4d80ec055a7cdcb2a/file.pdf) @20:12 GMT
+* [1640-costarricenses-retornaran-al-pais-desde-crucero](26f2e24d0a2b569769bcdd2ccfd6ae510fba57e5/file.pdf) @20:12 GMT
+* [1641-719-casos-confirmados-por-covid-19](4e705c23f1f2bb6904c7f4e388c4fd94206fd364/file.pdf) @20:12 GMT
+* [1643-725-casos-confirmados-por-covid-19](c5ae403c767be29080cd2e91594d3601b3be2b33/file.pdf) @20:12 GMT
+* [LS\_CS\_007\_actividades\_recreativas.pdf](c72aa74fb577287106133ba43e4bc2d8325a40b6/file.pdf) @20:11 GMT
+* [LS\_CS\_006\_centros\_acondicionamiento\_fisico.pdf](084bacc789577440f7044b34900ae362c4686d18/file.pdf) @20:11 GMT
+* [LS\_CS\_004\_salones\_belleza.pdf](f0bd69a0f1e1e265409a7e56be6de6974f0a7f49/file.pdf) @20:11 GMT
+* [LS\_CS\_001\_permisos\_sanitarios.pdf](16e33654f1356a19cc38b77bee1b72206e4b73a3/file.pdf) @20:11 GMT
+* [LS\_CS\_002\_plantas\_procesadora\_alimentos.pdf](e58aa7e61cdbfe46612d91da1f7a3ee2554e5620/file.pdf) @20:11 GMT
+* [LS\_CS\_008\_restaurantes.pdf](3efc3ea242e8a56e2bc7ca59fe90da171749f473/file.pdf) @20:11 GMT
+* [LS\_CS\_005\_actividades\_humanas.pdf](69bbb72b715befb4a49dc9a5d38dbb927311ff82/file.pdf) @20:11 GMT
+
+## 2020-04-30
+
+* [med\_admin\_temp\_aten\_activ\_concent\_masiva\_v19\_30042020.pdf](d438907acac19251c7575acb0784ddf6d6dbc976/file.pdf) @18:16 GMT
+
+## 2020-04-29
+
+* [1635-697-casos-confirmados-por-covid-19](226702ccf3f2ff3269b1f1b175d704d87c45d74d/file.pdf) @01:34 GMT
+* [1636-gobierno-anuncia-nuevas-medidas-para-el-funcionamiento-del-pais](eb3446e60e6356a36a5d63858a70f30cdc6415d5/file.pdf) @01:34 GMT
+* [1637-705-casos-confirmados-por-covid-19](cde56975d89de2349a298838a0bff428bc66c7bc/file.pdf) @01:33 GMT
+
+## 2020-04-27
+
+* [ms\_dm\_3845\_2020\_resolucion\_establecimientos\_01\_al\_15\_mayo.pdf](3623d5b485daeff45188b7bd0ef6ee39e0a1c226/file.pdf) @20:58 GMT
+* [lineamientos\_generales\_actividades\_humanas\_27042020.pdf](6f8bffe381eb158a76bcabd26801b6c3e7ed5a52/file.pdf) @17:53 GMT
+
+## 2020-04-26
+
+* [1632-693-casos-confirmados-por-covid-19](37023c5b48495bb38eb7494dfbc531e3d0951834/file.pdf) @21:09 GMT
+* [1633-medidas-de-higiene-contra-el-covid-19-pudieron-provocar-baja-en-diarreas](06ae8fe6433d5a78a930679eeda2f8ee3f737a52/file.pdf) @21:09 GMT
+* [1634-695-casos-confirmados-por-covid-19](e6c62d50c786a90e06b5ff5932fb5ffa85b95d61/file.pdf) @21:09 GMT
+* [1628-libro-ilustrado-ayudara-a-las-ninas-y-ninos-mas-pequenos-a-entender-y-enfrentar-la-covid-19](3624429810848964a5bf99a2c16e4408b72452cc/file.pdf) @13:54 GMT
+* [1630-687-casos-confirmados-por-covid-19](a04c16adfb7221a96e384b7927a1c8bcbb42d7e5/file.pdf) @13:54 GMT
+
+## 2020-04-25
+
+* [lineamientos\_nacionales\_vigilancion\_infeccion\_coronavirus\_v12\_24042020.pdf](3b42e2e599edafdef2cf9c65c1453b890d2818ef/file.pdf) @03:42 GMT
+
+## 2020-04-24
+
+* [med\_admin\_temp\_atencion\_actividades\_concentracion\_masiva\_18\_24042020.pdf](254c53603cc542fe0946b178f0f8bd82cd6d13d6/file.pdf) @18:10 GMT
+
 ## 2020-04-23
 
 * [1626-687-casos-confirmados-por-covid-19](f97fce4a46d7ccbbe10e56f27778e961383c3d4b/file.pdf) @22:23 GMT
@@ -16,9 +66,9 @@
 
 ## 2020-04-22
 
-* [estrategia\_comunicacion\_riesgo\_personas\_adultas\_mayores\_22042020.pdf](419615104749a20279f46e7ab0ddc0cc912bf975/file.pdf) @20:49 GMT
 * [guia\_adulto\_mayor\_seguimiento\_telefonico\_22042020.pdf](14c3706e6b028f280b49f1f06df906fed09f325c/file.pdf) @20:49 GMT
 * [guia\_seguimiento\_telefonico\_acompañamiento\_territorio\_PAM\_segun\_riesgo\_22042020.pdf](1184f3660ba5cff1c16b49bf8ecaae3d4702572f/file.pdf) @20:49 GMT
+* [estrategia\_comunicacion\_riesgo\_personas\_adultas\_mayores\_22042020.pdf](419615104749a20279f46e7ab0ddc0cc912bf975/file.pdf) @20:49 GMT
 * [guia\_adulto\_mayor\_atencion\_territorial\_22042020.pdf](a1e2d47f0564267b44a856a1391f74be90fa3310/file.pdf) @20:49 GMT
 * [recomendaciones\_nutricionales\_poblacion\_sana\_frente\_covid\_22042020.pdf](94f3ec7ac8c3db76de7c0b3d5f655d42349c6cc5/file.pdf) @20:28 GMT
 * [1624-669-casos-confirmados-por-covid-19](8a4ec8fac406919f049186a95a0269e5b0a633c5/file.pdf) @00:09 GMT
@@ -212,14 +262,14 @@
 * [lineamiento\_general\_condominios\_v3\_27032020.pdf](d09ec39f3dc46ed9ed0c241e15182e9f79fc92d3/file.pdf) @21:28 GMT
 * [lineamientos\_odontologos\_v2\_27032020.pdf](0854065e8d5791b42d36988b951129a5cca1b339/file.pdf) @21:08 GMT
 * [lineamientos\_generales\_empleados\_sector\_construccion\_v1\_27032020.pdf](802008ccea952d9c87571fdc480f7ac9808d5f3e/file.pdf) @21:07 GMT
+* [directriz\_073\_s\_mtss\_medidas\_coordinación\_interinstitucional.pdf](6ced6cf531ccdeb080e09f2eccc6382f66ab5c8b/file.pdf) @04:00 GMT
+* [directriz\_077\_s\_mtss\_mideplan\_funcionamiento\_instituciones\_publicas.pdf](b0c6c4280ce0ca32e3c5d8e1f06b676ddb73bb3e/file.pdf) @04:00 GMT
+* [directriz\_076\_s\_suministro\_agua\_potable.pdf](7bf695f190402c44f114e08d5137581166c73690/file.pdf) @04:00 GMT
 * [decreto\_ejecutivo\_42227\_mp\_s\_declaratoria\_emergencia\_nacional.pdf](794770b76ea0aa8251d3938ba1523dc35027e44c/file.pdf) @04:00 GMT
 * [decreto\_ejecutivo\_42253\_mopt\_s\_restriccion\_vehicular\_sanitaria.pdf](3366029fe5f3b82213a850d655a8c8d9b3707ac6/file.pdf) @04:00 GMT
 * [decreto\_42238\_mgp\_s\_medidas\_sanitarias\_materia\_migratoria.pdf](09b9b501a413fcd564ae8fc12885e18a22f91a70/file.pdf) @04:00 GMT
-* [directriz\_077\_s\_mtss\_mideplan\_funcionamiento\_instituciones\_publicas.pdf](b0c6c4280ce0ca32e3c5d8e1f06b676ddb73bb3e/file.pdf) @04:00 GMT
 * [decreto\_42221\_S\_concentracion\_actividades\_masivas.pdf](cae75bdc191237484dc5a7f30f15a78009b18e6e/file.pdf) @04:00 GMT
-* [directriz\_073\_s\_mtss\_medidas\_coordinación\_interinstitucional.pdf](6ced6cf531ccdeb080e09f2eccc6382f66ab5c8b/file.pdf) @04:00 GMT
 * [decreto\_ejecutivo\_42248\_suspension\_contratos\_trabajo.pdf](ebca2d541e85286ac72f65b36867cafbdd88509b/file.pdf) @04:00 GMT
-* [directriz\_076\_s\_suministro\_agua\_potable.pdf](7bf695f190402c44f114e08d5137581166c73690/file.pdf) @04:00 GMT
 
 ## 2020-03-26
 

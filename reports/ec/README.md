@@ -5,6 +5,42 @@
 * [https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/](https://www.gestionderiesgos.gob.ec/informes-de-situacion-covid-19-desde-el-13-de-marzo-del-2020/)
 
 
+## 2020-05-03
+
+* [Informe-de-Situación-No046-Casos-Coronavirus-Ecuador-03052020.pdf](2832b4042a6eb4603136d5c90b0b45b5940b66ae/file.pdf) @15:22 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-03052020-08h00.pdf](efafba0d1ceea814c06e35493a12f258ec004822/file.pdf) @15:22 GMT
+
+## 2020-05-02
+
+* [Informe-de-Situación-No045-Casos-Coronavirus-Ecuador-02052020.pdf](5ae80272d70c944090056ab7baa303d2d1333737/file.pdf) @16:26 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-02052020-08h00.pdf](e4c608234a04bde918e94ca0ce9f56fb989416b9/file.pdf) @16:26 GMT
+
+## 2020-05-01
+
+* [Informe-de-Situación-No044-Casos-Coronavirus-Ecuador-01052020.pdf](fa54fbaf805853aa15960ede164c2e7656541501/file.pdf) @16:19 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-01052020-08h00.pdf](cc59ff210ef394fd3cf75ce59ed225386f2d9393/file.pdf) @16:18 GMT
+
+## 2020-04-30
+
+* [Informe-de-Situación-No043-Casos-Coronavirus-Ecuador-30042020.pdf](007e1d284282e8b16bccc596d3605aeae88f8f89/file.pdf) @16:31 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-30042020-08h00.pdf](c1410fd0cf7ffef9b6ed78f03762615e52588fe6/file.pdf) @16:31 GMT
+
+## 2020-04-29
+
+* [INFOGRAFIA-RESUMEN-TEMPORO-ESPACIAL-DE-LA-PANDEMIA.pdf](098276057d854ab3981b9b5f6ef3c3da5a57d516/file.pdf) @22:48 GMT
+* [Estudio-COMPLETO-Tendencia-Temporo-Espacial.pdf](84953e1df97f00714ff7dab3ba66259974c488be/file.pdf) @22:37 GMT
+* [Informe-de-Situación-No042-Casos-Coronavirus-Ecuador-29042020.pdf](52f4f4be1abc8034185cd1d83b94239ea368d176/file.pdf) @16:41 GMT
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-29042020-08h00.pdf](605bebcc74afe02de6178e3bb495f5943ce132e9/file.pdf) @16:40 GMT
+
+## 2020-04-28
+
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-28042020-08h.pdf](1434e6d81cf28b5750cd58ec3b71a8807f304b83/file.pdf) @16:41 GMT
+* [Informe-de-Situación-No041-Casos-Coronavirus-Ecuador-28042020.pdf](53497b9ff4f738cef39aa94e973521748e1f0cc9/file.pdf) @16:40 GMT
+
+## 2020-04-27
+
+* [INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-27042020-08h.pdf](aa385e7098945487ed3bcda5380e12f274dc7bf3/file.pdf) @17:37 GMT
+
 ## 2020-04-24
 
 * [Informe-de-Situación-No040-Casos-Coronavirus-Ecuador-23042020.pdf](1fa2a74eb90853abd4a8de347aaff25df7118e02/file.pdf) @16:21 GMT

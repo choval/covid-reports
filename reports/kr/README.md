@@ -6,6 +6,56 @@
 * [https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030)
 
 
+## 2020-05-04
+
+* [Press Release (May4)\_Afternoon.pdf](5b723546dde01cdb2e1fa50fbb889cc96bbd6dbd/file.pdf) @19:22 GMT
+* [Press Release (May4)\_morning.pdf](b43e75b16c609521f3542df3557c13c36424a479/file.pdf) @14:22 GMT
+
+## 2020-05-03
+
+* [Press\_Release\_(May3)\_afternoon.pdf](b4614e1cde1f21523c67e711189c3f4b75c78085/file.pdf) @15:52 GMT
+* [Press\_Release\_(May3)\_morning.pdf](2c5c2947fa9eb2a8957d8cf0f4089ec02dc4ccac/file.pdf) @13:18 GMT
+
+## 2020-05-02
+
+* [Press Release (May 02)\_Afternoon.pdf](fe3eac2058c1f126bcd194335f1426db4699381e/file.pdf) @15:07 GMT
+* [Press Release (May 02)\_morning.pdf](ba5368c175d2364b8e74ea015887401b17755ac3/file.pdf) @10:40 GMT
+
+## 2020-05-01
+
+* [Press\_Release\_(May 01)\_Afternoon.pdf](7fbc6977afcd0bfa81256955c8d0b7e10ce4a484/file.pdf) @18:18 GMT
+* [Press\_Release\_(May 01)\_morning.pdf](0250412f1aa8d48e0552149dfbe29f3922a0635a/file.pdf) @13:30 GMT
+
+## 2020-04-30
+
+* [Press Release (April30)\_afternoon.pdf](50f8e263e847d1224914fddf344a8cf398a6a9a4/file.pdf) @16:00 GMT
+* [Press Release (April30)\_morning.pdf](a5cdb640f00e54e298906a1e82761d4319f8614c/file.pdf) @14:46 GMT
+
+## 2020-04-29
+
+* [Press\_Release\_(April29)\_Afternoon.pdf](fa4a708081ac0fd4638e4686e761647ec3f93fe6/file.pdf) @20:35 GMT
+* [Press\_Release\_(April29)\_morning.pdf](db74f95c997e188731a85f3c4428d57cf5e8692c/file.pdf) @14:38 GMT
+
+## 2020-04-28
+
+* [Press Release (April28)\_Afternoon.pdf](af7cf5bee2b2e3378a8d582ecfb9c59964a94561/file.pdf) @16:18 GMT
+* [Press Release (April28)\_morning.pdf](be3dffd8f139a030e768a87469945d195b968e20/file.pdf) @11:11 GMT
+
+## 2020-04-27
+
+* [Press\_Release\_(April27)\_Afternoon.pdf](ab069cf184a523f3be314e20c5f6392267654d75/file.pdf) @17:57 GMT
+* [Press\_Release\_(April27)\_morning.pdf](99f2939f760314bf0425a88c6d0a971538dfbfbf/file.pdf) @14:37 GMT
+
+## 2020-04-26
+
+* [Press Release (April26)\_afternoon.pdf](9c7ccec4f04f9be9a4f252fa323787521e195e04/file.pdf) @15:55 GMT
+* [Press Release (April26)\_morning.pdf](5adb210bbb0d8b4f6766dccd8381eaf8293421da/file.pdf) @13:38 GMT
+
+## 2020-04-25
+
+* [Press\_Release\_(April25)\_afternoon.pdf](f83f6dfdaa668beca348df4543e53ec5448f2759/file.pdf) @17:12 GMT
+* [Press\_Release\_(April25)\_morning.pdf](e159e4e3f61d35029a3855c044c5f506ae75d4d9/file.pdf) @12:51 GMT
+
 ## 2020-04-24
 
 * [Press Release (April24)\_Afternoon.pdf](2303eb1bd3e414b501879f47a72723ce223c5119/file.pdf) @19:54 GMT

@@ -1,0 +1,905 @@
+© European Centre for Disease Prevention and Control, Stockholm, 2020.
+-
+April 2020
+Coronavirus disease - 2019 (COVID-19) and
+supply of substances of human origin in
+EU/EEA - first update
+Scope of the document
+This first update of the original document is prompted by the recent scientific developments and evolution of the
+coronavirus 2019 (COVID-19) pandemic and the need to include types of substances of human origin (SoHO) that
+were not addressed in the first version (e.g. reproductive and some non-reproductive tissues and cells). The
+document aims to provide a risk assessment and management options for the safe and sustainable supply of SoHO
+to assist the European Union and European Economic Area (EU/EEA) Member States in responding to the threat
+posed by the COVID-19 pandemic. Following the rapid spread of COVID-19 in the EU/EEA and worldwide, the
+European Centre for Disease Prevention and Control (ECDC) has been publishing rapid risk assessments and
+setting out measures on how to maintain the safety and sustainability of SoHO supply [1-4]. These documents
+have also advocated the activation of pandemic plans to prepare for large outbreaks and community transmission
+of COVID-19. The first version of this document and the current update also consider the current evidence
+available on other viral respiratory pathogens, mainly the Severe Acute Respiratory Syndrome coronavirus (SARS-
+CoV), the Middle East Respiratory Syndrome-related coronavirus (MERS-CoV), and seasonal or pandemic influenza
+viruses [5]. ECDC will update the document as and when new relevant information becomes available, or as
+required by the epidemiological situation.
+Target institutions
+National competent authorities for SoHO, blood and tissue establishments, organ and tissue procurement
+organisations and transplant centres in the EU/EEA.
+Definitions
+Substances of human origin (SoHO) include human blood, blood components, tissues, reproductive and non-
+reproductive cells and organs, as defined in EU/EEA Directives [6-8], and all of these substances when they are
+used as starting materials for the manufacture of medicinal products. In the context of the COVID-19 pandemic
+emergency and for this document, the following prioritisation is applied:
+• blood and blood components, organs and haematopoietic stem cells are considered to be ‘critical SoHO’, as
+there are usually no alternative therapies, they are often life-saving and there are limited possibilities for
+storage;
+• plasma for the manufacturing of medicinal products and tissues for life-saving transplantation (e.g. heart
+valves, skin, etc. in some cases) are considered to be ‘essential SoHO’, as they can be stored; and
+• other types of cells and tissues used to enhance the quality of life are considered to be ‘common SoHO’.
+To safeguard public health and to prevent the transmission of infectious diseases, all precautionary measures
+possible need to be taken in order to maintain the supply of safe and high-quality SoHO.
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+2
+In this document, the term ‘SoHO establishment’ refers to blood and tissue establishments, organ, tissue and cell
+procurement organisations and transplant centres, as defined in the EU/EEA directives [6-8].
+Background
+Coronavirus disease 2019 (COVID-19) emerged in December 2019 in Wuhan, the capital of Hubei province, China.
+This highly contagious disease is currently spreading across the world and throughout EU/EEA Member States, with
+a daily increase in the number of affected countries, confirmed cases and infection-related deaths. Updated data
+are published daily on the ECDC and World Health Organization (WHO) websites [9,10].
+On 30 January 2020, WHO declared that the outbreak of COVID-19 constituted a Public Health Emergency of
+International Concern (PHEIC) [11]. On 11 March 2020, based on the high levels of global spread and the severity
+of COVID-19, WHO’s Director-General declared the COVID-19 outbreak a pandemic [12].
+COVID-19 is an acute respiratory disease caused by a newly emerged zoonotic coronavirus. A positive-sense
+enveloped single-stranded RNA virus, named Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2),
+was isolated from a patient with pneumonia and connected to the cluster of acute respiratory illness cases from
+Wuhan. Genetic analysis has revealed that it is closely related to SARS-CoV and genetically clusters within the
+genus Betacoronavirus, subgenus Sarbecovirus [13].
+Detailed information about the virus, disease epidemiology, COVID-19 case definition for EU surveillance, clinical
+manifestations and risk and prevention in the population is available on ECDC’s website [9,14] and is regularly
+updated in ECDC’s rapid risk assessment [15].
+Laboratory testing
+The recommended diagnostic test method for SARS-CoV-2 infection is viral RNA detection with nucleic acid
+amplification tests (NAT), such as a real-time reverse transcriptase-polymerase chain reaction (rRT-PCR) [16].
+Testing specimens to be collected from symptomatic patients and contacts are listed in WHO’s laboratory guidance
+[16]. When necessary, results can be confirmed by genome sequencing. The European Commission working
+document on the current performance of COVID-19 test methods and devices and proposed performance criteria
+recommend using RT-PCR tests that follow one of the WHO protocols [20]. Although the project group working on
+the document has identified 78 CE-marked RNA detection tests for which manufacturers have claimed good
+performance, WHO has only shortlisted three molecular detection assays through the Emergency Use Listing
+Procedure (EUL) and the Foundation for Innovative New Diagnostics (FIND) has provided validation results for
+another five assays [18,19]. The project group concluded that 13 antigen detection tests are CE-marked but that
+information on their performance in scientific literature is scarce. In addition, the group identified 101 CE-marked
+SARS-CoV-2 antibody tests for which good sensitivity and specificity are claimed by manufacturers although this is
+not validated by third parties. Once validated, commercial antibody tests will be essential for assessing the
+seroepidemiological profile of a population and the immune status of first-line responders or healthcare personnel,
+and for guiding infection prevention and control (IPC) measures. Preliminary reports on the use of enzyme-linked
+immunosorbent assays (ELISA) have shown a good correlation of antibody titration results with virus-neutralising
+antibodies [21,22]. In general, specimen handling for molecular testing requires BSL-2 or equivalent facilities.
+Attempts to culture the virus require BSL-3 facilities as a minimum. Laboratories performing diagnostic testing for
+COVID-19 should follow national guidelines on laboratory biosafety which need to comply with WHO biosafety
+guidance for COVID-19 [23]. Laboratory testing data are regularly updated in ECDC’s rapid risk assessments [15].
+Immunity
+Current data show that IgM and IgG antibodies to SARS-CoV-2 develop between 6–15 days after disease onset
+[21,24-28]. However, we do not know whether the detected antibodies indicate that the person has acquired
+protective immunity against the disease, or how long this immunity will last. Longitudinal serological studies that
+follow patients’ immunity over an extended period will provide the relevant information.
+Prophylaxis and treatment options
+While several potential COVID-19 vaccines are under development, the European Medicines Agency (EMA) expects
+that it may take at least one year before a vaccine is approved and available for widespread use [29].
+Medical treatment for COVID-19 is symptomatic. Moderate to severely ill patients require supportive care and
+sometimes oxygen supplementation. At present, no medicine has demonstrated itself to be effective in the
+treatment of COVID-19. Pharmaceuticals are undergoing clinical trials to assess their safety and efficacy as
+potential treatments for COVID-19 and include the antiviral nucleotide analogue remdesivir; systemic interferons
+(in particular interferon β-1a); the antiviral combination lopinavir/ritonavir; the antimalarial
+chloroquine/hydroxychloroquine and monoclonal antibodies against components of the immune system such as
+interleukin-6 (IL-6) and IL-4 [29]. The potential treatments must be carefully assessed in randomised controlled
+trials (RCTs). EMA has published recommendations on compassionate use of the investigational antiviral agent
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+3
+remdesivir [30] and on clinical trials or emergency programmes for the use of chloroquine/hydroxychloroquine
+[31]. Systemic use of steroids for COVID-19 pneumonia is not recommended because they might increase the viral
+replication and shedding of the virus, along with other steroid-related side effects [32].
+Convalescent plasma (plasma of patients recovered from COVID-19 which contains specific anti-SARS-CoV-2
+antibodies) is under investigation for the treatment of patients with COVID-19. Despite some study limitations, the
+improved outcomes in recipients of convalescent plasma obtained in two recent small studies in China [33,34]
+support investigating this therapy further in adequately designed clinical trials. Blood services and academic
+hospitals in several EU countries and the USA [35,36] have reported activities for collection and transfusion of
+convalescent plasma [37]. The EU Commission, in cooperation with ECDC, national competent authorities for blood
+safety and national blood establishments, has published an EU programme of COVID-19 convalescent plasma
+collection and supply [36]. It aims to launch a coordinated and effective approach to the collection of convalescent
+plasma across the EU, supporting the possible treatment of seriously ill patients within observational studies or
+randomised clinical trials and case-controls studies and, in the longer term, the development of immune globulin
+concentrates by industry. The programme includes the development and hosting of a database to monitor
+convalescent plasma donation and use. The database will be developed and hosted by the European Commission
+(DG DIGIT), in compliance with Regulations 2016/679 and 2018/17/25 and will be designed in collaboration with
+the European Blood Alliance (EBA).
+COVID-19 pandemic and SoHO
+Maintaining a safe, sufficient and accessible SoHO supply during a pandemic is vital for public health. It is therefore
+critical that SoHO establishments recognise the potential impact of the pandemic on the safe and sufficient supply
+of SoHO and adequately respond to ensure the maintenance of core services.
+In assessing the risk posed by the COVID-19 pandemic to SoHO supply, it is necessary to consider the extent of
+geographical spread, level of community circulation and local epidemiology of COVID-19 in parallel with the given
+public health response and healthcare system capacities of the country in question [38]. Taking into account the
+above-mentioned considerations, we identified the following risks to SoHO posed by the COVID-19 pandemic:
+• risk to the viral safety of SoHO
+• risk to SoHO recipients
+• risk to staff in SoHO establishments,
+• risk affecting sufficiency and sustainability of SoHO supply.
+Risk to the viral safety of SoHO
+Although SARS-CoV-2 is transmitted from human to human via respiratory droplets, the potential presence of the
+virus in the blood and bodily fluids, cells, tissues and organs may be considered a threat to the viral safety of
+SoHO.
+Blood and blood components
+Respiratory viruses generally attach to receptors in the airways (except adenoviruses [39]) and therefore the
+feasibility of blood-borne transmission of respiratory viruses is unknown. Furthermore, the cell-entry molecules for
+SARS-CoV-2, the human angiotensin-converting enzyme 2 (hACE 2) receptors, are not detected in red blood cells,
+and are absent or present in very limited amounts in immunocytes and lymphatic cells [40]. This implies that
+SARS-COV-2 infection of blood cells is unlikely.
+Limited data have shown low levels of viral RNA detected in plasma or serum from some COVID-19 symptomatic
+patients. SARS-CoV-2 RNA was detected in six of 41 patients (15%) [41] and one of six patients (15%) in China
+but only in one of 12 patients (8%) in the study from Singapore [42]. Another study from China, on PCR laboratory
+testing of different types of clinical specimens from COVID-19 patients, reported only three PCR positive samples
+(1%) out of 307 blood samples [43]. The results of PCR testing of serum samples in six viraemic patients suggest a
+very low viral load in specimens [41]. Viral RNA has also been detected in the urine of symptomatic patients [44].
+Cases of asymptomatic COVID-19 have been reported [39-42], although their proportion among all infected
+persons remains unknown. Pre-symptomatic transmission may occur 1–3 days before the source patient develops
+symptoms [47].
+Four SARS-CoV-2 RNA-positive blood donations from asymptomatic donors were detected during a routine and
+retrospective laboratory screening in Wuhan Blood Centre, China [45]. While two donors were asymptomatic at the
+time and after donation, another two developed symptoms after donation. One of the donations was discarded.
+The transfusion history of the other three donations is missing. At the time of donation, donors tested negative for
+specific IgG and IgM against SARS-CoV-2 by ELISA. Since the RNA-positive results have not been confirmed by
+another reliable PCR test, or tested for the presence of infectious SARS-CoV-2 virions, it is unclear whether this
+occurrence of SARS-CoV-2 RNA-positive donations from asymptomatic and pre-symptomatic blood donors also
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+4
+implies the possibility of COVID-19 transmission via transfusion. Data from Germany on a small sample of patients
+showed that no SARS-CoV-2 genome could be detected in the blood of asymptomatic patients or patients with less
+pronounced symptoms. Virus genome was only found in the serum of a seriously ill patient. Therefore, the authors
+concluded that the risk of SARS-CoV-2 transmission through blood components in asymptomatic SARS-CoV-2
+infected individuals seems negligible, but further studies are needed [46].
+As of the time of this update, cases of transfusion-transmitted COVID-19 or other respiratory viruses (including
+SARS-CoV and MERS-CoV and other coronaviruses) have not been reported.
+Cells and tissues
+The risk assessment of COVID-19 transmission through cells and tissues is based on the possible presence of the
+virus in particular cells, the distribution of such infected cells in the tissues and organs, and possible viraemia of
+vascularised tissues.
+The absence of hACE2 receptors in immune cells in all haemato‐lymphoid organs suggests that direct viral infection
+of haematopoietic stem cells (HSC) and cord blood is unlikely [41]. However, since SARS-CoV-2 RNA has been
+detected in blood [41-43,45] and there are uncertainties about the vertical transmission of COVID-19 from mother
+to child, the risk of the SARS-CoV-2 being present in HSC and cord blood donated by infected asymptomatic donors
+cannot be excluded.
+The presence of SARS-CoV-2 RNA has been detected and the virus isolated in tears and conjunctival secretions of
+patients with COVID-19 [47-49]. In a study from China, one-third of 38 COVID-19 patients had conjunctivitis,
+including conjunctival hyperaemia, chemosis, epiphora, or increased secretions. However, only two of the patients
+with conjunctivitis were positive for the presence of SARS-CoV-2 RNA from both conjunctival and nasopharyngeal
+swabs [48]. This indicates the possibility of ocular transmission of the disease through contact with infected
+secretions or transplantation of ocular tissues donated by an infected donor. Corneal transplants are usually
+disinfected with PVP iodine (before removal and often before preparation of the tissue bank) and then stored in
+organ culture at ~ 30−37° degrees for at least 14 days [50]. The presence of viruses capable of reproduction after
+this procedure seems very unlikely. These data and the absence of known ocular transmission cases indicate that
+the risk of COVID-19 cases entering the eye donor pool and subsequent transmission is theoretical.
+As of the time of this update, there were no reports of sexual transmission of COVID-19. No published evidence
+supports the presence or transmission of SARS-CoV-2 via sperm or oocytes. It is assumed that the virus cannot infect
+gametes because they lack hACE2 receptors, the cell-entry points for the virus. These receptors are expressed only in
+the testicular Leydig and Sertoli cells [51,52] and in ovary cells [53]. Whether hACE2 is present in spermatozoids and
+oocytes is unclear. The repeated washing steps required for the culture and freezing of gametes and embryos will
+result in high dilution of any possible secondary contaminations in the IVF laboratory [54].
+Clinical manifestations of COVID-19 in pregnant women range from asymptomatic to mild symptoms, sometimes
+with atypical findings such as leucocytosis and higher prevalence of consolidation lesions in the computed
+tomography (CT) images [55-57]. There are reports of pregnant women being admitted to ICUs [58].To our
+knowledge, only two maternal deaths due to acute respiratory distress syndrome (ARDS) have been reported [59].
+Overall, it seems that pregnancy and delivery do not aggravate the severity and maternal outcomes of COVID-19
+pneumonia.
+A recent study on 38 neonates delivered by women with COVID-19 showed no SARS-CoV-2 infection in the
+neonates; even though some of the neonates had perinatal complications with SARS-CoV-2 positive placenta
+[60,61] . Reports of perinatal transmission of COIVID-19 are emerging [62-64]. Although neonatal cases of COVID-
+19 have been confirmed [64-66] and IgM and IgG antibodies against the virus have been detected in three new-
+borns [67,68], more evidence is necessary to support the possibility of vertical transmission of COVID-19 infection
+from mother to child [62,69].
+Organs
+The organs that have a high expression of hACE2 receptors are the lungs, heart and kidneys [70-73]. High hACE2
+expression was identified in type II alveolar cells (AT2) of lung [74,75], oesophagus upper and stratified epithelial
+cells, absorptive enterocytes from ileum and colon [75], cholangiocytes [76], myocardial cells, kidney proximal
+tubule cells, and bladder urothelial cells [70]. These findings indicate that organs with high hACE2-expressing cells
+should be considered as a potentially high risk for SARS-CoV-2 infection [70]. Nevertheless, donor-derived COVID-
+19 in solid organ transplant recipients has not been reported.
+Based on current knowledge of hACE2 distribution in human cells, the absence of evidence for infectivity of SARS-
+CoV-2 RNA detectable in blood or serum and a lack of reports of transfusion and transplantation-transmitted cases,
+the risk of COVID-19 transmission through SoHO appears to remain theoretical. Routine donor screening should
+prevent individuals with clinically manifest respiratory infections, including COVID-19, from donating SoHO.
+However, uncertainties surrounding viraemia during the incubation period, during an asymptomatic course of
+infection, or after symptom resolution continues to be of concern in relation to the viral safety of SoHO.
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+5
+Risk to SoHO recipients
+During a pandemic, SoHO recipients are at increased risk of being infected and developing severe illness after
+exposure to the virus in the community or hospitals. Donor-derived COVID-19 in transplanted or transfused
+patients has not been reported yet. Immunosuppression after transplantation renders transplant recipients
+susceptible to viral infections including SARS-CoV-2. Post-transplant COVID-19 with severe clinical symptoms and
+occasional fatalities has been described in kidney [77-83], liver [84-86] or haematopoietic stem cell (HSC) [77]
+transplant recipients. Preliminary data collected by the European Society of Blood and Marrow Transplantation
+(EBMT) among 34 allogeneic and 10 autologous HSC transplant patients show that early mortality (at about two
+weeks after diagnosis) was approximately 20% in allogeneic HSC transplant recipients and 10% in autologous HSC
+transplant recipients (Webinar EBMT-ASTCT 15 April 2020). Deaths have previously been reported in a liver
+transplant recipient with SARS-CoV infection and two renal transplant recipients with MERS-CoV infection [87,88].
+A SARS case has been reported in a recipient of an allogeneic bone marrow transplant for acute myeloid leukaemia
+[89]. Due to immunosuppression, transplant recipients may have increased and prolonged shedding of virus, thus
+potentially increasing the risk of transmission to contacts, including healthcare workers [87]. Solid-organ transplant
+recipients may present atypical COVID-19 symptoms, starting with gastrointestinal signs and fever, which then
+progresses to respiratory symptoms [90]. Current data show that organ and HSC transplant recipients are a high-
+risk population for infection with SARS-CoV-2 that may affect their morbidity and mortality. The risk of non-
+immunosuppressed recipients of blood, cell and tissues seems to be same as for other patients in hospital care.
+The management of COVID-19 in the post-transplant setting presents complex challenges, emphasising the
+importance of strict prevention strategies. In these high-risk populations, protocols for screening for SARS-CoV-2
+may need to be re-evaluated.
+Risk to staff in SoHO establishments
+In SoHO establishments, organ procurement organisations and transplant centres, employees may be exposed to
+SARS-CoV-2 via close contact with other staff members, touching contaminated surfaces, and during the
+donation/transplant process through contacts with living donors, deceased donors and potential recipients (and
+their relatives), and with their bodily fluids. Transmission in the working environment is a well-recognised route
+and the risk of infection depends on the nature of the work and the proximity of contacts [91]. Occasionally, an
+infectious donor who is asymptomatic, pre-symptomatic, or has very mild symptoms may be accepted for donation.
+During the donation process, such a donor can infect attending staff or other donors in the waiting rooms of blood
+donation facilities. The respiratory route of transmission from a donor to a member of staff is more likely than
+through parenteral routes (including phlebotomy during blood donation). At the time of writing this update, SoHO
+establishments have not reported any such cases. Although it seems that that such a route of transmission is not
+very likely, responsible management and employees should not neglect these risks.
+Risk to sufficiency and sustainability of SoHO supply
+The nature of COVID-19 transmission, the extensive spread and experience from previous outbreaks of other
+respiratory viruses, including SARS-CoV and MERS-CoV [92-94], indicate that the COVID-19 pandemic may pose a
+significant risk to maintaining a sufficient and sustainable supply of SoHO. COVID-19 may affect both donor and
+recipient populations, SoHO establishment staff and demand or supply of SoHO, and critical materials and
+equipment. Blood supply is particularly vulnerable as it requires daily frequent blood donations, and labile blood
+components have limited storage time and are generally irreplaceable. Due to the inherent complexity and
+individualised donor/recipient approach, the transplantation of solid organs and HSC is also sensitive to the impact
+of the pandemic on the organisation, coordination and control of all crucial activities and services at local, regional,
+national and international level. During the pandemic, a decrease in the availability of donors and staff may have
+an impact on the donation of plasma for fractionation which is a precious biological resource used as a raw
+material to manufacture essential, life-saving, plasma-derived medicinal products (PDMPs), including clotting
+factors, albumin, and immunoglobulins. The main factors that may have an impact on the sufficiency and
+sustainability of SoHO supply are listed below.
+Temporary loss of donors
+Living donors may be unable to donate because they have COVID-19, are in isolation, are self-isolating after
+contact with a confirmed case of COVID-19 or are practising physical distancing. Other factors that may play a role
+are restrictions placed on public transportation, work commitments, the need to care for family members, or a
+reluctance to donate due to fear of being infected. COVID-19-specific donor selection criteria may also contribute
+to the decrease of donors, although to a lesser extent. During the peak of the 2003 SARS epidemic in Singapore, a
+decrease of 60% was seen in donors coming forward to donate blood [93]. Since the start of the COVID-19
+pandemic, several countries across Europe have experienced a drop in the number of blood donations. So far,
+there have been no reports of serious disruptions in the supply of blood or blood components in the EU/EEA
+Member States. In March, the UK experienced a 15% decrease in the weekly number of blood donations at
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+6
+national level [95]. Italy had a regional drop in Lombardy and other heavily affected regions. These shortages have
+been largely mitigated by a drop in demand due to the cancellation of elective operations and increased/adapted
+donor recruitment activities. The latest data show that there has been a decrease in the number of donors of
+plasma for manufacturing medicinal products. This drop may have an impact on the supply of PDMPs later this
+year. A restriction in the number of ICU beds available for both donors and transplant recipients may unfavourably
+influence overall donation activity, and eventually lead to a reduced number of transplants. Preliminary Italian data
+show that there was already a 25% reduction in the number of organs procured during the first four weeks of the
+COVID-19 outbreak [96]. During the first five weeks of the pandemic, Spain reported a decrease in organ donation
+and transplantation by 85% [97].
+Temporary SoHO establishment staff absence
+It is anticipated that absenteeism among staff working in SoHO establishments during the COVID-19 pandemic will
+be higher than normal. Absence from work increases during epidemics or pandemics for a variety of reasons. Staff
+may not be able to go to work due to transportation restrictions, community measures, illness, isolation/self-
+isolation, or fear of being infected. The magnitude of absenteeism will depend on the local extent of the COVID-19
+outbreak. Published employee absenteeism rates estimated during an influenza pandemic have ranged from 10 to
+40 per cent [98]. According to a media report quoting the Scottish government, at the beginning of April 2020
+more than 14% of NHS Scotland staff were off work. About 41% of those absences were related COVID-19
+(https://www.bbc.com/news/uk-scotland-52133634).
+Clinical demand for SoHO
+The hospital response to the COVID-19 outbreak should include the following two goals: to facilitate the care of
+patients with known or suspected COVID-19, and to reduce the risk of intra-hospital viral transmission to
+healthcare workers and other patients. These measures may reduce demand for some essential SoHO due to a
+probable reduction in elective healthcare and the postponing of non-essential SoHO therapies. Implementation of
+patient blood management (PBM), a thorough evaluation of the appropriateness of blood component requests and
+a reduction in elective surgery/healthcare with medium-high consumption of blood components is strongly
+advisable.
+Supply of critical material and equipment
+The COVID-19 pandemic will probably influence the supply chain of medical devices, critical material, reagents,
+technical equipment and personal protective equipment, causing potential disruptions in supply and shortages of
+critical products. The pandemic may also affect transportation and trade due to travel restrictions, quarantine
+requirements, border control measures and disrupted production. This may also affect the national and global
+supply chain of critical materials and equipment used in the collection, laboratory testing, processing, storage,
+distribution and clinical use of SoHO. The disrupted supply chain may include goods that are sourced or
+manufactured in areas with COVID-19 sustained community transmission or those that are in high demand due to
+increased usage (e.g. masks, gloves and hand sanitisers.) The disrupted supply chain for medical products, critical
+material and equipment (including maintenance) therefore poses a risk to the sustainable and sufficient supply of
+SoHO.
+Transportation
+Transportation and travel limitations may disrupt supply of essential SoHO, including organs for transplantation,
+HSC (peripheral, bone marrow and cord blood), blood and blood components, tissues for lifesaving transplantation
+and plasma for manufacturing medicinal products [4] within the country and internationally. In this respect the EU
+Commission has published a Note for the Attention of National Competent Authorities, to facilitate cross-border
+shipments of SoHO as essential goods and services within the Community and from non-EU countries [99].
+Mitigation measures
+According to available data on the epidemiology and pathogenesis of COVID-19, SoHO safety authorities in the
+EU/EEA countries should continue with precautionary actions to mitigate the potential risks to the viral safety of
+SoHO. With the increased spread of COVID-19 and extensive public health measures implemented in the EU/EEA,
+SoHO authorities and establishments should still prioritise efforts to manage the sustainability and sufficiency of
+the national SoHO supply. Measures should be as proportionate as possible to the evolution of the pandemic in real
+time and consistent with governmental and public health advice. Authorities should pay special attention to
+mitigating the risk of COVID-19 in transplant recipients. As some countries are starting to gradually ease measures
+to contain the COVID-19 epidemic, it is crucial that SoHO establishments, remain vigilant and keep precautionary
+measures in force until the pandemic is declared over.
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+7
+Mitigation of risks to the safety of SoHO
+Measures to prevent the theoretical risk of COVID-19 transmission through SoHO are precautionary. The measures
+set out below can be implemented by SoHO establishments and plasma collection centres.
+Blood, blood components and plasma for manufacturing of medicinal
+products
+Donor information
+Blood establishments and plasma collection centres should inform blood and plasma donors of the nature and
+clinical signs of COVID-19, transmission risks and related donation restrictions, as this will help them make
+decisions on self-deferral from a donation.
+Donor selection
+Standard donor selection procedures involving the taking of medical and behavioural history and a physical
+examination should focus on possible exposure and travel as well as clinical signs of acute respiratory infection.
+Pre-selection measures
+• Contacting donors by telephone to schedule donation and to inform about the selection procedure
+• Considering the triage of donors at reception, including measurement of body temperature
+• Temporary deferral of donors with a body temperature of 37.5°C or above and counselling to act in
+accordance with the national public health recommendations for COVID-19.
+Donor selection criteria
+• Donors with confirmed COVID-19 are not eligible for blood or plasma donation.
+• Donors possibly exposed to SARS-CoV-2 may donate blood or plasma at least 14 days after the last contact
+with a confirmed case of COVID-19 or after returning from a country with sustained COVID-19 transmission.
+• Donors who have recovered from confirmed COVID-19 may donate blood/plasma at least 14 days after laboratory
+evidence of viral RNA clearance from the upper respiratory tract or at least 28 days after symptom resolution.
+Pre-selection measures are intended to regulate the donor flow at the collection facility, enable physical distancing
+and detect potentially infectious donors by triage. The exclusion of such donors may prevent the possible spread of
+the virus in waiting rooms and help with donor selection.
+Post-donation information and haemovigilance reporting
+Blood establishments should also encourage donors to provide information on their health (including respiratory
+infection) by telephone or other means of communication within 14 days of donation.
+Quarantine of blood and blood components with delayed release
+In the event of widespread and sustained transmission of COVID-19, one option is a quarantine of blood
+components, with a delayed release once the donor has confirmed an absence of subsequent illness. However, due
+to the disruption of existing processes and workflows, this may lead to an increase in the number of errors.
+Therefore, this approach is not recommended.
+Temporary interruption or rescheduling of donations
+Introducing a temporary interruption in donations in areas with sustained transmission may affect the sustainability
+of essential blood supply. Therefore, blood establishments and plasma donation centres should accommodate their
+donation activities to ensure the blood supply to hospitals and plasma for fractionation. In order to maintain blood
+supply in areas with sustained transmission, consideration may be given to the sourcing of essential blood and
+blood components from non-affected parts of the country, or from other countries, if feasible.
+Derogation of mandatory donor selection criteria
+In the event of widespread transmission, blood establishments may need to adapt the measures applied to suit the
+local epidemiological situation and ensure sustainability of blood supply.
+Laboratory screening
+There is no licensed test for the screening of donated blood or plasma for the presence of the SARS-CoV-2 RNA. Screening
+is currently not recommended because transfusion-transmitted COVID-19 has not been reported; levels of detected RNA in
+plasma coinciding with clinical symptoms are very low [41] and a screening policy has not been implemented for other
+viral respiratory illnesses for which transfusion transmission remains theoretical, including influenza.
+Pathogen reduction
+Several coronaviruses are susceptible to inactivation with amotosalen or riboflavin and ultraviolet light, solvent-
+detergent, methylene blue and light, and ultraviolet C light alone when applied to platelets and fresh frozen plasma
+[100-103]. A recent study shows that a method using riboflavin and ultraviolet light may reduce SARS-CoV-2 in
+plasma and platelets below the limit of detection in tissue culture [104]. Therefore, those blood establishments
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+8
+which use pathogen reduction technology may be able to decrease the theoretical risk of COVID-19 transmission
+through platelets and fresh frozen plasma. However, the implementation of pathogen reduction technology
+requires time and resources and has some limitations, which have to be outweighed against the benefits, not only
+for the current pandemic but also for other known and emerging microbial threats to the safety of plasma and
+platelets [105].
+Large-size lipid-enveloped RNA viruses such as SARS-CoV-2 [106] should be removed and/or inactivated during the
+manufacturing of plasma derivatives [107-109], as has been demonstrated for other lipid-enveloped model viruses
+[110]. Thus, regular screening procedures for plasma donors showing clinical symptoms and the established
+processes of virus inactivation and removal during manufacturing should mitigate COVID-19 transmission through
+plasma derivatives. Therefore, the COVID-19 outbreak is not considered to be a threat to the safety of plasma
+protein therapies applying established fractionation and virus inactivating methods.
+Non-reproductive cells and tissues
+Donor interview
+A trained interviewer should inform the potential living donor of cells and tissues of the nature and clinical signs of
+COVID-19, transmission risks and related donation restrictions.
+Donor selection
+Standard donor selection procedures involving the taking of medical and behavioural history and a physical
+examination should focus on possible exposure and travel as well as clinical signs of acute respiratory infection.
+Donor selection criteria
+Living donation
+• Living donors with active confirmed COVID-19 are not eligible for donation.
+• Living donors possibly exposed to SARS-CoV-2 may donate cells and tissues at least 14 days after the last
+contact with a confirmed case of COVID-19 or after returning from a country with sustained COVID-19
+transmission.
+• Living donors recovering from confirmed COVID-19 may donate cells and tissues at least 14 days after
+laboratory evidence of viral RNA clearance from the upper respiratory tract or 28 days after symptom
+resolution.
+• Donors of HSC recovering from or possibly exposed to SARS-CoV-2 may donate earlier than recommended if
+there is an urgent patient need and no suitable alternative donor. Such a donor must be without symptoms
+and have tested negative for the presence of the viral RNA in the upper respiratory tract.
+• Cryopreservation of HSC or provision of an alternative donor as back-up are strongly recommended in
+situations where there is an increased risk that a donor would become unavailable at the time of planned
+transplantation due to community-acquired COVID-19, travel restrictions or logistical difficulties at a
+transplant centre. If the use of non-frozen HSC is planned, a potential donor must be tested for the presence
+of the viral RNA in the upper respiratory tract prior to starting the mobilisation procedure [111].
+Deceased donation
+• Deceased donors with active confirmed COVID-19 at the time of death are not eligible for tissue donation.
+• Deceased donors who have recovered from COVID-19 may donate tissues if they tested negative for the
+presence of SARS-CoV-2 RNA in upper respiratory tract specimens at least 14 days before death or if they
+became asymptomatic at least 28 days before death.
+• Tissues should not be collected from deceased donors who are without symptoms or diagnosis of COVID-19,
+and who have lived in or visited areas of sustained community transmission of the virus unless:
+− procured tissues are disinfected, sterilised or microbially inactivated using a procedure validated for
+enveloped viruses, or
+− donors tested negative for the presence of SARS-CoV-2 RNA in upper or lower respiratory tract specimens
+collected within 72 hours before procurement.
+Post-donation information and biovigilance reporting
+Tissue establishments should encourage living donors to provide information on their health (including respiratory
+infection) by telephone or other means of communication within 14 days of donation.
+Temporary interruption or rescheduling of donations
+Given the stringent community isolation and quarantine measures, a tissue establishment may consider a
+temporary suspension of cells and tissues donations that are intended for non-urgent transplantation and thus can
+be postponed.
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+9
+Pathogen reduction
+Viruses may be inactivated during the processing of some types of tissues (e.g. processed bone and decellularised
+tissues). Tissue establishments should assess the risk and evaluate the ability of such processes to
+inactivate/eliminate SARS-CoV-2 in tissues.
+Reproductive cells and tissues and medically assisted reproduction
+Non-partner sperm and oocyte donation
+Donor information and selection
+Collection centres should inform donors about the nature and clinical signs of COVID-19, transmission risks and
+related donation restrictions. Standard donor selection procedures involving the taking of medical and behavioural
+history and a physical examination should focus on possible exposure and travel, as well as clinical signs of acute
+respiratory infection.
+Donor selection criteria
+• Donors with active confirmed COVID-19 are not eligible for donation.
+• Donors possibly exposed to SARS-CoV-2 may donate sperm or oocytes at least 14 days after the last contact
+with a confirmed case of COVID-19 or after returning from a country with sustained COVID-19 transmission.
+• Donors who have recovered from confirmed COVID-19 may donate sperm or oocytes at least 14 days after
+laboratory evidence for viral RNA clearance from the upper respiratory tract or at least 28 days after symptom
+resolution.
+Assisted reproduction technologies
+Since the risk of COVID-19 transmission cannot be excluded because of the uncertain effects of SARS-CoV-2
+infection in assisted reproduction technologies (ART) and pregnancy, the European Society of Human Reproduction
+and Embryology (ESHRE) has suggested postponing assisted reproduction treatments as a precaution, to avoid any
+unnecessary risk. However, ESHRE suggested continuing with necessary cryopreservation of gametes, embryos or
+tissue in cases of urgent fertility preservation in oncology patients and performing elective oocyte or embryo
+freezing for later embryo transfer for those patients having started assisted reproduction treatment [54].
+Given the current stabilisation of the pandemic, ESHRE recommends restarting all ART treatments for any clinical
+indication. Centres planning to restart ART treatments should follow the ESHRE guidance on recommencing ART
+treatments [112].
+Solid organs for transplantation
+Transplantation information
+Transplant candidates, recipients, and potential living donors should be informed of COVID-19 and aware of the
+importance of frequent hand washing, avoiding crowds and applying physical distancing.
+Donor selection
+Living donation
+• Living donors with active COVID-19 are not eligible for organ donation.
+• Living donors possibly exposed to SARS-CoV-2 may donate organs at least 14 days after the last contact with
+a confirmed case of COVID-19 or after returning from a country with sustained COVID-19 transmission.
+• Living donors who have recovered from confirmed COVID-19 may donate organs at least 14 days after
+laboratory evidence for viral RNA clearance from the upper respiratory tract or at least 28 days after symptom
+resolution.
+• If organ transplant procedure cannot be delayed, the donor’s nasopharyngeal swab specimens should be
+tested for the presence of the viral RNA no longer than seven days before the donation.
+Deceased donation
+• Deceased donors with active COVID-19 at the time of death are not eligible for organ donation.
+• Deceased donors who are without symptoms or diagnosis of COVID-19, and who have lived in or visited
+areas of sustained community transmission may donate organs if they tested negative for the presence of
+SARS-CoV-2 RNA in upper or lower respiratory tract specimens collected within 72 hours before organ
+procurement.
+• Deceased donors who have recovered from COVID-19 may donate tissues if they tested negative for the
+presence of SARS-CoV-2 RNA in upper respiratory tract specimens at least 14 days before death or if they
+became asymptomatic at least 28 days before death.
+Temporary interruption or rescheduling of donations
+During very high local COVID-19 transmission, temporary suspension of elective living donor transplantation or
+deceased donation may need to be considered to protect the potential donor as well as the recipient.
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+10
+Mitigation of risks to transplant recipients
+Transplant centres may consider testing transplant candidates at risk of COVID-19 infection for the presence of
+SARS-CoV-2 via nasopharyngeal swab before proceeding with the transplant procedure. Due to
+immunosuppression, it is probable that transplant recipients are at increased risk of serious COVID-19. To minimise
+the risk of being infected, transplant candidates/recipients and their immediate household contacts should avoid
+any non-essential travel and overcrowded situations, practice physical distancing and frequently wash their hands.
+Experience with previous coronavirus epidemics has shown that organ and HSC transplantation authorities should develop
+measures for the management of organ recipients with COVID-19. These measures include managing transplant activities
+when the transplant centre is temporarily closed and isolating recipients if transplanted during a potential incubation period
+or in an area with sustained community transmission to protect the patient, family and hospital personnel.
+It is also important for national and international transportation of organs and other cells and tissues intended for
+transplantation to proceed uninterrupted. In geographically confined outbreaks, transplant authorities may consider
+putting transplant candidates on the waiting list at alternative centres for transplantation. Potential living donors and
+transplant recipients should be informed of the situation relating to the outbreak and possibilities for transplantation.
+Mitigation of risks to staff in SoHO establishments
+SoHO establishments should inform and educate staff on the nature of COVID-19, transmission routes, personal
+protection and other containment measures. During the donation process, medical staff should apply appropriate
+hand hygiene measures and use personal protective equipment in accordance with national public health
+guidelines [113,114]. Personal protective measures in the donation area of a SoHO establishment which is not
+located in a hospital environment should not be as stringent as in settings where staff take care of infected or
+potentially infected patients. Infection control practices and measures should be in line with the national public
+health recommendations for COVID-19 [115]. For deceased tissue and organ donation, standard protective
+garments (surgical mask, gloves and cap) required for routine procedures should provide adequate protection for
+procurement staff. Furthermore, exceptional measures, such as covering the donor’s oral and nasal cavities and
+using a face shield or protection glasses, respiratory protection masks (FFP3) and double gloves, can be adopted to
+prevent exposure to possible droplets produced when handling the procurement in deceased donors.
+In the event of an individual staff member developing an acute respiratory illness, the person should leave the
+workplace, self-isolate at home and immediately seek care, preferably first by phone, as per local guidelines.
+Increased community transmission of COVID-19 may cause absenteeism due to illness, isolation or self-isolation,
+transportation restrictions and the need to care for sick family members. SoHO establishments must anticipate this
+early on and consider pre-emptive measures to mitigate the impact on essential activities. Laboratory staff should
+follow standard laboratory biosafety practices. In the event of diagnostic testing being provided for patients or
+suspected cases, procedures for handling and testing blood samples should be in line with laboratory biosafety
+guidance for COVID-19 [116]. In terms of organisation, SoHO establishments may consider changing arrangements
+in offices/laboratories, cancelling non-essential meetings, minimising staff gatherings, holding teleconference
+meetings even if in the same building, reviewing catering arrangements, staggering staff dining and arranging for
+as many critical staff as possible to work from home.
+Mitigation of risks to an adequate and sustained supply of SoHO
+The impact of the COVID-19 pandemic is likely to be significant for SoHO establishments and will potentially affect
+the SoHO supply chain. It is therefore important that SoHO safety authorities and establishments update or
+develop and activate contingency (preparedness) plans and define actions that must be executed before, during
+and after the outbreak in order to maintain the sustainability of supply. The main objective is to make every effort
+to ensure a continued supply of safe, high-quality, life-saving products and services at the level demanded by the
+healthcare community.
+In order to respond to the risk posed by the COVID-19 pandemic to maintaining a sufficient and sustainable supply
+of SoHO and in accordance with previously suggested principles [117], EU/EEA Member States are encouraged to
+undertake the measures set out below.
+• Assess the risk posed by COVID-19 to the safety and sufficiency of SOHO supply, taking into account the
+extent and epidemiology of COVID-19 spread, public health measures implemented, status of SoHO supply
+and operational costs.
+• Ensure the inclusion of the SoHO national competent authorities and/or SoHO establishment representatives
+in the national COVID-19 outbreak contingency planning body. This will ensure that:
+− SoHO contingency planning will be included in and compatible with the national plan and also that
+communications to citizens clarify that regular blood and plasma donation are essential activities that
+are still permitted even though physical distancing rules and recommendations may apply;
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+11
+− national policies and guidance prioritise the supply of personal protective equipment, such as facemasks
+and gloves, for SoHO collection facilities and SoHO establishments, in the same way as for hospitals;
+− national border controls facilitate the passage of critical and essential SoHO.
+• Establish a mechanism for the SoHO national competent authorities and establishments to receive regular,
+up-to-date epidemiological information on the spread of COVID-19 in the country and abroad. Daily outbreak
+situation updates are available on ECDC’s website.
+• Develop national/regional contingency plans for blood, cells, tissue and organ supplies which are reviewed
+and updated constantly, in relation to the following areas:
+− risk of transmission of COVID-19 by SoHO which remains theoretical but cannot be completely excluded;
+− temporary loss of donors resulting in a reduced supply;
+− temporary loss of staff due to COVID-19;
+− changes in the clinical demand for SoHO;
+− working with national health authorities, hospitals and other responsible bodies to determine and
+monitor expected blood, plasma-derived medicinal products, cells and tissues, and organ usage during
+the COVID-19 outbreak and to plan donation activities accordingly;
+− changes in the local and general epidemiological situation in the country.
+• Support SoHO establishments and plasma collection centres in developing and implementing business
+continuity plans related to the COVID-19 outbreak. This may include activities to:
+− activate the business continuity plan and set up a business continuity management team representing
+the key functions and decision-makers in accordance with national requirements;
+− implement measures to reduce transmission of COVID-19 among employees, customers/clients, and
+partners;
+− make operational changes at blood, cell, tissue and organ donation sites (adapt the type of blood
+donation sessions to the local situation, use an appointment strategy in communicating with donors,
+extend the opening hours, etc.;
+− increase the collection of plasma for manufacturing in Europe to mitigate the risk of mid- and long-term
+PDMP supply interruptions caused by the COVID-19 pandemic;
+− maintain critical operations and services by reviewing stocks of critical supplies and increase supplies
+where possible. Regularly check with contingency partners to ensure that they can fulfil their
+commitments;
+− communicate regularly with staff so that they feel assured that the situation is being managed and
+inform them as the situation changes. Staff should be clearly informed about procedures after direct
+contact with a staff member, donor or patient who has tested positive for COVID-19, as well as the
+need for self-isolation and physical distancing.
+• Continue with the regular and effective communication between SoHO establishments, national competent
+authorities, national health authorities, ECDC, the European Commission and other stakeholders to facilitate
+an adequate and proportional response to the COVID-19 outbreak at local, national and EU/EEA level. The
+alert platforms hosted by the European Commission for communication between Member States’ SoHO
+authorities, Rapid Alert Blood and Rapid Alert Tissues and Cells platforms may be used for communication
+between national competent authorities, the European Commission and ECDC in order to share data on
+measures implemented and difficulties with supply.
+Acknowledgments
+This document was prepared by Dragoslav Domanović and reviewed by a panel of experts convened by the
+European Commission (DG Sante). The experts were nominated by Member State competent authorities for blood,
+tissues, cells and organs in Spain, France, Germany, Hungary, Italy, Poland, Greece and Malta and by the
+European Directorate for the Quality of Medicines (EDQM ) and the following SoHO stakeholder associations: the
+European Society of Human Reproduction and Embryology (ESHRE), the European Association of Tissue and Cell
+Banks (EATCB), the European Blood Alliance (EBA), the European Society for Blood and Marrow Transplantation
+(EBMT), the International Plasma Fractionators Association (IPFA), the World Marrow Donors Association (WMDA),
+the Plasma Protein Therapeutics Association (PPTA), and the European Plasma Alliance (EPA).
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+12
+References
+1. European Centre for Disease Prevention and Control. Outbreak of novel coronavirus disease 2019 (COVID-
+19): increased transmission globally – fifth update Stockholm: ECDC; 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/RRA-outbreak-novel-coronavirus-disease-2019-
+increase-transmission-globally-COVID-19.pdf
+2. European Centre for Disease Prevention and Control. Outbreak of severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2): increased transmission beyond China – fourth update. 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/SARS-CoV-2-risk-assessment-14-feb-2020.pdf
+3. European Centre for Disease Prevention and Control. Novel coronavirus disease 2019 (COVID-19) pandemic:
+increased transmission in the EU/EEA and the UK – sixth update. 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/RRA-sixth-update-Outbreak-of-novel-coronavirus-
+disease-2019-COVID-19.pdf
+4. European Centre for Disease Prevention and Control. Coronavirus disease 2019 (COVID-19) and supply of
+substances of human origin in the EU/EEA. 2020 [18 April 2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-supply-substances-human-origin.pdf
+5. European Centre for Disease Prevention and Control. Factsheet for health professionals on Coronaviruses
+2019. Available from: https://www.ecdc.europa.eu/en/factsheet-health-professionals-coronaviruses
+6. European Commission. Directive 2002/98/EC of the European Parliament and of the Council of 27 January
+2003 setting standards of quality and safety for the collection, testing, processing, storage and distribution of
+human blood and blood componentsand amending Directive 2001/83/EC. 2003. Available from: https://eur-
+lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32002L0098
+7. European Commission. Commission Directive 2004/33/EC of 22 March 2004 implementing Directive
+2002/98/EC of the European Parliament and of the Council as regards certain technical requirements for
+blood and blood components [Internet]. 2004. Available from: https://eur-lex.europa.eu/legal-
+content/EN/TXT/HTML/?uri=CELEX:32004L0033&from=EN
+8. European Commission. Directive 2010/45/EU of the European Parliament and of the Council of 7 July 2010
+on standards of quality and safety of human organs intended for transplantation. 2010. Available from:
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010L0053&from=EN
+9. European Centre for Disease Prevention and Control. COVID-19. Available from:
+https://www.ecdc.europa.eu/en/covid-19-pandemic
+10. World Health Organization. Coronavirus disease (COVID-19) outbreak 2019. Available from:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+11. World Health Organization. Statement on the second meeting of the International Health Regulations (2005)
+Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). Geneva: WHO; 2020.
+Available from: https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-
+international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-
+(2019-ncov)
+12. World Health Organization. WHO Director-General's opening remarks at the media briefing on COVID-19 - 11
+March 2020. WHO; 2020. Available from: https://www.who.int/dg/speeches/detail/who-director-general-s-
+opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
+13. Gorbalenya AE, Baker SC, Baric RS, de Groot RJ, Drosten C, Gulyaeva AA, et al. The species Severe acute
+respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nature
+Microbiology. 2 March 2020.
+14. European Centre for Disease Prevention and Control. Case definition and European surveillance for COVID-19,
+as of 2 March 2020. [18 April 2020]. Available from: https://www.ecdc.europa.eu/en/case-definition-and-
+european-surveillance-human-infection-novel-coronavirus-2019-ncov
+15. European Centre for Disease Prevention and Control. Coronavirus disease 2019 (COVID-19) in the EU/EEA
+and the UK – eighth update. Stockholm, Sweden 2020 [15 April 2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-
+disease-2019-eighth-update-8-april-2020.pdf
+16. World Health Organization. Laboratory testing for coronavirus disease (COVID-19) in suspected human cases.
+Interim guidance 19 March 2020. [cited 13 March 2020]. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/331329/WHO-COVID-19-laboratory-2020.4-
+eng.pdf?sequence=1&isAllowed=y
+17. European Commission. Current performance of COVID-19 test methods and devices and proposed
+performance criteria - Working document of Commission services 2020 [23 April 2020]. Available from:
+https://ec.europa.eu/docsroom/documents/40805
+18. World Health Organization. Coronavirus disease (COVID-19) outbreak – Emergency Use Listing Procedure
+(EUL) announcement. 2020. Available from: https://www.who.int/diagnostics_laboratory/EUL/en/
+19. FIND. SARS-COV-2 molecular assay evaluation: Results 2020 [23 April 2020]. Available from:
+https://www.finddx.org/covid-19/sarscov2-eval-molecular/molecular-eval-results/
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+13
+20. European Commission. Current performance of COVID-19 test methods and devices and proposed
+performance criteria - Working document of Commission services 2020 [23 April 2020]. Available from:
+https://ec.europa.eu/docsroom/documents/40805
+21. Okba NMA, Muller MA, Li W, Wang C, GeurtsvanKessel CH, Corman VM, et al. Severe Acute Respiratory
+Syndrome Coronavirus 2-Specific Antibody Responses in Coronavirus Disease 2019 Patients. Emerg Infect Dis.
+2020 Apr 8;26(7).
+22. Amanat F, Stadlbauer D, Strohmeier S, Nguyen T, Chromikova V, McMahon M, et al. A serological assay to
+detect SARS-CoV-2 seroconversion in humans. medRxiv. 17 March 2020.20037713.
+23. World Health Organization. Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV).
+Interim guidance, 12 February 2020. Available from: https://www.who.int/docs/default-
+source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2
+24. Woelfel R, Corman VM, Guggemos W, Seilmaier M, Zange S, Mueller MA, et al. Clinical presentation and
+virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission
+cluster. medRxiv. 5 March 2020.20030502.
+25. Zhao J, Yuan Q, Wang H, Liu W, Liao X, Su Y, et al. Antibody responses to SARS-CoV-2 in patients of novel
+coronavirus disease 2019. Clin Infect Dis. 28 March 2020.
+26. Liu W, Liu L, Kou G, Zheng Y, Ding Y, Ni W, et al. Evaluation of Nucleocapsid and Spike Protein-based ELISAs
+for detecting antibodies against SARS-CoV-2. J Clin Microbiol. 30 March 2020.
+27. Long Q-x, Deng H-j, Chen J, Hu J, Liu B-z, Liao P, et al. Antibody responses to SARS-CoV-2 in COVID-19
+patients: the perspective application of serological tests in clinical practice. medRxiv. 18 March
+2020.20038018.
+28. Wan WY, Lim SH, Seng EH. Cross-reaction of sera from COVID-19 patients with SARS-CoV assays. medRxiv.
+17 March 2020.20034454.
+29. European Medicines Agency. Update on treatments and vaccines against COVID-19 under development.
+2020. Available from: https://www.ema.europa.eu/en/news/update-treatments-vaccines-against-covid-19-
+under-development
+30. European Medicines Agency. EMA provides recommendations on compassionate use of remdesivir for COVID-
+19. 2020. Available from: https://www.ema.europa.eu/en/news/ema-provides-recommendations-
+compassionate-use-remdesivir-covid-19
+31. European Medicines Agency. COVID-19: chloroquine and hydroxychloroquine only to be used in clinical trials
+or emergency use programmes. [23 April 2020]. Available from:
+https://www.ema.europa.eu/en/documents/press-release/covid-19-chloroquine-hydroxychloroquine-only-be-
+used-clinical-trials-emergency-use-programmes_en.pdf
+32. World Health Organization. Clinical management of severe acute respiratory infection when COVID-19 is
+suspected. 2020. Available from: https://www.who.int/publications-detail/clinical-management-of-severe-
+acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected
+33. Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, et al. Treatment of 5 Critically Ill Patients With COVID-19 With
+Convalescent Plasma. JAMA. 27 March 2020.
+34. Duan K, Liu B, Li C, Zhang H, Yu T, Qu J, et al. Effectiveness of convalescent plasma therapy in severe
+COVID-19 patients. Proc Natl Acad Sci U S A. 6 April 2020.
+35. U.S. Food & Drug Administration (FDA). Recommendations for Investigational COVID-19 Convalescent Plasma
+2020. Available from: https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-
+exemption-ide-process-cber/recommendations-investigational-covid-19-convalescent-plasma
+36. European Commission. An EU programme of COVID-19 convalescent plasma collection and transfusion 2020
+[15 April 2020]. Available from:
+https://ec.europa.eu/health/sites/health/files/blood_tissues_organs/docs/guidance_plasma_covid19_en.pdf
+37. Paul-Ehrlich Institute. Paul-Ehrlich-Institut Approves First COVID-19 Therapy Study with Convalescent Plasma.
+2020 [23 April 2020]. Available from: https://www.pei.de/EN/newsroom/press-releases/year/2020/07-pei-
+approves-first-covid-19-therapy-study-with-convalescent-plasma.html?fbclid=IwAR0Qwn8jYQ22ISqZuO
+38. World Health Organization. Maintaining a safe and adequate blood supply during the pandemic outbreak of
+coronavirus disease (COVID-19). Interim guidance 20 March 2020. [cited 22 April 2020].
+39. Zhang Y, Bergelson JM. Adenovirus receptors. J Virol. 2005 Oct;79(19):12125-31.
+40. Harmer D, Gilbert M, Borman R, Clark KL. Quantitative mRNA expression profiling of ACE 2, a novel
+homologue of angiotensin converting enzyme. FEBS Letters. 2002;532(1-2):107-10.
+41. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with 2019 novel
+coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506.
+42. Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, et al. Epidemiologic Features and Clinical Course
+of Patients Infected With SARS-CoV-2 in Singapore. JAMA. 3 March 2020.
+43. Wang W, Xu Y, Gao R, Lu R, Han K, Wu G, et al. Detection of SARS-CoV-2 in Different Types of Clinical
+Specimens. JAMA. 11 March 2020.
+44. Peng L, Liu J, Xu W, Luo Q, Deng K, Lin B, et al. 2019 Novel Coronavirus can be detected in urine, blood, anal
+swabs and oropharyngeal swabs samples. medRxiv. 21 February 2020.20026179.
+45. Chang L, Zhao L, Gong H, Wang L, Wang L. Severe Acute Respiratory Syndrome Coronavirus 2 RNA Detected
+in Blood Donations. Emerg Infect Dis. 2020 Apr 3;26(7).
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+14
+46. Corman VM, Rabenau HF, Adams O, Oberle D, Funk MB, Keller-Stanislawski B, et al. SARS-CoV-2
+asymptomatic and symptomatic patients and risk for transfusion transmission. medRxiv. 29 March
+2020.20039529.
+47. Xia J, Tong J, Liu M, Shen Y, Guo D. Evaluation of coronavirus in tears and conjunctival secretions of patients
+with SARS-CoV-2 infection. J Med Virol. 26 Feb 2020.
+48. Wu P, Duan F, Luo C, Liu Q, Qu X, Liang L, et al. Characteristics of Ocular Findings of Patients With
+Coronavirus Disease 2019 (COVID-19) in Hubei Province, China. JAMA Ophthalmol. 31 March 2020.
+49. Colavita F, Lapa D, Carletti F, Lalle E, Bordi L, Marsella P, et al. SARS-CoV-2 Isolation From Ocular Secretions
+of a Patient With COVID-19 in Italy With Prolonged Viral RNA Detection. Ann Intern Med. 17 April 2020.
+50. European Directorate for the Quality of Medicines & Healthcare. Guide to the quality and safety of tissues and
+cells for human application, 4th edition, Strasbourg 2019 [23 April 2020]. Available from:
+https://www.edqm.eu/en/organs-tissues-and-cells-technical-guides
+51. Douglas GC, O'Bryan MK, Hedger MP, Lee DK, Yarski MA, Smith AI, et al. The novel angiotensin-converting
+enzyme (ACE) homolog, ACE2, is selectively expressed by adult Leydig cells of the testis. Endocrinology. 2004
+Oct;145(10):4703-11.
+52. Tipnis SR, Hooper NM, Hyde R, Karran E, Christie G, Turner AJ. A human homolog of angiotensin-converting
+enzyme. Cloning and functional expression as a captopril-insensitive carboxypeptidase. J Biol Chem. 2000 Oct
+27;275(43):33238-43.
+53. Reis FM, Bouissou DR, Pereira VM, Camargos AF, dos Reis AM, Santos RA. Angiotensin-(1-7), its receptor
+Mas, and the angiotensin-converting enzyme type 2 are expressed in the human ovary. Fertil Steril. 2011
+Jan;95(1):176-81.
+54. European Society of Human Reproduction and Embryology. Assisted reproduction and COVID-19. An updated
+statement from ESHRE 2020 [cited 19 April 2020]. Available from: https://www.eshre.eu/Press-Room/ESHRE-News
+55. Liao X, Yang H, Kong J, Yang H. Chest CT Findings in a Pregnant Patient with 2019 Novel Coronavirus
+Disease 2020. Available from: http://balkanmedicaljournal.org/uploads/pdf/pdf_BMJ_2196.pdf
+56. Liu H, Liu F, Li J, Zhang T, Wang D, Lan W. Clinical and CT imaging features of the COVID-19 pneumonia:
+Focus on pregnant women and children. J Infect. 20 March 2020.
+57. Chen S, Liao E, Cao D, Gao Y, Sun G, Shao Y. Clinical analysis of pregnant women with 2019 novel
+coronavirus pneumonia. J Med Virol. 28 March 2020.
+58. Mullins E, Evans D, Viner RM, O'Brien P, Morris E. Coronavirus in pregnancy and delivery: rapid review.
+Ultrasound Obstet Gynecol. 17 March 2020.
+59. Karimi-Zarchi M, Neamatzadeh H, Dastgheib SA, Abbasi H, Mirjalili SR, Behforouz A, et al. Vertical
+Transmission of Coronavirus Disease 19 (COVID-19) from Infected Pregnant Mothers to Neonates: A Review.
+Fetal Pediatr Pathol. 2020 Apr 2:1-5.
+60. Schwartz DA, Graham AL. Potential Maternal and Infant Outcomes from (Wuhan) Coronavirus 2019-nCoV
+Infecting Pregnant Women: Lessons from SARS, MERS, and Other Human Coronavirus Infections. Viruses.
+2020 Feb 10;12(2).
+61. Schwartz DA. An Analysis of 38 Pregnant Women with COVID-19, Their Newborn Infants, and Maternal-Fetal
+Transmission of SARS-CoV-2: Maternal Coronavirus Infections and Pregnancy Outcomes. Arch Pathol Lab
+Med. 17 March 2020.
+62. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang W, et al. Clinical characteristics and intrauterine vertical
+transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical
+records. Lancet. 2020 Mar 7;395(10226):809-15.
+63. Li Y, Zhao R, Zheng S, Chen X, Wang J, Sheng X, et al. Lack of Vertical Transmission of Severe Acute
+Respiratory Syndrome Coronavirus 2, China. Emerg Infect Dis. 2020 Jun 17;26(6).
+64. Zeng L, Xia S, Yuan W, Yan K, Xiao F, Shao J, et al. Neonatal Early-Onset Infection With SARS-CoV-2 in 33
+Neonates Born to Mothers With COVID-19 in Wuhan, China. JAMA Pediatr. 26 March 2020.
+65. Yu N, Li W, Kang Q, Xiong Z, Wang S, Lin X, et al. Clinical features and obstetric and neonatal outcomes of
+pregnant patients with COVID-19 in Wuhan, China: a retrospective, single-centre, descriptive study. Lancet
+Infect Dis. 24 March 2020.
+66. Wang X, Zhou Z, Zhang J, Zhu F, Tang Y, Shen X. A case of 2019 Novel Coronavirus in a pregnant woman
+with preterm delivery. Clin Infect Dis. 28 Februay 2020.
+67. Dong L, Tian J, He S, Zhu C, Wang J, Liu C, et al. Possible Vertical Transmission of SARS-CoV-2 From an
+Infected Mother to Her Newborn. JAMA. 26 March 2020.
+68. Zeng H, Xu C, Fan J, Tang Y, Deng Q, Zhang W, et al. Antibodies in Infants Born to Mothers With COVID-19
+Pneumonia. Jama. 26 March 2020.
+69. Fan C, Lei D, Fang C, Li C, Wang M, Liu Y, et al. Perinatal Transmission of COVID-19 Associated SARS-CoV-2:
+Should We Worry? Clin Infect Dis. 17 March 2020.
+70. Zou X, Chen K, Zou J, Han P, Hao J, Han Z. Single-cell RNA-seq data analysis on the receptor ACE2
+expression reveals the potential risk of different human organs vulnerable to 2019-nCoV infection. Frontiers of
+Medicine. 12 March 2020.
+71. Gembardt F, Sterner-Kock A, Imboden H, Spalteholz M, Reibitz F, Schultheiss HP, et al. Organ-specific
+distribution of ACE2 mRNA and correlating peptidase activity in rodents. Peptides. 2005 Jul;26(7):1270-7.
+72. Xu H, Zhong L, Deng J, Peng J, Dan H, Zeng X, et al. High expression of ACE2 receptor of 2019-nCoV on the
+epithelial cells of oral mucosa. Int J Oral Sci. 2020 Feb 24;12(1):8.
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+15
+73. Zou X, Chen K, Zou J, Han P, Hao J, Han Z. Single-cell RNA-seq data analysis on the receptor ACE2
+expression reveals the potential risk of different human organs vulnerable to 2019-nCoV infection. Front Med.
+12 March 2020.
+74. Zhao Y, Zhao Z, Wang Y, Zhou Y, Ma Y, Zuo W. Single-cell RNA expression profiling of ACE2, the putative
+receptor of Wuhan 2019-nCov. bioRxiv. 26 January 2020.919985.
+75. Zhang H, Kang Z, Gong H, Xu D, Wang J, Li Z, et al. The digestive system is a potential route of 2019-nCov
+infection: a bioinformatics analysis based on single-cell transcriptomes. bioRxiv. 30 January 2020.927806.
+76. Chai X, Hu L, Zhang Y, Han W, Lu Z, Ke A, et al. Specific ACE2 Expression in Cholangiocytes May Cause Liver
+Damage After 2019-nCoV Infection. bioRxiv. 3 February 2020.931766.
+77. Huang J, Lin H, Wu Y, Fang Y, Kumar R, Chen G, et al. COVID-19 in post-transplantation patients- report of
+two cases. Am J Transplant. 3 April 2020.
+78. Zhu L, Xu X, Ma K, Yang J, Guan H, Chen S, et al. Successful recovery of COVID-19 pneumonia in a renal
+transplant recipient with long-term immunosuppression. Am J Transplant. 17 March 2020.
+79. Chen S, Yin Q, Shi H, Du D, Chang S, Ni L, et al. A familial cluster, including a kidney transplant recipient, of
+Coronavirus Disease 2019 (COVID-19) in Wuhan, China. Am J Transplant. 3 April 2020.
+80. Wang J, Li X, Cao G, Wu X, Wang Z, Yan T. COVID-19 in a Kidney Transplant Patient. Eur Urol. 6 April 2020.
+81. Marx D, Moulin B, Fafi-Kremer S, Benotmane I, Gautier G, Perrin P, et al. First case of COVID-19 in a kidney
+transplant recipient treated with belatacept. Am J Transplant. 13 April 2020.
+82. Zhang H, Chen Y, Yuan Q, Xia QX, Zeng XP, Peng JT, et al. Identification of Kidney Transplant Recipients with
+Coronavirus Disease 2019. Eur Urol. 2 April 2020.
+83. Banerjee D, Popoola J, Shah S, Ster IC, Quan V, Phanish M. COVID-19 infection in kidney transplant
+recipients. Kidney Int. 2020.
+84. Huang JF, Zheng KI, George J, Gao HN, Wei RN, Yan HD, et al. Fatal outcome in a liver transplant recipient
+with COVID-19. Am J Transplant. 10 April 2020.
+85. Bhoori S, Rossi RE, Citterio D, Mazzaferro V. COVID-19 in long-term liver transplant patients: preliminary
+experience from an Italian transplant centre in Lombardy. Lancet Gastroenterol Hepatol. 9 April 2020.
+86. Bin L, Yangzhong W, Yuanyuan Z, Huibo S, Fanjun Z, Zhishui C. Successful Treatment of Severe COVID-19
+Pneumonia in a Liver Transplant Recipient. Am J Transplant. 3 April 2020.
+87. Kumar D, Tellier R, Draker R, Levy G, Humar A. Severe Acute Respiratory Syndrome (SARS) in a liver
+transplant recipient and guidelines for donor SARS screening. Am J Transplant. 2003 Aug;3(8):977-81.
+88. AlGhamdi M, Mushtaq F, Awn N, Shalhoub S. MERS CoV infection in two renal transplant recipients: case
+report. Am J Transplant. 2015 Apr;15(4):1101-4.
+89. Lam MF, Ooi GC, Lam B, Ho JC, Seto WH, Ho PL, et al. An indolent case of severe acute respiratory
+syndrome. Am J Respir Crit Care Med. 2004 Jan 1;169(1):125-8.
+90. Guillen E, Pineiro GJ, Revuelta I, Rodriguez D, Bodro M, Moreno A, et al. Case report of COVID-19 in a kidney
+transplant recipient: Does immunosuppression alter the clinical presentation? Am J Transplant. 20 March 2020.
+91. European Agency for Safety and Health at Work. Coronavirus disease (COVID-19) outbreak and workplace
+safety and health 2020 [18 April 2020]. Available from: https://osha.europa.eu/en/highlights/coronavirus-
+disease-covid-19-outbreak-and-workplace-safety-and-health
+92. Shan H, Zhang P. Viral attacks on the blood supply: the impact of severe acute respiratory syndrome in
+Beijing. Transfusion. 2004 Apr;44(4):467-9.
+93. Teo D. Blood suplly management during an influenza pandemic. . ISBT Science series. 2009 (4(n2)):293-8.
+94. Kwon SY, Lee EH, Kim HSe. Middle East Respiratory Syndrome Coronavirus (MERS-COV) outbreak in South
+Korea: risk management at the Korean Red Cross Seoul Nambu Blood Center (abstract). Vox Sanguinis.
+2015;109:18.
+95. NHS Blood and Transplant. Extra safety measures after coronavirus uncertainty causes drop in donations.
+2020. Available from: https://www.blood.co.uk/news-and-campaigns/news-and-statements/extra-safety-
+measures-after-coronavirus-uncertainty-causes-drop-in-donations/
+96. Angelico R, Trapani S, Manzia TM, Lombardini L, Tisone G, Cardillo M. The COVID-19 outbreak in Italy: initial
+implications for organ transplantation programs. Am J Transplant. 3 April 2020.
+97. Spanish National Transplant Organization. COVID-19: Impact on donation and transplant activity. 2020 [22
+April 2020]. Available from: http://www.ont.es/infesp/Paginas/Impacto_tx.aspx
+98. Thanner MH, Links JM, Meltzer MI, Scheulen JJ, Kelen GD. Understanding estimated worker absenteeism
+rates during an influenza pandemic. Am J Disaster Med. 2011 Mar-Apr;6(2):89-105.
+99. European Commission. COVID-19 and Substances of Human Origin. Cross-Border shipments of SoHO as essential
+goods and servicesNote for the attention of national competent authorities, 2020 [18 April 2020]. Available from:
+https://ec.europa.eu/health/sites/health/files/blood_tissues_organs/docs/2020_soho_crossbordershipments_en.pdf
+100. Hashem AM, Hassan AM, Tolah AM, Alsaadi MA, Abunada Q, Damanhouri GA, et al. Amotosalen and
+ultraviolet A light efficiently inactivate MERS-coronavirus in human platelet concentrates. Transfus Med. 2019
+Dec;29(6):434-41.
+101. Hindawi SI, Hashem AM, Damanhouri GA, El-Kafrawy SA, Tolah AM, Hassan AM, et al. Inactivation of Middle
+East respiratory syndrome-coronavirus in human plasma using amotosalen and ultraviolet A light.
+Transfusion. 2018 Jan;58(1):52-9.
+ECDC REPORT Coronavirus disease (COVID-2019) and supply of substances of human origin in the EU/EEA – first update
+16
+102. Pinna D, Sampson-Johannes A, Clementi M, Poli G, Rossini S, Lin L, et al. Amotosalen photochemical
+inactivation of severe acute respiratory syndrome coronavirus in human platelet concentrates. Transfus Med.
+2005 Aug;15(4):269-76.
+103. Keil SD, Bowen R, Marschner S. Inactivation of Middle East respiratory syndrome coronavirus (MERS-CoV) in
+plasma products using a riboflavin-based and ultraviolet light-based photochemical treatment. Transfusion.
+2016 Dec;56(12):2948-52.
+104. Keil SD, Ragan I, Yonemura S, Hartson L, Dart NK, Bowen R. Inactivation of severe acute respiratory
+syndrome coronavirus 2 in plasma and platelet products using a riboflavin and ultraviolet light-based
+photochemical treatment. Vox Sang. 20 April 2020.
+105. Domanovic D, Ushiro-Lumb I, Compernolle V, Brusin S, Funk M, Gallian P, et al. Pathogen reduction of blood
+components during outbreaks of infectious diseases in the European Union: an expert opinion from the
+European Centre for Disease Prevention and Control consultation meeting. Blood Transfus. 2019
+Nov;17(6):433-48.
+106. Centers for Disease Control and Prevention. Coronavirus Disease 2019 (COVID-19) 2019. Available from:
+https://www.cdc.gov/coronavirus/2019-ncov/index.html
+107. Rabenau HF, Biesert L, Schmidt T, Bauer G, Cinatl J, Doerr HW. SARS-coronavirus (SARS-CoV) and the safety
+of a solvent/detergent (S/D) treated immunoglobulin preparation. Biologicals. 2005 Jun;33(2):95-9.
+108. Groner A, Broumis C, Fang R, Nowak T, Popp B, Schafer W, et al. Effective inactivation of a wide range of
+viruses by pasteurization. Transfusion. 2018 Jan;58(1):41-51.
+109. Yunoki M, Urayama T, Yamamoto I, Abe S, Ikuta K. Heat sensitivity of a SARS-associated coronavirus
+introduced into plasma products. Vox Sang. 2004 Nov;87(4):302-3.
+110. Lamarre A, Talbot PJ. Effect of pH and temperature on the infectivity of human coronavirus 229E. Can J
+Microbiol. 1989 Oct;35(10):972-4.
+111. European Society of Blood and Marrow transplantation. Coronavirus disease COVID-19: EBMT
+Recommendations, update 21 April 2020. Available from: https://www.ebmt.org/sites/default/files/2020-
+04/EBMT_COVID-19-guidelines_v.7.1%282020-04-21%29.pdf
+112. European Society of Human Reproduction and Embryology. ESHRE guidance on recommencing ART treatments. 2020
+[26 April 2020]. Available from: https://www.eshre.eu/
+113. European Centre for Disease Prevention and Control. Infection prevention and control for COVID-19 in
+healthcare settings. 2020. Available from: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-
+19-infection-prevention-and-control-healthcare-settings-march-2020.pdf
+114. World Health Organization. Advice on the use of masks the community, during home care and in health care
+settings in the context of the novel coronavirus (2019-nCoV) outbreak. 2020.
+115. European Centre for Disease Prevention and Control. Interim guidance for environmental cleaning in non-
+healthcare facilities exposed to SARS-CoV-2. 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-
+cleaning-non-healthcare-facilities.pdf
+116. World Health Organization. Laboratory biosafety guidance related to coronavirus disease 2019 (COVID-19). 2020.
+Available from: https://apps.who.int/iris/bitstream/handle/10665/331138/WHO-WPE-GIH-2020.1-eng.pdf
+117. World Health Organization. Maintaining a Safe and Adequate Blood Supply during Pandemic Influenza Guidelines
+for Blood Transfusion Services (July 2011). Available from:
+https://www.who.int/bloodsafety/publications/WHO_Guidelines_on_Pandemic_Influenza_and_Blood_Supply.pdf
+

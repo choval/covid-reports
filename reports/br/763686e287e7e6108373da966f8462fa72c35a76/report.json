@@ -1,0 +1,26 @@
+{
+    "filename": "Boletim-informativo-n---12-23042020.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/27\/Boletim-informativo-n---12-23042020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588123993,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1250219",
+        "date": "Wed, 29 Apr 2020 01:33:12 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "routecloud=1588123993.961.14297.113446; Path=\/; Secure; HttpOnly",
+        "last-modified": "Mon, 27 Apr 2020 13:22:49 GMT",
+        "etag": "\"1313ab-5a4459c82237e\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 653b8fd02b9c66ea441f0baaa36e85ec.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "YTO50-C1",
+        "x-amz-cf-id": "Gx38NQ8QvhzTK5NYviMYYo_kaND9qIwKhAV6qFRawVt3a49MrWJcvA=="
+    },
+    "lang": "pt",
+    "size": 1250219,
+    "modified": 1587993769
+}

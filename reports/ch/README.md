@@ -6,6 +6,10 @@
 * [https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 
 
+## 2020-05-01
+
+* [covid-19-wochenbericht-sentinella.pdf](2848ff7a9460a98f2d172d61c786d35bb5989ec2/file.pdf) @20:10 GMT
+
 ## 2020-04-05
 
 * [COVID-19\_Epidemiologische\_Lage\_Schweiz.pdf](73215ae2d7ef4d59770acb8ed592375a9bdb7024/file.pdf) @00:43 GMT

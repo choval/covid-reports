@@ -1,0 +1,23 @@
+{
+    "filename": "Poster AUTO.pdf",
+    "uri": "https:\/\/www.iss.it\/documents\/20126\/0\/Poster+AUTO.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588432852,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "private",
+        "content-length": "441519",
+        "content-type": "application\/pdf",
+        "last-modified": "Sun, 05 Apr 2020 09:48:43 GMT",
+        "set-cookie": "JSESSIONID=594C9D73318D9063E6C3B90ED313155C; Path=\/; HttpOnly",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1",
+        "link": "<https:\/\/www.iss.it\/o\/api\/doc rel=\"http:\/\/www.w3.org\/ns\/hydra\/core#apiDocumentation\">",
+        "content-disposition": "inline; filename=\"Poster AUTO.pdf\"",
+        "date": "Sat, 02 May 2020 15:20:51 GMT"
+    },
+    "lang": "it",
+    "size": 441519,
+    "modified": 1586080123
+}

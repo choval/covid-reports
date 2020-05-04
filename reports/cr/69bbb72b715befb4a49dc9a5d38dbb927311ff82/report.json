@@ -1,0 +1,19 @@
+{
+    "filename": "LS_CS_005_actividades_humanas.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/LS_CS_005_actividades_humanas.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363880,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 01 May 2020 20:11:20 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 01 May 2020 20:11:20 GMT",
+        "etag": "W\/\"286533-5a4a0120b3400\"",
+        "accept-ranges": "bytes",
+        "content-length": "2647347",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 2647347,
+    "modified": 1588363881
+}

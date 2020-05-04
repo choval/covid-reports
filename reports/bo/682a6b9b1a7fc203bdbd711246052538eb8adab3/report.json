@@ -1,0 +1,22 @@
+{
+    "filename": "4116-pacientes-con-coronavirus-llegan-a-1-167-en-el-pais-y-132-se-recuperan",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4116-pacientes-con-coronavirus-llegan-a-1-167-en-el-pais-y-132-se-recuperan",
+    "output": "file.pdf",
+    "downloaded": 1588363795,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 01 May 2020 20:14:18 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=0o8870gr8bk4h8aje8hvq67ah3; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Fri, 01 May 2020 20:14:18 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 636669,
+    "modified": 1588363802
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "COVID%2019-supply-substances-human-origin-first-update.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID%2019-supply-substances-human-origin-first-update.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588364119,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "581875",
+        "date": "Fri, 01 May 2020 20:15:19 GMT",
+        "server": "nginx\/1.17.6",
+        "last-modified": "Wed, 29 Apr 2020 10:10:05 GMT",
+        "etag": "\"8e0f3-5a46b26eccb70\"",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "630377234",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 f6b609af5386084c468015964bce4ded.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "GJ86muKgA6_OZvlowFqEOfVwcliugzdMlJvIU0W02d6u2xLUohzhJQ==",
+        "age": "0"
+    },
+    "lang": "en",
+    "size": 581875,
+    "modified": 1588155005
+}

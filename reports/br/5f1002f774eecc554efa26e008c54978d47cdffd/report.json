@@ -1,0 +1,26 @@
+{
+    "filename": "ECMO-COVID19.pdf",
+    "uri": "https:\/\/portalarquivos.saude.gov.br\/images\/pdf\/2020\/April\/29\/ECMO-COVID19.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363832,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "1236500",
+        "date": "Fri, 01 May 2020 20:10:32 GMT",
+        "server": "openresty\/1.15.8.1",
+        "set-cookie": "dtCookie=v_4_srv_1_sn_29AA068C3C92E7AAD76481B98DC9F514_perc_100000_ol_0_mul_1; Path=\/; Domain=.saude.gov.br",
+        "last-modified": "Wed, 29 Apr 2020 21:27:50 GMT",
+        "etag": "\"12de14-5a4749ec782b2\"",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-security-policy": "upgrade-insecure-requests",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 3b7c593400497eb41ce8e66a6c8cdc09.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "9q2i_4zGt9Nh_rs4eEaspVbefwc0UWEgMGtzpWSxQfHFEqeN9AU2gg=="
+    },
+    "lang": "pt",
+    "size": 1236500,
+    "modified": 1588195670
+}

@@ -1,0 +1,22 @@
+{
+    "filename": "4122-pilares-de-la-accion-covid-19-ministerio-de-salud",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4122-pilares-de-la-accion-covid-19-ministerio-de-salud",
+    "output": "file.pdf",
+    "downloaded": 1588542333,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 03 May 2020 21:49:58 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=g2s9887g16kcj4mt70e33rhed4; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Sun, 03 May 2020 21:49:58 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 603726,
+    "modified": 1588542339
+}

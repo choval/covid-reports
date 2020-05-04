@@ -1,0 +1,21 @@
+{
+    "filename": "nuovo_modello_autodichiarazione_editabile_maggio_2020.pdf",
+    "uri": "https:\/\/www.interno.gov.it\/sites\/default\/files\/allegati\/nuovo_modello_autodichiarazione_editabile_maggio_2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588599943,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 30 Apr 2020 21:03:44 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"648373d5321fd61:0\"",
+        "content-length": "798748",
+        "date": "Mon, 04 May 2020 13:45:43 GMT",
+        "connection": "keep-alive",
+        "server": "Microsoft-IIS\/10.0",
+        "x-n": "S"
+    },
+    "lang": "it",
+    "size": 798748,
+    "modified": 1588280624
+}

@@ -5,6 +5,58 @@
 * [https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports](https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports)
 
 
+## 2020-05-04
+
+* [2020-05-04-tha-sitrep-71-covid19-final.pdf](2038dc065054821722e137c1dd1846b6b66848ad/file.pdf) @13:39 GMT
+
+## 2020-05-03
+
+* [2020-05-02-tha-sitrep-70-covid19-th.pdf](684ae27cafe329999705aed6b0a6564cb2eea5e8/file.pdf) @07:58 GMT
+* [2020-05-02--tha-sitrep-70-covid19-final-en.pdf](4f4ca1d0c21972d6b03d2807c67ad3ab512c9bfe/file.pdf) @06:45 GMT
+
+## 2020-05-02
+
+* [2020-05-01-tha-sitrep-69-covid19-th.pdf](bf1e80b7558fdf36949b4acdb9296b4185a8a9b6/file.pdf) @14:23 GMT
+* [2020-05-02-tha-sitrep-70-covid19-en.pdf](dda7c5b4c54e6754320226ea7fda3f5169312a6c/file.pdf) @14:02 GMT
+
+## 2020-05-01
+
+* [2020-05-01-tha-sitrep-69-covid19.pdf](ae5a2f05131fe4e846deb95c2f9dc56869d19fab/file.pdf) @14:25 GMT
+* [2020-05-01-tha-sitrep68-th.pdf](f0b3791058e516573c80e82eb7c1454b207c774a/file.pdf) @08:57 GMT
+* [2020-04-29-tha-sitrep-67-covid19-th-r02.pdf](1094ca47c517721a5088abffe12fb6c5ad08d410/file.pdf) @08:55 GMT
+
+## 2020-04-30
+
+* [2020-04-30-tha-sitrep-68-covid19.pdf](8babec1e482af6354e74a3ea2f881885d160790b/file.pdf) @14:07 GMT
+
+## 2020-04-29
+
+* [2020-04-28-tha-sitrep-66-covid19-th-final.pdf](c170c092a7495bc462a24ddc200074bc97699026/file.pdf) @14:57 GMT
+* [2020-04-29-tha-sitrep-67-covid19-en-final.pdf](28c60b6c95b9c66b68232140493eb266efaf1644/file.pdf) @14:54 GMT
+* [2020-04-28-tha-sitrep-66-covid19-en-final.pdf](259b0e33a8bc0de4e5162777b629b6bfec938702/file.pdf) @09:21 GMT
+
+## 2020-04-28
+
+* [2020-04-28-tha-sitrep-66-covid19-en.pdf](33f43f0cfb54bb14a5a70e3d59ce977c5474762e/file.pdf) @14:43 GMT
+* [2020-04-27-tha-sitrep-65-covid19-th-r02.pdf](1375335a8e0d0982379b237b35804a6da9a780ca/file.pdf) @08:32 GMT
+
+## 2020-04-27
+
+* [2020-04-25-tha-sitrep-63-covid19-en-finalc2b95b7d34fd480aa4ed90cd837d95ec.pdf](e6b1241e96b72d6e5f8c5112b94e3616c94821f9/file.pdf) @13:16 GMT
+* [2020-04-25-tha-sitrep-63-covid19-th-final.pdf](08d33209e00d04e69c478b9e7e4aa2e42656f943/file.pdf) @13:15 GMT
+* [2020-04-26-tha-sitrep-64-covid19-th-final.pdf](c75a4b6dbfd9527b6ada1b3fd7f29a657e382570/file.pdf) @13:13 GMT
+* [2020-04-27-tha-sitrep-65-covid19-en-final.pdf](af89f4edc1fde42d0892ab2ccc6a3fed17782983/file.pdf) @13:12 GMT
+
+## 2020-04-26
+
+* [2020-04-26-tha-sitrep-64-covid19-en.pdf](51d2ca2330a45c3de7577c14689b547a01b3125f/file.pdf) @14:49 GMT
+* [2020-04-24-tha-sitrep-62-covid19-th-final.pdf](e23104a912d04cc5782add060cac3b7565e372d8/file.pdf) @03:15 GMT
+
+## 2020-04-25
+
+* [2020-04-25-tha-sitrep-63-covid19-en-finalbdd7557a0184494293a4991844114ce3.pdf](51e4f69366ea27fa45239d6621b17c0221144677/file.pdf) @15:26 GMT
+* [2020-04-24-tha-sitrep-62-covid19-en-final32a90fd3a0f3411f839c8834287aa9f3.pdf](d66143d0a0bce27cc52f37b465122040ec42c9e9/file.pdf) @14:23 GMT
+
 ## 2020-04-24
 
 * [2020-04-24-tha-sitrep-62-covid19-en-r05.pdf](6e45494c448a4574ba48b9f716e985bc747ae8a1/file.pdf) @13:40 GMT

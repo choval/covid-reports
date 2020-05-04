@@ -1,0 +1,29 @@
+{
+    "filename": "AdditionalguidelinesonrationaluseofPersonalProtectiveEquipmentsettingapproachforHealthfunctionariesworkinginnonCOVIDareas.pdf",
+    "uri": "https:\/\/www.mohfw.gov.in\/pdf\/AdditionalguidelinesonrationaluseofPersonalProtectiveEquipmentsettingapproachforHealthfunctionariesworkinginnonCOVIDareas.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588364152,
+    "headers": {
+        "http-status": 200,
+        "server": "Apache",
+        "x-frame-options": "SAMEORIGIN",
+        "last-modified": "Fri, 01 May 2020 14:19:01 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "311881",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "access-control-allow-methods": "GET, POST, HEAD",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "accept, content-type, X-Requested-With, X-Prototype-Version, X-CSRF-Token, authorization",
+        "content-type": "application\/pdf",
+        "cache-control": "max-age=2571087",
+        "expires": "Sun, 31 May 2020 14:27:19 GMT",
+        "date": "Fri, 01 May 2020 20:15:52 GMT"
+    },
+    "lang": "en,hi",
+    "size": 311881,
+    "modified": 1588342741
+}

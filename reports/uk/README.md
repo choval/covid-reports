@@ -7,6 +7,38 @@
 * [https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/)
 
 
+## 2020-05-04
+
+* [list-of-participants-of-sage-and-related-sub-groups](f838a8615dee3a41807e3886de57fbe89592e74d/file.pdf) @13:57 GMT
+
+## 2020-05-01
+
+* [protecting-groundwater-when-developing-or-expanding-cemeteries-during-coronavirus](72cc8d8edce75f56026638420f82ff8e084c31db/file.pdf) @20:35 GMT
+* [testing-for-coronavirus-privacy-information-quick-read](05af0ee1b6952b27538fc2e68a0c07620c24e240/file.pdf) @20:35 GMT
+* [covid-19-and-temporary-storage-of-incinerator-bottom-ash-aggregate-rps-c16](b3d7cc6513ef03bf38fbbf461e433f7def39168d/file.pdf) @20:34 GMT
+* [covid-19-and-delaying-hazardous-waste-consignee-returns-rps-c14](eaa89766dfb400f8d095849638d25c79eedc3d68/file.pdf) @20:34 GMT
+* [covid-19-and-exceeding-permit-limits-for-medical-use-of-radioactive-substances-rps-c15](d714a33b58082d957dbc6604a48998b3a1e4c89a/file.pdf) @20:34 GMT
+* [Self\_referral\_portal\_user\_guide\_v1.6.pdf](65efe198d2b0c8b19172ef180ed23cf94781d4eb/file.pdf) @10:23 GMT
+* [covid-19-population-management-strategy-prisons.pdf](bbac2074bd5da443f2072a065317bb7e5ff1f154/file.pdf) @09:34 GMT
+* [hmpps-phe-addendum-300420.pdf](95fc81c937dfcdc24000b4dd54d65b9c62a58bf6/file.pdf) @09:34 GMT
+
+## 2020-04-29
+
+* [phe-statement-regarding-nervtag-review-and-consensus-on-cardiopulmonary-resuscitation-as-an-aerosol-generating-procedure-agp](59166fe16f60bb8a8f509c6b6617bf73a95eb2c2/file.pdf) @01:51 GMT
+* [environment-agency-regulatory-response-to-coronavirus](f274c6ea339cad02109a97803c87fc37fb6ae504/file.pdf) @01:51 GMT
+* [guidance-for-households-with-grandparents-parents-and-children-living-together-where-someone-is-at-increased-risk-or-has-symptoms-of-coronavirus-cov](ad28260e5ebd6f9b018d74e78c975ba2080ed290/file.pdf) @01:51 GMT
+* [accumulating-radioactive-waste-that-you-cannot-transfer-because-of-covid-19-rps-c13](0fd0792135cbb175e831c66fc8e59a11f9bdb2a8/file.pdf) @01:51 GMT
+
+## 2020-04-28
+
+* [Annex\_A\_Other\_sources\_of\_supporting\_information\_.pdf](9afb8ec0c44f3ac04272067bb9606963cd5ea075/file.pdf) @14:41 GMT
+
+## 2020-04-27
+
+* [hmpps-phe-addendum-270420.pdf](f3407efc5f285278917d884565a31d7c6d70f2f0/file.pdf) @17:12 GMT
+* [PHE-briefing-paper-prisons-covid19.pdf](16fae5de18b6baff11a6031a33233f30b4907f46/file.pdf) @17:00 GMT
+* [2020-04-27-occupational--health--advice--for--employers-and--pregnant-women.pdf](1343817f5c505e7a15de36ef7980f4e98fcf922b/file.pdf) @11:24 GMT
+
 ## 2020-04-24
 
 * [coronavirus-covid-19-providing-unpaid-care-to-adults-with-learning-disabilities-and-autistic-adults](540935691637b72d4b6883cac24e1d90e6118ed9/file.pdf) @17:09 GMT
@@ -97,6 +129,7 @@
 * [Security\_of\_NHS\_and\_Public\_Health\_Services\_Digital\_Systems\_\_Coronavirus\_\_Directions\_2020.pdf](ea47604a765eb773d58e41eb5bfb20fd41183d20/file.pdf) @15:07 GMT
 * [guidance-for-stepdown-of-infection-control-precautions-and-discharging-covid-19-patients](c1c747a86528eab1e9241299925a22ce6409dbd4/file.pdf) @13:55 GMT
 * [Covid-19\_fact\_sheet.pdf](da833790107bb8f28b1734ce1795dfd14692956d/file.pdf) @13:21 GMT
+* [C0241-specialty-guide-intrapartum-maternity-care-9-april-2020.pdf](0ee6d5bdfd66ea949531d174855e51f76401fd7b/file.pdf) @13:07 GMT
 
 ## 2020-04-08
 

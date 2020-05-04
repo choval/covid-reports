@@ -1,0 +1,27 @@
+{
+    "filename": "C0241-specialty-guide-intrapartum-maternity-care-9-april-2020.pdf",
+    "uri": "https:\/\/www.england.nhs.uk\/coronavirus\/wp-content\/uploads\/sites\/52\/2020\/04\/C0241-specialty-guide-intrapartum-maternity-care-9-april-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588125119,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "128146",
+        "accept-ranges": "bytes",
+        "last-modified": "Thu, 09 Apr 2020 13:07:00 GMT",
+        "server": "Apache",
+        "via": "1.1 varnish (Varnish\/5.2), 1.1 260251f69062a79f1fbe5486d2639aff.cloudfront.net (CloudFront)",
+        "x-served-by": "548af19b1e",
+        "x-varnish": "1459115",
+        "cache-control": "max-age=14400",
+        "date": "Wed, 29 Apr 2020 01:51:59 GMT",
+        "etag": "\"1f492-5a2db4ace6c88\"",
+        "expires": "Wed, 29 Apr 2020 05:51:59 GMT",
+        "x-cache": "RefreshHit from cloudfront",
+        "x-amz-cf-pop": "DFW3-C1",
+        "x-amz-cf-id": "V3bhFt0Q3--K4bjXad5yKmhmSALDrT9g1s5MNOwwo92kXW30OEvd2g=="
+    },
+    "lang": "en",
+    "size": 128146,
+    "modified": 1586437620
+}

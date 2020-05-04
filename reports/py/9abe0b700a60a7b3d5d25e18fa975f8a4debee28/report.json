@@ -1,0 +1,19 @@
+{
+    "filename": "d09c2a-ProtocoloDefinicionesdecasos.TomadeMuestras.Alta.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/d09c2a-ProtocoloDefinicionesdecasos.TomadeMuestras.Alta.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588124777,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Wed, 29 Apr 2020 01:46:09 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "459295",
+        "last-modified": "Tue, 28 Apr 2020 12:57:47 GMT",
+        "etag": "\"7021f-5a45960d74632\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 459295,
+    "modified": 1588078667
+}

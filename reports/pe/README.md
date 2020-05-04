@@ -5,6 +5,26 @@
 * [https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678](https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678)
 
 
+## 2020-05-03
+
+* [coronavirus010520.pdf](b92a5731b00ac5de1eecc0e13f94b0cbbc8c8ba1/file.pdf) @03:30 GMT
+
+## 2020-05-01
+
+* [coronavirus290420.pdf](f9fac92eea7876ffbfaa981ec074fc68565fe81e/file.pdf) @20:30 GMT
+* [coronavirus280420.pdf](368acf8704d9af693126eb05eff8612f1ddbe6bb/file.pdf) @20:30 GMT
+* [coronavirus300420.pdf](0d25a3fd38cacb57c05899bb27b20c1d18413ab8/file.pdf) @20:30 GMT
+* [AE016.pdf](9b4dc01d2aa10dd6746593b99b055ac9310f26ef/file.pdf) @17:42 GMT
+
+## 2020-04-28
+
+* [coronavirus260420.pdf](e109303d433f513fe26eb9dc1e2594a9f1d539d2/file.pdf) @00:22 GMT
+
+## 2020-04-26
+
+* [coronavirus240420.pdf](fc8babe026f0ca4776e755c4b11122daf2038cec/file.pdf) @19:13 GMT
+* [coronavirus250420.pdf](b783641a7b2fd3c6708d02119c0709f1f06e20b3/file.pdf) @19:11 GMT
+
 ## 2020-04-23
 
 * [coronavirus210420.pdf](e54e95f86a9f5f4000cf328b04206113be9e0ba3/file.pdf) @22:03 GMT

@@ -6,6 +6,46 @@
 * [https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias)
 
 
+## 2020-05-04
+
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-9](c4ed9884cd5d1a1422f2019b7f6e7864885e8024/file.pdf) @13:58 GMT
+
+## 2020-05-03
+
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-10](ea811550ba5949594fe17b04302af1981a83ac37/file.pdf) @22:01 GMT
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-11](79ca381c93dacf8196a2ec6f5ee45bfdbac9409b/file.pdf) @22:01 GMT
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-13](412371f02cba6cf44b753e2c611dd8b55def9976/file.pdf) @22:00 GMT
+* [centros-contingencias-disenados-msp-frente-pandemia-covid-19](f7af7db97be9a65a8e66f1307c754dd17efc2f4b/file.pdf) @22:00 GMT
+
+## 2020-05-02
+
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-12](5efd79a34eb41c70831f78f95de1c4db92bd53ba/file.pdf) @15:34 GMT
+
+## 2020-05-01
+
+* [informacion-orientacion-sobre-coronavirus-para-trabajadores-salud](f80eb79239e7adf21949e2ab0ca861c832fca917/file.pdf) @20:35 GMT
+
+## 2020-04-29
+
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-8](c2b476fae9c6fdab1ed016e71fc0360e615240a3/file.pdf) @01:52 GMT
+* [covid-19-residenciales-montevideo](c1b009228dcc010ed8d32d607c52b1535398da8c/file.pdf) @01:52 GMT
+
+## 2020-04-27
+
+* [recomendaciones-para-equipo-salud-sobre-covid-19-ninos](3f81bfbd93a32e036029af53546d92715e9becf9/file.pdf) @12:17 GMT
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-7](7f85c97d4ae716420ac9f07bfa57fa4e47fecf18/file.pdf) @12:17 GMT
+
+## 2020-04-26
+
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-3](ee9663e753c0792225544212fab10a1be361ad8d/file.pdf) @14:07 GMT
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-5](ebce071c1c7ba5973fb6f1aa096d517b41fd3bb0/file.pdf) @14:07 GMT
+* [planes-contingencia-para-residenciales-frente-covid-19](76479e4417160b3fdb196bb13df289fc002643af/file.pdf) @14:07 GMT
+* [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-6](1aa126b53a1719f3f2e048d9471f70ec14744ce5/file.pdf) @14:07 GMT
+
+## 2020-04-25
+
+* [msp\_planes\_de\_contingencia\_para\_los\_elepem\_0.pdf](5ee6726b1a737a41258fe8a045e381e26f95b463/file.pdf) @18:34 GMT
+
 ## 2020-04-24
 
 * [actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-4](17a3a7d2b4c772c54ea2f6e46d1c065b029af2d8/file.pdf) @17:09 GMT

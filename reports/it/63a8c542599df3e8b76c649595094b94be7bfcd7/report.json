@@ -1,0 +1,21 @@
+{
+    "filename": "circolare_2_maggio_2020.pdf",
+    "uri": "https:\/\/www.interno.gov.it\/sites\/default\/files\/allegati\/circolare_2_maggio_2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588542553,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "last-modified": "Sun, 03 May 2020 10:13:33 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"475f95803321d61:0\"",
+        "content-length": "1258579",
+        "date": "Sun, 03 May 2020 21:49:13 GMT",
+        "connection": "keep-alive",
+        "server": "Microsoft-IIS\/10.0",
+        "x-n": "S"
+    },
+    "lang": "it",
+    "size": 1258579,
+    "modified": 1588500813
+}

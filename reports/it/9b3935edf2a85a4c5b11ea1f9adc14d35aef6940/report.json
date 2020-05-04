@@ -1,0 +1,20 @@
+{
+    "filename": "Infografica_1maggio%20ENG.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/..\/en\/coronavirus\/bollettino\/Infografica_1maggio%20ENG.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588364651,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1487426",
+        "content-type": "application\/pdf",
+        "last-modified": "Fri, 01 May 2020 17:03:33 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"8ee32872da1fd61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Fri, 01 May 2020 20:24:11 GMT"
+    },
+    "lang": "it,en",
+    "size": 1487426,
+    "modified": 1588352613
+}

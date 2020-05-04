@@ -1,0 +1,19 @@
+{
+    "filename": "135b1f-InstructivoINDUSTRIAS01.05.20.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/135b1f-InstructivoINDUSTRIAS01.05.20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588542962,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 03 May 2020 21:55:56 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "584680",
+        "last-modified": "Sun, 03 May 2020 14:55:53 GMT",
+        "etag": "\"8ebe8-5a4bf9c685522\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 584680,
+    "modified": 1588517753
+}

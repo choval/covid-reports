@@ -1,0 +1,22 @@
+{
+    "filename": "4126-bolivia-confirma-124-personas-con-coronavirus-y-suma-en-total-1-594-contagiados",
+    "uri": "https:\/\/www.minsalud.gob.bo\/4126-bolivia-confirma-124-personas-con-coronavirus-y-suma-en-total-1-594-contagiados",
+    "output": "file.pdf",
+    "downloaded": 1588599779,
+    "headers": {
+        "http-status": 200,
+        "date": "Mon, 04 May 2020 13:47:23 GMT",
+        "server": "Apache",
+        "set-cookie": "c6f2855a2230f6831287082b28d8734e=43uvjsbi05g8v2fm2j7t59tvvc; path=\/; secure; HttpOnly",
+        "content-encoding": "deflate",
+        "vary": "Accept-Encoding",
+        "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+        "last-modified": "Mon, 04 May 2020 13:47:24 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "pragma": "no-cache",
+        "content-type": "text\/html; charset=utf-8"
+    },
+    "lang": "es",
+    "size": 662816,
+    "modified": 1588599785
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "LS_CS_002_plantas_procesadora_alimentos.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/LS_CS_002_plantas_procesadora_alimentos.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363893,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 01 May 2020 20:11:33 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 01 May 2020 20:11:33 GMT",
+        "etag": "W\/\"e586e-5a4a0120b3400\"",
+        "accept-ranges": "bytes",
+        "content-length": "940142",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 940142,
+    "modified": 1588363894
+}

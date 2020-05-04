@@ -1,0 +1,19 @@
+{
+    "filename": "b15299-ProtocoloManejoOllasPopulares02.05.20.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/b15299-ProtocoloManejoOllasPopulares02.05.20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588542943,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 03 May 2020 21:55:36 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "1101350",
+        "last-modified": "Sun, 03 May 2020 14:59:43 GMT",
+        "etag": "\"10ce26-5a4bfaa239377\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 1101350,
+    "modified": 1588517983
+}

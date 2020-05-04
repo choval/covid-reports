@@ -1,0 +1,30 @@
+{
+    "filename": "2020-04-27-occupational--health--advice--for--employers-and--pregnant-women.pdf",
+    "uri": "https:\/\/www.rcog.org.uk\/globalassets\/documents\/guidelines\/2020-04-27-occupational--health--advice--for--employers-and--pregnant-women.pdf",
+    "output": "file.pdf",
+    "downloaded": 1587989864,
+    "headers": {
+        "http-status": 200,
+        "cache-control": "public",
+        "content-length": "208613",
+        "content-type": "application\/pdf",
+        "expires": "Tue, 28 Apr 2020 00:21:00 GMT",
+        "last-modified": "Mon, 27 Apr 2020 11:24:50 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"1D61C86775C2050\"",
+        "server": "Microsoft-IIS\/8.5",
+        "set-cookie": ".ASPXANONYMOUS=egZIJiBT1gEkAAAAOWQ1MDg3YzMtNjMyYy00ZjE0LWFiZmEtNGZhY2Q3YjcyYWYyr83pXIpNK7x2pyTrKxqyDm6GjAM1; expires=Sun, 05-Jul-2020 23:01:00 GMT; path=\/; HttpOnly",
+        "x-frame-options": "SAMEORIGIN",
+        "access-control-allow-origin": "domain",
+        "access-control-allow-headers": "Authorization",
+        "access-control-allow-methods": "GET, POST",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "date": "Mon, 27 Apr 2020 12:20:59 GMT"
+    },
+    "lang": "en",
+    "size": 208613,
+    "modified": 1587986690
+}

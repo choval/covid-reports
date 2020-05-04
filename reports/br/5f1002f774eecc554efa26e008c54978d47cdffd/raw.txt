@@ -1,0 +1,506 @@
+1
+Oxigenação por membrana
+extracorpórea (ECMO) para
+tratamento de pacientes
+com COVID-19
+Abril/2020
+Departamento de Gestão e Incorporação de Tecnologias
+e Inovação em Saúde – DGITIS/SCTIE/MS
+2
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E INSUMOS ESTRATÉGICOS EM SAÚDE
+DEPARTAMENTO DE GESTÃO E INCORPORAÇÃO DE TECNOLOGIAS E INOVAÇÃO EM SAÚDE
+COORDENAÇÃO-GERAL DE GESTÃO DE TECNOLOGIAS EM SAÚDE
+COORDENAÇÃO DE MONITORAMENTO E AVALIAÇÃO DE TECNOLOGIAS EM SAÚDE E
+COORDENAÇÃO DE INCORPORAÇÃO DE TECNOLOGIAS
+Brasília – DF
+Abril de 2020
+Oxigenação por membrana
+extracorpórea (ECMO) para
+tratamento de pacientes
+com COVID-19
+3
+NOTA TÉCNICA
+ASSUNTO: oxigenação por membrana extracorpórea (ECMO) para tratamento de
+pacientes com COVID-19.
+1. ANÁLISE
+CONDIÇÃO CLÍNICA
+O coronavírus da Síndrome Respiratória Aguda Grave 2 (abreviado para SARS-CoV-2, do
+inglês Severe Acute Respiratory Syndrome Coronavirus 2), anteriormente conhecida como novo
+coronavírus (2019-nCoV), é um agente zoonótico recém-emergente que surgiu em dezembro de
+2019, em Wuhan, China, causando manifestações respiratórias, digestivas e sistêmicas, que se
+articulam no quadro clínico da doença denominada de COVID-19 (do inglês Coronavirus Disease
+2019) (1).
+Ainda não há informações robustas sobre a história natural da doença, nem medidas de
+efetividade para manejo clínico dos casos de infecção pelo COVID-19, restando ainda muitos
+detalhes a serem esclarecidos. No entanto, sabe-se que o vírus tem alta transmissibilidade e
+provoca uma síndrome respiratória aguda que varia de casos leves (cerca de 80%) a casos muito
+graves com insuficiência respiratória (5% e 10% dos casos), que podem requerer tratamento
+especializado em unidades de terapia intensiva (UTI) (2). Sua letalidade varia, principalmente
+conforme a faixa etária.
+Uma revisão sistemática recentemente publicada incluiu 19 estudos que descreveram
+as características clínicas e laboratoriais da doença (3). Os autores encontraram que, em relação
+às manifestações clínicas, febre (88,7%), tosse (57,6%) e dispneia (45,6%) foram as mais
+prevalentes. Em relação aos achados laboratoriais, a diminuição da albumina (75,8%), a
+elevação da proteína C reativa (58,3%) e da lactato desidrogenase (LDH) (57,0%), a linfopenia
+(43,1%) e a alta taxa de sedimentação de eritrócitos (VHS) (41,8%) foram os resultados
+laboratoriais mais prevalentes (2). Nas radiografias de tórax, o comprometimento da
+pneumonia era predominantemente bilateral em 73% dos pacientes. Entre os
+pacientes, dos 20,3% que necessitaram de UTI, 32,8% tinham Síndrome Respiratória Aguda
+Grave (SRAG); 13,0% apresentaram lesão cardíaca aguda; 7,9 %, lesão renal aguda (IC95% 1,8-
+14,0%); 6,2%, choque e 13,9% tiveram resultados fatais (2).
+O tratamento da COVID-19 é de suporte. Até a presente data, nenhuma vacina, antiviral
+ou outro tratamento específico está disponível, no entanto, há vários estudos em andamento.
+A TECNOLOGIA
+O suporte de vida extracorpóreo ou oxigenação por membrana extracorpórea (ECMO)
+é uma modalidade terapêutica que possibilita suporte temporário à falência pulmonar e/ou
+cardíaca refratária ao tratamento clínico convencional. (4).
+Fazem parte essencial de um circuito de ECMO duas cânulas de drenagem e retorno do
+sangue (inflow/outflow), uma bomba de propulsão de sangue, um oxigenador, sensores de fluxo
+e pressão, sistema de controle de temperatura para resfriamento ou aquecimento do sangue
+4
+e pontos de acesso arterial e venoso para coleta de sangue no circuito. A função da bomba de
+propulsão é impulsionar o sangue do paciente para a membrana oxigenadora, gerando fluxo
+para o sistema. O oxigenador é um dispositivo de troca de gases que usa uma membrana
+semipermeável (membrana de oxigenação) para separar compartimento sanguíneo e um
+gasoso. O sangue desoxigenado é drenado pela força da bomba externa, atravessa o oxigenador
+(onde se processa a troca de dióxido de carbono por oxigênio) e é devolvido
+ao paciente (4,5). (FIGURA 1)
+FIGURA 1. Esquema ilustrativo de um circuito de oxigenação por membrana extracorpórea
+venoarterial periférica.
+Fonte: Chaves, R. C. D. F., Rabello Filho, R., Timenetsky, K. T., Moreira, F. T., Vilanova, L. C. D. S., Bravim, B. D. A., ... &
+Corrêa, T. D. (2019). Oxigenação por membrana extracorpórea: revisão da literatura. Revista Brasileira de Terapia
+Intensiva, 31(3), 410-424.
+Quando o sangue é drenado e entregue apenas por veias, o circuito denomina‐se de
+ECMO‐venovenoso (VV), permitindo apenas suporte pulmonar. Quando é drenado por uma veia
+e entregue em uma artéria, o circuito é nomeado ECMO‐venoarterial (VA), garantindo suporte
+pulmonar e cardíaco. Em todas as modalidades de ECMO são necessárias uma via de acesso para
+drenagem e uma de acesso para retorno do sangue ao paciente. A ECMO-VV é
+preferencialmente utilizada em pacientes com função cardíaca preservada ou moderadamente
+reduzida, sendo a modalidade de escolha nos casos de insuficiência respiratória hipoxêmica e
+insuficiência respiratória hipercápnica. A configuração ECMO-VA é a modalidade indicada para
+pacientes com falência cardíaca, podendo ser necessário ou não o suporte pulmonar em
+conjunto (4,5). Ou seja, a ECMO-VA está indicada no contexto de choque cardiogênico, no qual
+o paciente apresenta baixo débito cardíaco e hipoperfusão tecidual, a despeito da otimização
+hemodinâmica com reposição volêmica e da utilização de inotrópicos, vasopressores ou
+vasodilatadores e/ou balão de contrapulsação aórtica (4,5).
+Em pacientes com SRAG, o suporte extracorpóreo à vida tem sido utilizado para apoiar
+as trocas gasosas e mitigar a lesão pulmonar induzida por ventilador (6).
+5
+ANÁLISE DA EVIDÊNCIA
+O objetivo deste relatório é analisar as evidências científicas sobre eficácia e segurança
+da oxigenação por membrana extracorpórea (ECMO) para tratamento de pacientes graves com
+COVID-19.
+Com o objetivo de nortear a busca da literatura, foi formulada a pergunta estruturada,
+de acordo com o acrônimo PICO (População, Intervenção, Comparador e Outcomes
+[desfechos]), conforme Tabela 1.
+Pergunta de Pesquisa: A oxigenação por membrana extracorpórea (ECMO) é uma
+opção segura e eficaz para o tratamento da COVID-19?
+Tabela 1. Pergunta estruturada para elaboração do relatório (PICO)
+População Pacientes com COVID-19
+Intervenção (tecnologia) oxigenação por membrana extracorpórea (ECMO)
+Comparação Qualquer um
+Desfechos (Outcomes) Qualquer um
+Tipo de estudo
+Revisões sistemáticas com meta-análises e estudos clínicos
+randomizados (ECR), relato de casos
+Foram realizadas buscas nas bases de dados Medline (via PubMed) e Embase e no banco
+de dados de publicações sobre COVID-19 da Organização Mundial de Saúde (OMS) com acesso
+em 16 de abril de 2020. As estratégias de busca estão descritas abaixo (QUADRO 1).
+QUADRO 1. Estratégia de buscas por evidências nas bases de dados.
+Base Estratégia Localizados Duplicados Incluídos
+Medline
+(via PubMed)
+((((((((((((((((("severe acute respiratory syndrome coronavirus
+2") OR "wuhan coronavirus") OR "covid 19 virus") OR
+"sars cov 2") OR "sars2") OR "2019 ncov") OR "2019 novel
+coronavirus") OR "covid 19"[Supplementary Concept]) OR
+"2019 novel coronavirus infection") OR "2019 ncov infection")
+OR "covid 19 patients") OR "coronavirus disease 19") OR
+"covid19") OR "2019 novel coronavirus disease") OR
+"coronavirus disease 2019")) AND ((((("extracorporeal
+membrane oxygenation") OR "ecmo treatment") OR
+"ecmo treatments") OR "extracorporeal life support") OR
+"ecls treatment"))
+20
+17 5
+Embase
+('severe acute respiratory syndrome coronavirus 2'/exp OR
+'severe acute respiratory syndrome coronavirus 2' OR 'covid-
+19 virus' OR 'wuhan coronavirus' OR 'sars cov 2' OR sars2 OR
+'2019 ncov' OR '2019 novel coronavirus'/exp OR '2019 novel
+coronavirus' OR 'covid 19'/exp OR 'covid 19' OR '2019 novel
+coronavirus infection' OR '2019-ncov infection' OR 'covid-19
+pandemic' OR 'coronavirus disease-19' OR '2019-ncov disease'
+OR covid19 OR '2019 novel coronavirus disease' OR
+'coronavirus disease 2019'/exp OR 'coronavirus disease 2019')
+AND ('extracorporeal oxygenation'/exp OR 'ecmo treatment'
+OR 'extracorporeal life support'/exp OR 'extracorporeal life
+support' OR 'ecls treatment')
+29
+6
+WHO
+database of
+publications
+on
+coronavirus
+disease
+(COVID-19)
+ECMO OR extracorporeal oxygenation 16
+Também foram pesquisados ensaios clínicos no ClinicalTrial.gov a partir dos seguintes
+termos: SARS-CoV-2, 2019-nCoV, 2019 novel coronavirus e severe acute respiratory syndrome
+coronavirus 2 juntamente com Extracorporeal Membrane Oxygenation. Foram encontrados seis
+estudos com o objetivo de avaliar a eficácia de ECMO em pacientes com COVID-
+19. Um desses ensaios clínicos resgatados pretende avaliar a ECMO para tratamento
+de infecção viral denominada coronavírus da síndrome respiratória do Oriente Médio (MERS-
+CoV) (NCT02627378). Um estudo conduzido na Alemanha irá comparar a introdução da terapia
+ECMO precoce com a tardia (NCT04341285) e outros dois estudos se propõem a avaliar a
+terapia com ECMO em combinação com a adsorção extracorpórea de IL-6 e outras substâncias
+vasoativas em um absorvedor CytoSorb® (CytoSorbents Corporation, Monmouth Junction, NJ,
+EUA) (NCT04324528 e NCT04344080). Um ensaio clínico foi registrado com o objetivo de coletar
+retrospectivamente dados dos pacientes com COVID-19 que recebem ECMO (NCT04343404) e
+outro tem como objetivo avaliar a segurança e a eficácia do uso de oxigenação por membrana
+extracorpórea de baixo fluxo (remoção de CO2) conduzida por máquina hemofiltração venosa
+contínua (CVVH) em pacientes com pneumonia grave por coronavírus (NCT04340414). Nenhum
+desses estudos apresentou resultados até a presente data.
+Em uma base de dados de registros de ensaios clínicos chineses, foram
+localizados quatro testes de avaliação da ECMO no tratamento da COVID-19 em andamento na
+China (ChiCTR20000307441, ChiCTR20000298042, ChiCTR20000309473 e ChiCTR20000299494).
+No banco Registro de Ensaios Clínicos da Austrália e Nova Zelândia (ANZCTR), foi
+encontrado um registro de estudo com status de recrutamento (ACTRN12620000421932) que
+irá comparar dados clínicos de pacientes com COVID-19 que necessitariam de internação em
+terapia intensiva, mas que não necessitam de ventilação mecânica ou ECMO, com aqueles que
+delas necessitariam5.
+Foi localizado também o estudo prospectivo/retrospectivo denominado ECMOCARD (do
+inglês ExtraCorporeal Membrane Oxygenation for 2019 novel Coronavirus Acute Respiratory
+Disease), com número de registro UMIN000039686, que irá investigar o uso de ventilação
+mecânica e ECMO em pacientes com COVID-196.
+A busca nas bases de dados PubMed, Embase e no banco de dados do Covid-19 da
+OMS resultou em 65 referências (20 no PubMed, 29 no Embase e 16 no banco da OMS), sendo
+que 17 eram duplicadas. Foram lidos o título e resumo das 48 referências, de forma que
+foram incluídas cinco. Em duas delas, os autores sintetizaram os dados de sete estudos
+disponíveis na literatura e estimaram a mortalidade de pacientes com COVID-19 que receberam
+suporte ECMO. Os outros três se tratavam de relatos de casos de pacientes com COVID-19 que
+incluíam pacientes tratados com ECMO. Abaixo estão descritas características e as análises
+desses estudos.
+Um total de nove pacientes, em três estudos, foi reportado como tendo feito uso de
+ECMO, no entanto, não estava disponível a evolução do quadro desses pacientes (7–9). No
+estudo de Yang e colaboradores, que comparou características clínicas e resultados em
+7
+pacientes com COVID-19 grave, cinco (83%) dos seis pacientes que receberam ECMO
+morreram (10). Já no estudo de Zhou et al. 2020, a oxigenação por membrana extracorpórea foi
+utilizada em três pacientes, nenhum dos quais sobreviveu. Neste mesmo estudo, 32 pacientes
+necessitaram de ventilação mecânica invasiva (VMI), dos quais 31 (97%) morreram. A sepse foi
+a complicação mais frequentemente observada, seguida de insuficiência respiratória, SRAG,
+insuficiência cardíaca e choque séptico. Todos os pacientes em uso de ECMO morreram
+(n=3/3) (11).
+Guan et al. 2020 extraíram dados de 1099 paciente com COVID-19 na China. O desfecho
+final primário foi composto pela admissão em uma unidade de terapia intensiva (UTI), pelo uso
+de ventilação mecânica ou morte. Na admissão, o grau de gravidade do Covid-19 foi classificado
+como não grave em 926 pacientes e grave em 173 pacientes. A oxigenação por membrana
+extracorpórea foi realizada em cinco pacientes (0,5%) com doença grave (12).
+Uma publicação disponível no banco de dados de publicações sobre COVID-
+19 da Organização Mundial de Saúde (OMS)7 sintetizou os dados de mortalidade de pacientes
+tratados com ECMO (13). De acordo com o autor, a prevalência de SRAG causada pelo COVID-
+19 é cerca de 8,2% (IC 95%, 7,07% a 9,47%). Dos 2087 pacientes críticos com COVID-19, 1023
+(49%; IC95%, 46,1% a 52,1%) morreram na UTI. Os resultados dos estudos publicados até o
+momento mostram que a taxa de mortalidade de pacientes adultos com SRAG devido à COVID-
+19 e submetidos à ECMO é de 82,3% (14/17) (TABELA 1). No entanto, o risco relativo de morte
+durante o uso de ECMO, incluindo dados dos pacientes de todos os estudos apresentados, não
+foi estatisticamente significativo (RR 1,12 (IC95% 0,88-1,42; p=0,34)).
+TABELA 1. Dados dos estudos que relataram o uso de oxigenação por membrana extra
+corporal (ECMO) como terapia de resgate para pacientes com síndrome respiratória aguda
+grave (SRAG) devido ao COVID-19.
+Huang 2020 Nanshan Chen 2020 Wang 2020 Yang 2020 Guan 2020 Zhou 2020
+Tipo de estudo Transversal Retrospectivo,
+observacional
+Série de casos Retrospectivo,
+observacional
+Transversal Estudo de coorte
+retrospectivo
+n 41 99 138 710 1099 191
+Internação na UTI %
+(IC95%)
+31,7 (18,08–48,08) 17,17 (10,33–26,06) 26,08 (18,98–
+34,24)
+7,32 (5,51–9,49) 5,0 (3,79–6,46) 26,17 (20,09–
+33,01)
+SRAG, proporção
+% (IC95%)
+29,26 (16,13–45,53) 17,17 (10,33–
+260.89,06)
+19,56 (13,3–27,17) 4,93 (3,45–6,78) 3,36 (2,38–4,6) 30,89 (24,1–37,96)
+Risco relativo de morte
+durante ECMO (IC95%)
+Dados
+não disponíveis para
+o cálculo
+0,46 (0,09–2,39) Dados
+não disponíveis
+para o cálculo
+0,89 (0,61–1,29) 2,88 (1,65–5,01) 0,96 (0,66–1,41)
+Taxa de mortalidade
+geral % (IC95%)
+14,63 (5,56–29,17) 11,11 (5,67–19,01) 4,34 (1,61–9,22) 4,50 (3,10–6,30) 1,36 (0,76–2,24) 28,27 (22,0–35,22)
+Fonte: Ñamendys-Silva, S. A. (2020). ECMO for ARDS due to COVID-19. Heart & Lung: The Journal of Cardiopulmonary
+and Acute Care.
+Wu e colaboradores avaliaram dados clínicos de 201 pacientes com pneumonia por
+COVID-19, sendo 84 desses com SRGA. Dentre eles, 61 (72,6%) fizeram uso de ventilação
+mecânica não invasiva, 17 (20,2%) receberam cânula nasal, 5 (6,0%) foram submetidos à VMI e
+1 (1,2%) à VMI com ECMO (14). O paciente em uso de ECMO veio a óbito de acordo com os
+dados do estudo. Outro estudo avaliou os preditores clínicos de mortalidade por COVID-19 com
+base em uma análise de dados de 150 pacientes de Wuhan, China. Dos 150 pacientes, sete
+fizeram uso de ECMO e nenhum deles sobreviveu (15).
+Henry (2020) (16) realizou uma análise agrupada de quatro estudos com pacientes com
+COVID-19 tratados com ECMO, incluíndo dados dos dois estudos apresentados
+8
+acima (10,11,14,15). A taxa de mortalidade foi de 94,1% nos pacientes com ECMO e de 70,9%
+nos pacientes em terapia convencional. Os resultados da análise agrupada são apresentados
+abaixo (FIGURA 2). As chances de mortalidade combinadas na ECMO comparadas à terapia
+convencional não foram significativamente diferentes (OR=2,00; IC 95%: 0,49–8,16). Não houve
+heterogeneidade observável (I2
+=0%, Q de Cochran, p-valor=0,99).
+FIGURA 2. Florest plot para probabilidades de mortalidade em pacientes com COVID-19 que
+recebem terapia ECMO versus terapia convencional.
+Outros dois estudos que descreveram pacientes com COVID-19 em uso de ECMO foram
+resgatados a partir das referências dos trabalhos acima descritos. Em um
+hospital em Xangai, a ECMO foi necessária em oito dos 16 pacientes críticos com COVID-19 nos
+quais a hipóxia grave não pôde ser revertida com ventilação mecânica otimizada. Destes, quatro
+pacientes morreram (50% de mortalidade) e três foram retirados da ECMO (37,5%) após 22, 40
+e 47 dias de suporte, respectivamente, mas permaneceram em ventilação mecânica. Um
+paciente ainda fazia uso de ECMO-VV com ventilação mecânica até a finalização doa dados do
+estudo (17). Em Wuhan, 221 pacientes com COVID-19 foram avaliados. Dos 48 pacientes
+graves com SRAG, 10 (18,2%) foram tratados com ECMO adicionada à VMI. Dos 10 pacientes
+graves que receberam suporte, dois tiveram benefícios clínicos e tiveram alta hospitalar e três
+não sobreviveram. Os demais cinco pacientes ainda estavam em tratamento no momento da
+coleta de dados (18).
+Dados preliminares de 12 pacientes em uso de ECMO foram coletados em dois centros
+médicos de Wuhan, China. Desses 12 pacientes, três melhoraram e não mais utilizavam ECMO,
+quatro ainda faziam uso do equipamento e cinco morreram (19).
+Os resultados desses estudos devem ser interpretados com cautela, pois nenhum deles
+teve como objetivo avaliar a eficácia da ECMO e uma quantidade muito pequena de pacientes
+foi incluída nas análises, sendo necessários dados mais robustos para estimar o real benefício
+da tecnologia. Algumas limitações podem ser observadas. Uma delas concerne ao fato de que
+os pacientes podem ter níveis variáveis de gravidade da SRAG, podendo ser potencialmente
+mais críticos alguns daqueles que recebem ECMO, o que pode ter impactado as taxas de
+mortalidade. Uma outra limitação relaciona-se ao não fornecimento de dados sobre
+características clínicas e evolução da doença dos pacientes com ECMO. Por fim, poucos dados
+estavam disponíveis para realizar uma análise agrupada de todos os estudos.
+Apesar da ausência de dados robustos, a Organização Extracorpórea de Suporte à Vida
+(ELSO - The Extracorporeal Life Support Organization) relata que a decisão de uso de ECMO irá
+9
+depender do caso e deve ser reavaliada regularmente com base na carga geral do paciente, na
+equipe e na disponibilidade de outros recursos, sendo apenas indicada para pacientes com alto
+risco de mortalidade (20). Neste mesmo documento, a ELSO descreve as contraindicações do
+uso de ECMO: doença terminal, danos graves no sistema nervoso central, recursos limitados,
+pacientes com comorbidades significativas, idade avançada (deve ser considerada ao equilibrar
+a disponibilidade de recursos com o potencial de melhorar os resultados) e tempo em VMI; além
+disso, os pacientes em ventilação mecânica por período superior a 7 dias devem ser
+excluídos. Devido à utilização intensiva de recursos hospitalares, à necessidade de treinamento
+substancial da equipe e às demandas multidisciplinares associadas ao início de um programa de
+ECMO, a ELSO recomenda não iniciar novos centros de ECMO com o único objetivo de tratar
+pacientes com COVID-19.
+A OMS, em seu guia de tratamento clínico da infecção respiratória aguda grave,
+recomenda que se deve considerar o uso do equipamento em pacientes com hipoxemia
+refratária, quando houver suspeita de doença de COVID-19 e em ambientes com acesso a
+especialistas em ECMO. A análise bayesiana post hoc dos dados de um ensaio clínico
+randomizado que avaliou a oxigenação extracorpórea precoce em comparação com a ventilação
+convencional entre pacientes com SRAG muito grave, mostrou que é muito provável que a
+ECMO reduza a mortalidade nestes pacientes.
+Similarmente, a Associação Americana de Cuidados Respiratórios (American Association
+for Respiratory Care [AARC]) recomenda o uso de ECMO apenas em adultos ventilados
+mecanicamente com COVID-19 e hipoxemia refratária, apesar da otimização da ventilação, uso
+de terapias de resgate e pronação. Segundo a associação, devido à natureza de ECMO que
+consome muitos recursos e à necessidade de centros e profissionais de saúde e infraestrutura
+experientes, a ECMO deve ser considerada apenas em pacientes cuidadosamente selecionados
+com COVID-19 e SRAG grave (21).
+O National Institute for Health and Care Excellence (NICE), em sua diretriz
+rápida de cuidados intensivos em adultos com COVID-19, descreve que pacientes graves
+que apresentam insuficiência respiratória grave potencialmente reversível com falha da terapia
+intensiva convencional e escore de lesão pulmonar (LIS) >3 ou pH arterial <7,20 devido à
+hipercapneia, apesar do tratamento convencional ideal, atendem aos critérios de elegibilidade
+para o serviço de ECMO respiratória (22).
+Recentemente, Ramanathan e colaboradores publicaram um estudo abordando
+o planejamento e a prestação de serviços de ECMO para SRAG grave durante a pandemia de
+COVID-19 e outros surtos de doenças infecciosas emergentes. Neste estudo, eles destacaram os
+dez componentes principais de um plano de ação da ECMO com base na organização apropriada
+de pessoal, equipamento, instalações e sistemas. Dessa forma, oferecem recomendações
+práticas para os centros de saúde, de forma a garantir treinamento, capacidade e planejamento
+adequados, a depender das prioridades locais e recursos (23). Os 10 componentes principais
+estão descritos abaixo:
+1. Planejamento e alocação de recursos da ECMO
+Incorporar a resposta da ECMO à ampla estratégia de resposta a epidemias; identificar
+e envolver todas as principais partes interessadas; manter um registro dos membros da
+equipe multidisciplinar treinados especificamente no atendimento de pacientes que
+recebem ECMO; manter um registro de máquinas ECMO atendidas e prontas para
+10
+implantar; garantir o suprimento de descartáveis e desenvolver um mecanismo de
+rastreamento regional.
+2. Designação de pessoal Estabelecer uma cadeia de comando no nível central e
+regional da ECMO; formular requisitos mínimos e ideais de pessoal; alocar funções no
+processo da ECMO; desenvolver mecanismos urgentes para credenciais de ECMO entre
+instituições.
+3. Treinamento de pessoal e uso de ECMO
+Fornecer treinamento específico local e envolver membros da equipe multidisciplinar;
+garantir o uso correto dos equipamentos de proteção individual (EPIs) e o manuseio das
+secreções corporais infectadas; reforçar a necessidade de tratamento convencional
+ideal dos pacientes e revisar as indicações da ECMO; simular cenários de iniciação e
+solução de problemas do ECMO.
+4. Medidas de controle de infecção antes e durante o início da ECMO
+Agrupar os pacientes em coortes para terapia com ECMO e marcar claramente todas as
+áreas de maior precaução; aplicar rigorosamente todos os protocolos de controle de
+infecção e o uso de EPIs nos processos de ECMO.
+5. Transporte de pacientes recebendo ECMO
+Elaborar critérios de elegibilidade para transferência inter-hospitalar e compartilhá-los
+com centros de referência; garantir comunicação e coordenação eficazes; identificar e
+abordar etapas de limitação e seguir rigorosamente os protocolos de controle de
+infecção em todo o transporte de pacientes.
+6. Desmame, decanulação e reabilitação da ECMO
+Realizar desmame, decanulação e reabilitação da ECMO, sob rigorosas medidas de
+controle de infecções e proteção individual; providenciar acompanhamento de
+pacientes que foram desmamados da ECMO para garantir resultados a longo prazo.
+7. Cuidados post mortem
+Mapear a capacidade das instalações mortuárias nos centros da ECMO e revisar as
+diretrizes para atendimento post mortem; realizar decanulação post mortem e
+transporte de mortos sob rigoroso controle de infecções e medidas de proteção
+individual; seguir diretrizes nacionais e internacionais sobre o descarte de materiais
+biológicos infecciosos.
+8. Apoio ao pessoal
+Monitorar rotineiramente a equipe quanto à sua saúde e bem-estar; estabelecer
+protocolos para rastreamento de contatos; garantir o fornecimento de uma equipe de
+psiquiatras, psicólogos e assistentes sociais para monitorar e tratar os efeitos
+psicológicos na equipe; garantir que o pessoal doente fique em quarentena por 2
+semanas com um plano claro de acompanhamento e encaminhamento; fornecer
+protocolos para rastreamento de contatos de funcionários.
+11
+9. Considerações éticas
+Usar critérios de consenso predeterminados para o racionamento da ECMO, se indicado;
+reavaliar todos os aspectos do plano de tratamento de um paciente regularmente,
+incluindo a necessidade de continuar ou encerrar a ECMO; invocar justiça distributiva
+somente em circunstâncias em que o racionamento exclua a capacidade de cuidar de
+cada indivíduo de maneira ideal; buscar opiniões de comitês de ética hospitalar e
+médico-legais em cenários eticamente desafiadores.
+10. Garantia de qualidade e pesquisa colaborativa
+Manter estruturas de garantia de qualidade e governança clínica com análises
+frequentes da qualidade da ECMO; garantir a coleta e o compartilhamento de dados
+para informar a preparação e o atendimento ao paciente; objetivar a aprovação da ética
+em vigor ou desenvolver mecanismos para processos de revisão e aprovação da ética.
+12
+2. CONCLUSÕES
+Ao todo, foram analisados 11 estudos que incluíram pacientes com COVID-19 em uso de
+ECMO. Uma taxa maior de mortalidade foi atribuída à ECMO, no entanto, análises agrupadas
+não mostraram diferença estatisticamente significativa na mortalidade entre pacientes tratados
+com ECMO e com terapia padrão. Não há evidências claras do benefício do uso do ECMO em
+pacientes com COVID-19 até o momento. As diretrizes provisórias da OMS recomendam
+oferecer oxigenação por membrana extracorpórea (ECMO) a pacientes elegíveis com síndrome
+do desconforto respiratório agudo relacionada à COVID-19. A utilização do equipamento é
+recomendada pela OMS em casos de hipoxemia refratária e apenas em
+centros especializados que conte uma equipe capacitada para a utilização do
+equipamento (24,25). A Organização Extracorpórea de Suporte à Vida (ELSO - The
+Extracorporeal Life Support Organization) orienta que uso de ECMO em pacientes com COVID-
+19 irá depender do caso e deve ser reavaliada regularmente com base na carga geral do
+paciente, na capacitação da equipe e na disponibilidade de outros
+recursos. A AARC também recomenda o uso de ECMO apenas em pacientes adultos com COVID-
+19 e SRAG grave, cuidadosamente selecionados, ventilados mecanicamente e com hipoxemia
+refratária.
+A complexidade da ECMO exige uma equipe de UTI bem qualificada para prestar
+atendimento a pacientes graves, sendo limitado seu uso a centros especializados.
+As evidências disponíveis de populações semelhantes de pacientes sugerem que
+pacientes cuidadosamente selecionados com SRAG grave que não se beneficiam do tratamento
+convencional podem obter bons resultados com a ECMO venovenosa.
+13
+3. REFERÊNCIAS
+1. Bonilla-Aldana DK, Dhama K, Rodriguez-Morales AJ. Revisiting the One Health Approach in the
+Context of COVID-19: A look into the Ecology of this Emerging Disease. Adv Anim Vet Sci.
+2020; 8:234–7.
+2. Ministério da Saúde, Secretaria de Atenção Primária à Saúde (SAPS). PROTOCOLO DE MANEJO
+CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE [Internet].
+Versão 3. Ministério da Saúde, Secretaria de Atenção Primária à Saúde, organizadores.
+Brasília; 2019. 33 p. Available at:
+http://189.28.128.100/dab/docs/portaldab/documentos/20200320_ProtocoloManejo_
+ver03.pdf.
+3. Rodriguez-Morales AJ, Cardona-Ospina JA, Gutiérrez-Ocampo E, Villamizar-Peña R, Holguin-
+Rivera Y, Escalera-Antezana JP, et al. Clinical, laboratory and imaging features of COVID-
+19: A systematic review and meta-analysis. Travel Med Infect Dis. 2020; 101623.
+4. Chaves RC de F, Rabello Filho R, Timenetsky KT, Moreira FT, Vilanova LC da S, Bravim B de A,
+et al. Oxigenação por membrana extracorpórea: revisão da literatura. Rev Bras Ter
+intensiva. 2019;31(3):410–24.
+5. Passos Silva M, Caeiro D, Fernandes P, Guerreiro C, Vilela E, Ponte M, et al. Extracorporeal
+membrane oxygenation in circulatory and respiratory failure – A single‐center
+experience. Rev Port Cardiol. 1 de novembro de 2017; 36 (11):833–42.
+6. Marhong JD, Munshi L, Detsky M, Telesnicki T, Fan E. Mechanical ventilation during
+extracorporeal life support (ECLS): a systematic review. Intensive Care Med. 2015;
+41(6):994–1003.
+7. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical Characteristics of 138 Hospitalized
+Patients with 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA - J Am
+Med Assoc. 17 de março de 2020;323(11):1061–9.
+8. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical characteristics
+of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive
+study. Lancet. 15 de fevereiro de 2020;395(10223):507–13.
+9. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with
+2019 novel coronavirus in Wuhan, China. Lancet. 15 de fevereiro de
+2020;395(10223):497–506.
+10. Yang X, Yu Y, Xu J, Shu H, Liu H, Wu Y, et al. Clinical course and outcomes of critically ill
+patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective,
+observational study. Lancet Respir Med. 2020 Feb 21 Cited in Pubmed; PMID 32105632.
+11. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for mortality of
+adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet
+2020 Mar 28 Cited in Pubmed; PMID 32171076.
+12. Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, et al. Clinical Characteristics of Coronavirus Disease
+2019 in China. N Engl J Med [Internet]. 2020;(PG-). Available at:
+https://doi.org/10.1056/NEJMoa2002032 NS -
+13. Namendys-Silva SA. ECMO for ARDS due to COVID-19. Hear Lung [Internet]. 2020;(PG-).
+Available at: NS -
+14. Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, et al. Risk Factors Associated With Acute Respiratory
+Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in
+Wuhan, China. JAMA Intern Med [Internet]. 2020;(PG-). Available at:
+http://www.ncbi.nlm.nih.gov/pubmed/32167524 NS -
+15. Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19
+based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med
+[Internet]. 2020;(PG-10.1007/s00134-020-05991-x):10.1007/s00134-020. Available at:
+https://pubmed.ncbi.nlm.nih.gov/32125452 NS -
+14
+16. Henry BM, Lippi G. Poor survival with extracorporeal membrane oxygenation in acute
+respiratory distress syndrome (ARDS) due to coronavirus disease 2019 (COVID-19):
+Pooled analysis of early reports. J Crit Care [Internet]. 2020;(PG-). Available at:
+http://www.sciencedirect.com/science/article/pii/S0883944120305426 NS -
+17. Li X, Guo Z, Li B, Zhang X, Tian R, Wu W, et al. Extracorporeal Membrane Oxygenation for
+Coronavirus Disease 2019 in Shanghai, China. ASAIO J Artif Organ Res Dev [Internet].
+2020; Online Fir(PG-). Available at:
+https://journals.lww.com/asaiojournal/Fulltext/onlinefirst/Extracorporeal_Membrane_
+Oxygenation_for.98540.aspx NS -
+18. Zhang G, Hu C, Luo L, Fang F, Chen Y, Li J, et al. Clinical features and outcomes of 221 patients
+with COVID-19 in Wuhan, China. MedRxiv [periódicos na internet]. 2020 Mar 6 [acesso
+em 12 mar 2020]. Disponível em:
+https://www.medrxiv.org/content/10.1101/2020.03.02.20030452v1.
+19. Zeng Y, Cai Z, Xianyu Y, Yang BX, Song T, Yan Q. Prognosis when using extracorporeal
+membrane oxygenation (ECMO) for critically ill COVID-19 patients in China: a
+retrospective case series. Crit Care [Internet]. 2020;24(1):148. Available at:
+https://doi.org/10.1186/s13054-020-2840-8.
+20. The Extracorporeal Life Support Organization. ELSO Guidance Document: ECMO for COVID-
+19 Patients with Severe Cardiopulmonary Failure [Internet]. 2020. p. 4. Available at:
+https://www.elso.org/Portals/0/Files/pdf/ECMO for COVID 19 Guidance Document.Final
+03.24.2020.pdf.
+21. AARC, Care AA for R. Guidance Document - SARS CoV-2 [Internet]. 2020 [citado 30 de março
+de 2020]. p. 7. Available at: https://www.aarc.org/wp-
+content/uploads/2020/03/guidance-document-SARS-COVID19.pdf.
+22. NICE, National Institute for Health and Care Excellence. COVID-19 rapid guideline: critical
+care in adults [Internet]. NICE guideline [NG159]. 2020 [citado 6 de abril de 2020]. p.
+25. Available at: https://www.nice.org.uk/guidance/ng159/chapter/1-Admission-to-
+hospital.
+23. Ramanathan K, Antognini D, Combes A, Paden M, Zakhary B, Ogino M, et al. Planning and
+provision of ECMO services for severe ARDS during the COVID-19 pandemic and other
+outbreaks of emerging infectious diseases. Lancet Respir Med. 2020 Mar 20 Cited in
+Pubmed; PMID: 32203711.
+24. World Health Organization. Clinical management of severe acute respiratory infection (SARI)
+when COVID-19 disease is suspected. [Internet]. 12o ed. WHO/2019-
+nCoV/clinical/2020.4, organizador. 2020. p. 21. Available at:
+https://www.who.int/publications-detail/clinical-management-of-severe-acute-
+respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected.
+25. Goligher EC, Tomlinson G, Hajage D, Wijeysundera DN, Fan E, Jüni P, et al. Extracorporeal
+Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome and Posterior
+Probability of Mortality Benefit in a Post Hoc Bayesian Analysis of a Randomized Clinical
+Trial [Internet]. Vol. 320, JAMA - Journal of the American Medical Association. American
+Medical Association; 2018 [citado 26 de março de 2020]. p. 2251–9. Available at:
+http://www.ncbi.nlm.nih.gov/pubmed/30347031.
+

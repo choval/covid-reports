@@ -6,6 +6,42 @@
 * [https://www.minsalud.gob.bo/](https://www.minsalud.gob.bo/)
 
 
+## 2020-05-04
+
+* [4126-bolivia-confirma-124-personas-con-coronavirus-y-suma-en-total-1-594-contagiados](abafe41ccf8c3af53555fde5394be408120bdb1f/file.pdf) @13:43 GMT
+
+## 2020-05-03
+
+* [4121-covid-19-ministerio-de-salud-recomienda-un-estricto-control-en-el-ingreso-a-edificios-judiciales-para-evitar-contagios](1a74674a8af8671e8735ac08c049b0dcac5cec6d/file.pdf) @21:45 GMT
+* [4122-pilares-de-la-accion-covid-19-ministerio-de-salud](8f8e63f8ca5d3f9b48bd0483ebf23605d6a997fa/file.pdf) @21:45 GMT
+* [4125-definen-mecanismos-de-atencion-a-pacientes-con-covid-19-en-los-sistemas-publico-y-de-la-seguridad-social](9215a38592130a137d84e04a9c24ab85567188fa/file.pdf) @21:45 GMT
+
+## 2020-05-02
+
+* [4118-viceministro-quilla-realizo-ofrenda-a-la-pachamama-para-pedir-por-bolivia-frente-al-covid-19](0cfb068bc2ee9361b25cc3195768adae38f74576/file.pdf) @15:17 GMT
+* [4119-salud-analizara-la-prevalencia-del-covid-19-en-municipios-antes-de-flexibilizar-la-cuarentena](3c968b7a6c54063e714000e840d6d078d9f6e6be/file.pdf) @15:16 GMT
+
+## 2020-05-01
+
+* [4113-ministro-de-salud-asegura-participacion-democratica-para-flexibilizar-la-cuarentena-por-covid-19](7970ae4204b43f2fecb113b5e98fded99387df07/file.pdf) @20:10 GMT
+* [4114-ministerio-de-salud-quintuplico-la-capacidad-de-laboratorios-para-pruebas-de-covid-19-navajas](e0ae27cd145aa7c87ee83dfc1b72466bc1c35eb2/file.pdf) @20:10 GMT
+* [4116-pacientes-con-coronavirus-llegan-a-1-167-en-el-pais-y-132-se-recuperan](682a6b9b1a7fc203bdbd711246052538eb8adab3/file.pdf) @20:10 GMT
+* [4117-covid-19-recomendaciones-para-la-limpieza-y-desinfeccion-para-personas-superficies-y-espacios](a289c44a084d1f97e53ab09d3f7ea42b43ae1461/file.pdf) @20:09 GMT
+
+## 2020-04-29
+
+* [4103-bolivia-supera-los-1-000-casos-de-coronavirus-y-reporta-98-pacientes-recuperados](d6feb3aaf0b4f21395aa1bd63fd343698dec6f8a/file.pdf) @01:32 GMT
+
+## 2020-04-27
+
+* [4102-bolivia-registra-84-nuevos-casos-de-coronavirus-y-acumula-un-total-de-950](b8916665e3bc0e4402309e118752db9667d40cc5/file.pdf) @12:07 GMT
+
+## 2020-04-26
+
+* [4097-hospital-del-norte-recibe-equipos-medicos-e-insumos-para-afrontar-emergencia-por-el-covid-19](6f441d5f59a8d80230776cb2dc0813d7de4e27ce/file.pdf) @13:53 GMT
+* [4098-sube-a-807-el-numero-de-casos-de-coronavirus-en-el-pais-santa-cruz-es-la-region-mas-afectada](854a47a6280616088df629f0cf3b8ca0af941557/file.pdf) @13:53 GMT
+* [4099-ministerio-de-salud-reporta-866-casos-de-coronavirus-y-74-pacientes-recuperados](888f640928de338f9964d7523addd563852576eb/file.pdf) @13:53 GMT
+
 ## 2020-04-24
 
 * [4093-bolivia-supera-los-700-casos-confirmados-de-covid-19-y-registra-43-fallecidos](66266a129e1a8e450e1db7a49acd8f81cf563074/file.pdf) @16:54 GMT

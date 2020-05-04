@@ -1,0 +1,20 @@
+{
+    "filename": "Bolletino-sorveglianza-integrata-COVID-19_28-aprile-2020_appendix.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/bollettino\/Bolletino-sorveglianza-integrata-COVID-19_28-aprile-2020_appendix.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588364258,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1102478",
+        "content-type": "application\/pdf",
+        "last-modified": "Thu, 30 Apr 2020 14:55:36 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"8d5ffd67ff1ed61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Fri, 01 May 2020 20:17:37 GMT"
+    },
+    "lang": "it,en",
+    "size": 1102478,
+    "modified": 1588258536
+}

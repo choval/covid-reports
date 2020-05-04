@@ -7,6 +7,11 @@
 * [https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/material-de-descarga/)
 
 
+## 2020-04-30
+
+* [Resolución-Exenta-Nº147-Laboratorios-Universidades.pdf](9605ae6bdfd4e5e2610dc106b64d0ca6e5f6b585/file.pdf) @15:20 GMT
+* [Resolución-Exenta-Nº157-Laboratorios-Universidades-2.pdf](18d7b4bf2a828297baa7f8785ba7ef2d9af09a07/file.pdf) @15:20 GMT
+
 ## 2020-04-18
 
 * [02-04-GUIA-PRACTICA-PARA-EL-AUTOCUIDADO-DE-LA-SALUD.pdf](dbb0a7c7546ff38fb2001fe51d3664b0168cfe92/file.pdf) @04:24 GMT

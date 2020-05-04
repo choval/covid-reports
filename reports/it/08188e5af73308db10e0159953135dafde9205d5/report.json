@@ -1,0 +1,25 @@
+{
+    "filename": "CSCovid19_Ord_11-2020-txt.pdf",
+    "uri": "http:\/\/www.governo.it\/sites\/new.governo.it\/files\/CSCovid19_Ord_11-2020-txt.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588124257,
+    "headers": {
+        "http-status": 200,
+        "x-content-type-options": "nosniff",
+        "last-modified": "Sun, 26 Apr 2020 19:41:55 GMT",
+        "etag": "\"3a577-5a436ca70432c\"",
+        "content-length": "238967",
+        "content-type": "application\/pdf",
+        "server": "FICT",
+        "x-powered-by": "FICT1.1",
+        "x-generator": "FICT1.2",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=1",
+        "expires": "Wed, 29 Apr 2020 01:37:37 GMT",
+        "date": "Wed, 29 Apr 2020 01:37:36 GMT",
+        "connection": "keep-alive"
+    },
+    "lang": "it",
+    "size": 238967,
+    "modified": 1587930115
+}

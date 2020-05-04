@@ -1,0 +1,32 @@
+{
+    "filename": "actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-13",
+    "uri": "https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-13",
+    "output": "file.pdf",
+    "downloaded": 1588543253,
+    "headers": {
+        "http-status": 200,
+        "date": "Sun, 03 May 2020 21:55:05 GMT",
+        "server": "Apache",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "x-frame-options": "ALLOW-FROM",
+        "x-content-type-options": "nosniff",
+        "x-powered-by": "PHP\/7.3.11",
+        "cache-control": "max-age=0, no-store",
+        "x-drupal-dynamic-cache": "MISS",
+        "link": "<https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-13>; rel=\"canonical\", <https:\/\/www.gub.uy\/ministerio-salud-publica\/comunicacion\/noticias\/actualizacion-informacion-relacion-coronavirus-covid-19-uruguay-13>; rel=\"revision\"",
+        "x-ua-compatible": "IE=edge",
+        "content-language": "es",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "vary": "Cookie",
+        "x-generator": "Drupal 8 (https:\/\/www.drupal.org)",
+        "content-security-policy": "frame-ancestors",
+        "x-drupal-cache": "HIT",
+        "last-modified": "Sun, 03 May 2020 21:55:05 GMT",
+        "etag": "\"1588542905\"",
+        "content-type": "text\/html; charset=UTF-8",
+        "set-cookie": "ruta.msp=.prod-punif-geopa-app05; path=\/ministerio-salud-publica"
+    },
+    "lang": "es",
+    "size": 143885,
+    "modified": 1588543256
+}

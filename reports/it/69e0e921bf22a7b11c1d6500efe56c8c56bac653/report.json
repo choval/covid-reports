@@ -1,0 +1,28 @@
+{
+    "filename": "ema-warns-against-using-unproven-cell-based-therapies_en.pdf",
+    "uri": "https:\/\/www.ema.europa.eu\/en\/documents\/public-statement\/ema-warns-against-using-unproven-cell-based-therapies_en.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588364310,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "95010",
+        "date": "Fri, 01 May 2020 20:18:30 GMT",
+        "server": "Apache\/2.4.35 (IUS) OpenSSL\/1.0.2k-fips",
+        "x-powered-by": "PHP\/5.6.38",
+        "x-drupal-cache": "MISS",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "199975714 187059648",
+        "via": "1.1 varnish (Varnish\/5.2), 1.1 b88590232bb01c7848a4a04ce9133750.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "soWYbUsH_nIE6cOu4ZaIkvUszh6P2M-Qeb2n-eB5iv7h6Y0uiLnbCg==",
+        "age": "188"
+    },
+    "lang": "it",
+    "size": 95010,
+    "modified": 1588364311
+}

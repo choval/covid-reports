@@ -1,0 +1,19 @@
+{
+    "filename": "38cddd-InstructivoDELIVERY01.05.20.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/38cddd-InstructivoDELIVERY01.05.20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588542947,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 03 May 2020 21:55:40 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "676696",
+        "last-modified": "Sun, 03 May 2020 14:54:57 GMT",
+        "etag": "\"a5358-5a4bf990ecdcb\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 676696,
+    "modified": 1588517697
+}

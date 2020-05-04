@@ -1,0 +1,26 @@
+{
+    "filename": "COVID-19-public-transport-29-April-2020.pdf",
+    "uri": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/documents\/COVID-19-public-transport-29-April-2020.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588364121,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "479767",
+        "date": "Fri, 01 May 2020 20:15:21 GMT",
+        "server": "nginx\/1.17.5",
+        "etag": "\"75217-5a47df06363d0\"",
+        "last-modified": "Thu, 30 Apr 2020 08:34:54 GMT",
+        "cache-control": "public,max-age=0,s-maxage=0",
+        "x-varnish": "630709600 631571531",
+        "via": "1.1 varnish (Varnish\/6.0), 1.1 3b7c593400497eb41ce8e66a6c8cdc09.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "vcT4It5jki6-qsZ1gVpIizBkFLJ3uU-Bj5COVUuwlGLnmvL0NaOyvw==",
+        "age": "306"
+    },
+    "lang": "en",
+    "size": 479767,
+    "modified": 1588235694
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "Comunicado_Tecnico_Diario_COVID-19_2020.04.27.pdf",
+    "uri": "https:\/\/www.gob.mx\/cms\/uploads\/attachment\/file\/548614\/Comunicado_Tecnico_Diario_COVID-19_2020.04.27.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588124583,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "content-type": "application\/pdf",
+        "content-length": "651746",
+        "last-modified": "Tue, 28 Apr 2020 01:31:08 GMT",
+        "etag": "\"5ea7875c-9f1e2\"",
+        "accept-ranges": "bytes",
+        "cache-control": "public, max-age=80391",
+        "expires": "Thu, 30 Apr 2020 00:02:54 GMT",
+        "date": "Wed, 29 Apr 2020 01:43:03 GMT"
+    },
+    "lang": "es",
+    "size": 651746,
+    "modified": 1588037468
+}

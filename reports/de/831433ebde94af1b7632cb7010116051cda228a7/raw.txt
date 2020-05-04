@@ -1,0 +1,540 @@
+Leitfaden für den Öffentlichen
+Gesundheitsdienst zum Vorgehen bei
+Häufungen von COVID-19
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+2
+2
+Robert Koch-Institut
+Abteilung für Infektionsepidemiologie
+Stand: 02.05.2020
+Die Inhalte basieren auf den Erkenntnissen zu Erkrankungen (COVID-19) mit Infektionen durch das neuartige
+Coronavirus (SARS-CoV-2) zum jeweils angegebenen Datenstand.
+Das Dokument wird aktualisiert und ergänzt, sobald neue Erkenntnisse eine Aktualisierung/Änderung der
+Empfehlungen notwendig machen.
+Beteiligung an dem Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von
+COVID-19
+Robert Koch-Institut:
+RKI-Krisenstab COVID-19
+Fachgebiet für Surveillance (FG32)
+Fachgebiet für Respiratorisch übertragbare Erkrankungen (FG36)
+Fachgebiet für Nosokomiale Infektionen, Surveillance von Antibiotikaresistenz und –verbrauch (FG37)
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+3 3
+3
+Inhalt
+Vorwort ...................................................................................................................................................................... 4
+Einleitung....................................................................................................................................................................5
+Hintergrund: Krankheit und Erreger..........................................................................................................................5
+Erkennen eines Ausbruchs........................................................................................................................................ 6
+Diagnostik.............................................................................................................................................................. 6
+Probenmaterial für die PCR-Diagnostik zum Erregernachweis ....................................................................... 6
+Erregernachweis durch RT-PCR ........................................................................................................................ 6
+Antikörpernachweise........................................................................................................................................ 6
+Surveillance............................................................................................................................................................ 7
+Meldungen gemäß Infektionsschutzgesetz ..................................................................................................... 7
+Zusammenführen von Fällen zu einer Häufung im elektronischen Meldesystem..................................... 7
+Gesetzliche Grundlage ...................................................................................................................................... 7
+Bewältigen eines Ausbruchs ..................................................................................................................................... 8
+Ausbruchsuntersuchungsteams: Aufgaben, Etablierung und Entsendung .................................................... 8
+Fallfindung............................................................................................................................................................. 8
+Verdacht auf COVID-19 ..................................................................................................................................... 9
+Infografik zur Fallfindung ............................................................................................................................... 9
+Testen von asymptomatischen Personen im Rahmen von Ausbrüchen............................................................. 9
+Daten ordnen (nach Zeit, Ort, Person) und deskriptiv auswerten ...................................................................... 9
+Kontrollmaßnahmen ergreifen............................................................................................................................ 10
+Kontaktreduzierende Maßnahmen...................................................................................................................... 11
+Optionen zur getrennten Versorgung von COVID-19 Verdachtsfällen/Fällen und anderen Personen .... 11
+Verhaltensmaßnahmen........................................................................................................................................ 11
+Management von Kontaktpersonen .................................................................................................................... 11
+Generelle Umsetzung der Basishygiene und Händehygiene..............................................................................12
+Räumliche Unterbringung bei einzelnen Fällen ..............................................................................................12
+Personalmaßnahmen.......................................................................................................................................12
+Vorgehen bei der Versorgung von Patienten mit bestätigter Infektion..........................................................13
+Dauer der Maßnahmen....................................................................................................................................13
+Desinfektion und Reinigung ................................................................................................................................13
+Umgang mit Verstorbenen...................................................................................................................................13
+Kommunikation........................................................................................................................................................13
+Abklingen eines Ausbruchs......................................................................................................................................14
+Wichtige Links ..........................................................................................................................................................15
+Impressum ...............................................................................................................................................................17
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+4
+4
+Vorwort
+Die weltweite Ausbreitung von COVID-19 wurde am 11.03.2020 von der WHO zu einer Pandemie erklärt. Das
+Robert Koch-Institut beobachtet und analysiert die Lage und leitet daraus Empfehlungen für
+Infektionsschutzmaßnahmen ab, die an die jeweilige Situation angepasst sind.
+Die massiven Anstrengungen auf allen Ebenen des Öffentlichen Gesundheitsdienstes (ÖGD) verfolgen
+weiterhin das Ziel, die Infektionen in Deutschland so früh wie möglich zu erkennen und die weitere
+Ausbreitung des Virus so weit wie möglich zu verzögern. Sie sollten durch gesamtgesellschaftliche
+Anstrengungen wie die Reduzierung von sozialen Kontakten mit dem Ziel der Vermeidung von Infektionen
+im privaten, beruflichen und öffentlichen Bereich sowie eine Reduzierung der Reisetätigkeit ergänzt werden.
+Dadurch soll die Zahl der gleichzeitig Erkrankten so gering wie möglich gehalten und Zeit gewonnen werden,
+um weitere Vorbereitungen zu treffen, wie Schutzmaßnahmen für besonders gefährdete Gruppen,
+Behandlungskapazitäten in Kliniken zu erhöhen, Belastungsspitzen im Gesundheitssystem zu vermeiden und
+die Entwicklung antiviraler Medikamente und von Impfstoffen zu ermöglichen.
+Dieser Leitfaden zum Management von COVID-19 Ausbrüchen richtet sich in erster Linie an die
+Fachöffentlichkeit im Gesundheitswesen, insbesondere den ÖGD auf allen Ebenen. Er verweist auf viele
+bereits existierende generische sowie für COVID-19 entwickelten Dokumente. Diese Empfehlungen sind alle
+unter www.rki.de/covid-19 zu finden, darunter Empfehlungen für das Kontaktpersonenmanagement,
+Optionen für die Kontaktreduzierung, Kriterien für die Risikoeinschätzung von Großveranstaltungen und
+Hilfestellung zum Schutz besonders gefährdeter Gruppen. Informationen für Reisende sind beim Auswärtigen
+Amt zu finden. Informationen zur regionalen oder lokalen Ebene geben die Landes- und kommunalen
+Gesundheitsbehörden.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+5 5
+5
+Einleitung
+Bei vielen schwer an COVID-19 erkrankten Menschen muss mit einer im Verhältnis zu anderen schweren
+akuten respiratorischen Erkrankungen (ARE) längerer Behandlung mit Beatmung/zusätzlichem
+Sauerstoffbedarf gerechnet werden. Da weder eine Impfung noch eine spezifische Therapie derzeit zur
+Verfügung stehen, müssen alle Maßnahmen darauf ausgerichtet sein, die Verbreitung der Erkrankung so gut
+wie möglich zu verlangsamen. Dazu ist es wichtig Infektionsgeschehen schnell zu entdecken und die
+Ausbreitung durch Fallfindung und Absonderung von engen Kontaktpersonen zu verlangsamen bzw. die
+Infektionsketten zu unterbrechen.
+Insbesondere Risikogruppen wie z.B. Personen mit einem höherem Alter und/oder Grunderkrankungen, in
+Krankenhäusern oder Alten- und Pflegeinrichtungen müssen besonders vor Infektionen geschützt werden. Sie
+gehören zu dem Personenkreis mit einem erhöhten Risiko für schwere Krankheitsverläufe von COVID-19.
+Darüber hinaus besteht bei Auftreten einer COVID-19-Erkrankung in einer Einrichtung aufgrund der
+gemeinsamen räumlichen Unterbringung, der Teilnahme an gemeinsamen Aktivitäten und z.T. nahem
+physischen Kontakt bei pflegerischen Tätigkeiten ein erhöhtes Risiko für den Erwerb einer Infektion.
+Daher können bereits einzelne SARS-CoV-2 Nachweise in solchen Bereichen Auslöser für gezielte
+Maßnahmen zum Ausbruchsmanagement darstellen und ggf. auch eine sensitivere Testung sinnvoll sein. Das
+Ziel ist es hierbei, Infektionsketten zu identifizieren und zu unterbrechen, um somit die Zahl der Erkrankten
+so gering wie möglich zu halten und um den Betrieb der Einrichtungen weiter aufrechterhalten zu können.
+Es gibt sowohl für COVID-19-Ausbrüche in Gesundheitseinrichtungen als auch für Ausbrüche in Alten- und
+Pflegeheimen einen spezifischen Leitfaden:
+• Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen
+www.rki.de/covid-19-pflegeeinrichtungen
+• Management von COVID-19 Ausbrüchen im Gesundheitswesen
+www.rki.de/covid-19-ausbrueche-gesundheitswesen
+Darüber hinaus liegt eine Checkliste zum Vorgehen bei respiratorischen Ausbrüchen vor:
+www.rki.de/checkliste-respiratorischer-ausbruch.
+Die WHO hat darüber hinaus 2015 einen allgemeinen Leitfaden zur Untersuchung von respiratorischen
+Ausbrüchen unklare Ätiologie (https://www.afro.who.int/sites/default/files/2017-06/protocol-for-the-
+investigation-of-acute-respiratory-illness-outbreaks-of....pdf) veröffentlicht.
+Hintergrund: Krankheit und Erreger
+Auf der RKI-Internetseite ist ein Steckbrief zu COVID-19 veröffentlicht, welcher auf der laufenden Sichtung
+der wissenschaftlichen Literatur, inklusive der methodischen Bewertung der entsprechenden Quellen, basiert.
+Die dort aufgeführten Aspekte stellen eine Auswahl unter dem Schwerpunkt der epidemiologischen und für
+Public Health relevanten Aspekten des Erregers dar. Dieser Erregersteckbrief ist ein „dynamisches
+Dokument“, d.h. Erweiterungen, Präzisierungen, Kürzungen werden laufend vorgenommen.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+6
+6
+Erkennen eines Ausbruchs
+Diagnostik
+Probenmaterial für die PCR-Diagnostik zum Erregernachweis
+Bei Verdacht auf das Vorliegen einer Infektion mit dem neuartigen Coronavirus (SARS-CoV-2) sollten
+möglichst Proben parallel aus den oberen und den tiefen Atemwegen entnommen werden.
+Hinweise zur Abnahme, Verpackung und Versand finden Sie unter www.rki.de/covid-19-diagnostik
+Erregernachweis durch RT-PCR
+Für eine labordiagnostische Abklärung des Verdachts auf eine Infektion mit dem SARS-CoV-2 wurden PCR-
+Nachweissysteme u.a. auch vom Konsiliarlabor für Coronaviren (Charité Berlin) entwickelt und vorläufig
+validiert, die über die Webseite der WHO zu Coronaviren verfügbar sind. Proben zur Untersuchung können an
+das Konsiliarlabor für Coronaviren verschickt werden
+https://virologie-ccm.charite.de/diagnostik/konsiliarlaboratorium_fuer_coronaviren/.
+Auch weitere Labore können die RT-PCR-Diagnostik durchführen. Eine Liste dieser Labore wird z.B. auf der
+Webseite der Gesellschaft für Virologie zur Verfügung gestellt (https://www.g-f-v.org/node/1233).
+Eine Testung ist grundsätzlich bei symptomatischen Personen entsprechend der Empfehlungen des RKI sowie
+im Rahmen der differentialdiagnostischen Abklärung empfohlen, wenn ein klinischer Verdacht besteht
+aufgrund von Anamnese, Symptomen oder Befunden, die mit einer COVID-19-Erkrankung vereinbar sind und
+eine Diagnose für eine andere Erkrankung fehlt, die das Krankheitsbild ausreichend erklärt. In bestimmten
+Situationen, wie z. B. Ausbrüchen in Einrichtungen der Altenpflege kann auch die Testung von
+asymptomatischen Personen Teil der Strategie sein. Zur Teststrategie siehe hierzu auch das jeweils aktuelle
+Flussdiagramm des RKI sowie die Angaben der KBV zur Vergütung der Leistungen.
+Ein negatives PCR-Ergebnis schließt die Möglichkeit einer Infektion mit SARS-CoV-2 nicht vollständig aus.
+Falsch-negative Ergebnisse können z.B. aufgrund schlechter Probenqualität, unsachgemäßem Transport oder
+ungünstigem Zeitpunkt (bezogen auf den Krankheitsverlauf) der Probenentnahme nicht ausgeschlossen
+werden. Wenn ein Patient mit begründetem Verdacht auf SARS-CoV-2-Infektion in der initialen PCR negativ
+getestet wird, sollte mit dem Labor eine erneute Probenentnahme und -untersuchung abgesprochen werden.
+Bei tiefen Atemwegsinfektionen ist die alleinige Testung von Probenmaterial aus dem Oro- und Nasopharynx
+zum Ausschluss einer Infektion nicht geeignet, da in dieser Phase der Erkrankung ggf. nur Material aus dem
+unteren Respirationstrakt oder Stuhl in der PCR positiv sein kann. Die Proben sollten bei entsprechendem
+klinischem Anhalt differentialdiagnostisch auch auf andere in Frage kommende respiratorische Erreger
+untersucht werden.
+Die vom Patienten gewonnenen Proben sollten asserviert werden, um im Zweifelsfall weitere Untersuchungen
+zu ermöglichen. Es ist sinnvoll, positive Proben zur Bestätigung an das Konsiliarlabor für Coronaviren senden
+https://virologie-ccm.charite.de/diagnostik/konsiliarlaboratorium_fuer_coronaviren/ .
+Antikörpernachweise
+Erste Tests zum Antikörpernachweis sind beschrieben. Serumproben sollten möglichst früh in der Akutphase
+gesammelt und asserviert werden, um eine Serokonversion für SARS-CoV-2 mittels Paarung mit
+Konvaleszentenserum überprüfen zu können. Es wird auf derzeit nicht auszuschließende serologische
+Kreuzreaktivitäten von SARS-CoV-2 mit anderen Betacoronaviren hingewiesen. Grundsätzlich besteht die
+Möglichkeit der Prüfung der Spezifität der Antikörper mittels Mikroneutralisationstest.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+7 7
+7
+Surveillance
+Meldungen gemäß Infektionsschutzgesetz
+Meldungen gemäß Infektionsschutzgesetz (IfSG) und der Verordnung über die Ausdehnung der Meldepflicht
+nach § 6 Absatz 1 Satz 1 Nummer 1 und § 7 Absatz 1 Satz 1 des Infektionsschutzgesetzes auf Infektionen mit
+dem erstmals im Dezember 2019 in Wuhan/Volksrepublik China aufgetretenen neuartigen Coronavirus
+("2019-nCoV") müssen innerhalb 24 h dem zuständigen Gesundheitsamt vorliegen.
+Abbildung 1: Meldewesen gemäß Infektionsschutzgesetz, vereinfachte Darstellung. Quelle: Abb. 3 unter
+https://www.rki.de/DE/Content/Infekt/Preparedness_Response/Rahmenkonzept_Epidemische_bedeutsame_Lagen.html
+Zur Übermittlung von COVID-19 Verdachts- Erkrankungs- und Todesfällen von den Gesundheitsämtern über
+die oberen Landesgesundheitsbehörden zum RKI hat das RKI gemäß § 11 Abs. 2 IfSG eine Falldefinition
+erstellt. Diese ist abrufbar unter www.rki.de/covid-19-falldefinition.
+Das Gesundheitsamt übermittelt gemäß § 11 Abs. 1 IfSG an die zuständige Landesbehörde nur Erkrankungs-
+oder Todesfälle und Erregernachweise, die der Falldefinition gemäß § 11 Abs. 2 IfSG entsprechen.
+Zusammenführen von Fällen zu einer Häufung im elektronischen Meldesystem
+COVID-19-Fälle können in SurvNet auf Gesundheitsamtebene zu einer Häufung zusammengeführt werden.
+Bei regionalen oder bundeslandübergreifenden Ausbrüchen können die zuständigen Landesbehörden und das
+RKI übergeordnete Häufungen anlegen. Die Übermittlung erfolgt gemäß IfSG § 11.
+Bei Häufungen bzw. Ausbrüchen sollten die entsprechenden Einträge soweit wie möglich durch das
+Gesundheitsamt eruiert und in das elektronische Meldesystem eingetragen werden (Setting, Evidenz, usw.).
+Gesetzliche Grundlage
+Am 01.02.2020 ist die Verordnung über die Ausdehnung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1
+und § 7 Absatz 1 Satz 1 des Infektionsschutzgesetzes auf Infektionen mit dem erstmals im Dezember 2019 in
+Wuhan/Volksrepublik China aufgetretenen neuartigen Coronavirus ("2019-nCoV") (CoronaVMeldeV) in Kraft
+getreten. Das Virus wird mittlerweile als SARS-CoV-2 bezeichnet.
+Meldepflichtig sind der begründete Verdacht einer Erkrankung, die Erkrankung sowie der Tod in Bezug auf
+eine Infektion, die durch das neuartige Coronavirus (SARS-CoV-2) hervorgerufen wird.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+8
+8
+Bewältigen eines Ausbruchs
+Ausbruchsuntersuchungsteams: Aufgaben, Etablierung und Entsendung
+In der Regel werden Ausbrüche durch Mitarbeitende der zuständigen Gesundheitsbehörde untersucht. Auf
+Ersuchen der obersten Landesgesundheitsbehörden kann bei Bedarf, insbesondere im Falle
+bundeslandübergreifender Ausbruchsgeschehen, ein Team von Expertinnen und Experten inklusive
+epidemiologischer Expertise durch das RKI zur Unterstützung der Landesbehörden und Gesundheitsämter
+hinzugezogen werden (siehe IfSG § 4 bzw. im Falle eines Koordinierungsverfahrens die IfSGKoordinierungs-
+VwV § 5). Das RKI unterstützt in einem solchen Fall die Gesundheitsämter und Landesgesundheitsbehörden
+bei der Suche nach der Ansteckungsquelle, zum Beispiel durch Beratung, Bereitstellung geeigneter
+Fragebögen, Durchführung von epidemiologischen Studien oder Labordiagnostik (insbesondere
+Erregerfeintypisierung). Bei krisenhaften bundeslandübergreifenden Ausbruchsgeschehen kann das RKI in
+Absprache mit den obersten Landesgesundheitsbehörden auch die Koordinierung der
+Ausbruchsuntersuchung übernehmen.
+Generell sammeln und analysieren Ausbruchsuntersuchungsteams Informationen, leiten Empfehlungen ab
+und kommunizieren diese zielgruppengerecht. Im Ausbruch übernehmen sie generell beratende und
+koordinierende Aufgaben. Sie führen bei akuten Ausbruchsgeschehen u. a. schnell feldepidemiologische
+Studien durch, beispielsweise um Evidenz für Maßnahmen zu generieren. Sie tragen dazu bei, den Ausbruch
+zu verifizieren, zu beschreiben (nach Zeit, Ort und betroffenen Personen), Hypothesen zu entwickeln und
+fehlende Erkenntnisse etwa zu auslösendem Agens, Erregereigenschaften, Übertragungswegen,
+Transmissionsketten, Risikofaktoren, Impfeffektivität etc. zu generieren, um zielgerichtet effiziente und
+angemessene Maßnahmen zum Stoppen des Ausbruches empfehlen zu können.
+Es gibt sowohl für Ausbrüche in Gesundheitseinrichtungen als auch für Ausbrüche in Alten- und
+Pflegeheimen einen spezifischen Leitfaden:
+• Management von COVID-19 Ausbrüchen im Gesundheitswesen
+(www.rki.de/covid-19-ausbrueche-gesundheitswesen)
+• Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen
+(www.rki.de/covid-19-pflegeeinrichtungen)
+Darüber hinaus liegt eine Checkliste zum Vorgehen bei respiratorischen Ausbrüchen vor:
+www.rki.de/checkliste-respiratorischer-ausbruch.
+Fallfindung
+In akuten Ausbruchsgeschehen von COVID-19 kann eine aktive Suche nach Fällen nötig werden. Die aktive
+Fallsuche hat das Ziel,
+• weitere Erkrankungsfälle frühzeitig entdecken,
+• Infektionsketten zu unterbrechen und Neuansteckungen zu vermeiden,
+• das Ausmaß des Infektionsgeschehens abzuschätzen,
+• die Aufmerksamkeit der zuständigen Behörden und Gesundheitseinrichtungen zu steigern und
+• als unterstützende Maßnahme bei der Suche nach der Infektionsquelle zu dienen.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+9 9
+9
+Eine aktive Fallsuche kann erfolgen durch:
+• Proaktive Suche nach Erkrankungsfällen beim Menschen, z. B. im Umfeld von Erkrankten
+(Umgebungsuntersuchungen) durch die zuständigen Gesundheitsämter, ggf. mit Unterstützung der
+Landesbehörden und nach Ersuchen durch eine oberste Landesgesundheitsbehörde mit
+Unterstützung des RKI.
+• Implementierung von Screeningmaßnahmen, z. B. in besonders gefährdeten Bevölkerungsgruppen
+oder in Lebensbereichen, die eine Übertragung erleichtern (z. B. Gemeinschaftseinrichtungen).
+• Information und Beratung von niedergelassenen Ärztinnen und Ärzten sowie aller Kliniken und
+Labore über die epidemiologische Situation mit Aufforderung zur sofortigen Meldung.
+Gerade in spezifischen Settings wie Alten- und Pflegeheimen ist die Fallfindung von großer Bedeutung und
+Tests sollten auch bei asymptomatischen Personen im Altenheim erfolgen. Maßnahmen wie z.B.
+Separierungen sollen schnell implementiert werden.
+Verdacht auf COVID-19
+Der Verdacht auf COVID-19 ist begründet, wenn bei Personen mindestens eine der beiden folgenden
+Konstellationen vorliegt:
+• Personen mit akuten respiratorischen Symptomen jeder Schwere UND Kontakt mit einem
+laborbestätigten Fall von COVID-19
+• Auftreten von zwei oder mehr Lungenentzündungen (Pneumonien) in einer medizinischen
+Einrichtung, einem Pflege- oder Altenheim, bei denen ein epidemischer Zusammenhang
+wahrscheinlich ist oder vermutet wird, auch ohne Vorliegen eines Erregernachweises.
+Bei diesen Personen sollte eine diagnostische Abklärung erfolgen
+(https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Empfehlung_Meldung.html).
+Infografik zur Fallfindung
+Das Robert Koch-Institut stellt eine Infografik zur Fallfindung für die Ärzteschaft zur Verfügung. Diese kann
+hier abgerufen werden: www.rki.de/covid-19-flussschema
+Testen von asymptomatischen Personen im Rahmen von Ausbrüchen
+Im Rahmen von Ausbrüchen ist es wichtig, dass auch asymptomatische Personen auf SARS-Cov-2 getestet
+werden. Dies muss je nach Ausbruch (z.B. Setting, Risikogruppen, Kontaktart) auch sehr umfangreich
+erfolgen. Gerade in spezifischen Settings wie z.B. Alten- und Pflegeheimen oder in Krankenhäusern ist die
+Fallfindung von großer Bedeutung.
+Daher sollen in solchen Situationen gezielt asymptomatische Personen getestet werden, bei denen die
+Fallfindung eine hohe Relevanz hat (inklusive medizinischen Personal und Personal in Alten- und
+Pflegeheimen sowie Personen im Bereich von Behinderteneinrichtungen).
+Daten ordnen (nach Zeit, Ort, Person) und deskriptiv auswerten
+Bei Ausbruchsgeschehen ist es wichtig, relevante Informationen (wer, wo, wann) systematisch zu erfassen.
+Nur so lassen sich Zusammenhänge erkennen und besser verstehen, was notwendig ist, um Hypothesen (z.B.
+bezüglich Infektionsketten) zu entwickeln und Maßnahmen einzuleiten.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+10
+10
+Zu erfassende Daten sind u.a. das Alter der erkrankten Personen, durchschnittliches Alter bzw. Altersmedian,
+Altersspanne, Geschlechterverteilung, Symptome, Symptombeginn, Hospitalisierungen, Todesfälle,
+Labordiagnostik und betroffene Personengruppe(n). Mit Hilfe einer Linelist werden alle verfügbaren
+Informationen zu den einzelnen Fällen gesammelt. Neu identifizierte Fälle werden systematisch befragt,
+Informationen der Linelist hinzugefügt.
+In den Anlagen zu den Empfehlungen für Alten- und Pflegeeinrichtungen und Einrichtungen für Menschen
+mit Beeinträchtigungen und für den öffentlichen Gesundheitsdienst gibt es hierzu hilfreiche Dokumente wie
+z.B. Vorlagen zur Erhebung von Symptomen. Diese können unter www.rki.de/covid-19-pflegeeinrichtungen
+abgerufen werden.
+Weiterführende Studien können helfen, neue Informationen z.B. zum Erreger zu gewinnen. Das RKI
+unterstützt bereits einige Gesundheitsämter bei der Erhebung und Auswertung von Daten zu COVID-19.
+Kontrollmaßnahmen ergreifen
+Durch Implementierung gezielter Maßnahmen können Ausbrüche von COVID-19 verlangsamt, kontrolliert
+oder gestoppt und sowohl weitere Fälle als auch Folgeausbrüche reduziert bzw. verhindert werden.
+Die wichtigsten Infektionsschutzmaßnahmen sind die frühzeitige Isolation von Fällen sowie Quarantäne von
+engen Kontaktpersonen.
+Generell müssen Maßnahmen insbesondere in Settings mit Risikogruppen zur Vermeidung einer weiteren
+Ausbreitung in Abstimmung mit dem Gesundheitsamt umgehend Maßnahmen ergriffen werden. Bisherige
+Erfahrungen aus Ausbrüchen in Alten- und Pflegeheimen haben gezeigt, dass es einen nicht unerheblichen
+Anteil an asymptomatischen bzw. noch nicht symptomatischen, aber infizierten Heimbewohner*innen gibt,
+die zur Weiterverbreitung beitragen können. Daher wird empfohlen, frühzeitig die Hygienemaßnahmen auf
+die gesamte Station auszuweiten. Bei Ausbrüchen in solchen Einrichtungen kann auch die Testung von
+asymptomatischen Personen Teil der Strategie sein.
+Essentielle Maßnahmen zum Management von Ausbruchssituationen beinhalten neben der Implementierung
+von erweiterten Hygiene- und Infektionskontrollmaßnahmen die Identifizierung der infizierten Personen
+durch zeitnahe Diagnostik von symptomatisch Erkrankten und durch ein Screening von asymptomatischen
+Personen mit und ohne direkten Kontakt zu Infizierten und konsequente Nachverfolgung und Management
+von Kontakten mit dem übergeordneten Ziel Infektionsketten zu erkennen und zu unterbrechen.
+Es gibt sowohl für Ausbrüche in Gesundheitseinrichtungen als auch für Ausbrüche in Alten- und
+Pflegeheimen einen spezifischen Leitfaden, in dem auch relevante Maßnahmen aufgeführt werden:
+• Management von COVID-19 Ausbrüchen im Gesundheitswesen
+(www.rki.de/covid-19-ausbrueche-gesundheitswesen)
+• Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen
+(www.rki.de/covid-19-pflegeeinrichtungen)
+Darüber hinaus liegt eine Checkliste zum Vorgehen bei respiratorischen Ausbrüchen vor:
+www.rki.de/checkliste-respiratorischer-ausbruch
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+11 11
+11
+Kontaktreduzierende Maßnahmen
+Optionen zur Kontaktreduktion in unterschiedlichen Lebensbereichen sind beispielhaft aufgeführt hier
+abrufbar: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Kontaktreduzierung.html
+Optionen zur getrennten Versorgung von COVID-19 Verdachtsfällen/Fällen und anderen Personen
+Dem Öffentlichen Gesundheitsdienst, insbesondere den vor Ort für die Durchführung des
+infektionshygienischen Managements verantwortlichen Gesundheitsämtern, kommt insbesondere am Beginn
+eines neuen epidemisch bedeutsamen Geschehens große Bedeutung und Verantwortung zu.
+Eine bestmögliche Trennung der Versorgung von SARS-CoV-2 Infizierten und anderen Patient*innen bzw.
+Bewohner*innen von Alten- und Pflegeheimen ist das übergeordnete Ziel, um das Risiko von Übertragungen
+auf medizinisches bzw. pflegerisches Personal und andere Patient*innen bzw. Bewohner*innen zu
+minimieren. Falls möglich sollte auch das Personal für die Versorgung kohortiert werden.
+In medizinischen Einrichtungen beginnt die getrennte Patientenversorgung bei der Testung von
+Verdachtsfällen und muss sich in den verschiedenen Sektoren der Gesundheitsversorgung fortsetzen.
+Dies beinhaltet die Bereiche:
+1. Testung
+2. Ambulante Versorgung von bestätigten Fällen
+3. Getrennte Patientenversorgung im ambulanten und stationären Bereich
+Verhaltensmaßnahmen
+Um sich selbst und andere vor einer Ansteckung mit SARS-CoV-2 zu schützen, sind eine gute Händehygiene,
+Einhalten von Husten- und Niesregeln und das Abstandhalten (mindestens 1,5 Meter) die wichtigsten und
+effektivsten Maßnahmen.
+Für die Bevölkerung empfiehlt das RKI das Tragen einer Mund-Nasen-Bedeckung (textile Barriere im Sinne
+eines MNS) in bestimmten Situationen im öffentlichen Raum. Das Tragen der Mund-Nasen-Bedeckung kann
+ein zusätzlicher Baustein sein, um die Ausbreitungsgeschwindigkeit von COVID-19 in der Bevölkerung zu
+reduzieren – allerdings nur, wenn weiterhin Abstand (mind. 1,5 Meter) von anderen Personen, Husten- und
+Niesregeln und eine gute Händehygiene eingehalten werden (siehe auch Mund-Nasen-Bedeckung im
+öffentlichen Raum als weitere Komponente zur Reduktion der Übertragungen von COVID-19. Strategie-
+Ergänzung zu empfohlenen Infektionsschutzmaßnahmen und Zielen (3. Update), Epid Bull 19/2020).
+Für die Mitarbeitende des Gesundheitsamts und das Ausbruchsteam gelten die Arbeitsschutzregeln, d.h.
+zumindest MNS oder FFP2 wir bei medizinischem Personal.
+Management von Kontaktpersonen
+Einzelne Infektionen sollen so früh wie möglich erkannt werden, um die weitere Ausbreitung so weit wie
+möglich zu verhindern. Um das zu erreichen, müssen Infektionsketten so schnell wie möglich unterbrochen
+werden. Dies gelingt nur, wenn Kontaktpersonen von labordiagnostisch bestätigten Infektionsfällen möglichst
+lückenlos identifiziert werden.
+Grundsätzlich gilt die Einschätzung der individuellen Situation des Geschehens durch das lokal zuständige
+Gesundheitsamt.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+12
+12
+Auf der RKI Internetseite gibt es hilfreiche Dokumente für das Management von Kontaktpersonen:
+• Allgemeine Hinweise zur Kontaktpersonennachverfolgung bei respiratorischen Erkrankungen
+durch das Coronavirus SARS-CoV-2:
+(www.rki.de/covid-19-kontaktpersonen)
+• Kurzfragebogen bzw. Tagebuch für Personen mit Kontakt zu SARS-CoV-2-Patienten
+(https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Kontaktperson/Tagebuch_
+Kontaktpersonen.html)
+• Hinweise Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen
+(www.rki.de/covid-19-pflegeeinrichtungen)
+Generelle Umsetzung der Basishygiene und Händehygiene
+Erweiterte Hygiene- und Infektionskontrollmaßnahmen finden Anwendung bei Risikopersonen, bei Personen
+mit bestätigter Covid-19-Erkrankung, bei symptomatischen Risikopersonen, für die noch kein Testergebnis
+vorliegt sowie ggf. bei Kontaktpersonen. In nicht-stationären Einrichtungen für Menschen mit
+Beeinträchtigungen sollten keine Personen mit positivem Direktnachweis von SARS-CoV-2 betreut werden.
+Räumliche Unterbringung bei einzelnen Fällen
+• Einzelunterbringung in einem Isolierzimmer mit eigener Nasszelle.
+• Kohortierung (z.B. Nicht-Fälle, Verdachtsfälle, bestätigte Fälle) mit fest zugewiesenem Personal.
+• Die Nutzung eines Isolierzimmers mit Vorraum wäre idealerweise zu bevorzugen.
+• Risiken durch raumlufttechnische Anlagen bei stationärer Unterbringung, durch die eine Verbreitung
+des Erregers in Aerosolen auf andere Räume möglich ist, sind vor Ort zu bewerten und zu miniminieren.
+• Teilnahme an Gemeinschaftsaktivitäten mit nicht erkrankten Personen ist nicht möglich.
+• Besucher*innen sind auf ein Minimum zu beschränken und sind über die persönlichen
+Schutzmaßnahmen wie unter Personalschutz beschrieben zu unterweisen und haben diese
+einzuhalten.
+Bei zunehmender Fallzahl ist eine räumliche Trennung von COVID-19 Patient*innen zu anderen
+Patient*innen (Kohortierung) entsprechend dem Konzept zur getrennten Patientenversorgung zu etablieren.
+Personalmaßnahmen
+Geschultes Personal, das für die Versorgung dieser Patienten eingesetzt wird, ist möglichst von der Versorgung
+anderer Patienten freizustellen. Die Anzahl der Kontaktpersonen sind zu definieren und zu begrenzen.
+Empfehlungen des RKI zu Hygienemaßnahmen im Rahmen der Behandlung und Pflege von Patienten mit
+einer Infektion durch SARS-CoV-2 sind unter www.rki.de/covid-19-hygiene abrufbar.
+Darüber hinaus existieren Hinweise zur Verwendung von Masken (MNS, FFP-Masken sowie Mund-Nasen-
+Bedeckung) (www.rki.de/covid-19-masken) sowie eine bildliche Aufarbeitung von Hinweisen zum beispielhaften
+An- und Ablegen von PSA für Fachpersonal (www.rki.de/covid-19-psa).
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+13 13
+13
+Vorgehen bei der Versorgung von Patienten mit bestätigter Infektion
+• Umsetzung der Händehygiene.
+• Beachtung der bekannten Indikationen für Händedesinfektion auch in Verbindung mit dem
+Handschuhwechsel gemäß den 5 Momenten der Händehygiene.
+• Persönliche Schutzausrüstung vor Betreten des Patientenzimmers anlegen, und vor Verlassen der
+Schleuse/des Zimmers dort belassen.
+• Einweghandschuhe bzw. -kittel vor Verlassen des Zimmers bzw. der Schleuse in einem geschlossenen
+Behältnis entsorgen (s. Richtlinie der Bund/Länder-Arbeitsgemeinschaft Abfall (LAGA), abrufbar
+unter https://www.laga-online.de/documents/m_2_3_1517834373.pdf.
+• Händedesinfektion mit einem Desinfektionsmittel mit nachgewiesener, mindestens begrenzt
+viruzider Wirksamkeit nach Ausziehen der Handschuhe und vor Verlassen des Zimmers.
+Dauer der Maßnahmen
+Zum Zeitpunkt der Erstellung dieser Empfehlung liegen noch nicht ausreichende Daten über die Dauer der
+Erregerausscheidung bei nicht mehr symptomatischen Personen vor, um eine generelle abschließende
+Empfehlung zur Beendigung der Maßnahmen nach Abklingen der Symptomatik zu geben. Auch Fragen zur
+Konzentration der ausgeschiedenen Erreger in verschiedenen Körpersekreten/-exkreten (z.B. im Sputum oder
+Stuhl) nach Abklingen der Symptomatik und deren Rolle in der Transmission sind bisher ungeklärt. In diesen
+Fällen sollte daher derzeit eine individuelle Entscheidung getroffen werden. Das RKI hat in Abstimmung mit
+der Arbeitsgruppe Infektionsschutz der AOLG mögliche Kriterien zur Aufhebung der Isolierung bzw.
+Entlassung erarbeitet (www.rki.de/covid-19-entlassungskriterien).
+Desinfektion und Reinigung
+Zur chemischen Desinfektion sind Mittel mit nachgewiesener Wirksamkeit, mit dem Wirkungsbereich
+"begrenzt viruzid" (wirksam gegen behüllte Viren) anzuwenden. Mittel mit erweitertem Wirkbereich gegen
+Viren wie "begrenzt viruzid PLUS" oder "viruzid" können ebenfalls verwendet werden. Geeignete Mittel
+enthalten die Liste der vom RKI geprüften und anerkannten Desinfektionsmittel und -verfahren (RKI-Liste)
+und die Desinfektionsmittel-Liste des Verbundes für Angewandte Hygiene (VAH-Liste). Bei behördlich
+angeordneten Desinfektionsmaßnahmen ist die RKI-Liste heranzuziehen (www.rki.de/desinfektionsmittelliste).
+Hinweise zu Reinigung und Desinfektion von Oberflächen außerhalb von Gesundheitseinrichtungen im
+Zusammenhang mit der COVID-19-Pandemie finden sich unter:
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Reinigung_Desinfektion.html
+Umgang mit Verstorbenen
+Empfehlungen zum Umgang mit SARS-CoV-2-infizierten Verstorbenen finden sich unter
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Verstorbene.html
+Kommunikation
+Die Ziele der Kommunikation im Ausbruchsgeschehen sind es, Handlungsempfehlungen und Hinweise für
+individuelle Präventionsmöglichkeiten zu geben, Maßnahmen zu erläutern und zu begründen,
+Untersuchungen systematisch zu dokumentieren und wissenschaftliche Erkenntnisse auszutauschen. Die
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+14
+14
+Kommunikation kann sich bspw. an politische Verantwortliche (Landrat, Ministerien), Presse/Medien,
+Fachöffentlichkeit oder die allg. Öffentlichkeit richten.
+Die Ergebnisse der Ausbruchsuntersuchung sollten zunächst in einer Besprechung mit den Betroffenen
+(Personal, evtl. Patienten) diskutiert werden. Eine solche Aussprache kann auch die Implementierung von
+Präventivmaßnahmen wesentlich erleichtern, da die Gründe für das Zustandekommen der Maßnahmen an
+den konkreten Ergebnissen dargelegt werden können. Die Erstellung eines schriftlichen Berichtes dient der
+Dokumentation der Untersuchung für interne Zwecke, aber auch nach außen. Über die Information der
+Öffentlichkeit muss im Einzelfall entschieden werden.
+Abklingen eines Ausbruchs
+Auch in der Abklingphase mit rückläufigen Fallzahlen darf die erhöhte bzw. weitere und andauernde
+Aufmerksamkeit nicht nachlassen. Dann ist es z. B. besonders wichtig, jede einzelne Transmissionskette
+nachzuvollziehen. In der Phase der Erholung gilt es, die medizinische Versorgung zum Regelbetrieb
+zurückzuführen und z. B. während des Ausbruchs aufgrund von Ressourcenmangel oder Übertragungsrisiko
+depriorisierte medizinische Behandlungen wieder zu ermöglichen. Auch verhängte
+Infektionsschutzmaßnahmen können schrittweise aufgehoben werden. Fortlaufende Surveillance und eine
+anlassbezogene Risikobewertung dienen dazu, ein Neuaufflammen bzw. eine Verschiebung der Risikogruppen
+frühzeitig zu erkennen und angemessen reagieren zu können.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+15 15
+15
+Wichtige Links
+Dokumente zu Ausbrüchen in spezifischen Settings
+• Management von COVID-19 Ausbrüchen im Gesundheitswesen
+www.rki.de/covid-19-ausbrueche-gesundheitswesen
+• Hinweise Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen und
+Einrichtungen für Menschen mit Beeinträchtigungen und Behinderungen
+www.rki.de/covid-19-pflegeeinrichtungen
+Dokumente zum Umgang mit respiratorischen Ausbrüchen
+• Checkliste für einen respiratorischen Ausbruch
+www.rki.de/checkliste-respiratorischer-ausbruch
+• WHO Leitfaden zum Umgang mit respiratorischen Ausbrüchen unklarer Ätiologie
+https://www.afro.who.int/sites/default/files/2017-06/protocol-for-the-investigation-of-acute-
+respiratory-illness-outbreaks-of....pdf
+Dokumente zur Diagnostik, Hygiene und Fallfindung
+• Checkliste zum Vorgehen bei respiratorischen Ausbrüchen
+www.rki.de/checkliste-respiratorischer-ausbruch
+• Hinweise zur Testung von Patienten auf Infektion mit dem neuartigen Coronavirus SARS-CoV-2
+www.rki.de/covid-19-diagnostik
+• Empfehlungen des Robert Koch-Instituts zur Meldung von Verdachtsfällen von COVID-19
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Empfehlung_Meldung.html
+• COVID-19-Verdacht: Maßnahmen und Testkriterien - Orientierungshilfe für Ärzte
+www.rki.de/covid-19-flussschema
+• Empfehlungen des RKI zu Hygienemaßnahmen im Rahmen der Behandlung und Pflege von
+Patienten mit einer Infektion durch SARS-CoV-2
+www.rki.de/covid-19-hygiene
+• Hinweise zur Verwendung von Masken (MNS, FFP-Masken sowie Mund-Nasen-Bedeckung)
+www.rki.de/covid-19-masken
+• Hinweise zum beispielhaften An- und Ablegen von PSA für Fachpersonal
+www.rki.de/covid-19-psa
+Dokumente zu Maßnahmen
+• Allgemeine Hinweise zur Kontaktpersonennachverfolgung bei respiratorischen Erkrankungen
+durch das Coronavirus SARS-CoV-2:
+www.rki.de/covid-19-kontaktpersonen
+• Kurzfragebogen bzw. Tagebuch für Personen mit Kontakt zu SARS-CoV-2-Patienten
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Kontaktperson/Tagebuch_K
+ontaktpersonen.html
+• Optionen zur Kontaktreduktion in unterschiedlichen Lebensbereichen sind beispielhaft
+aufgeführt hier abrufbar:
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Kontaktreduzierung.html
+• COVID-19: Kriterien zur Entlassung aus dem Krankenhaus bzw. aus der häuslichen Isolierung
+www.rki.de/covid-19-entlassungskriterien
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+16
+16
+• Hinweise zu Reinigung und Desinfektion von Oberflächen außerhalb von Gesundheits-
+einrichtungen im Zusammenhang mit der COVID-19-Pandemie:
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Reinigung_Desinfektion.html
+• Empfehlungen zum Umgang mit SARS-CoV-2-infizierten Verstorbenen
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Verstorbene.html
+• Mund-Nasen-Bedeckung im öffentlichen Raum als weitere Komponente zur Reduktion der
+Übertragungen von COVID-19. Strategie-Ergänzung zu empfohlenen
+Infektionsschutzmaßnahmen und Zielen (3. Update), Epid Bull 19/2020
+Generelle Rahmenpläne/-konzepte
+• Ergänzung zum Nationalen Pandemieplan – COVID-19 – neuartige Coronaviruserkrankung
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan
+_Covid.html
+• Rahmenkonzept „Epidemisch bedeutsame Lagen - erkennen, bewerten und gemeinsam
+erfolgreich bewältigen“
+https://www.rki.de/DE/Content/Infekt/Preparedness_Response/Rahmenkonzept_Epidemische
+_bedeutsame_Lagen.pdf?__blob=publicationFile
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+17 17
+17
+Impressum
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+Robert Koch-Institut, 2020
+Herausgeber
+Robert Koch-Institut
+Nordufer 20
+13353 Berlin
+Internet: www.rki.de
+E-Mail: zentrale@rki.de
+Twitter: @rki_de
+Redaktion
+Abteilung für Infektionsepidemiologie
+Vorgeschlagene Zitierweise
+Robert Koch-Institut.
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19, Berlin 2020
+Das Robert Koch-Institut ist ein Bundesinstitut im
+Geschäftsbereich des Bundesministeriums für Gesundheit
+Leitfaden für den Öffentlichen Gesundheitsdienst zum Vorgehen bei Häufungen von COVID-19
+18
+18
+

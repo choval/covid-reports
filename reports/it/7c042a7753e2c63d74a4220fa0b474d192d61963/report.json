@@ -1,0 +1,18 @@
+{
+    "filename": "discipline-sportive.pdf",
+    "uri": "http:\/\/www.sport.governo.it\/media\/2110\/discipline-sportive.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588599935,
+    "headers": {
+        "http-status": 200,
+        "content-length": "638915",
+        "content-type": "application\/pdf",
+        "last-modified": "Sun, 03 May 2020 15:51:18 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"a88612af6221d61:0\"",
+        "date": "Mon, 04 May 2020 13:45:34 GMT"
+    },
+    "lang": "it",
+    "size": 638915,
+    "modified": 1588521078
+}

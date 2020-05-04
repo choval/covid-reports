@@ -1,0 +1,405 @@
+Valutazione di politiche di
+riapertura utilizzando contatti
+sociali e rischio di esposizione
+professionale
+Stefano Merler, FBK
+I parametri chiave che regolano la trasmissione
+Caso indice
+{
+{
+Prima
+generazione
+Seconda
+generazione
+Numero di riproduzione di base (R0): numero medio di
+casi generate da un un caso indice in una popolazione
+completamente suscettibile alla malattia
+Tempo di generazione (Tg): il tempo che passa tra
+l’infezione di un infettore primario e quello dei suoi casi
+secondari
+R0 <1 Eliminazione della malattia
+R0 >1 Crescita esponenziale del numero di casi
+Inizio epidemia
+Rt~3
+Prima del lockdown
+Rt~2.2-2.6
+Lockdown nazionale
+Rt~0.6
+Numero di riproduzione effettivo Rt in Italia
+Casi confermati COVID-19
+per data di inizio sintomi
+Stime del
+numero di riproduzione Rt
+[Cereda et al 2020, Riccardo et al 2020, Guzzetta et al 2020]
+Tempo di generazione
+Caso indice
+3 giorni
+7 giorni
+10 giorni
+Tempo di generazione (serial interval)
+Tempo tra insorgenza dei sintomi
+nel caso indice e nei suoi casi secondari
+Tempo di generazione medio usato nel modello
+6.6 giorni (95%CI: 0.7-19)
+come stimato da dati di tracciamento dei contatti in
+Lombardia [Cereda et al 2020]
+Numero consistente con stime ottenute a Vo’
+[Lavezzo et al 2020]
+6.9 giorni (95%CI: 2.6-13.4)
+Contatti delle persone per età e nei diversi luoghi
+Studio POLYMOD
+Mossong et al, PLOS Medicine, 2008.
+Social Contacts and Mixing Patterns
+Relevant to the Spread of Infectious
+Diseases
+Casa
+Scuola/università
+Lavoro
+Mezzi di trasporto
+Tempo libero
+Altri luoghi
+(negozi, poste, …)
+Numero medio di contatti giornalieri
+nei diversi luoghi
+Suddivisione lavoratori tra i vari settori e rischio associato (INAIL)
+Suscettibilità per età
+Caso indice
+73 anni
+Dati raccolti in Cina con informazioni su:
+• Catene di infezione (chi ha infettato chi)
+• Positivi e negativi tra i contatti dei casi
+• Età dei casi secondari
+1. Bambini sotto 15 anni sono 66% meno suscettibili
+degli adulti tra 15 e 64 anni
+2. Adulti sopra 65 anni sono il 47% più suscettibili degli
+adulti tra 15 e 64 anni (maggior rischio di infezione)
+[Zhang et al, Science 2020]
+67 anni
+45 anni
+Nel documento consideriamo anche il caso in cui la suscettibilità sia
+uguale per tutte le età
+15 anni
+37 anni
+Impatto in termini di salute pubblica
+• Probabilità di ricovero in
+terapia intensiva dipende
+dall’età (stima da dati COVID-
+19 Lombardia)
+• 66.6% dei pazienti che vanno
+in terapia intensiva guariscono
+o decedono entro 10 giorni
+[Grasselli et al 2020]
+• 33.3% rimane in terapia
+intensiva per circa 21 giorni
+[Grasselli et al 2020]
+Probabilità
+di
+diventare
+caso
+critico
+(%)
+%
+di
+infezioni
+che
+richiedono
+terapia
+intensiva
+0−4y
+5−9y
+10−14y
+15−19y
+20−24y
+25−29y
+30−34y
+35−39y
+40−44y
+45−49y
+50−54y
+55−59y
+60−64y
+65−69y
+70−74y
+75−79y
+80−84y
+85−89y
+90−94y
+95y+
+0
+2
+4
+6
+8
+10
+12
+Scusate l’interruzione
+Se uno volesse calcolare la percentuale (che chiamiamo X) di casi critici rispetto alle infezioni totali dovrebbe fare
+Totale casi critici
+Totale infezioni
+X= x 100
+Nel documento comparso sulla stampa questo conto viene fatto cosi:
+Persone in terapia intensive al picco
+Totale infezioni
+Y= x 100
+Non e` chiaro cosa significhi Y, ma di certo non e` la la percentuale di casi critici rispetto alle infezioni
+totali
+Secondo errore: I casi critici non sono solo quelli ammessi in terapia intensiva come assunto nel
+documento ripoortato dalla stampa; anche i deceduti COVID-19 che non sono stati ammessi in terapia
+intensiva vanno considerati come casi critici
+Numericamente:
+Totale casi critici: Casi critici : 3494 (ammessi in terapia intensiva) + 9426 (deceduti senza passare per la
+terapia intensiva) = 12920
+Persone in terapia intensiva al picco: 1381
+Casi a meta giugno con R0=2.25
+Considerazioni iniziali:
+1) I casi che possono trasmettere sono i nuovi positivi di oggi piu`
+quelli meno recenti ma ancora in grado di trasmettere
+2) Questo numero e` solo la punta dell’iceberg.
+3) Si stima che si siano infettati ad oggi il 3-5% della popolazione
+(Imperial College), stime simili alle nostre
+4) Il sistema di sorveglianza ha quindi visto circa il 5%-10% dei casi
+totali
+5) I positivi (noti) vanno quindi moltiplicati per 10-20 volte per avere
+una stima di quanti sono in grado di trasmettere
+Stime Rt in lockdown e aprendo solo le scuole (tutti i livelli)
+R
+t
+0.0
+0.5
+1.0
+1.5
+2.0
+Lockdown
+Scuole
+aperte
+LOCKDOWN
+Lavori non essenziali sospesi
+Chiusura scuole
+Telelavoro
+Contatti nella popolazione generale:
+Trasporti: 10%
+Tempo libero: 10%
+Altri non a casa/scuola/lavoro: 10%
+Scuole aperte
+Lockdown
+Rt
+Lockdown
+• Lavori non essenziali sospesi
+• Scuole chiuse
+• Telelavoro
+Contatti nella popolazione generale:
+• Trasporti: 10%
+• Tempo libero: 10%
+• Altri contatti non a casa/scuola/lavoro: 10%
+Scuole aperte
+• Riapertura scuole di tutti i livelli
+• Tutti i contatti in luoghi diversi dalla scuola
+restano al livello del lockdown
+Riapertura di alcuni settori produttivi (scenario ottimistico)
+• riattivazione alcuni settori con diverse restrizioni sulle età dei lavoratori
+• contatti nella popolazione generale rimangono al livello del lockdown
+R
+t
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+Eta' limite dei lavoratori
+SETTORI RIATTIVATI
+Manifattura
+Edile
+Manifattura ed edile
+Manifattura, edile e commercio
+Manifattura, edile commercio e alloggi/ristorazione
+CONTATTI NELLA POPOLAZIONE GENERALE
+Trasporti: 10%
+Tempo libero: 10%
+Altri non a casa/scuola/lavoro: 10%
+Manifattura Edile
+Manifattura e
+edile
+Rt
+Manifattura,
+edile e
+commercio
+Manifattura, edile,
+commercio,
+alloggi/ristorazione
+Età limite dei lavoratori
+Contatti nella popolazione generale:
+• Trasporti: 10%
+• Tempo libero: 10%
+• Altri contatti non a
+casa/scuola/lavoro: 10%
+Riapertura di manifattura, edile e commercio con parziale rilascio
+delle restrizioni sulla popolazione generale
+Per tutta la popolazione:
+• contatti nel tempo libero al livello del
+lockdown: 10%
+Protezione per fasce di età più a rischio (>60
+anni, >65 anni, >70 anni), contatti nei seguenti
+luoghi al livello del lockdown:
+• Trasporti: 10%
+• Altre attività: 10%
+Aumento dei contatti rispetto al lockdown per le
+fasce di età meno a rischio nei seguenti luoghi:
+• Trasporti: 20% (include gli spostamenti dei
+lavoratori riattivati)
+• Altre attività: 100%
+R
+t
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8 50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+Eta' limite dei lavoratori
+SETTORI RIATTIVATI
+Manifattura, edile e commercio
+CONTATTI NELLA POPOLAZIONE GENERALE
+Limite di eta' per la circolazione:
+60 anni
+65 anni
+70 anni
+Trasporti:
+20% sotto l'eta' limite, 10% sopra
+Tempo libero:
+10% per tutti
+Altre attivita' non lavorative:
+100% sotto l'eta' limite, 10% sopra
+Rt
+Protezione over
+60
+Protezione
+over 65
+Protezione
+over 70
+Età limite dei lavoratori
+Riapertura di manifattura, edile, commercio e alloggi/ristorazione
+con parziale rilascio delle restrizioni sulla popolazione generale
+Protezione per fasce di età più a rischio (>60 anni,
+>65 anni, >70 anni), contatti nei seguenti luoghi al
+livello del lockdown
+• Trasporti: 10%
+• Tempo libero: 10%
+• Altre attività : 10%
+Aumento dei contatti rispetto al lockdown per le
+fasce di età meno a rischio nei seguenti luoghi:
+• Trasporti: 20% (include gli spostamenti dei
+lavoratori riattivati),
+• Tempo libero: 34%
+• Altre attività: 100%
+R
+t
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+50
+anni
+55
+anni
+60
+anni
+Tutti
+Eta' limite dei lavoratori
+SETTORI RIATTIVATI
+Manifattura, edile, commercio
+e alberghi/ristorazione
+CONTATTI NELLA POPOLAZIONE GENERALE
+Limite di eta' per la circolazione:
+60 anni
+65 anni
+70 anni
+Trasporti:
+20% sotto l'eta' limite, 10% sopra
+Tempo libero:
+34% sotto l'eta' limite, 10% sopra
+Altre attivita' non lavorative:
+100% sotto l'eta' limite, 10% sopra
+Rt
+Età limite dei lavoratori
+Protezione
+over 60
+Protezione
+over 65
+Protezione
+over 70
+

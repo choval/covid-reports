@@ -1,0 +1,19 @@
+{
+    "filename": "bab140-InstructivoSERVICIOADOMICILIO01.5.20.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/bab140-InstructivoSERVICIOADOMICILIO01.5.20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588542957,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 03 May 2020 21:55:51 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "689478",
+        "last-modified": "Sun, 03 May 2020 14:58:06 GMT",
+        "etag": "\"a8546-5a4bfa45ca9e9\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 689478,
+    "modified": 1588517886
+}

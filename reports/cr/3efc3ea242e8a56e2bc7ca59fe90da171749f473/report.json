@@ -1,0 +1,19 @@
+{
+    "filename": "LS_CS_008_restaurantes.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/LS_CS_008_restaurantes.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363887,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 01 May 2020 20:11:27 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 01 May 2020 20:11:27 GMT",
+        "etag": "W\/\"1a5a69-5a4a0120b3400\"",
+        "accept-ranges": "bytes",
+        "content-length": "1727081",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1727081,
+    "modified": 1588363888
+}

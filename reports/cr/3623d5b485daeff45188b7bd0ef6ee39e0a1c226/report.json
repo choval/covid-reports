@@ -1,0 +1,19 @@
+{
+    "filename": "ms_dm_3845_2020_resolucion_establecimientos_01_al_15_mayo.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/decretos_cvd\/ms_dm_3845_2020_resolucion_establecimientos_01_al_15_mayo.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588124078,
+    "headers": {
+        "http-status": 200,
+        "date": "Wed, 29 Apr 2020 01:34:38 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Mon, 27 Apr 2020 20:58:56 GMT",
+        "etag": "\"43dc5-5a44bfbb50400\"",
+        "accept-ranges": "bytes",
+        "content-length": "277957",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 277957,
+    "modified": 1588021136
+}

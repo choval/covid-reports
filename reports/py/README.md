@@ -6,8 +6,58 @@
 * [https://www.mspbs.gov.py/reportes-covid19.html](https://www.mspbs.gov.py/reportes-covid19.html)
 
 
+## 2020-05-03
+
+* [207b1d-COVID19Prensa3.pdf](4537128558b7ec394f19e9d9b62b81e8dba162f1/file.pdf) @18:37 GMT
+* [b15299-ProtocoloManejoOllasPopulares02.05.20.pdf](fa4d3ee81338ffab6db335fced9649db60a66db5/file.pdf) @14:59 GMT
+* [74f0e8-ProtocoloEntornosLaborales01.05.20.pdf](70113d1ffdde666f5680f7078f8e26fe1f8e978f/file.pdf) @14:58 GMT
+* [633a6f-InstructivoTRANSPORTEDEPASAJEROS01.05.20.pdf](1ddf7d5f89822e8251f188a2fa1e6cac94a34767/file.pdf) @14:58 GMT
+* [bab140-InstructivoSERVICIOADOMICILIO01.5.20.pdf](0eb4c0a04bef273913d6e2b4c528688c0659d39d/file.pdf) @14:58 GMT
+* [93dfb4-InstructivoOBRAS01.05.20.pdf](ea85d93c05ee581bb984ecce93f4850360ca9a78/file.pdf) @14:56 GMT
+* [135b1f-InstructivoINDUSTRIAS01.05.20.pdf](47bdb1846f0a183cf1f35b7dff3d075cbf0d1d8e/file.pdf) @14:55 GMT
+* [38cddd-InstructivoDELIVERY01.05.20.pdf](dc7ced29dc65308a3f19f2360629ca2d6e58d518/file.pdf) @14:54 GMT
+* [911bd2-APERTURAYFUNCIONAMIENTODECONSULTORIOSEXTERNOS2demayo1.pdf](6de6bcdf80bcb52de4c884ee293a526251b0631d/file.pdf) @14:44 GMT
+
+## 2020-05-02
+
+* [4697fa-COVID19Prensa2.pdf](7b80f647b5ae8e6295944dbe1136622159f6a3e9/file.pdf) @18:06 GMT
+
+## 2020-05-01
+
+* [0f1a00-COVID19Prensa1.pdf](b5dfb259cb99de505a8beaedaf81f3d49aed8c11/file.pdf) @16:34 GMT
+
+## 2020-04-30
+
+* [57feb3-Tablero29.04.2020.pdf](915ba0dd58784ab1651c07318fda73950276ef2d/file.pdf) @17:23 GMT
+
+## 2020-04-29
+
+* [e46adb-Tablero28.04.2020.pdf](18c6c71fdd4539d74b1b27c166b10934004d5b10/file.pdf) @18:45 GMT
+
+## 2020-04-28
+
+* [c93c2d-FormularioAutopsiaVerbal.pdf](2d54383b446a4e108cce6d93c99f13b9e6a722a1/file.pdf) @21:52 GMT
+* [01354e-COVID19Prensa.pdf](4ecac3f566de459cfa3841a7e3511c3fadfb9a61/file.pdf) @16:54 GMT
+* [d09c2a-ProtocoloDefinicionesdecasos.TomadeMuestras.Alta.pdf](9abe0b700a60a7b3d5d25e18fa975f8a4debee28/file.pdf) @12:57 GMT
+* [c500a2-ResolucinN113SeabrogaRes.N96Preciosreferencialesparaproductosdeconsumo.pdf](71aa0dd94cae5a8016eea4d05192cbae9c26988d/file.pdf) @12:51 GMT
+
+## 2020-04-27
+
+* [8f16ac-Tablero26.04.2020.pdf](8c95401b39b1cd653920e7e06a52a2e57e5b7328/file.pdf) @15:29 GMT
+
+## 2020-04-26
+
+* [0b52c9-COVID19Prensa.pdf](992d683ed921188a9fa26d1c4282b0c095683bb9/file.pdf) @16:13 GMT
+* [fbbd40-EPIgasesmedicinalesreactivoseinsumosCOVID1925042020.pdf](2f5d5db25750e18d113c2ddf47bb0bfbf024116a/file.pdf) @01:29 GMT
+* [58b6ff-ProtocolodePromocindelaSaludPrevencinyProteccinparaEntornosLaborales.pdf](2dae9279a8060d8c488040bc9706bf951ccfc945/file.pdf) @01:28 GMT
+
+## 2020-04-25
+
+* [bdf1a6-COVID19Prensa1.pdf](6b1194360b8a59fa840c119314c7a3c36aa86167/file.pdf) @16:09 GMT
+
 ## 2020-04-24
 
+* [e13793-CUARENTENAInteligentev7TITUTLOS.pdf](14b17da4f9bdef74b7e447235c9c81b080fe7a83/file.pdf) @23:50 GMT
 * [cb3fd1-Tablero22.04.2020.pdf](700cf2e4dcad42dab004994512270d737ccd2efd/file.pdf) @15:47 GMT
 * [b4d8b6-Tablero23.04.2020.pdf](11ae8a3c595437288df23b0a5048c9481777451a/file.pdf) @15:46 GMT
 * [fc923a-EPIgasesmedicinalesreactivoseinsumosCOVID1924042020.pdf](a40e646bfc2b944ccff2365e4ff46bdadadf12f5/file.pdf) @13:51 GMT
@@ -72,8 +122,8 @@
 
 ## 2020-04-14
 
-* [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](c661239723208a9f8457f090c80457109b2e6884/file.pdf) @20:31 GMT
 * [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](1cfc35b42e3d558519d0448a0271b9f7d6b56da0/file.pdf) @20:31 GMT
+* [f5e40c-CARTILLAOLLAPOPULAR14042020final.pdf](c661239723208a9f8457f090c80457109b2e6884/file.pdf) @20:31 GMT
 * [a2dd5f-COVID19PY1.pdf](aa4bd2fad6db34f2457c1b1523e2c8cb01987f8b/file.pdf) @18:30 GMT
 * [ede18b-Protocolodistribucindeinsumos.pdf](9b80623ca2684da06542ee20bf66d2bcfa92e3f5/file.pdf) @17:53 GMT
 

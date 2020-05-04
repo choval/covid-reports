@@ -1,0 +1,1201 @@
+1
+INFORME DIÁRIO DE EVIDÊNCIAS | COVID-19 N°16
+BUSCA REALIZADA ENTRE 24 E 26 DE ABRIL DE 2020
+APRESENTAÇÃO:
+Essa é uma produção do Departamento de Ciência e Tecnologia (Decit) da Secretaria de Ciência, Tecnologia,
+Inovação e Insumos Estratégicos em Saúde (SCTIE) do Ministério da Saúde (Decit/SCTIE/MS), que tem como
+missão promover a ciência e tecnologia e o uso de evidências científicas para a tomada de decisão do SUS,
+tendo como principal atribuição o incentivo ao desenvolvimento de pesquisas em saúde no Brasil, de modo a
+direcionar os investimentos realizados em pesquisa pelo Governo Federal às necessidades de saúde pública.
+Informar sobre as principais evidências científicas descritas na literatura
+internacional sobre tratamento farmacológico para a COVID-19. Além de resumir
+cada estudo identificado, o informe apresenta também uma avaliação da qualidade
+metodológicaeaquantidadedeartigospublicados,deacordocomasuaclassificação
+metodológica (revisões sistemáticas, ensaios clínicos randomizados, entre outros).
+FORAM ENCONTRADOS 25 ARTIGOS E 47 PROTOCOLOS
+A distribuição da frequência de publicações por classes de estudos é
+apresentada segundo a pirâmide de evidências:
+OBJETIVO:
+ACHADOS:
+2
+SUMÁRIO
+Cloroquina................................................................................................................................................................................3
+Ensaio Clínico Randomizado
+Cloroquina................................................................................................................................................................................4
+Estudo transversal
+Cloroquina, hidroxicloroquina e azitromicina.......................................................................................................................4
+Estudo transversal
+Hidroxicloroquina....................................................................................................................................................................5
+Relato de caso
+Hidroxicloroquina....................................................................................................................................................................6
+Relato de caso
+Tocilizumabe e hidroxicloroquina...........................................................................................................................................6
+Relato de caso
+Cloroquina e hidroxicloroquina..............................................................................................................................................7
+Revisão narrativa
+Nitazoxanida............................................................................................................................................................................8
+Revisão sistemática rápida
+Lopinavir/ritonavir..................................................................................................................................................................8
+Ensaio clínico randomizado
+Dipiridamol.
+..............................................................................................................................................................................9
+Estudo clínico randomizado
+Anticoagulantes.......................................................................................................................................................................9
+Coorte retrospectiva
+Diversas tecnologias..............................................................................................................................................................10
+Coorte retrospectiva
+Hidrocortisona.......................................................................................................................................................................11
+Relato de caso
+Inibidores da enzima de conversão da angiotensina (IECAs) e bloqueadores dos receptores da angiotensina (BRA) ..........11
+Série de casos
+Oxigenação por membrana extracorpórea e lopinavir/ritonavir.......................................................................................12
+Relato de caso
+Eculizumabe...........................................................................................................................................................................12
+Série de Casos
+Diversas tecnologias..............................................................................................................................................................13
+Artigo de opinião
+Quelantes de Ferro................................................................................................................................................................13
+Revisão narrativa
+Diversas tecnologias..............................................................................................................................................................14
+Revisão narrativa
+Diversas tecnologias..............................................................................................................................................................15
+Revisão narrativa
+Inibidores da enzima de conversão da angiotensina (IECAs) e bloqueadores dos receptores da angiotensina (BRA)..15
+Revisão narrativa
+Vacina.....................................................................................................................................................................................16
+Documento institucional
+Diversas tecnologias..............................................................................................................................................................17
+Revisão narrativa
+Diversas tecnologias..............................................................................................................................................................17
+Revisão narrativa
+Ativador do Plasminogênio Tecidual (tPA)...........................................................................................................................18
+Revisão narrativa
+Referências.............................................................................................................................................................................19
+Apêndice 1: Protocolos de Ensaios Clínicos registrados em 24/04/2020 na Base ClinicalTrials.gov .........................................17
+Apêndice 2: Ensaios Clínicos sobre COVID-19 aprovados pela CONEp e informados em 22/04/2020....................................20
+3
+CLOROQUINA
+ENSAIO CLÍNICO RANDOMIZADO \ BRASIL
+Os autores descrevem a avaliação da segurança e eficácia de duas posologias diferentes de
+cloroquina (CQ) no tratamento de 81 pacientes graves, hospitalizados com COVID-19. Nesse ensaio
+clínico randomizado, paralelo, e duplo cego, os pacientes foram alocados em dois grupos: 41 deles
+(50,6%) no grupo de alta dose (600 mg 2x/dia, durante 10 dias), e 40 (49,4%) no grupo de baixa dose
+(450 mg 2x/dia no 1º dia, seguido de 450 mg 1x/dia por mais 4 dias); era esperada uma redução
+da letalidade em pelo menos 50% no grupo de alta dose, quando comparado ao grupo de baixa
+dose, após 28 dias de acompanhamento dos pacientes. Todos os pacientes do estudo receberam
+ceftriaxona (1g 2x/dia, por 7 dias) e azitromicina (500 mg 1x/dia, por 5 dias) no dia 0. Oseltamivir (75
+mg 2x/dia, por 5 dias) foi administrado quando havia suspeita de infecção por influenza. Os resultados
+preliminares (até o 13º dia de acompanhamento) indicam que a letalidade no grupo de alta dose foi de
+39,0% (16 de 41), contra 15,0% no grupo de baixa dose (6 de 40). Em relação à segurança, o grupo de
+alta dose apresentou mais casos (7 de 37 [18,9%]) de pacientes com prolongamento do intervalo QTc
+(QTc > 500ms), quando comparados ao grupo de baixas doses de CQ (4 de 36 [11,1%]). Esses achados
+levaram a interrupção imediata do uso de altas doses em pacientes de todas as idades, e todos eles
+foram revertidos para o grupo de baixa dose. Segundo os autores, esses resultados preliminares
+sugerem que a dose mais alta de CQ não deve ser recomendada para pacientes gravemente enfermos
+com COVID-19 por causa de seus potenciais riscos à segurança, especialmente quando administrados
+concomitantemente com azitromicina e oseltamivir.1
+QUALIDADE
+METODOLÓGICA
+A avaliação usando a Ferramenta de Risco de Viés da Cochrane para estudos
+randomizados indica qualidade metodológica moderada. O estudo apresenta
+baixo risco de viés de seleção e de performance. Contudo, não foram descritas
+asmedidasutilizadasparacegarosavaliadoresdosdesfechos(viésdedetecção),
+e houve relato insuficiente das perdas e exclusões para permitir julgamento
+(viés de atrito). Trata-se de um estudo com resultados preliminares, dessa
+forma, a descrição dos dados de eficácia e segurança se limitou à análise da
+letalidade e eventos adversos até o 13º dia de acompanhamento dos pacientes
+(de um seguimento total de 28 dias) e de outros desfechos secundários, como
+necessidade de suporte de oxigênio ou de ventilação mecânica invasiva, etc.
+Nem todos os participantes tiveram diagnóstico confirmado por RT-PCR. Outras
+limitações apontadas pelos próprios autores incluem o pequeno tamanho
+amostral do estudo; seu delineamento em centro único; falta de grupo controle
+com placebo; e a ausência de critérios de exclusão com base nos valores
+inciais do intervalo QTc. Por fim, a maior média de idade no grupo de alta dose
+(idade média [DP], 54,7 [13,7] anos vs. 47,4 [13,3] anos) é considerada como
+um fator de confusão importante, podendo ter influência sobre os resultados
+preliminares apresentados.
+4
+CLOROQUINA
+ESTUDO TRANSVERSAL \ JAPÃO
+Foramanalisadososeventosadversos(EA)relacionadosasintomasneuropsiquiátricosassociados
+ao uso de cloroquina (ou hidroxicloroquina) e mefloquina, reportados ao Sistema de Notificação
+de Eventos Adversos do FDA (FAERS), entre o 4º trimestre de 2012 e o 4º trimestre de 2019. Dos
+2.389.474 casos de EA reportados, 4.336 tiveram exposição a cloroquina, sendo que 520 (12%) casos
+desenvolveram EA neuropsiquiátricos seguidos do seu uso; e 67 tiveram exposição a mefloquina,
+com 28 (41,8%) casos de EA neuropsiquiátricos, não houve casos de exposição concomitante a
+cloroquina e a mefloquina. O cálculo do odds ratio ajustado (ORa) para idade e sexo, em relação a
+exposição a cloroquina, indica que houve associação estatística relacionada a amnésia (ORa: 1,30;
+IC95%: 1,02-1,66), delírio (ORa: 1,58; IC95%:1,06-2.34), alucinações (ORa: 2,12; IC95%: 1,54-2,92),
+depressão (ORa: 1,47; IC95%: 1,22-1,77) e perda de consciência (ORa: 1,31; IC95%: 1,03-1,66). Não
+houve associação estatisticamente significativa para outros eventos adversos, tais como suicídio,
+psicose, confusão e agitação. Quanto a mefloquina, todos os EA neuropsiquiátricos analisados, com
+exceção de sonolência, tiveram associação estatisticamente significativa. Os autores sugerem que as
+informações obtidas no estudo poderão ser importantes no momento atual em que a cloroquina tem
+sido considerada para o tratamento de pacientes com COVID-19.2
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Analytical Cross
+Sectional Studies, foram atendidos 5/8 critérios. O estudo teve moderada
+qualidade metodológica. Os autores mencionaram algumas limitações do
+estudo, sendo as mais importantes foram: não terem avaliado o uso de
+medicações concomitantes ou a história médica dos pacientes, que podem
+ter contribuído para o desenvolvimento ou agravamento de alguns sintomas
+neuropsiquiátricos; e não considerar o tempo de uso e as doses de cloroquina
+e mefloquina utilizadas.
+CLOROQUINA, HIDROXICLOROQUINA E AZITROMICINA
+ESTUDO TRANSVERSAL \ ITÁLIA
+O estudo analisou, por meio de farmacovigilância, os riscos de prolongamento do intervalo
+QT, Torsades de Pointes (TdP) e morte, associados a tratamentos com hidroxicloroquina (HCQ) e
+azitromicina (AZT). Foram analisados mais de 13,3 milhões de casos reportados ao FDA no Sistema
+de Eventos Adversos (FAER) no período de 1969 a 2019. As exposições analisadas foram HCQ/
+cloroquina (CQ), azitromicina (AZT), HCQ/CQ + AZT, amoxicilina (AMX), HCQ/CQ + AMX. A AMX
+foi utilizada como controle para comparação dos efeitos entre as medicações. Os eventos de
+interesse foram morte por Torsades de Pointes (TdP)/prolongamento do intervalo QT; acidentes/
+lesões e depressão foram os eventos controle. Os Percentual de relatórios reportados (PRRs) são
+interpretados como potencialmente significativos na farmacovigilância com base no nível mais
+baixo do IC 95% ≥ 2,0. Os resultados encontrados demonstraram que, quando a HCQ/CQ foi usada
+5
+sozinha, o PRR foi de 1,43 (IC95%: 1,29-2,59) para o desfecho TdP/prolongamento do intervalo QT;
+enquanto que para o uso de AZT sozinha, o PRR foi de 4,10 (IC95%: 3.80–4.42). Na combinação
+HCQ/CQ + AZT, o PRR foi de 3,77 (IC95%: 1.80–7.87). Para os controles com AMX, não foram
+encontrados resultados potencialmente significativos quando usada sozinha ou em combinação
+com HCQ/CQ. Os autores concluíram que, do ponto de vista dos eventos adversos específicos,
+o uso de HCQ/CQ parece ser relativamente seguro, porém, mais estudos são necessários para
+avaliar sua efetividade no tratamento da COVID-19. Já a AZT usada sozinha foi associada com TdP/
+prolongamento do intervalo QT, o que serve de alerta para sua prescrição.3
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Analytical Cross
+Sectional Studies, foram atendidos 6/8 critérios. O estudo apresentou boa
+qualidade metodológica. As principais limitações são relativas a fonte de dados,
+já que os registros do sistema são auto reportados.
+HIDROXICLOROQUINA
+RELATO DE CASO \ ALEMANHA
+Relato de caso de uma paciente de 77 anos com coração transplantado que contraiu COVID-19.
+O histórico médico da paciente incluía colite por citomegalovírus, septicemia, pneumonia, doença
+renal crônica, hipertensão e diabetes mellitus tipo 2. Após o diagnóstico de COVID-19 por meio de
+PCR em tempo real e tomografia computadorizada do pulmão que indicou pneumonia, foi iniciado
+tratamento com hidroxicloroquina 400mg duas vezes ao dia no primeiro dia, seguido de 200 mg
+duas vezes ao dia. Devido ao histórico de várias ouras complicações, foram introduzidos piperacilina/
+tazobactama, cotrimoxazol, ganciclovir e o imunossupressor tracrolimus. Após 7 dias, a paciente
+apresentou melhora respiratória, dispensando cânulas nasais. Após 9 dias de administração de
+hidroxicloroquina, sinais de vírus não foram mais detectados e no décimo segundo dia a paciente
+recebeu alta. Os autores discutem que o tempo de administração e as doses utilizadas de
+hidroxicloroquina ainda precisam ser padronizadas.4
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Case Reports,
+07/08 critérios foram atendidos, revelando estudo de boa qualidade
+metodológica. Dado a polêmica sobre o uso de hidroxicloroquina para
+acometidos por COVID-19, seria interessante que os autores discutissem os
+seus resultados à luz dos diversos estudos pré clínicos e clínicos com resultados
+contraditórios que estão sendo divulgados.
+6
+HIDROXICLOROQUINA
+RELATO DE CASO \ SUÍÇA
+Trata-se do primeiro relato de caso de uma grave crise hemolítica em um paciente com deficiência
+de G6PD (enzima glicose 6-fosfato desidrogenase), iniciada por infecção grave por SARS-CoV-2 e uso
+de hidroxicloroquina. Os autores alertam que a infecção grave de COVID-19 pode ser o gatilho inicial
+de crise hemolítica em pacientes com deficiência de G6PD. Descrevem ainda que, neste caso clínico,
+a administração de hidroxicloroquina pareceu piorar ou prolongar o estado hemolítico do paciente.
+Por fim, sugerem que, com a disseminação mundial da COVID-19, especialmente em regiões com
+alta prevalência de deficiência de G6PD, quedas rápidas na hemoglobina devem servir para alertar
+os médicos dessa possibilidade. Nesses casos, a hemólise deve ser criteriosamente avaliada, e
+caso confirmada biologicamente, deve-se analisar os esfregaços de sangue periférico em busca de
+anomalias condizentes com o diagnóstico de deficiência de G6PD.5
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Case Reports,
+04/08 critérios foram atendidos, indicando qualidade metodológica razoável.
+Houve ausência de descrição das características demográficas do paciente,
+do teste diagnóstico utilizado, do procedimento de tratamento do paciente,
+e de sua condição clínica após o uso da hidroxicloroquina. Uma vez que a
+hidroxicloroquina tenha sido utilizada por apenas 1 dia (dose única de 600 mg),
+sua relação com a piora do quadro de hemólise deve ser feita com cautela, já
+que infecções, por si só, são responsáveis por quadros hemolíticos importantes
+em pacientes com deficiência de G6PD.
+TOCILIZUMABE E HIDROXICLOROQUINA
+RELATO DE CASO \ ITÁLIA
+Relato de caso de paciente de 61 anos com rins transplantados acometido por COVID-19 e
+tratado com hidroxicloroquina e tocilizumabe. O paciente deu entrada no hospital com febre e
+suspeita de infecção urinária, sendo administrado o antibiótico meropenem; o mesmo fazia uso de
+imunossupressor ciclosporina e metilprednisolona. No terceiro dia de internação, com suspeita de
+COVID-19, o antibiótico foi suspenso e, por meio de raio X, foi diagnosticado pneumonia. Após três
+testes via PCR em tempo real, o paciente foi diagnosticado com COVID-19 no dia 9 de internação. No
+mesmo dia, o paciente foi submetido à oxigenação via cânula, hidroxicloroquina 200 mg duas vezes
+ao dia e ciclosporina reduzido pela metade da dose. Após dois dias sem melhora, a ciclosporina foi
+suspensa e a dose de metilprednisolona foi elevada para 16 mg por dia. Administração (off-label)
+de tocilizumabe 324 mg foi feita por via subcutânea. Com baixa contagem de glóbulos brancos,
+possivelmente como efeito colateral, foi administrada imunoglobulina intravenosa (0,3 g/kg). No
+dia 14, análise de urina indicou a presença de bactérias multi-resistentes, motivando a reintrodução
+de meropenem. Após raio-x do pulmão, foi adicionada azitromicina por via oral durante 3 dias.
+Não foi diagnosticada febre após a administração de tocilizumabe e o paciente foi apresentando
+7
+melhora de todos os indicadores, como os valores de oxigenação e concentração de IL-6. No dia
+22 de internação, o paciente recebeu alta. Apesar dos resultados positivos relatados, os autores
+discutem que não é possível generalizar o tratamento proposto por conta das contradições na
+literatura sobre a administração dos medicamentos.6
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Case Reports,
+07/08 critérios foram atendidos, revelando estudo de boa qualidade
+metodológica. Os autores realizaram uma análise crítica de seus resultados,
+confrontando com as informações que a literatura científica aborda,
+principalmente enfatizando o uso de hidroxicloroquina, cujos efeitos precisam
+ser mais explorados em estudos clínicos.
+CLOROQUINA E HIDROXICLOROQUINA
+REVISÃO NARRATIVA \ CAMARÕES
+Até o momento, a qualidade das evidências disponíveis para a eficácia clínica da CQ/HCQ sozinhas
+ou em combinação com outros fármacos é baixa, devido ao pequeno tamanho da amostra, resultados
+clínicos mal definidos e falta de randomização dos estudos. Assim, os resultados dos estudos clínicos
+iniciais ainda não podem ser considerados conclusivos. Mesmo assim, a promoção indiscriminada de
+CQ/HCQ resultou na falta desses medicamentos em vários países, auto-medicação e até overdoses
+fatais. Na África Subsaariana, onde a CQ é o tratamento de primeira linha contra malária há mais de
+dez anos, há dois outros agravantes: 1. O Plasmodium falciparum, uma das espécies de protozoários
+causadores da malária, é resistente a CQ. Assim, o uso indiscriminado dessa terapia pode não só
+não prevenir ou tratar a COVID-19, mas também aumentar a pressão seletiva de resistência de P.
+falciparum ou selecionar populações resistentes de outras espécies de Plasmodium, ainda sem
+resistência comprovada; 2. A limitada vigilância em saúde que ocorre em todo continente africano,
+que, devido a essa fragilidade, esses países são alvos de medicamentos de baixa qualidade e/ou
+falsificados. Deste modo, faz-se necessário a implantação, em todo continente africano, de uma rede
+de vigilância em saúde que consiga monitorar a produção, a distribuição e a pós-comercialização de
+medicamentos, além de garantir a saúde da população.7
+QUALIDADE
+METODOLÓGICA
+Não existe ferramenta para se avaliar a qualidade metodológica de revisões
+narrativas. No entanto, trata-se de um artigo bem escrito e bem fundamentado
+que levanta dados importantes a respeito do uso de medicamentos (CQ e
+HCQ) e suas consequências em um continente com sérios problemas nos
+serviços de saúde.
+8
+NITAZOXANIDA
+REVISÃO SISTEMÁTICA RÁPIDA \ BRASIL
+Revisão sistemática rápida que procurou evidências sobre a eficácia de nitazoxanida, tipicamente
+utilizada para infecções parasitárias, e que vem mostrando ação antiviral de amplo espectro, em especial
+em coronavírus murino, bovino e entérico humano, sugerindo possibilidade de reposicionamento para
+SARS-CoV-2. De acordo com uma série de critérios, repositórios de estudos e especificações técnicas,
+foramselecionados5estudosregistradosnoClinicalTrials.gov.Todososestudosestãoemandamento,de
+modo que não existem evidências clínicas sobre a eficácia de nitazoxanida no tratamento de COVID-19.
+Até o momento, existem apenas evidências indiretas, como a redução dos sintomas da influenza em
+casos leves e inibição da replicação viral in vitro de outros coronavírus. Adicionalmente, em estudo in
+vitro, o medicamento inibiu a replicação viral de MERS-CoV e, em estudos com animais, demonstrou
+redução da concentração plasmática de citocinas inflamatórias, como IL-6.8
+QUALIDADE
+METODOLÓGICA
+DeacordocomaferramentaAMSTAR-2,10/13critériosforamatendidos,indicandoboa
+qualidademetodológica.Contudo,oartigonãoapresentapossibilidadesdeconclusões
+acercadotema,vistoqueosestudosselecionadosaindaestãoemandamento.
+LOPINAVIR/RITONAVIR
+ENSAIO CLÍNICO RANDOMIZADO \ CHINA
+A eficácia e a segurança do uso combinado de lopinavir/ritonavir foram avaliadas em um estudo
+clínico randomizado. Um total de 199 pacientes com infecção por SARS-CoV-2 confirmada em laboratório
+foram submetidos à randomização por um programa de computador; 99 pacientes foram designados
+ao grupo teste (lopinavir 400 mg/ritonavir 100 mg duas vezes por dia durante 14 dias) e 100 pacientes
+ao grupo controle (atendimento padrão). Não houve diferença entre os grupos em relação ao tempo de
+melhora clínica (mediana, 16 dias vs. 16 dias; taxa de risco para melhora clínica = 1,31; IC 95%: 0,95 – 1,80;
+p = 0,09), mortalidade (estimativa de Hodges-Lehmann:-5,8; IC 95%:-17.3 a 5,7) e detecção de RNA viral
+(dia 5, 34.5% vs. 32.9%; dia 10, 50.0% vs. 48.6%; dia 14, 55.2% vs. 57.1%; dia 21, 58.6% vs. 58.6%; e dia 28,
+60.3% vs. 58.6%). Efeitos adversos gastrointestinais foram mais comuns no grupo lopinavir/ritonavir, mas
+eventos adversos graves foram mais comuns no grupo de atendimento padrão.9
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta para avaliação de risco de viés em ECR da Cochrane,
+em geral, o estudo teve qualidade metodológica moderada. No artigo, os autores
+declaramusarumsoftwarepararandomizarospacientesnosdoisgrupos(baixorisco
+de viés). Também relatam e justificam a perda de alguns pacientes durante o estudo,
+e que esta perda não seria capaz de induzir viés ao trabalho (baixo risco de viés de
+atrito). No entanto, não houve cegamento dos avaliadores de desfecho e os autores
+comentamqueestefatopodeterinfluenciadonosresultadosdoestudo(altoriscode
+viés). Um protocolo com os detalhes do desenho do estudo está depositado no site
+da revista científica (The New England Journal of Medicine), porém em chinês.
+9
+DIPIRIDAMOL
+ESTUDO CLÍNICO RANDOMIZADO \ CHINA
+Trata-se de um estudo no qual os autores buscaram avaliar o efeito do dipiridamol (DIP), fármaco
+que inibe a formação de trombos, sobre a COVID-19. Inicialmente, fizeram uma busca in sílico de
+possíveis medicamentos para COVID-19, na qual identificaram o DIP. Uma vez que o fármaco foi
+escolhido, fizeram uma validação in vitro utilizando células VERO-6 e observaram uma redução de
+mais de 50% da replicação viral do SARS-CoV-2 em comparação a cloroquina, que foi usada como
+controle. Em seguida, analisaram, retrospectivamente, uma coorte coletada aleatoriamente de 124
+pacientes com COVID-19, que revelou que a diminuição da contagem de linfócitos, aumento das
+concentrações de D dímero, proteína C reativa e concentrações de IL-6 foram significativamente
+associadasàgravidadedaCOVID-19.ParaavaliaropotencialterapêuticodoDIPcomoterapiaadjuvante
+para promover a eliminação do vírus e reduzir o risco de hipercoagulabilidade, um estudo clínico
+aberto envolvendo 31 pacientes foi realizado no Hospital Popular do Condado de Dawu, China. Nesse
+ensaio, 14 pacientes receberam a DIP como terapia adjuvante e 17 pacientes que não receberam
+nenhum medicamento serviram como controle. Como resultado, a suplementação com dipiridamol
+foi associada a concentrações significativamente reduzidas de D dímero, aumento da recuperação
+de linfócitos e plaquetas na circulação e resultados clínicos significativamente melhorados em
+comparação com os pacientes controle.10
+QUALIDADE
+METODOLÓGICA
+DeacordocomaferramentaparaavaliaçãoderiscodeviésemECRdaCochrane,
+em geral, o estudo teve qualidade metodológica moderada a ruim, com risco
+incerto de viés. Os autores não mencionam como foi feita a randomização dos
+pacientes, tampouco se o estudo foi cego para os participantes ou profissionais.
+Não é possível mensurar se todos os desfechos foram avaliados.
+ANTICOAGULANTES
+COORTE RETROSPECTIVA \ FRANÇA
+Observando a incidência de tromboembolismo venoso em pacientes acometidos por COVID-19,
+o estudo verificou o efeito do uso profilático e terapêutico de anticoagulante (heparina). De maneira
+retrospectiva, dois grupos foram comparados, 8 indivíduos no grupo com anticoagulante profilático
+e 18 indivíduos no grupo de anticoagulação terapêutica. A dose de anticoagulantes administrada
+inicialmente ficou a critério do médico e seu diagnóstico de risco de trombose. O grupo terapêutico
+foi tratado com heparina de baixo peso molecular ou heparina não fracionada, com níveis de atividade
+anti-Xa entre 0.3-0.7 U/mL. Todos os indivíduos mostravam sintomas graves e se encontravam
+utilizando ventilação mecânica. Foi encontrada 69% de incidência de tromboembolismo, com
+proporçãodesseeventosignificativamentemaiornogrupoprofilático(100%vs.56%).Aproporçãodos
+eventos de tromboembolismo venoso encontrada no estudo foi maior do que em outros trabalhos. Os
+autores atribuem maior eficiência à estratégia de monitoramento implementada, incluindo triagens
+10
+sistematizadas e utilizando equipamento de ultrassom duplex completo. Por último, os autores
+sustentam o monitoramento constante de indícios de tromboembolismo em pacientes acometidos
+por COVID-19 e a pronta administração terapêutica de anticoagulante.11
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Cohort Studies,
+6/11 critérios foram atendidos, evidenciando qualidade metodológica
+moderada. Fatores de fragilidade do estudo são ausência de identificação de
+fatores de confusão, e como lidar com esses fatores, além do tamanho reduzido
+de amostra. Além disso, as doses consideradas profilática ou terapêutica não
+foram suficientemente descritas.
+DIVERSAS TECNOLOGIAS
+COORTE RETROSPECTIVA \ CHINA
+O objetivo do estudo foi investigar as reações adversas a medicamentos (RAMs) usando o sistema
+de farmacovigilância hospitalar chinês para monitorar ativamente a segurança de medicamentos de
+pacientes com COVID-19. Um total de 217 pacientes tiveram seus prontuários incluídos e investigados
+para “itens de gatilho” que sinalizassem uma possível RAM. Se essa possibilidade fosse identificada,
+a causalidade, o momento da ocorrência, os medicamentos suspeitos, e os desfechos clínicos das
+RAMs eram registrados. Um total de 94 RAMs foi identificado em 82 pacientes. A taxa de incidência
+de RAMs foi de 37,8%, sendo que 119 (54,8%) pacientes usaram umifenovir (arbidol), 179 (82,5%)
+pacientes usaram lopinavir/ritonavir e 37 (17,1%) pacientes usaram cloroquina. Não houve diferença
+significativa na proporção de gênero e doenças de base subjacentes entre os grupos que tiveram RAM
+e os que não tiveram. A análise univariada mostrou que os seguintes fatores foram associados a RAMs:
+tempo de permanência no hospital, uso combinado de agentes antivirais, número de medicamentos
+utilizados no hospital e histórico de alergias a medicamentos. Na análise multivariada, os fatores de
+risco para a ocorrência de RAM foram: o tempo de permanência (OR = 2,02; IC 95%: 1,03 – 3,96),
+número de medicamentos utilizados no hospital (OR = 3,12; IC 95%: 1,60 – 6,27) e doenças de base
+subjacentes (OR = 2,07; IC 95%: 1,02 – 4,23). Os distúrbios gastrointestinais (23,0%) foram as RAMs
+mais frequentes, seguidos pelos distúrbios hepáticos (13,8%), distúrbios da pele e anexos (4,15%) e
+hiperlipidemia (1,38%). Três casos de hiperlipidemia foram causados por lopinavir/ritonavir. A maioria
+das reações foi associada ao lopinavir/ritonavir e umifenovir com 63,8% e 18,1%, respectivamente.
+Cloroquina e antibacterianos foram semelhantes em causar RAMs com incidência de 5,31% e 4,25%,
+respectivamente.12
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Cohort Studies, 10
+de 11 critérios foram atendidos e 1 não se aplicava, o que indica boa qualidade
+metodológica. Os métodos para identificação de RAM estavam de acordo com
+os padrões internacionais. O estudo é muito relevante dada a quantidade de
+medicamentos administrados a pacientes com COVID-19.
+11
+HIDROCORTISONA
+RELATO DE CASO \ FRANÇA
+Um homem de 69 anos, com histórico de hipertensão, foi diagnosticado com COVID-19. Apesar
+do histórico, a infecção por SARS-CoV-2 seria a mais provável causa da miocardite, segundo os
+autores. O paciente foi tratado com hidrocortisona por 9 dias com o objetivo de reduzir a inflamação –
+particularmente do miocárdio. Após três semanas, o paciente recebeu alta da UTI. Os autores sugerem
+que os médicos precisam prestar atenção a possibilidade de miocardite nos casos de COVID-19.13
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Case Reports,
+3/8 critérios foram atendidos, indicando baixa qualidade metodológica.
+Os seguintes itens não foram descritos ou de forma superficialmente: as
+características demográficas; histórico do paciente e condições clínicas atuais;
+intervenções ou procedimentos de tratamento; e eventos adversos.
+INIBIDORES DA ENZIMA DE CONVERSÃO DA ANGIOTENSINA
+(IECAS) E BLOQUEADORES DOS RECEPTORES DA
+ANGIOTENSINA (BRA)
+SÉRIE DE CASOS \ CHINA
+Neste artigo, os autores avaliaram uma série de casos de pacientes hospitalizados no Hospital
+CentraldeWuhan,China,nointuitodeinvestigarsepacienteshipertensosqueestãotomandoinibidores
+da enzima de conversão da angiotensina (IECAs) ou bloqueadores dos receptores da angiotensina (BRA)
+têm maior gravidade ou risco de mortalidade durante a hospitalização por COVID-19. De 1178 pacientes
+hospitalizados, 362 eram hipertensos (30,7%), e 115 deles (31,8%) estavam tomando IECA ou BRA. A
+mortalidade hospitalar por COVID-19 nos pacientes com hipertensão foi de 21,3%. A porcentagem de
+pacientes com hipertensão em uso de IECA ou BRA não diferiu daqueles com infecções graves e não
+graves (32,9% vs. 30,7%; P = 0,645) nem diferiu entre os não sobreviventes e sobreviventes (27,3% vs.
+33,0%; P = 0,34). Os autores sugerem que IECA ou BRA não estão associados à gravidade ou mortalidade
+de COVID-19 em pacientes hipertensos.14
+QUALIDADE
+METODOLÓGICA
+DeacordocomaferramentaJBICriticalAppraisalChecklistforCaseSeries,08/10
+critérios foram atendidos, indicando boa qualidade metodológica. Contudo,
+não houve critérios claros para inclusão de pacientes nessa série de casos, nem
+informações demográficas do local/clínica onde os pacientes foram tratados.
+Segundo os próprios autores, o pequeno número de pacientes hipertensos em
+uso de IECA/BRA e hospitalizados com COVID 19, incluídos nesse estudo, não
+permite que uma generalização dos resultados possa ser feita para todos os
+pacientes com hipertensão, e é possível ainda que os IECA/BRA possam afetar
+a chance de hospitalização. Tal possibilidade não foi explorada e merece mais
+investigação. Por fim, não é descrito, no artigo, se o tratamento crônico com
+IECA/BRA foi mantido durante toda a hospitalização dos pacientes.
+12
+OXIGENAÇÃO POR MEMBRANA EXTRACORPÓREA E
+LOPINAVIR/RITONAVIR
+RELATO DE CASO \ JAPÃO
+O estudo relata o caso de uso de técnica de oxigenação por membrana extracorpórea (ECMO)
+durante tratamento de um homem de 45 anos acometido por COVID-19. O paciente fazia uso de
+medicamentos para diabetes mellitus, hipertensão e asma e deu entrada na unidade de cuidados
+críticos apresentando pneumonia. O paciente, em estado grave, foi imediatamente entubado e
+colocado sob respiração mecânica. Após apresentar agravos na oxigenação, foi introduzido à ECMO
+30 horas depois de sua entrada no hospital, e, 4 dias depois, foi diagnosticado com SARS-CoV-2 por
+meio de teste PCR em tempo real. Neste momento, o paciente foi posicionado de bruços. Lopinavir
+400mg/ritonavir 100mg começaram a ser administrados duas vezes ao dia. Os médicos indicaram que,
+mesmo com contraindicações e efeitos colaterais observados, escolheram esse tratamento em virtude
+da situação grave do paciente. Após observarem melhoras na complacência pulmonar, a ECMO foi
+retirada no dia 11, assim como ventilação mecânica e oxigenação nos dias 14 e 18, respectivamente. A
+estadia do paciente na unidade de tratamento intensivo durou 15 dias e testes de PCR em tempo real
+não indicaram sinais de SARS-CoV-2 nos dias 13 e 15 de internação. O paciente deixou o hospital dia
+24. O autores sustentam que não possuem dados científicos para discutir a efetividade do tratamento
+implementado, contudo relatam que os cuidados dispensados em sua unidade de cuidado intensivo
+podem ser replicados em outros hospitais.15
+QUALIDADE
+METODOLÓGICA
+DeacordocomaferramentaJBICriticalAppraisalChecklistforCaseReports,06/08
+critérios foram atendidos, revelando estudo de boa qualidade metodológica.
+Uma fragilidade do estudo é a falta de discussão dos prós e contras do tratamento
+implementado, especialmente em se tratando dos medicamentos, cujos efeitos
+são razoavelmente discutidos na literatura especializada.
+ECULIZUMABE
+SÉRIE DE CASOS \ ITÁLIA
+Trata-se do relato de quatro casos de pacientes com diagnóstico confirmado de infecção por
+SARS-CoV-2 e pneumonia grave ou síndrome respiratória aguda grave (SRAG) que foram tratados
+com até 4 infusões de eculizumabe como agente off-label. Os pacientes também foram tratados com
+terapia anticoagulante com enoxaparina, terapia antiviral com Lopinavir/ritonavir, hidroxicloroquina,
+ceftriaxona, vitamina C, além de ventilação não invasiva. Todos os pacientes se recuperaram com
+sucesso após o tratamento com eculizumabe, além de ter sido observada redução dos marcadores
+inflamatórios e da concentração da proteína C reativa, além disso, a duração média da doença foi
+de 12,8 dias, indicando que o eculizumabe tem o potencial de ser um importante coadjuvante no
+tratamento de casos graves de COVID-19.16
+13
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Case Reports,
+05/08 critérios foram atendidos. Os autores não mencionaram as características
+demográficas dos pacientes, não discutiram efeitos adversos ou possíveis
+interações medicamentosas. Trata-se de dados preliminares do uso de
+eculizumabe enquanto aguardam o resultado de ensaio clínico em andamento.
+DIVERSAS TECNOLOGIAS
+ARTIGO DE OPINIÃO \ FRANÇA E ESTADOS UNIDOS DAS AMÉRICAS
+Neste artigo, os autores trazem uma lista com várias opções de tratamento contra a COVID-19 para
+pacientescomdoençarenalcrônica(DRC).Osfármacosforamapresentadosporclassedemedicamentos,
+e para cada um, foi especificada a potencialidade de dano renal, e a necessidade ou não de ajuste
+de dose nessa população de pacientes com DRC. Fármacos como o remdesivir, tocilizumab, favipiravir,
+lopinavir/ritonavir, cloroquina e hidroxicloroquina, exemplos citados no artigo, já se encontram sob
+investigação clínica. Segundo os autores, a justificativa para fornecer essas informações aos nefrologistas
+é que provavelmente, para pacientes com DRC, o uso off-label desses medicamentos acontecerá, apesar
+da ausência de dados. Dessa forma, alertam que os médicos devem estar cientes dos possíveis ajustes
+de posologia e eventos adversos renais desses medicamentos neste grupo de pacientes.17
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Text and Opinion
+Papers, 04/06 critérios foram atendidos, indicando qualidade metodológica
+razoável. Não houve menção de um processo analítico das poucas referências
+citadas no artigo, que suportem a posição declarada pelos autores. Ademais,
+a informação sobre a necessidade de ajuste de dose trazida pelos autores foi
+apresentada de forma incompleta e superficial.
+QUELANTES DE FERRO
+REVISÃO NARRATIVA \ CHINA
+Trata-se de uma revisão narrativa da literatura na qual os autores discorrem sobre o papel
+do ferro para ativação de enzimas necessárias para replicação viral, o que também ocorre na
+família dos coronavírus. Além disso, os vírus tem a capacidade de modular o metabolismo do ferro
+no hospedeiro e alguns relatos reportam um mau prognóstico nas condições de sobrecarga de
+ferro em pacientes com infecção viral. Baseado em estudos que investigaram o papel do ferro
+sobre o HIV, os autores sugerem duas possíveis frentes para o tratamento da COVID-19: uso de
+medicamentos quelantes de ferro como a deferoxamina, deferiprona e deferasirox; ou via redução
+ou esgotamento do ferro celular através da regulação de genes envolvidos com o metabolismo do
+ferro, com a utilização de medicamentos agonistas da hepcidina, um regulador chave da entrada do
+ferro para a circulação em mamíferos.18
+14
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas disponíveis para avaliação de revisões narrativas. Em leitura
+crítica,osautoresbaseiam-seemresultadosdetestesfeitosexclusivamentecom
+o vírus da imunodeficiência humana, HIV, sendo que ainda não há evidências
+científicas sobre o uso de quelantes de ferro sobre atividade viral do SARS-
+CoV-2. Os autores mencionam outros micronutrientes como zinco, magnésio
+ou cálcio como papel preponderante na atividade viral do SARS-CoV-2, porém
+terapias baseadas na modulação seja da concentração ou absorção desses
+micronutrientes ainda precisam ser melhor desenvolvidas.
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ ITÁLIA
+Foi realizada uma revisão sobre o uso de antirreumáticos no tratamento da COVID-19, com as
+principais conclusões sobre cada terapia, conforme descrito a seguir. Glicocorticoides: baseado nas
+evidências atuais, eles não são recomendados para tratamento da pneumonia viral por COVID-19
+fora de ensaios clínicos. Anti-inflamatórios não esteroidais: resultados de pesquisas com pacientes da
+COVID-19 devem ser aguardados antes de indicar o uso dos medicamentos desta classe terapêutica,
+assim, o uso regular de AINEs como tratamento sintomático não deve ser recomendado. Cloroquina
+e hidroxicloroquina: tem sido utilizada por curto período de tempo (5-20 dias) de acordo com
+consenso de especialistas, as doses e o regime ideal ainda não estão estabelecidos para tratamento
+da COVID-19. Leflunomida: apesar de ter efeito antiviral contra vários agentes, existem poucos dados
+sobre dosagem, duração do tratamento e células-alvo da atividade antiviral, seu uso no tratamento da
+COVID-19 é duvidoso. Micofenolato de mofetil: é um forte agente imunossupressor, mas seus efeitos
+antivirais continuam inconclusivos. Metotrexato: seu uso como medicamento antiviral e como possível
+terapêutica contra a COVID-19 pode não ser adequado, pois já foi documentada sua capacidade de
+reativação de vários outros vírus. Colchicina: sua eficácia e segurança tem sido avaliada em estudos de
+faseIIpromovidospelaSociedadeItalianadeReumatologiaepelaSociedadedeInfectologiaeDoenças
+Tropicais da Itália. TNF alfa: seu potencial uso na COVID-19 seria nos estágios iniciais da doença, por
+reduzir os níveis de TNF. Tolicizumabe: é um anticorpo monoclonal humanizado, direcionado contra
+receptores de IL-6, ensaios clínicos randomizados controlados tem avaliado seu uso na China e na
+Itália. Imunoglobulinas intra- venosas (IgIV): apesar da revisão sistemática sobre tratamento da SARS
+ter mostrado resultados inconclusivos, a IgIV tem sido sugerida como uma possível terapêutica no
+tratamento da COVID-19. Inibidores de Janus kinase (JAK): seu uso deve ser cuidadosamente avaliado,
+uma vez que pode reativar várias doenças infecciosas. Fator estimulador de colônias de granulócitos-
+monócitos (GM-FEC): o uso de inibidores de receptores GM-FEC podem representar uma abordagem
+experimental adicional interessante no tratamento da COVID-19.19
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação da qualidade de revisões narrativas.
+Os principais pontos fortes do artigo foram a descrição do mecanismo de ação
+e aplicabilidade dos antirreumáticos no tratamento da COVID-19, além de
+informar o status dos ensaios clínicos que estão avaliando esses medicamentos.
+15
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ ÍNDIA
+Foi realizada uma revisão narrativa sobre os principais aspectos da morbimortalidade em
+pacientes da COVID-19, os principais agentes terapêuticos, além de medidas profiláticas e uso
+de produtos naturais da tradicional medicina indiana. Dentre as medicações antivirais off-label
+os autores descrevem a hidroxicloroquina, camostat, nafamostat, lopinavir/ritonavir, nelfinavir,
+ribavirina, sofosbuvir, oseltamivir, zanamivir e promazine. Referem também o uso de plasma
+convalescente como antiviral. Outros antivirais em investigação são o remdesivir e emodin. Contra
+infecções secundárias é descrita a azitromicina. Para gerar resposta antiviral, são descritos os
+interferons alfa e beta. Para reduzir resposta imune, os corticosteroides foram descritos, e ainda
+com estas mesmas propriedades, porém com uso off-label, são descritos o tolicizumabe, anakinra,
+ruxolitinibe, upadacitinibe, baricitinibe e Imunoglobulinas IV. Ao final da revisão, os autores
+concluem que existe uma variedade de possíveis opções terapêuticas, sendo que a maioria ainda
+não foi submetida a testes pré-clínicos e clínicos intensivos. Apesar disso, eles ressaltam que
+estas terapias tem mérito, seja pela forma de ação, seja pelo conhecido mecanismo de interação
+vírus-hospedeiro, assim, devem ser cuidadosamente empregadas no tratamento da COVID-19,
+considerando o contexto certo, e o tempo e duração da aplicação.20
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação da qualidade de revisões narrativas.
+As principais limitações do estudo estão relacionadas a ausência de menção de
+efeitos indesejados das terapias descritas
+INIBIDORES DA ENZIMA DE CONVERSÃO DA
+ANGIOTENSINA (IECAS) E BLOQUEADORES DOS
+RECEPTORES DA ANGIOTENSINA (BRA)
+REVISÃO NARRATIVA \ ESTADOS UNIDOS DAS AMÉRICAS
+O objetivo da revisão foi avaliar o impacto de Inibidores da enzima de conversão da angiotensina
+(IECAs) e bloqueadores dos receptores da angiotensina (BRA) na expressão do receptor ACE2, pelo
+qual o vírus SARS-CoV-2 entra nas células. A revisão incluiu estudos em animais e em humanos. Para
+os propósitos do presente informe, somente os estudos em humanos serão descritos. Evidências de
+alterações na proteína ACE2 em humanos são derivadas de estudos que avaliaram a concentração
+de proteína ACE2 ou atividade enzimática na urina ou no soro/plasma. Dos 11 estudos incluídos, 7
+não mostraram efeito do uso de BRA/IECA sobre as concentrações de proteína ACE2 em nenhuma
+condição/grupo de pacientes. Um estudo documentou um pequeno aumento na ECA2 sérica
+atribuível ao uso de IECA entre pacientes com diabetes do tipo 1, mas não encontrou efeito do uso
+de BRA. Outro estudo encontrou uma diminuição proporcional ligeiramente maior na ECA2 urinária
+em pacientes com diabetes tipo 2 em uso de IECA/BRA, mas não distinguiu entre os efeitos do uso de
+IECA ou BRA. Em um estudo, os pesquisadores observaram que os indivíduos que usavam olmesartana
+16
+(BRA) tinham concentração de ECA2 aumentada, mas vários outros BRAs e IECAs não tiveram efeito.
+Em um estudo, o uso de IECA não teve efeito no controle, em pacientes com doença renal crônica
+no estágio 3-5 ou em diálise; o BRA teve apenas um pequeno efeito em pacientes em diálise. Além
+desses dados quantitativos, outro estudo utilizou análise imuno-histoquímica para avaliar a expressão
+da proteína ACE2 nos rins e não encontrou efeito dependente do IECA. Juntos, esses 12 estudos em
+humanos implicam na falta de associação entre a expressão da proteína ACE2 e o uso de BRAs ou IECA
+e apoiam a ideia de que é improvável que os IECA/BRA aumentem a ECA2 ou sejam prejudiciais no
+contexto da COVID-19.21
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação da qualidade metodológica de revisões
+narrativas. Cabe destacar que os autores identificaram as fontes de informação
+pesquisadas (Pubmed e Google acadêmico) e os termos usados na pesquisa.
+Ademais, os autores somente incluíram estudos com expressão/atividade
+quantitativa/normalizada da proteína ACE2 e com tecidos relevantes para a
+infecção por SARS-CoV-2.
+VACINA
+DOCUMENTO INSTITUCIONAL \ DIVERSOS PAÍSES
+Em levantamento da Organização Mundial da Saúde, com atualização do dia 23 de abril, relata-se
+que há 6 candidatos a vacinas contra SARS-CoV-2 em fase clínica de avaliação. Os candidatos a vacina
+do tipo “Adenovirus type 5 vector” (desenvolvida pelo CanSino Biological Inc. junto com o Instituto de
+Biotecnologia de Pequim) e do tipo “ChAdOx1” (desenvolvida pela Universidade de Oxford) estão em
+fase 1 e 2 de pesquisa clínica. Já os candidatos dos tipos: “DNA plasmid vaccine Electroporation device”
+(Inovio Pharmaceuticals); Inativada (Instituto de Produtos Biológicos de Pequim/Instituto de Produtos
+Biológicos de Wuhan); Inativada com o adjuvante de vacinas Alum (Sinovac); e “LNP-encapsulated
+mRNA” (Moderna/NIAID) estão na fase 1 de desenvolvimento clínico. Outros 77 candidatos a vacina
+estão na fase pré-clínica.22
+QUALIDADE
+METODOLÓGICA
+Por se tratar de documento institucional, não cabe avaliação da qualidade
+metodológica. É um levantamento do cenário de desenvolvimento de vacinas
+para COVID-19, atualizado periodicamente.
+17
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ ÍNDIA E COREIA DO SUL
+Os autores trazem neste artigo a epidemiologia, características clínicas, diagnóstico e tratamento
+da COVID-19. A partir da seção de tratamento, os autores descrevem um amplo panorama de estudos
+a partir de moléculas com potencial terapêutico contra as doenças MERS, SARS e COVID-19. Descreve
+a Cloroquina e a Hidroxicloroquina como uma opção para tratamento da COVID-19, bem como o uso
+destes em estudo clínico realizado em dez hospitais na China. O remdesivir, ao ser usado em estudo
+clínico, demonstrou a diminuição da gravidade dos sintomas, em paciente tratado nos EUA. Foi
+descrito também a diminuição da progressão dos sintomas quando pacientes na Coreia do Sul fizeram
+uso do Lopinavir/ritonavir, bem como a ausência de titulação de vírus após o tratamento com esses
+medicamentos. São descritas quatro moléculas promissoras: remdesivir, inibidor de protease vinil
+sulfona, peptídeo baseado em ECA 2 e 3CLpro-1. A hidroxicloroquina é menos tóxica que a cloroquina
+e, em estudo randomizado, foi proposto que a azitromicina em associação com a hidroxicloroquina
+seria uma promissora terapia contra a COVID-19. Uma outra potencial estratégia para tratamento da
+COVID-19 seriam os bloqueadores do receptor celular ECA 2. Os autores trazem também estudos,
+em condução, para a produção de vacina: a partir de antígenos da proteína Spike do SARS-CoV-2.
+Além disso, a partir de imunobioinformática identificaram treze epítopos nas células B que possuem
+antigenicidade contra a proteína Spike da SARS-CoV-2. Esses poderiam ser usados para a produção
+de vacinas. Os autores trazem estudos sobre o desenvolvimento de vacinas com tecnologia de RNA
+mensageiro e enfatiza que isso poderia acelerar a descoberta de uma vacina efetiva.23
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação metodológica de revisões narrativas. Os
+autores não aprofundam sobre os achados dos estudos citados nessa revisão,
+objetivando mostrar as possíveis terapêuticas para infecções por SARS-CoV-2 de
+forma exploratória. A grande parte dos resultados que trazem são provenientes
+de estudos in vitro e in vivo, embora estes sejam extremamente importantes,
+esses estudos possuem baixo nível de evidência e seus resultados devem ser
+testados a partir de estudos clínicos robustos, a fim de mensurar os riscos e
+benefícios do uso de uma molécula em potencial como terapia medicamentosa.
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ ITÁLIA
+Nessa revisão, os autores avaliam o reposicionamento de alguns medicamentos com potencial
+para tratar a COVID-19. 1) Lopinavir/ritonavir: em um ensaio clínico randomizado com 199 pacientes
+com COVID-19 não houve diferenças entre os grupos (teste e controle) em relação ao tempo de
+melhora clínica, mortalidade e detecção de RNA viral. No entanto, efeitos adversos gastrointestinais
+foram mais comuns no grupo lopinavir/ritonavir (Cao et al. 2020). 2) Remdesivir: têm apresentado
+resultados promissores no controle da COVID-19 como relatado em um estudo de caso (Holshue et
+al. 2020) e um estudo in vitro (Wang et al. 2020). 3) Favipiravir: um ensaio clínico com 200 pacientes
+18
+com COVID-19 mostrou que os pacientes que receberam a medicação levaram apenas quatro dias
+para testar negativo, enquanto o grupo controle levou 11 dias. Além disso, os sintomas de pneumonia
+reduziram significativamente no grupo teste (Watanabe, 2020). Em um ensaio clínico randomizado de
+pacientes com COVID-19, o tratamento com dois medicamentos (favipiravir e arbidol) foi avaliado. A
+recuperação clínica com sete dias de tratamento foi vista em 71% dos pacientes do grupo favipiravir,
+enquanto a recuperação no grupo arbidol foi de 55%. Na avaliação com pacientes hipertensos e/ou
+diabéticos, o tempo para redução da febre e alívio da tosse foi significativamente menor no grupo
+favipiravir (Chen et al. 2020). 4) Tocilizumabe: foi avaliado em 20 pacientes com COVID-19 grave e foi
+associado à redução da necessidade de oxigênio, resolução de lesões pulmonares, normalização da
+contagem de linfócitos, redução da concentração de proteína C reativa e alta hospitalar com tempo
+médio de internação de 13,5 dias (Xu et al. 2020).24
+QUALIDADE
+METODOLÓGICA
+Não existe ferramenta para avaliação da qualidade metodológica de revisões
+narrativas. Os autores não demonstram como os artigos foram selecionados,
+no entanto, percebe-se que uma ampla pesquisa foi realizada e as referências
+utilizadas foram bem detalhadas. Ainda assim, é possível que os autores tenham
+escolhido referências para embasar opiniões próprias.
+ATIVADOR DO PLASMINOGÊNIO TECIDUAL (TPA)
+REVISÃO NARRATIVA \ REINO UNIDO
+A COVID-19 é frequentemente associada com o desenvolvimento de problemas respiratórios,
+comoaSíndromedeAngústiaRespiratóriadoAdulto(SARA).ASARAestárelacionadacomainflamação
+do espaço alveolar do pulmão, aumentando a presença de citocinas pró-inflamatórias. Esta condição
+pode induzir a formação de trombos sanguíneos. Estudos relatam esta situação em pacientes
+acometidos por COVID-19, com possível desenvolvimento de Tromboembolismo venoso e revelando
+a necessidade de verificar tratamentos e o reposicionamento de drogas fibrinolíticas para pacientes
+com COVID-19. O estudoindica que,embora a administração de heparinaprevinaa formação de novos
+coágulos, ela não é capaz de remover coágulos preexistentes. Com base em uma série de estudos
+pré-clínicos, clínicos, e relatos de caso, os autores indicam que o Ativador do Plasminogênio Tecidual
+(tPA), uma protease sérica, é eficaz para diluição de trombos e sua administração via nebulização
+poderia ser direcionada para o combate à SARA de acometidos por COVID-19.25
+QUALIDADE
+METODOLÓGICA
+Não exitem ferramentas para avaliação metodológica de revisões narrativas.
+Uma análise crítica permite observar que o estudo faz uma revisão ampla sobre
+o assunto e reúne diversas evidências sobre a eficácia do tratamento. Trata-se
+de um estudo de boa qualidade metodológica. Uma fragilidade é a ausência de
+explicações sobre bases pesquisadas e critérios de inclusão.
+19
+REFERÊNCIAS
+1. Borba MGS, Val FFA, Sampaio VS, et al. Effect of High vs Low Doses of Chloroquine Diphosphate
+as Adjunctive Therapy for Patients Hospitalized With Severe Acute Respiratory Syndrome
+Coronavirus 2 (SARS-CoV-2) Infection A Randomized Clinical Trial. JAMA Network Open.
+2020;3(4.23):e208857. doi:10.1001/jamanetworkopen.2020.8857
+2. Sato K, Mano T, Iwata A, Toda T. Neuropsychiatric adverse events of chloroquine: a real-world
+pharmacovigilance study using the FDA Adverse Event Reporting System (FAERS) database.
+BioScience Trends, Advance Publication. DOI: 10.5582/bst.2020.03082Brief.
+3. Sarayani A, Cicali B, Henriksen C, Brown J. Safety signals for QT prolongation or Torsades de
+Pointes associated with azithromycin with or without chloroquine or hydroxychloroquine.
+Research in Social and Administrative Pharmacy. 15 de abril de 2020.
+4. Mathies D, Rauschning D, Wagner U, Mueller F, Maibaum M, Binnemann C, et al. A Case of
+SARS-CoV-2-pneumonia with successful antiviral therapy in a 77-year-old male with heart
+transplant. Am J Transplant [Internet]. 2020; Available from: http://www.ncbi.nlm.nih.gov/
+pubmed/32319218
+5. Beauverd Y, Adam Y, Assouline B, Samii K. COVID-19 infection and treatment with
+hydroxychloroquine cause severe haemolysis crisis in a patient with glucose-6-phosphate
+dehydrogenase deficiency. DOI: 10.1111/EJH.13432
+6. Fontana F, Alfano G, Mori G, Amurri A, Tei L, Ballestri M, et al. COVID-19 pneumonia in a kidney
+transplant recipient successfully treated with Tocilizumab and Hydroxychloroquine. Am J
+Transplant [Internet]. 2020; Available from: http://www.ncbi.nlm.nih.gov/pubmed/32324331
+7. Abena PM, Decloedt EH, Bottieau E, Suleman F, Adejumo P, Sam-Agudu NA. Chloroquine and
+Hydroxychloroquine for the Prevention or Treatment of Novel Coronavirus Disease (COVID-19)
+in Africa: Caution for Inappropriate Off-Label Use in Healthcare Settings. Am. J. Trop. Med.
+Hyg., 00(0), 2020, pp. 1–5. doi:10.4269/ajtmh.20-0290
+8. Matuoka JY, Oliveira HA de, Medeiros FC, Marra LP, Parreira PCS, Bagattini ÂM, et al. Nitazoxanida
+para tratamento de COVID-19: Revisão Sistemática Rápida [Internet]. 2020. Available from:
+https://oxfordbrazilebm.com/index.php/2020/04/22/nitazoxanida-para-tratamento-de-covid-19/
+9. Cao B, Wang Y, Wen D, Liu W, Wang J, Fan L, et al. A Trial of Lopinavir–Ritonavir in Adults
+Hospitalized with Severe COVID-19. N Engl J Med. DOI: 10.1056/NEJMoa2001282
+10. Liu X, Li Z, Liu S, Sun J, Chen Z, Jiang M, et al. Potential therapeutic effects of dipyridamole
+in the severely ill patients with COVID-19. Acta Pharm Sin B. 2020 Apr 20. doi: 10.1016/j.
+apsb.2020.04.008. [Epub ahead of print]
+11. Llitjos JF, Leclerc M, Chochois C, Monsallier JM, Ramakers M, Auvray M, et al. High incidence
+of venous thromboembolic events in anticoagulated severe COVID-19 patients. J Thromb
+Haemost [Internet]. 2020; Available from: http://www.ncbi.nlm.nih.gov/pubmed/32320517
+12. Sun J, Deng X, Chen X, Huang J, Huang S, Li Y, et al. Incidence of Adverse Drug Reactions in
+COVID-19 patients in China: an active monitoring study by Hospital Pharmacovigilance System.
+Clin Pharmacol Ther. 2020 Apr 23;. doi: 10.1002/cpt.1866. [Epub ahead of print]
+13. Doyen D, Moceri P, Ducreux D, Dellamonica J. Myocarditis in a patient with COVID-19: a cause
+of raised troponin and ECG changes. Clinical Picture. DOI:https://doi.org/10.1016/S0140-
+6736(20)30912-0
+20
+14. Li J, Wang X, Chen J, Zhang H, Deng A. Association of Renin-Angiotensin System Inhibitors With
+Severity or Risk of Death in Patients With Hypertension Hospitalized for Coronavirus Disease
+2019 (COVID-19) Infection in Wuhan, China. JAMA Cardiol. doi:10.1001/jamacardio.2020.1624
+15. Nakamura K, Hikone M, Shimizu H, Kuwahara Y, Tanabe M, Kobayashi M, et al. A sporadic COVID-19
+pneumonia treated with extracorporeal membrane oxygenation in Tokyo, Japan: A case report.
+J Infect Chemother [Internet]. 2020; Available from: https://doi.org/10.1016/j.jiac.2020.03.018
+16. Diurno F, Numis FG, Porta G, Cirillo F, Maddaluno S, Ragozzino A, et al. Eculizumab treatment in
+patients with COVID-19: preliminary results from real life ASL Napoli 2 Nord experience. Eur
+Rev Med Pharmacol Sci. 2020 Apr;24(7):4040-4047. doi: 10.26355/eurrev_202004_20875.
+17. Izzedine H, Jhaveri KD, Perazella MA. COVID-19 therapeutic options for patients with kidney
+disease. Kidney International (2020). https://doi.org/10.1016/j.kint.2020.03.015
+18. Liu W, Zhang S, Nekhai S, Liu S. Depriving Iron Supply to the Virus Represents a Promising
+Adjuvant Therapeutic Against Viral Survival. Curr Clin Microbiol Rep. 2020 Apr 20:1-7. doi:
+10.1007/s40588-020-00140-w.
+19. Perricone C, Triggianese P, Bartoloni E, Cafaro G, Bonifacio AF, Bursi R, et al. The anti-viral
+facet of anti-rheumatic drugs: Lessons from COVID-19. Journal of Autoimmunity. https://doi.
+org/10.1016/j.jaut.2020.102468.
+20. Shetty R, Ghosh A, Honavar SG, Khamar P, Sethu S. Therapeutic opportunities to manage
+COVID-19/SARS-CoV-2 infection: Present and future. Indian J Ophthalmol 2020;68:693-702.
+21. Sriram K, Insel PA. Risks of ACE inhibitor and ARB usage in COVID-19: evaluating the evidence.
+Clin Pharmacol Ther. 2020 Apr 22;. doi: 10.1002/cpt.1863. [Epub ahead of print] Review.
+22. WHO. DRAFT landscape of COVID-19 candidate vaccines – 23 April 2020. 2020. Acesso em:
+24/04/2020. Disponível em: https://www.who.int/blueprint/priority-diseases/key-action/draft-
+landscape-COVID-19-candidate-vaccines-23-April-2020.pdf
+23. Chakraborty C, Sharma AR, Sharma G, Bhattacharya M, Lee SS. SARS-CoV-2 causing pneumonia-
+associated respiratory disorder (COVID-19): diagnostic and proposed therapeutic options. Eur
+Rev Med Pharmacol Sci. 2020 Apr;24(7):4016-4026. doi: 10.26355/eurrev_202004_20871.
+24. Scavone C, Brusco S, Bertini M, Sportiello L, et al. Current pharmacological treatments for
+COVID-19: what’s next? Br. J. Pharmacol. 2020 Apr. Doi: https://doi.org/10.1111/bph.15072
+25. Whyte CS, Morrow GB, Mitchel JL, Chowdary P, Mutch NJ. Fibrinolytic abnormalities in acute
+respiratory distress syndrome (ARDS) and versatility of thromobolytic drugs to treat COVID-19.
+J Thromb Haemost. 2020; Available from DOI: 10.1111/jth.14872
+26. Brasil. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de Ética em
+Pesquisa. Boletim Ética em Pesquisa – Edição Especial Coronavírus (Covid-19). CONEP/CNS/MS.
+2020, 1:página 1-página 21.
+ESTRATÉGIA DE BUSCA:
+21
+CITAÇÃO
+BRASIL. Departamento de Ciência e Tecnologia. Secretaria de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos em Saúde. Ministério da Saúde. Informe Diário de Evidências – COVID-19 (27 de abril
+de 2020). 2020.
+ORGANIZADORES
+Equipe técnica: 		Cecilia Menezes Farinasso; Douglas de Almeida Rocha; Felipe Nunes Bonifácio; Gabriel
+Antônio Rezende de Paula; Glícia Pinheiro Bezerra; Junia Carolina Rebelo Dos Santos
+Silva; Leonardo Ferreira Machado; Livia Carla Vinhal Frutuoso.
+Coordenadora de Evidências e Informações Estratégicas em Gestão em Saúde: Daniela Fortunato Rego.
+Diretora de Ciência e Tecnologia: Camile Giaretta Sachetti.
+22
+Apêndice 1: Protocolos de ensaios clínicos registrados em 24/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+1 NCT04359095/
+Colômbia
+Antimalárico; Antiviral;
+Antibiótico sistêmico
+simples
+Hidroxicloroquina;
+Hidroxicloroquina +
+Lopinavir/Ritonavir;
+Hidroxicloroquina +
+Azitromicina
+Tratamento padrão Ainda não recrutando 24/04/2020 Universidad Nacional
+de Colombia; Pontificia
+Universidad Javeriana;
+Cl√≠nica Universitaria
+Colombia; Hospital
+Universitario San
+Ignacio; Hospital
+Universitario Nacional
+de Colombia; Cl√≠nica
+Reina Sof√≠a;
+Fundaci√≥n Cardio
+Infantil; Hospital
+Universitario
+2 NCT04359615/ Irã Antiviral; Antimalárico Favipiravir +
+Hidroxicloroquina
+Hidroxicloroquina Ainda não recrutando 24/04/2020 Shahid Beheshti
+University of Medical
+Sciences
+3 NCT04359316/ Irã Antimalárico;
+Antibiótico sistêmico
+simples
+Hidroxicloroquina +
+Azitromicina
+Hidroxicloroquina Ainda não recrutando 24/04/2020 Shahid Beheshti
+University of Medical
+Sciences
+4 NCT04361318/ Egito Antimalárico;
+Antiparasitário
+Hidroxicloroquina+
+Nitazoxanida
+Tratamento padrão Ainda não recrutando 24/04/2020 Tanta University
+5 NCT04359953/ França Antimalárico;
+Antibiótico sistêmico
+simples; Anti-
+hipertensivo
+Hidroxicloroquina;
+Azitromicina; Telmisartana
+Tratamento padrão Ainda não recrutando 24/04/2020 University Hospital,
+Strasbourg, France
+6 NCT04362332/
+Holanda
+Antimalárico Cloroquina;
+Hidroxicloroquina
+Tratamento padrão Recrutando 24/04/2020 UMC Utrecht; ZonMw:
+The Netherlands
+Organisation for
+Health Research and
+Development
+23
+Apêndice 1: Protocolos de ensaios clínicos registrados em 24/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+7 NCT04359537/
+Paquistão
+Antimalárico Hidroxicloroquina como
+profilaxia pré exposição
+Placebo Ainda não recrutando 24/04/2020 Shaheed Zulfiqar
+Ali Bhutto Medical
+University
+8 NCT04360759/ África
+do Sul
+Antimalárico Cloroquina;
+Hidroxicloroquina para
+pacientes com co-infecção
+de HIV e COVID-19
+Tratamento padrão Ainda não recrutando 24/04/2020 University of Cape
+Town
+9 NCT04361461/ Brasil Antimalárico;
+Antibiótico sistêmico
+simples
+Hidroxicloroquina +
+Azitromicina
+Hidroxicloroquina Ainda não recrutando 24/04/2020 Apsen Farmaceutica
+S.A.; Hospital S√£o
+Paulo
+10 NCT04360356/ Egito Antiparasitário Ivermectina + nitazoxanida Tratamento padrão Ainda não recrutando 24/04/2020 Tanta University
+11 NCT04359680/ EUA Antiparasitário Nitazoxanida como profilaxia
+pré e pós exposição
+Placebo Ainda não recrutando 24/04/2020 Romark Laboratories
+L.C.
+12 NCT04362176/ EUA Imunoterapia Plasma convalescente Placebo Ainda não recrutando 24/04/2020 Vanderbilt University
+Medical Center; Dolly
+Parton
+13 NCT04358783/ México Imunoterapia Plasma convalescente Tratamento padrão Ainda não recrutando 24/04/2020 Hospital Universitario
+Dr. Jose E. Gonzalez
+14 NCT04359810/ EUA Imunoterapia Plasma convalescente Plasma comum Ainda não recrutando 24/04/2020 Max R. O'Donnell; New
+York Blood Center;
+Columbia University
+15 NCT04361253/ EUA Imunoterapia Plasma convalescente Plasma comum Ainda não recrutando 24/04/2020 Brigham and Women's
+Hospital
+16 NCT04361422/ Egito Produtos Anti-Acne Isotretinoína Tratamento padrão Ainda não recrutando 24/04/2020 Tanta University
+17 NCT04362124/
+Colômbia
+Imunoterapia Vacina BCG Placebo Ainda não recrutando 24/04/2020 Universidad de
+Antioquia
+18 NCT04362137/ País
+não declarado
+Antineoplásico Ruxolitinib Placebo Ainda não recrutando 24/04/2020 Novartis
+Pharmaceuticals; Incyte
+Corporation; Novartis
+24
+Apêndice 1: Protocolos de ensaios clínicos registrados em 24/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+19 NCT04361942/
+Espanha
+Terapia celular Células estromais
+mesenquimais alogênicas
+Placebo Ainda não recrutando 24/04/2020 Red de Terapia Celular;
+Citospin; University
+of Valladolid; Castilla-
+Le√≥n Health Service;
+Hospital del R√≠o
+Hortega; Instituto de
+Salud Carlos III
+20 NCT04361643/
+Espanha
+Imunossupressor Lenalidomide Placebo Ainda não recrutando 24/04/2020 Hospital Universitario
+Getafe
+21 NCT04361214/ EUA Antinflamatórios
+antireumáticos
+Leflunomida Sem comparador Ainda não recrutando 24/04/2020 University of Chicago
+22 NCT04359277/ EUA Anticoagulantes Anticoagulantes em alta
+dose
+Anticoagulantes em
+baixa dose
+Recrutando 24/04/2020 NYU Langone Health
+23 NCT04362085/ Canadá Anticoagulantes Anticoagulação terapêutica Tratamento padrão Ainda não recrutando 24/04/2020 St. Michael's Hospital,
+Toronto; University
+of Vermont Medical
+Center
+24 NCT04362189/ EUA Terapia celular;
+Antimalárico;
+Antibióticos sistêmicos
+simples
+Células-tronco
+mesenquimais derivadas de
+tecido adiposo alogênicas
++ Hidroxicloroquina +
+Azitromicina
+Hidroxicloroquina +
+Azitromicina + Placebo
+Ainda não recrutando 24/04/2020 Hope Biosciences;
+Advanced Diagnostics
+Healthcare; Hope
+Biosciences Stem Cell
+Research Foundation
+25 NCT04359511/ França Glicocorticóide
+sistêmico
+Prednisona Tratamento padrão Ainda não recrutando 24/04/2020 University Hospital,
+Tours
+26 NCT04360551/ EUA Anti-hipertensivo Telmisartana Placebo Ainda não recrutando 24/04/2020 University of Hawaii
+25
+Apêndice 1: Protocolos de ensaios clínicos registrados em 24/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+27 NCT04358549/ EUA Antiviral Favipiravir Tratamento padrão Recrutando 24/04/2020 Fujifilm
+Pharmaceuticals U.S.A.,
+Inc.
+28 NCT04358809/ India Produto biológico Suspensão de
+Mycobacterium morta por
+calor (autoclave)
+Placebo Ainda não recrutando 24/04/2020 Cadila
+Pharnmaceuticals;
+Council of Scientific and
+Industrial Research,
+India
+29 NCT04360980/ Irã Antigotoso Colchicina Tratamento padrão Recrutando 24/04/2020 Shahid Beheshti
+University of Medical
+Sciences
+30 NCT04358406 Produto biológico Gelsolina plasmática
+humana recombinante (Rhu-
+pGSN)
+Placebo Ainda não recrutando 24/04/2020 BioAegis Therapeutics
+Inc.
+31 NCT04360876/ EUA Corticosteróide Dexametasona Placebo Ainda não recrutando 24/04/2020 University of Colorado,
+Denver
+32 NCT04360122/ Egito Anti-helmíntico;
+Imunoestimulante;
+Levamisole; Isoprinosine Levamisole +
+Isoprinosine
+Ainda não recrutando 24/04/2020 Ain Shams University
+33 NCT04360824/ EUA Antitrombótico Enoxaparina 40mg Enoxaparina até 80 mg Ainda não recrutando 24/04/2020 University of Iowa
+34 NCT04359654/ Reino
+Unido
+Medicamento para
+fibrose cística
+Dornase Alfa em solução
+para inalação [Pulmozyme]
+Tratamento padrão Ainda não recrutando 24/04/2020 University College,
+London
+35 NCT04362111/ EUA Produto biológico Anakinra Placebo Ainda não recrutando 24/04/2020 University of Alabama
+at Birmingham
+36 NCT04361032/ Tunisia Produto biológico;
+Medicamento para
+anemia
+Tocilizumab Deferoxamine Ainda não recrutando 24/04/2020 Abderrahmane Mami
+Hospital; Eshmoun
+Clinical Research
+Centre; Datametrix
+26
+Apêndice 1: Protocolos de ensaios clínicos registrados em 24/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+37 NCT04359862/
+Espanha
+Anestésicos gerais
+voláteis e gasosos;
+Anestésicos gerais
+injetáveis
+Sevoflurane Propofol Recrutando 24/04/2020 Fundaci√≥n para la
+Investigaci√≥n del
+Hospital Cl√≠nico de
+Valencia
+38 NCT04361474/ França Glicocorticóide tópico Budesonida nasal Placebo Ainda não recrutando 24/04/2020 Fondation
+Ophtalmologique
+Adolphe de Rothschild;
+Hopital Lariboisi√®re
+39 NCT04358614/ Itália Antineoplásico Baricitinib Tratamento padrão Completo 24/04/2020 Fabrizio Cantini;
+Hospital of Prato
+40 NCT04360096/ EUA Tratamento para
+hipertensão pulmonar
+Aviptadil (VIP) Placebo Ainda não recrutando 24/04/2020 NeuroRx, Inc.
+41 NCT04361552/ EUA Produto biológico Tocilizumab Tratamento padrão Recrutando 24/04/2020 Emory University;
+National Cancer
+Institute (NCI)
+42 NCT04359303/
+Espanha
+Dispositivo médico Terapia com ozônio
+endovenosa
+Tratamento padrão Ainda não recrutando 24/04/2020 Javier Hidalgo Tallón;
+Sociedad Española de
+Ozonoterapia
+43 NCT04361526/
+Espanha
+Dispositivo médico Adsorção de citocinas Tratamento padrão Recrutando 24/04/2020 Manuel Castell√†;
+Hospital Clinic of
+Barcelona
+44 NCT04362059/ Reino
+Unido
+Dispositivo médico Sistema de administração
+de medicamentos AeroFact-
+COVID
+Tratamento padrão Ainda não recrutando 24/04/2020 University Hospital
+Southampton NHS
+Foundation Trust; Bill
+and Melinda Gates
+Foundation; University
+College, London
+27
+Apêndice 1: Protocolos de ensaios clínicos registrados em 24/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+45 NCT04359901/ EUA Produto biológico Sarilumabe Tratamento padrão Recrutando 24/04/2020 Westyn Branch-Elliman;
+VA Boston Healthcare
+System
+46 NCT04359329/ EUA Terapia hormonal Estradiol Sem comparador Recrutando 24/04/2020 Sharon Nachman;
+Stony Brook University
+47 NCT04359290/
+Alemanha
+Antineoplásico Ruxolitinib Sem comparador Ainda não recrutando 24/04/2020 Philipps University
+Marburg Medical
+Center
+28
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+1 22/03/2020 Avaliação da segurança e eficácia clínica da hidroxicloroquina associada à azitromicina em
+pacientes com pneumonia causada por infecção pelo vírus SARS-CoV-2. Aliança COVID-19
+Brasil II: pacientes graves
+Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+2 23/03/2020 Estudo de fase IIB para avaliar eficácia e segurança do difosfato de cloroquina no tratamento
+de pacientes hospitalizados com síndrome respiratória grave no âmbito do novo Coronavírus
+(SARS-Cov-2): um ensaio clínico, duplo-cego, randomizado
+Diretoria de Ensino e Pesquisa – DENPE
+3 25/03/2020 Estudo aberto, controlado, de uso de hidroxicloroquina e azitromicina para prevenção de
+complicações em pacientes com infecção pelo novo coronavírus (COVID-19): um estudo
+randomizado e controlado
+Associação Beneficente Síria
+4 26/03/2020 Um estudo internacional randomizado de tratamentos adicionais para a COVID-19 em
+pacientes hospitalizados recebendo o padrão local de tratamento. Estudo Solidarity
+Instituto Nacional De Infectologia Evandro Chagas –
+INI /FIOCRUZ
+5 01/04/2020 Avaliação de protocolo de tratamento COVID-19 com associação de cloroquina/
+hidroxicloroquina e azitromicina para pacientes com pneumonia
+Hospital São José de Doenças Infecciosas – HSJ /
+Secretaria de Saúde Fortaleza
+6 01/04/2020 Desenvolvimento de vacina para SARS-CoV-2 utilizando VLPs Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+7 03/04/2020 Aliança COVID-19 Brasil III: Casos Graves – Corticoide Associação Beneficente Síria
+8 03/04/2020 Estudo clínico fase I com células mesenquimais para o tratamento de COVID-19 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+9 03/04/2020 Protocolo de utilização de hidroxicloroquina associado a azitromicina para pacientes com
+infecção confirmada por SARS-CoV-2 e doença pulmonar (COVID-19)
+Hospital Brigadeiro UGA V-SP
+10 04/04/2020 Ensaio clínico randomizado para o tratamento de casos moderados a graves da doença causada
+pelo novo Coronavírus-2019 (COVID-19) com cloroquina e colchicina
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+29
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+11 04/04/2020 Ensaio clínico pragmático controlado randomizado multicêntrico da eficácia de dez dias de
+cloroquina no tratamento da pneumonia causada por SARS-CoV-2
+CEPETI – Centro de Estudos e de Pesquisa em
+Terapia Intensiva
+12 04/04/2020 Plasma convalescente como alternativa terapêutica para o tratamento de SARS-CoV-2 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+13 04/04/2020 Ensaio clínico utilizando N-acetilcisteína para o tratamento de síndrome respiratória aguda
+grave em pacientes com COVID-19
+Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+14 04/04/2020 Suspensão dos bloqueadores do receptor de angiotensina e inbidores da enzima conversora da
+angiotensina e desfechos adversos em pacientes hospitalizados com infecção por coronavírus
+(SARS-CoV-2) – Brace Corona Trial
+Instituto D'or de Pesquisa e Ensino
+15 04/04/2020 Estudo clínico randomizado, pragmático, aberto, avaliando Hidroxicloroquina para prevenção
+de hospitalização e complicações respiratórias em pacientes ambulatoriais com diagnóstico
+confirmado ou presuntivo de infecção pelo (COVID-19) – Coalizão COVID-19 Brasil V – pacientes
+não hospitalizados
+Hospital Alemão Oswaldo Cruz
+16 05/04/2020 Ensaio clínico randomizado, duplo-cego e controlado por placebo para avaliar eficácia e
+segurança da hidroxicloroquina e azitromicina versus placebo na negativação da carga viral
+de participantes com síndrome gripal causada pelo SARS-CoV-2 e que não apresentam
+indicação de hospitalização
+Hospital Santa Paula (Sp)
+17 08/04/2020 Efetividadede um protocolo de testagem baseado em RT-PCR e sorologia para SARS-CoV-2
+sobre a preservação da força de trabalho em saúde, durante a pandemia COVID-19 no Brasil:
+ensaio clínico randomizado, de grupos paralelos
+Empresa Brasileira de Servicos Hospitalares –
+EBSERH
+18 08/04/2020 Estudo prospectivo, não randomizado, intervencional, consecutivo, da combinação de
+hidroxicloroquina e azitromicina em pacientes sintomáticos graves com a doença COVID-19
+Hospital Guilherme Alvaro – Santos – SP
+30
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+19 08/04/2020 Estudo clínico de conceito, aberto, monocêntrico, não randomizado, para avaliação da eficácia
+e segurança da administração oral de hidroxicloroquina em associação à azitromicina, no
+tratamento da doença respiratória aguda (COVID-19) causada pelo vírus SARS-CoV-2
+Prevent Senior Private Operadora de Saude LTDA
+20 08/04/2020 Estudo de fase IIb para avaliar eficácia e segurança do difosfato de cloroquina no tratamento de
+pacientes com comorbidades, sem síndrome respiratória grave, no âmbito do novo coronavírus
+(SARS-CoV-2): um ensaio clínico, duplo-cego, randomizado, controlado com placebo
+Diretoria de Ensino e Pesquisa – DENPE
+21 11/04/2020 Uso de plasma de doador convalescente para tratar pacientes com infecção grave pelo
+SARS-CoV-2 (COVID-19)
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+22 14/04/2020 Efeitos da terapia com nitazoxanida em pacientes com pneumonia grave induzida por SARS-CoV-2 Universidade Federal do Rio De Janeiro – UFRJ
+23 14/04/2020 Ensaio clínico de prova de conceito, multicêntrico, paralelo, randomizado e duplo-cego para
+avaliação da segurança e eficácia da nitazoxanida 600 mg em relação ao placebo no tratamento de
+participantes da pesquisa com COVID-19 hospitalizados em estado não crítico
+Hospital Vera Cruz S. A.
+24 14/04/2020 Novo esquema terapêutico para falência respiratória aguda associada a pneumonia em indivíduos
+infectados pelo SARS-CoV-2
+Universidade Federal do Rio de Janeiro – UFRJ
+25 17/04/2020 Uso de plasma convalescente submetido à inativação de patógenos para o tratamento de pacientes
+com COVID-19 grave
+Instituto Estadual de Hematologia Arthur Siqueira
+Cavalcanti- HEMORIO
+26 17/04/2020 Plasma convalescente como alternativa de tratamento de casos graves de SARS-CoV-2 UNIDADE DE HEMOTERAPIA E HEMATOLOGIA
+SAMARITANO LTDA
+27 17/04/2020 Hidroxicloroquina e Lopinavir/ Ritonavir para melhorar a saúde das pessoas com COVID-19 Pontifícia Universidade Católica de Minas Gerais-
+PUCMG
+31
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+28 18/04/2020 Estudo de fase IIb para avaliar eficácia e segurança de succinato sódico de metilprednisolona
+injetável no tratamento de pacientes com sinais de síndrome respiratória aguda grave, no
+âmbito do novo coronavírus (SARS-CoV2): um ensaio clínico, duplo-cego, randomizado,
+controlado com placebo
+Diretoria de Ensino e Pesquisa- DENPE
+29 18/04/2020 Estudo clínico de eficácia e segurança da inibição farmacológica de bradicinina para o
+tratamento de COVID-19
+Faculdade de Ciências Medicas- UNICAMP
+30 21/04/20 Avaliação do uso terapêutico da hidroxicloroquina em pacientes acometidos pela forma leve da
+COVID-19: ensaio clínico randomizado
+Fundação de Saúde Comunitária de Sinop
+Atualizações constantes sobre os ensaios clínicos aprovados pela CONEp podem ser encontradas no endereço acessado pelo código ao lado.
+

@@ -1,0 +1,19 @@
+{
+    "filename": "LS_CS_001_permisos_sanitarios.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/LS_CS_001_permisos_sanitarios.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363898,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 01 May 2020 20:11:38 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 01 May 2020 20:11:38 GMT",
+        "etag": "W\/\"2994a5-5a4a0120b3400\"",
+        "accept-ranges": "bytes",
+        "content-length": "2725029",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 2725029,
+    "modified": 1588363898
+}

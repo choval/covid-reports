@@ -1,0 +1,28 @@
+{
+    "filename": "2020-05-01-tha-sitrep68-th.pdf",
+    "uri": "https:\/\/www.who.int\/docs\/default-source\/searo\/thailand\/2020-05-01-tha-sitrep68-th.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588365101,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "content-length": "826523",
+        "date": "Fri, 01 May 2020 20:31:40 GMT",
+        "cache-control": "public, max-age=7776000, s-maxage=7776000",
+        "expires": "Thu, 30 Jul 2020 20:31:40 GMT",
+        "last-modified": "Fri, 01 May 2020 08:57:51 GMT",
+        "accept-ranges": "bytes",
+        "server": "Microsoft-IIS\/10.0",
+        "content-disposition": "inline; filename=2020-05-01-tha-sitrep68-th.pdf",
+        "x-aspnet-version": "4.0.30319",
+        "x-powered-by": "ASP.NET",
+        "access-control-allow-origin": "*",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e3115d01cacf7ccdca42be5f0c044ccd.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "EZE51-C1",
+        "x-amz-cf-id": "SPlho-QrgA-DEZPcSEVz4THhCl7TuqF7TiIsTJL-PC4p3AomsOEFiw=="
+    },
+    "lang": "en,th",
+    "size": 826523,
+    "modified": 1588323471
+}

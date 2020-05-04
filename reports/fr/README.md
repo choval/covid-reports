@@ -5,6 +5,38 @@
 * [https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19)
 
 
+## 2020-05-01
+
+* [point\_de\_situation\_du\_1er\_mai\_2020.pdf](a495b0f022452cf182f86aac00b693b39499170f/file.pdf) @20:51 GMT
+
+## 2020-04-30
+
+* [point\_de\_situation\_coronavirus\_du\_30\_avril\_2020.pdf](adf4f90431755b7906de73ea27ebba6b6442ebb7/file.pdf) @19:24 GMT
+
+## 2020-04-29
+
+* [point\_de\_situation\_coronavirus\_du\_29\_avril-2.pdf](9e9c50fe6e754eb05edfa6be1f4e2f1149ed863d/file.pdf) @17:27 GMT
+
+## 2020-04-28
+
+* [point\_de\_situation\_coronavirus\_du\_28\_avril-2.pdf](891e228a88de9fe264dc7b5f65b1e4c1009c121d/file.pdf) @17:36 GMT
+
+## 2020-04-27
+
+* [point\_de\_situation\_coronavirus\_du\_27\_avril-2.pdf](871630635761c23e1637f8f665c626c74a331483/file.pdf) @17:37 GMT
+
+## 2020-04-26
+
+* [point\_de\_situation\_coronavirus\_du\_26\_avril-2.pdf](d9282a80ee4a67f0be5c27c5d6279ef4d2696e29/file.pdf) @17:42 GMT
+
+## 2020-04-25
+
+* [point\_de\_situation\_coronavirus\_du\_25\_avril-2.pdf](6aba2de8943ddb2536293eda0f0a8321dbe08d13/file.pdf) @16:56 GMT
+
+## 2020-04-24
+
+* [point\_de\_situation\_du\_24\_avril\_2020.pdf](b955c5aba6fc78ecc1f42180c761a938d49fd2ad/file.pdf) @18:08 GMT
+
 ## 2020-04-23
 
 * [cp\_dgs\_point\_de\_situation\_covid-19\_230420.pdf](a80aa910aaebf2f7dfebd95e925501a858152380/file.pdf) @17:02 GMT

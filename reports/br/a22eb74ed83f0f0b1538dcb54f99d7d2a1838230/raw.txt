@@ -1,0 +1,1054 @@
+1
+Abril/2020
+Departamento de Gestão e Incorporação de Tecnologias
+e Inovação em Saúde – DGITIS/SCTIE/MS
+Acurácia dos diagnósticos
+registrados para COVID-19
+2
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E INSUMOS ESTRATÉGICOS EM SAÚDE
+DEPARTAMENTO DE GESTÃO E INCORPORAÇÃO DE TECNOLOGIAS E INOVAÇÃO EM SAÚDE
+COORDENAÇÃO-GERAL DE GESTÃO DE TECNOLOGIAS EM SAÚDE
+COORDENAÇÃO DE MONITORAMENTO E AVALIAÇÃO DE TECNOLOGIAS EM SAÚDE E
+COORDENAÇÃO DE INCORPORAÇÃO DE TECNOLOGIAS
+Acurácia dos diagnósticos
+registrados para COVID-19
+Brasília – DF
+Abril de 2020
+3
+NOTA TÉCNICA
+ASSUNTO: acurácia dos diagnósticos registrados na para COVID-19.
+1. ANÁLISE
+CONDIÇÃO CLÍNICA
+O coronavírus da Síndrome Respiratória Aguda Grave 2 (abreviado para SARS-CoV-2, do
+inglês Severe Acute Respiratory Syndrome Coronavirus 2), anteriormente conhecido como novo
+coronavírus (2019-nCoV), é um agente zoonótico recém-emergente que surgiu em dezembro de
+2019, em Wuhan, China, causando manifestações respiratórias, digestivas e sistêmicas, que se
+articulam no quadro clínico da doença denominada COVID-19 (do inglês Coronavirus Disease
+2019) (1).
+Ainda não há informações robustas sobre a história natural da doença, nem medidas de
+efetividade para manejo clínico dos casos de infecção pelo COVID-19, restando ainda muitos
+detalhes a serem esclarecidos. No entanto, sabe-se que o vírus tem alta transmissibilidade e
+provoca uma síndrome respiratória aguda que varia de casos leves – cerca de 80% – a casos muito
+graves com insuficiência respiratória – entre 5% e 10% dos casos – , requerendo tratamento
+especializado em unidades de terapia intensiva (UTI) (2). Sua letalidade varia, principalmente,
+conforme a faixa etária.
+Uma revisão sistemática recentemente publicada incluiu 19 estudos que descreveram as
+características clínicas e laboratoriais da doença (3). Os autores identificaram que febre (88,7%),
+tosse (57,6%) e dispneia (45,6%) foram as manifestações clínicas mais prevalentes. Em relação
+aos achados laboratoriais, a diminuição da albumina (75,8%), a elevação da proteína C reativa
+(58,3%) e da lactato desidrogenase (LDH) (57,0%), linfopenia (43,1%) e a alta taxa de
+sedimentação de eritrócitos (VHS) (41,8%) foram os resultados laboratoriais mais prevalentes (2).
+Nas radiografias de tórax, o comprometimento da pneumonia era predominantemente bilateral
+em 73% dos pacientes. Entre os pacientes, dos 20,3% que necessitaram de UTI, 32,8% tiveram
+Síndrome do Desconforto Respiratório Agudo (SDRA); 13,0% apresentaram lesão cardíaca aguda;
+7,9 %, lesão renal aguda (IC95% 1,8-14,0%); 6,2%, choque e 13,9% tiveram resultados fatais (2).
+O tratamento da COVID-19 é de suporte. Até a presente data, nenhuma vacina, antiviral
+ou outro tratamento específico está disponível, no entanto, há vários estudos em andamento.
+A TECNOLOGIA
+Os testes de diagnóstico para COVID-19 se destacaram na pandemia de coronavírus em
+andamento como uma ferramenta essencial para rastrear a propagação da doença. Uma ampla
+gama de testes diagnósticos está disponível comercialmente para o SARS-CoV-2, alguns dos quais
+receberam autorizações para uso por várias agências reguladoras nacionais (4). Com as
+informações da sequência genética identificadas, testes de diagnóstico baseados na detecção da
+sequência viral por reação em cadeia da polimerase com transcriptase reversa (RT‐PCR) ou
+plataformas de sequenciamento logo se tornaram disponíveis. Isso permitiu a confirmação do
+4
+diagnóstico e melhores estimativas da atividade da infecção, que vêm aumentando em
+velocidades alarmantes (5).
+Para a detecção mais sensível de SARS-CoV, MERS-CoV e SARS-CoV-2, recomendavam-se
+a coleta e o teste de amostras respiratórias superiores e inferiores (6). O diagnóstico de casos
+suspeitos era confirmado por testes de RNA com RT-PCR em tempo real ou sequenciamento de
+próxima geração. Foi demonstrado que o RNA viral poderia ser detectado a partir do swab nasal
+e faríngeo, lavagem broncoalveolar e plasma sanguíneo usando RT‐PCR direcionado ao gene do
+vírus (5). O padrão-ouro para diagnóstico laboratorial da COVID-19 é a reação da transcriptase
+reversa, seguida de reação em cadeia da polimerase (RT-PCR) para amostras coletadas no trato
+respiratório superior ou inferior.
+Dados de epidemia de SARS mostram que as respostas sorológicas, incluindo
+imunoglobulina M viral (IgM) e imunoglobulina G viral (IgG), podem permitir o diagnóstico
+sorológico (7). Em pesquisas posteriores, foi demonstrado que pacientes com pneumonia 2019-
+nCov também possuíam respostas sorológicas agudas semelhantes (8).
+A produção de anticorpos do hospedeiro para um vírus específico durante uma infecção
+de fase aguda é consistente na maioria dos pacientes, exceto naqueles com imunodeficiência.
+Após a infecção humana por 2019-nCoV, seu antígeno estimula o sistema imunológico a produzir
+uma resposta imunológica e os anticorpos correspondentes aparecem no sangue. Entre eles, o
+2019-nCoV IgM aparece mais cedo, sendo majoritariamente positivo após 3 a 5 dias de início. Em
+seguida, as titulações de IgM do 2019-nCoV diminuem e a potência de IgG do 2019-nCoV aumenta
+rapidamente. A titulação deste anticorpo durante a fase de recuperação pode aumentar 4 vezes
+ou mais em comparação com a fase aguda. O requisito para a qualidade da amostra é menos
+rigoroso do que para os ensaios baseados em RNA (5).
+ANÁLISE DE DESEMPENHO
+O objetivo deste relatório é analisar a acurácia dos testes diagnósticos registrados na
+Agência Nacional de Vigilância Sanitária (ANVISA) até a presente data.
+Inicialmente foi realizada uma busca por diagnósticos para COVID-19 com registros
+vigentes na Anvisa. Para tanto, foram utilizados os termos “COVID 19”, SARS e coronavírus no
+campo de consulta de registro de produtos para saúde no site da Agência
+(https://consultas.anvisa.gov.br/#/saude/). Os passos para acesso ao banco de dados de produtos
+diagnósticos na ANVISA são: 1) consulta produtos; 2) consulta a banco de dados; 3) produtos para
+a saúde e 4) pesquisa de produtos para a saúde registrados. A busca foi realizada em 08 de março
+de 2020.
+Após o levantamento dos testes diagnósticos registrados, foram realizadas buscas nos
+sites dos fabricantes, nos manuais técnicos dos produtos diagnósticos e na literatura científica,
+por meio do acesso às bases de dados Pubmed (Via Medline) e Embase, para compilar dados de
+desempenho destes testes.
+Foram extraídos os seguintes dados das características do teste diagnóstico: acurácia,
+sensibilidade e especificidade, Valores Preditivos Positivos e Negativos [VP+ e VP-], Razão de
+Verossimilhança Positiva e Negativa [RV+ e RV-], método do diagnóstico, tipo de amostra
+biológica, tempo para a leitura do resultado, entre outros.
+Foram encontrados 28 produtos diagnósticos registrados na ANVISA, sendo todos eles
+vigentes e disponíveis comercialmente (TABELA 1).
+5
+TABELA 1. Produtos diagnósticos para COVID-19 registrados no Brasil.
+Nome do teste Empresa Registro Processo
+Vencimento do
+registro
+One Step COVID-2019 Test CELER BIOTECNOLOGIA S/A 80537410048 25351.174464/2020-54 19/03/2030
+CORONAVÍRUS RAPID TEST DIAGNÓSTICA INDÚSTRIA E COMÉRCIO LTDA - ME 80638720148 25351.167156/2020-72 19/03/2030
+CORONAVÍRUS IgG/IgM (COVID-19) EBRAM PRODUTOS LABORATORIAIS LTDA 10159820239 25351.153719/2020-45 19/03/2030
+MedTeste Coronavírus (COVID-19) IgG/IgM
+(TESTE RAPIDO)
+MEDLEVENSOHN COMÉRCIO E REPRESENTAÇÕES DE
+PRODUTOS HOSPITALARES LTDA
+80560310056 25351.189196/2020-75
+19/03/2030
+Família Teste Rápido em Cassete 2019-nCoV
+IgG/IgM (sangue total/soro/plasma)
+QR CONSULTING, IMPORTAÇÃO E DISTRIBUIÇÃO DE
+PRODUTOS MÉDICOS LTDA
+81325990117 25351.189190/2020-06 19/03/2021
+COVID-19 IgG/IgM ECO Teste ECO DIAGNOSTICA LTDA 80954880132 5351.148977/2020-18 19/03/2030
+ECO F COVID-19 Ag ECO DIAGNOSTICA LTDA 80954880131 25351.162809/2020-27 19/03/2030
+COVID-19 Ag ECO Teste ECO DIAGNOSTICA LTDA 80954880133 25351.112132/2020-86 19/03/2030
+Anti COVID-19 IgG/IgM Rapid Test LABTEST DIAGNOSTICA S/A 10009010356 25351.191493/2020-81 23/03/2030
+Família Kit de Detecção por PCR em Tempo Real
+VIASURE SARS-CoV-2
+BIOMÉDICA EQUIPAMENTOS E SUPRIMENTOS
+HOSPITALARES LTDA
+10355870373 25351.193569/2020-11 23/03/2021
+Família cobas SARS-CoV-2 ROCHE DIAGNÓSTICA BRASIL LTDA 10287411491 25351.193402/2020-41 23/03/2021
+LUMIRATEK COVID-19 (IgG/IgM) LUMIRADX HEALTHCARE LTDA 81327670112 25351.197132/2020-48 26/03/2030
+MAGLUMI IgM de 2019-nCoV (CLIA)
+VR MEDICAL IMPORTADORA E DISTRIBUIDORA DE
+PRODUTOS MÉDICOS LTDA
+80102512431 25351.206083/2020-41 26/03/2030
+MAGLUMI IgG de 2019-nCoV (CLIA)
+VR MEDICAL IMPORTADORA E DISTRIBUIDORA DE
+PRODUTOS MÉDICOS LTDA
+80102512430 25351.206115/2020-17 26/03/2030
+Smart Test Covid-19 Vyttra
+VYTTRA DIAGNOSTICOS IMPORTACAO E
+EXPORTACAO S.A.
+81692610175 25351.200980/2020-41 26/03/2030
+FAMÍLIA KIT XGEN MASTER COVID-19 -
+Kit Master para Detecção do Coronavírus SARS-
+CoV-2
+MOBIUS LIFE SCIENCE INDÚSTRIA E COMERCIO DE
+PRODUTOS PARA LABORATÓRIOS LTDA
+80502070088 25351.191438/2020-91 26/03/2021
+DPP® COVID-19 IgM/IgG System ORANGELIFE COMÉRCIO E INDÚSTRIA LTDA 80535240052 25351.207706/2020-01 26/03/2021
+Família Abbott RealTime SARS-CoV-2 EUA ABBOTT LABORATÓRIOS DO BRASIL LTDA 80146502250 25351.219351/2020-95 03/04/2021
+COVID-19 IgG/IgM LF ADVAGEN BIOTECH LTDA 81472060020 25351.211997/2020-24 03/04/2021
+Anti-SARS-CoV-2 IgG ELISA EUROIMMUN BRASIL MEDICINA DIAGNOSTICA LTDA 10338930227 25351.192822/2020-19 03/04/2021
+Anti-SARS-CoV-2 ELISA IgA EUROIMMUN BRASIL MEDICINA DIAGNOSTICA LTDA 10338930226 25351.192798/2020-18 03/04/2021
+TR DPP® COVID-19 IGM/IGG - Bio-Manguinhos FUNDAÇÃO OSWALDO CRUZ 80142170039 25351.218814/2020-00 03/04/2021
+6
+Família COVID-19 IgG/IgM Teste Rápido
+(Sangue total/ Soro/Plasma)
+QR CONSULTING, IMPORTAÇÃO E DISTRIBUIÇÃO DE
+PRODUTOS MÉDICOS LTDA
+81325990118 25351.211988/2020-33 03/04/2021
+Teste Rápido OnSite™ COVID-19 IgG/IgM BIO ADVANCE DIAGNOSTICOS LTDA 80524900071 25351.200979/2020-17 03/04/2030
+Kit MOLECULAR SARS-CoV2 (E/P1) - Bio-
+Manguinhos
+FUNDAÇÃO OSWALDO CRUZ 80142170040 25351.225181/2020-88 06/04/2021
+SARS-CoV-2 S gene for BD Max BECTON DICKINSON INDÚSTRIAS CIRÚRGICAS LTDA. 10033430795 25351.218809/2020-99 06/04/2030
+COVID-19 IgG/IgM CEPALAB LABORATÓRIOS LTDA 80258020106 25351.219360/2020-86 06/04/2030
+COVID-19 Real-Time PCR Kit BRAZIL 3 BUSINESS PARTICIPAÇÕES LTDA ME 81491640001 25351.224536/2020-11 09/04/2021
+Xpert Xpress SARS-CoV-2
+CEPHEID BRASIL IMPORTAÇÃO, EXPORTAÇÃO E
+COMÉRCIO DE PRODUTOS DE DIAGNÓSTICOS LTDA
+81062710038 25351.230965/2020-28 09/04/2021
+COVID-19 igG/IgM test DFL INDÚSTRIA E COMÉRCIO S/A 80141430203 25351.222534/2020-98 09/04/2021
+TaqPath™ COVID-19 CE-IVD RT PCR Kit
+LIFE TECHNOLOGIES BRASIL COMERCIO E INDUSTRIA
+DE PRODUTOS PARA BIOTECNOLOGIA LTDA
+10358940107 25351.240555/2020-95 09/04/2021
+COVID-19 IgG/IgM BIO QUIBASA QUÍMICA BÁSICA LTDA 10269360322 25351.211991/2020-57 09/04/2030
+SARS-COV-2 RT-PCR KIT VIRION DIAGNOSTICA LTDA 80263710085 25351.219359/2020-51 09/04/2030
+7
+Foi encontrado apenas um estudo avaliando dois dos 28 testes diagnósticos com registro
+na Anvisa. Os dados de acurácia e de procedimentos de realização dos testes foram extraídos dos
+manuais de instruções disponíveis no site da Anvisa ou no site do fabricante, quando essas
+informações estavam disponíveis. Esses dados estão apresentados na TABELA 2.
+Dos 28 testes registrados no Brasil, 16 são testes de imunoensaio cromatográfico para a
+detecção e diferenciação de anticorpos IgG e IgM contra o coronavírus (SARS-CoV-2). As amostras
+a serem avaliadas são em sua maioria de sangue total, soro ou plasma, e o tempo para a leitura
+dos resultados varia de 10 a 20 minutos. O tempo máximo para limite de leitura variou de 15 até
+30 minutos.
+Em geral, os testes possuíam um sistema que consiste em uma membrana na qual são
+imobilizados anticorpos anti-IgG e anti-IgM humanos na região teste IgG e na IgM,
+respectivamente. Na execução do ensaio, a amostra é colocada para reagir com o conjugado, que
+contém partículas de ouro coloidal ligadas aos antígenos recombinantes do 2019-nCoV. O
+conjugado se acopla aos anticorpos presentes na amostra e, após adição do tampão, o complexo
+anticorpo-conjugado migra cromatograficamente através da membrana e encontra a região teste,
+na qual os anticorpos anti-IgG e anti-IgM humanos estão imobilizados, formando uma linha
+colorida. A presença desta linha indica um resultado positivo e a sua ausência indica um resultado
+negativo. A especificidade citada para os anticorpos do tipo IgM variou entre 94% a 98%, de
+acordo com o fabricante. Para os anticorpos do tipo IgG, observou-se uma oscilação entre 97% e
+98%. A sensibilidade para os anticorpos IgM variou entre 85% e 90% e para os anticorpos do tipo
+IgG entre 95% e 100%. Três testes – One Step COVID-2019 Test (fabricado por CELER
+BIOTECNOLOGIA S/A), CORONAVÍRUS RAPID TEST (Biocon Diagnósticos) e DPP® COVID-19
+IgM/IgG System (Orangelife) – não forneceram dados de sensibilidade e especificidade para IgM
+e IgG, mas apenas os dados gerais, de forma que nenhuma informação do teste COVID-19 IgG/IgM
+BIO foi localizada.
+O teste Anti-SARS-CoV-2 IgA ELISA é um ensaio “ELISA” (do inglês Enzyme Linked
+Immunonosorbent Assay) semiquantitativo in vitro para anticorpos humanos da imunoglobulina
+de classe IgA contra SARS-CoV-2. Okba e colaboradores avaliaram os testes Anti-SARS-CoV-2 IgA
+ELISA e o Anti-SARS-CoV-2 IgG ELISA (EUROIMMUN Medizinische Labordiagnostika AG) em suas
+versões β, de acordo com o protocolo do fabricante. No geral, o kit ELISA baseado em IgA foi mais
+sensível, mas menos específico que o kit ELISA baseado em IgG (4). Embora os ensaios de IgA e
+IgG possam ser utilizados para o diagnóstico sorológico, a IgG tem vida mais longa e é muito
+utilizada em estudos de sorovigilância (5). A opção por um teste para detecção de anticorpos IgA
+pode ajudar na identificação de pacientes na fase inicial da doença, uma vez que anticorpos IgA
+são detectados em títulos elevados em doenças infecciosas na fase aguda.
+Quanto às limitações dos testes diagnósticos, os fabricantes de quatro testes
+CORONAVÍRUS IgG/IgM (COVID-19) (Ebram), COVID-19 IgG/IgM LF (AdvaGen Biotech), Família
+COVID-19 IgG/IgM Teste Rápido e Família Teste Rápido em Cassete 2019-nCoV IgG/IgM (QR
+Consulting) afirmaram que uma das limitações desses testes é que o nível de hematócrito do
+sangue total precisa estar entre 25% e 65% para obter resultados precisos. O fabricante do
+MedTeste Coronavírus (COVID-19) IgG/IgM (Medlevensohn) informou que os resultados de
+pacientes imunocomprometidos devem ser interpretados com cautela.
+A Bio Advance Diagnósticos informa no manual de instruções do Teste Rápido OnSite™
+COVID-19 IgG/IgM que não se deve utilizar heparina como anticoagulante, pois esta afeta
+8
+potencialmente os resultados dos ensaios. Já para o Kit TR DPP® COVID-19 IgM/IgG Bio-
+Manguinhos, uma das limitações apresentadas é que para a realização do teste não é
+recomendado o uso com amostras obtidas de crianças com idade inferior a 2 anos.
+O fabricante do Anti COVID-19 IgG/IgM Rapid Test declarou que não foram observados
+resultados falsamente positivos em amostras positivas para as seguintes condições médicas: vírus
+Influenza A, vírus Influenza B, vírus respiratório Sincicial (RSV), Adenovírus, HBsAg, Sífilis,
+Helicobacter pylori, vírus da imunodeficiência humana (HIV) e vírus da Hepatite C (HCV). Quando
+os dados estavam disponíveis, os testes não apresentaram nenhuma reação cruzada com diversas
+substâncias e patógenos avaliados.
+O teste de referência atual para o diagnóstico de infecção ativa por SARS-CoV-2 é o ensaio
+em tempo real da reação em cadeia da polimerase por transcriptase reversa (rRT-PCR) (6). Nove
+testes registrados na Anvisa são testes em tempo real de reação da transcriptase reversa (RT-PCR)
+que utilizam sondas de corante repórter fluorescente específicas para a detecção qualitativa de
+ácidos nucleicos de SARS-CoV-2 em amostras de esfregaço nasofaríngeo e orofaringe de pacientes
+com sinais e sintomas sugestivos de COVID-19. Resultados positivos são indicativos da presença
+de RNA SARS-CoV-2, porém, é necessária uma correlação clínica com a história do paciente e
+outras informações de diagnóstico para determinar o status da infecção. Os testes foram
+altamente sensíveis. No kit diagnóstico FAMÍLIA KIT XGEN MASTER COVID-19 - Kit Master para
+Detecção do Coronavírus SARS-CoV-2 a detecção é feita no formato RT-qPCR. De acordo com ele,
+a transcrição reversa e a subsequente amplificação da sequência alvo específica ocorrem no
+mesmo poço de reação. A PCR quantitativa (qPCR) é usada para detectar, caracterizar e
+quantificar ácidos nucleicos. Todos os testes cujas informações estavam disponíveis foram
+altamente sensíveis.
+9
+TABELA 2. Desempenho dos testes diagnósticos registrados na ANVISA, Brasil, para a COVID-19.
+Nome do teste Dados de Acurácia Método Amostra
+biológica
+Tempo para
+resultado
+Apresentação
+One Step COVID-2019
+Test
+Sensibilidade: 86,43% (IC 95% 82,41-89,58%)
+Especificidade: 99,57%
+(IC 95%: 97,63-99,92%)
+Total consistente: 91,61%
+(IC 95% 89,10 -93,58%)
+Ensaio imunocromatográfico
+rápido qualitativo de detecção
+simultânea de IgG/IgM anti-
+coronavirus
+Sangue, soro
+ou plasma
+(10µL de amostra)
+15 minutos 25 cassetes,
+25 conta gotas descartáveis,
+solução tampão 1 x 6 mL
+CORONAVÍRUS RAPID
+TEST
+Sensibilidade: 86,4% (IC95% 82,41 - 89,58%)
+Especificidade 99,57% (IC95% 97,63-99,92%)
+Ensaio imunocromatográfico
+rápido qualitativo de detecção
+simultânea de IgG/IgM anti-
+coronavirus
+Sangue, soro ou
+plasma
+(10µL de amostra)
+15 minutos Dispositivo teste: 1 x 1;
+pipeta descartável: 1 x 1
+solução tampão: 1x6ml;
+instrução para uso: 1
+n◦ de testes: 10, 20, 25, 30, 40, 50, 60, 70,
+80, 90 e 100
+CORONAVÍRUS IgG/IgM
+(COVID-19)
+IgG
+Sensibilidade:>99,9%
+Especificidade: 98,0%
+Precisão:98,6%
+IgM
+Sensibilidade: 85,0%
+Especificidade:96,0%
+Precisão: 92,9%
+Ensaio imunocromatográfico
+rápido qualitativo de
+detecção simultânea de
+IgG/IgM anti-coronavirus
+Sangue, soro ou
+plasma
+(10µL de amostra)
+10 e 20
+minutos
+Kit com 10, 20, 25, 30, 50 e 80 dispositivos
++ 1 frasco de 2 mL de diluente de amostra
+MedTeste Coronavírus
+(COVID-19) IgG/IgM
+(TESTE RAPIDO)
+IgG
+Sensibilidade: 97,4% (95%CI: 86,2-99,9%)
+Especificidade: 99,3% (95%CI: 96,2-99,9%)
+Precisão: 98,9 % (95%CI: 96,1-99,9%)
+IgM
+Sensibilidade: 86,8% (95%CI: 71,9%-95,6%)
+Especificidade: 98,6%(95%CI:95,0%-99,8%)
+Precisão: 96,1% (95%CI: 92,2%-98,4%)
+Ensaio imunocromatográfico
+rápido para a detecção
+qualitativa dos anticorpos IgG
+e IgM
+Sangue, soro ou
+plasma
+(10µL de amostra)
+Não
+encontrado
+MedTeste Coronavírus (COVID-19)
+IgG/IgM (TESTE RAPIDO) - 1 a 100
+unidades com lanceta de segurança
+Família Teste Rápido em
+Cassete 2019-nCoV
+IgG/IgM (sangue
+total/soro/plasma)
+IgG
+Sensibilidade: 100% (95%CI: 86,0%-100%)
+Especificidade: 98,0% (95%CI: 89,4%-99,9%)
+Precisão: 98,6% (95%CI: 92,3%-99,96%)
+Ensaio imunocromatográfico
+de fluxo lateral para a
+detecção qualitativa de
+Sangue, soro ou
+plasma
+(10µL de amostra)
+10 minutos Juschek - Conjunto para 25 testes
+ACroBiotech - Conjunto para 25 testes
+10
+IgM
+Sensibilidade: 85,0% (95%CI: 62,1%-96,8%)
+Especificidade: 96,0% (95%CI: 86,3%-99,5%)
+Precisão: 92,9% (95%CI: 84,1%-97,6%)
+anticorpos IgG e IgM para
+2019-nCoV
+COVID-19 IgG/IgM ECO
+Teste
+IgG
+Sensibilidade: 95%
+Especificidade: 99%
+IgM
+Sensibilidade: 90%
+Especificidade: 94%
+Ensaio imunocromatográfico
+para a detecção qualitativa,
+específica e diferencial de
+anticorpos IgG e IgM anti-
+COVID-19
+Sangue, soro ou
+plasma
+(10µL de amostra)
+10 minutos Kit com 1 a 100 cassetes 1;
+1 a 100 cassetes 2;
+tampão de diluente: 100 x 4 mL.
+ECO F COVID-19 Ag Sensibilidade: 86%
+Especificidade: 95%
+Imunoensaio fluorescente
+utilizando o analisador ECO
+Reader F para detectar
+nucleoproteínas do
+coronavírus
+Amostras
+respiratórias
+(swab
+nasofaríngeo e
+swab
+orofaríngeo)
+30 minutos 1 a 100 cassetes;
+tampão de extração com 2 mL;
+1 a 100 swabs estéril
+COVID-19 Ag ECO Teste Sensibilidade 70%
+Especificidade 97%
+Ensaio imunocromatográfico
+de duplo anticorpo
+(sanduíche), aprimorado com
+ouro coloidal, para
+determinação qualitativa do
+antígeno de COVID-19
+Amostras
+respiratórias
+(swab
+nasofaríngeo e
+swab
+orofaríngeo)
+10 e 15
+minutos
+1 a 100 tiras de teste;
+1 a 100 tampões de extração com 15 mL;
+1 a 100 microtubos;
+100 swabs estéries
+Anti COVID-19 IgG/IgM
+Rapid Test
+IgG
+Sensibilidade: 100% (95%IC: 86,0%-100%)
+Especificidade: 98,0% (95%IC: 89,4%-99,9%)
+Eficiência: 98,6% (95%IC: 92,3%-99,96%).
+IgM
+Sensibilidade: 85,0% (95%IC: 62,1%-96,8%)
+Especificidade: 96,0% (95%IC: 86,3%-99,5%)
+Eficiência: 92,9% (95%IC: 84,1%-97,6%)
+Ensaio imunocromatográfico
+que permite a detecção de
+anticorpos anti-IgG e anti-IgM
+específicos anti-COVID-19
+Sangue, soro ou
+plasma (10µL de
+amostra)
+10 minutos Placa de reação de 5 a 100 unidades;
+tampão
+11
+Família Kit de Detecção
+por PCR em Tempo Real
+VIASURE SARS-CoV-2
+Sensibilidade: 100%
+Especificidade: 100%
+RT-PCR (reação da
+transcriptase reversa) usando
+sondas de corante repórter
+fluorescente específicas para
+SARS-CoV-2
+Amostras
+respiratórias
+(swab
+nasofaríngeo e
+swab
+orofaríngeo)
+Resultados
+disponíveis
+em menos
+de 3,5 horas
+após
+carregar a
+amostra no
+sistema
+Kit de Detecção por PCR em Tempo Real
+VIASURE SARS-CoV-2 - VS-NCO213L -
+1 x placa de 96 tubos, perfil baixo.
+Kit de Detecção por PCR em Tempo Real
+VIASURE SARS-CoV-2 - VS-NCO213H -
+1 x placa de 96 tubos, perfil alto.
+Família cobas SARS-CoV-
+2
+Estudos de Limite de Detecção (LoD)
+determinam a menor concentração detectável
+do SARS-CoV-2, na qual 95% ou mais de todos
+os replicados (verdadeiro positivo) têm
+resultado positivo.
+RT-PCR para uso nos Sistemas
+Cobas® 6800/8800 é um teste
+de em tempo real destinado à
+detecção qualitativa de ácidos
+nucleicos do SARS-CoV-2
+Amostras
+respiratórias
+(swab
+nasofaríngeo e
+swab
+orofaríngeo)
+Resultados
+em menos
+de 3,5 horas
+após
+carregar a
+amostra no
+sistema
+cobas SARS-CoV-2 Control Kit - 16 ml
+(16 × 1 ml);
+cobas SARS-CoV-2
+192 testes
+LUMIRATEK COVID-19
+(IgG/IgM)
+IgG
+Sensibilidade: 97,4% (95%CI: 86,2-99,9%)
+Especificidade: 99,3% (95%CI: 96,2-99,9%)
+Precisão: 98,9% (95%CI: 96,1-99,9%)
+IgM
+Sensibilidade: 86,8%(95%CI:71,9-95,6%)
+Especificidade: 98,6%(95%CI:95,0-99,8%)
+Precisão: 96,1% (95%CI: 92,2-98,4%)
+Ensaio imunocromatográfico
+que permite a detecção de
+anticorpos anti-IgG e anti-IgM
+específicos anti-COVID-19
+Sangue, soro ou
+plasma (10µL de
+amostra)
+10 minutos 1 caixa com 10 a 50 unidades de
+LUMIRATEK COVID-19 (IgG/IgM; 10 a 50
+contas gotas; 01 solução tampão – 2mL).
+MAGLUMI IgM de 2019-
+nCoV (CLIA)
+IgM
+Sensibilidade clínica: 78,65%
+Especificidade clínica: 97,50%
+Imunoensaio por
+quimioluminescência in vitro
+para a determinação
+qualitativa de anticorpos de
+IgM para o novo coronavírus
+usando o analisador de
+imunoensaio por
+quimioluminescência
+automático da série
+MAGLUMI.
+Plasma ou soro
+humano (10µL de
+amostra)
+Automático 1 x 2,5 mL de Microesferas magnéticas;
+1 x 1,0 mL de Calibrador baixo;
+1 x 1,0 mL de Calibrador alto;
+1 x 23,5 mL de tampão;
+1 x 23,5 mL de Identificação por ABEI;
+1 x 23,5 mL de diluente;
+1 x 1,0 mL de Controle negativo;
+1 x 1,0 mL de Controle positivo.
+(100 testes).
+12
+MAGLUMI IgG de 2019-
+nCoV (CLIA)
+IgG
+Sensibilidade clínica: 91,21%
+Especificidade clínica: 97,33%
+Imunoensaio por
+quimioluminescência in vitro
+para a determinação
+qualitativa de anticorpos de
+IgM para o novo coronavírus
+usando o analisador de
+imunoensaio por
+quimioluminescência
+automático da série
+MAGLUMI.
+Plasma ou soro
+humano (10µL de
+amostra)
+Automático 130219015M:
+1 x 2,5 mL de Microesferas magnéticas;
+1 x 1,0 mL de Calibrador baixo;
+1 x 1,0 mL de Calibrador alto;
+1 x 23,5 mL de tampão;
+1 x 23,5 mL de Identificação por ABEI;
+1 x 23,5 mL de diluente;
+1 x 1,0 mL de Controle negativo;
+1 x 1,0 mL de Controle positivo.
+(100 testes).
+Smart Test Covid-19
+Vyttra
+Sensibilidade clínica: 100%
+Especificidade clínica: 99,5%
+Kit imunocromatográfico
+rápido para detecção
+qualitativa e diferencial de
+anticorpos IgM e IgG do
+coronavírus
+Sangue total (20
+μl de amostra),
+soro ou plasma
+(10 μl de
+amostra)
+10 minutos 1 ou 20 ou 50 testes: 1, 20 ou 50 cassetes
+/diluente de amostra: 1x 5ml;
+FAMÍLIA KIT XGEN
+MASTER COVID-19 - Kit
+Master para Detecção
+do Coronavírus SARS-
+CoV-2
+Especificidade: 100% para o vírus SARS-CoV-19
+Sensibilidade (LOD) SARS-CoV-19 (gene ORF1ab)
+10 cópias/reação com probabilidade ≥95%
+Sensibilidade (LOD) SARS-CoV-19 (gene N) 50
+cópias/reação com probabilidade ≥ 95%
+RT-qPCR em que a transcrição
+reversa e a subsequente
+amplificação da sequência
+alvo específica ocorrem no
+mesmo poço de reação.
+Amostras
+respiratórias a
+partir de swab
+orofaríngeo e
+nasofaríngeo para
+detecção de
+SARS-CoV-2.
+Conforme
+programaçã
+o das etapas
+da PCR
+Kit XGEN MASTER COVID-19 - XG-CV19-
+MB-48 e 96: 48 e 98 testes;
+Kit XGEN Master COVID-19 Low Profile -
+XG-CV19-MB-24, 48, 96 LP: 24, 48, 96
+testes;
+Kit Master COVID-19 High Profile - XG-
+CV19-MB-24, 48 e 96 HP: 24, 48 e 96
+testes;
+Kit XGEN MASTER COVID-19 - XG-CV19-
+MB-24: 24 testes
+DPP® COVID-19 IgM/IgG
+System
+Sensibilidade: 88,9%
+Especificidade: 100%
+Teste imunocromatográfico,
+de uso único, para a detecção
+rápida de anticorpos IgM e IgG
+para o novo Coronavírus
+Sangue total por
+punção digital,
+sangue total
+venoso, soro ou
+plasma
+DPP®
+COVID-19
+IgM/IgG
+System
+COVID - 10 a 100 reações
+CCOVID – 10 a reações/C
+Família Abbott RealTime
+SARS-CoV-2 EUA
+O menor nível de concentração com taxas
+positivas observadas ≥95% foi de 100 cópias/mL
+de vírus.
+Detecção = 100%
+Teste de reação em cadeia da
+polimerase (PCR, Polimerase
+Chain Reaction) de
+transcriptase reversa (RT,
+Reverse Transcriptase) em
+Swabs
+nasofaríngeos
+(NP) e
+orofaríngeos (OP)
+Não
+informado.
+Pela técnica
+3,5 horas
+conforme
+Abbott RealTime SARS-CoV-2 Amplification
+Reagent Kit - Abbott RealTime SARS-CoV-2
+Internal control:4 frascos x 1,2 mL por
+frasco;
+13
+tempo real (rt,real time)
+destinado à detecção
+qualitativa de ácido nucleico
+do SARS-CoV-2
+descrito em
+outros
+testes RT-
+PCR
+Abbott RealTime SARS-CoV-2 Amplification
+Reagent Pack: 4 embalagens x 24
+testes/embalagem
+Abbott RealTime SARS-CoV-2 Control Kit -
+Abbott RealTime SARS-CoV-2 Negative
+Control: 8 frascos x 1,3 mL por frasco.
+Abbott RealTime SARS-CoV-2 Positive
+Control: 8 frascos x 1,3 mL por frasco
+COVID-19 IgG/IgM LF Especificidade relativa: 96%
+(IC95%: 86,3%-99,5%)
+Sensibilidade: 85,0% (IC 95%: 62,1% -96,8%)
+Precisão: 92,9% (IC 95%: 84,1% -97,6%)
+IgG: sensibilidade: 95,2% especificidade: 100%
+IgM: sensibilidade: 95% especificidade: 96%
+Teste imunocromatográfico Amostras de soro
+ou plasma,
+sangue total por
+função venosa,
+sangue total do
+dedo
+10 minutos CVD1-100-2- 10 a 100 testes
+(R1 – 10 a 100 unidades +
+R2 – 1,5 a 12ml + R3 – 10 a 100 unidades)
+Anti-SARS-CoV-2 IgG
+ELISA
+Sensibilidade de 100% e uma especificidade de
+92,5% após dez dias do aparecimento dos
+sintomas
+ELISA - reação com anticorpo
+IgG
+Soro humano ou
+plasma
+Não
+informado
+EI 2606-9601 A (96 testes)
+Anti-SARS-CoV-2 ELISA
+IgA
+Sensibilidade de 80% e uma especificidade de
+98,5% após dez dias do aparecimento de
+sintomas
+ELISA - reação com anticorpo
+IgA
+Soro humano ou
+plasma
+Não
+informado
+EI 2606-9601 G (96 testes)
+TR DPP® COVID-19
+IGM/IGG - Bio-
+Manguinhos
+Sensibilidade: 88,9%
+Especificidade: 100%
+Imunocromatografia e utiliza
+plataforma de duplo percurso
+Sangue total, soro
+ou plasma
+10 a 15
+minutos
+TR DPP® COVID-19 IgM/IgG - Bio-
+Manguinhos – (20 reações)
+Família COVID-19
+IgG/IgM Teste Rápido
+(Sangue total/
+Soro/Plasma)
+IgG
+Sensibilidade reativa: ＞99,9%
+(95%CI: 82,5-100%)
+Especificidade: 98,0% (95%CI: 92,6-99,9%)
+Precisão: 98,4% (95%IC: 93,9-99,9%)
+IgM
+Sensibilidade reativa: 90,9%
+(95%CI: 71,0-98,7%)
+Especificidade: 97,0% (95%CI: 91,8-99,4%)
+Precisão: dado ausente: (95%CI: 90,5-98,5%)
+Imunoensaio cromatográfico
+de fluxo lateral para a
+detecção qualitativa de
+anticorpos IgG e IgM
+Sangue total, soro
+ou plasma
+10 minutos COVID-19 IgG/IgM Teste Rápido em Tira
+(Sangue total/Soro/Plasma) - INCP-411 A -
+100 a 200 tiras de teste (2 ou 4 frascos x 50
+unid);
+3 ou 5 frascos de tampão x 3mL;
+100 ou 200 conta gotas;
+100 almofadas de álcool;
+100 ou 200 lancetas;
+100 ou 200 cartões de teste
+Teste Rápido OnSite™
+COVID-19 IgG/IgM
+IgG Imunoensaio cromatográfico
+de fluxo lateral para a
+Sangue total, soro
+ou plasma
+10 a 15
+minutos
+25 cassetes, 25 pipetas plásticas,
+1 solução de detecção (3ml/frasco)
+14
+Sensibilidade relativa: 96,8%
+(95%CI: 93,6-98,4%)
+Especificidade: 100% (95% CI: 98,8-100%)
+IgM
+Sensibilidade relativa: 78,0%
+(95%CI: 72,1-82,9%)
+Especificidade: 99,4% (95%CI: 97,8-99,8%)
+Geral
+Sesnsibilidade relativa: 96,8%
+(95%CI: 93,6-98,4%)
+Especificidade: 99,39% (95%CI: 97,80-99,83%)
+Concordância geral: 98,4% (95% CI: 96,9-99,1%)
+detecção de anticorpos
+anti-SARS-CoV-2 IgG e IgM
+Kit MOLECULAR SARS-
+CoV2 (E/P1) - Bio-
+Manguinhos
+A análise de PROBIT (IC de 95%) indicou uma
+sensibilidade para o alvo E: LOD de
+0,97 cópias/reação (50% positividade) e de
+1,99 cópias/reação (95% positividade); para o
+alvo P1: LOD de 1,61 cópias/reação
+(50% positividade) e de 1,98 cópias/reação (95%
+positividade). Limite de detecção para
+Coronavírus: 50 cópias/reação
+RT-PCR: transcrição reversa,
+amplificação, detecção e
+diferenciação do material
+genético (RNA viral) do
+coronavírus
+Aspirado de
+nasofaringe e/ou
+de swab triplo
+combinado
+Não
+informado,
+pela técnica
+3,5 horas
+conforme
+descrito em
+outros
+testes RT-
+PCR
+24 reações
+SARS-CoV-2 S gene for
+BD Max
+Limite de deteção ≥ 24 cópias de ADNc por
+reação (cp/rxn), com uma taxa positiva ≥ 95%
+RT-PCR em tempo real em
+uma única etapa, na qual a
+transcrição reversa e
+subsequente amplificação da
+sequência-alvo específica
+ocorrem no mesmo poço de
+reação
+Esfregaços
+nasofaríngeas e
+orofaríngeas
+Não
+informado,
+pela técnica
+3,5 horas
+conforme
+descrito em
+outros
+testes RT-
+PCR
+Kit para 24 testes, Tubos de reação do gene
+SARS-CoV-2 S: 2 x 12 tubos/Tubos de
+tampão de reidratação: 24 tubos
+COVID-19 IgG/IgM Sensibilidade: 94,14%
+Especificidade: 93,91%
+Teste rápido
+imunocromatográfico para a
+detecção qualitativa,
+específica e diferencial de
+Sangue total, soro
+ou plasma
+15 a 20
+minutos
+Caixa com 1 a 500 unidades de cassete e 1
+a 20 unidades de solução diluente
+15
+anticorpos IgG e IgM anti-
+COVID-19
+COVID-19 Real-Time PCR
+Kit
+Utilizando a concentração de amostras de RNA
+(1x103
+cópias / ml e 5x102
+cópias / ml),
+respectivamente, o coeficiente de variação
+(CV%) do valor Ct (cycle threshold) do teste de
+reprodutibilidade e repetibilidade é de ≤ 5,0%.1
+RT-PCR em tempo real
+destinado à detecção
+qualitativa de ácido nucleico
+do SARS-CoV-2
+Swab
+nasofaríngeo,
+escarro, líquido
+de lavagem
+alveolar
+1,5 horas 24 testes
+Xpert Xpress SARS-CoV-
+2
+Sensibilidade analítica (limite de detecção) -
+Material de referência AccuPlex SARS-CoV-2:
+O LoD é a menor concentração da sequência
+viral recombinante AccuPlex SARS-Cov-2 que
+pode ser distinguida reprodutivelmente de
+amostras negativas ≥ 95 % das vezes com 95%
+de confiança. O LoD para o ensaio é de 250
+cópias/mL.
+Sensibilidade analítica- vírus vivo SARS-CoV-2. O
+LoD é a concentração mais baixa de amostras de
+vírus vivos SARS-CoV-2 que podem ser
+reprodutivelmente distinguíveis de amostras
+negativas ≥ 95% das vezes com 95% de
+confiança. O LoD reivindicado para o ensaio é de
+0,0100 PFU/mL
+RT-PCR em tempo real
+destinado à detecção
+qualitativa de ácido nucleico
+do SARS-CoV-2
+Swab
+nasofaríngeo,
+nasal ou com
+concha nasal
+média e/ou
+amostras de
+lavagem/aspirado
+nasal
+Não
+informado,
+pela técnica
+3,5 horas
+conforme
+descrito em
+outros
+testes RT-
+PCR
+Kit com 10 testes (cartuchos com tubos de
+reação integrados)2
+COVID-19 igG/IgM test Sensibilidade clínica >90% em média, por tempo
+positivo por mais de 4 dias
+Especificidade clínica: 100% para pacientes
+negativos3
+Teste rápido de
+imunocromatografia que
+detecta anticorpos IgG e IgM
+para COVID-19
+Sangue total,
+plasma, soro e
+dedo para
+perfurar sangue
+total
+15 minutos Kit com 25 dispositivos de testes;
+Diluente: 1 x 5 mL
+TaqPath™ COVID-19 CE-
+IVD RT PCR Kit
+LoD: Lavagem broncoalveolar 10 GCE / reação RT-PCR em tempo real
+multiplex destinado à
+Swab
+nasofaríngeo,
+aspirado
+Menos de 2
+horas
+1.000 reações
+1
+http://hybribio.com/product1/show.php?id=80&lang=en
+2 https://www.cepheid.com/Package%20Insert%20Files/Xpress-SARS-CoV-2-PI/302-3562%20rev%20B%20PACKAGE%20INSERT%20EUA%20GX%20SARS-COV2.pdf
+3 https://dfl.com.br/covid19/#biblioteca
+16
+Swab nasofaríngeo 10 GCE / reação4
+detecção qualitativa de ácido
+nucleico da SARS ‑ CoV ‑ 2
+nasofaríngeo e
+lavagem
+broncoalveolar
+COVID-19 IgG/IgM BIO Não encontrado Não encontrado Não encontrado Não
+encontrado
+R1: 5 a 100 Cassetes / R2: 1,0 a 6,0 mL /
+5 a 100 Pipetas Plásticas Descartáveis
+SARS-COV-2 RT-PCR KIT Não encontrado RT-PCR m uma única etapa
+para a detecção de 2019-novel
+Coronavírus (nCoV) 5
+Aspirados
+traqueais ou
+lavagem
+broncoalveolar
+são amostras
+preferenciais.
+Como alternativa,
+amostras
+nasofaríngeas ou
+escarro.
+90 minutos Kit para 24 testes
+4 https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-
+Assets%2FLSG%2Fmanuals%2FMAN0019215_TaqPathCOVID-19_CE-IVD_RT-
+PCR%2520Kit_IFU.pdf&title=SW5zdHJ1Y3Rpb25zIGZvciBVc2U6IFRhcVBhdGggQ09WSUQtMTkgQ0UtSVZEIFJULVBDUiBLaXQ=
+5 https://en.vircell.com/news-single/222-sars-cov-2-realtime-pcr-kit/
+17
+2. CONCLUSÕES
+Até a presente data, foram registrados 28 testes para diagnóstico da COVID-19, sendo que
+dez deles são testes moleculares. O teste de polymerase chain reaction em tempo real (RT-PCR)
+para identificação de SARS-CoV-2 é um teste de elevada sensibilidade e especificidade, sendo que
+os doentes com maior carga viral podem ter maior probabilidade de um teste positivo. Os testes
+moleculares baseados em RNA exigem instalações laboratoriais específicas com níveis restritos
+de biossegurança e técnica.
+A sensibilidade e especificidade dos testes sorológicos variaram entre os fabricantes. É
+importante destacar que uma baixa sensibilidade do teste diagnóstico pode resultar em uma
+maior probabilidade de detectar falsos-negativos, o que poderia interferir principalmente em
+casos em que os indivíduos são assintomáticos. Em geral, a sensibilidade dos testes foi superior a
+85% e a especificidade superior a 94%.
+Foi localizado apenas um estudo avaliando os testes ELISAs S1 IgG e IgA, cujos resultados
+mostraram uma maior sensibilidade para o teste com detecção de IgA quando comparado ao
+teste de detecção de IgG, no entanto, este último apresentou maior especificidade. Não foram
+encontrados estudos publicados que avaliassem os demais testes na prática, podendo, portanto,
+apresentar um desempenho distinto daquele descrito pelos fabricantes. A utilização adequada
+dos testes também pode influenciar no seu desempenho.
+Os testes sorológicos medem a quantidade de dois anticorpos (IgG e IgM) que o
+organismo produz quando entra em contato com um invasor. Isto posto, cabe ressaltar que o
+desenvolvimento de uma resposta de anticorpo à infecção pode ser dependente do hospedeiro e
+levar tempo. No caso de SARS-CoV-2, estudos iniciais sugerem que a maioria dos pacientes se
+converte entre 7 e 11 dias após a exposição ao vírus, embora alguns pacientes possam
+desenvolver anticorpos mais cedo. Como resultado desse atraso natural, o teste de anticorpos
+pode não ser útil no cenário de uma doença aguda (7).
+Os testes de anticorpos para SARS-CoV-2 podem facilitar (i) o rastreamento de contatos
+(os testes baseados em RNA também podem ajudar); (ii) vigilância sorológica nos níveis local,
+regional, estadual e nacional; e (iii) identificação de quem já teve contato com o vírus e, portanto,
+pode (se houver imunidade protetora) ser imune (7,8).
+Alguns conjuntos de reagentes para testes sorológicos foram autorizados pela ANVISA em
+caráter emergencial devido à gravidade da situação e à necessidade de ampliar a testagem da
+população, mas a validação desses reagentes pelos laboratórios é fundamental, uma vez que
+poucos trabalhos conseguiram ser publicados até o momento. As aprovações estão de acordo
+com a Resolução da Diretoria Colegiada (RDC) 348/2020, que define os critérios e os
+procedimentos extraordinários e temporários para tratamento de petições de registro de
+medicamentos, produtos biológicos e produtos para diagnóstico in vitro, bem como a mudança
+pós-registro de medicamentos e produtos biológicos em virtude da emergência de saúde pública
+internacional decorrente do novo coronavírus.
+Na RDC, para registro de testes diagnósticos, a ausência de qualquer estudo de
+desempenho ou restrição de dados deve ser justificada por motivações técnicas que permitam a
+avaliação da confiabilidade dos resultados e da efetividade diagnóstica do produto. Os registros
+18
+concedidos nas condições desta Resolução terão a validade de um ano, exceto para situações em
+que a avaliação da estabilidade seja apresentada por comparação com produtos similares e os
+demais critérios descritos no Regulamento sejam atendidos. Nesse caso, terão a concessão
+regular de validade de registro de produtos para saúde por um período de 10 anos.
+Em resumo, as duas categorias de testes para SARS-CoV-2 podem ser úteis nesse surto,
+pois, eventualmente, a coleta de múltiplas amostras, em regiões e em tempos diferentes durante
+a evolução da doença, pode ser necessária para o diagnóstico da COVID-19.
+19
+3. REFERÊNCIAS
+1. Bonilla-Aldana DK, Dhama K, Rodriguez-Morales AJ. Revisiting the One Health Approach
+in the Context of COVID-19: A look into the Ecology of this Emerging Disease. Adv Anim Vet Sci.
+2020;8:234–7.
+2. Ministério da Saúde, Secretaria de Atenção Primária à Saúde (SAPS). PROTOCOLO DE
+MANEJO CLÍNICO DO CORONAVÍRUS (COVID-19) NA ATENÇÃO PRIMÁRIA À SAÚDE [Internet].
+Versão 3. Ministério da Saúde, Secretaria deAtenção Primária à Saúde, organizadores. Brasília;
+2019. 33 p. Available at:
+http://189.28.128.100/dab/docs/portaldab/documentos/20200320_ProtocoloManejo_ver03
+.pdf
+3. Rodriguez-Morales AJ, Cardona-Ospina JA, Gutiérrez-Ocampo E, Villamizar-Peña R,
+Holguin-Rivera Y, Escalera-Antezana JP, et al. Clinical, laboratory and imaging features of
+COVID-19: A systematic review and meta-analysis. Travel Med Infect Dis. 2020;101623.
+4. Okba NMA, Müller MA, Li W, Wang C, GeurtsvanKessel CH, Corman VM, et al. Severe
+Acute Respiratory Syndrome Coronavirus 2-Specific Antibody Responses in Coronavirus
+Disease 2019 Patients. Emerg Infect Dis. 2020;26(7).
+5. Hsueh P-R, Huang L-M, Chen P-J, Kao C-L, Yang P-C. Chronological evolution of IgM, IgA,
+IgG and neutralisation antibodies after infection with SARS-associated coronavirus. Clin
+Microbiol Infect. 2004;10(12):1062–6.
+6. Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer A, Chu DK, et al. Detection of 2019
+novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill [Internet]. 2020;25(3 PG-).
+Available at:
+http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L6307622
+01 http://dx.doi.org/10.2807/1560-7917.ES.2020.25.3.2000045 NS -
+7. Patel R, Babady E, Theel ES, Storch GA, Pinsky BA, St. George K, et al. Report from the
+American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of
+Diagnostic Testing for SARS–CoV-2/COVID-19. MBio [Internet]. 28 de abril de
+2020;11(2):e00722-20. Available at: http://mbio.asm.org/content/11/2/e00722-20.abstract
+8. Xiao S, Wu Y, Liu H. Evolving status of the 2019 novel coronavirus Infection: proposal of
+conventional serologic assays for disease diagnosis and infection monitoring
+[Commentary/Review]. J Med Virol. 2020;
+20
+

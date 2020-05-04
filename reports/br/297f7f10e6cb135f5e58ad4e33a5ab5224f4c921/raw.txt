@@ -1,0 +1,1724 @@
+/
+Sumário
+REFLEXÕES 2
+Mortalidade 7
+Subnotiﬁcação de casos e óbitos 8
+Vigilância do óbito 9
+FONTES DE DADOS OFICIAIS 11
+Painel Coronavírus Brasil 11
+Painel de vírus respiratórios 12
+Painel InfoGripe 13
+Painel Dados Abertos 13
+SITUAÇÃO EPIDEMIOLÓGICA 14
+Mundo 14
+Brasil 15
+LABORATÓRIO 28
+VACINAÇÃO CONTRA INFLUENZA EM 2020 31
+Resultado parcial 32
+Recomendações do Ministério da Saúde 36
+ANEXOS 38
+Anexo 1. Coeﬁcientes de incidência e mortalidade por
+COVID-19 por regiões de saúde da região Norte. Brasil,
+2020. 38
+Anexo 2. Coeﬁcientes de incidência e mortalidade por
+COVID-19 por regiões de saúde da região Nordeste. Brasil,
+2020. 39
+Anexo 3. Coeﬁcientes de incidência e mortalidade por
+COVID-19 por regiões de saúde da região Sudeste. Brasil,
+2020. 43
+Anexo 4. Coeﬁcientes de incidência e mortalidade por
+COVID-19 por regiões de saúde da região Sul. Brasil, 2020.
+46
+Anexo 5. Coeﬁcientes de incidência e mortalidade por
+COVID-19 por regiões de saúde da região Centro-Oeste.
+Brasil, 2020. 48
+Apresentação
+A partir desta edição, semanalmente, o
+Ministério da Saúde, por meio da Secretaria
+de Vigilância em Saúde (SVS/MS) divulgará
+um Boletim Epidemiológico Especial (BEE),
+visando não apenas apresentar os números
+disponíveis, mas também realizando a
+interpretação da situação epidemiológica e
+reﬂetindo sobre as evidências e limitações
+de cada processo, além de apresentar uma
+análise mais detalhada sobre o perﬁl da
+transmissão no Brasil por Unidade da
+Federação e Região de Saúde.
+Além do BEE, a partir de hoje, serão
+retomadas as coletivas técnicas. A divulgação
+dos dados epidemiológicos e de estrutura
+ocorrerá por meio do site.
+www.saude.gov.br/coronavirus
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 1
+/
+REFLEXÕES
+Em 26 de fevereiro, o primeiro caso de Doença pelo Coronavírus 2019 (COVID-19) foi conﬁrmado no Brasil,
+sendo também o primeiro caso da América Latina (Figura 1). Naquela ocasião, havia possibilidade de
+identiﬁcação de casos individualmente e monitoramento dos contatos. Passados 95 dias desde a
+ativação da resposta do Governo Federal e 60 dias desde o primeiro caso conﬁrmado, o Brasil contabiliza
+61.888 casos e 4.205 óbitos registrados. Segundo a OPAS (Organização Pan-Americana de Saúde), até 25
+1
+de abril de 2020, foram registrados 1.094.828 casos nas Américas, sendo que 11% (120.713) estão na
+América do Sul e 5,7% (61.888) no Brasil.
+Figura 1: Resumo da linha do tempo de COVID-19 no Brasil, até 26 de abril de 2020.
+O Ministério da Saúde se solidariza com toda a sociedade e famílias afetadas pela COVID-19. Informa que
+em conjunto com as Secretarias de Saúde dos Municípios, Estados e Distrito Federal trabalha no
+aprimoramento das medidas de mitigação do impacto dessa pandemia. O Brasil é um país continental
+que possui diferenças regionais na densidade demográﬁca, urbanização, estrutura de saúde e aspectos
+sociais e econômicos que exigem medidas proporcionais e restritas aos riscos de cada município. Essas
+medidas não devem ser inﬂexíveis, mas como uma “mola”, elas podem exigir compressão (medidas
+restritivas) ou extensão (medidas de abertura). Para adoção dessas medidas, o Ministério da Saúde conta
+com uma rede de apoiadores que incluem especialistas nacionais e internacionais nas diversas áreas do
+conhecimento, além de representação dos diversos órgãos do governo e instituições públicas e privadas,
+organizadas em um esforço coletivo para que o país possa adotar ações de saúde que apoiem a
+retomada das atividades com responsabilidade, segurança e ﬂexibilidade para ajustar de acordo com
+cada momento da epidemia em curso.
+1
+https://ais.paho.org/phip/viz/COVID19Table.asp
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 2
+/
+A resposta a uma epidemia não ocorre de modo linear. Começa mais sensível e se torna mais especíﬁca
+ao longo do tempo. No entanto, estamos construindo uma nova história na saúde pública. Essa é uma
+síndrome respiratória que apresenta uma série de questões que ainda não foram respondidas pela
+ciência. Muitas respostas surgirão ao longo desses 95 dias de resposta do SUS. Porém, ainda não foram
+suﬁcientemente conclusivas para termos a certeza do curso da COVID-19 no território nacional.
+O Ministério da Saúde reitera que, devido às dimensões continentais do Brasil, estendendo-se por áreas
+temperadas, subtropicais e equatoriais, é possível identiﬁcar distintos padrões de sazonalidade de
+circulação dos vírus respiratórios nas diferentes regiões do país. O padrão observado na região Norte
+corrobora com o conhecimento acumulado, pois está mais associado ao período chuvoso (março-abril).
+No entanto, apesar dessa doença apresentar uma baixa relação com aspectos climáticos, não se deve
+desconsiderar que a região sul do país apresenta sazonalidade de clima temperado, onde os meses de
+maio, junho e julho apresentam, historicamente, maior circulação de vírus respiratórios. Entretanto, Marc
+Lipsitch da Universidade de Harvard sugere que a transmissão pode desacelerar durante o verão no
+hemisfério Norte. Portanto, também pode acelerar no inverno do hemisfério sul, por analogia.
+Estamos na semana epidemiológica 18, ou seja, próximos do período de maior circulação de vírus
+respiratórios no hemisfério sul, diferente do hemisfério norte onde os picos das doenças,
+principalmente inﬂuenza e COVID-19, ocorreram em momentos diferentes, conforme a Figura 2.
+Fonte: OMS. FluNet ( www.who.int/ﬂunet ), GISRS. Acessado em
+26/04/2020.
+Figura 2: Número de espécimes positivos para
+inﬂuenza por subtipo nos hemisférios norte e sul,
+2019-20.
+Devido às limitações do conhecimento da doença e falta de uma vacina e medicamentos que permitam
+proteger ou curar as pessoas expostas ou doentes, vivemos um contexto paradoxal. Pois as medidas não
+farmacológicas são as mais eﬁcientes até o momento, entre elas estão a higienização das mãos, a
+etiqueta respiratória, o distanciamento social seletivo ou ampliado e até mesmo o bloqueio total
+(lockdown). Essa situação foi deﬁnida pelo epidemiologista inglês Geoffrey Rose (1926-1993) como o
+“Paradoxo da Prevenção”.
+Isso signiﬁca que “a medida preventiva que traz maior benefício à população oferece pouco benefício a
+cada indivíduo participante”. Rose dizia que “um grande número de pessoas sujeitas a um pequeno risco
+gera mais casos de doenças do que um pequeno número de pessoas sujeitas a um grande risco”. Isso
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 3
+/
+pode parecer contraditório, pois a COVID-19 gera menos casos que o sarampo (Figura 3), por exemplo. No
+entanto, essa doença, por ser ainda desconhecida em vários aspectos, gera impacto na sociedade de
+modo desproporcional em cada região. Os modelos matemáticos, estatísticos e epidemiológicos ainda
+não conseguem contemplar toda a complexidade da situação (Figura 4).
+Figura 3: Taxa de transmissibilidade (R0) de doenças diferentes em até três gerações de transmissão.
+Figura 4: Contando a história natural e parcial da COVID-19 a partir de conhecimentos disponíveis até
+abril de 2020.
+Considerando que a Alemanha é um dos países de referência na resposta internacional, até mesmo o
+virologista símbolo da medida de distanciamento social no país, o virologista Christian Drosten um dos
+criadores de Protocolo Charité de rRT-PCR do COVID-19 utilizado em todo o mundo, considera que a
+manutenção do bloqueio por mais tempo não impedirá a ocorrência de bolsões de alta prevalência,
+como casas de idosos, onde se levará mais tempo para erradicar a doença e onde poderia ser observado
+um rápido ressurgimento, mesmo se o bloqueio fosse prolongado.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 4
+/
+Reﬂete-se que a contenção da epidemia não ocorrerá apenas com base no rastreamento de contato
+humano. Há evidências robustas de que quase metade das infecções ocorre antes do aparecimento dos
+primeiros sintomas. Isso signiﬁca que as equipes de vigilância que trabalham para identiﬁcar os
+indivíduos que foram expostos estão em uma corrida contra o tempo. É necessário que se identiﬁque e
+isole todas as pessoas potencialmente expostas o mais rápido possível. Para isso, o rastreamento
+eletrônico será fundamental. Nesse sentido, o Ministério da Saúde já vem implementando nos últimos
+dias essa estratégia por meio da Atenção Primária em Saúde. Os EUA estão adotando uma estratégia de
+“Detetive de Covid”. No SUS, temos um exército de mais de 300 mil Agentes de Saúde que apoiam as
+ações e, por isso, temos condições de oferecer uma resposta efetiva às condições de nossa sociedade.
+Especialistas referem que para se alcançar a imunidade coletiva, será necessário que 60 a 70% da
+população seja infectada. O debate e a compreensão da imunidade coletiva pressupõe uma
+homogeneização completa da população. Nesse contexto, não se sabe quanto tempo será necessário
+para se atingir esse nível de imunidade coletiva. Além disso, as relações sociais são complexas e não
+seguem padrões bem deﬁnidos, pois estão em constante mutação, gerando novas exposições ao longo
+do tempo e esses padrões podem gerar novas ondas de infecção.
+Há limitações para se descrever se um determinado local já atingiu esse nível de soroprevalência, pois
+os testes ainda não estão em quantidade suﬁciente no mundo e ainda precisam ser aprimorados. Além
+disso, será necessário deﬁnir corretamente a qualidade da amostra, a habilidade do proﬁssional, o tipo
+de amostra (secreção, sangue capilar, soro) e a disponibilidade dos testes, com base na possibilidade de
+interpretação aliada à condição clínica e epidemiológica (Tabela 1).
+Tabela 1: Interpretação dos testes molecular e sorológico para diagnóstico laboratorial de COVID-19.
+TIPOS DE TESTES
+INTERPRETAÇÃO
+Molecular Sorologia
+rRT-PCR IgM IgG
+Positivo Negativo Negativo Paciente pode estar na janela do período de infecção
+Positivo Positivo Negativo Paciente pode estar na fase inicial da infecção
+Positivo Positivo Positivo Paciente está na fase ativa da infecção
+Positivo Negativo Positivo O paciente pode estar no estágio tardio ou recorrente da infecção
+Negativo Positivo Negativo
+● O paciente pode estar no estágio inicial da infecção. O resultado
+da PCR pode ser falso-negativo.
+● O teste de anticorpos pode ser falso positivo
+Negativo Negativo Positivo
+● O paciente pode ter tido uma infecção passada e se recuperou.
+● O teste de anticorpos pode ser falso positivo
+Negativo Positivo Positivo
+● O paciente pode estar no estágio de recuperação de uma infecção
+ou o resultado da PCR pode ser falso-negativo
+● O teste de anticorpos também pode ser falso positivo
+Um fator que ainda não trouxe evidências conclusivas para o tema da imunidade coletiva é a hipótese
+de que outros coronavírus, que já circulam há décadas no território nacional e causam o resfriado
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 5
+/
+comum, poderiam oferecer proteção a esse novo vírus ou até mesmo gerar reações cruzadas com os
+testes sorológicos disponíveis. Não há certeza, mas plausibilidade.
+A realização de testes em massa deve ser interpretada de forma relativa, pois essa estratégia signiﬁca
+que, embora seja feito em grande volume, prevê um grupo deﬁnido de pessoas a serem testadas. Para
+sua efetividade, devem ser seguidos parâmetros epidemiológicos e disponibilidade de testes, bem como
+observar as características de cada tipo de teste (molecular e sorológico). Não se deve interpretar essa
+estratégia como a testagem de todas as pessoas da população, pois nenhum país do mundo adotou essa
+medida. Além disso, não há insumos suﬁcientes disponíveis no mercado nacional e internacional. Para
+apoiar as estratégias que serão deﬁnidas, nos próximos dias, o Ministério da Saúde dará início à fase
+nacional do Inquérito Sorológico com o apoio instituições parceiras como Universidade Federal de
+Pelotas, Universidade de São Paulo, IBOPE, entre outras.
+Na rotina dos serviços que receberam os testes sorológicos distribuídos pelo Ministério da Saúde, os
+testes devem ser aplicados de acordo com a bula do fabricante. Os mesmos vão apresentar melhores
+resultados quando aplicados em pessoas sintomáticas e nos grupos deﬁnidos no protocolo,
+trabalhadores de serviços de saúde e segurança, pois são os mais expostos e estão na linha de frente.
+Como referência, segundo Drosten, mesmo na Alemanha, com a enorme capacidade de teste e a maior
+parte direcionada a pessoas sintomáticas, não houve uma alta taxa de positividade, ﬁcando em torno de
+8%. Isso irá se modiﬁcar, de acordo com a fase da epidemia em cada município.
+No Boletim Epidemiológico nº 12, o Ministério da Saúde divulgou o processo de aquisição de testes
+rRT-PCR e sorológicos adicionais, visando atingir um total de 46 milhões de testes até setembro, de
+acordo com a disponibilidade de fornecedores e insumos. A partir dessa medida, de acordo com a
+entrega dos insumos às unidades de saúde, o Ministério da Saúde passará a orientar que os municípios
+ampliem a testagem gradualmente para outros grupos populacionais como idosos, doentes crônicos e
+população economicamente ativa. No entanto, a estratégia de testagem em massa está condicionada à
+disponibilidade dos insumos como swabs, tubos de conservação, cartuchos de testes sorológicos em
+quantidade suﬁciente para início da ampliação. A ação está sendo discutida e adotada em articulação
+com o CONASS e CONASEMS. Para isso, será enviado Ofício Circular com instrução para ampliação dos
+testes. Enquanto isso, os testes estão restritos aos grupos iniciais de proﬁssionais da saúde e segurança.
+A medidas visam identiﬁcar oportunamente os casos e orientar as ações de modo a evitar que os
+pacientes mais vulneráveis necessitem de internação ou mesmo respiração mecânica. Para isso, foi
+lançado um novo sistema de informação, denominado e-SUS Vigilância Epidemiológica
+(https://notiﬁca.saude.gov.br) para registro de casos de COVID-19, reforçando o SIVEP-Gripe, que já está
+em uso desde 2019, para casos de Síndrome Respiratória Aguda Grave (SRAG) hospitalizados.
+Nesta nova fase da resposta, o Ministério da Saúde busca aprimorar as medidas já adotadas,
+incorporando mais tecnologia e evidências cientíﬁcas, bem como focar na qualiﬁcação de toda a cadeia
+de resposta, avaliando as inter-relações entre as ações adotadas ou passíveis de serem adotadas, com o
+impacto na sociedade como um todo e não apenas no âmbito da saúde, avaliando os determinantes e
+condicionantes sociais e implementando tanto métodos simples quanto soﬁsticados o suﬁciente para
+que possam ser incorporados pelos gestores localmente e possam indicar a direção e velocidade da
+epidemia, ajustando as medidas ao seu tempo e local, considerando o momento da transmissão, bem
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 6
+/
+como estabelecer estratégias para garantir a participação da sociedade por meio informações e dados
+oportunos e abertos, sistemas de informações mais precisos e conﬁáveis, menos etapas manuais,
+testagem automatizada, parcerias público-privadas, atualização de boletins, coletivas, entrevistas,
+análises, manuais e normas, bem como painéis eletrônicos mais automatizados, dinâmicos.
+Mortalidade
+Em 23 de abril, o Ministério da Saúde informou em coletiva que o Brasil possui uma das menores taxas
+de mortalidade, até o momento. Estes valores são ratiﬁcados pelos números da Tabela 2. Até 26 de abril,
+ocorreram 4.205 óbitos com conﬁrmação de doença pelo Coronavírus 2019 (COVID-19) no Brasil,
+representando um coeﬁciente de mortalidade de 20 óbitos por cada milhão de habitantes
+(4.205/210.147.125). O país é o 11º em número de casos conﬁrmados e o 11º em número de óbitos. Porém,
+em se tratando do coeﬁciente de mortalidade por 1 milhão de habitantes, o Brasil ocupa a 37ª posição
+no ranking mundial.
+Tabela 2: Comparação da evolução da pandemia de COVID-19 no Brasil em relação à Itália, Alemanha e
+Espanha*.
+País
+Data em que
+atingiu o 100º
+caso conﬁrmado
+Dias após
+conﬁrmação do 100º
+caso conﬁrmado*
+Data do primeiro
+óbito conﬁrmado
+Dias após
+mortalidade atingir
+0,1 por milhão*
+Mortalidade por 1
+milhão de
+habitantes*
+Brasil 15/03 42 17/03 34 20
+Itália 24/02 62 23/03 60 436
+Alemanha 01/03 56 10/03 41 67
+Espanha 03/03 53 05/03 49 482
+*Em 26 de abril de 2020.
+Ao comparar a evolução da situação epidemiológica da COVID-19 em diferentes países, é importante
+levar em consideração o momento da pandemia em que cada país se encontra. Em 26 de abril, o Brasil
+completou 42 dias desde a conﬁrmação do 100º caso de COVID-19 e 34 dias desde que a mortalidade
+atingiu 0,1 morte por milhão de habitantes. Comparativamente, podemos ver que a Itália encontra-se em
+uma etapa mais avançada da epidemia, com 20 dias de diferença levando-se em consideração a data em
+que alcançou o 100º caso conﬁrmado. O mesmo vale para a Alemanha e para a Espanha (Figura 5).
+Subnotiﬁcação de casos e óbitos
+Sobre a subnotiﬁcação de óbitos, o Ministério da Saúde informa com o Sistema de Informação sobre
+Mortalidade (SIM) do Brasil é robusto e apresenta baixa subnotiﬁcação. Os Estados e Municípios estão
+sendo orientados pelo Ministério da Saúde a priorizar a inserção de óbitos com suspeita ou conﬁrmação
+de COVID-19 no sistema, de modo a agilizar o processo de investigação desses óbitos. Além do SIM, os
+indivíduos que evoluíram para óbito por COVID-19 e que foram hospitalizados em decorrência de
+Síndrome Respiratória Aguda Grave (SRAG) devem ser registrados no Sistema de Vigilância
+Epidemiológica da Gripe (SIVEP Gripe). A partir desse sistema é possível ter informações detalhadas
+sobre os óbitos, especialmente quanto ao perﬁl demográﬁco e clínico.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 7
+/
+Figura 5: Casos conﬁrmados de COVID-19 em relação ao número de dias a partir do 100º caso conﬁrmado
+em países selecionados até 26 de abril de 2020.
+A Tabela 3 apresenta um consolidado dos dados divulgados no Portal de Transparência do Registro Civil,
+divulgados pela Central de Informações do Registro Civil (CRC Nacional ), em comparação aos dados
+2
+divulgados pelo Ministério da Saúde. As estimativas do Portal se baseiam nas Declarações de Óbito (DO)
+registradas nos cartórios do país relacionadas à suspeita ou conﬁrmação de COVID-19. No POrtal também
+estão disponíveis dados referentes aos óbitos com causas respiratórias organizadas em dois grandes
+grupos: pneumonia e insuﬁciência respiratória, que serão apresentados adiante. Os dados divulgados
+pelo Ministério da Saúde incluem apenas óbitos conﬁrmados pela doença.
+No cômputo geral, há 257 óbitos a mais registrados pelos cartórios, em relação aos registros já
+informados ao Ministério da Saúde. No entanto, observa-se uma variação importante entre as Unidades
+da Federação (UF). Dezenove das 27 UFs apresentam mais registros de óbitos no Ministério da Saúde do
+que nos cartórios, sendo a maior diferença encontrada para o estado de Pernambuco (256). Por outro
+lado, os estados do Rio de Janeiro (495) e São Paulo (307) tiveram mais óbitos registrados pelos cartórios
+do que nos registros do Ministério da Saúde.
+É importante considerar que, em uma mesma DO, podem ser registradas como causas a insuﬁciência
+respiratória, a pneumonia ou a COVID-19, além de outras causas associadas. O Portal da Transparência
+do Registro Civil apresenta cada causa separadamente, ou seja, se há menção de alguma dessas causas
+na DO, independente de serem registradas em uma mesma declaração. Por isso, não se pode
+simplesmente somar os óbitos por essas doenças, sendo necessária uma análise mais detalhada,
+considerando cada óbito e as causas que foram mencionadas na DO.
+2
+Os dados apresentados no Portal são preliminares devido ao tempo de processamento das informações nos sistemas de acesso dos cartórios.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 8
+/
+Tabela 3: Comparação entre os dados da Central de Informações do Registro Civil e do Ministério da
+Saúde em relação aos óbitos por COVID-19. Brasil, 2020.
+Unidade da Federação
+Óbitos por COVID-19* em 2020
+CRC Nacional Ministério da Saúde Diferença**
+Acre 6 11 -5
+Alagoas 18 32 -14
+Amazonas 170 304 -134
+Amapá 0 21 -21
+Bahia 23 73 -50
+Ceará 315 327 -12
+Distrito Federal 46 27 19
+Espírito Santo 50 51 -1
+Goiás 56 25 31
+Maranhão 81 112 -31
+Minas Gerais 143 61 82
+Mato Grosso do Sul 5 7 -2
+Mato Grosso 6 9 -3
+Pará 16 100 -84
+Paraíba 23 49 -26
+Pernambuco 159 415 -256
+Piauí 4 18 -14
+Paraná 78 72 6
+Rio de Janeiro 1.140 645 495
+Rio Grande do Norte 15 44 -29
+Rondônia 10 10 0
+Roraima 2 4 -2
+Rio Grande do Sul 44 35 9
+Santa Catarina 41 42 -1
+Sergipe 3 9 -6
+São Paulo 2.007 1.700 307
+Tocantins 1 2 -1
+Brasil 4.462 4.205 257
+Fontes: https://transparencia.registrocivil.org.br/especial-covid e https://covid.saude.gov.br/. Dados referentes ao dia 26 de abril de 2020.
+Nota: O estado de Pernambuco recomenda que, na DO de óbitos suspeitos de COVID-19, ou seja, sem exame positivo, seja preenchido na parte I
+do atestado como Síndrome Respiratória Aguda Grave (SRAG) (Portaria 138 de 07/04/2020).
+*A CRC considera óbitos suspeitos ou conﬁrmados de COVID-19, enquanto que o Ministério da Saúde divulga apenas óbitos conﬁrmados da
+doença. **Diferença = Óbitos com suspeita ou conﬁrmação de COVID-19 em 2020 informados pela CRC Nacional - número de óbitos por com
+conﬁrmação de COVID-19 informados pelo Ministério da Saúde.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 9
+/
+A Tabela 4 mostra a comparação dos óbitos ocorridos em 2019, com menção de insuﬁciência respiratória
+ou pneumonia na DO, reportados pela CRC Nacional e pelo Ministério da Saúde. Em 2019, foram
+registrados no Sistema de Informações sobre Mortalidade (SIM) um total de 207.747 óbitos com menção
+de pneumonia e 195.753 reportando insuﬁciência respiratória. Destes, foram identiﬁcados 70.302 e 5.321
+óbitos tendo como causa básica de morte a pneumonia e insuﬁciência respiratória, respectivamente.
+Observam-se diferenças importantes entre os registros de óbitos da CRC Nacional e do Ministério da
+Saúde, nacionalmente e por UFs.
+Tabela 4: Comparação das estimativas de óbitos com menção de insuﬁciência respiratória e por
+pneumonia na Declaração de Óbito, reportados no Portal da Transparência da Central de Informações do
+Registro Civil e registrados no Sistema de Informações sobre Mortalidade do Ministério da Saúde, 2019.
+Unidade de Federação
+Insuﬁciência Respiratória Óbitos por pneumonia
+CRC Nacional
+Ministério da
+Saúde (SIM)
+Diferença CRC Nacional
+Ministério da
+Saúde (SIM)
+Diferença
+Acre 140 511 -371 280 607 -327
+Alagoas 719 3.288 -2.569 739 3.004 -2.265
+Amapá 113 514 -401 151 514 -363
+Amazonas 243 1.631 -1.388 494 1.911 -1.417
+Bahia 2.654 13.926 -11.272 1.779 7.420 -5.641
+Ceará 1.681 9.748 -8.067 2.400 8.950 -6.550
+Distrito Federal 518 1.721 -1.203 925 2.184 -1.259
+Espírito Santo 796 2.757 -1.961 1.477 4.673 -3.196
+Goiás 1.542 7.186 -5.644 1.922 6.935 -5.013
+Maranhão 687 5.388 -4.701 673 3.933 -3.260
+Mato Grosso 276 2.561 -2.285 268 2.373 -2.105
+Mato Grosso do Sul 662 2.473 -1.811 968 2.696 -1.728
+Minas Gerais 5.179 20.608 -15.429 6.066 21.186 -15.120
+Pará 644 6.936 -6.292 648 5.259 -4.611
+Paraíba 1.253 4.459 -3.206 1.387 3.994 -2.607
+Paraná 2.243 9.741 -7.498 3.164 12.596 -9.432
+Pernambuco 2.359 8.791 -6.432 2.411 7.547 -5.136
+Piauí 996 4.275 -3.279 726 3.258 -2.532
+Rio de Janeiro 4.316 16.237 -11.921 6.847 21.906 -15.059
+Rio Grande do Norte 549 2.732 -2.183 1.006 3.022 -2.016
+Rio Grande do Sul 3.320 12.723 -9.403 3.924 12.784 -8.860
+Rondônia 308 1.317 -1.009 326 899 -573
+Roraima 54 303 -249 107 334 -227
+Santa Catarina 1.610 6.022 -4.412 1.966 5.523 -3.557
+São Paulo 13.901 46.978 -33.077 20.993 61.484 -40.491
+Sergipe 484 1.573 -1.089 512 1.612 -1.100
+Tocantins 146 1.354 -1.208 152 1.143 -991
+Brasil 47.393 195.753 -148.360 62.311 207.747 -145.436
+Fontes: https://transparencia.registrocivil.org.br/especial-covid e Sistema de Informações sobre Mortalidade (SIM) do Ministério da Saúde -
+dados preliminares de 2019. Dados extraídos em 26 de abril de 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 10
+/
+Vigilância do óbito
+O Ministério da Saúde elaborou notas técnicas a ﬁm de padronizar orientações acerca das causas de
+morte no contexto da COVID-19. A primeira delas teve como objetivo orientar os médicos sobre o
+preenchimento das condições e causas do óbito (bloco V) da Declaração de Óbito (DO). Nessa nota, é
+ratiﬁcado, considerando orientações internacionais ,
+, que a terminologia oﬁcial, COVID-19, deve ser
+3 4
+utilizada para toda a certiﬁcação das mortes por essa causa. Como existem muitos tipos de coronavírus,
+é recomendável não usar “coronavírus” no lugar do COVID-19. Isso ajuda a reduzir a incerteza quanto à
+classiﬁcação ou codiﬁcação e a monitorar corretamente essas mortes. Tem-se, ainda, que o
+preenchimento da DO cujo resultado do exame laboratorial para COVID-19 tenha sido conﬁrmado,
+seguirá a sequência de eventos que levaram ao óbito, declarando a COVID-19 na última linha preenchida
+da parte I da DO. Para o caso suspeito, em investigação para COVID-19, haverá a mesma regra de
+preenchimento, declarando, no entanto, o termo “suspeito de COVID-19”.
+A segunda nota técnica é direcionada para os proﬁssionais codiﬁcadores de causa de morte. O objetivo é
+padronizar a codiﬁcação das causas informadas na DO, visando o processamento e seleção da causa
+básica em conformidade com o Sistema de Informações sobre Mortalidade (SIM). Por meio desta nota, o
+Ministério da Saúde informa que os novos códigos da 10ª Classiﬁcação Internacional de Doenças (CID-10)
+U07.1 (COVID-19, vírus identiﬁcado) e U07.2 (COVID-19, vírus não identiﬁcado, clínico-epidemiológico),
+deﬁnidos pela Organização Mundial de Saúde (OMS), são os marcadores da pandemia no Brasil e orienta
+a forma de utilizá-los juntamente com o código B34.2 (Infecção pelo coronavírus de localização não
+especiﬁcada).
+O SIM será atualizado, por meio de um arquivo de manutenção, para receber os novos códigos da CID-10.
+Haverá ainda a orientação da digitação oportuna, em até 24 horas, dos registros de óbitos por COVID-19
+(conﬁrmada ou suspeita). Essas ações facilitarão o monitoramento diário das mortes pela doença e
+orientarão as estratégias para o controle da pandemia no Brasil.
+3
+https://www.who.int/ classiﬁcations/icd/COVID-19-coding-icd10.pdf?ua=1
+4
+https://www.who.int/classiﬁcations/icd/Guidelines_Cause_of_Death_COVID-19.pdf?ua=1
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 11
+/
+FONTES DE DADOS OFICIAIS
+Painel Coronavírus Brasil
+Endereço: https://covid.saude.gov.br
+Este painel dispõe de dados diários e atualizados sobre o total de casos e óbitos, de internações sobre
+Síndrome Respiratória Aguda Grave (SRAG), além de dados sobre os insumos distribuídos. O painel é
+atualizado diariamente a partir das 17:00. As fontes desses dados são: formulário eletrônico de dados
+agregados (temporário), planilha diária de casos e óbitos por município enviada por email, Sistema de
+Vigilância Epidemiológica da Gripe (Sivep-Gripe) para os casos de SRAG hospitalizados, como mostrado
+na Figura 6. Além disso, também há o painel de insumos da área de assistência.
+Figura 6: Painel “Coronavírus Brasil”. Disponível em: https://covid.saude.gov.br/.
+Painel de vírus respiratórios
+Endereço: http://plataforma.saude.gov.br/laboratoriais/virus-respiratorios
+Este painel apresenta o total de testes para investigação de Coronavírus e outros vírus respiratórios
+como inﬂuenza A e B e vírus sincicial respiratório em crianças menores de 2 anos, durante a pandemia,
+registrados no Sistema Gerenciador de Ambiente Laboratorial (GAL).
+Os exames que aguardam recebimento, neste exemplo (42.678) são aqueles registrados nas unidades e
+que ainda não chegaram ao Laboratório Central (Figura 7). Os exames em análise no laboratório são
+aqueles que estão em alguma etapa do processamento. Nesse exemplo, 34% dos exames no país
+aguardam resultados. Também há os exames realizados para investigação de COVID-19 e vírus
+respiratórios, sendo portanto 181.360 exames realizados. Esse total representa 864 testes realizados para
+cada milhão de habitantes.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 12
+/
+Figura 7: Painel de vírus respiratórios, na Plataforma IVIS. Disponível em:
+http://plataforma.saude.gov.br/laboratoriais/virus-respiratorios. Acessado em 22/04/2020 às 20:00.
+Painel InfoGripe
+Endereço: http://info.gripe.ﬁocruz.br/
+O InfoGripe é uma iniciativa para monitorar e apresentar níveis de alerta para os casos reportados de
+Síndrome Respiratória Aguda Grave (SRAG) (Figura 8). Os dados são apresentados por estado e por
+regiões de vigilância para síndromes gripais. Este é um produto da parceria entre a Secretaria de
+Vigilância em Saúde do Ministério da Saúde (SVS/MS), com o Programa de Computação Cientíﬁca da
+Fundação Oswaldo Cruz (Fiocruz, PROCC) e a Escola de Matemática Aplicada da Fundação Getúlio Vargas
+(FGV, EMAp), no Rio de Janeiro.
+Figura 8: Painel Infogripe. Disponível em: http://info.gripe.ﬁocruz.br/. Acessado em 22/04/2020.
+Painel Dados Abertos
+Endereço: http://plataforma.saude.gov.br/dados-abertos/
+Por meio do Painel de Dados Abertos, na Plataforma IVIS (Figura 9), o Ministério da Saúde disponibiliza
+as bases de dados anonimizadas do Sinan Inﬂuenza Web (de 2009 a 2018) e do SIVEP-Gripe (2019 e 2020),
+bem como as ﬁchas de investigação, dicionário de variáveis e histórico de deﬁnições de caso para
+vigilância. Os dados de 2020 são preliminares e serão atualizados semanalmente.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 13
+/
+Figura 9: Painel de dados abertos na Plataforma IVIS do Ministério da Saúde. Acessado em 22/04/2020.
+SITUAÇÃO EPIDEMIOLÓGICA
+Mundo
+Segundo dados internacionais , até 26 de abril de 2020, foram conﬁrmados 2.940.993 casos de COVID-19
+5
+com 203.822 óbitos (Tabela 5). Os Estados Unidos da América são o país com maior número de casos e
+óbitos (960.896 e 54.265, respectivamente). O Brasil é o 11º em número de casos conﬁrmados e o 11º em
+número de óbitos.
+Tabela 5: Distribuição dos casos de COVID-19 entre os países com maior número de casos em 2020.
+ID
+PAÍSES E
+TERRITÓRIOS
+CONFIRMADOS ÓBITOS
+LETALIDADE POPULAÇÃO
+MORTALIDADE POR
+1.000.000 DE
+HABITANTES
+N % N %
+1 Estados Unidos 960.896 33% 54.265 27% 5,6% 331.915.000 163
+2 Espanha 223.759 8% 22.902 11% 10,2% 46.711.000 490
+3 Itália 195.351 7% 26.384 13% 13,5% 60.250.000 438
+4 França 161.488 6% 22.614 11% 14,0% 67.443.000 335
+5 Alemanha 156.727 5% 5.880 3% 3,8% 82.678.000 71
+6 Reino Unido 148.377 5% 20.319 10% 13,7% 67.224.000 302
+7 Turquia 107.773 4% 2.706 1% 2,5% 84.339.000 32
+8 Irã 90.481 3% 5.710 3% 6,3% 83.993.000 68
+9 China 82.827 3% 4.632 2% 5,6% 1.401.379.000 3
+10 Rússia 80.949 3% 747 0,4% 0,9% 144.222.000 5
+11 Brasil 61.888 2% 4.205 2% 6,8% 212.559.000 20
+TOTAL 2.940.993 100% 203.822 100% 6,9% 7.754.179.000 26
+5
+https://www.irrd.org/covid-19/#brasil
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 14
+/
+A Figura 10 mostra a evolução do acumulado de casos conﬁrmados de COVID-19 em nove países,
+incluindo o Brasil. Em relação aos demais países analisados, o Brasil ainda está em uma fase inicial da
+epidemia, tendo apresentado uma aceleração no número de casos conﬁrmados a partir da semana
+epidemiológica 15 (05 a 11/04).
+Fonte: Instituto para Redução de Riscos e Desastres de Pernambuco - https://www.irrd.org/covid-19/ - atualizado em 25/04/2020 às 23:43h.
+Figura 10: Casos conﬁrmados de COVID-19 ao redor do mundo.
+Brasil
+Até o dia 26 de abril de 2020, foram conﬁrmados 61.888 casos por COVID-19 no Brasil. Deste total, 4.205
+(6,8%) foram a óbito, 27.531 (44,5%) estão em acompanhamento e 30.152 (48,7%) já se recuperaram da
+doença. Nas últimas 24 horas foram conﬁrmados 3.379 novos casos da doença, o que representou um
+incremento de 5,8% (3.379/58.509) em relação ao total acumulado até o dia anterior (Figura 11).
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões.
+Figura 11: Distribuição dos casos e óbitos por COVID-19 por região e Unidade da Federação. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 15
+/
+A Figura 12 mostra a distribuição dos casos novos de COVID-19 registrados dia a dia por data de
+notiﬁcação. Sobre os óbitos, foram registrados 189 novos nas últimas 24 horas, o que representou um
+incremento de 4,7% (189/4.016) em relação ao total acumulado até o dia anterior. A Figura 13 mostra o
+acumulado de casos e óbitos por data de notiﬁcação, enquanto a Figura 14 mostra por semana
+epidemiológica.
+Fonte: https://covid.saude.gov.br/ - atualizado em 26/04/2020 às 16:30h.
+Figura 12: Distribuição dos casos novos conﬁrmados de COVID-19 por data de conﬁrmação. Brasil, 2020.
+Fonte: https://covid.saude.gov.br/ - atualizado em 24/04/2020 às 16:30h.
+Figura 13: Distribuição dos casos conﬁrmados e óbitos de COVID-19 por data de conﬁrmação. Brasil, 2020.
+Fonte: https://covid.saude.gov.br/ - atualizado em 26/04/2020 às 16:30h.
+Figura 14: Distribuição dos casos conﬁrmados e óbitos de COVID-19 por semana epidemiológica de
+conﬁrmação. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 16
+/
+Com o apoio do Instituto para Redução de Riscos e Desastres de Pernambuco (IRRD/PE) e outros
+parceiros, estamos avaliando o padrão de casos com maior detalhamento. Na Figura 15, podemos ver a
+situação de cada estado e do Distrito Federal.
+Fonte: Instituto para Redução de Riscos e Desastres de Pernambuco - https://www.irrd.org/covid-19/ - atualizado em 26/04/2020 às 14h.
+Figura 15: Evolução dos casos novos de COVID-19 por Unidade da Federação. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 17
+/
+A maior parte dos casos concentrou-se na região Sudeste (31.077; 50,2%) seguido das regiões Nordeste
+(17.531; 28,3%) e Norte (7.600; 12,3%) (Figura 16). Dentre as Unidades Federadas, São Paulo apresentou o
+maior número de casos conﬁrmados da doença (20.715), seguido de Rio de Janeiro (7.111), Ceará (5.833),
+Pernambuco (4.898) e Amazonas (3.833). Com relação aos óbitos, os estados que apresentaram os
+maiores números foram São Paulo (1.700), Rio de Janeiro (645), Pernambuco (415), Ceará (327) e Amazonas
+(304). A Figura 17 mostra a distribuição espacial dos casos conﬁrmados e óbitos para COVID-19 por UF e a
+Figura 18 mostra os dados por município.
+Fonte: https://covid.saude.gov.br/ - atualizado em 26/04/2020 às 16:30h.
+Figura 16: Distribuição dos casos conﬁrmados de COVID-19 por macrorregião. Brasil, 2020.
+Fonte: https://covid.saude.gov.br/ - atualizado em 26/04/2020 às 16:30h.
+Figura 17: Distribuição dos casos (A) e óbitos (B) de COVID-19 por Unidade da Federação. Brasil, 2020.
+Os coeﬁcientes de incidência e mortalidade (por 1.000.000) de COVID-19 por regiões de saúde está
+mostrado na Figura 19 e nos Anexos 1 a 5. No Brasil, as regiões de saúde com os maiores coeﬁcientes de
+incidência foram a 1ª Região de Fortaleza no Ceará (1641,9) ; São Luís no Maranhão (1290,4); Manaus,
+Entorno e Alto Rio Negro no Amazonas (1104,8); Rio Negro e Solimões no Amazonas (1.077,4); e São Paulo
+(1.069,0). As Figuras 20 a 24 mostram os coeﬁcientes de incidência por região de saúde entre as
+macrorregiões que compõem o país.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 18
+/
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde. Dados atualizados em 25 de abril de 2020 às 18h, sujeitos a revisões.
+Figura 18: Distribuição espacial dos casos (A) e óbitos (B) conﬁrmados por COVID-19 por município. Brasil,
+2020.
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde. Dados atualizados em 25 de abril de 2020 às 18h, sujeitos a revisões.
+Figura 19: Coeﬁcientes de incidência (A) e mortalidade (B) por COVID-19 (por 1.000.000 de habitantes) por
+regiões de saúde. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 19
+/
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde. Dados atualizados em 25 de abril de 2020 às 18h, sujeitos a revisões.
+Figura 20: Coeﬁciente de incidência de COVID-19 (por 1.000.000 de habitantes) por regiões de saúde da
+região Norte. Brasil, 2020.
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde. Dados atualizados em 25 de abril de 2020 às 18h, sujeitos a revisões.
+Figura 21: Coeﬁciente de incidência de COVID-19 (por 1.000.000 de habitantes) por regiões de saúde da
+região Nordeste. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 20
+/
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde. Dados atualizados em 25 de abril de 2020 às 18h, sujeitos a revisões.
+Figura 22: Coeﬁciente de incidência de COVID-19 (por 1.000.000 de habitantes) por regiões de saúde da
+região Sudeste. Brasil, 2020.
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde. Dados atualizados em 25 de abril de 2020 às 18h, sujeitos a revisões.
+Figura 23: Coeﬁciente de incidência de COVID-19 (por 1.000.000 de habitantes) por regiões de saúde da
+região Sul. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 21
+/
+Fonte: Secretaria de Vigilância em Saúde/Ministério da Saúde.
+Dados atualizados em 25 de abril de 2020 às 18h, sujeitos a
+revisões.
+Figura 24: Coeﬁciente de incidência de
+COVID-19 (por 1.000.000 de habitantes) por
+regiões de saúde da região Centro-Oeste.
+Brasil, 2020.
+Hospitalizações e Óbitos por SRAG
+A Figura 25 mostra o número de hospitalizações por Síndrome Respiratória Aguda Grave (SRAG) até a
+semana epidemiológica (SE) 17 de 2019 e de 2020. Observou-se um incremento de 416% em 2020 em
+relação ao mesmo período de 2019. Até a SE 17 de 2020, foram registradas no SIVEP-Gripe 70.060
+hospitalizações por SRAG no Brasil. Desse total, 13.169 (18,8%) foram de casos conﬁrmados para COVID-19
+(Tabela 6).
+Fonte: https://covid.saude.gov.br/ - atualizado em 24/04/2020 às 16:30h.
+Figura 25: Hospitalizações por Síndrome Respiratória Aguda Grave em 2019 e 2020, até a semana
+epidemiológica 16. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 22
+/
+Tabela 6: Hospitalizações por Síndrome Respiratória Aguda Grave (SRAG) entre as semanas
+epidemiológicas 1 e 17 de 2020, segundo etiologia. Brasil, 2020.
+SE SARS-COV2 Inﬂuenza (A e B)
+Outros vírus
+respiratórios
+SRAG não especiﬁcado
+SRAG em
+investigação
+Total
+1 --- 25 48 272 23 368
+2 --- 50 34 291 24 399
+3 --- 35 51 280 35 401
+4 --- 34 43 274 23 374
+5 --- 48 38 270 28 384
+6 --- 61 34 300 48 443
+7 --- 67 54 357 99 577
+8 15 64 72 465 148 764
+9 18 134 100 501 191 944
+10 121 128 103 759 377 1.488
+11 674 218 198 1.920 1.031 4.041
+12 2.213 263 257 4.971 2.760 10.464
+13 3.166 93 211 5.412 3.305 12.187
+14 3.001 37 93 4.689 4.031 11.851
+15 2.461 16 61 3.713 5.563 11.814
+16 1.336 3 34 2.074 6.714 10.161
+17 164 --- 8 346 2.882 3.400
+Total 13.169 1.276 1.439 26.894 27.282 70.060
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões.
+A distribuição dos casos de hospitalização por SRAG até a semana 17, de acordo com a UF de residência,
+está mostrada na Figura 26. São Paulo, o estado com o maior número de casos conﬁrmados de COVID-19,
+também apresenta a maior quantidade de casos de SRAG (32.594, dos quais 8.032 foram conﬁrmados
+para COVID-19). Após São Paulo, seguem Rio de Janeiro (6.159 casos de SRAG; 1.209 conﬁrmados para
+COVID-19), Minas Gerais (5.102; 312), Paraná (4.223; 339) e Ceará (3.058; 700). A Tabela 7 mostra a
+distribuição dos casos de SRAG e COVID-19 por município e porte populacional. A Figura 27 mostra a
+distribuição etária dos casos de SRAG hospitalizados.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 23
+/
+Fonte: https://covid.saude.gov.br/ - atualizado em 23/04/2020 às 17:20h.
+Figura 26: Hospitalizações por Síndrome Respiratória Aguda Grave em 2019 e 2020, até a semana
+epidemiológica 16. Brasil, 2020.
+Tabela 7. Distribuição dos casos de Síndrome Respiratória Aguda Grave (SRAG) e doença pelo coronavírus
+2019 (COVID-19) por município e porte populacional. Brasil, 2020.
+Porte
+Número de
+municípios
+Total de
+habitantes
+Total de municípios SRAG COVID-19
+Sem
+casos
+de
+SRAG
+Sem
+casos de
+COVID-19
+Sem casos
+de SRAG e
+de
+COVID-19
+Número
+de
+casos
+Incidência
+por
+milhão de
+hab.
+Número
+de
+casos
+Incidência
+por
+milhão de
+hab.
+Até 25 mil 4.143 39.700.000 2.251 3.567 2.098 4.556 29,6 1.175 115,8
+25 a 49 mil 754 25.800.000 154 401 109 3.681 43,2 1.114 143,7
+50 a 99 mil 349 23.900.000 20 83 6 4.461 75,6 1.806 186,7
+100 a 499 mil 276 54.200.000 3 6 --- 16.121 162,0 8.780 297,4
+500 a 999 mil 31 20.400.000 --- --- --- 7.575 242,8 4.953 371,3
+≥1 milhão 17 46.100.000 --- --- --- 33.595 606,2 27.944 728,7
+BRASIL 5.570 210.100.000 2.428 4.057 2.213 69.989 218,0 45.772 333,0
+Fontes: Secretarias Estaduais de Saúde e Sistema de Informação de Vigilância da Gripe. Dados atualizados em 23 de abril de 2020 às 14h, sujeitos a revisões.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 24
+/
+Fonte: https://covid.saude.gov.br/ - atualizado em 26/04/2020 às 17:20h.
+Figura 27: Hospitalizações por Síndrome Respiratória Aguda Grave por sexo e faixa etária, até a semana
+epidemiológica 17. Brasil, 2020.
+A Figura 28 mostra a distribuição das hospitalizações por SRAG segundo raça/cor. Veriﬁcou-se que 60,3%
+das hospitalizações ocorreram entre pessoas de raça/cor branca, seguido da raça/cor parda (31,5%) e
+preta (5,9%). Dentre esses casos, 5.263 tiveram a variável raça/cor ignorada e não foram incluídas na
+análise.
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões.
+*Excluídos 5.263 casos com variável raça/cor ignorada.
+Figura 28: Hospitalizações por Síndrome Respiratória Aguda Grave (SRAG) por COVID-19 segundo
+raça/cor*. Brasil, 2020.
+Dentre os 4.205 óbitos conﬁrmados de COVID-19 até o momento, 3.611 (85,9%) já possuem investigação
+concluída. A Figura 29 mostra a distribuição dos óbitos por (SRAG) por COVID-19 de acordo com a data de
+óbito, obtida no Sistema de Informação de Vigilância da Gripe (SIVEP-Gripe). Dentre os óbitos, 2.142
+(59,3%) foram do sexo masculino.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 25
+/
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões.
+Figura 29: Óbitos por Síndrome Respiratória Aguda Grave (SRAG) por COVID-19 segundo data de óbito.
+Brasil, 2020.
+A Tabela 8 mostra a distribuição dos óbitos por SRAG de acordo com a etiologia entre as SE 1 e 16. De
+todos os óbitos por SRAG registrados no período, 3.041 foram conﬁrmados para SARS-CoV2 e 1.006
+permaneciam em investigação.
+Tabela 8: Óbitos por Síndrome Respiratória Aguda Grave (SRAG) entre as semanas epidemiológicas 1 e 17
+de 2020, segundo etiologia. Brasil, 2020.
+SE SRAG por COVID-19 Inﬂuenza (A e B) Outros vírus respiratórios SRAG não especiﬁcado Em investigação Total
+1 --- 3 2 31 4 40
+2 --- 2 4 41 1 48
+3 --- 3 4 46 --- 53
+4 --- 6 3 37 2 48
+5 --- 4 2 39 3 48
+6 --- 4 1 38 1 44
+7 --- 7 4 37 3 51
+8 5 3 2 56 --- 66
+9 9 11 5 49 7 81
+10 41 19 9 84 9 162
+11 182 22 15 224 41 484
+12 551 37 15 699 109 1.411
+13 800 14 15 932 141 1.902
+14 857 7 4 864 179 1.911
+15 651 1 3 609 229 1.493
+16 249 --- --- 321 295 865
+17 19 --- 3 44 108 174
+Total 3.364 143 91 4.151 1.132 8.881
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 26
+/
+A distribuição dos óbitos de SRAG por COVID-19 por faixa etária está mostrada na Figura 30A. Entre os
+óbitos conﬁrmados por COVID-19, 70,0% tinham mais de 60 anos e 67,0% apresentavam pelo menos um
+fator de risco (Figura 30B). A cardiopatia foi a principal comorbidade associada e esteve presente em
+1.566 dos óbitos, seguida de diabetes (em 1.223 óbitos), doença renal (296), pneumopatia (279) e doença
+neurológica (265). Em todos os grupos de risco, a maioria dos indivíduos tinha 60 anos ou mais, exceto
+para obesidade.
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 23 de abril de 2020 às 14h, sujeitos a revisões.
+Figura 30: Óbitos por Síndrome Respiratória Aguda Grave (SRAG) por COVID-19 faixa etária (A) e grupos de
+risco (B). Brasil, 2020.
+A Figura 31 mostra a distribuição dos óbitos de SRAG por COVID-19 segundo a raça/cor. Observou-se que
+52,3% dos óbitos ocorreram entre pessoas de raça/cor branca, seguido da raça/cor parda (38,8%) e preta
+(6,4%). Dentre estes óbitos, 1.298 tiveram a variável raça/cor ignorada e não foram incluídas na análise. A
+Tabela 9 e a Tabela 10 mostram, respectivamente, a distribuição dos casos de SRAG e de SRAG com
+conﬁrmação por COVID-19 segundo faixa etária e fatores de risco/comorbidades.
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões
+*Excluídos 1.298 óbitos com variável raça/cor ignorada.
+Figura 31: Óbitos por Síndrome Respiratória Aguda Grave (SRAG) por COVID-19 segundo raça/cor*. Brasil,
+2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 27
+/
+Tabela 9: Distribuição dos casos de Síndrome Respiratória Aguda Grave (SRAG) segundo faixa etária e
+fatores de risco/comorbidades. Brasil, 2020.
+Faixa etária
+(anos)
+População1
+Casos de
+SRAG no
+SIVEP
+Gripe
+Taxa de
+hospitalização
+(por 1 milhão
+de hab.)
+Fatores de risco/comorbidades
+Doenças crônicas2
+Imunodeﬁciência/
+Imunodepressão
+Gestante/
+Puérpera3 Obesidade
+Sem
+registro
+1 2+
+0 a 9 28.918.854 9.587 331,5 7.634 1.661 292 240 --- 7
+10 a 19 32.974.096 1.807 54,8 1.285 443 79 116 193 26
+20 a 29 33.996.173 4.345 127,8 3.431 755 159 208 509 96
+30 a 39 34.503.246 7.780 225,5 5.846 1.555 379 410 419 268
+40 a 49 28.746.122 8.982 312,5 5.733 2.344 905 477 59 349
+50 a 59 23.377.297 10.217 437,0 5.067 3.219 1.931 593 22 362
+60 a 69 15.946.086 10.439 654,6 3.859 3.614 2.966 558 --- 285
+70 a 79 8.236.034 9.118 1107,1 2.662 3.305 3.151 465 --- 213
+80+ 3.961.105 7.789 1966,4 2.123 2.973 2.693 257 --- 91
+TOTAL 210.659.013 70.064 332,6 37.640 19.869 12.555 3.324 1.202 1.697
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões.
+1
+Projeção da população do Brasil e Unidades da Federação por sexo e idade para o período 2000-2030. 2
+Inclui doença cardiovascular crônica, doença hematológica
+crônica, doença hepática crônica, asma, diabetes mellitus, doença neurológica crônica, pneumopatia crônica e doença renal crônica. 3
+Puérpera até 45 dias do parto.
+Tabela 10: Distribuição dos óbitos de Síndrome Respiratória Aguda Grave (SRAG) com conﬁrmação de
+doença pelo coronavírus 2019 (COVID-19) segundo faixa etária e fatores de risco/comorbidades. Brasil,
+2020.
+Faixa etária
+(anos)
+População1
+Óbitos por
+SRAG no
+SIVEP
+Gripe
+Taxa de
+hospitalização
+(por 1 milhão
+de hab.)
+Fatores de risco/comorbidades
+Doenças crônicas2
+Imunodeﬁciência/
+Imunodepressão
+Gestante/
+Puérpera3 Obesidade
+Sem
+registro
+1 2+
+0 a 9 28.918.854 176 6,1 135 32 9 9 --- ---
+10 a 19 32.974.096 78 2,4 54 17 7 6 11 1
+20 a 29 33.996.173 526 15,5 432 80 14 22 48 22
+30 a 39 34.503.246 1.648 47,8 13 275 73 36 51 72
+40 a 49 28.746.122 2.239 77,9 1.481 557 201 68 8 105
+50 a 59 23.377.297 2.604 111,4 1.362 813 429 95 3 133
+60 a 69 15.946.086 2.526 158,4 972 879 675 110 --- 72
+70 a 79 8.236.034 1.932 234,6 619 643 670 92 --- 50
+80+ 3.961.105 1.454 367,1 366 523 565 46 --- 24
+TOTAL 210.659.013 13.183 62,6 5.434 3.819 2.643 484 121 479
+Fonte: Sistema de Informação de Vigilância da Gripe. Dados atualizados em 26 de abril de 2020 às 14h, sujeitos a revisões.
+1
+Projeção da população do Brasil e Unidades da Federação por sexo e idade para o período 2000-2030. 2
+Inclui doença cardiovascular crônica, doença hematológica
+crônica, doença hepática crônica, asma, diabetes mellitus, doença neurológica crônica, pneumopatia crônica e doença renal crônica. 3
+Puérpera até 45 dias do parto.
+LABORATÓRIO
+Em 2020, até o dia 26 de abril, foram registrados 360.005 exames no Sistema Gerenciador de Ambiente
+Laboratorial (GAL), dos quais 224.196 (62,3%) já haviam sido realizados. Entre os demais exames, 43.803
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 28
+/
+foram solicitados eletronicamente, mas as amostras ainda não foram recebidas no Laboratório Central e
+92.006 encontravam-se em análise no laboratório.
+A Figura 32 mostra a situação dos exames cadastrados por Unidade da Federação. São Paulo é o estado
+com maior número de exames realizados (47.924), seguido do Paraná (23.522) e da Bahia (18.189).
+Dos 224.196 exames realizados, 41.792 (18,6%) apresentaram resultado positivo/detectado para vírus
+respiratórios. As regiões Sudeste (15.128) e Nordeste (14.070) foram as que apresentaram maior número
+de exames com resultado positivo/detectável.
+O resultados dos exames realizados por Unidade da Federação está apresentado na Figura 33. O estado
+de São Paulo foi o que apresentou maior número de amostras com resultado positivo/detectável (9.621),
+seguido do Ceará (4.471), Pernambuco (3.669) e Amazonas (3.308).
+O coronavírus 2019 (SARS-CoV-2) foi identiﬁcado em 34.045 amostras, a maioria nos estados de São Paulo
+(8.757), Ceará (4.195), Pernambuco (3.312), Amazonas (2.880) e Rio de Janeiro (2.509) (Figura 34). Mais
+detalhes sobre a distribuição desses casos por sexo e faixa etária podem ser encontrados no endereço
+eletrônico: http://plataforma.saude.gov.br/laboratoriais/virus-respiratorios/
+Fonte: http://plataforma.saude.gov.br/laboratoriais/virus-respiratorios/ - atualizado em 26/04/2020.
+Figura 32: Situação dos exames cadastrados para vírus respiratórios no Sistema Gerenciador de
+Ambiente Laboratorial (GAL) por Unidade da Federação. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 29
+/
+Fonte: http://plataforma.saude.gov.br/laboratoriais/virus-respiratorios/ - atualizado em 26/04/2020.
+Figura 33: Exames realizados segundo resultado, por Unidade da Federação de residência. Brasil, 2020.
+Fonte: http://plataforma.saude.gov.br/laboratoriais/virus-respiratorios/ - atualizado em 26/04/2020.
+Figura 34: Número de amostras com coronavírus 2019 (SARS-CoV-2) detectado por RT-PCR, por Unidade
+da Federação de residência. Brasil, 2020.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 30
+/
+VACINAÇÃO CONTRA INFLUENZA EM 2020
+A vacinação contra a inﬂuenza sazonal foi introduzida no país no ano de 1999 tendo como público alvo
+exclusivo, idosos a partir de 65 anos de idade. A partir do ano 2000, foi ampliada para a população a
+partir dos 60 anos de idade e para alguns grupos de risco dos Centros de Referência para
+Imunobiológicos Especiais – CRIE, mantendo-se esses grupos até o ano de 2010.
+Em 2011, teve a ampliação para outros grupos alvo, registrando um importante incremento da população
+objeto da vacinação, estendendo-se para crianças de seis meses a menores de dois anos de idade,
+gestantes, proﬁssionais de saúde, indígenas e idosos. Em 2013, foram incluídos os grupos prioritários das
+puérperas, privados de liberdade e portadores de comorbidades. Em 2014, o público alvo foi estendido
+para as crianças menores de 05 anos e funcionários do sistema prisional. Em 2017 foram incluídos os
+professores. Em 2019, as crianças de 05 anos de idade e os proﬁssionais das forças de segurança e
+salvamento. E, em 2020, adultos de 55 a 59 anos, pessoas com deﬁciência, caminhoneiros, motoristas e
+cobradores de transporte coletivo e trabalhadores portuários.
+Esse incremento foi ocorrendo, de modo que em 2020, já estão priorizados para vacinação contra
+inﬂuenza sazonal, os indivíduos com 60 anos ou mais de idade, os trabalhadores de saúde, os povos
+indígenas, as crianças na faixa etária de seis meses a menores de seis anos de idade (cinco anos, 11
+meses e 29 dias), as gestantes, as puérperas (até 45 dias após o parto), os portadores de doenças
+crônicas não transmissíveis e outras condições clínicas especiais, os adolescentes e jovens de 12 a 21
+anos de idade sob medidas socioeducativas, a população privada de liberdade, os funcionários do
+sistema prisional, os professores das escolas públicas e privadas, proﬁssionais das forças de segurança e
+salvamento, adultos de 55 a 59 anos, pessoas com deﬁciência, caminhoneiros, motoristas e cobradores
+de transporte coletivo e trabalhadores portuários.
+O Ministério da Saúde, por meio da Coordenação Geral do Programa Nacional de Imunizações (CGPNI), do
+Departamento de Imunização e Doenças Transmissíveis, da Secretaria de Vigilância em Saúde, lançou a
+22ª Campanha Nacional de Vacinação contra a Inﬂuenza, no dia 23 de março e que se estenderá até o dia
+06 de junho de 2020, sendo 09 de maio, o dia de mobilização nacional. A campanha conta com as
+parcerias das Secretarias Estaduais de Saúde e das Secretarias Municipais de Saúde. O público alvo total
+representa 77,7 milhões de pessoas. A meta é vacinar, pelo menos, 90% da população alvo. Estima-se o
+funcionamento de aproximadamente 41.858 mil postos de vacinação.
+Vale destacar que as metas estabelecidas para estimar as coberturas vacinais sofreram alterações ao
+longo dos anos, sendo dessa forma: de 70% até 2007; 80% a partir de 2008 e 90% a partir de 2017. O
+desempenho da vacinação contra inﬂuenza no país, vem ao longo dos anos mostrando uma boa adesão
+para a maioria dos grupos alvos.
+Em 2020, a campanha, que historicamente acontecia em abril, foi antecipada em três semanas, tendo em
+vista o momento que o mundo passa no combate ao novo coronavírus e em virtude da conﬁrmação de
+casos no país, apesar desta vacina não prevenir contra esse novo vírus. Essa antecipação, teve como
+objetivo proteger a população contra a inﬂuenza, além de minimizar o impacto sobre os serviços de
+saúde. Destaca-se que os sintomas desta doença são semelhantes aos da COVID-19 e essa antecipação
+visa reduzir a carga da circulação de inﬂuenza na população.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 31
+/
+Assim, esta campanha foi antecipada em relação à data inicial prevista e está sendo realizada por etapas
+e fases de convocação/mobilização dos grupos prioritários, considerando o cronograma de entrega do
+laboratório produtor da vacina.
+● 1ª fase – iniciada em 23 de março. Convocou os Idosos (60 anos e mais) e Trabalhadores de
+Saúde.
+● 2ª fase – teve início em 16 de abril. Foram convocados os portadores de doenças crônicas não
+transmissíveis e outras condições clínicas especiais, povos indígenas, proﬁssionais das forças de
+segurança e salvamento, os caminhoneiros, os motoristas e cobradores de transporte coletivo e
+portuários. Além disso, a vacinação também está sendo feita nos adolescentes e jovens de 12 a 21
+anos sob medidas socioeducativas, na população privada de liberdade e nos funcionários do
+sistema prisional; e
+● 3ª fase – terá início em 09 de maio, e será dividida em duas etapas. De 09 a 17 de maio, serão
+incluídas as crianças de seis meses à menores de seis anos de idade, gestantes, puérperas e
+pessoas com deﬁciência. De 18 de maio a 06 de junho, serão incluídos os professores das escolas
+públicas e privadas e os adultos de 55 a 59 anos de idade.
+O encerramento da Campanha está previsto para o dia 06 de junho de 2020. As etapas ocorrem,
+simultaneamente, em todos os 5.570 municípios do país e os grupos serão cumulativos no decorrer das
+etapas deﬁnidas.
+Resultado parcial6
+Há um total de 27.565.764 de doses aplicadas e registradas no Sistema de Informação do Programa
+Nacional de Imunizações (SI-PNI). No Brasil, 35,08% da população alvo total da campanha está vacinada,
+sendo o maior percentual para o grupo prioritário dos idosos com 101,97%.
+Fase 1
+IDOSOS
+Do total das doses registradas para todos os grupos, 77,27% (21.300.434 doses) foram aplicadas em
+IDOSOS. A Cobertura Vacinal (CV) das pessoas com 60 anos ou mais de idade que tomaram a vacina foi
+de 101,97%. A Meta de CV foi atingida a nível Nacional, sendo que 24 Unidades Federadas já superaram a
+meta de pelo menos 90% desse grupo prioritário vacinado. As outras 03 Unidades Federadas apresentam
+os seguintes desempenhos: Maranhão (88,00%), Bahia (89,13%) e Mato Grosso (86,62%); e 4.176 (74,97%)
+municípios já atingiram a meta de vacinação (Figura 35).
+6
+Atingido até as 10h00 de 22.04.2020 (31º dia de Campanha e 7º dia da segunda fase).
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 32
+/
+Fonte: sipni.datasus.gov.br – dados preliminares até às10h00 de 22.04.2020
+Figura 35: Cobertura vacinal do grupo prioritário dos IDOSOS, por Unidade Federada. Brasil, 2020.
+TRABALHADORES DE SAÚDE
+Do total das doses registradas, 15,94% (4.395.753 doses) foram aplicadas em TRABALHADORES DE SAÚDE;
+87,32% destes tomaram a vacina; 11 Unidades Federadas ultrapassaram a meta de CV, sendo elas: Rio
+Grande do Norte, Ceará, Amapá, Piauí, Paraíba, Minas Gerais, Rio Grande do Sul, Maranhão, Pernambuco,
+Alagoas e Sergipe. O menor percentual de CV foi registrado no Estado do Amazonas (56,23%); e 3.403
+(61,09%) municípios já atingiram a meta de 90% de CV para o grupo prioritário dos Trabalhadores de
+Saúde (Figura 36).
+Fonte: sipni.datasus.gov.br – dados preliminares até às10h00 de 22.04.2020
+Figura 36: Cobertura vacinal do grupo prioritário dos TRABALHADORES DE SAÚDE, por Unidade Federada.
+Brasil, 2020.
+Fase 2
+INDÍGENAS
+Entre o grupo de indígenas, 5,25% estão vacinados. Os maiores percentuais estão registrados no Estado
+da Bahia (56,22%) e São Paulo (44,11%), enquanto que o menor foi no Amapá e Espírito Santo (0,00%)
+(Figura 37).
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 33
+/
+Fonte: sipni.datasus.gov.br – dados preliminares até às10h00 de 22.04.2020
+Nota: Os Estados do Piauí e Rio Grande do Norte não possuem populações indígenas estimadas.
+Figura 37: Cobertura vacinal do grupo prioritário dos INDÍGENAS, por Unidade Federada. Brasil, 2020.
+Para os grupos integrantes da segunda fase, com exceção dos indígenas, não serão calculados o
+indicador de CV devido às limitações das estimativas populacionais. Será disponibilizado, para ﬁns de
+acompanhamento, o número de doses aplicadas (Tabela 11).
+Tabela 11: Doses aplicadas em grupos contemplados na FASE 2 (com exceção dos indígenas), por Grupo
+prioritário. Brasil, 2020.
+Grupo prioritário População estimada Número de doses aplicadas
+Doentes crônicos 10.766.989 886.881
+Forças de segurança e salvamento 850.496 183.864
+Caminhoneiros 1.937.219 64.027
+Trabalhadores de Transporte Coletivo 658.264 30.326
+Portuários 57.654 4.739
+Adolescentes sob medidas socioeducativas e privados de liberdade 507.315 45.662
+Funcionários do Sistema prisional 144.451 23.414
+TOTAL 14.922.388 1.238.213
+Fonte: sipni.datasus.gov.br – dados preliminares até às 10h00 de 22.04.2020
+Do total das doses registradas, 2,19% (605.238 doses) foram aplicadas nos demais grupos prioritários que
+ainda serão convocados na Fase 3 da Campanha. O maior número é o do grupo das CRIANÇAS com
+234.889 doses aplicadas (38,80%) (Figura 38).
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 34
+/
+Fonte: sipni.datasus.gov.br – dados preliminares até às10h00 de 22.04.2020
+Figura 38: Doses aplicadas em grupos não contemplados na FASE 1 e 2, por Grupo prioritário. Brasil, 2020.
+Constata-se que há 11 municípios que ainda não registraram nenhuma dose aplicada no Sistema de
+informação, estando distribuídos nas seguintes Unidades Federadas: Rondônia (05), Amazonas (01), Pará
+(01), Bahia (01) e Mato Grosso (03). A relação nominal dos municípios está mostrada na Tabela 12.
+Tabela 12: Municípios sem nenhuma dose aplicada da vacina contra Inﬂuenza registrada no SI-PNI, por
+Unidade Federada. Brasil, 2020.
+Unidade Federada Município
+Rondônia
+Governador Jorge Teixeira
+Nova União
+Parecis
+Seringueiras
+Vale do Anari
+Amazonas Maués
+Pará Salvaterra
+Bahia Botuporã
+Mato Grosso
+Araguainha
+Castanheira
+Tabaporã
+Fonte: sipni.datasus.gov.br – dados preliminares até às 10h00 de 22.04.2020
+Até o dia 22 de abril, foram distribuídas paras as Unidades Federadas um total de 45.455.600 doses da
+vacina inﬂuenza, com o público alvo estimado para as fases 1 e 2, totalizado em 41.576.138 de pessoas,
+sendo 25.923.913 (Fase 1) e 15.652.225 (Fase 2) (Tabela 13).
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 35
+/
+Recomendações do Ministério da Saúde
+É importante o acompanhamento diário dos dados na campanha com o propósito de intervir
+oportunamente no progresso das coberturas ou na correção de possíveis erros de registros no Sistema
+de Informação do Programa Nacional de Imunizações - SIPNI. Para isso, relatórios disponibilizados em
+tempo real, para acompanhamento das coberturas vacinais e doses aplicadas na Campanha de
+vacinação contra Inﬂuenza 2020 estão disponibilizados no site sipni.datasus.gov.br.
+Para o acesso aos relatórios, selecionar as opções: “Vacinação” -> “Relatórios” -> “Campanha Inﬂuenza”.
+Enfatiza-se a importância das Unidades Federadas e seus municípios envidarem esforços coletivos no
+sentido de garantir e respeitar a vacinação da população alvo da Campanha e em suas respectivas fases,
+para o alcance de elevadas e homogêneas coberturas vacinais por grupo prioritário.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 36
+/
+Tabela 13: Doses da vacina distribuídas até 22 de abril de 2020, por Unidade Federada. Brasil, 2020.
+N Unidade Federada Total de doses enviadas Público alvo Fase 1 Público alvo Fase 2
+1 Rondônia 335.600 151.797 114.661
+2 Acre 146.860 65.376 66.199
+3 Amazonas 848.060 302.462 326.838
+4 Roraima 83.200 39.051 85.469
+5 Pará 1.381.200 688.379 433.455
+6 Amapá 106.000 53.836 47.548
+7 Tocantins 250.020 154.953 108.546
+8 Maranhão 1.097.200 712.551 323.527
+9 Piauí 672.800 398.033 161.660
+10 Ceará 1.930.800 1.107.634 536.054
+11 Rio Grande do Norte 734.800 428.326 230.954
+12 Paraíba 781.600 550.470 232.471
+13 Pernambuco 2.036.000 1.148.115 599.052
+14 Alagoas 550.000 354.795 167.577
+15 Sergipe 370.060 236.307 112.535
+16 Bahia 3.101.600 1.798.999 863.124
+17 Minas Gerais 4.866.800 2.807.130 1.625.085
+18 Espírito Santo 859.200 470.321 299.723
+19 Rio de Janeiro 3.979.200 2.547.620 1.048.283
+20 São Paulo 10.847.200 6.198.471 3.983.520
+21 Paraná 2.568.000 1.429.478 962.533
+22 Santa Catarina 1.621.200 804.821 713.523
+23 Rio Grande do Sul 3.062.200 1.783.046 1.335.683
+24 Mato Grosso do Sul 578.000 303.953 260.216
+25 Mato Grosso 588.400 310.492 270.412
+26 Goiás 1.478.800 771.862 509.930
+27 Distrito Federal 580.800 305.635 233.647
+BRASIL 45.455.600 25.923.913 15.652.225
+Fontes: Sistema de Insumos Estratégicos em Saúde (SIES). Dados até 22 de abril de 2020. CGPNI/DEVIT/SVS/MS.
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 37
+/
+ANEXOS
+Anexo 1. Coeﬁcientes de incidência e mortalidade por COVID-19 por regiões de
+saúde da região Norte. Brasil, 2020.
+UF
+Código da
+CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por
+1 milhão de
+hab.
+AM 13001
+Manaus, Entorno e Alto
+Rio Negro 2929 260 2576049 1137,0 100,9
+AP 16001 Área Central 638 16 566463 1126,3 28,2
+AM 13002 Rio Negro e Solimões 323 21 297949 1084,1 70,5
+AM 13009 Alto Solimões 214 3 251867 849,7 11,9
+RR 14001 Centro Norte 386 4 515366 749,0 7,8
+AP 16003 Área Sudoeste 145 4 209337 692,7 19,1
+PA 15006 Metropolitana I 1373 70 2238680 613,3 31,3
+AM 13004 Médio Amazonas 97 7 172997 560,7 40,5
+AM 13005 Baixo Amazonas 133 9 250599 530,7 35,9
+AC 12002 Baixo Acre e Purus 274 11 576027 475,7 19,1
+AM 13007 Regional Juruá 65 2 137818 471,6 14,5
+RO 11004 Madeira-Mamoré 261 8 643452 405,6 12,4
+AM 13008 Triângulo 31 1 125121 247,8 8,0
+AM 13006 Regional Purus 32 0 132588 241,3 0,0
+PA 15007 Metropolitana II 84 2 367592 228,5 5,4
+RO 11001 Vale do Jamari 62 0 274136 226,2 0,0
+AP 16002 Área Norte 15 1 69931 214,5 14,3
+RR 14002 Sul 15 0 90395 165,9 0,0
+PA 15009 Rio Caetés 58 3 541251 107,2 5,5
+PA 15013 Marajó I 26 1 244027 106,5 4,1
+RO 11003 Central 35 2 343113 102,0 5,8
+PA 15008 Metropolitana III 94 3 939421 100,1 3,2
+PA 15003 Carajás 75 10 875232 85,7 11,4
+TO 17006 Capim Dourado 31 1 375033 82,7 2,7
+PA 15002 Baixo Amazonas 57 8 771715 73,9 10,4
+TO 17001 Médio Norte Araguaia 20 0 301862 66,3 0,0
+PA 15014 Marajó II 18 1 320172 56,2 3,1
+PA 15011 Tocantins 36 2 705089 51,1 2,8
+PA 15012 Xingu 17 0 350276 48,5 0,0
+AM 13003 Rio Madeira 9 1 199609 45,1 5,0
+PA 15010 Tapajós 9 0 221135 40,7 0,0
+PA 15004 Lago de Tucuruí 15 0 461593 32,5 0,0
+RO 11005 Zona da Mata 4 0 135877 29,4 0,0
+AC 12003 Juruá e Tarauacá/Envira 5 0 234479 21,3 0,0
+TO 17005 Ilha do Bananal 2 0 184257 10,9 0,0
+TO 17003 Sudeste 1 0 98597 10,1 0,0
+TO 17002 Bico do Papagaio 2 0 209796 9,5 0,0
+PA 15001 Araguaia 5 0 566682 8,8 0,0
+TO 17007 Cantão 1 1 130124 7,7 7,7
+RO 11006 Cone Sul 1 0 158113 6,3 0,0
+TO 17004
+Cerrado Tocantins
+Araguaia 1 0 161802 6,2 0,0
+RO 11002 Café 1 0 172081 5,8 0,0
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 38
+/
+Anexo 2. Coeﬁcientes de incidência e mortalidade por COVID-19 por regiões de
+saúde da região Nordeste. Brasil, 2020.
+UF
+Código
+da CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por 1
+milhão de hab.
+Mortalidade de
+COVID-19 por 1
+milhão de hab.
+CE 23001 1ª Região Fortaleza 4991 290 2841211 1756,6 102,1
+MA 21016 São Luís 1970 100 1454626 1354,3 68,7
+PE 26010 Recife 4512 359 4231485 1066,3 84,8
+BA 29009 Ilhéus 203 8 298681 679,7 26,8
+CE 23002 2ª Região Caucaia 267 11 622473 428,9 17,7
+BA 29020 Salvador 1409 44 3400621 414,3 12,9
+RN 24007
+7ª Região de Saúde -
+Metropolitana 557 13 1357366 410,4 9,6
+CE 23003 3ª Região Maracanaú 223 15 546089 408,4 27,5
+AL 27001 1ª Região de Saúde 505 23 1276125 395,7 18,0
+BA 29012 Itabuna 192 6 506504 379,1 11,8
+PB 25001 1ª Região Mata Atlântica 403 40 1312521 307,0 30,5
+RN 24002 2ª Região de Saúde - Mossoró 129 11 489496 263,5 22,5
+CE 23022 22ª Região Cascavel 83 5 331390 250,5 15,1
+RN 24008 8ª Região de Saúde - Açu 39 4 157885 247,0 25,3
+CE 23011 11ª Região Sobral 133 4 651498 204,1 6,1
+PI 22004 Entre Rios 240 8 1232854 194,7 6,5
+CE 23010 10ª Região Limoeiro do Norte 43 5 227481 189,0 22,0
+MA 21008 Imperatriz 91 4 518640 175,5 7,7
+PE 26005 Goiana 51 10 315057 161,9 31,7
+CE 23007 7ª Região Aracati 19 1 118788 159,9 8,4
+PE 26006 Limoeiro 85 15 600850 141,5 25,0
+CE 23014 14ª Região Tauá 16 0 115619 138,4 0,0
+CE 23008 8ª Região Quixadá 45 4 326639 137,8 12,2
+CE 23009 9ª Região Russas 27 2 201337 134,1 9,9
+MA 21013 Rosário 40 0 300897 132,9 0,0
+BA 29015 Jequié 63 2 489413 128,7 4,1
+BA 29018 Porto Seguro 49 1 381727 128,4 2,6
+PI 22006 Serra da Capivara 19 0 148434 128,0 0,0
+SE 28001 Aracaju 107 7 860938 124,3 8,1
+CE 23018 18ª Região Iguatú 40 6 323376 123,7 18,6
+CE 23004 4ª Região Baturité 16 1 140463 113,9 7,1
+CE 23006 6ª Região Itapipoca 32 4 300492 106,5 13,3
+RN 24001
+1ª Região de Saúde - São José
+de Mipibu 40 6 385562 103,7 15,6
+SE 28002 Estância 24 1 246282 97,4 4,1
+CE 23005 5ª Região Canindé 19 1 207578 91,5 4,8
+BA 29004 Camaçari 57 1 626537 91,0 1,6
+PE 26011 Salgueiro 13 1 147651 88,0 6,8
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 39
+/
+UF
+Código
+da CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por 1
+milhão de hab.
+Mortalidade de
+COVID-19 por 1
+milhão de hab.
+CE 23015 15ª Região Crateús 23 4 299786 76,7 13,3
+PE 26002 Arcoverde 32 5 425162 75,3 11,8
+PB 25016 16ª Região 40 3 550531 72,7 5,4
+PE 26008 Palmares 45 8 621417 72,4 12,9
+CE 23012 12ª Região Acaraú 16 1 231596 69,1 4,3
+BA 29006 Feira de Santana 79 1 1150832 68,6 0,9
+PI 22005 Planície Litorânea 19 4 280259 67,8 14,3
+AL 27003 3ª Região de Saúde 15 1 224096 66,9 4,5
+MA 21009 Itapecuru Mirim 24 2 384775 62,4 5,2
+PB 25010 10ª Região 7 1 117399 59,6 8,5
+PB 25006 6ª Região 14 3 237568 58,9 12,6
+PE 26012 Serra Talhada 14 0 239971 58,3 0,0
+RN 24006
+6ª Região de Saúde - Pau dos
+Ferros 14 4 251618 55,6 15,9
+PE 26003 Caruaru 76 8 1377071 55,2 5,8
+RN 24005
+5ª Região de Saúde - Santa
+Cruz 11 0 201256 54,7 0,0
+CE 23020 20ª Região Crato 19 2 349132 54,4 5,7
+RN 24003
+3ª Região de Saúde - João
+Câmara 19 3 352633 53,9 8,5
+MA 21017 Timon 13 0 250006 52,0 0,0
+BA 29027 Valença 16 1 312014 51,3 3,2
+AL 27008 8ª Região de Saúde 8 1 157011 51,0 6,4
+PB 25009 9ª Região 9 1 177393 50,7 5,6
+BA 29013 Itapetinga 12 2 247367 48,5 8,1
+PI 22003 Cocais 19 4 401648 47,3 10,0
+PI 22010 Vale do Sambito 5 0 106786 46,8 0,0
+CE 23021 21ª Região Juazeiro do Norte 20 0 429364 46,6 0,0
+BA 29028 Vitória da Conquista 29 1 640917 45,2 1,6
+PI 22011 Vale dos Rios Piauí e Itaueiras 9 1 208907 43,1 4,8
+MA 21005 Caxias 13 0 305941 42,5 0,0
+BA 29008 Ibotirama 8 0 195467 40,9 0,0
+MA 21002 Bacabal 11 2 269769 40,8 7,4
+CE 23017 17ª Região Icó 7 0 172994 40,5 0,0
+MA 21001 Açailândia 12 0 297408 40,3 0,0
+CE 23019 19ª Região Brejo Santo 8 0 216206 37,0 0,0
+PE 26001 Afogados da Ingazeira 7 4 190011 36,8 21,1
+PE 26009 Petrolina 18 0 504432 35,7 0,0
+BA 29016 Juazeiro 19 1 533013 35,6 1,9
+BA 29026 Teixeira de Freitas 16 0 452773 35,3 0,0
+PE 26004 Garanhuns 19 3 545039 34,9 5,5
+PE 26007 Ouricuri 12 1 355864 33,7 2,8
+PB 25013 13ª Região 2 0 60609 33,0 0,0
+CE 23016 16ª Região Camocim 5 0 157728 31,7 0,0
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 40
+/
+UF
+Código
+da CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por 1
+milhão de hab.
+Mortalidade de
+COVID-19 por 1
+milhão de hab.
+PI 22001 Carnaubais 5 0 163350 30,6 0,0
+AL 27002 2ª Região de Saúde 5 2 165430 30,2 12,1
+BA 29005 Cruz das Almas 8 0 265033 30,2 0,0
+BA 29003 Brumado 12 0 406014 29,6 0,0
+MA 21018 Viana 8 0 273027 29,3 0,0
+PB 25012 12ª Região 5 0 176022 28,4 0,0
+CE 23013 13ª Região Tianguá 9 2 320838 28,1 6,2
+MA 21019 Zé Doca 8 1 301090 26,6 3,3
+PB 25005 5ª Região 3 0 113432 26,4 0,0
+BA 29001 Alagoinhas 14 1 538747 26,0 1,9
+RN 24004 4ª Região de Saúde - Caicó 8 2 311037 25,7 6,4
+PI 22002 Chapada das Mangabeiras 5 0 197346 25,3 0,0
+SE 28007 Propriá 4 0 159399 25,1 0,0
+SE 28003 Itabaiana 6 0 252805 23,7 0,0
+SE 28006 Nossa Senhora do Socorro 8 0 345523 23,2 0,0
+SE 28005 Nossa Senhora da Glória 4 0 173135 23,1 0,0
+SE 28004 Lagarto 6 1 260614 23,0 3,8
+MA 21010 Pedreiras 5 1 218926 22,8 4,6
+PI 22009 Vale do Rio Guaribas 8 1 376792 21,2 2,7
+MA 21006 Chapadinha 8 0 378364 21,1 0,0
+AL 27004 4ª Região de Saúde 3 1 143826 20,9 7,0
+MA 21015 São João dos Patos 5 0 246109 20,3 0,0
+PB 25015 15ª Região 3 0 151072 19,9 0,0
+PB 25014 14ª Região 3 0 152330 19,7 0,0
+BA 29025 Serrinha 12 2 632552 19,0 3,2
+PI 22008 Vale do Canindé 2 0 108908 18,4 0,0
+PB 25008 8ª Região 2 1 118439 16,9 8,4
+BA 29023 Seabra 3 0 184730 16,2 0,0
+MA 21003 Balsas 4 0 250672 16,0 0,0
+PB 25003 3ª Região 3 0 197160 15,2 0,0
+AL 27006 6ª Região de Saúde 3 0 206303 14,5 0,0
+PB 25007 7ª Região 2 0 148646 13,5 0,0
+MA 21014 Santa Inês 5 0 394248 12,7 0,0
+AL 27005 5ª Região de Saúde 3 1 238700 12,6 4,2
+BA 29017 Paulo Afonso 3 0 252764 11,9 0,0
+AL 27007 7ª Região de Saúde 6 1 528520 11,4 1,9
+MA 21012 Presidente Dutra 3 0 290770 10,3 0,0
+PB 25002 2ª Região 3 0 306906 9,8 0,0
+BA 29019 Ribeira do Pombal 3 1 324181 9,3 3,1
+BA 29022 Santo Antônio de Jesus 4 0 459312 8,7 0,0
+BA 29011 Itaberaba 2 1 251369 8,0 4,0
+BA 29014 Jacobina 3 1 392323 7,6 2,5
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 41
+/
+UF
+Código
+da CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por 1
+milhão de hab.
+Mortalidade de
+COVID-19 por 1
+milhão de hab.
+BA 29010 Irecê 3 0 413611 7,3 0,0
+BA 29021 Santa Maria da Vitória 2 0 301737 6,6 0,0
+BA 29002 Barreiras 3 0 461047 6,5 0,0
+AL 27010 10ª Região de Saúde 1 0 160758 6,2 0,0
+MA 21011 Pinheiro 2 2 397484 5,0 5,0
+BA 29007 Guanambi 2 0 456064 4,4 0,0
+AL 27009 9ª Região de Saúde 1 0 236588 4,2 0,0
+BA 29024 Senhor do Bonﬁm 1 0 297714 3,4 0,0
+MA 21007 Codó 1 0 309057 3,2 0,0
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 42
+/
+Anexo 3. Coeﬁcientes de incidência e mortalidade por COVID-19 por regiões de
+saúde da região Sudeste. Brasil, 2020.
+UF
+Código da
+CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por
+1 milhão de
+hab.
+SP 35016 São Paulo 13513 1114 12252023 1102,9 90,9
+ES 32002 Metropolitana 1550 52 2248766 689,3 23,1
+SP 35014 Rota dos Bandeirantes 1118 92 1894506 590,1 48,6
+RJ 33005 Metropolitana I 5738 515 10497016 546,6 49,1
+SP 35015 Grande ABC 1333 79 2789871 477,8 28,3
+SP 35041 Baixada Santista 798 45 1865397 427,8 24,1
+SP 35012 Franco da Rocha 251 28 608783 412,3 46,0
+SP 35013 Mananciais 473 44 1157544 408,6 38,0
+SP 35011 Alto do Tietê 1003 93 3031955 330,8 30,7
+RJ 33004 Médio Paraíba 271 19 913698 296,6 20,8
+RJ 33006 Metropolitana II 608 62 2116506 287,3 29,3
+SP 35021 Central do DRS II 62 2 304821 203,4 6,6
+SP 35171 Alto Vale do Paraíba 216 7 1103668 195,7 6,3
+MG 31020
+Divinópolis Santo
+Antônio do Monte 93 1 479874 193,8 2,1
+RJ 33009 Serrana 185 14 972205 190,3 14,4
+RJ 33002 Baixada Litorânea 157 17 839958 186,9 20,2
+SP 35121 Vale do Ribeira 53 7 284509 186,3 24,6
+MG 31008
+Belo Horizonte Nova
+Lima Caeté 625 12 3411258 183,2 3,5
+SP 35031 Central do DRS III 58 4 322386 179,9 12,4
+MG 31037
+Juiz de Fora Lima Duarte
+Bom Jardim Minas 124 4 692696 179,0 5,8
+SP 35063 Polo Cuesta 56 6 316844 176,7 18,9
+SP 35062 Bauru 109 9 654154 166,6 13,8
+MG 31052
+Patrocínio Monte
+Carmelo 31 1 195323 158,7 5,1
+RJ 33003 Centro-Sul 53 4 340526 155,6 11,7
+SP 35173 Litoral Norte 52 4 336281 154,6 11,9
+SP 35071 Bragança 73 12 475660 153,5 25,2
+SP 35073 Jundiaí 120 19 815338 147,2 23,3
+MG 31057 Pouso Alegre 75 4 551828 135,9 7,2
+SP 35072
+Região Metropolitana de
+Campinas 408 26 3244142 125,8 8,0
+ES 32001 Central 82 2 661264 124,0 3,0
+MG 31072 Uberaba 51 3 419482 121,6 7,2
+SP 35155 São José do Rio Preto 88 8 732845 120,1 10,9
+SP 35132 Aquífero Guarani 111 9 934756 118,7 9,6
+MG 31073 Uberlândia Araguari 105 7 915255 114,7 7,6
+SP 35114 Extremo Oeste Paulista 11 6 99135 111,0 60,5
+ES 32004 Sul 73 1 678071 107,7 1,5
+SP 35141 Baixa Mogiana 34 4 331154 102,7 12,1
+SP 35113 Alto Capivari 6 1 59639 100,6 16,8
+SP 35163 Sorocaba 171 20 1741781 98,2 11,5
+SP 35131 Horizonte Verde 43 9 447537 96,1 20,1
+SP 35156 José Bonifácio 10 0 105601 94,7 0,0
+SP 35094 Ourinhos 23 1 244242 94,2 4,1
+SP 35061 Vale do Jurumirim 28 3 303868 92,1 9,9
+SP 35065 Lins 15 3 169960 88,3 17,7
+MG 31070 Três Pontas 11 1 125507 87,6 8,0
+SP 35051 Norte - Barretos 25 2 292653 85,4 6,8
+SP 35154 Fernandópolis 10 0 117293 85,3 0,0
+SP 35074 Circuito das Águas 11 1 136147 80,8 7,3
+MG 31047 Ouro Preto 15 1 186880 80,3 5,4
+MG 31017
+Coronel Fabriciano
+Timóteo 18 0 231628 77,7 0,0
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 43
+/
+UF
+Código da
+CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por
+1 milhão de
+hab.
+Mortalidade por
+COVID-19 por
+1 milhão de hab.
+SP 35103 Piracicaba 46 5 596232 77,2 8,4
+RJ 33001 Baia da Ilha Grande 22 3 291418 75,5 10,3
+SP 35104 Rio Claro 18 7 268075 67,1 26,1
+RJ 33008 Norte 62 10 945425 65,6 10,6
+SP 35157 Votuporanga 13 0 201493 64,5 0,0
+SP 35101 Araras 22 3 346589 63,5 8,7
+MG 31029 Itajubá 13 2 205172 63,4 9,7
+SP 35022 Lagos do DRS II 13 2 205427 63,3 9,7
+MG 31015 Contagem 54 2 876811 61,6 2,3
+MG 31075 Varginha 12 1 201309 59,6 5,0
+MG 31055 Poços de Caldas 14 1 235391 59,5 4,2
+SP 35142 Mantiqueira 17 0 286393 59,4 0,0
+MG 31062 Santos Dumont 3 1 50683 59,2 19,7
+MG 31028 Itabira 14 1 237098 59,0 4,2
+MG 31074 Unaí 16 0 274324 58,3 0,0
+SP 35023 Consórcios do DRS II 16 1 281008 56,9 3,6
+SP 35133 Vale das Cachoeiras 8 1 141389 56,6 7,1
+MG 31051 Patos de Minas 20 1 358092 55,9 2,8
+SP 35102 Limeira 21 1 375650 55,9 2,7
+MG 31012 Carangola 7 0 128704 54,4 0,0
+SP 35052 Sul - Barretos 8 0 148254 54,0 0,0
+SP 35064 Jaú 18 1 355931 50,6 2,8
+SP 35161 Itapetininga 25 2 510392 49,0 3,9
+MG 31027 Ipatinga 20 0 409191 48,9 0,0
+MG 31014
+Conselheiro Lafaiete
+Congonhas 15 0 311685 48,1 0,0
+SP 35151 Catanduva 15 3 320610 46,8 9,4
+ES 32003 Norte 20 1 430549 46,5 2,3
+MG 31046 Nanuque 3 1 68286 43,9 14,6
+MG 31038 Lavras 8 0 184586 43,3 0,0
+RJ 33007 Noroeste 15 1 348191 43,1 2,9
+SP 35082 Alta Anhanguera 7 0 164615 42,5 0,0
+MG 31064
+São João Nepomuceno
+Bicas 3 0 73081 41,1 0,0
+SP 35112 Alta Sorocabana 17 3 413476 41,1 7,3
+MG 31045 Muriaé 7 0 174538 40,1 0,0
+MG 31024 Governador Valadares 17 4 430602 39,5 9,3
+SP 35153 Jales 4 0 103857 38,5 0,0
+MG 31065 São Lourenço 10 0 263323 38,0 0,0
+MG 31026 Guaxupé 6 0 161465 37,2 0,0
+SP 35111 Alta Paulista 5 2 135956 36,8 14,7
+SP 35091 Adamantina 5 2 138431 36,1 14,4
+SP 35034 Coração do DRS III 14 3 399047 35,1 7,5
+MG 31002 Além Paraíba 2 0 57311 34,9 0,0
+SP 35092 Assis 8 1 247470 32,3 4,0
+SP 35174
+Vale do Paraíba/Região
+Serrana 20 1 626309 31,9 1,6
+MG 31066
+São Sebastião do
+Paraíso 4 2 125982 31,8 15,9
+MG 31063 São João del Rei 7 0 240651 29,1 0,0
+MG 31077 Viçosa 4 0 138336 28,9 0,0
+MG 31035 João Monlevade 4 0 139441 28,7 0,0
+SP 35093 Marília 11 1 390523 28,2 2,6
+SP 35143 Rio Pardo 6 1 217325 27,6 4,6
+MG 31004 Almenara 5 0 182493 27,4 0,0
+SP 35033 Norte do DRS III 4 0 157668 25,4 0,0
+MG 31003 Alfenas Machado 8 0 323323 24,7 0,0
+MG 31049 Pará de Minas 6 1 252399 23,8 4,0
+SP 35083 Alta Mogiana 3 0 125803 23,8 0,0
+SP 35095 Tupã 3 0 128466 23,4 0,0
+MG 31009 Betim 17 1 728243 23,3 1,4
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 44
+/
+UF
+Código da
+CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por
+1 milhão de
+hab.
+Mortalidade por
+COVID-19 por
+1 milhão de hab.
+MG 31069 Três Corações 3 0 133506 22,5 0,0
+MG 31039 Leopoldina Cataguases 4 1 183358 21,8 5,5
+SP 35162 Itapeva 6 0 281984 21,3 0,0
+MG 31006 Araxá 4 1 189071 21,2 5,3
+MG 31007 Barbacena 5 0 238637 21,0 0,0
+SP 35172
+Circuito da Fé e Vale
+Histórico 10 2 486352 20,6 4,1
+MG 31032 Ituiutaba 4 0 195383 20,5 0,0
+MG 31011
+Brasília de Minas São
+Francisco 5 2 247494 20,2 8,1
+MG 31010 Bom Despacho 2 0 107489 18,6 0,0
+MG 31076 Vespasiano 6 0 328997 18,2 0,0
+MG 31033 Janaúba Monte Azul 5 1 278394 18,0 3,6
+MG 31067 Sete Lagoas 8 0 449072 17,8 0,0
+MG 31018 Curvelo 3 1 185711 16,2 5,4
+MG 31031 Itaúna 2 0 124127 16,1 0,0
+MG 31071 Ubá 5 0 316719 15,8 0,0
+MG 31061
+Santo Antônio do
+Amparo Campo Belo 3 0 205178 14,6 0,0
+SP 35081 Três Colinas 6 0 427758 14,0 0,0
+MG 31050 Passos Piumhi 4 1 292892 13,7 3,4
+MG 31054 Pirapora 2 0 146991 13,6 0,0
+MG 31030 Itaobim 1 0 80828 12,4 0,0
+MG 31044 Montes Claros Bocaiúva 6 1 507957 11,8 2,0
+MG 31023 Frutal Iturama 2 0 181653 11,0 0,0
+MG 31068
+Teóﬁlo Otoni
+Malacacheta Itambacuri 3 1 325489 9,2 3,1
+MG 31025 Guanhães 1 0 115258 8,7 0,0
+MG 31041 Manhuaçu 3 0 345886 8,7 0,0
+MG 31021 Formiga 1 0 131631 7,6 0,0
+SP 35032 Centro Oeste do DRS III 1 0 146881 6,8 0,0
+MG 31013 Caratinga 1 0 203324 4,9 0,0
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 45
+/
+Anexo 4. Coeﬁcientes de incidência e mortalidade por COVID-19 por regiões de
+saúde da região Sul. Brasil, 2020.
+UF
+Código
+da CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por 1
+milhão de hab.
+RS 43017 Região 17 - Planalto 175 8 416446 420,2 19,2
+SC 42016 Laguna 119 6 368746 322,7 16,3
+SC 42010 Alto Uruguai Catarinense 44 0 143718 306,2 0,0
+SC 42005 Foz do Rio Itajaí 218 11 715485 304,7 15,4
+SC 42007 Grande Florianópolis 357 9 1209818 295,1 7,4
+RS 43029
+Região 29 - Vales e
+Montanhas 63 2 225922 278,9 8,9
+PR 41014 14ª RS Paranavaí 61 6 275974 221,0 21,7
+RS 43010
+Região 10 - Capital e Vale
+do Gravataí 483 13 2369210 203,9 5,5
+SC 42006 Médio Vale do Itajaí 152 2 795369 191,1 2,5
+SC 42015 Carbonífera 76 6 438166 173,5 13,7
+RS 43030 Região 30 - Vale da Luz 22 0 130228 168,9 0,0
+RS 43022 Região 22 - Pampa 30 0 188345 159,3 0,0
+PR 41010 10ª RS Cascavel 87 4 550709 158,0 7,3
+PR 41011 11ª RS Campo Mourão 49 8 328863 149,0 24,3
+PR 41002 2ª RS Metropolitana 530 18 3654960 145,0 4,9
+SC 42011 Nordeste 147 3 1040439 141,3 2,9
+RS 43004 Região 04 - Belas Praias 20 1 160805 124,4 6,2
+RS 43025
+Região 25 - Vinhedos e
+Basalto 39 1 317563 122,8 3,1
+PR 41009 9ª RS Foz do Iguaçu 48 1 404414 118,7 2,5
+SC 42014 Extremo Sul Catarinense 24 3 202376 118,6 14,8
+PR 41017 17ª RS Londrina 114 14 964251 118,2 14,5
+PR 41013 13ª RS Cianorte 18 2 160642 112,1 12,5
+RS 43019 Região 19 - Botucaraí 13 1 117302 110,8 8,5
+PR 41022 22ª RS Ivaiporã 13 3 128645 101,1 23,3
+PR 41015 15ª RS Maringá 78 6 838017 93,1 7,2
+RS 43007 Região 07 - Vale dos Sinos 75 4 829904 90,4 4,8
+SC 42008 Meio Oeste 16 0 192347 83,2 0,0
+PR 41016 16ª RS Apucarana 31 3 384198 80,7 7,8
+RS 43008
+Região 08 - Vale do Caí e
+Metropolitana 59 1 778841 75,8 1,3
+PR 41021 21ª RS Telêmaco Borba 14 0 188456 74,3 0,0
+RS 43023
+Região 23 - Caxias e
+Hortênsias 45 0 620945 72,5 0,0
+PR 41007 7ª RS Pato Branco 19 1 267234 71,1 3,7
+PR 41020 20ª RS Toledo 26 1 398323 65,3 2,5
+RS 43026 Região 26 - Uva Vale 11 0 189350 58,1 0,0
+PR 41001 1ª RS Paranaguá 16 2 297029 53,9 6,7
+RS 43001 Região 01 - Verdes Campos 23 0 436807 52,7 0,0
+SC 42013 Serra Catarinense 15 0 288162 52,1 0,0
+RS 43024
+Região 24 - Campos de
+Cima da Serra 5 1 99809 50,1 10,0
+RS 43018 Região 18 - Araucárias 6 0 133202 45,0 0,0
+SC 42003 Xanxerê 8 0 201088 39,8 0,0
+RS 43005 Região 05 - Bons Ventos 9 1 236258 38,1 4,2
+RS 43003 Região 03 - Fronteira Oeste 17 0 458083 37,1 0,0
+RS 43016
+Região 16 - Alto Uruguai
+Gaúcho 8 0 232942 34,3 0,0
+SC 42009 Alto Vale do Rio do Peixe 10 1 294895 33,9 3,4
+PR 41006 6ª RS União da Vitória 6 0 177311 33,8 0,0
+SC 42002 Oeste 12 0 364866 32,9 0,0
+RS 43009
+Região 09 -
+Carbonífera/Costa Doce 13 0 413183 31,5 0,0
+SC 42004 Alto Vale do Itajaí 9 1 297821 30,2 3,4
+RS 43028 Região 28 - Vinte e Oito 10 2 351490 28,5 5,7
+PR 41018 18ª RS Cornélio Procópio 6 1 222583 27,0 4,5
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 46
+/
+UF
+Código
+da CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrmados
+de COVID-19
+População
+estimada
+Incidência de
+COVID-19 por 1
+milhão de hab.
+Mortalidade
+por COVID-19
+por 1 milhão
+de hab.
+RS 43014
+Região 14 - Fronteira
+Noroeste 6 0 223910 26,8 0,0
+RS 43021 Região 21 - Sul 23 0 878951 26,2 0,0
+PR 41008 8ª RS Francisco Beltrão 9 0 358144 25,1 0,0
+PR 41019 19ª RS Jacarezinho 7 2 289020 24,2 6,9
+PR 41003 3ª RS Ponta Grossa 15 0 637293 23,5 0,0
+SC 42012 Planalto Norte 8 0 379079 21,1 0,0
+RS 43027 Região 27 - Jacuí Centro 4 1 203016 19,7 4,9
+RS 43020
+Região 20 - Rota da
+Produção 3 0 163205 18,4 0,0
+PR 41012 12ª RS Umuarama 4 0 276371 14,5 0,0
+PR 41005 5ª RS Guarapuava 5 0 456587 11,0 0,0
+SC 42001 Extremo Oeste 2 0 232413 8,6 0,0
+RS 43006
+Região 06 - Vale do
+Paranhana e Costa Serr 2 0 235000 8,5 0,0
+RS 43002 Região 02 - Entre Rios 1 0 123022 8,1 0,0
+RS 43013 Região 13 - Diversidade 1 0 229293 4,4 0,0
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 47
+/
+Anexo 5. Coeﬁcientes de incidência e mortalidade por COVID-19 por regiões de
+saúde da região Centro-Oeste. Brasil, 2020.
+UF
+Código
+da CIR
+Nome da CIR
+Casos
+conﬁrmados
+de COVID-19
+Óbitos
+conﬁrma
+dos de
+COVID-19
+População
+estimada
+Incidência de
+COVID-19 por 1
+milhão de hab.
+DF 53001 Brasília 1066 27 3015268 353,5 9,0
+GO 52001 Central 350 11 1910923 183,2 5,8
+GO 52018 São Patrício II 32 2 182595 175,3 11,0
+MS 50004 Três Lagoas 44 3 283628 155,1 10,6
+MT 51002 Baixada Cuiabana 140 1 1008820 138,8 1,0
+MS 50001 Campo Grande 151 2 1520047 99,3 1,3
+MT 51011 Oeste Matogrossense 19 2 198231 95,8 10,1
+GO 52013 São Patrício I 14 0 166102 84,3 0,0
+MT 51013 Sul Matogrossense 43 2 531245 80,9 3,8
+GO 52011 Pirineus 39 0 521757 74,7 0,0
+GO 52017 Sul 14 0 253654 55,2 0,0
+MT 51014 Teles Pires 23 2 433441 53,1 4,6
+MS 50002 Corumbá 7 0 134766 51,9 0,0
+GO 52010 Oeste II 5 1 115958 43,1 8,6
+GO 52016 Sudoeste II 10 0 232723 43,0 0,0
+GO 52002 Centro Sul 40 3 944218 42,4 3,2
+GO 52004 Entorno Sul 35 3 910035 38,5 3,3
+MS 50003 Dourados 32 2 840545 38,1 2,4
+GO 52015 Sudoeste I 17 1 466594 36,4 2,1
+MT 51005 Garças Araguaia 4 1 126381 31,7 7,9
+GO 52005 Estrada de Ferro 8 2 314184 25,5 6,4
+MT 51012 Sudoeste Matogrossense 3 0 119311 25,1 0,0
+MT 51007 Médio Norte Matogrossense 6 0 248714 24,1 0,0
+MT 51006 Médio Araguaia 2 0 98762 20,3 0,0
+GO 52003 Entorno Norte 5 1 269355 18,6 3,7
+MT 51001 Alto Tapajós 2 0 107911 18,5 0,0
+GO 52014 Serra da Mesa 2 0 129150 15,5 0,0
+MT 51008 Noroeste Matogrossense 2 1 165972 12,1 6,0
+MT 51003 Araguaia Xingu 1 0 90760 11,0 0,0
+GO 52012 Rio Vermelho 1 0 199298 5,0 0,0
+BOLETIM EPIDEMIOLÓGICO ESPECIAL - 14 | SE 18 - 26 de abril de 2020 48
+

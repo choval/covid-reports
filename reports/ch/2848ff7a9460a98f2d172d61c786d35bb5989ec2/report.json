@@ -1,0 +1,24 @@
+{
+    "filename": "covid-19-wochenbericht-sentinella.pdf",
+    "uri": "https:\/\/www.bag.admin.ch\/dam\/bag\/de\/dokumente\/mt\/k-und-i\/aktuelle-ausbrueche-pandemien\/2019-nCoV\/covid-19-wochenbericht-sentinella.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363844,
+    "headers": {
+        "http-status": 200,
+        "content-type": "application\/pdf",
+        "date": "Fri, 01 May 2020 20:10:44 GMT",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=300",
+        "content-disposition": "attachment;",
+        "set-cookie": "TS0142722c=019832244ba7bc189869187f919e972c5c2e847192b431b8324155b44883135994b01233ab47527f558fb1eafa55e226f4106573d7865fb827b7578126e64be359f3fb8f2f; Path=\/; Secure; HTTPOnly",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 2574113324d650faba7c1b899a948b40.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "BOS50-C2",
+        "x-amz-cf-id": "ALTkrbjmEYU6V2zCy5gPy8wUpmQ-8XIdObDTMEBDZmexhl1gPbqagw=="
+    },
+    "lang": "de",
+    "size": 201309,
+    "modified": 1588363846
+}

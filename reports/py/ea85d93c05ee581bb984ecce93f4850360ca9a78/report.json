@@ -1,0 +1,19 @@
+{
+    "filename": "93dfb4-InstructivoOBRAS01.05.20.pdf",
+    "uri": "https:\/\/www.mspbs.gov.py\/dependencias\/portal\/adjunto\/93dfb4-InstructivoOBRAS01.05.20.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588542972,
+    "headers": {
+        "http-status": 200,
+        "server": "nginx",
+        "date": "Sun, 03 May 2020 21:56:05 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "586793",
+        "last-modified": "Sun, 03 May 2020 14:56:54 GMT",
+        "etag": "\"8f429-5a4bfa00afb3a\"",
+        "accept-ranges": "bytes"
+    },
+    "lang": "es",
+    "size": 586793,
+    "modified": 1588517814
+}

@@ -1,0 +1,999 @@
+4 maggio 2020
+IMPATTO DELL’EPIDEMIA COVID-19
+SULLA MORTALITÀ TOTALE
+DELLA POPOLAZIONE RESIDENTE
+PRIMO TRIMESTRE 2020
+Questo Rapporto è prodotto congiuntamente dall’Istituto nazionale di statistica e dall’Istituto
+Superiore di Sanità (Iss). L’obiettivo è fornire una lettura integrata dei dati epidemiologici di
+diffusione dell’epidemia di Covid-19 e dei dati di mortalità totale acquisiti e validati da Istat. I
+principali risultati sono presentati a livello provinciale e per aggregazioni di province, sia per criteri
+di natura amministrativa (regioni, ripartizioni) sia sulla base del grado di diffusione dell’epidemia
+Covid-19 nelle province stesse, rispetto a tre classi individuate.
+I dati di mortalità totale commentati si riferiscono al primo trimestre consolidato 2020 e riguardano
+6.866 comuni (87 % dei 7.904 complessivi). Si tratta della prima volta che l’Istat diffonde questa
+informazione riferita a un numero così consistente di comuni. Ciò è stato possibile grazie
+all’integrazione della fonte anagrafica (ANPR e comuni) con i dati dell’Anagrafe tributaria1
+. L’ampia
+base dati, relativa all’86% della popolazione residente in Italia, consente di valutare gli effetti
+dell’impatto della diffusione di Covid-19 sulla mortalità totale per genere ed età nel periodo iniziale
+e di più rapida diffusione del contagio: marzo 2020.
+L’Istituto Superiore di Sanità ha il compito di coordinare la Sorveglianza Nazionale integrata Covid-
+19, attraverso l’ordinanza 640 della Presidenza del Consiglio dei Ministri – Dipartimento della
+Protezione Civile del 27/2/2020 (Ulteriori interventi urgenti di protezione civile in relazione
+all’emergenza relativa al rischio sanitario connesso all’insorgenza di patologie derivanti da agenti
+virali trasmissibili).
+La Sorveglianza raccoglie dati individuali dei soggetti positivi al Covid-19, in particolare le
+informazioni anagrafiche, i dati su domicilio e residenza, alcune informazioni di laboratorio e altre
+sul ricovero e stato clinico (indicatore sintetico di gravità della sintomatologia), sulla presenza di
+alcuni fattori di rischio (patologie croniche di base) e l’esito finale (guarito o deceduto). I dati,
+relativi a tutti i casi di Covid-19 diagnosticati microbiologicamente (tampone naso-faringeo positivo
+a SARS-Cov-2) dai laboratori di riferimento regionali, vengono raccolti dalle Regioni/Province
+Autonome attraverso una piattaforma web dedicata e aggiornati quotidianamente2
+. I dati
+commentati nel rapporto sono in continua fase di perfezionamento. Pertanto si è scelto di limitare il
+periodo di riferimento al primo trimestre del 2020 in modo che l’analisi dell’impatto dell’epidemia
+Covid-19 sulla mortalità totale della popolazione residente sia effettuata su dati il più possibile
+consolidati3
+.
+1 Per le informazioni sulla qualità e copertura dei dati di mortalità si veda la Nota Metodologica allegata al Report.
+2 Si precisa che i dati della Sorveglianza Nazionale integrata Covid-19 dell’ISS non sono perfettamente allineati con il flusso della Protezione Civile
+e del Ministero della Salute che riportano dati aggregati inviati giornalmente dalle regioni
+http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+3 Data di estrazione della base dati della Sorveglianza integrata 26 aprile 2020, data di estrazione ANPR 28 aprile 2020.
+2
+SINTESI DEI PRINCIPALI RISULTATI
+ Il primo caso italiano di Covid-19 viene segnalato in Lombardia il 20 febbraio 2020. L’intera
+epidemia è stata caratterizzata da una trasmissione locale, a parte i primi 3 casi importati dalla
+Cina a fine gennaio 2020. Per il contenimento dell’epidemia sono state prese misure preventive di
+sanità pubblica di “distanziamento sociale” inizialmente localizzate in alcune aree ristrette e via via
+estese a tutta l’Italia dall’11 marzo 2020 (lockdown).
+ La diffusione geografica dell’epidemia di Covid-19 si presenta eterogenea: è stata molto
+contenuta nelle Regioni del Sud e nelle Isole, mediamente più elevata in quelle del Centro rispetto
+al Mezzogiorno e molto elevata nelle regioni del Nord.
+ Nonostante il calo dei contagi dovuto alle misure di “distanziamento sociale” intraprese dai
+primi giorni di marzo, le curve nazionali dei casi diagnosticati e dei decessi hanno iniziato a
+decrescere solo negli ultimi giorni di marzo.
+ Il 52,7% dei casi (104.861) è di sesso femminile. L’età mediana è di 62 anni (range 0-100).
+Nelle fasce di età 0-9 anni, 60-69 e 70-79 anni si osserva un numero maggiore di casi di sesso
+maschile. Nella fascia di età >90 anni, il numero di soggetti di sesso femminile è più del triplo
+rispetto a quello di soggetti di sesso maschile probabilmente dovuto alla netta prevalenza di donne
+in questa fascia di età.
+ La letalità è più elevata in soggetti di sesso maschile in tutte le fasce di età, ad eccezione della
+fascia 0-19 anni. Nel 34,7% dei casi segnalati viene riportata almeno una co-morbidità (una tra:
+patologie cardiovascolari, patologie respiratorie, diabete, deficit immunitari, patologie metaboliche,
+patologie oncologiche, obesità, patologie renali o altre patologie croniche).
+ Dei 14.324 decessi registrati al 31 marzo in persone diagnosticate con Covid-19 ne sono stati
+considerati in questa analisi 13.710 (96% del totale), selezionati in base alla disponibilità del
+Comune di residenza nei dati della sorveglianza Integrata Covid-19 e alla presenza del Comune
+tra gli 6.866 selezionati dall’Istat.
+ Considerando il mese di marzo, si osserva a livello medio nazionale una crescita del 49,4%
+dei decessi per il complesso delle cause. Se si assume come riferimento il periodo che va dal
+primo decesso Covid-19 riportato al Sistema di Sorveglianza integrata (20 febbraio) fino al 31
+marzo, i decessi passano da 65.592 (media periodo 2015-2019) a 90.946, nel 2020. L’eccesso dei
+decessi è di 25.354 unità, di questi il 54% è costituito dai morti diagnosticati Covid-19 (13.710). A
+causa della forte concentrazione del fenomeno in alcune aree del Paese, i dati riferiti a livello
+medio nazionale “appiattiscono” la dimensione dell’impatto della epidemia di Covid-19 sulla
+mortalità totale.
+ Il 91% dell’eccesso di mortalità riscontrato a livello medio nazionale nel mese di marzo 2020 si
+concentra nelle aree ad alta diffusione dell’epidemia: 3.271 comuni, 37 province del Nord più
+Pesaro e Urbino. Nell’insieme di queste province, i decessi per il complesso delle cause sono più
+che raddoppiati rispetto alla media 2015-2019 del mese di marzo. Se si considera il periodo dal 20
+febbraio al 31 marzo, i decessi sono passati da 26.218 a 49.351 (+ 23.133 ); poco più della metà di
+questo aumento (52%) è costituita dai morti riportati al Sistema di Sorveglianza Integrata Covid-19
+(12.156). All’interno di questo raggruppamento le province più colpite dall’epidemia hanno pagato
+un prezzo altissimo in vite umane, con incrementi percentuali dei decessi nel mese di marzo 2020,
+rispetto al marzo 2015-2019, a tre cifre: Bergamo (568%), Cremona (391%), Lodi (371%), Brescia
+(291%), Piacenza (264%), Parma (208%), Lecco (174%), Pavia (133%), Mantova (122%), Pesaro
+e Urbino (120%).
+3
+ Nelle aree a media diffusione dell’epidemia (1.778 comuni, 35 province prevalentemente del
+Centro-Nord) l’incremento dei decessi per il complesso delle cause nel periodo 20 febbraio-31
+marzo è molto più contenuto, da 17.317 a 19.743 (2.426 in più rispetto alla media 2015-2019); il
+47% è attribuibile ai morti risultati positivi al Covid-19 (1.151). Infine, nelle aree a bassa diffusione
+(1.817 comuni, 34 province per lo più del Centro e del Mezzogiorno) i decessi del mese di marzo
+2020 sono mediamente inferiori dell’1,8% alla media del quinquennio precedente.
+ L’eccesso di mortalità più consistente si riscontra per gli uomini di 70-79 anni: i decessi
+aumentano di circa 2,3 volte tra il 20 febbraio e il 31 marzo; segue la classe di età 80-89 (quasi 2,2
+volte di aumento). L’incremento della mortalità nelle donne è invece più contenuto per tutte le
+classi di età. Raggiunge il 20% in più della media degli anni 2015-2019 alla fine di marzo, tanto per
+la classe di età 70-79 che per la 90 e più.
+ L’analisi combinata dei dati di mortalità giornaliera Istat con i dati della Sorveglianza integrata
+dell’Iss ha evidenziato che la mortalità “diretta” attribuibile a Covid-19 in individui con diagnosi
+confermata, nel primo trimestre 2020 è stata di circa 13.700 decessi.
+ Esiste una quota ulteriore di circa altri 11.600 decessi per la quale possiamo, con i dati oggi a
+disposizione, soltanto ipotizzare tre possibili cause: una ulteriore mortalità associata a Covid-19
+(decessi in cui non è stato eseguito il tampone), una mortalità indiretta correlata a Covid-19
+(decessi da disfunzioni di organi quali cuore o reni, probabili conseguenze della malattia scatenata
+dal virus in persone non testate, come accade per analogia con l’aumento della mortalità da cause
+cardiorespiratorie in corso di influenza) e, infine, una quota di mortalità indiretta non correlata al
+virus ma causata dalla crisi del sistema ospedaliero e dal timore di recarsi in ospedale nelle aree
+maggiormente affette.
+ Confrontando i decessi, totali e Covid-19, del 2020 con i decessi per causa del mese di marzo
+20174
+si nota che, fin dall’inizio di marzo, nelle aree ad alta diffusione dell’epidemia, il numero di
+morti di Covid-19 con diagnosi confermata è superiore a quello registrato nel 2017 per altre
+malattie come il diabete, le demenze e la malattia di Alzheimer. A metà dello stesso mese il
+numero di morti Covid-19 supera i decessi causati dall’insieme delle malattie respiratorie e dei
+tumori; in poco più di venti giorni i decessi quotidiani riportati alla Sorveglianza integrata Covid-19
+arrivano a sorpassare il numero giornaliero di morti per tutte le cause del mese di marzo 2017.
+L’analisi di tutte le cause di morte del 2020 consentirà di valutare quanto l’eccesso di mortalità
+osservata nel 2020 sia attribuibile anche ai decessi di persone non sottopposte al test ma
+certificate dai medici sulla base di una diagnosi clinica di Covid-19 (che al momento non sono
+conteggiate nella sorveglianza) e quanto agli effetti indiretti correlati o non all’epidemia.
+4 L’anno 2017 è l’ultimo disponibile per i dati ufficiali di mortalità per causa rilasciati da Istat
+4
+Le “Tre Italie” dell’epidemia Covid-19 evidenziate dalla Sorveglianza
+Integrata Covid-19
+In Italia dal 20 febbraio, data di inizio dell’epidemia, fino al 28 aprile 2020 sono stati segnalati al
+sistema di Sorveglianza Nazionale integrata, 199.740 casi positivi di Covid-19 diagnosticati dai
+laboratori di riferimento regionale, di cui 113.312 fino al 31 marzo 2020 (periodo di riferimento del
+presente Rapporto).
+La diffusione geografica dell’epidemia di Covid-19 è eterogenea. Nelle Regioni del Sud e nelle
+isole, la diffusione delle infezioni è stata molto contenuta, in quelle del Centro, è stata mediamente
+più elevata rispetto al Mezzogiorno mentre in quelle del Nord la circolazione del virus è stata molto
+elevata.
+Per valutare la diffusione all’interno delle Province ed eliminare l’eterogeneità dovuta alle diverse
+strutture per età delle corrispondenti popolazioni, sono stati calcolati i tassi standardizzati di
+incidenza cumulata 5
+al 31 marzo dei casi confermati positivi all’infezione; lo standard utilizzato è la
+Popolazione Italiana al Censimento 2011.
+La distribuzione di questi tassi è stata divisa in tre classi: la prima, definita a diffusione” bassa”,
+comprende le province con valori del tasso inferiore a 40 casi per 100mila residenti; la seconda,
+definita a diffusione “media”, comprende le province con valori del tasso tra i 40 e i 100 casi ogni
+100mila residenti; la terza classe , definita a diffusione “alta“, include le province con valori
+superiori ai 100 casi ogni 100mila residenti6
+.
+La Figura 1 mostra l’andamento del numero di casi di Covid-19 segnalati per data di
+prelievo/diagnosi (disponibile per 110.277 dei 113.312 casi) nelle aree a bassa, media e alta
+incidenza. La curva epidemica evidenzia un inizio anticipato dell’epidemia nelle aree ad alta
+incidenza che raggiungono il picco dei casi il 20 marzo 2020 per poi diminuire successivamente in
+modo costante
+Figura 1. Andamento giornaliero dei casi segnalati al Sistema di Sorveglianza
+Nazionale Covid-19. Primo trimestre 2020
+Fonte: Iss registro sorveglianza Covid-19
+5 Cfr. glossario
+6 Riccardo et al. Epidemiological characteristics of Covid-19 cases in Italy and estimates of the reproductive numbers one month into the epidemic.
+https://www.medrxiv.org/content/10.1101/2020.04.08.20056861v1.full.pdf; Bollettino Sorveglianza Integrata Covid-19, 30 Aprile 2020, Iss.
+https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-Covid-19_28-aprile-2020.pdf
+5
+Nelle aree a media e in quelle a bassa incidenza il numero dei casi inizia ad aumentare dalla metà
+di marzo raggiungendo il picco, rispettivamente, tra il 24 e il 25 marzo 2020. Per tali aree, dopo il
+raggiungimento del picco non si è assistito a una diminuzione costante, segno evidente che
+l’epidemia, anche se in maniera rallentata, è ancora corso. Va comunque sottolineato che la curva
+dei casi diagnosticati ha subito il rallentamento osservato soprattutto per le misure di “lockdown”
+intraprese prima in alcune aree del Nord e quindi su tutto il territorio nazionale dall’11 marzo.
+Il 52,7% dei casi (104.861) è di sesso femminile. L’età mediana è di 62 anni (range 0-100). Nelle
+fasce di età 0-9 anni, 60-69 e 70-79 anni si osserva un numero maggiore di casi tra gli uomini
+rispetto alle donne. Nella fascia di età >90 anni, le donne sono più del triplo degli uomini
+probabilmente a causa della netta prevalenza femminile in questa fascia di età.
+L’andamento dei decessi della sorveglianza integrata Covid-19
+La Sorveglianza Integrata, che ha iniziato a raccogliere i dati sui decessi a partire dal 20 febbraio,
+ha registrato fino al 31 marzo 14.324 decessi in persone notificate come positive al Covid-19; di
+questi, ne sono stati considerati in questa analisi 13.710 (96% del totale) identificati in base, sia
+alla disponibilità del Comune di residenza sia alla presenza del Comune tra i 6.866 selezionati
+dall’Istat (Figura 2). Si osserva che la curva dei decessi riflette sostanzialmente quella dei casi
+della Figura 1 ma risulta sostanzialmente ritardata di una-due settimane.
+La grande maggioranza dei decessi si registra nelle province definite a diffusione alta (89%),
+laddove è dell’8% nelle aree a diffusione media e del 3% in quelle a diffusione bassa. Il 32% dei
+decessi totali ha coinvolto il genere femminile, questa proporzione resta invariata all’interno della
+classe definita a diffusione alta mentre è leggermente più elevata nelle altre due classi (34% per
+diffusione media, 35% per quella bassa).
+Figura 2. Andamento giornaliero dei decessi segnalati al sistema di sorveglianza
+Nazionale Covid-19. Primo trimestre 2020.
+Fonte: Iss, Decessi della sorveglianza integrata Covid-19
+6
+La distribuzione per classi di età dei decessi Covid-19 è stata più volte mostrata nei Report ISS7
+.
+Al 31 marzo solo l’1% ha riguardato persone di età inferiore ai 50 anni, motivo per cui le valutazioni
+sul contributo che i decessi riportati alla Sorveglianza Integrata Covid-19 hanno avuto sull’eccesso
+di mortalità vengono successivamente fatte limitando le analisi ai decessi di soggetti almeno
+cinquantenni. Considerando la distribuzione per classi quinquennali di età la classe mediana di età
+al decesso è la 80-84 anni (75-79 per gli uomini e 80-84 per le donne).
+I decessi Covid-19 riportati alla sorveglianza integrata risultano essere pari al 15% dei totali
+registrati nel periodo che va dal 20 febbraio al 31 marzo; se si considerano le tre classi di
+diffusione essi sono circa il 25% del totale dei decessi nelle province a diffusione alta, il 6% di
+quelli nelle province a diffusione media e il 2% in quelle a diffusione bassa (Tabella 1).
+I dati ISTAT sui decessi: forte aumento a partire dalla fine di febbraio 2020
+Una delle conseguenze più drammatiche degli effetti della epidemia riguarda l’incremento
+complessivo dei decessi. D’altra parte il dato dei morti riportati alla Sorveglianza integrata Covid-19
+fornisce solo una misura parziale di questi effetti, essendo riferito ai soli casi di deceduti dopo una
+diagnosi microbiologica di positività al virus. Si tratta, pertanto, di un indicatore influenzato non solo
+dalle modalità di classificazione delle cause di morte, ma anche dalla presenza di un test di
+positività al virus.
+Una misura più universale dell’impatto dell’epidemia sulla mortalità della popolazione è data
+dall’eccesso dei decessi, per il complesso delle cause, risultanti dal confronto, a parità di periodo,
+del dato del 2020 con la media dei decessi del quinquennio precedente (2015-2019). In tal modo si
+assume implicitamente che la diffusione dell’epidemia produca un aumento dei decessi anche non
+direttamente riferibili alla sorveglianza Covid-19, ovvero al numero di casi positivi deceduti.
+Considerando il periodo 20 febbraio-31 marzo, si osserva a livello medio nazionale una crescita
+dei decessi per il complesso delle cause del 38,7%: da 65.592 a 90.946, rispetto allo stesso
+periodo della media del quinquennio 2015-2019 (Tabella 2). L’eccesso dei decessi è di 25.354
+unità, di questi il 54% è costituito dai morti diagnosticati segnalati alla sorveglianza Covid-19
+(13.710).
+Esiste una quota ulteriore di circa altri 11.600 decessi per i quali possiamo, con i dati oggi a
+disposizione, solo ipotizzare tre possibili cause: una ulteriore mortalità associata a Covid-19 (nei
+casi in cui non è stato eseguito il tampone), una mortalità indiretta correlata a Covid-19 (decessi da
+disfunzioni di organi quali cuore o reni possibile conseguenza della malattia scatenata dal virus in
+persone non testate come accade per analogia con l’aumento della mortalità da cause
+cardiorespiratorie in corso di influenza), ed infine una mortalità indiretta non correlata al virus ma
+causata dalla crisi del sistema ospedaliero nelle aree maggiormente affette.
+7 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-Covid-19_28-aprile-2020.pdf) .
+7
+Va tenuto presente che, a causa della forte concentrazione del fenomeno in alcune aree del
+Paese, i dati riferiti a livello medio nazionale appiattiscono la dimensione dell’impatto di Covid-19
+sulla mortalità totale.
+Lo studio dell’andamento della mortalità totale associato all’epidemia -Covid-19 non può
+prescindere dalla distribuzione dei casi per infezione da SARS-CoV-2, e dalla sua distribuzione
+differenziale sul territorio. La classificazione delle province in tre classi di diffusione dell’epidemia
+permette di assumere nei confronti di un fenomeno che è fortemente localizzato il punto di
+osservazione più adeguato a coglierne tutta la portata in termini di eccesso di mortalità
+direttamente o indirettamente associato all’epidemia.
+Il 91% dell’eccesso di mortalità riscontrato a livello medio nazionale si concentra nelle aree ad alta
+diffusione dell’epidemia: 3.271 comuni, 37 province del Nord più Pesaro e Urbino (Tabella 2).
+Nell’insieme di queste province i decessi per il complesso delle cause sono più che raddoppiati nel
+mese di marzo 2020 rispetto alla media riscontrata a marzo nel quinquennio 2015-2019.
+Considerando il periodo 20 febbraio-31 marzo 2020 i decessi sono passati da 26.218 a 49.351 (+
+23.133); poco più della metà di questo aumento (52%) è costituito dai morti positivi al Covid-19
+(12.156).
+Nelle aree a media diffusione dell’epidemia (1.778 comuni, 35 province prevalentemente del
+centro-nord) l’incremento dei decessi per il complesso delle cause è molto più contenuto: da
+17.317 a 19.743 (2.426 in più rispetto alla media 2015-2019); il 47% è attribuibile ai morti positivi al
+Covid-19 (1.151). Infine nelle aree a bassa diffusione (1.817 comuni, 34 province per lo più del
+Centro e del Mezzogiorno) i decessi del mese di marzo 2020 sono mediamente inferiori dell’1,8%
+rispetto alla media del quinquennio precedente.
+8
+Tabella 1. Decessi per il complesso delle cause e per Covid-19(a) nel primo
+trimestre 2020, confronto con la media per lo stesso periodo del 2015-2019, classe
+di diffusione dell’epidemia, regione, ripartizione e Italia.
+Considerando l’andamento dei decessi per il complesso delle cause nel primo bimestre del 2020,
+rispetto al 2015-2019, e quello nel mese di marzo 2020, si può constatare come in quest’ultimo
+mese ci sia una importante “rottura” delle tendenze alla diminuzione della mortalità ravvisabile a
+inizio 2020. Anche quando non si ha una netta inversione di tendenza, infatti, la diminuzione dei
+decessi a marzo 2020 è comunque molto più contenuta rispetto ai due mesi precedenti.
+A livello regionale è in Lombardia che si riscontra l’inversione più marcata: si passa da una
+diminuzione dei decessi del 7,5% nel biennio gennaio-febbraio 2020 - rispetto alla media nello
+stesso periodo 2015-2019 - ad un aumento del 185% nel mese di marzo, seguono l’Emilia –
+Romagna, con un aumento del 70%, il Trentino Alto-Adige (65%), e le Marche la Liguria e il
+Piemonte, con incrementi dell’ordine del 50% (Tabella 1).
+REGIONE
+% comuni
+diffusi
+%
+popolazione
+variazione %
+gennaio+febbraio
+2020/ media 2015-
+2019
+variazione %
+marzo 2020/
+media 2015-
+2019
+Decessi totali
+20 febbraio-31
+marzo 2020
+Decessi totali
+20 febbraio 31
+marzo media
+2015-2019
+Decessi covid
+20 febbraio 31
+marzo 2020
+Decessi covid
+/ decessi
+totali 20
+febbraio-31
+marzo 2020
+Piemonte 92,7 93,3 -10,9 47,0 7.859 5.747 1.018 13,0
+Valle d'Aosta 91,9 91,2 -9,4 60,1 231 160 70 30,3
+Lombardia 95,8 97,1 -7,5 186,5 27.279 11.195 8.362 30,7
+Trentino-Alto Adige 90,8 92,4 -1,8 65,2 1.613 1.053 281 17,4
+Veneto 87,0 87,2 -3,6 24,3 6.097 5.098 511 8,4
+Friuli-Venezia Giulia 88,4 73,4 -4,3 9,8 1.350 1.244 57 4,2
+Liguria 87,6 92,3 -14,1 50,3 3.234 2.364 368 11,4
+Emilia-Romagna 89,9 94,6 -6,8 70,1 8.739 5.631 1.890 21,6
+Toscana 83,9 89,1 -7,9 13,8 5.089 4.606 226 4,4
+Umbria 88,0 93,8 -9,2 7,0 1.220 1.173 37 3,0
+Marche 84,2 83,4 -5,1 53,3 2.465 1.736 328 13,3
+Lazio 73,3 80,9 -8,5 -8,1 5.211 5.605 158 3,0
+Abruzzo 85,6 85,2 -2,9 8,8 1.706 1.539 64 3,8
+Molise 81,6 73,5 -10,1 4,2 354 338 4 1,1
+Campania 78,0 79,3 -4,7 -1,9 5.117 5.168 79 1,5
+Puglia 81,3 85,0 -4,8 8,7 4.327 4.003 118 2,7
+Basilicata 83,2 75,0 -1,6 -7,2 583 588 5 0,9
+Calabria 80,0 77,0 -4,2 -1,0 1.918 1.902 18 0,9
+Sicilia 71,0 73,4 -5,4 -2,7 4.847 4.948 77 1,6
+Sardegna 86,7 75,6 1,1 13,7 1.707 1.495 39 2,3
+Nord 92,2 92,8 -7,6 94,9 56.402 32.491 12.557 22,3
+Centro 80,2 84,7 -7,9 9,1 13.985 13.120 749 5,4
+Mezzogiorno 80,2 78,7 -4,3 2,0 20.559 19.981 404 2,0
+ITALIA 86,9 86,4 -6,6 49,4 90.946 65.592 13.710 15,1
+Classe di diffusione
+Alta 92,8 93,8 -7,3 113,2 49.351 26.218 12.156 24,6
+Media 86,3 87,2 -6,9 18,0 19.743 17.317 1.151 5,8
+Bassa 78,3 78,5 -5,6 -1,8 21.852 22.057 403 1,8
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss registro sorveglianza Covid-19
+Note: (a) decessi della sorveglianza integrata Covid-19
+9
+A causa della forte concentrazione del fenomeno, anche la sintesi a livello regionale non dà conto
+dell’intensità drammaticamente elevata che questo ha assunto in alcune aree. A tale scopo un
+livello di dettaglio territoriale più efficace è senz’altro quello provinciale (Tabella 2). All’interno della
+classe di province ad alta diffusione dell’epidemia, le più colpite hanno pagato un prezzo altissimo
+in vite umane con incrementi percentuali dei decessi nel mese di marzo 2020, rispetto al 2015-
+2019, a tre cifre: Bergamo (568%), Cremona (391%), Lodi (370%), Brescia (290%), Piacenza
+(264%), Parma (208%), Lecco (174%), Pavia (133%), Mantova (122%), Pesaro e Urbino (120%).
+Relativamente all’eccesso di decessi per il complesso delle cause registrato tra il 20 febbraio 2020
+e il 31 marzo, rispetto allo stesso periodo del 2015-2019, i decessi della sorveglianza integrata
+Covid-19 sono una quota variabile. Tale proporzione è ad esempio circa il 46% in alcune delle
+province più colpite della Lombardia (Bergamo, Cremona, Lecco). Valori di questa quota superiori
+al 60% invece si registrano a Lodi, Mantova e Pavia mentre a Piacenza la quota è tra le più alte
+della classe di province ad alta diffusione dell’epidemia (68,6%).
+10
+Tabella 2. Decessi per il complesso delle cause e per Covid-19(a) nel primo
+trimestre 2020, confronto con la media per lo stesso periodo del 2015-2019, per
+provincia e classe di diffusione dell’epidemia. Province della classe alta diffusione
+Per una valutazione complessiva dell’impatto di Covid-19 sulla mortalità totale occorre continuare
+a monitorare l’evoluzione del fenomeno nelle prossime settimane/mesi. Molte delle province che
+sono nella classe a media diffusione (Tabella 3) sono state interessate dall’epidemia con alcune
+settimane di ritardo rispetto alle province della classe ad alta diffusione. Non è dunque sufficiente
+l’analisi dell’andamento dei decessi di marzo per cogliere il fenomeno dell’incremento in queste
+aree. Il consolidamento dei dati di mortalità e di sorveglianza dell’epidemia Covid-19 per il mese di
+aprile consentirà la costruzione di misure più accurate.
+PROVINCIA
+% comuni
+diffusi
+% popolazione variazione %
+gennaio+febbraio
+2020/ media 2015-
+2019
+variazione %
+marzo 2020/
+media 2015-
+2019
+Decessi totali
+20 febbraio-31
+marzo 2020
+Decessi totali
+20 febbraio 31
+marzo media
+2015-2019
+Decessi covid
+20 febbraio 31
+marzo 2020
+Decessi covid /
+decessi totali
+20 febbraio-31
+marzo 2020
+Alessandria 95,7 98,2 -12,8 91,0 1.199 693 222 18,5
+Ancona 76,6 84,3 -10,7 49,4 704 528 86 12,2
+Aosta 91,9 91,2 -9,4 60,1 231 160 70 30,3
+Asti 93,2 88,8 -13,9 38,5 382 299 38 9,9
+Belluno 83,6 63,9 -11,1 9,9 205 201 14 6,8
+Bergamo 97,5 98,4 -6,5 567,6 6.238 1.180 2.346 37,6
+Biella 97,3 96,5 -9,5 84,0 471 279 74 15,7
+Bologna 85,5 92,7 -8,4 20,0 1.525 1.289 183 12,0
+Bolzano/Bozen 93,1 93,9 2,1 65,3 767 499 125 16,3
+Brescia 98,0 98,9 -8,9 290,6 4.450 1.385 1.574 35,4
+Como 94,6 95,6 -5,8 64,2 1.008 668 174 17,3
+Cremona 99,1 99,8 -6,3 391,8 1.999 496 687 34,4
+Forlì-Cesena 93,3 98,9 -8,5 24,6 609 506 33 5,4
+Imperia 87,9 83,7 -15,0 70,6 453 296 61 13,5
+Lecco 96,4 97,8 -6,6 174,5 868 364 238 27,4
+Lodi 95,0 98,1 -3,3 370,6 1.056 264 509 48,2
+Lucca 84,8 92,1 -4,7 10,1 579 525 29 5,0
+Mantova 96,9 96,5 -8,4 122,1 1.021 530 317 31,0
+Massa-Carrara 82,4 93,0 -18,6 45,6 385 287 36 9,4
+Milano 96,2 98,1 -9,1 92,6 5.990 3.488 1.459 24,4
+Modena 95,7 97,8 -4,3 51,4 1.201 837 216 18,0
+Monza e della Brianza 94,5 97,0 -4,1 96,5 1.528 868 359 23,5
+Novara 90,8 92,5 -6,6 80,3 724 445 117 16,2
+Padova 84,3 86,7 0,9 15,8 1.085 954 84 7,7
+Parma 95,5 99,3 -7,8 208,4 1.549 599 468 30,2
+Pavia 94,1 97,0 -4,1 132,9 1.614 789 513 31,8
+Pesaro e Urbino 86,8 94,9 1,8 120,4 912 454 157 17,2
+Piacenza 91,3 95,5 -13,4 264,0 1.250 416 572 45,8
+Reggio nell'Emilia 88,1 93,7 -5,9 79,7 955 588 224 23,5
+Rimini 84,0 95,7 -1,9 68,2 577 368 134 23,2
+Sondrio 100,0 100,0 -3,8 74,3 380 240 87 22,9
+Torino 90,1 94,0 -10,1 29,7 3.469 2.803 403 11,6
+Trento 89,2 90,9 -5,2 65,1 846 554 156 18,4
+Treviso 88,3 90,9 -6,9 32,4 1.149 893 122 10,6
+Trieste 33,3 1,3 2,6 15,4 6 4 2 33,3
+Verbano-Cusio-Ossola 95,9 94,0 -13,8 44,4 304 228 55 18,1
+Vercelli 93,9 91,8 -14,8 90,8 426 259 54 12,7
+Verona 91,8 94,5 -0,7 30,6 1.236 981 158 12,8
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss registro sorveglianza Covid-19
+Note: (a) decessi della sorveglianza integrata Covid-19
+11
+Analoghe considerazioni possono valere nel caso di alcune delle province a bassa diffusione, che
+presentano incrementi della mortalità complessiva nel mese di marzo 2020 superiori al 5%, pur in
+presenza di un numero ancora contenuto di decessi diagnosticati Covid-19. È il caso di alcune
+province della Puglia, e in particolare quella del suo capoluogo (13,1%), così come di alcune
+province della Sicilia e della Sardegna (Tabella 4).
+Tabella 3. Decessi per il complesso delle cause e per Covid-19(a) nel primo
+trimestre 2020, confronto con la media per lo stesso periodo del 2015-2019, per
+provincia e classe di diffusione dell’epidemia. Province della classe media diffusione
+PROVINCIA
+% comuni
+diffusi
+%
+popolazione
+variazione %
+gennaio+febbraio
+2020/ media 2015-
+2019
+variazione %
+marzo 2020/
+media 2015-
+2019
+Decessi totali
+20 febbraio-31
+marzo 2020
+Decessi totali
+20 febbraio 31
+marzo media
+2015-2019
+Decessi covid
+20 febbraio 31
+marzo 2020
+Decessi covid
+/ decessi totali
+20 febbraio-31
+marzo 2020
+Arezzo 88,9 89,4 -0,1 2,5 444 432 7 1,6
+Ascoli Piceno 81,8 45,0 -7,1 -3,0 131 126 0 0,0
+Avellino 84,7 86,2 -1,5 1,8 510 483 13 2,5
+Cuneo 91,5 88,0 -11,7 26,8 884 740 55 6,2
+Enna 60,0 43,1 1,0 12,2 134 117 10 7,5
+Fermo 90,0 92,8 0,5 22,9 279 228 35 12,5
+Ferrara 90,5 95,8 -2,5 2,7 569 564 34 6,0
+Firenze 87,8 98,1 -11,0 6,0 1.364 1.326 48 3,5
+Foggia 80,3 88,6 -5,3 20,6 771 655 43 5,6
+Frosinone 73,6 70,3 -2,0 -1,5 479 466 10 2,1
+Genova 83,6 95,3 -14,8 51,9 1.820 1.329 195 10,7
+Gorizia 100,0 100,0 -2,0 -0,5 226 224 2 0,9
+Grosseto 89,3 94,1 -0,5 17,5 371 314 4 1,1
+La Spezia 93,8 99,1 -10,0 51,7 487 343 50 10,3
+Livorno 78,9 89,0 -6,1 20,2 505 453 19 3,8
+Macerata 85,5 89,1 -7,4 17,8 439 399 50 11,4
+Perugia 84,7 92,1 -11,3 6,9 855 812 23 2,7
+Pescara 91,3 96,7 -4,5 21,0 467 383 44 9,4
+Pisa 86,5 76,5 -10,8 25,8 487 404 24 4,9
+Pistoia 85,0 88,0 -6,5 28,8 444 352 42 9,5
+Pordenone 94,0 95,2 -6,7 11,4 406 359 17 4,2
+Prato 57,1 89,8 -13,8 1,9 253 265 12 4,7
+Ravenna 77,8 82,8 -7,8 14,0 504 463 26 5,2
+Rieti 80,8 52,7 -2,9 -16,5 108 126 1 0,9
+Rovigo 96,0 95,4 -6,3 22,9 404 353 2 0,5
+Sassari 92,4 94,4 -0,6 18,7 630 534 27 4,3
+Savona 88,4 84,4 -14,6 28,1 474 395 62 13,1
+Siena 74,3 63,5 -1,4 1,2 257 249 5 1,9
+Teramo 91,5 97,7 2,2 13,8 447 396 6 1,3
+Terni 93,9 98,9 -4,4 7,2 365 361 14 3,8
+Udine 86,6 85,5 -3,7 12,3 712 657 36 5,1
+Varese 87,0 87,9 -11,0 28,3 1.127 923 99 8,8
+Venezia 86,4 93,4 -4,8 19,9 1.191 1.027 72 6,0
+Vicenza 82,5 73,4 -4,1 27,9 827 687 59 7,1
+Viterbo 81,7 82,1 -5,1 -3,1 372 369 5 1,3
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss registro sorveglianza Covid-19
+Note: (a) decessi della sorveglianza integrata Covid-19
+12
+Tabella 4. Decessi per il complesso delle cause e per Covid-19(a) nel primo
+trimestre 2020, confronto con la media per lo stesso periodo del 2015-2019, per
+provincia e classe di diffusione dell’epidemia. Province della classe bassa diffusione
+L’eccesso di mortalità per età e genere
+L’eccesso di mortalità registrato a marzo del 2020 è ancora più accentuato negli uomini. Si tratta di
+un dato molto rilevante perché oltre a rivelare un fatto ormai noto attraverso i dati della
+Sorveglianza, mette in luce come la dimensione del fenomeno della super-mortalità maschile, in
+relazione all’epidemia Covid-19, sia ancora più ampia, estendendosi verosimilmente anche a
+cause che non sono direttamente riferibili al virus.
+Lo scostamento della mortalità dall’andamento precedente al periodo in cui è iniziata l’emergenza
+è ben evidenziato per grandi classi di età e genere dai grafici successivi (Figura 3). L’evoluzione
+giornaliera degli scostamenti dei decessi cumulati del 2020 dalla corrispondente media 2015-2019
+mostra chiaramente come la crescita dei decessi si sia innescata tra la fine di febbraio e i primi
+giorni di marzo. Durante il mese di marzo nelle aree più interessate dall’epidemia il numero di morti
+inizia rapidamente ad aumentare rispetto alla media 2015-2019 dello stesso periodo.
+PROVINCIA
+% comuni
+diffusi
+%
+popolazione
+variazione %
+gennaio+febbraio
+2020/ media 2015-
+2019
+variazione %
+marzo 2020/
+media 2015-
+2019
+Decessi totali
+20 febbraio-31
+marzo 2020
+Decessi totali
+20 febbraio 31
+marzo media
+2015-2019
+Decessi covid
+20 febbraio 31
+marzo 2020
+Decessi covid
+/ decessi totali
+20 febbraio-31
+marzo 2020
+Agrigento 67,4 67,9 -10,2 -8,0 404 437 5 1,2
+Bari 80,5 86,0 -6,4 13,1 1.286 1.171 37 2,9
+Barletta-Andria-Trani 70,0 59,8 -1,6 24,9 301 236 3 1,0
+Benevento 82,1 82,1 -1,1 -4,3 295 298 3 1,0
+Brindisi 95,0 98,4 -4,2 7,2 509 483 17 3,3
+Cagliari 82,4 45,6 7,8 6,0 186 174 1 0,5
+Caltanissetta 59,1 41,9 -11,4 8,3 175 170 3 1,7
+Campobasso 81,0 67,7 -10,2 5,4 231 221 3 1,3
+Caserta 73,1 68,7 -3,4 2,1 643 626 10 1,6
+Catania 53,4 62,7 -6,6 -1,8 839 850 28 3,3
+Catanzaro 76,3 81,6 -11,8 -5,0 356 362 2 0,6
+Chieti 87,5 76,5 1,8 3,6 487 445 13 2,7
+Cosenza 80,7 64,4 -2,5 1,0 586 581 3 0,5
+Crotone 81,5 87,5 -10,5 2,4 178 174 4 2,2
+Isernia 82,7 88,7 -10,0 2,0 123 117 1 0,8
+L'Aquila 78,7 71,4 -13,6 -5,4 305 316 1 0,3
+Latina 81,8 83,3 -8,5 -4,6 495 522 9 1,8
+Lecce 77,1 76,4 -5,4 0,2 794 783 12 1,5
+Matera 74,2 80,5 6,3 -11,3 198 204 1 0,5
+Messina 80,6 87,7 -6,3 2,6 840 832 18 2,1
+Napoli 70,7 81,4 -6,5 -0,9 2.615 2.648 45 1,7
+Nuoro 83,8 78,9 2,5 5,5 242 227 6 2,5
+Oristano 93,1 91,7 1,3 5,7 226 208 1 0,4
+Palermo 76,8 87,6 -2,2 -9,2 1.340 1.417 3 0,2
+Potenza 86,0 72,0 -5,3 -5,0 385 384 4 1,0
+Ragusa 75,0 54,7 -11,0 -4,7 232 232 2 0,9
+Reggio Calabria 80,4 82,6 -2,1 0,3 611 602 8 1,3
+Roma 62,0 82,7 -9,7 -9,4 3.757 4.122 133 3,5
+Salerno 78,5 79,0 -3,3 -7,7 1.054 1.114 8 0,8
+Siracusa 81,0 87,6 -5,9 0,6 452 445 7 1,5
+Sud Sardegna 79,4 76,9 -0,6 20,0 423 351 4 0,9
+Taranto 93,1 98,8 -2,4 -5,0 666 674 6 0,9
+Trapani 66,7 76,5 -2,1 0,9 431 449 1 0,2
+Vibo Valentia 82,0 91,5 5,7 -7,2 187 182 1 0,5
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+(a) decessi della sorveglianza integrata Covid-19
+13
+Figura 3. Decessi maschili cumulati a partire dal primo gennaio per classe di età. Per
+100 decessi della stessa classe di età in base alla media 2015-2019. Province con alto livello
+di diffusione Covid-19. Periodo: 20/02/2020-31/03/2020
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale
+L’eccesso di mortalità più consistente si riscontra per gli uomini di 70-79 anni, i decessi cumulati
+dal primo gennaio al trentuno marzo 2020 aumentano di circa 50 punti percentuali rispetto allo
+stesso periodo della media 2015-2019; segue la classe di età 80-89 (+ 44%). L’incremento della
+mortalità nelle donne è invece più contenuto per tutte le classi di età; raggiunge alla fine di marzo il
+20% in più della media degli anni 2015-2019, tanto per la classe di età 70-79 che per la 90 e più.
+Figura 3 (segue). Decessi femminili cumulati a partire dal primo gennaio per classe di
+età. Per 100 decessi della stessa classe di età in base alla media 2015-2019. Province con
+alto livello di diffusione Covid-19. Periodo: 20/02/2020-31/03/2020
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale
+14
+Passando dalle aree più colpite da Covid-19 a quelle in cui la diffusione è stata caratterizzata da
+minore intensità l’eccesso di mortalità si sposta in avanti nel tempo e si riduce.
+Le figure 4 e 5 si riferiscono, rispettivamente, alle classi di età in corrispondenza di province a
+media e bassa diffusione dell’epidemia. A causa dell’entità più contenuta del fenomeno, i decessi
+cumulati sono considerati per maschi e femmine nel complesso.
+Figura 4. Decessi cumulati a partire dal primo gennaio per classe di età. Per 100
+decessi della stessa classe di età della media 2015-2019. Province con medio livello di
+diffusione Covid-19. Periodo: 20/02/2020-31/03/2020
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale
+Nelle province a media diffusione dell’epidemia si è verificato uno scostamento, rispetto
+all’andamento pre-crisi, iniziato dopo la fine della seconda settimana; in particolare, si osserva un
+aumento dei decessi cumulati nelle età più anziane: per 90 anni e più al 31 marzo essi sono
+superiori di circa il 6% (in questa classe di età nel periodo 20 febbraio-31 marzo si registra un
+aumento dei decessi pari al 21% rispetto alla media 2015-2019). Per le province a bassa diffusione
+si osserva un eccesso di decessi, rispetto al 2015-2019, solo riferito alle età 90 e più (3% in più al
+31 marzo).
+15
+Figura 5. Decessi cumulati a partire dal primo gennaio per classe di età. Per 100
+decessi della stessa classe di età della media 2015-2019. Province con basso livello di
+diffusione Covid-19. Periodo: 20/02/2020-31/03/2020
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale
+Il contributo dei decessi Covid-19 all’eccesso di mortalità delle province ad
+alta diffusione
+È stato possibile fare una valutazione dell’eccesso di mortalità stimato dall’Istat in funzione dei
+decessi Covid-19 riportati dalla Sorveglianza integrata solo considerando il mese di marzo. Come
+si vede dalla Figura 2, è a partire dai primi di marzo che, infatti, si inizia a registrare un numero
+significativo di decessi.
+Nell’ambito delle province definite ad alta diffusione, e considerando i decessi avvenuti in un’età
+superiore o uguale ai 50 anni, se si confrontano gli andamenti giornalieri dei decessi Covid-19
+rispetto all’eccesso stimato, essi spiegano in media il 61,5 % dell’eccesso di mortalità negli uomini
+e il 42% nelle donne, con una proporzione che per i primi aumenta nel periodo di osservazione,
+mentre scende lievemente per le donne (Figura 6 e 7).
+16
+Figura 6. Andamento giornaliero nel mese di marzo dell'eccesso di mortalità
+maschile registrato nel 2020 rispetto alla media degli anni 2015-2019 e dei decessi
+Covid-19(a). Valori assoluti dei decessi. Province con alta diffusione Covid-19.
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+Figura 7. Andamento giornaliero nel mese di marzo dell'eccesso di mortalità
+femminile registrato nel 2020 rispetto alla media degli anni 2015-2019 e dei decessi
+Covid-19(a). Valori assoluti dei decessi. Province con alta diffusione Covid-19
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+17
+Passando a un dettaglio regionale, la Lombardia è la più colpita dall’epidemia in termini di casi ed
+è anche l’area dove l’epidemia è partita più precocemente; nella regione si è osservato il 61% dei
+decessi Covid-19 registrati in Italia al 31 marzo nella Sorveglianza Integrata, e il rapporto
+giornaliero percentuale tra decessi Covid-19/eccesso di mortalità è stato in media il 53% (Figura
+8).
+Figura 8. Andamento giornaliero nel mese di marzo dell'eccesso di mortalità totale
+registrato nel 2020 rispetto alla media degli anni 2015-2019 e dei decessi Covid-
+19(a). Valori assoluti dei decessi di persone in età 50 anni e più. Regione LOMBARDIA
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+Osservando invece l’andamento della regione Emilia-Romagna, anch’essa caratterizzata da alta
+diffusione dell’epidemia, la proporzione dei decessi Covid-19 sull’eccesso di mortalità giornaliera è
+fortemente variabile nel periodo, ma in media su un valore di 47% (Figura 9).
+18
+Figura 9. Andamento giornaliero nel mese di marzo dell'eccesso di mortalità totale
+registrato nel 2020 rispetto alla media degli anni 2015-2019 e dei decessi Covid-19(a)
+e loro rapporto %. Valori assoluti dei decessi di persone in età 50 anni e più. Regione
+EMILIA-ROMAGNA
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+L’eccesso di mortalità non si osserva uniformemente in tutte le province ad alta diffusione: la
+distribuzione giornaliera degli eccessi è infatti dipendente dai diversi periodi temporali di diffusione
+dell’epidemia all’interno delle varie regioni.
+Nella Provincia di Bergamo la proporzione dei decessi riportati alla sorveglianza Covid-19 sui
+decessi totali è pari al 37,6%. Il rapporto medio nel mese di marzo tra l’eccesso di mortalità totale e
+quella segnalata dalla sorveglianza Covid-19 è pari al 45%.
+19
+Figura 10. Andamento giornaliero nel mese di marzo dell'eccesso di mortalità
+registrato nel 2020 rispetto alla media degli anni 2015-2019 e dei decessi Covid-
+19(a). Valori assoluti dei decessi di persone in età 50 anni e più. Provincia di Bergamo
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+Nella Provincia di Piacenza il rapporto tra la distribuzione giornaliera degli eccessi e quella dei
+decessi Covid-19 è molto variabile, e tende ad aumentare al crescere dei giorni di osservazione.
+(Figura 11)
+Figura 11. Andamento giornaliero nel mese di marzo dell'eccesso di mortalità
+registrato nel 2020 rispetto alla media degli anni 2015-2019 e dei decessi Covid-
+19(a). Valori assoluti dei decessi di persone in età 50 anni e più. Provincia di Piacenza
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+20
+Rapporto decessi Covid-19/eccesso di mortalità nelle province ad alta
+diffusione: il contributo dell’età
+Scomponendo l’eccesso di mortalità per classi di età, si osserva come all’aumentare di
+quest’ultima il contributo del Covid-19 alla spiegazione dell’eccesso di mortalità decresca,
+passando dal 78,5% dell’eccesso nella classe 50-59 al 24% in quella 90 e più.
+Tale distribuzione non è però omogenea se si considerano distintamente i due generi.
+Considerando i decessi maschili, si passa dall’82,5% dell’eccesso nella classe 50-59 al 30,4 %
+nella classe 90 e più. Per quanto riguarda il genere femminile, la classe in cui il contributo dei
+decessi Covid-19 è più alto, pari al 89%, è quella 60-69 anni mentre si scende al 42% nella classe
+80-89 e al 20% in quella di 90 anni e oltre.
+Figura 12. Andamento giornaliero nel mese di marzo della quota di mortalità
+maschile 2020, in eccesso rispetto alla media 2015-2019, coperta dai decessi Covid-
+19(a). Valori assoluti per classe di età a partire dai 50 anni di età. Province con Alto
+livello di diffusione Covid-19.
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+21
+Figura 13. Andamento giornaliero nel mese di marzo della quota di mortalità
+femminile 2020 in eccesso rispetto alla media 2015-2019 coperta dai decessi Covid-
+19(a). Valori assoluti per classe di età a partire dai 50 anni di età. Province con alto
+livello di diffusione Covid-19.
+Note: (a) decessi della sorveglianza integrata Covid-19
+Fonte: Istat. Base dati integrata mortalità giornaliera comunale, Iss Sistema di sorveglianza integrata Covid-19
+Il Covid-19 e la mortalità per causa in periodo non epidemico
+L’ammontare totale dei decessi 2020 è il risultato dell’interazione di diverse componenti: la
+mortalità direttamente imputabile a Covid-19 e quella per altre cause non direttamente a esso
+correlata. Quest’ultima componente, a sua volta, è stata in parte modificata dagli effetti indiretti
+dell’epidemia. Infatti, mentre ci si aspetta che alcune cause possano aver continuato ad agire
+analogamente a quanto osservato negli ultimi anni, per altre si noteranno alcune importanti
+variazioni.
+I grafici riportano il confronto tra tutti i decessi con Covid-19, notificati ogni giorno nel mese di
+marzo 2020 dalla Sorveglianza, con l’andamento della mortalità giornaliera per le principali cause
+di morte nel mese di marzo 2017 e si può considerare rappresentativo della mortalità per causa in
+situazioni non perturbate da picchi epidemici. La distinzione per le 3 classi territoriali di diffusione
+dell’epidemia di Covid-19 consente di apprezzare il diverso peso del Covid-19 rispetto alle più
+comuni cause di morte.
+Nel marzo 2017, le cause principali di morte sono state le malattie del sistema circolatorio con il
+36% dei decessi totali, seguono i tumori con il 27%, le malattie del sistema respiratorio (9%), le
+demenze e l’Alzheimer (5%), le malattie dell’apparato digerente (4%) e il diabete (3%). Questa
+distribuzione è lievemente diversa solo per la macro area a bassa diffusione, prevalentemente
+costituita da province meridionali, dove la percentuale delle cause cardiocircolatorie è leggermente
+superiore (39%).
+22
+In altri termini, a marzo 2017 sono morte mediamente ogni giorno 1.523 persone, delle quali 555
+per malattie circolatorie, 413 per tumori, 132 per malattie respiratorie, 79 per demenze o Alzheimer
+e 53 per diabete. Va sottolineato che il picco di decessi giornalieri delle tre macro aree di Covid-19
+è stato raggiunto il 25 marzo 2020, con 837 casi, nello stesso giorno i decessi totali sono stati
+2.902.
+Nelle figure 14-16 si nota che la frequenza dei decessi totali del 2020, indipendentemente dalla
+classe di diffusione nei primi giorni di marzo è molto simile a quella dei decessi del 2017. In alcuni
+casi è stata anche lievemente minore, soprattutto nell’area a bassa diffusione.
+Con il proseguire del tempo e il diffondersi dell’epidemia aumentano i decessi di Covid-19 e si
+incrementa la mortalità totale. Già il 4 marzo 2020 nelle aree ad alta diffusione dell’epidemia, la
+mortalità di Covid-19 ha toccato le frequenze dei decessi osservati nel 2017 per le malattie del
+sistema respiratorio. Il 10 marzo i decessi Covid-19 raggiungono il numero complessivo
+dell’insieme delle malattie respiratorie e dei tumori. Solo sei giorni dopo, l’aumento dei decessi
+Covid-19 è stato tale da superare tutti i decessi delle due cause precedenti insieme a quelli del
+sistema circolatorio. In poco più di venti giorni i decessi quotidiani riportati dalla Sorveglianza
+integrata Covid-19 hanno superato l’ammontare della mortalità giornaliera per tutte le cause
+registrate nel 2017.
+Questa evoluzione è risultata traslata nel tempo e molto più attenuata nelle aree a media
+diffusione. In tale ambito le frequenze giornaliere dei decessi Covid-19 sono state le stesse di
+quelle della mortalità del sistema respiratorio a partire dal 17 marzo. Complessivamente i decessi
+Covid-19 nel mese di marzo in questa area (1.150 decessi) hanno superato il totale dei decessi
+per diabete, demenze e malattia di Alzheimer (1.008) nel 2017.
+Nelle aree a bassa diffusione, il Covid-19 non ha prodotto effetti importanti sulla struttura della
+mortalità per causa. Solo verso la fine di marzo si osserva un numero di morti con Covid-19 molto
+vicino a quello per diabete del marzo 2017, che tuttavia rappresentava il 5% della mortalità
+complessiva del periodo.
+Verosimilmente il Covid-19 ha agito sia anticipando il decesso in individui affetti da gravi patologie,
+sia incrementando la mortalità con i suoi effetti diretti e indiretti, particolarmente evidenti nelle aree
+a media e alta diffusione.
+Rispetto al marzo 2017, si è osservato un eccesso di mortalità nello stesso mese del 2020
+superiore al numero dei decessi attribuibili a Covid-19 in individui con diagnosi confermata.
+L’analisi di tutte le cause di morte del 2020 consentirà di valutare quanto l’eccesso di mortalità
+osservata sia attribuibile anche ai decessi di persone non sopposte al test ma certificate dai medici
+sulla base di una diagnosi clinica (che al momento non sono conteggiate nella Sorveglianza), e
+quanto agli effetti indiretti su specifiche cause di morte, soprattutto quelli che sono riconducibili alle
+difficoltà del sistema ospedaliero nel lavorare in condizioni di forte stress ma anche al minor ricorso
+alle prestazioni del servizio sanitario da parte dei cittadini per timore del contagio.
+23
+Figura 14. Confronto tra i decessi giornalieri per le principali cause iniziali di morte
+a marzo 2017 e i decessi con Covid-19 e per tutte le cause a marzo 2020. Area livello
+di diffusione Covid-19 Alto
+Fonte: Istat. Indagine su decessi e cause di morte, Istat Base dati integrata mortalità giornaliera comunale, Iss registro sorveglianza Covid-19
+24
+Figura 15. Confronto tra i decessi giornalieri per le principali cause iniziali di morte
+a marzo 2017 e i decessi con Covid-19 e per tutte le cause a marzo 2020. Area livello
+di diffusione Covid-19 Medio
+Fonte: Istat. Indagine su decessi e cause di morte, Istat Base dati integrata mortalità giornaliera comunale, Iss registro sorveglianza Covid-19
+Figura 16. Confronto tra i decessi giornalieri per le principali cause iniziali di morte
+a marzo 2017 e i decessi con Covid-19 e per tutte le cause a marzo 2020. Area livello
+di diffusione Covid-19 Basso
+Fonte: Istat. Indagine su decessi e cause di morte, Istat Base dati integrata mortalità giornaliera comunale, Iss registro sorveglianza Covid-19
+25
+Nota metodologica
+1. La nuova base dati di mortalità giornaliera della popolazione residente
+L’Istat, grazie alle sinergie attivate con il Ministero dell’Interno per l’acquisizione tempestiva dei dati
+ANPR (Anagrafe Nazionale della Popolazione Residente) e al Ministero dell’economia e delle
+finanze per l’acquisizione del flusso dei deceduti tramite l’Anagrafe Tributaria, è in grado di
+contribuire alla diffusione di informazioni utili alla comprensione della situazione legata
+all’emergenza sanitaria da COVID-19. L’utilizzo a fini statistici, e il relativo trattamento delle
+informazioni permette all’Istituto Nazionale di Statistica di diffondere i dati relativi alla mortalità
+generale di 6.866 comuni italiani, che a oggi ammontano a 7.904, l’87% del totale. La percentuale
+di popolazione che questi comuni rappresentano è dell’86%.
+In una situazione di normalità il dettaglio di informazioni che l’Istituto rilascia (serie giornaliera dei
+decessi per sesso e classe di età) necessita del completamento di un processo di acquisizione e
+validazione dei microdati delle cancellazioni dall’anagrafe per decesso che comporta una
+diffusione a circa 10 mesi di ritardo rispetto al 31/12 di ogni anno di riferimento (ad ottobre
+dell’anno t vengono diffusi i dati validati dell’anno t-1). In virtù della situazione emergenziale, l’Istat
+si è impegnato a garantire la diffusione di queste informazioni con una tempistica molto serrata,
+con l’accortezza però che i dati vanno considerati provvisori e soggetti a variazione con i prossimi
+aggiornamenti. A differenza delle statistiche relative al bilancio della popolazione residente, che
+l’Istat aggiorna periodicamente, la data di decesso si riferisce alla data di evento e non a quella di
+cancellazione anagrafica.
+La validazione dei dati dei decessi dei 7.904 comuni italiani si basa sull’ammontare dei primi tre
+mesi dell’anno 2020, confrontato con i dati dello stesso periodo media 2015/2019. Sono stati
+utilizzate le variazioni assolute e percentuali di periodo, dei singoli mesi e l’informazione di
+presenza di morti Covid-19 (fonte ISS). Alla luce di queste analisi l’Istat ha valutato di non
+diffondere i dati per 1.038 comuni per i quali il decremento registrato nel 2020 è probabilmente da
+attribuire ad un non completo o non tempestivo flusso delle notifiche dei dati da parte del Comune
+al sistema ANPR o all’Istat (per i comuni non subentrati in ANPR).
+I comuni per cui si rilasciano i dati anticipatori non costituiscono un campione statistico
+dell’universo dei comuni italiani, ma un loro sottoinsieme più o meno rappresentativo, la cui
+copertura di popolazione a livello provinciale varia da un massimo del 100% per le province di
+Gorizia e Sondrio, a un minimo dell’1,3% per la provincia di Trieste; a livello regionale la copertura
+di popolazione varia dal 97,1% per la Lombardia al 73,4% per Friuli-Venezia Giulia e Sicilia. A
+livello media nazionale la copertura è dell’86,4% in termini di popolazione (cfr. tabella A1.)
+26
+Tabella A1. Copertura provinciale per comune e popolazione residente dei 6.866
+comuni diffusi dall’Istat.
+percentuale
+comuni
+percentuale
+popolazione
+residente
+percentuale
+comuni
+percentuale
+popolazione
+residente
+Agrigento 67.4 67.9 Messina 80.6 87.7
+Alessandria 95.7 98.2 Milano 96.2 98.1
+Ancona 76.6 84.3 Modena 95.7 97.8
+Aosta 91.9 91.2 Monza e della Brianza 94.5 97.0
+Arezzo 88.9 89.4 Napoli 70.7 81.4
+Ascoli Piceno 81.8 45.0 Novara 90.8 92.5
+Asti 93.2 88.8 Nuoro 83.8 78.9
+Avellino 84.7 86.2 Oristano 93.1 91.7
+Bari 80.5 86.0 Padova 84.3 86.7
+Barletta-Andria-Trani 70.0 59.8 Palermo 76.8 87.6
+Belluno 83.6 63.9 Parma 95.5 99.3
+Benevento 82.1 82.1 Pavia 94.1 97.0
+Bergamo 97.5 98.4 Perugia 84.7 92.1
+Biella 97.3 96.5 Pesaro e Urbino 86.8 94.9
+Bologna 85.5 92.7 Pescara 91.3 96.7
+Bolzano/Bozen 93.1 93.9 Piacenza 91.3 95.5
+Brescia 98.0 98.9 Pisa 86.5 76.5
+Brindisi 95.0 98.4 Pistoia 85.0 88.0
+Cagliari 82.4 45.6 Pordenone 94.0 95.2
+Caltanissetta 59.1 41.9 Potenza 86.0 72.0
+Campobasso 81.0 67.7 Prato 57.1 89.8
+Caserta 73.1 68.7 Ragusa 75.0 54.7
+Catania 53.4 62.7 Ravenna 77.8 82.8
+Catanzaro 76.3 81.6 Reggio Calabria 80.4 82.6
+Chieti 87.5 76.5 Reggio nell'Emilia 88.1 93.7
+Como 94.6 95.6 Rieti 80.8 52.7
+Cosenza 80.7 64.4 Rimini 84.0 95.7
+Cremona 99.1 99.8 Roma 62.0 82.7
+Crotone 81.5 87.5 Rovigo 96.0 95.4
+Cuneo 91.5 88.0 Salerno 78.5 79.0
+Enna 60.0 43.1 Sassari 92.4 94.4
+Fermo 90.0 92.8 Savona 88.4 84.4
+Ferrara 90.5 95.8 Siena 74.3 63.5
+Firenze 87.8 98.1 Siracusa 81.0 87.6
+Foggia 80.3 88.6 Sondrio 100.0 100.0
+Forlì-Cesena 93.3 98.9 Sud Sardegna 79.4 76.9
+Frosinone 73.6 70.3 Taranto 93.1 98.8
+Genova 83.6 95.3 Teramo 91.5 97.7
+Gorizia 100.0 100.0 Terni 93.9 98.9
+Grosseto 89.3 94.1 Torino 90.1 94.0
+Imperia 87.9 83.7 Trapani 66.7 76.5
+Isernia 82.7 88.7 Trento 89.2 90.9
+La Spezia 93.8 99.1 Treviso 88.3 90.9
+L'Aquila 78.7 71.4 Trieste 33.3 1.3
+Latina 81.8 83.3 Udine 86.6 85.5
+Lecce 77.1 76.4 Varese 87.0 87.9
+Lecco 96.4 97.8 Venezia 86.4 93.4
+Livorno 78.9 89.0 Verbano-Cusio-Ossola 95.9 94.0
+Lodi 95.0 98.1 Vercelli 93.9 91.8
+Lucca 84.8 92.1 Verona 91.8 94.5
+Macerata 85.5 89.1 Vibo Valentia 82.0 91.5
+Mantova 96.9 96.5 Vicenza 82.5 73.4
+Massa-Carrara 82.4 93.0 Viterbo 81.7 82.1
+Matera 74.2 80.5 ITALIA 86.9 86.4
+Provincia Provincia
+27
+Tabella A2. Copertura regionale e ripartizionale per comune e popolazione
+residente dei 6.866 comuni diffusi dall’Istat.
+2. I dati di sui casi e sui decessi del sistema di sorveglianza
+Con l’ordinanza del n. 640 del 27 febbraio 2020, l’Istituto Superiore di Sanità (ISS), dal 28 febbraio,
+coordina un sistema di sorveglianza che integra a livello individuale i dati microbiologici ed
+epidemiologici forniti dalle Regioni e Provincie Autonome (PA) e dal Laboratorio nazionale di
+riferimento per SARS-CoV-2 dell’ISS. I dati vengono raccolti attraverso una piattaforma web
+dedicata e riguardano tutti i casi di COVID-19 diagnosticati dai laboratori di riferimento regionali. I
+dati vengono aggiornati giornalmente da ciascuna Regione anche se alcune informazioni possono
+richiedere qualche giorno per il loro inserimento. Per questo motivo, potrebbe non esserci una
+completa concordanza con quanto riportato attraverso il flusso informativo della Protezione Civile e
+del Ministero della Salute che riportano dati aggregati. La sorveglianza raccoglie dati individuali dei
+soggetti positivi al Covid-19 e in particolare le informazioni anagrafiche, i dati sul domicilio e sulla
+residenza, alcune informazioni di laboratorio, informazioni sul ricovero e sullo stato clinico
+(indicatore sintetico di gravità della sintomatologia), la presenza di alcuni fattori di rischio (patologie
+croniche di base), e l’esito finale (guarito o deceduto).
+Un’infografica dedicata riporta - con grafici, mappe e tabelle - una descrizione della diffusione nel
+tempo e nello spazio dell’epidemia di COVID-19 in Italia e una descrizione delle caratteristiche
+delle persone affette. Una volta a settimana viene pubblicato anche un bollettino che, in maniera
+più estesa, approfondisce le informazioni raccolte. Tali documenti possono essere scaricati dal sito
+Epicentro dell’ISS. Gli ultimi disponibili sono il report settimanale del 30 aprile 2020:
+https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_28-
+aprile-2020.pdf
+e l’infografica del 1 maggio 2020:
+https://www.epicentro.iss.it/coronavirus/bollettino/Infografica_1maggio%20ITA.pdf
+Per quest’ultima è disponibile anche una versione in lingua inglese:
+https://www.epicentro.iss.it/en/coronavirus/bollettino/Infografica_1maggio%20ENG.pdf
+percentuale
+comuni
+percentuale
+popolazione
+residente
+percentuale
+comuni
+percentuale
+popolazione
+residente
+Piemonte 92.7 93.3 Abruzzo 85.6 85.2
+Valle d'Aosta 91.9 91.2 Molise 81.6 73.5
+Lombardia 95.8 97.1 Campania 78.0 79.3
+Trentino-Alto Adige 90.8 92.4 Puglia 81.3 85.0
+Veneto 87.0 87.2 Basilicata 83.2 75.0
+Friuli-Venezia Giulia 88.4 73.4 Calabria 80.0 77.0
+Liguria 87.6 92.3 Sicilia 71.0 73.4
+Emilia-Romagna 89.9 94.6 Sardegna 86.7 75.6
+Toscana 83.9 89.1 Nord 92.2 92.8
+Umbria 88.0 93.8 Centro 80.2 84.7
+Marche 84.2 83.4 Mezzogiorno 80.2 78.7
+Lazio 73.3 80.9 ITALIA 86.9 86.4
+Regione/Ripartizione Regione/Ripartizione
+28
+3. I dati sulle cause di morte
+I dati sulla mortalità per causa del 2017 provengono dall’indagine annuale sulle cause di morte che
+rappresenta la principale fonte esaustiva delle informazioni epidemiologiche del paese. L’indagine
+ha una copertura totale e il suo campo di osservazione è costituito dall’insieme di tutti i decessi che
+si verificano sul territorio nazionale (popolazione presente) in un anno di calendario. Le
+informazioni mediche contenute nei singoli certificati di morte vengono codificate in base alla ICD-
+10 (International Statistical Classification of Diseases, Injuries and Causes of Death, X Revision)
+dell'Organizzazione mondiale della sanità (Oms). In linea con quanto previsto dalla normativa
+comunitaria, i dati vengono validati e diffusi entro 24 mesi dall’anno di riferimento
+(https://www.istat.it/it/archivio/4216). A dicembre 2019 sono stati rilasciati gli ultimi dati definitivi
+relativi all’anno 2017.Nel report sono stati selezionati i decessi, avvenuti nel mese di marzo 2017,
+dei residenti nei 6.866 comuni per i quali si dispone dei dati del 2020.
+29
+GLOSSARIO
+Anagrafe della popolazione: il sistema continuo di registrazione della popolazione residente.
+Viene continuamente aggiornata tramite iscrizioni per nascita da genitori residenti nel Comune,
+cancellazioni per morte di residenti e iscrizioni/cancellazioni per trasferimento di residenza da/per
+altro Comune o da/per l'Estero.
+ANPR: Anagrafe Nazionale della Popolazione Residente (ANPR). È la banca dati nazionale nella
+quale confluiscono progressivamente tutte le anagrafi comunali.
+È stata istituita presso il Ministero dell’Interno ai sensi dell’articolo 62 del Dlgs n. 82/2005 (Codice
+dell’Amministrazione Digitale).
+Caso positivo Covid-19: per Covid-19 (sintesi dei termini CO-rona VI-rus D-isease e dell'anno
+d'identificazione, 2019) l'Organizzazione Mondiale della Sanità (OMS) intende la malattia
+respiratoria causata dal nuovo coronavirus SARS-Cov-2. La definizione di caso confermato
+positivo Covid-19 secondo la Sorveglianza Integrata Covid-19 è basata su una definizione di caso
+definita attraverso circolari ministeriali tenendo conto delle evidenze scientifiche e delle indicazioni
+degli organismi internazionali quali OMS e ECDC. L’attuale definizione è di tipo microbiologico:
+risultato positivo con test di conferma effettuato dal/i laboratorio/i di riferimento Regionale/i
+effettuato su tampone naso-faringeo
+(https://www.fnopi.it/wp-content/uploads/2020/03/Circolare_9_marzo_2020.pdf)
+Causa di morte: si intende la causa “iniziale” di morte, ovvero la condizione morbosa direttamente
+responsabile del decesso. È definita e individuata tra tutte le malattie certificate dal medico sulla
+scheda di morte, in base a stringenti regole dettate dall’Organizzazione Mondiale della Sanità
+(riportate nella Classificazione Internazionale delle Malattie Icd-10) ed è l’indicatore più utilizzato e
+consolidato per le statistiche ufficiali e i confronti a livello nazionale e internazionale.
+Classificazione internazionale delle malattie (Icd): International Classification of Diseases and
+Related Health Problems, è il sistema di classificazione delle malattie, stilato dall’Organizzazione
+Mondiale della Sanità. Con questo standard internazionale vengono classificate le informazioni
+sanitarie della rilevazione Istat sui decessi e le cause di morte.
+(https://icd.who.int/browse10/2019/en#/)
+Codici ICD-10 delle principali cause di morte analizzate: Malattie del sistema respiratorio J00-
+J99; Tumori C00-D48; Malattie del sistema circolatorio I00-I99; Malattie dell’apparato digerente
+K00-K93; Diabete E10-E14; Demenza e malattia di Alzheimer F01-F03,G30.
+Co-morbidità: si intende la pre-esistenza di condizioni croniche al momento della diagnosi; queste
+includono: patologie cardiovascolari, patologie respiratorie, diabete, deficit immunitari, patologie
+metaboliche, patologie oncologiche, obesità, patologie renali o altre patologie croniche.
+Copertura (Tasso di) dei comuni: rapporto tra il numero dei comuni considerati e il numero di
+tutti i comuni italiani.
+Copertura (Tasso di) della popolazione: rapporto tra la somma della popolazione residente nei
+comuni considerati e la popolazione residente totale.
+Decesso: la cessazione di ogni segno di vita in un qualsiasi momento successivo alla nascita
+vitale. Per mortalità totale (decessi totali) o complessiva si intende il conteggio dei decessi avvenuti
+per qualunque causa di morte senza distinzione di una causa specifica.
+30
+Decesso Covid-19: l’Organizzazione Mondiale della Sanità definisce un decesso da COVID-19
+come segue: un decesso COVID-19 è definito per scopi di sorveglianza come una morte risultante
+da un quadro clinico patologico con un caso probabile o confermato (microbiologicamente) di
+Covid-19, a meno che ci sia una chiara causa alternativa di morte non riconducibile alla malattia
+associata a COVID disease (per esempio un trauma).
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200411-sitrep-82-covid-
+19.pdf?sfvrsn=74a5d15_2
+Cancellazione dall’anagrafe per decesso: la rilevazione sui cancellati dall’anagrafe per decesso
+raccoglie le principali caratteristiche individuali dei deceduti con le quali successivamente derivare
+le principali misure di sopravvivenza della popolazione residente. Le informazioni riguardanti le
+persone decedute sono quelle in possesso dell'Anagrafe del comune
+Eccesso di mortalità: differenza tra i decessi totali nel periodo 20/2/2020-31/3/2020 e la media
+dei decessi totali del quinquennio 2015-2019 nello stesso periodo.
+Età mediana: età che divide una popolazione in due gruppi numericamente uguali; l'uno avente la
+popolazione di età inferiore a quella individuata, l'altro superiore.
+Incidenza: rapporto tra numero di casi di una malattia sulla popolazione a rischio in un certo
+periodo di tempo. Se il periodo di tempo è uguale per tutta la popolazione l’incidenza viene definita
+cumulativa
+Letalità: rapporto tra il numero di morti e il numero di malati con una determinata malattia,
+relativamente a una data popolazione e a un dato intervallo
+Mortalità (tasso di): rapporto tra il numero dei decessi nell’anno e l’ammontare medio della
+popolazione residente, moltiplicato per 1.000.
+Popolazione residente: è costituita dalle persone, di cittadinanza italiana e straniera, aventi
+dimora abituale nel territorio nazionale anche se temporaneamente assenti. Ogni persona avente
+dimora abituale in Italia deve iscriversi, per obbligo di legge, nell’anagrafe del comune nel quale ha
+stabilito la sua dimora abituale. In seguito ad ogni Censimento della popolazione viene determinata
+la popolazione legale. A tale popolazione si somma il movimento anagrafico dei periodi successivi,
+calcolati con riferimento alla fine di ciascun anno solare e si calcola così la popolazione residente
+in ciascun comune al 31 di dicembre di ogni anno.
+Tampone positivo: con tale termine si intende il risultato positivo ad un test diagnostico di
+riferimento su un saggio di real-time RT-PCR che consiste sostanzialmente in un’amplificazione
+del genoma. Nel caso del SARS-Cov-2 il prelievo del materiale biologico (campione) viene
+effettuato attraverso un aspirato rino-faringeo o a un tampone naso-faringeo o oro-faringeo.
+L’analisi dei tamponi viene effettuata in tutti i laboratori di riferimento regionali e presso i principali
+ospedali individuati dalle Regioni.
+Ufficio Stampa Istat Ufficio Stampa ISS
+ufficiostampa@istat.it ufficio.stampa@iss.it
+tel. 06.4990.6601
+

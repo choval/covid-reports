@@ -1,0 +1,20 @@
+{
+    "filename": "Rapporto_Istat_ISS.pdf",
+    "uri": "https:\/\/www.epicentro.iss.it\/coronavirus\/pdf\/Rapporto_Istat_ISS.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588599948,
+    "headers": {
+        "http-status": 200,
+        "content-length": "1495143",
+        "content-type": "application\/pdf",
+        "last-modified": "Mon, 04 May 2020 13:12:30 GMT",
+        "accept-ranges": "bytes",
+        "etag": "\"4670d1aa1522d61:0\"",
+        "server": "Microsoft-IIS\/8.0",
+        "x-powered-by": "ASP.NET",
+        "date": "Mon, 04 May 2020 13:45:48 GMT"
+    },
+    "lang": "it,en",
+    "size": 1495143,
+    "modified": 1588597950
+}

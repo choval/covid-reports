@@ -1,0 +1,474 @@
+1
+INFORME DIÁRIO DE EVIDÊNCIAS | COVID-19 N°17
+BUSCA REALIZADA EM 27 DE ABRIL DE 2020
+APRESENTAÇÃO:
+Essa é uma produção do Departamento de Ciência e Tecnologia (Decit) da Secretaria de Ciência, Tecnologia,
+Inovação e Insumos Estratégicos em Saúde (SCTIE) do Ministério da Saúde (Decit/SCTIE/MS), que tem como
+missão promover a ciência e tecnologia e o uso de evidências científicas para a tomada de decisão do SUS,
+tendo como principal atribuição o incentivo ao desenvolvimento de pesquisas em saúde no Brasil, de modo a
+direcionar os investimentos realizados em pesquisa pelo Governo Federal às necessidades de saúde pública.
+Informar sobre as principais evidências científicas descritas na literatura
+internacional sobre tratamento farmacológico para a COVID-19. Além de resumir
+cada estudo identificado, o informe apresenta também uma avaliação da qualidade
+metodológicaeaquantidadedeartigospublicados,deacordocomasuaclassificação
+metodológica (revisões sistemáticas, ensaios clínicos randomizados, entre outros).
+FORAM ENCONTRADOS 9 ARTIGOS
+Não foram achadas atualizações na base Clinical Trials. A distribuição da frequência das
+publicaçõesencontradaséapresentada,porclasses,segundoapirâmidedeevidências:
+OBJETIVO:
+ACHADOS:
+2
+SUMÁRIO
+Hidroxicloroquina....................................................................................................................................................................3
+Série de casos
+Cloroquina e Claritromicina....................................................................................................................................................3
+Relato de Caso
+Inibidores específicos da IL-1 e IL-6........................................................................................................................................4
+Revisão Sistemática
+Baricitinibe...............................................................................................................................................................................5
+Ensaio clínico não randomizado
+Interferon lambda....................................................................................................................................................................6
+Revisão narrativa
+Inibidores da enzima de conversão da angiotensina (IECAs) e bloqueadores dos receptores da angiotensina (BRA)....6
+Revisão narrativa
+Diversas tecnologias................................................................................................................................................................7
+Revisão narrativa
+Diversas tecnologias................................................................................................................................................................8
+Revisão narrativa
+Tocilizumabe.
+............................................................................................................................................................................9
+Revisão narrativa
+Referências.............................................................................................................................................................................10
+Apêndice 1: Ensaios Clínicos sobre COVID-19 aprovados pela CONEp e informados em 22/04/2020....................................12
+3
+HIDROXICLOROQUINA
+SÉRIE DE CASOS \ FRANÇA
+Nesse estudo observacional, os autores descrevem o curso clínico da COVID-19 (entre 29/03 e
+06/04/2020) em 17 pacientes com Lúpus Eritematoso Sistêmico (LES), tratados cronicamente com
+hidroxicloroquina (HCQ) por 7,5 anos em média [variação de 0,5 – 29,8]). Doze pacientes (71%) eram
+também tratados com prednisona (doses ≤ 10mg/dia), e sete (41%) com um imunossupressor. Na
+admissão dos pacientes, a HCQ e a prednisona foram mantidas na mesma dose, enquanto que os
+imunossupressores foram interrompidos ou tiveram doses diminuídas. Nenhum tratamento antiviral
+adicional foi iniciado. Antibióticos foram administrados em nove casos (53%). Um total de 14 pacientes
+(82%) necessitou de internação hospitalar, incluindo 7 (41%) em UTI; oxigenoterapia foi necessária
+em 11 pacientes (65%). Em 07/04, cinco pacientes (36%) receberam alta, sete (50%) permaneceram
+hospitalizados e dois (14%) morreram. Nenhum paciente apresentou sinais clínicos de lúpus durante
+a curso da COVID-19. Autores concluem que, com uma alta prevalência de comorbidades, como
+doença renal crônica e obesidade, os pacientes com LES podem sofrer de formas graves da COVID-19.
+Com base na observação de que a maioria dos pacientes com LES neste estudo recebeu tratamento a
+longo prazo com HCQ, com concentrações sanguíneas dentro da faixa terapêutica, parece que a HCQ
+não previne a COVID-19, pelo menos suas formas graves, em pacientes com LES.1
+QUALIDADE
+METODOLÓGICA
+DeacordocomaferramentaJBICriticalAppraisalChecklistforCaseSeries,08/10
+critérios foram atendidos. Não houve menção sobre informações demográficas
+do local/clínica onde os pacientes foram tratados, nem informações sobre a
+utilização de uma análise estatística apropriada. Apesar da ausência dessas
+informações, considera-se que o artigo possui boa qualidade metodológica,
+uma vez que apresentou, de forma clara, as informações demográficas dos
+pacientes e suas características basais, os resultados de laboratório e de
+evolução clínica durante o tratamento desses pacientes, e uma conclusão
+coerente com os achados do estudo.
+CLOROQUINA E CLARITROMICINA
+RELATO DE CASO \ COLÔMBIA
+Descrição de caso de um paciente com 34 anos, sexo masculino, com obesidade grau II, febre
+baixa, calafrios, fadiga, tosse, produção de expectoração clara, mialgia, artralgia, rinite e fraqueza
+que iniciaram em 4 dias após o retorno da Espanha. Em sua admissão, os seus sinais vitais estavam
+normais, bem como seu exame físico. Em exame laboratorial, houve leucopenia leve e aumento de
+proteína C reativa. No primeiro momento, houve suspeita de Dengue, resultando em teste negativo.
+Posteriormente, em exame de hemocultura, constatou-se colonização por Staphylococcus auriculares.
+Paciente com febre e sintomas respiratórios persistentes, iniciou-se tratamento com ampicilina/
+sulbactam (IV.3 g q4h) e claritromicina(IV.500 mg q12h) por suspeita de pneumonia adquirida na
+comunidade. Como diagnóstico diferencial para a pneumonia viral, foram realizados exames de
+4
+imagem, apresentando opacidadepulmonarem vidro fosco periférica com consolidações. No segundo
+dia de internação, com os sinais vitais estáveis e a ausência de sintomas respiratórios graves, recebeu
+oseltamivir (VO 75mg q 12h). No terceiro dia, confirmou o resultado positivo por rRT-PCR (transcrição
+reversa em tempo real- PCR) para infecção por SARS-CoV-2. No quarto dia, iniciou o uso da Cloroquina
+(VO,300mg, q12h) por 10 dias, em uso concomitante com oseltamivir e antibióticos. No quinto dia,
+a contagem de plaquetas estava próxima do normal, ainda com febre, tosse e leucopenia, embora
+sem o uso de suporte de oxigênio e exame físico pulmonar normal. Iniciou o uso de Trazodona para
+ansiedade. No sexto dia, apresentou diminuição das consolidações pulmonares. No sétimo dia,
+paciente já estava sem tosse, sem febre, sem dispneia e com exames laboratoriais normais, exceto
+pela presença de leucopenia e linfopenia. No oitavo dia, a leucopenia melhorou e foi descontinuado o
+uso de cloroquina e oseltamivir, completando 5 dias de tratamento. No nono dia, sua condição clínica
+foi significativamente melhorada, com resultado negativo por rRT-PCR e recebeu alta hospitalar neste
+dia. Portanto, o paciente não precisou de ventilação mecânica e nem de admissão em unidade de
+tratamento intensivo. Após 9 dias de alta, o paciente permaneceu sem sintomas e foi considerado
+recuperado. Os autores salientam que, a partir de seu estudo, não se pode ter certeza do efeito
+antiviral da cloroquina e claritromicina, embora os medicamentos tenham sido bem tolerados e sem
+a presença de eventos adversos em seu relato de caso.2
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta JBI Critical Appraisal Checklist for Case Reports,
+08/08 critérios foram atendidos, indicando boa qualidade metodológica
+do estudo. Os autores descrevem originalmente o uso de um análogo de
+eritromicina, claritromicina, que, assim como a azitromicina, vem sendo
+usada em pacientes com infecção por SARS-CoV-2. Os autores realizaram o
+acompanhamento após a alta hospitalar para descrição completa de desfechos.
+Embora os desfechos tenham sido favoráveis neste relato de caso, não se pode
+extrapolar essas evidências sem a realização de estudos clínicos randomizados.
+INIBIDORES ESPECÍFICOS DA IL-1 E IL-6
+REVISÃO SISTEMÁTICA \ REINO UNIDO
+Nesta revisão, os autores descrevem a avaliação e análise sistemática da eficácia de inibidores
+específicos da interleucina-1 (IL-1) e interleucina-6 (IL-6) no tratamento de infecções relacionadas
+ao SARS-CoV-2. Foram selecionados 310 estudos originais, incluindo resumos de conferências e
+relatos de casos, relacionados ao uso dos fármacos anakinra, tocilizumab, sarilumab e siltuximab,
+em pacientes com mais de 18 anos com suspeita ou confirmação de COVID-19. Após a remoção de
+duplicatas e triagem, três artigos foram selecionados para inclusão, e dois outros estudos adicionais
+foram identificados após uma pesquisa em bases de pré-impressão, fornecendo um total de 5 estudos
+e 59 pacientes envolvidos. Quatro estudos eram sobre o tocilizumab e apenas um sobre o siltuximab.
+Não foram identificados estudos publicados para o anakinra e o sarilumab. Os desfechos de eficácia
+avaliados foram o tempo até a alta hospitalar (dias) e a gravidade da COVID-19 (escala ordinal medida
+no 15º dia, baseada em óbito, hospitalização, necessidade de oxigenoterapia e alta). Segundo os
+5
+autores, embora esses desfechos tenham sido relatados de forma inconsistente nos artigos incluídos,
+os dados sugerem que muitos pacientes experimentaram uma melhora clínica no 7º dia após o
+início do tratamento. Nesta revisão sistemática, os pesquisadores ressaltam que concentrações
+plasmáticas de IL-6 parecem estar elevadas em pacientes com COVID-19 grave e apontam que agentes
+imunomoduladorestêmumpapelplausívelnotratamentodeCOVID-19.Osautoresconcluemdizendo
+que esses achados justificam a necessidade de estudos clínicos randomizados bem projetados, com
+grupos de controle simultâneos para explorar ainda mais essa hipótese.3
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta AMSTAR 2: a critical appraisal tool for
+systematic reviews, 11/16 critérios foram atendidos, indicando boa qualidade
+metodológica. Dois critérios não puderam ser aplicados, uma vez que não houve
+meta-análise dos dados nessa revisão. Não houve informação sobre estudos
+excluídos, nem justificativa para as exclusões. Não foram relatadas as fontes
+de financiamento para os estudos incluídos, nem alguma fonte potencial de
+conflito de interesses, incluindo possibilidade de financiamento recebido pelos
+autores para a realização desse estudo. Em adição, segundo os próprios autores,
+todos os estudos incluídos nessa revisão foram relatos de casos individuais ou
+séries retrospectivas não randomizadas, de tamanho amostral relativamente
+modesto, com alto risco, ou risco moderado de vieses, e, portanto, sugerem
+que tais resultados precisam ser reproduzidos em ensaios clínicos prospectivos
+bem conduzidos, antes que essas terapias imunomoduladoras possam ser
+recomendadas para uso clínico.
+BARICITINIBE
+ENSAIO CLÍNICO NÃO RANDOMIZADO \ ITÁLIA
+A eficácia e a segurança do uso do baricitinibe foram avaliadas em um estudo clínico na Itália.
+Vinte e quatro pacientes com COVID-19 moderada foram divididos em dois grupos: teste (baricitinibe 4
+mg/dia) e controle (atendimento padrão). A divisão entre os grupos ocorreu de forma consecutiva, os
+doze primeiros receberam o medicamento teste e os doze últimos o tratamento padrão. A avaliação foi
+realizadaporduassemanas. Febre,saturaçãoperiféricadeoxigêniocapilar,relaçãoentrepressãoparcial
+de oxigênio arterial e fração de oxigênio inspirado, concentração de proteína C reativa e escore para
+alerta precoce modificado melhoraram significativamente no grupo tratado com baricitinibe quando
+comparados ao grupo controle. Em pacientes tratados com baricitinibe, nenhum evento adverso foi
+registrado após 2 semanas.4
+QUALIDADE
+METODOLÓGICA
+De acordo com a ferramenta para avaliação de risco de viés em ECR da
+Cochrane, em geral, o estudo teve qualidade metodológica razoável. O método
+de randomização adotado não foi o mais adequado e o desenho aberto desse
+ensaio clínico implica em alto risco de viés. O pequeno tamanho amostral é mais
+uma limitação desse estudo. Deste modo, é necessário cautela ao extrapolar os
+resultados aqui apresentados.
+6
+INTERFERON LAMBDA
+REVISÃO NARRATIVA \ GRÉCIA
+A tempestade de citocinas, uma reação hiper inflamatória, tem papel-chave nos casos de
+COVID-19 grave. Trata-se de um mecanismo de proteção que visa limitar a propagação do vírus, mas
+os danos causados por essa resposta são prejudiciais ao organismo. A tempestade de citocinas é
+modulada, principalmente, pelos interferons (IFN). O IFN λ desempenha função essencial para manter
+uma resposta antiviral balanceada no trato respiratório, ao passo que os IFN tipo I desencadeiam uma
+hiper inflamação que pode levar à doença grave. Além disso, IFN λ são induzidos com menor carga
+viral, respondendo prontamente a infecção. Ao contrário do IFN tipo I, que tem resposta mais tardia.
+Ou seja, IFN λ constitui um agente terapêutico promissor para reduzir tanto a carga viral, como a
+hiper inflamação, evitando as consequências mais graves da COVID-19, como pneumonia e síndrome
+respiratória aguda grave.5
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas disponíveis para avaliação de revisões narrativas.
+Este estudo se mostrou superficial, com certa tendência dos autores em
+diminuir a importância dos IFN tipo I para aumentar a importância do IFN
+λ na resposta à tempestade de citocinas. Apesar dos autores comentarem
+o promissor papel terapêutico do IFN λ no controle da COVID-19, nenhum
+dado contundente foi apresentado.
+INIBIDORES DA ENZIMA DE CONVERSÃO DA
+ANGIOTENSINA (IECAS) E BLOQUEADORES DOS
+RECEPTORES DA ANGIOTENSINA (BRA)
+REVISÃO NARRATIVA \ ESTADOS UNIDOS DAS AMÉRICAS
+Nesta revisão narrativa, os autores inicialmente discorrem sobre a patogênese da COVID-19 via
+ligação do SARS-CoV-2 com a enzima conversora de angiotensina-2 (ECA2). Em seguida, descrevem
+que ocorre um desequilíbrio na ação de peptídeos derivados de ECA1/ECA2, levando a alterações
+pulmonares e cardíacas, contribuindo para piora do quadro na COVID-19. Esse desequilíbrio de
+ECA1/ECA2 ocorre devido à ligação do SARS-CoV-2 a ECA2, reduzindo a conversão mediada de
+peptídeos ANG II em ANG, que neutralizam os efeitos fisiopatológicos do ANGII gerado pela ECA1.
+Baseados nessa hipótese, os autores sugerem várias abordagens para o tratamento da COVID-19
+para restaurar o equilíbrio ACE1/ACE2: 1) uso de bloqueadores do receptor ANG II (BRA); 2) uso
+de inibidores da ECA1 (IECAs); 3) uso de agonistas de receptores ativados por peptídeos derivados
+de ACE2; 4) uso de peptídeos ACE2 ou ACE2 humanos recombinantes como iscas para o vírus.
+Os autores preveem que a redução do desequilíbrio da ECA1/ECA2 diminua a morbimortalidade
+associada a COVID-19, especialmente em pacientes vulneráveis. É importante ressaltar que os IECA
+e BRA podem ser rapidamente reposicionados para testar sua eficácia no tratamento da COVID-19.6
+7
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação de revisões narrativas. Em leitura crítica, os
+autores não sugerem nenhum medicamento específico para modulação das
+vias em potencial para tratamento da COVID-19. Mencionam ensaios clínicos
+randomizados em andamento e resultados de estudos in vitro e pré-clínicos
+em animais; Porém, a efetividade dos inibidores da enzima de conversão da
+angiotensina (IECAs) e dos bloqueadores dos receptores da angiotensina (BRA)
+para COVID-19 ainda não pode ser confirmada.
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ CHINA, MALÁSIA E REINO UNIDO
+Trata-se de uma revisão narrativa que comenta os primeiros 75 dias de surto da COVID-19. Os
+autores discorrem sobre a epidemiologia da doença, suas manifestações clínicas, transmissão, além
+de estratégias de prevenção adotadas por vários países. Em seguida, comentam possíveis terapias
+que podem ser utilizadas e que estão em desenvolvimento, como: Uso de antivirais: oseltamivir,
+ganciclovir, remdesivir, lopinavir/ritonavir. A ribavirina, penciclovir, nitazoxanida, nafamostat,
+cloroquina e favipiravir foram testadas in vitro e tem potencial para serem utilizadas contra o SARS-
+CoV-2, apesar da ribavirina, penciclovir e favipiravir serem consideradas menos efetivas devido
+a necessidade de altas dosagens; Terapia antibiótica: utilizados principalmente em pacientes com
+imunidade comprometida para prevenir co-infecções bacterianas. As classes mais usadas foram as
+cefalosporinas, carbapenêmicos e quinolonas, em combinação com o uso de antivirais; Proteínas de
+fusão (ECA2-Ig): testes in vitro de fusão de proteína à ECA2 para inibir a ligação do SARS-CoV-2; Vacinas:
+estãoemdesenvolvimentovacinasdeRNAouparaumepítopoespecíficodovírusdaCOVID-19;Terapia
+Celular: uso de células mesenquimais que permitem a regeneração tecidual e redução significativa
+de marcadores inflamatórios. Além da revisão dos possíveis tratamentos, relatam alguns casos de
+pacientes que foram tratados com os medicamentos antivirais, combinados ou não (entre si ou com
+antibióticos). Posto isso, recomendam que os pacientes diagnosticados com a COVID-19 devem ser
+tratados com terapia antiviral combinada com antibióticos, além de oxigenioterapia, uma vez que as
+vacinas ainda não estão disponíveis e que os demais tratamentos ainda não tem os resultados dos
+seus ECR validados.7
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliar revisões narrativas. Os autores fazem
+uma revisão sobre a epidemiologia da COVID-19, porém os tratamentos
+mencionados ainda não são efetivamente comprovados como eficazes.
+8
+DIVERSAS TECNOLOGIAS
+REVISÃO NARRATIVA \ NÃO SE APLICA
+Nessa revisão narrativa, os autores sumarizam as opções terapêuticas potenciais para COVID-19 e
+descrevem seus potenciais mecanismos de ação. Tratamentos antivirais. Remdesivir: a Gilead Sciences
+anunciou um estudo clínico sobre a eficácia do remdesivir no COVID-19 (Grein et al., 2020). No entanto,
+o tamanho da amostra deste estudo foi pequeno (n = 53). Lopinavir/ ritonavir: um estudo randomizado
+aberto com 199 pacientes mostrou que a monoterapia com LPV/r não produziu benefício terapêutico para
+pacientescomCOVID-19emcomparaçãocomtratamentopadrão(Caoetal.,2020).Outroestudodecoorte
+retrospectiva, a terapia combinada de LPV/r e arbidol foi associada a melhores imagens de tomografia
+pulmonar (Deng et al., 2020). Favipiravir: dados preliminares de 80 pacientes em Shenzhen sugeriram que
+o favipiravir exerceu efeitos antivirais de forma mais potente que o LPV/r, sem reações adversas evidentes
+(Third People, 2020). Outro ensaio clínico em Wuhan mostrou que o favipiravir demonstrou maior eficácia
+que o arbidol em termos de taxa de recuperação em 7 dias e duração dos sintomas (Chen et al., 2020a).
+EIDD-2801: a revisão cita como vantagem, em comparação ao remdesivir, sua administração oral, no
+entanto, ainda não há ensaios clínicos com esse medicamento. Plasma convalescente. A revisão cita dois
+estudos sobre plasma convalescente, com tamanho amostral pequeno: Roback & Guarner, 2020 e Duan et
+al., 2020. Refere que o FDA concedeu permissão para a aplicação de plasma convalescente no tratamento
+depacientescomCOVID-19emestadocrítico.Cloroquinaehidroxicloroquina.UmestudoabertonaFrança
+mostrou que o tratamento com HCQ estava significativamente associado à redução/desaparecimento da
+carga viral em pacientes com COVID-19 e que seu efeito foi reforçado pela azitromicina (Gautret et al.,
+2020). Outro estudo de coorte demonstrou que o tratamento com HCQ a curto prazo é seguro (Lane et al.,
+2020). No entanto, a combinação de HCQ e azitromicina pode induzir um risco aumentado de mortalidade
+cardiovascular em 30 dias, dor no peito/angina e insuficiência cardíaca (Lane et al., 2020). Anticorpos
+monoclonais. Tocilizumabe e sarilumabe: a Comissão Nacional de Saúde e Planejamento Familiar da
+China aprovou o tratamento com tocilizumabe em pacientes com nível elevado de IL-6 (NHPFC, 2020).
+Foi realizado um ensaio clínico de fase II/III nos EUA para o sarilumabe em pacientes com COVID-19 grave
+(Regeneron, 2020). Inibidor de Janus kinase. Baricitinibe: não foram apresentados resultados clínicos,
+apenas de mecanismo de ação. Terapia celular. Células-tronco mesenquimais (CTMs): tratamento com
+transplante alogênico de CTMs em Pequim mostrou resultados funcionais significativamente melhorados
+sem efeitos adversos óbvios em 7 pacientes com COVID-19 (Zikuan Leng et al., 2020). Potenciadores
+imunológicos. Interferons: dados os efeitos inconclusivos dos IFNs no tratamento de doenças infecciosas
+virais, os IFNs e a terapia combinada devem ser empregados com prudência na COVID-19. Gama globulina
+intravenosa: pode ser útil para COVID-19, no entanto, deve ser administrada cuidadosamente, devido aos
+seus efeitos adversos, como mialgia, febre, insuficiência renal e tromboembolismo venoso. Terapia com
+células NK: Como produto celular NK, o CYNK-001 tem potencial de inibir a infecção viral através da morte
+direta de células hospedeiras infectadas por SARS-CoV-2 e induzir indiretamente respostas imunes. No
+entanto, existe controvérsia se as fortes respostas inflamatórias provocadas são favoráveis ou prejudiciais
+para pacientes infectados com COVID-19 grave. O estudo ainda cita corticosteroides, anticoagulantes,
+vitaminas C e D, anti-inflamatórios não esteroidais, estudos relacionados a vacinas e zinco.8
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliar revisões narrativas. Os autores revisam
+principalmente mecanismos de ação e ensaios clínicos em andamento, porém
+dados clínicos confiáveis sobre esses tratamentos ainda são escassos.
+9
+TOCILIZUMABE
+REVISÃO NARRATIVA \ NÃO SE APLICA
+Trata-se de uma revisão narrativa que estuda a síndrome de liberação de citocinas ou tempestade
+de citocinas na COVID-19. O estudo fala sobre o papel central da citocina IL-6 na síndrome sua via de
+transdução de sinal e função biológica. Em seguida fala sobre o tocilizumabe, anticorpo monoclonal que
+bloqueia o receptor da IL- 6. No que diz respeito à segurança do tocilizumab no tratamento de pacientes
+com COVID-19 grave, um estudo pre-print incluiu 21 pacientes, e não houve complicações associadas ao
+tratamento e nenhuma história de deterioração da doença ou morte. No geral, os autores consideram
+que o risco de infecção secundária com tocilizumab não é muito alto. A revisão reporta que esse único
+ensaio clínico com tamanho amostral pequeno (ChiCTR2000029765) mostrou eficácia de tocilizumabe
+para COVID-19 grave ou crítico. Após alguns dias de tratamento, a temperatura corporal do paciente com
+febre voltou ao normal (no início, todos os 21 pacientes estavam com febre) e os outros sintomas foram
+significativamente melhorados. Houve melhora da função pulmonar, pois 75% (15/20) dos pacientes
+reduziram a ingestão de oxigênio suplementar. O exame de imagem (TC) mostrou que 90,5% (19/21) dos
+pacientes apresentavam melhora das lesões pulmonares. O exame laboratorial mostrou que a proporção
+de linfócitos do sangue periférico e a concentração de proteína C reativa retornou ao normal. Uma das
+deficiências do estudo é que apenas a concentração de IL-6 no sangue periférico antes do tratamento com
+tocilizumab foi relatada, e não após o tratamento.9
+QUALIDADE
+METODOLÓGICA
+Não existem ferramentas para avaliação metodológica de revisões narrativas. O
+estudo investiga a síndrome de liberação de citocinas, e suas diversas causas, dentre
+elas a COVID-19. Somente um estudo específico para infecção por SARS-CoV-2 foi
+apresentado,comtamanhoamostralpequenoesemgrupocontrole.Portanto,nãoé
+possível concluir sobre o efeito de tocilizumabe no tratamento da COVID-19.
+10
+REFERÊNCIAS
+1. Mathian A, Mahevas M, Rohmer J, et al. Clinical course of coronavirus disease 2019 (COVID-19)
+in a series of 17 patients with systemic lupus erythematosus under long-term treatment with
+hydroxychloroquine. Ann Rheum Dis. 2020;0:1–3. doi:10.1136/annrheumdis-2020-217566 Epub
+ahead of print: [27/04/2020].
+2. Millán-Oñate J, Millan W, Mendoza LA, Sánchez CG, Fernandez-Suarez H, Bonilla-Aldana DK,
+Rodríguez-Morales AJ. Successful recovery of COVID-19 pneumonia in a patient from Colombia
+after receiving chloroquine and clarithromycin. Ann Clin Microbiol Antimicrob. 2020 Apr
+24;19(1):16. doi: 10.1186/s12941-020-00358-y. PubMed PMID: 32331519.
+3. Khan F, Fabbri L, Stewart I, Smyth A, Jenkins G. A systematic review of Anakinra, Tocilizumab,
+Sarilumab and Siltuximab for coronavirus-related infections. medRxiv preprint DOI: https://doi.
+org/10.1101/2020.04.23.20076612.
+4. Cantini F, Niccoli L, Matarrese D, Nicastri E, Stobbione P, Goletti D. Baricitinib therapy in COVID-19:
+A pilot study on safety and clinical impact. J Infect 2020 Apr 23. Doi: https://doi.org/10.1016/j.
+jinf.2020.04.017
+5. Andreakos E, Tsiodras S. COVID-19: lambda interferon against viral load and hyperinflammation.
+EMBO Mol Med. 2020 Apr 25. doi: 10.15252/emmm.202012465
+6. Sriram K, Insel PA. A hypothesis for pathobiology and treatment of COVID-19: the centrality of
+ACE1/ACE2 imbalance. Br J Pharmacol. 2020 Apr 24. doi: 10.1111/bph.15082.
+7. Yan Y, Shin WI, Pang YX, Meng Y, Lai J, You C, et al. The First 75 Days of Novel Coronavirus (SARS-
+CoV-2) Outbreak: Recent Advances, Prevention, and Treatment. Int J Environ Res Public Health.
+2020 Mar 30;17(7). pii: E2323. doi: 10.3390/ijerph17072323.
+8. Zhang J, Xie B, Hashimoto K. Current status of potential therapeutic candidates for the COVID-19
+crisis. Brain Behav Immun. 2020 Apr 22;. doi: 10.1016/j.bbi.2020.04.046. [Epub ahead of print]
+Review.
+9. Zhang C, Wu Z, Li JW, Zhao H, Wang GQ. The cytokine release syndrome (CRS) of severe COVID-19
+and Interleukin-6 receptor (IL-6R) antagonist Tocilizumab may be the key to reduce the
+mortality.IntJAntimicrobAgents.2020Mar29;:105954.doi:10.1016/j.ijantimicag.2020.105954.
+[Epub ahead of print]
+10. Brasil. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de Ética em
+Pesquisa. Boletim Ética em Pesquisa – Edição Especial Coronavírus (Covid-19). CONEP/CNS/MS.
+2020, 1:página 1-página 21.
+ESTRATÉGIA DE BUSCA:
+11
+CITAÇÃO
+BRASIL. Departamento de Ciência e Tecnologia. Secretaria de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos em Saúde. Ministério da Saúde. Informe Diário de Evidências – COVID-19 (28 de abril
+de 2020). 2020.
+ORGANIZADORES
+Equipe técnica: 		Cecilia Menezes Farinasso; Douglas de Almeida Rocha; Felipe Nunes Bonifácio; Gabriel
+Antônio Rezende de Paula; Glícia Pinheiro Bezerra; Junia Carolina Rebelo Dos Santos
+Silva; Leonardo Ferreira Machado; Livia Carla Vinhal Frutuoso.
+Coordenadora de Evidências e Informações Estratégicas em Gestão em Saúde: Daniela Fortunato Rego.
+Diretora de Ciência e Tecnologia: Camile Giaretta Sachetti.
+12
+Apêndice 1: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+1 22/03/2020 Avaliação da segurança e eficácia clínica da hidroxicloroquina associada à azitromicina em
+pacientes com pneumonia causada por infecção pelo vírus SARS-CoV-2. Aliança COVID-19
+Brasil II: pacientes graves
+Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+2 23/03/2020 Estudo de fase IIB para avaliar eficácia e segurança do difosfato de cloroquina no tratamento
+de pacientes hospitalizados com síndrome respiratória grave no âmbito do novo Coronavírus
+(SARS-Cov-2): um ensaio clínico, duplo-cego, randomizado
+Diretoria de Ensino e Pesquisa – DENPE
+3 25/03/2020 Estudo aberto, controlado, de uso de hidroxicloroquina e azitromicina para prevenção de
+complicações em pacientes com infecção pelo novo coronavírus (COVID-19): um estudo
+randomizado e controlado
+Associação Beneficente Síria
+4 26/03/2020 Um estudo internacional randomizado de tratamentos adicionais para a COVID-19 em
+pacientes hospitalizados recebendo o padrão local de tratamento. Estudo Solidarity
+Instituto Nacional De Infectologia Evandro Chagas –
+INI /FIOCRUZ
+5 01/04/2020 Avaliação de protocolo de tratamento COVID-19 com associação de cloroquina/
+hidroxicloroquina e azitromicina para pacientes com pneumonia
+Hospital São José de Doenças Infecciosas – HSJ /
+Secretaria de Saúde Fortaleza
+6 01/04/2020 Desenvolvimento de vacina para SARS-CoV-2 utilizando VLPs Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+7 03/04/2020 Aliança COVID-19 Brasil III: Casos Graves – Corticoide Associação Beneficente Síria
+8 03/04/2020 Estudo clínico fase I com células mesenquimais para o tratamento de COVID-19 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+9 03/04/2020 Protocolo de utilização de hidroxicloroquina associado a azitromicina para pacientes com
+infecção confirmada por SARS-CoV-2 e doença pulmonar (COVID-19)
+Hospital Brigadeiro UGA V-SP
+10 04/04/2020 Ensaio clínico randomizado para o tratamento de casos moderados a graves da doença causada
+pelo novo Coronavírus-2019 (COVID-19) com cloroquina e colchicina
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+13
+Apêndice 1: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+11 04/04/2020 Ensaio clínico pragmático controlado randomizado multicêntrico da eficácia de dez dias de
+cloroquina no tratamento da pneumonia causada por SARS-CoV-2
+CEPETI – Centro de Estudos e de Pesquisa em
+Terapia Intensiva
+12 04/04/2020 Plasma convalescente como alternativa terapêutica para o tratamento de SARS-CoV-2 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+13 04/04/2020 Ensaio clínico utilizando N-acetilcisteína para o tratamento de síndrome respiratória aguda
+grave em pacientes com COVID-19
+Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+14 04/04/2020 Suspensão dos bloqueadores do receptor de angiotensina e inbidores da enzima conversora da
+angiotensina e desfechos adversos em pacientes hospitalizados com infecção por coronavírus
+(SARS-CoV-2) – Brace Corona Trial
+Instituto D'or de Pesquisa e Ensino
+15 04/04/2020 Estudo clínico randomizado, pragmático, aberto, avaliando Hidroxicloroquina para prevenção
+de hospitalização e complicações respiratórias em pacientes ambulatoriais com diagnóstico
+confirmado ou presuntivo de infecção pelo (COVID-19) – Coalizão COVID-19 Brasil V – pacientes
+não hospitalizados
+Hospital Alemão Oswaldo Cruz
+16 05/04/2020 Ensaio clínico randomizado, duplo-cego e controlado por placebo para avaliar eficácia e
+segurança da hidroxicloroquina e azitromicina versus placebo na negativação da carga viral
+de participantes com síndrome gripal causada pelo SARS-CoV-2 e que não apresentam
+indicação de hospitalização
+Hospital Santa Paula (Sp)
+17 08/04/2020 Efetividadede um protocolo de testagem baseado em RT-PCR e sorologia para SARS-CoV-2
+sobre a preservação da força de trabalho em saúde, durante a pandemia COVID-19 no Brasil:
+ensaio clínico randomizado, de grupos paralelos
+Empresa Brasileira de Servicos Hospitalares –
+EBSERH
+18 08/04/2020 Estudo prospectivo, não randomizado, intervencional, consecutivo, da combinação de
+hidroxicloroquina e azitromicina em pacientes sintomáticos graves com a doença COVID-19
+Hospital Guilherme Alvaro – Santos – SP
+14
+Apêndice 1: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+19 08/04/2020 Estudo clínico de conceito, aberto, monocêntrico, não randomizado, para avaliação da eficácia
+e segurança da administração oral de hidroxicloroquina em associação à azitromicina, no
+tratamento da doença respiratória aguda (COVID-19) causada pelo vírus SARS-CoV-2
+Prevent Senior Private Operadora de Saude LTDA
+20 08/04/2020 Estudo de fase IIb para avaliar eficácia e segurança do difosfato de cloroquina no tratamento de
+pacientes com comorbidades, sem síndrome respiratória grave, no âmbito do novo coronavírus
+(SARS-CoV-2): um ensaio clínico, duplo-cego, randomizado, controlado com placebo
+Diretoria de Ensino e Pesquisa – DENPE
+21 11/04/2020 Uso de plasma de doador convalescente para tratar pacientes com infecção grave pelo
+SARS-CoV-2 (COVID-19)
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+22 14/04/2020 Efeitos da terapia com nitazoxanida em pacientes com pneumonia grave induzida por SARS-CoV-2 Universidade Federal do Rio De Janeiro – UFRJ
+23 14/04/2020 Ensaio clínico de prova de conceito, multicêntrico, paralelo, randomizado e duplo-cego para
+avaliação da segurança e eficácia da nitazoxanida 600 mg em relação ao placebo no tratamento de
+participantes da pesquisa com COVID-19 hospitalizados em estado não crítico
+Hospital Vera Cruz S. A.
+24 14/04/2020 Novo esquema terapêutico para falência respiratória aguda associada a pneumonia em indivíduos
+infectados pelo SARS-CoV-2
+Universidade Federal do Rio de Janeiro – UFRJ
+25 17/04/2020 Uso de plasma convalescente submetido à inativação de patógenos para o tratamento de pacientes
+com COVID-19 grave
+Instituto Estadual de Hematologia Arthur Siqueira
+Cavalcanti- HEMORIO
+26 17/04/2020 Plasma convalescente como alternativa de tratamento de casos graves de SARS-CoV-2 UNIDADE DE HEMOTERAPIA E HEMATOLOGIA
+SAMARITANO LTDA
+27 17/04/2020 Hidroxicloroquina e Lopinavir/ Ritonavir para melhorar a saúde das pessoas com COVID-19 Pontifícia Universidade Católica de Minas Gerais-
+PUCMG
+15
+Apêndice 1: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+28 18/04/2020 Estudo de fase IIb para avaliar eficácia e segurança de succinato sódico de metilprednisolona
+injetável no tratamento de pacientes com sinais de síndrome respiratória aguda grave, no
+âmbito do novo coronavírus (SARS-CoV2): um ensaio clínico, duplo-cego, randomizado,
+controlado com placebo
+Diretoria de Ensino e Pesquisa- DENPE
+29 18/04/2020 Estudo clínico de eficácia e segurança da inibição farmacológica de bradicinina para o
+tratamento de COVID-19
+Faculdade de Ciências Medicas- UNICAMP
+30 21/04/20 Avaliação do uso terapêutico da hidroxicloroquina em pacientes acometidos pela forma leve da
+COVID-19: ensaio clínico randomizado
+Fundação de Saúde Comunitária de Sinop
+Atualizações constantes sobre os ensaios clínicos aprovados pela CONEp podem ser encontradas no endereço acessado pelo código ao lado.
+

@@ -1,0 +1,19 @@
+{
+    "filename": "LS_CS_004_salones_belleza.pdf",
+    "uri": "https:\/\/www.ministeriodesalud.go.cr\/sobre_ministerio\/prensa\/docs\/LS_CS_004_salones_belleza.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588363905,
+    "headers": {
+        "http-status": 200,
+        "date": "Fri, 01 May 2020 20:11:45 GMT",
+        "server": "Apache\/2.4.6 (Red Hat Enterprise Linux) OpenSSL\/1.0.2k-fips PHP\/7.1.8",
+        "last-modified": "Fri, 01 May 2020 20:11:45 GMT",
+        "etag": "W\/\"160db8-5a4a0120b3400\"",
+        "accept-ranges": "bytes",
+        "content-length": "1445304",
+        "content-type": "application\/pdf"
+    },
+    "lang": "es",
+    "size": 1445304,
+    "modified": 1588363905
+}

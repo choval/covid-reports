@@ -1,0 +1,86 @@
+Point de situation du 1er mai 2020
+La situation en France
+ 25 887 personnes sont hospitalisées pour infection à COVID-19
+dont 3 878 cas graves en réanimation
+ 73 nouveaux patients admis en réanimation
+ 24 594 décès depuis le 1er
+mars dont :
+15 369 décès survenus en milieu hospitalier
+9 225 décès survenus en établissements sociaux et médico-sociaux
+ 50 212 personnes guéries sorties de l’hôpital
+ La situation dans les Outre-Mer (Guadeloupe, Guyane, La Réunion,
+Martinique, Mayotte)
+ 72 hospitalisations dont 20 en réanimation
+ 40 décès (17 en Guadeloupe, 14 en Martinique, 8 à Mayotte et 1 en Guyane)
+Point de situation du Pr. Jérôme Salomon
+ Cartes de suivi épidémique.
+Santé Publique France a procédé à des modifications dans les départements :
+Aisne, Calvados, Cher, Dordogne, Lot, Nièvre, Oise, Tarn, Haute Corse, en raison
+de nouvelles analyses de données.
+Les données utilisées illustrent 2 notions importantes dans le suivi de
+l’épidémie :
+- l’activité cinétique et de dynamique épidémique, c’est-à-dire le reflet
+du nombre de personnes qui développent une infection par territoire et
+qui appellent leur médecin traitant ou se rendent aux service des
+urgences.
+- la notion de saturation des capacités sanitaires, c'est à dire le nombre
+de lits de réanimation occupés par des patients atteints de CoVid19 sur
+le nombre total de lits de réanimation dans un territoire en situation
+normale.
+ La surveillance syndromique permet de construire la première carte. Cette
+carte illustre la notion d’activité épidémique de la maladie. Elle est
+construite à partir de données qui reflètent le nombre de personnes
+envoyées aux urgences par leur médecin de ville pour suspicion de cas
+COVID19 par rapport au nombre de passages aux urgences toutes causes
+confondues. Ces données, sont issues d’un système de recueil de données
+publiées quotidiennement sur le site data.gouv.fr. Les données utilisées
+pour cette carte sont des moyennes des 7 derniers jours.
+Les couleurs sont déterminées selon les seuils suivants :
+ En vert : dans la totalité des passages aux urgences, il y a moins de 6% de
+patients CoVid19,
+ En orange : de 6 à 10%
+ En rouge : plus de 10% de patients CoVid19 dans la totalité des passages
+aux urgences.
+ Les données hospitalières permettent de construire la deuxième carte.
+Cette carte présente le niveau de saturation des réanimations en France,
+c’est-à-dire le nombre de lits de réanimation occupés par des patients
+graves atteints d’infection Covid19 par rapport au nombre de lits total de
+réanimation (à l’état initial) dans un territoire.
+Les seuils utilisés dans cette deuxième carte sont :
+ En vert : un taux d’occupation de lits de réanimation par des patients
+atteints de formes graves de Covid19 de moins de 60%,
+ En orange : entre 60 et 80%
+ En rouge : supérieur à 80%.
+ Les deux cartes (circulation active du virus et tension hospitalière sur les
+capacités en réanimation) permettent d’élaborer la carte synthétique de la
+situation épidémique (synthèse des 2 indicateurs).
+Cette carte comporte 3 seuils, pour montrer l’évolution différentielle de
+l’épidémie en fonction des territoires :
+ En vert : les territoires dans lesquels les deux paramètres précédents
+sont au-dessous des seuils,
+ En orange : les territoires pour lesquels un ou deux paramètres sont dans
+les seuils intermédiaires,
+ En rouge : les territoires dans lesquels un paramètre est au-dessus des
+seuils définis.
+ Santé Publique France a reclassé, sur la carte de synthèse de ce soir, 9
+départements.
+- Aisne : Reclassement carte de synthèse : rouge => rouge
+- Calvados : Reclassement carte de synthèse : orange => vert
+- Cher : Reclassement carte de synthèse : rouge => orange
+- Dordogne : Reclassement carte de synthèse : orange => vert
+- Haute-Corse : Reclassement carte de synthèse : rouge => vert
+- Lot : Reclassement carte de synthèse : rouge => vert
+- Nièvre : Reclassement carte de synthèse : rouge => rouge
+- Oise : Reclassement carte de synthèse : rouge => rouge
+- Tarn : Reclassement carte de synthèse : orange à vert
+Certains départements continuent à être classés en rouge ou en orange sur la
+carte de synthèse alors que l’activité épidémique y est faible. Cela est lié à une
+approche régionale concernant l’offre de soins critiques. Ainsi, les
+départements appartenant à une région où les tensions sur l’offre de soins en
+réanimation restent importantes sont aujourd’hui classés en rouge car ce
+critère est fondamental puisque le déconfinement ne peut se faire dans de
+bonnes conditions que si le système de santé est à nouveau capable de
+fonctionner dans des conditions proches de la normale.
+Cette carte donne une indication, à un instant T, de la situation dans chaque
+territoire. Elle n’est pas figée, la situation reste évolutive.
+

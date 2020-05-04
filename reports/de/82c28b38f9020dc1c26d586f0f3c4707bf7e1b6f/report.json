@@ -1,0 +1,24 @@
+{
+    "filename": "BMG_Coronavirus_Handzettel_TR_barr.pdf",
+    "uri": "https:\/\/www.bundesgesundheitsministerium.de\/fileadmin\/Dateien\/3_Downloads\/C\/Coronavirus\/BMG_Coronavirus_Handzettel_TR_barr.pdf",
+    "output": "file.pdf",
+    "downloaded": 1588599830,
+    "headers": {
+        "http-status": 200,
+        "server": "myracloud",
+        "date": "Mon, 04 May 2020 13:43:50 GMT",
+        "content-type": "application\/pdf",
+        "content-length": "139117",
+        "strict-transport-security": "max-age=31536000",
+        "last-modified": "Mon, 04 May 2020 11:30:18 GMT",
+        "cache-control": "max-age=2592000",
+        "expires": "Wed, 03 Jun 2020 12:01:15 GMT",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "*",
+        "x-cdn": "1",
+        "accept-ranges": "bytes"
+    },
+    "lang": "en,de",
+    "size": 139117,
+    "modified": 1588591818
+}

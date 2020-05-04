@@ -1,0 +1,54 @@
+1
+Covid-19 Modelling Summary Addendum (HMPPS) Accurate as of: 27.04.2020
+This paper has been drafted by HMPPS in collaboration with PHE.
+Please be aware that our understanding of the virus is continuing to evolve. Therefore, the
+modelling and guidance are subject to change based on developing evidence base.
+Our contingency planning is based upon the best scientific evidence available, which is growing
+every day. We know that:
+• Covid-19 is caused by a previously unknown virus (SARS-2-Cov), which means the global
+population has little to no immunity to infection
+• The latest understanding is that the main transmission route is respiratory via contact and
+that evidence suggests transmission is both horizontal and vertical in a closed institution
+• There are currently no clinical counter measures available to treat Covid-19 and a vaccine
+is not available. Current treatment focuses on relieving the symptoms of infection and
+supportive care while the patient’s body fights against the infection.
+Prisons are a distinct social environment from that of the community, with people interacting in
+close proximity, high population vulnerability and unique pressures. Modelling the potential impact
+of Covid-19 on prisons is a dynamic and complex task, with each prison and function having its
+own challenges, and some establishments being more vulnerable to outbreaks than others. We
+are constantly revising and improving our modelling as we learn more about the virus.
+PHE and HMPPS have made the reasonable assumption that compartmentalisation and regime
+changes have reduced contacts across HMPPS by up to 50% compared to the pre-pandemic
+regime. Further work to understand the true extent of the reduction is required and, whilst this is a
+best-case scenario estimate where compartmentalisation is implemented across the whole estate,
+individual prisons may have more or fewer levels of contact.
+The modelling is based on the following assumptions, using evidence from SAGE, PHE and NHS:
+• Fatality rate of infected cases is affected by access/ provision of local healthcare and
+SAGE assumptions.
+• Hospitalisation rate of infected uses assumes average physiological age of prisoners. This
+was updated from previous RWCS modelling due to amended NHS/PHE assumptions.
+• Incubation period of 5-7 days and infectivity 2-6 days
+• Average duration of illness 7 days.
+• Current Rₒ in the community: 1-1.5. Unmitigated Rₒ of 3.
+• Time from onset of symptoms to detection/ implementation of protective measures for
+individuals: 24 hours
+• 7 days from detection to recovery with mild illness
+2
+• 22 days from detection to recovery with severe illness
+• 1 day to detection for those who are clinically attacked
+HMPPS and PHE have incorporated parameters on the prison population due to modelling
+constraints:
+• We have assumed that the modelled interventions are operationally delivered and
+sustained over time. We are not able to comment on the deliverability, nor on the potential
+wider impacts of restrictive interventions over time.
+• Prison population is static and homogeneously mixed. Prison staff have not been
+considered.
+• Frequency dependent mixing - contact rates do not change when individuals if removed.
+• Transition times follow Erlang distribution (two E and two I compartments)
+• The probability of seeding should be drawn from to the prevalence outside the prison.
+• We would expect all prisons to be subject to a risk of infection, but we would not
+necessarily expect all prisons to enter an outbreak state. These numbers are generated
+assuming outbreaks of more than 5 cases are seen.
+• Once there is transmission within a prison, this will outweigh any risk of importing an
+infection until the epidemic has been brought under control or reached its natural end.
+

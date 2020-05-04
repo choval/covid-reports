@@ -1,0 +1,557 @@
+1
+INFORME DIÁRIO DE EVIDÊNCIAS | COVID-19 N°18
+BUSCA REALIZADA EM 28 DE ABRIL DE 2020
+APRESENTAÇÃO:
+Essa é uma produção do Departamento de Ciência e Tecnologia (Decit) da Secretaria de Ciência, Tecnologia,
+Inovação e Insumos Estratégicos em Saúde (SCTIE) do Ministério da Saúde (Decit/SCTIE/MS), que tem como
+missão promover a ciência e tecnologia e o uso de evidências científicas para a tomada de decisão do SUS,
+tendo como principal atribuição o incentivo ao desenvolvimento de pesquisas em saúde no Brasil, de modo a
+direcionar os investimentos realizados em pesquisa pelo Governo Federal às necessidades de saúde pública.
+Informar sobre as principais evidências científicas descritas na literatura
+internacional sobre tratamento farmacológico para a COVID-19. Além de resumir
+cada estudo identificado, o informe apresenta também uma avaliação da qualidade
+metodológicaeaquantidadedeartigospublicados,deacordocomasuaclassificação
+metodológica (revisões sistemáticas, ensaios clínicos randomizados, entre outros).
+FORAM ENCONTRADOS 5 ARTIGOS E 41 PROTOCOLOS
+A distribuição da frequência de publicações por classes de estudos é
+apresentada segundo a pirâmide de evidências:
+OBJETIVO:
+ACHADOS:
+2
+SUMÁRIO
+Cloroquina,hidroxicloroquina,remdesivir,favipiravir,lopinavir/ritonavir,tocilizumab,plasmaconvalescenteeimunoglobulinas.
+........3
+Revisão narrativa
+Glicirrizina................................................................................................................................................................................3
+Revisão narrativa
+Inibidores do sistema renina-angiostenina e ibuprofeno.....................................................................................................4
+Revisão narrativa
+Hidroxicloroquina, remdesivir, oseltamivir, lopinavir, ritonavir e ribavirina......................................................................5
+Revisão narrativa
+Tocilizumabe.
+............................................................................................................................................................................5
+Revisão narrativa
+Referências...............................................................................................................................................................................7
+Apêndice 1: Protocolos de Ensaios Clínicos registrados em 28/04/2020 na Base ClinicalTrials.gov ...........................................9
+Apêndice 2: Ensaios Clínicos sobre COVID-19 aprovados pela CONEp e informados em 22/04/2020....................................14
+3
+CLOROQUINA, HIDROXICLOROQUINA, REMDESIVIR,
+FAVIPIRAVIR, LOPINAVIR/RITONAVIR, TOCILIZUMAB,
+PLASMA CONVALESCENTE E IMUNOGLOBULINAS
+REVISÃO NARRATIVA \ITÁLIA
+Nessa revisão narrativa, os autores procuraram atualizar as informações disponíveis na
+literatura científica a respeito dos principais tratamentos em investigação contra a COVID-19. Foram
+incluídos na revisão artigos sobre ensaios clínicos e relatos de casos com os seguintes fármacos/
+terapias: cloroquina, hidroxicloroquina, remdesivir, favipiravir, lopinavir/ritonavir, tocilizumab, plasma
+convalescente e imunoglobulinas. Essa revisão traz ainda uma atualização sobre os ensaios clínicos
+em andamento com esses fármacos, extraídos das bases do ClinicalTrials.gov e do Chinese Clinical Trial
+Registry (até 14/04/2020). Os autores destacam que, atualmente, nenhum tratamento comprovado
+está disponível para a pandemia de COVID-19, e que, apesar do grande número de artigos publicados,
+ainda são poucos os dados de estudos mais robustos. A maioria dos trabalhos publicados são sobre
+estudos observacionais abertos, relatos e séries de casos, com baixo poder de evidência. Ressaltam
+ainda que os medicamentos testados se baseiam em suas atividades in vitro contra SARS-COV-2, ou
+em alguma experiência clínica anterior, porém, com outras doenças por outros coronavírus (SARS e
+MERS). Por fim, os autores destacam a importância da conclusão de ensaios clínicos randomizados
+mais robustos, e esperam que os primeiros resultados desses ensaios com alguns desses fármacos
+estejam disponíveis até o final de junho de 2020.1
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação de revisões narrativas. O artigo traz um bom
+resumo dos principais trabalhos já publicados acerca dos tratamentos mais
+predominantes sob investigação clínica. Os autores apresentam os resultados
+em forma de tabelas claras e bem organizadas, e o artigo apresenta ainda
+uma vasta lista de referências bibliográficas. Contudo, poucos detalhes sobre
+a metodologia das buscas e seleção dos artigos foram fornecidos. Observa-se
+que os autores só utilizaram uma base de dados para as buscas dos estudos
+(PubMed), e selecionaram textos apenas em língua inglesa, o que pode ter
+limitado os resultados dessa revisão.
+GLICIRRIZINA
+REVISÃO NARRATIVA \CHINA
+Nesta breve revisão, os autores discutem um possível tratamento da COVID-19 pela glicirrizina,
+baseado em resultados promissores in vitro para inibição de SARS-CoV. Suas funções biológicas e efeitos
+farmacológicos são regulação negativa de citocinas pró-inflamatórias, inibição do acúmulo de espécies
+reativas de oxigênio, inibição seletiva da trombina, capacidade de reduzir a hiperprodução de exsudatos
+das vias aéreas, produção endógena de interferon, o que auxilia na inibição viral e, baseado em ensaios
+e modelagem in silico, tem a capacidade de interagir com a ECA2, inibindo a entrada do SARS-CoV-2.
+4
+Baseados nessas informações, os autores recomendam que glicirrizina e seus derivados sejam testados
+como proposta terapêutica para a COVID-19. Chamam a atenção, contudo, sobre os efeitos colaterais do
+uso deste medicamento em idosos, pacientes com doenças cardíacas e hipertensos.2
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação de revisões narrativas. Apesar de os autores
+defenderem o uso da glicirrizina, baseiam seus achados em estudos in vitro
+com SARS-CoV e modelagem in silico, sendo necessário o desenvolvimento de
+estudos clínicos para averiguar a eficácia da droga na COVID-19.
+INIBIDORES DO SISTEMA RENINA-ANGIOSTENINA E
+IBUPROFENO
+REVISÃO NARRATIVA \HOLANDA
+O artigo discorre sobre a utilização de inibidores do sistema renina-angiostenina e ibuprofeno
+em casos de dor de cabeça e enxaqueca em acometidos por COVID-19. A questão levantada é que
+esses medicamentos induzem a expressão da enzima conversora da angiostenina 2 (ECA2), molécula
+que supostamente facilita a entrada de SARS-CoV-2 nas células humanas. Por esta razão, há intensa
+discussão na literatura científica se os medicamentos devem ser continuados em acometidos por
+COVID-19. Os autores argumentam que não há evidências suficientes indicando que o aumento
+da regulação de ECA2 realmente facilita a entrada do vírus nas células, especialmente em doses
+moderadas de inibidores. Além disso, sustentam que a suspensão de bloqueadores do sistema renina-
+angiostenina representa riscos cardiovasculares para pacientes com enxaqueca similares aos riscos
+para pacientes hipertensivos. Esse mesmo entendimento se estende ao uso de ibuprofeno, pois os
+autores afirmam haver pouca evidência sobre a relação do medicamento e aumento de infecção
+por SARS-CoV-2. Contudo, de maneira prudente, recomendam o uso de acetaminofeno como
+primeira opção de analgésico. Neste contexto, os autores afirmam não haver razões para alteração na
+prescrição dos fármacos e que esta posição é apoiada por diversas sociedades médicas e Organização
+Mundial de Saúde.3
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação metodológica de revisões narrativas.
+Neste artigo, os autores fazem um revisão resumida dos achados científicos.
+Parece não haver um critério claro para inclusão de estudos sobre o tema e
+potencialmente outras evidências científicas não foram contempladas.
+5
+HIDROXICLOROQUINA, REMDESIVIR, OSELTAMIVIR,
+LOPINAVIR, RITONAVIR E RIBAVIRINA
+REVISÃO NARRATIVA \ÍNDIA
+O estudo informa que na Índia, vários medicamentos têm sido reposicionados para tratamento da
+COVID-19 (uso off-label ou investigacional). Alguns deles aparentemente têm sido eficazes, uma vez que
+a taxa de mortalidade na Índia é baixa (0,02 mortes / 1 milhão de pessoas) em comparação com a Itália
+(178 mortes / 1 milhão de pessoas). O autor menciona que as principais drogas para uso off-label são
+hidroxicloroquina, remdesivir, oseltamivir, lopinavir, ritonavir e ribavirin. Também são mencionados o
+mecanismodeaçãodeoutrosmedicamentos,comoateicoplanina,oritavancin,dalbavancin,telavancin,
+azitromicina + hidroxicloroquina, favipiravir, baricitinibe, clorpromazina, nitazoxanida, hidroxicloroquina
++ nitazoxanida, tocilizumabe e vitamina C. Estes tratamentos são enfatizados por suas atividades in vitro
+e in vivo, conforme resultados de alguns estudos já realizados. O autor conclui que, apesar dos efeitos
+adversos, o uso de medicações off-label deve ser explorado para poupar vidas dos indivíduos afetados.
+Todos os medicamentos incluídos no artigo são apontados pelo autor como candidatos em potencial
+para tratar pacientes da COVID 19, se dados in vivo demonstrarem sua eficácia, e recomenda que os
+dados preliminares in vitro devem ser reavaliados, além de recomendar mais estudos clínicos.4
+QUALIDADE
+METODOLÓGICA
+Não há ferramentas para avaliação metodológica de revisões narrativas. Neste
+artigo, o autor explora a hipótese de que a baixa letalidade da COVID-19 na
+Índia se deve ao emprego de tratamentos off-label, e evidências são reunidas
+para validar essa hipótese. Não foram explorados os efeitos adversos das
+terapias mencionadas no artigo, apenas seu mecanismo de ação, que por vezes
+foi descrito em comparação com outros coronavírus ou outras doenças virais,
+não necessariamente contra SARS-CoV-2.
+TOCILIZUMABE
+REVISÃO NARRATIVA \CHINA
+A tempestade de citocinas é uma das principais causas para o agravamento da COVID-19 e a
+interleucina-6 (IL-6) é uma das principais citocinas envolvidas. Tocilizumabe, antagonista do receptor
+de IL-6, vem sendo apontado como um dos possíveis tratamentos para a COVID-19. O tratamento
+com tocilizumabe foi avaliado em um estudo com 14 pacientes diagnosticados com COVID-19. Nove
+pacientes se apresentavam em estado grave e outros dois em estado crítico. Além disso, todos os
+14 pacientes apresentavam lesões difusas nos pulmões e 11 tinham febre persistente. Com o início
+do tratamento, a temperatura corporal dos 11 pacientes voltou ao normal dentro de 24 horas. A
+tomografia computadorizada mostrou melhora das lesões pulmonares em 4 pacientes. Além disso,
+a função respiratória e o índice de oxigenação foram aprimorados em diferentes graus em todos os
+pacientes. Um pequeno estudo clínico em dois hospitais chineses com 20 pacientes com COVID-19
+graveoucríticativeramtocilizumabeadicionadoàterapiaderotina.Empoucosdias,febre,insuficiência
+6
+respiratória e lesões pulmonares melhoraram consideravelmente na maioria dos pacientes. Dezenove
+pacientes receberam alta em média 13,5 dias após o início do tratamento com tocilizumabe. Neste
+estudo, não foi observado efeitos adversos. Apesar desses resultados, vários efeitos adversos (risco de
+infecção grave, neutropenia, trombocitopenia e danos hepáticos) são relatados em estudos clínicos
+controlados e randomizados para outras enfermidades. Faz-se necessário monitoramento desses
+efeitos durante a terapia com tocilizumabe em pacientes com COVID-19.5
+QUALIDADE
+METODOLÓGICA
+Não existe ferramenta para avaliação da qualidade metodológica de
+revisões narrativas. Os autores não demonstram como os artigos foram
+selecionados, no entanto, percebe-se que uma ampla pesquisa foi realizada
+e as referências utilizadas foram bem detalhadas. Além disso, os autores
+abordam de maneira imparcial os pontos fortes e os pontos fracos da
+terapia com tocilizumabe.
+7
+REFERÊNCIAS
+1. Esposito S, Noviello S, Pagliano P. Update on treatment of COVID-19: ongoing studies between
+promising and disappointing results. Le Infezioni in Medicina, n. 2, 198-211, 2020
+2. LuoLiuP,LiJ.Pharmacologicperspective:glycyrrhizinmaybeanefficacioustherapeuticagentfor
+COVID-19. Int J Antimicrob Agents. 2020 Apr 23:105995. doi: 10.1016/j.ijantimicag.2020.105995
+3. MaassenVanDenBrink A, Vries T De, Danser AHJD. Headache medication and the COVID-19
+pandemic. J Headache Pain. 2020;21(38):1–4. Availabel in doi.org/10.1186/s10194-020-01106-5
+4. Pawar A Y. Combating Devastating COVID -19 by Drug Repurposing. International
+Journal of Antimicrobial Agents, m5G;April 20, 2020;17:13. https://doi.org/10.1016/j.
+ijantimicag.2020.105984
+5. Zhang S, Li L, Shen A, Chen Y, Qi Z. Rational Use of Tocilizumab in the Treatment of Novel
+Coronavirus Pneumonia. Clinical Drug Investigation. Apr 2020. Doi: https://doi.org/10.1007/
+s40261-020-00917-3
+6. Brasil. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de Ética em
+Pesquisa. Boletim Ética em Pesquisa – Edição Especial Coronavírus (Covid-19). CONEP/CNS/MS.
+2020, 1:página 1-página 21
+ESTRATÉGIA DE BUSCA:
+8
+CITAÇÃO
+BRASIL. Departamento de Ciência e Tecnologia. Secretaria de Ciência, Tecnologia, Inovação e Insumos
+Estratégicos em Saúde. Ministério da Saúde. Informe Diário de Evidências – COVID-19 (29 de abril
+de 2020). 2020.
+ORGANIZADORES
+Equipe técnica: 		Cecilia Menezes Farinasso; Douglas de Almeida Rocha; Felipe Nunes Bonifácio; Gabriel
+Antônio Rezende de Paula; Glícia Pinheiro Bezerra; Junia Carolina Rebelo Dos Santos
+Silva; Leonardo Ferreira Machado; Livia Carla Vinhal Frutuoso.
+Coordenadora de Evidências e Informações Estratégicas em Gestão em Saúde: Daniela Fortunato Rego.
+Diretora de Ciência e Tecnologia: Camile Giaretta Sachetti.
+9
+Apêndice 1: Protocolos de ensaios clínicos registrados em 28/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+1 NCT04363866/ EUA Antimalárico Hidroxicloroquina Placebo Ainda não recrutando 27/04/2020 Oregon Health and
+Science University;
+OHSU Knight Cancer
+Institute
+2 NCT04364022/ Suíça Antimalárico; Antivirais Hidroxicloroquina Lopinavir/ritonavir Recrutando 27/04/2020 Calmy Alexandra;
+University Hospital,
+Geneva
+3 NCT04364815/ Filipinas Antimalárico Hidroxicloroquina Placebo Ainda não recrutando 28/04/2020 University of the
+Philippines
+4 NCT04363203/ EUA Antimalárico;
+Antibióticos sistêmicos
+simples
+Hidroxicloroquina Azitromicina Ainda não recrutando 27/04/2020 Salomeh Keyhani
+MD; San Francisco VA
+Health Care System
+5 NCT04365231/ França Antimalárico;
+Antibióticos sistêmicos
+simples
+Hidroxicloroquina +
+azitromicina (somente
+grávidas)
+Tratamento padrão Ainda não recrutando 28/04/2020 Hospital St. Joseph,
+Marseille, France
+6 NCT04363060/ França Antibióticos sistêmicos
+simples
+Azitromicina + Amoxicilina/
+Clavulanato
+Amoxicilina/
+Clavulanato
+Ainda não recrutando 27/04/2020 Nantes University
+Hospital
+7 NCT04363827/ Itália Antimalárico Hidroxicloroquina Sem intervenção Ainda não recrutando 27/04/2020 Istituto Scientifico
+Romagnolo per lo
+Studio e la cura dei
+Tumori; University of
+Bologna
+8 NCT04363450/ EUA Antimalárico Hidroxicloroquina como
+profilaxia
+Placebo Ainda não recrutando 27/04/2020 Louisiana State
+University Health
+Sciences Center in
+New Orleans; Lafayette
+General Medical
+Center; University of
+Louisiana Lafayette
+10
+Apêndice 1: Protocolos de ensaios clínicos registrados em 28/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+9 NCT04365582/ França Antimalárico;
+Antibióticos sistêmicos
+simples; Antivirais
+Azitromicina;
+Hidroxicloroquina;
+Lopinavir/Ritonavir
+Tratamento padrão Ainda não recrutando 28/04/2020 Groupe Hospitalier
+Paris Saint Joseph
+10 NCT04363346/ EUA Terapia celular FT516 em escalonamento
+de dose
+Sem comparador Ainda não recrutando 27/04/2020 Masonic Cancer Center,
+University of Minnesota
+11 NCT04365257/ EUA Anti-hipertensivo Prazosin Tratamento padrão Ainda não recrutando 28/04/2020 Johns Hopkins
+University; Fast Grants
+12 NCT04363372/ Reino
+Unido
+Imunomodulador MRx-4DP0004 Placebo Ainda não recrutando 27/04/2020 4D pharma plc
+13 NCT04362813/ País
+não declarado
+Imunomodulador Canakinumab (inibidor de
+IL-1beta)
+Placebo Ainda não recrutando 27/04/2020 Novartis
+Pharmaceuticals;
+Novartis
+14 NCT04365699/ EUA Medicamentos para
+cardiomiopatia
+AT-001 Sem comparador Recrutando 28/04/2020 NYU Langone Health
+15 NCT04366115/ EUA Antineoplásico AVM0703 + Hidrocortisona Placebo +
+hidrocortisona
+Ainda não recrutando 28/04/2020 AVM Biotechnology
+LLC; Medpace, Inc.
+16 NCT04366050/ EUA Anti-hipertensivo Ramipril Placebo Ainda não recrutando 28/04/2020 University of California,
+San Diego; Pfizer
+17 NCT04363216/ EUA Nutriente Ácido ascórbico Tratamento padrão Ainda não recrutando 27/04/2020 Thomas Jefferson
+University
+18 NCT04363814/
+Espanha
+Produto biológico BACTEK-R (preparação
+bacteriana que contém uma
+mistura de bactérias Gram +
+e Gram- inativadas)
+Tratamento padrão Ainda não recrutando 27/04/2020 Inmunotek S.L.;
+BioClever 2005 S.L.
+19 NCT04366245/
+Espanha
+Imunoterapia Plasma hiperimune Hidroxicloroquina
++ Azitromicina;
+Lopinavir/ritonavir
++ Interferon β-1b +
+Hidroxicloroquina
+Recrutando 28/04/2020 Andalusian Network for
+Design and Translation
+of Advanced Therapies
+11
+Apêndice 1: Protocolos de ensaios clínicos registrados em 28/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+20 NCT04365127/ EUA Terapia hormonal Progesterona Tratamento padrão Recrutando 28/04/2020 Sara Ghandehari; IBSA
+Institut Biochimique AS;
+Cedars-Sinai Medical
+Center
+21 NCT04366180/
+Espanha
+Suplemento de dieta Probióticos Placebo Recrutando 28/04/2020 Biosearch S.A.
+22 NCT04363736/ Suíça Imunomodulador Tocilizumabe em
+escalonamento de doses
+Sem comparador Ainda não recrutando 27/04/2020 Hoffmann-La Roche
+23 NCT04363853/ México Imunomodulador Tocilizumabe Sem comparador Recrutando 27/04/2020 Instituto Nacional
+de Cancerologia de
+Mexico; Roche Pharma
+AG
+24 NCT04366232/ França Antirreumático Anakinra sozinho ou
+Anakinra + Ruxolitinib
+Tratamento padrão Ainda não recrutando 28/04/2020 Centre Hospitalier
+Intercommunal de
+Toulon La Seyne
+sur Mer; Hospital
+d'instruction des
+arm√©es Sainte-Anne;
+Assistance Publique
+Hopitaux De Marseille
+25 NCT04364763 Medicamento para
+doença renal crônica
+Stannous protoporphyrin
+(90mg)
+Placebo Ainda não recrutando 28/04/2020 Renibus Therapuetics,
+Inc.
+26 NCT04366323/
+Espanha
+Terapia celular Células-tronco
+mesenquimais derivadas do
+tecido adiposo
+Sem comparador Ainda não recrutando 28/04/2020 Andalusian Network for
+Design and Translation
+of Advanced Therapies
+12
+Apêndice 1: Protocolos de ensaios clínicos registrados em 28/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+27 NCT04364893/ Brasil Anti-hipertensivo Manutenção de
+bloqueadores dos
+receptores da angiotensina
+e inibidores da enzima de
+conversão da angiotensina
+Suspenção de
+bloqueadores
+dos receptores
+da angiotensina e
+inibidores da enzima
+de conversão da
+angiotensina
+Recrutando 28/04/2020 D'Or Institute for
+Research and
+Education; Brazilian
+Clinical Research
+Institute
+28 NCT04365153/ EUA Imunomodulador Canakinumab Placebo Recrutando 28/04/2020 The Cleveland Clinic
+29 NCT04366063/ Irã Terapia celular Células-Tronco
+Mesenquimais (MSC)
+Tratamento padrão Recrutando 28/04/2020 Royan Institute; Tehran
+University of Medical
+Sciences; Shahid
+Beheshti University of
+Medical Sciences
+30 NCT04364737/ EUA Imunoterapia Plasma convalescente Placebo Recrutando 28/04/2020 Albert Einstein College
+of Medicine; New York
+University
+31 NCT04364009/ França Antirreumático Anakinra Tratamento padrão Ainda não recrutando 27/04/2020 University Hospital,
+Tours; INSERM CIC-P
+1415, University
+Hospital Center of
+Tours; Swedish Orphan
+Biovitrum (SOBI)
+32 NCT04365517/ Itália Antidiabético Sitagliptin Tratamento padrão Ainda não recrutando 28/04/2020 University of Milan
+33 NCT04365985/ EUA Antagonista de
+receptor opióide;
+Antagonistas dos
+receptores NMDA
+Naltrexone; Ketamine Placebo Ainda não recrutando 28/04/2020 William Beaumont
+Hospitals
+13
+Apêndice 1: Protocolos de ensaios clínicos registrados em 28/04/2020 na base ClinicalTrials.gov.
+Nº Nº DE REGISTRO/PAÍS CLASSE TERAPÊUTICA INTERVENÇÃO(GRUPOS) CONTROLE STATUS
+DATA DE
+REGISTRO
+FINANCIAMENTO
+34 NCT04366089/ Itália Terapia adjuvante Terapia com oxigênio-
+ozônio; suplementação
+com probióticos;
+Hidroxicloroquina +
+Azitromicina
+Hidroxicloroquina +
+Azitromicina
+Recrutando 28/04/2020 Roberto Poscia MD,
+PhD; Azienda Policlinico
+Umberto I
+35 NCT04366271/
+Espanha
+Terapia celular Células mesenquimais Tratamento padrão Ainda não recrutando 28/04/2020 Hospital Infantil
+Universitario Ni√±o
+Jes√∫s, Madrid, Spain;
+Apices Soluciones S.L.
+36 NCT04365101/ EUA Terapia celular CYNK-001 (células CD56
++ / CD3- NK expandidas a
+partir de células CD34 + da
+placenta humana)
+Tratamento padrão Ainda não recrutando 28/04/2020 Celularity Incorporated;
+IDRI; Lung
+Biotechnology PBC
+37 NCT04365439/ Itália Imunoterapia Plasma convalescente Sem comparador Ainda não recrutando 28/04/2020 Enos Bernasconi; Ente
+Ospedaliero Cantonale,
+Bellinzona
+38 NCT04363437/ EUA Antigotoso Colchicina Tratamento padrão Recrutando 27/04/2020 Maimonides Medical
+Center
+39 NCT04365309/ China Antiagregante
+plaquetário
+Aspirina 100mg Tratamento padrão Inscrição por convite 28/04/2020 Xijing Hospital
+40 NCT04363840/ EUA Antiagregante
+plaquetário;
+Suplemento de dieta
+Aspirina + Vitamina D Aspirina Ainda não recrutando 27/04/2020 Louisiana State
+University Health
+Sciences Center in New
+Orleans
+41 NCT04363502/ EUA Imunomodulador Clazakizumab Placebo Ainda não recrutando 27/04/2020 Johns Hopkins
+University
+14
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+1 22/03/2020 Avaliação da segurança e eficácia clínica da hidroxicloroquina associada à azitromicina em
+pacientes com pneumonia causada por infecção pelo vírus SARS-CoV-2. Aliança COVID-19
+Brasil II: pacientes graves
+Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+2 23/03/2020 Estudo de fase IIB para avaliar eficácia e segurança do difosfato de cloroquina no tratamento
+de pacientes hospitalizados com síndrome respiratória grave no âmbito do novo Coronavírus
+(SARS-Cov-2): um ensaio clínico, duplo-cego, randomizado
+Diretoria de Ensino e Pesquisa – DENPE
+3 25/03/2020 Estudo aberto, controlado, de uso de hidroxicloroquina e azitromicina para prevenção de
+complicações em pacientes com infecção pelo novo coronavírus (COVID-19): um estudo
+randomizado e controlado
+Associação Beneficente Síria
+4 26/03/2020 Um estudo internacional randomizado de tratamentos adicionais para a COVID-19 em
+pacientes hospitalizados recebendo o padrão local de tratamento. Estudo Solidarity
+Instituto Nacional De Infectologia Evandro Chagas –
+INI /FIOCRUZ
+5 01/04/2020 Avaliação de protocolo de tratamento COVID-19 com associação de cloroquina/
+hidroxicloroquina e azitromicina para pacientes com pneumonia
+Hospital São José de Doenças Infecciosas – HSJ /
+Secretaria de Saúde Fortaleza
+6 01/04/2020 Desenvolvimento de vacina para SARS-CoV-2 utilizando VLPs Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+7 03/04/2020 Aliança COVID-19 Brasil III: Casos Graves – Corticoide Associação Beneficente Síria
+8 03/04/2020 Estudo clínico fase I com células mesenquimais para o tratamento de COVID-19 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+9 03/04/2020 Protocolo de utilização de hidroxicloroquina associado a azitromicina para pacientes com
+infecção confirmada por SARS-CoV-2 e doença pulmonar (COVID-19)
+Hospital Brigadeiro UGA V-SP
+10 04/04/2020 Ensaio clínico randomizado para o tratamento de casos moderados a graves da doença causada
+pelo novo Coronavírus-2019 (COVID-19) com cloroquina e colchicina
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+15
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+11 04/04/2020 Ensaio clínico pragmático controlado randomizado multicêntrico da eficácia de dez dias de
+cloroquina no tratamento da pneumonia causada por SARS-CoV-2
+CEPETI – Centro de Estudos e de Pesquisa em
+Terapia Intensiva
+12 04/04/2020 Plasma convalescente como alternativa terapêutica para o tratamento de SARS-CoV-2 Sociedade Benef. Israelita Bras. – Hospital Albert
+Einstein
+13 04/04/2020 Ensaio clínico utilizando N-acetilcisteína para o tratamento de síndrome respiratória aguda
+grave em pacientes com COVID-19
+Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo
+14 04/04/2020 Suspensão dos bloqueadores do receptor de angiotensina e inbidores da enzima conversora da
+angiotensina e desfechos adversos em pacientes hospitalizados com infecção por coronavírus
+(SARS-CoV-2) – Brace Corona Trial
+Instituto D'or de Pesquisa e Ensino
+15 04/04/2020 Estudo clínico randomizado, pragmático, aberto, avaliando Hidroxicloroquina para prevenção
+de hospitalização e complicações respiratórias em pacientes ambulatoriais com diagnóstico
+confirmado ou presuntivo de infecção pelo (COVID-19) – Coalizão COVID-19 Brasil V – pacientes
+não hospitalizados
+Hospital Alemão Oswaldo Cruz
+16 05/04/2020 Ensaio clínico randomizado, duplo-cego e controlado por placebo para avaliar eficácia e
+segurança da hidroxicloroquina e azitromicina versus placebo na negativação da carga viral
+de participantes com síndrome gripal causada pelo SARS-CoV-2 e que não apresentam
+indicação de hospitalização
+Hospital Santa Paula (Sp)
+17 08/04/2020 Efetividadede um protocolo de testagem baseado em RT-PCR e sorologia para SARS-CoV-2
+sobre a preservação da força de trabalho em saúde, durante a pandemia COVID-19 no Brasil:
+ensaio clínico randomizado, de grupos paralelos
+Empresa Brasileira de Servicos Hospitalares –
+EBSERH
+18 08/04/2020 Estudo prospectivo, não randomizado, intervencional, consecutivo, da combinação de
+hidroxicloroquina e azitromicina em pacientes sintomáticos graves com a doença COVID-19
+Hospital Guilherme Alvaro – Santos – SP
+16
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+19 08/04/2020 Estudo clínico de conceito, aberto, monocêntrico, não randomizado, para avaliação da eficácia
+e segurança da administração oral de hidroxicloroquina em associação à azitromicina, no
+tratamento da doença respiratória aguda (COVID-19) causada pelo vírus SARS-CoV-2
+Prevent Senior Private Operadora de Saude LTDA
+20 08/04/2020 Estudo de fase IIb para avaliar eficácia e segurança do difosfato de cloroquina no tratamento de
+pacientes com comorbidades, sem síndrome respiratória grave, no âmbito do novo coronavírus
+(SARS-CoV-2): um ensaio clínico, duplo-cego, randomizado, controlado com placebo
+Diretoria de Ensino e Pesquisa – DENPE
+21 11/04/2020 Uso de plasma de doador convalescente para tratar pacientes com infecção grave pelo
+SARS-CoV-2 (COVID-19)
+Hospital das Clínicas da Faculdade de Medicina de
+Ribeirão Preto da USP – HCFMRP
+22 14/04/2020 Efeitos da terapia com nitazoxanida em pacientes com pneumonia grave induzida por SARS-CoV-2 Universidade Federal do Rio De Janeiro – UFRJ
+23 14/04/2020 Ensaio clínico de prova de conceito, multicêntrico, paralelo, randomizado e duplo-cego para
+avaliação da segurança e eficácia da nitazoxanida 600 mg em relação ao placebo no tratamento de
+participantes da pesquisa com COVID-19 hospitalizados em estado não crítico
+Hospital Vera Cruz S. A.
+24 14/04/2020 Novo esquema terapêutico para falência respiratória aguda associada a pneumonia em indivíduos
+infectados pelo SARS-CoV-2
+Universidade Federal do Rio de Janeiro – UFRJ
+25 17/04/2020 Uso de plasma convalescente submetido à inativação de patógenos para o tratamento de pacientes
+com COVID-19 grave
+Instituto Estadual de Hematologia Arthur Siqueira
+Cavalcanti- HEMORIO
+26 17/04/2020 Plasma convalescente como alternativa de tratamento de casos graves de SARS-CoV-2 UNIDADE DE HEMOTERAPIA E HEMATOLOGIA
+SAMARITANO LTDA
+27 17/04/2020 Hidroxicloroquina e Lopinavir/ Ritonavir para melhorar a saúde das pessoas com COVID-19 Pontifícia Universidade Católica de Minas Gerais-
+PUCMG
+17
+Apêndice 2: Ensaios clínicos sobre COVID-19 aprovados pela Comissão Nacional de Ética em Pesquisa (CONEp) e informados em 22/04/2020.
+Nº DATA TÍTULO INSTITUIÇÃO
+28 18/04/2020 Estudo de fase IIb para avaliar eficácia e segurança de succinato sódico de metilprednisolona
+injetável no tratamento de pacientes com sinais de síndrome respiratória aguda grave, no
+âmbito do novo coronavírus (SARS-CoV2): um ensaio clínico, duplo-cego, randomizado,
+controlado com placebo
+Diretoria de Ensino e Pesquisa- DENPE
+29 18/04/2020 Estudo clínico de eficácia e segurança da inibição farmacológica de bradicinina para o
+tratamento de COVID-19
+Faculdade de Ciências Medicas- UNICAMP
+30 21/04/20 Avaliação do uso terapêutico da hidroxicloroquina em pacientes acometidos pela forma leve da
+COVID-19: ensaio clínico randomizado
+Fundação de Saúde Comunitária de Sinop
+Atualizações constantes sobre os ensaios clínicos aprovados pela CONEp podem ser encontradas no endereço acessado pelo código ao lado.
+
